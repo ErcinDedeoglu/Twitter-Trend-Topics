@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-03 07:16:10 UTC`
+📆 Last Updated: `2023-03-03 08:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
+| 2 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
 | 3 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 4 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 5 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 5 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 6 | [dawon](http://twitter.com/search?q=dawon) | N/A |
 | 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 8 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 9 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 8 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
 | 10 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 11 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 12 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 13 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 14 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 15 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 16 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 17 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 18 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 20 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 21 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 11 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 12 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
+| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 16 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 17 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 18 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 19 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 20 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 21 | [Buster](http://twitter.com/search?q=Buster) | N/A |
 | 22 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 23 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 24 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 25 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 26 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 27 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 28 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
-| 29 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 30 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 31 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 32 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
-| 33 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 34 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 35 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 36 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 37 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 38 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 39 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 40 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 41 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 42 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 43 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 44 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 45 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
-| 46 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 47 | [Hepburn](http://twitter.com/search?q=Hepburn) | N/A |
-| 48 | [Kierra](http://twitter.com/search?q=Kierra) | N/A |
+| 23 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 24 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 25 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 26 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
+| 27 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 28 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 29 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 30 | [Edelgard](http://twitter.com/search?q=Edelgard) | N/A |
+| 31 | [Inside the NBA](http://twitter.com/search?q=Inside+the+NBA) | N/A |
+| 32 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 33 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 34 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 35 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 36 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 37 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 38 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 39 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 40 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 41 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 42 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 43 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
+| 44 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 45 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 46 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 47 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 48 | [Zero Mission](http://twitter.com/search?q=Zero+Mission) | N/A |
 
 
 

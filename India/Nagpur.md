@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-03 07:16:06 UTC`
+📆 Last Updated: `2023-03-03 08:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BGT2023](http://twitter.com/search?q=%23BGT2023) | N/A |
-| 2 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 3 | [#ETRenewableEnergy](http://twitter.com/search?q=%23ETRenewableEnergy) | N/A |
-| 4 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 2 | [#1947AUGUST16](http://twitter.com/search?q=%231947AUGUST16) | N/A |
+| 3 | [#SubahKoSongOutNow](http://twitter.com/search?q=%23SubahKoSongOutNow) | N/A |
+| 4 | [#ETRenewableEnergy](http://twitter.com/search?q=%23ETRenewableEnergy) | N/A |
 | 5 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
-| 6 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 7 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 8 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 9 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
-| 10 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 6 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 7 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 8 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 9 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 10 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
 | 11 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 12 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 13 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
-| 14 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
-| 15 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 12 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 13 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 14 | [Quad](http://twitter.com/search?q=Quad) | N/A |
+| 15 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
 | 16 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
-| 17 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 18 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 19 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
-| 20 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
-| 21 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 22 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 23 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 17 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
+| 18 | [जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
+| 19 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 20 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 21 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
+| 22 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 24 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 25 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 26 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 27 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 28 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
-| 29 | [#JhopexJcole](http://twitter.com/search?q=%23JhopexJcole) | N/A |
-| 30 | [#AnuradhaPaudwal](http://twitter.com/search?q=%23AnuradhaPaudwal) | N/A |
-| 31 | [#ILoveManishSisodia](http://twitter.com/search?q=%23ILoveManishSisodia) | N/A |
-| 32 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 33 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
-| 34 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
-| 35 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
-| 36 | [#LockUppWithKaran](http://twitter.com/search?q=%23LockUppWithKaran) | N/A |
-| 37 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 25 | [#ILoveManishSisodia](http://twitter.com/search?q=%23ILoveManishSisodia) | N/A |
+| 26 | [#AnuradhaPaudwal](http://twitter.com/search?q=%23AnuradhaPaudwal) | N/A |
+| 27 | [#LockUppWithKaran](http://twitter.com/search?q=%23LockUppWithKaran) | N/A |
+| 28 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 29 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
+| 30 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
+| 31 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 32 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
+| 33 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
+| 34 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 36 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
+| 37 | [#APGlobalInvestorsSummit](http://twitter.com/search?q=%23APGlobalInvestorsSummit) | N/A |
 | 38 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 39 | [#दीपक_चरसिया](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95_%e0%a4%9a%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 40 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 41 | [#APGlobalInvestorsSummit](http://twitter.com/search?q=%23APGlobalInvestorsSummit) | N/A |
-| 42 | [#विश्व_वन्यजीव_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%9c%e0%a5%80%e0%a4%b5_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 43 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
-| 44 | [#WWD2023](http://twitter.com/search?q=%23WWD2023) | N/A |
-| 45 | [#FatherDaughterTalk](http://twitter.com/search?q=%23FatherDaughterTalk) | N/A |
-| 46 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
-| 47 | [#SandeepReddyVanga](http://twitter.com/search?q=%23SandeepReddyVanga) | N/A |
-| 48 | [#Mannat](http://twitter.com/search?q=%23Mannat) | N/A |
-| 49 | [#Quad](http://twitter.com/search?q=%23Quad) | N/A |
+| 39 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
+| 40 | [#AndhraPradesh](http://twitter.com/search?q=%23AndhraPradesh) | N/A |
+| 41 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 42 | [#BihariMajdoor](http://twitter.com/search?q=%23BihariMajdoor) | N/A |
+| 43 | [#WWD2023](http://twitter.com/search?q=%23WWD2023) | N/A |
+| 44 | [#ShankarMahadevan](http://twitter.com/search?q=%23ShankarMahadevan) | N/A |
+| 45 | [#DeepikaPadukone](http://twitter.com/search?q=%23DeepikaPadukone) | N/A |
+| 46 | [#Mannat](http://twitter.com/search?q=%23Mannat) | N/A |
+| 47 | [#विश्व_वन्यजीव_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%9c%e0%a5%80%e0%a4%b5_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 48 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
+| 49 | [#RaisinaDialogue2023](http://twitter.com/search?q=%23RaisinaDialogue2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-03 07:16:25 UTC`
+📆 Last Updated: `2023-03-03 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for Qatar
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الظفعه_فيصل_عبدون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b8%d9%81%d8%b9%d9%87_%d9%81%d9%8a%d8%b5%d9%84_%d8%b9%d8%a8%d8%af%d9%88%d9%86) | N/A |
-| 2 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 3 | [#الدحيل_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 4 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 5 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 6 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 7 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 1 | [#صل_عب](http://twitter.com/search?q=%23%d8%b5%d9%84_%d8%b9%d8%a8) | N/A |
+| 2 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 3 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 4 | [#الدحيل_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 5 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
+| 6 | [#حمد_عبدالحكيم_العبدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ad%d9%83%d9%8a%d9%85_%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 7 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 8 | [التقدم التكنولوجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a) | N/A |
 | 9 | [الموتمر الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 10 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 10 | [#اصاله_في_قطر](http://twitter.com/search?q=%23%d8%a7%d8%b5%d8%a7%d9%84%d9%87_%d9%81%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
 | 11 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
 | 12 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 13 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 14 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 15 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 16 | [البحر الابيض المتوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 14 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 15 | [البحر الابيض المتوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 16 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
 | 17 | [المشروبات الغازيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ba%d8%a7%d8%b2%d9%8a%d9%87) | N/A |
 | 18 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 19 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
@@ -39,9 +39,9 @@ This is top 50 for Qatar
 | 22 | [التميز العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
 | 23 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 24 | [الخميس الونيس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | N/A |
-| 25 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 26 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 28 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 29 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
 | 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |

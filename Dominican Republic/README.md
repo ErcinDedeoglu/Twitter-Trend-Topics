@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-03 07:16:21 UTC`
+📆 Last Updated: `2023-03-03 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Dominican Republic
 | 1 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 2 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 3 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 4 | [#turismorecordrd](http://twitter.com/search?q=%23turismorecordrd) | N/A |
-| 5 | [Brugal](http://twitter.com/search?q=Brugal) | N/A |
-| 6 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
+| 4 | [#jhope](http://twitter.com/search?q=%23jhope) | N/A |
+| 5 | [#turismorecordrd](http://twitter.com/search?q=%23turismorecordrd) | N/A |
+| 6 | [brugal](http://twitter.com/search?q=brugal) | N/A |
 | 7 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 8 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 9 | [PLD y PRD](http://twitter.com/search?q=PLD+y+PRD) | N/A |
+| 9 | [pld y prd](http://twitter.com/search?q=pld+y+prd) | N/A |
 | 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 11 | [primero tú](http://twitter.com/search?q=primero+t%c3%ba) | N/A |
-| 12 | [Patricia Peynado](http://twitter.com/search?q=Patricia+Peynado) | N/A |
+| 12 | [patricia peynado](http://twitter.com/search?q=patricia+peynado) | N/A |
 | 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 14 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 15 | [julio sabala](http://twitter.com/search?q=julio+sabala) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for Dominican Republic
 | 24 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
 | 25 | [Ivan Ruiz](http://twitter.com/search?q=Ivan+Ruiz) | N/A |
 | 26 | [pamela sued](http://twitter.com/search?q=pamela+sued) | N/A |
-| 27 | [La Altagracia](http://twitter.com/search?q=La+Altagracia) | N/A |
-| 28 | [María Auxiliadora](http://twitter.com/search?q=Mar%c3%ada+Auxiliadora) | N/A |
+| 27 | [la altagracia](http://twitter.com/search?q=la+altagracia) | N/A |
+| 28 | [maría auxiliadora](http://twitter.com/search?q=mar%c3%ada+auxiliadora) | N/A |
 | 29 | [Pacto](http://twitter.com/search?q=Pacto) | N/A |
 | 30 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 31 | [gregory soto](http://twitter.com/search?q=gregory+soto) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Dominican Republic
 | 36 | [Preso](http://twitter.com/search?q=Preso) | N/A |
 | 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 38 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 39 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 39 | [foke](http://twitter.com/search?q=foke) | N/A |
 | 40 | [valle nuevo](http://twitter.com/search?q=valle+nuevo) | N/A |
 | 41 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
 | 42 | [colegio médico](http://twitter.com/search?q=colegio+m%c3%a9dico) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-03 07:15:45 UTC`
+📆 Last Updated: `2023-03-03 08:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 7 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 8 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 5 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 7 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 9 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
 | 10 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 11 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 13 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
-| 14 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 15 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 16 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 17 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 12 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 13 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 15 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 18 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 19 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 20 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 21 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 22 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
-| 23 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 21 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 22 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 23 | [Marion](http://twitter.com/search?q=Marion) | N/A |
 | 24 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 25 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 26 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 28 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 29 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 30 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 31 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 32 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 33 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 34 | [Guten Morgen Claudi](http://twitter.com/search?q=Guten+Morgen+Claudi) | N/A |
-| 35 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 36 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
-| 37 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
-| 38 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 25 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 26 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
+| 27 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 28 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 29 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 30 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 31 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 32 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 33 | [Guten Morgen Karin](http://twitter.com/search?q=Guten+Morgen+Karin) | N/A |
+| 34 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 35 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 36 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 37 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 38 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
 | 39 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 40 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
-| 41 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
-| 42 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 43 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 44 | [Guten Morgen Markus](http://twitter.com/search?q=Guten+Morgen+Markus) | N/A |
-| 45 | [Wünsche Dir](http://twitter.com/search?q=W%c3%bcnsche+Dir) | N/A |
-| 46 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 47 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 40 | [Tafeln](http://twitter.com/search?q=Tafeln) | N/A |
+| 41 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 42 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
+| 43 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 44 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
+| 45 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 46 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 47 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
 
 
 

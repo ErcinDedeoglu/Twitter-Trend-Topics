@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-03 07:16:23 UTC`
+📆 Last Updated: `2023-03-03 08:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Latvia
 | 1 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
 | 2 | [frikadeļu](http://twitter.com/search?q=frikade%c4%bcu) | N/A |
 | 3 | [soļanka](http://twitter.com/search?q=so%c4%bcanka) | N/A |
-| 4 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
-| 5 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 6 | [Providus](http://twitter.com/search?q=Providus) | N/A |
-| 7 | [venēra](http://twitter.com/search?q=ven%c4%93ra) | N/A |
+| 4 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 5 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 6 | [venēra](http://twitter.com/search?q=ven%c4%93ra) | N/A |
+| 7 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 | 8 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
 | 9 | [Jupiters](http://twitter.com/search?q=Jupiters) | N/A |
-| 10 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 11 | [biju](http://twitter.com/search?q=biju) | N/A |
-| 12 | [zemgalē](http://twitter.com/search?q=zemgal%c4%93) | N/A |
-| 13 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 14 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 15 | [vid eds](http://twitter.com/search?q=vid+eds) | N/A |
+| 10 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 11 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 12 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 13 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 14 | [vid eds](http://twitter.com/search?q=vid+eds) | N/A |
+| 15 | [Providus](http://twitter.com/search?q=Providus) | N/A |
 | 16 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 17 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 18 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 19 | [Krievijā](http://twitter.com/search?q=Krievij%c4%81) | N/A |
-| 20 | [dziesmu](http://twitter.com/search?q=dziesmu) | N/A |
-| 21 | [laba](http://twitter.com/search?q=laba) | N/A |
-| 22 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 23 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
-| 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 25 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
-| 26 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
-| 27 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 28 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 29 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 30 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 31 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 32 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
-| 33 | [francijas](http://twitter.com/search?q=francijas) | N/A |
-| 34 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 35 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
-| 36 | [Somijā](http://twitter.com/search?q=Somij%c4%81) | N/A |
-| 37 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 38 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
-| 39 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
-| 40 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
-| 41 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 42 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 43 | [Kādā](http://twitter.com/search?q=K%c4%81d%c4%81) | N/A |
-| 44 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
-| 45 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 46 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 47 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
-| 48 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 49 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 50 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 18 | [Biju](http://twitter.com/search?q=Biju) | N/A |
+| 19 | [Azov](http://twitter.com/search?q=Azov) | N/A |
+| 20 | [Krievijā](http://twitter.com/search?q=Krievij%c4%81) | N/A |
+| 21 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
+| 22 | [dziesmu](http://twitter.com/search?q=dziesmu) | N/A |
+| 23 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 24 | [nevaru](http://twitter.com/search?q=nevaru) | N/A |
+| 25 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 26 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 27 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
+| 28 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
+| 29 | [Kādā](http://twitter.com/search?q=K%c4%81d%c4%81) | N/A |
+| 30 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
+| 31 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 32 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 33 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 34 | [francijas](http://twitter.com/search?q=francijas) | N/A |
+| 35 | [Prieks](http://twitter.com/search?q=Prieks) | N/A |
+| 36 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
+| 37 | [Somijā](http://twitter.com/search?q=Somij%c4%81) | N/A |
+| 38 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 39 | [latvenergo](http://twitter.com/search?q=latvenergo) | N/A |
+| 40 | [pieļauju](http://twitter.com/search?q=pie%c4%bcauju) | N/A |
+| 41 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
+| 42 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 43 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 44 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 45 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 46 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
+| 47 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
+| 48 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 49 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 
 
 

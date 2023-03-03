@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-03 07:16:15 UTC`
+📆 Last Updated: `2023-03-03 08:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 3 | [Tarasenko](http://twitter.com/search?q=Tarasenko) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
-| 6 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 7 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 8 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
-| 9 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 10 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 12 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 13 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 14 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 5 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 7 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 8 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 9 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 10 | [#LavenderHazeMusicVideo](http://twitter.com/search?q=%23LavenderHazeMusicVideo) | #LavenderHazeMusicVideo is a hashtag used to promote the music video for the song "Lavender Haze" by the artist Masego. The song is about embracing and celebrating one's uniqueness and individuality. |
+| 11 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 12 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 13 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 14 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 15 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
 | 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 17 | [#RedMoonInVenus](http://twitter.com/search?q=%23RedMoonInVenus) | N/A |
+| 17 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
 | 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 19 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 20 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 21 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 22 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 23 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 25 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 26 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 27 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
-| 28 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 29 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 30 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 31 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 19 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 20 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 21 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 22 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 23 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 24 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 25 | [Boogie Ellis](http://twitter.com/search?q=Boogie+Ellis) | N/A |
+| 26 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 27 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 28 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 29 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
+| 30 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 31 | [Edelgard](http://twitter.com/search?q=Edelgard) | N/A |
 | 32 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 33 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
-| 34 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 35 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 36 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 37 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
-| 38 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 39 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 40 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
-| 41 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 42 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 43 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 44 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 45 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 46 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 47 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
-| 48 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 49 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 50 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 33 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 34 | [Inside the NBA](http://twitter.com/search?q=Inside+the+NBA) | N/A |
+| 35 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 36 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 37 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 38 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 39 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 40 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 41 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 42 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 43 | [Imogen](http://twitter.com/search?q=Imogen) | N/A |
+| 44 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
+| 45 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
+| 46 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
+| 47 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 48 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 49 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 50 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 
 
 

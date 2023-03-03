@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-03 07:16:25 UTC`
+📆 Last Updated: `2023-03-03 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,35 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 3 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
-| 4 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 5 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 6 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 7 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 10 | [#SEJOSH](http://twitter.com/search?q=%23SEJOSH) | N/A |
-| 11 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
-| 12 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 13 | [FOR US](http://twitter.com/search?q=FOR+US) | N/A |
-| 14 | [AS ALWAYS](http://twitter.com/search?q=AS+ALWAYS) | N/A |
-| 15 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
-| 16 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 17 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 18 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 19 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 20 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 21 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 22 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 23 | [ikon is coming to town](http://twitter.com/search?q=ikon+is+coming+to+town) | N/A |
-| 24 | [twentyfourever zach](http://twitter.com/search?q=twentyfourever+zach) | N/A |
-| 25 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 26 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
-| 27 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
-| 28 | [RED VELVET 4TH CONCERT](http://twitter.com/search?q=RED+VELVET+4TH+CONCERT) | N/A |
-| 29 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 30 | [aldenxlaz11th bdaysupershow](http://twitter.com/search?q=aldenxlaz11th+bdaysupershow) | N/A |
-| 31 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 32 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 33 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 35 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 36 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
-| 37 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 38 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
-| 39 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 40 | [JOMesmerizing Boy](http://twitter.com/search?q=JOMesmerizing+Boy) | N/A |
-| 41 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 42 | [Vocal Unit](http://twitter.com/search?q=Vocal+Unit) | N/A |
-| 43 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
-| 44 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 45 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 46 | [bobby single coming soon](http://twitter.com/search?q=bobby+single+coming+soon) | N/A |
-| 47 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 48 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 49 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 50 | [EASL](http://twitter.com/search?q=EASL) | N/A |
+| 1 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 2 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
+| 3 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 4 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 5 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 6 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 7 | [#SEJOSH](http://twitter.com/search?q=%23SEJOSH) | N/A |
+| 8 | [#ShopeeMEGAShoppingSale](http://twitter.com/search?q=%23ShopeeMEGAShoppingSale) | N/A |
+| 9 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 10 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 11 | [#KanivaxBible](http://twitter.com/search?q=%23KanivaxBible) | N/A |
+| 12 | [#LOrealMakeupXFreenBecky](http://twitter.com/search?q=%23LOrealMakeupXFreenBecky) | N/A |
+| 13 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 14 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 15 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 16 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 17 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 18 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 19 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
+| 20 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 22 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 23 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 24 | [#SB19_PABLO](http://twitter.com/search?q=%23SB19_PABLO) | N/A |
+| 25 | [#BOYCOTTEBxGMA723](http://twitter.com/search?q=%23BOYCOTTEBxGMA723) | N/A |
+| 26 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 27 | [#OustCoachO](http://twitter.com/search?q=%23OustCoachO) | N/A |
+| 28 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
+| 29 | [#BarDa](http://twitter.com/search?q=%23BarDa) | N/A |
 
 
 
