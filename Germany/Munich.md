@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-03 09:16:27 UTC`
+📆 Last Updated: `2023-03-03 10:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 3 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 5 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
-| 6 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 7 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 9 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
+| 4 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 8 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 9 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 11 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 12 | [Tobi](http://twitter.com/search?q=Tobi) | N/A |
-| 13 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
-| 14 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 15 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 17 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 19 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 20 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 21 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 22 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 23 | [Moin Schubsi](http://twitter.com/search?q=Moin+Schubsi) | N/A |
-| 24 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 25 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 26 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
-| 27 | [Start in den Freitag](http://twitter.com/search?q=Start+in+den+Freitag) | N/A |
-| 28 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
-| 29 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 30 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 31 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 32 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 33 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
-| 34 | [Bremsen](http://twitter.com/search?q=Bremsen) | N/A |
-| 35 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 36 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 37 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 38 | [Ende der Durchsage](http://twitter.com/search?q=Ende+der+Durchsage) | N/A |
-| 39 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 40 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 41 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 42 | [Hab Du](http://twitter.com/search?q=Hab+Du) | N/A |
-| 43 | [Guten Morgen Karin](http://twitter.com/search?q=Guten+Morgen+Karin) | N/A |
-| 44 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 45 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 46 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 47 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 48 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 49 | [Nahverkehr](http://twitter.com/search?q=Nahverkehr) | N/A |
-| 50 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 12 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 13 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 14 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 17 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 18 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
+| 19 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 20 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 21 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 22 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 23 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 24 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 25 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 26 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
+| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 28 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 30 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 31 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 32 | [Unser Lied für Liverpool](http://twitter.com/search?q=Unser+Lied+f%c3%bcr+Liverpool) | N/A |
+| 33 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
+| 34 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 35 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 36 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 37 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 38 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
+| 39 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 40 | [Stilles Wasser](http://twitter.com/search?q=Stilles+Wasser) | N/A |
+| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 42 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 43 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 44 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
+| 45 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 46 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 47 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 48 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 49 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 50 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-03 09:17:03 UTC`
+📆 Last Updated: `2023-03-03 10:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrimalPRM](http://twitter.com/search?q=%23PrimalPRM) | N/A |
-| 2 | [#KenyaVsNigeria](http://twitter.com/search?q=%23KenyaVsNigeria) | N/A |
+| 1 | [#ChameleonFrankNweke](http://twitter.com/search?q=%23ChameleonFrankNweke) | N/A |
+| 2 | [#Rivers2023](http://twitter.com/search?q=%23Rivers2023) | N/A |
 | 3 | [#RejectTinubu](http://twitter.com/search?q=%23RejectTinubu) | N/A |
-| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 5 | [#PeterObiMyPresident](http://twitter.com/search?q=%23PeterObiMyPresident) | N/A |
-| 6 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 7 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 8 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
-| 9 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 10 | [Chinedu](http://twitter.com/search?q=Chinedu) | N/A |
-| 11 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 12 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 13 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 14 | [HE Peter Obi](http://twitter.com/search?q=HE+Peter+Obi) | N/A |
-| 15 | [Sanwo](http://twitter.com/search?q=Sanwo) | N/A |
-| 16 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 17 | [Afonja](http://twitter.com/search?q=Afonja) | N/A |
-| 18 | [Waist](http://twitter.com/search?q=Waist) | N/A |
-| 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 20 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 21 | [LETTER TO KANAGA JNR](http://twitter.com/search?q=LETTER+TO+KANAGA+JNR) | N/A |
-| 22 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 23 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 24 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 25 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 26 | [Gbadebo](http://twitter.com/search?q=Gbadebo) | N/A |
-| 27 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
-| 28 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
-| 29 | [Onyeka](http://twitter.com/search?q=Onyeka) | N/A |
-| 30 | [What a Man](http://twitter.com/search?q=What+a+Man) | N/A |
-| 31 | [Chi Exotic](http://twitter.com/search?q=Chi+Exotic) | N/A |
-| 32 | [Leak](http://twitter.com/search?q=Leak) | N/A |
-| 33 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 34 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 35 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 36 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 37 | [Ajuri](http://twitter.com/search?q=Ajuri) | N/A |
-| 38 | [Toke Makinwa](http://twitter.com/search?q=Toke+Makinwa) | N/A |
-| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 40 | [11th of March](http://twitter.com/search?q=11th+of+March) | N/A |
-| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 42 | [world press conference](http://twitter.com/search?q=world+press+conference) | N/A |
-| 43 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 44 | [Brother in Christ](http://twitter.com/search?q=Brother+in+Christ) | N/A |
-| 45 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
-| 46 | [Purple Hibiscus](http://twitter.com/search?q=Purple+Hibiscus) | N/A |
-| 47 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 48 | [vote kaniva](http://twitter.com/search?q=vote+kaniva) | N/A |
-| 49 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 50 | [Exhibit 1](http://twitter.com/search?q=Exhibit+1) | N/A |
+| 4 | [#XpressmagExchange](http://twitter.com/search?q=%23XpressmagExchange) | N/A |
+| 5 | [#PrimalPRM](http://twitter.com/search?q=%23PrimalPRM) | N/A |
+| 6 | [Toke Makinwa](http://twitter.com/search?q=Toke+Makinwa) | N/A |
+| 7 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 8 | [So LP](http://twitter.com/search?q=So+LP) | N/A |
+| 9 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 10 | [LETTER TO KANAGA JNR](http://twitter.com/search?q=LETTER+TO+KANAGA+JNR) | N/A |
+| 11 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
+| 12 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 13 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 14 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 15 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
+| 16 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 17 | [Master](http://twitter.com/search?q=Master) | N/A |
+| 18 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
+| 19 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 20 | [Purple Hibiscus](http://twitter.com/search?q=Purple+Hibiscus) | N/A |
+| 21 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 22 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 23 | [Omah](http://twitter.com/search?q=Omah) | N/A |
+| 24 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
+| 25 | [Chi Exotic](http://twitter.com/search?q=Chi+Exotic) | N/A |
+| 26 | [Waist](http://twitter.com/search?q=Waist) | N/A |
+| 27 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 28 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 29 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 30 | [Aisha](http://twitter.com/search?q=Aisha) | N/A |
+| 31 | [Waste](http://twitter.com/search?q=Waste) | N/A |
+| 32 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 33 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 34 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 35 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 36 | [#opay](http://twitter.com/search?q=%23opay) | N/A |
+| 37 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 38 | [#SanwoAgain](http://twitter.com/search?q=%23SanwoAgain) | N/A |
+| 39 | [#RealMadridBarcelona](http://twitter.com/search?q=%23RealMadridBarcelona) | N/A |
+| 40 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 41 | [#SanwoLekansi](http://twitter.com/search?q=%23SanwoLekansi) | N/A |
+| 42 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
+| 43 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 44 | [#Enoch_themovie](http://twitter.com/search?q=%23Enoch_themovie) | N/A |
+| 45 | [#INECElectionResult2023](http://twitter.com/search?q=%23INECElectionResult2023) | N/A |
+| 46 | [#LGBTQ](http://twitter.com/search?q=%23LGBTQ) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-03 09:16:13 UTC`
+📆 Last Updated: `2023-03-03 10:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 2 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
-| 3 | [Durham](http://twitter.com/search?q=Durham) | N/A |
-| 4 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 9 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 10 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 11 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 12 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 13 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
-| 14 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 15 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 17 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 18 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Betteridge](http://twitter.com/search?q=Betteridge) | N/A |
-| 21 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
-| 22 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 23 | [Daily Fail](http://twitter.com/search?q=Daily+Fail) | N/A |
-| 24 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 25 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 26 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 27 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 29 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 31 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 32 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 33 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 34 | [Trek](http://twitter.com/search?q=Trek) | N/A |
-| 35 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 36 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 37 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
-| 38 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 39 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
-| 40 | [j cole](http://twitter.com/search?q=j+cole) | N/A |
-| 41 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 42 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 43 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 44 | [#JLStour](http://twitter.com/search?q=%23JLStour) | N/A |
-| 45 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 46 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 47 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 48 | [#KenBruce](http://twitter.com/search?q=%23KenBruce) | N/A |
-| 49 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 50 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 2 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 5 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 6 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
+| 7 | [Durham](http://twitter.com/search?q=Durham) | N/A |
+| 8 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
+| 9 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 10 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 11 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 12 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 13 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 14 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 15 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 16 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 17 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
+| 18 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 19 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 20 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 21 | [Alexander Stafford](http://twitter.com/search?q=Alexander+Stafford) | N/A |
+| 22 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 23 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 24 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 25 | [Marv](http://twitter.com/search?q=Marv) | N/A |
+| 26 | [Betteridge](http://twitter.com/search?q=Betteridge) | N/A |
+| 27 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 28 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 29 | [Lamborghini](http://twitter.com/search?q=Lamborghini) | N/A |
+| 30 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 31 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 32 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 34 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 35 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 36 | [UK Open](http://twitter.com/search?q=UK+Open) | N/A |
+| 37 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 38 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 39 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 40 | [Kier Starmer](http://twitter.com/search?q=Kier+Starmer) | N/A |
+| 41 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 42 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 43 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 44 | [No.10](http://twitter.com/search?q=No.10) | N/A |
+| 45 | [Trek](http://twitter.com/search?q=Trek) | N/A |
+| 46 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 47 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 48 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 49 | [Harwood](http://twitter.com/search?q=Harwood) | N/A |
+| 50 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
 
 
 

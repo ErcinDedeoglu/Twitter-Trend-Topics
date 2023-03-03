@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-03 09:16:42 UTC`
+📆 Last Updated: `2023-03-03 10:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
 | 2 | [#HONORX7a](http://twitter.com/search?q=%23HONORX7a) | N/A |
-| 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 4 | [#HappyBirthdayCIC](http://twitter.com/search?q=%23HappyBirthdayCIC) | N/A |
-| 5 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
+| 3 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
+| 4 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 5 | [#Libianca](http://twitter.com/search?q=%23Libianca) | N/A |
 | 6 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 7 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
-| 8 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 9 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
-| 10 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
-| 11 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 12 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 13 | [Lwazi](http://twitter.com/search?q=Lwazi) | N/A |
-| 14 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 15 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
+| 7 | [People Remix](http://twitter.com/search?q=People+Remix) | N/A |
+| 8 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
+| 9 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
+| 10 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 11 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
+| 12 | [Lwazi](http://twitter.com/search?q=Lwazi) | N/A |
+| 13 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
+| 14 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 15 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
 | 16 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
-| 17 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 18 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
-| 19 | [vote royals](http://twitter.com/search?q=vote+royals) | N/A |
-| 20 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
-| 21 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
-| 22 | [bank on thabang](http://twitter.com/search?q=bank+on+thabang) | N/A |
-| 23 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 24 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 25 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
-| 26 | [Onyango](http://twitter.com/search?q=Onyango) | N/A |
-| 27 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 28 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 29 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 30 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
-| 31 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
-| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 33 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
-| 34 | [Rami](http://twitter.com/search?q=Rami) | N/A |
-| 35 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 36 | [Siwelele](http://twitter.com/search?q=Siwelele) | N/A |
-| 37 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
-| 38 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
-| 39 | [Race Weekend](http://twitter.com/search?q=Race+Weekend) | N/A |
-| 40 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 41 | [Marumo Gallants](http://twitter.com/search?q=Marumo+Gallants) | N/A |
-| 42 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 43 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 44 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 45 | [Arthur Mafokate](http://twitter.com/search?q=Arthur+Mafokate) | N/A |
-| 46 | [Moshabi](http://twitter.com/search?q=Moshabi) | N/A |
-| 47 | [Mo Flava](http://twitter.com/search?q=Mo+Flava) | N/A |
-| 48 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
+| 17 | [Ayra Starr](http://twitter.com/search?q=Ayra+Starr) | N/A |
+| 18 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 19 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 20 | [vote royals](http://twitter.com/search?q=vote+royals) | N/A |
+| 21 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
+| 22 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 23 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
+| 24 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
+| 25 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 26 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 27 | [Maps](http://twitter.com/search?q=Maps) | N/A |
+| 28 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 29 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 30 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
+| 31 | [Rami](http://twitter.com/search?q=Rami) | N/A |
+| 32 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
+| 33 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
+| 34 | [Onyango](http://twitter.com/search?q=Onyango) | N/A |
+| 35 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 36 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 37 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 38 | [Siwelele](http://twitter.com/search?q=Siwelele) | N/A |
+| 39 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
+| 40 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 41 | ["Xoli"](http://twitter.com/search?q=%22Xoli%22) | N/A |
+| 42 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
+| 43 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 44 | [Marumo Gallants](http://twitter.com/search?q=Marumo+Gallants) | N/A |
+| 45 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
+| 46 | [Mo Flava](http://twitter.com/search?q=Mo+Flava) | N/A |
+| 47 | [Arthur Mafokate](http://twitter.com/search?q=Arthur+Mafokate) | N/A |
+| 48 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
 | 49 | [Shalulile](http://twitter.com/search?q=Shalulile) | N/A |
 
 

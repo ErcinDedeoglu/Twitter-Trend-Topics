@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-03-03 09:16:47 UTC`
+📆 Last Updated: `2023-03-03 10:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [#SubahKoSongOutNow](http://twitter.com/search?q=%23SubahKoSongOutNow) | N/A |
-| 3 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
-| 4 | [#1947AUGUST16](http://twitter.com/search?q=%231947AUGUST16) | N/A |
-| 5 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
-| 6 | [#AnuradhaPaudwal](http://twitter.com/search?q=%23AnuradhaPaudwal) | N/A |
+| 1 | [#PepsiRiseUpBaby](http://twitter.com/search?q=%23PepsiRiseUpBaby) | N/A |
+| 2 | [#MyBestFilm](http://twitter.com/search?q=%23MyBestFilm) | N/A |
+| 3 | [#ShubhoShubhoWithRani](http://twitter.com/search?q=%23ShubhoShubhoWithRani) | N/A |
+| 4 | [#ETCXPlus](http://twitter.com/search?q=%23ETCXPlus) | N/A |
+| 5 | [#चलो_सालासर](http://twitter.com/search?q=%23%e0%a4%9a%e0%a4%b2%e0%a5%8b_%e0%a4%b8%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%b8%e0%a4%b0) | N/A |
+| 6 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
 | 7 | [गंगाराम अस्पताल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 10 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 8 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 9 | [Laal Singh Chaddha](http://twitter.com/search?q=Laal+Singh+Chaddha) | N/A |
+| 10 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
 | 11 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 12 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 13 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 14 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 15 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 16 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 17 | [Manish Chacha](http://twitter.com/search?q=Manish+Chacha) | N/A |
-| 18 | [Rs 6](http://twitter.com/search?q=Rs+6) | N/A |
-| 19 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
-| 20 | [कैश मिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b6+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [Manish Chacha](http://twitter.com/search?q=Manish+Chacha) | N/A |
+| 13 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
+| 14 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 15 | [कैश मिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b6+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 16 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 17 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 18 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 19 | [Rs 6](http://twitter.com/search?q=Rs+6) | N/A |
+| 20 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
 | 21 | [Quad](http://twitter.com/search?q=Quad) | N/A |
 | 22 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
-| 23 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
-| 24 | [Craig Fulton](http://twitter.com/search?q=Craig+Fulton) | N/A |
-| 25 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 26 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
-| 27 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 28 | [जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
-| 29 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
-| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 31 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 32 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
-| 33 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
-| 34 | [#ILoveManishSisodia](http://twitter.com/search?q=%23ILoveManishSisodia) | N/A |
-| 35 | [#ETRenewableEnergy](http://twitter.com/search?q=%23ETRenewableEnergy) | N/A |
-| 36 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 37 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
-| 38 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
-| 39 | [#LockUppWithKaran](http://twitter.com/search?q=%23LockUppWithKaran) | N/A |
-| 40 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 23 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
+| 24 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 25 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
+| 26 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
+| 27 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
+| 28 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 29 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 30 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 31 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 32 | [#GulmoharOnHotstar](http://twitter.com/search?q=%23GulmoharOnHotstar) | N/A |
+| 33 | [#ABAIndiaConf2023](http://twitter.com/search?q=%23ABAIndiaConf2023) | N/A |
+| 34 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 35 | [#Bheed](http://twitter.com/search?q=%23Bheed) | N/A |
+| 36 | [#ILoveManishSisodia](http://twitter.com/search?q=%23ILoveManishSisodia) | N/A |
+| 37 | [#SubahKoSongOutNow](http://twitter.com/search?q=%23SubahKoSongOutNow) | N/A |
+| 38 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 39 | [#1947AUGUST16](http://twitter.com/search?q=%231947AUGUST16) | N/A |
+| 40 | [#LockUppWithKaran](http://twitter.com/search?q=%23LockUppWithKaran) | N/A |
 | 41 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
-| 42 | [#GlobalInvestorsSummit2023](http://twitter.com/search?q=%23GlobalInvestorsSummit2023) | N/A |
-| 43 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
-| 44 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 45 | [#AndhraPradesh](http://twitter.com/search?q=%23AndhraPradesh) | N/A |
-| 46 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 47 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
-| 48 | [#DeepikaPadukone](http://twitter.com/search?q=%23DeepikaPadukone) | N/A |
-| 49 | [#BihariMajdoor](http://twitter.com/search?q=%23BihariMajdoor) | N/A |
-| 50 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 42 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
+| 43 | [#GlobalInvestorsSummit2023](http://twitter.com/search?q=%23GlobalInvestorsSummit2023) | N/A |
+| 44 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
+| 45 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 46 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 47 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 48 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 49 | [#Baahubali2](http://twitter.com/search?q=%23Baahubali2) | N/A |
+| 50 | [#AndhraPradesh](http://twitter.com/search?q=%23AndhraPradesh) | N/A |
 
 
 
