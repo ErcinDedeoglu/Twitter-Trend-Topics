@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-03 19:16:41 UTC`
+📆 Last Updated: `2023-03-03 20:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 2 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 3 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 1 | [Dumo](http://twitter.com/search?q=Dumo) | N/A |
+| 2 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 6 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 7 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 8 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 11 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 12 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 13 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 14 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
-| 15 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 16 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 17 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 18 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 19 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 20 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
-| 21 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
-| 22 | [James Paxton](http://twitter.com/search?q=James+Paxton) | N/A |
-| 23 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
-| 24 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 25 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
-| 26 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
-| 27 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 28 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 29 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 30 | [Paris Davis](http://twitter.com/search?q=Paris+Davis) | N/A |
-| 31 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 32 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
-| 33 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 34 | [Bonino](http://twitter.com/search?q=Bonino) | N/A |
-| 35 | [Hype Boy](http://twitter.com/search?q=Hype+Boy) | N/A |
-| 36 | [Curtis Lazar](http://twitter.com/search?q=Curtis+Lazar) | N/A |
-| 37 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 38 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
-| 39 | [George Parros](http://twitter.com/search?q=George+Parros) | N/A |
-| 40 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 41 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 42 | [Lacey Evans](http://twitter.com/search?q=Lacey+Evans) | Lacey Evans is a professional wrestler currently signed to WWE. Her ring name is derived from her real name, Macey Estrella-Kadlec. The name "Lacey" is derived from the English word for a type of lace fabric, and "Evans" is a common Welsh surname. |
-| 43 | [Carew](http://twitter.com/search?q=Carew) | N/A |
-| 44 | [Riley Greene](http://twitter.com/search?q=Riley+Greene) | N/A |
-| 45 | [Vick](http://twitter.com/search?q=Vick) | N/A |
-| 46 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 47 | [Despacito](http://twitter.com/search?q=Despacito) | N/A |
-| 48 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 50 | [Chip Kelly](http://twitter.com/search?q=Chip+Kelly) | N/A |
+| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 7 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 8 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 9 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 10 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 11 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 12 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
+| 13 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 14 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 15 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 16 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 17 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 18 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 19 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 20 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 21 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 22 | [Bowen Born](http://twitter.com/search?q=Bowen+Born) | N/A |
+| 23 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 24 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 25 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 26 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 27 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 28 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
+| 29 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
+| 30 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 31 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 32 | [Detective Pikachu](http://twitter.com/search?q=Detective+Pikachu) | N/A |
+| 33 | [Don Jr](http://twitter.com/search?q=Don+Jr) | N/A |
+| 34 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
+| 35 | [Lemieux](http://twitter.com/search?q=Lemieux) | N/A |
+| 36 | [James Paxton](http://twitter.com/search?q=James+Paxton) | N/A |
+| 37 | [James van Riemsdyk](http://twitter.com/search?q=James+van+Riemsdyk) | N/A |
+| 38 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 39 | [Asplund](http://twitter.com/search?q=Asplund) | N/A |
+| 40 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 41 | [Julius Brents](http://twitter.com/search?q=Julius+Brents) | N/A |
+| 42 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 43 | [Billy G](http://twitter.com/search?q=Billy+G) | N/A |
+| 44 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 45 | [Jay Z](http://twitter.com/search?q=Jay+Z) | Jay Z is the stage name of Shawn Carter, an American rapper, songwriter, record producer, entrepreneur, and record executive. He is one of the most successful hip-hop artists and entrepreneurs in America. His music often focuses on themes of financial success, power, and social issues. |
+| 46 | [Melle Mel](http://twitter.com/search?q=Melle+Mel) | N/A |
+| 47 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 48 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
+| 49 | [Matt Vierling](http://twitter.com/search?q=Matt+Vierling) | N/A |
+| 50 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-03 19:16:14 UTC`
+📆 Last Updated: `2023-03-03 20:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,44 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 4 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
+| 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
 | 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 6 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 7 | [Jakarta Utara](http://twitter.com/search?q=Jakarta+Utara) | N/A |
-| 8 | [#7Dream_in_Indonesia](http://twitter.com/search?q=%237Dream_in_Indonesia) | N/A |
-| 9 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
-| 10 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 11 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 12 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 13 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 16 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 17 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 19 | [Hapus](http://twitter.com/search?q=Hapus) | N/A |
-| 20 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 21 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 22 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
-| 23 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 24 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 25 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 26 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 27 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 28 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 29 | [#SiapKetemu7Dream](http://twitter.com/search?q=%23SiapKetemu7Dream) | N/A |
-| 30 | [#kebakaran](http://twitter.com/search?q=%23kebakaran) | N/A |
-| 31 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 32 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 33 | [#aBossandaBabeEP1](http://twitter.com/search?q=%23aBossandaBabeEP1) | N/A |
-| 34 | [#LazLivexมาร์คฟอร์ด](http://twitter.com/search?q=%23LazLivex%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94) | N/A |
-| 35 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
-| 36 | [#TaxiDriver2Ep5](http://twitter.com/search?q=%23TaxiDriver2Ep5) | N/A |
-| 37 | [#LIKEITLIKEIT_MV_Release](http://twitter.com/search?q=%23LIKEITLIKEIT_MV_Release) | N/A |
-| 38 | [#LOEWExTAEYONG](http://twitter.com/search?q=%23LOEWExTAEYONG) | N/A |
-| 39 | [#JinnysKitchenEp2](http://twitter.com/search?q=%23JinnysKitchenEp2) | N/A |
-| 40 | [#GETWELLSOONJENNIE](http://twitter.com/search?q=%23GETWELLSOONJENNIE) | N/A |
-| 41 | [#일잘하는서진이네_김태형](http://twitter.com/search?q=%23%ec%9d%bc%ec%9e%98%ed%95%98%eb%8a%94%ec%84%9c%ec%a7%84%ec%9d%b4%eb%84%a4_%ea%b9%80%ed%83%9c%ed%98%95) | N/A |
+| 6 | [#HariRPLDesa](http://twitter.com/search?q=%23HariRPLDesa) | N/A |
+| 7 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
+| 8 | [#SiapKetemu7Dream](http://twitter.com/search?q=%23SiapKetemu7Dream) | N/A |
+| 9 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
+| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 11 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 12 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 15 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 16 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 17 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 18 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
+| 19 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
+| 20 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 21 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 22 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 23 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 24 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 25 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 26 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 27 | [KILL BILL](http://twitter.com/search?q=KILL+BILL) | N/A |
+| 28 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 29 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 30 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 31 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 32 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 33 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 34 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 35 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 36 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 37 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 38 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 39 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 40 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 41 | [wafello](http://twitter.com/search?q=wafello) | N/A |
+| 42 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 43 | [Balongan](http://twitter.com/search?q=Balongan) | N/A |
+| 44 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 45 | [daehwi](http://twitter.com/search?q=daehwi) | N/A |
+| 46 | [Ult Bias](http://twitter.com/search?q=Ult+Bias) | N/A |
+| 47 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 48 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
 
 
 

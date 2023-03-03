@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-03 19:16:16 UTC`
+📆 Last Updated: `2023-03-03 20:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [#nrleelsstorm](http://twitter.com/search?q=%23nrleelsstorm) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 7 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 8 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 9 | [sally rugg](http://twitter.com/search?q=sally+rugg) | N/A |
-| 10 | [Average](http://twitter.com/search?q=Average) | N/A |
-| 11 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 12 | [soni luke](http://twitter.com/search?q=soni+luke) | N/A |
-| 13 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 14 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 15 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 16 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
-| 17 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 18 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 19 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 22 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 23 | [Gulden](http://twitter.com/search?q=Gulden) | N/A |
-| 24 | [kooyong](http://twitter.com/search?q=kooyong) | N/A |
-| 25 | [adam reynolds](http://twitter.com/search?q=adam+reynolds) | N/A |
-| 26 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 27 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
-| 28 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 31 | [Marles](http://twitter.com/search?q=Marles) | N/A |
-| 32 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 33 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
-| 34 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 36 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 37 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
-| 38 | [Crichton](http://twitter.com/search?q=Crichton) | N/A |
-| 39 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 40 | [moorabbin](http://twitter.com/search?q=moorabbin) | N/A |
-| 41 | [mitch kenny](http://twitter.com/search?q=mitch+kenny) | N/A |
-| 42 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 43 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
-| 44 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 45 | [Herbie](http://twitter.com/search?q=Herbie) | N/A |
-| 46 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 47 | [Garner](http://twitter.com/search?q=Garner) | N/A |
-| 48 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 49 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 7 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 8 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 9 | [Average](http://twitter.com/search?q=Average) | N/A |
+| 10 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 11 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 12 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 13 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
+| 14 | [Soni Luke](http://twitter.com/search?q=Soni+Luke) | N/A |
+| 15 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 16 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 17 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 18 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
+| 19 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 20 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
+| 21 | [Gulden](http://twitter.com/search?q=Gulden) | N/A |
+| 22 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 23 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Luai](http://twitter.com/search?q=Luai) | N/A |
+| 26 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 28 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 29 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 31 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
+| 32 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 33 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 34 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 35 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 36 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
+| 37 | [moorabbin](http://twitter.com/search?q=moorabbin) | N/A |
+| 38 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 39 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 40 | [Adam Reynolds](http://twitter.com/search?q=Adam+Reynolds) | N/A |
+| 41 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 42 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 43 | [Herbie](http://twitter.com/search?q=Herbie) | N/A |
+| 44 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 45 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 46 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 47 | [Hersheys](http://twitter.com/search?q=Hersheys) | N/A |
+| 48 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 49 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
 
 
 

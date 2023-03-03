@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-03 19:15:51 UTC`
+📆 Last Updated: `2023-03-03 20:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 4 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
-| 7 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 8 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 10 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 11 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 12 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 13 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 14 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 15 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 16 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 17 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 18 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 19 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 20 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 21 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 22 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 23 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 24 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 25 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 26 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
-| 27 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
-| 28 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 29 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 30 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 31 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
-| 32 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 33 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 34 | [Sue Grey](http://twitter.com/search?q=Sue+Grey) | N/A |
-| 35 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
-| 36 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 37 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 38 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 39 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 40 | [Pembrokeshire](http://twitter.com/search?q=Pembrokeshire) | N/A |
-| 41 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 42 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
-| 43 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 44 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
-| 45 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 46 | [Starbar](http://twitter.com/search?q=Starbar) | N/A |
-| 47 | [Dean Saunders](http://twitter.com/search?q=Dean+Saunders) | N/A |
-| 48 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 49 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 2 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 3 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 6 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
+| 7 | [Meat Loaf](http://twitter.com/search?q=Meat+Loaf) | N/A |
+| 8 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 9 | [#BluesFamily](http://twitter.com/search?q=%23BluesFamily) | N/A |
+| 10 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 11 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
+| 14 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 15 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 16 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 17 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 18 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 20 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 21 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
+| 22 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 23 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 24 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 25 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
+| 26 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
+| 27 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 28 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 29 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 30 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 31 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 32 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 33 | [Daim](http://twitter.com/search?q=Daim) | N/A |
+| 34 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 35 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 36 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 37 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 38 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 39 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 40 | [Star Bar](http://twitter.com/search?q=Star+Bar) | N/A |
+| 41 | [Boost](http://twitter.com/search?q=Boost) | N/A |
+| 42 | [Caramac](http://twitter.com/search?q=Caramac) | N/A |
+| 43 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 44 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 45 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 46 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 47 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 48 | [Pembrokeshire](http://twitter.com/search?q=Pembrokeshire) | N/A |
+| 49 | [Keown](http://twitter.com/search?q=Keown) | N/A |
 
 
 

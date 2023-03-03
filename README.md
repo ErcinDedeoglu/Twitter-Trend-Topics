@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-03 19:15:49 UTC`
+📆 Last Updated: `2023-03-03 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#النصر_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
-| 3 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 4 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 5 | [ハンジさん](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b8%e3%81%95%e3%82%93) | N/A |
-| 6 | [#進撃の巨人](http://twitter.com/search?q=%23%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | N/A |
-| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 8 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 9 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 10 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 14 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 15 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 16 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 17 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 18 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
-| 19 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 20 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 21 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 22 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 23 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 24 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 25 | [DusİlkDonem NeZaman](http://twitter.com/search?q=Dus%c4%b0lkDonem+NeZaman) | N/A |
-| 26 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 27 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 28 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 29 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 30 | [オニャンコポン](http://twitter.com/search?q=%e3%82%aa%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%9d%e3%83%b3) | オニャンコポン is a Japanese onomatopoeia that is used to express the sound of something being thrown. In English, it could be translated as "thwack" or "thud". |
-| 31 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 32 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 33 | [Kemal](http://twitter.com/search?q=Kemal) | N/A |
-| 34 | [ライナー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
-| 35 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 36 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 37 | [Despacito](http://twitter.com/search?q=Despacito) | N/A |
-| 38 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 39 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 41 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 42 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 43 | [地ならし](http://twitter.com/search?q=%e5%9c%b0%e3%81%aa%e3%82%89%e3%81%97) | N/A |
-| 44 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 45 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 46 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 47 | [Kamuda35Yaş TorbaYasaya](http://twitter.com/search?q=Kamuda35Ya%c5%9f+TorbaYasaya) | N/A |
-| 48 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 49 | [MIROTIC](http://twitter.com/search?q=MIROTIC) | N/A |
-| 50 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 1 | [#النصر_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 4 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 5 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 6 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 7 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 8 | [ハンジさん](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b8%e3%81%95%e3%82%93) | N/A |
+| 9 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 10 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
+| 11 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 12 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 15 | [الوقت الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
+| 16 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 17 | [الشوط الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 18 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 19 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 20 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 21 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 24 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 25 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 26 | [الوقت الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
+| 27 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 28 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 29 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 30 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 31 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 32 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 33 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 34 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 35 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 36 | [الوعد الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 37 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 38 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
+| 39 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 40 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 41 | [الشوط الاضافي الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 42 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 43 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
+| 44 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 45 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 46 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 47 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 48 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 49 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 50 | [DusİlkDonem NeZaman](http://twitter.com/search?q=Dus%c4%b0lkDonem+NeZaman) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-03 19:16:06 UTC`
+📆 Last Updated: `2023-03-03 20:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#DerbyDuNord](http://twitter.com/search?q=%23DerbyDuNord) | N/A |
+| 2 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
 | 3 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 4 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 5 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 7 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 4 | [#DerbyDuNord](http://twitter.com/search?q=%23DerbyDuNord) | N/A |
+| 5 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
+| 6 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 7 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
 | 8 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
-| 9 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
-| 10 | [Lanvin](http://twitter.com/search?q=Lanvin) | N/A |
-| 11 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 9 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 10 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 12 | [Lanvin](http://twitter.com/search?q=Lanvin) | N/A |
 | 13 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 14 | [Daniil](http://twitter.com/search?q=Daniil) | N/A |
-| 15 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
-| 16 | [Capitale](http://twitter.com/search?q=Capitale) | N/A |
-| 17 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 18 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 19 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
-| 20 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 21 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
-| 22 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 23 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 24 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 26 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
-| 27 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 28 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 29 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 31 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 32 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
-| 33 | [Belfort](http://twitter.com/search?q=Belfort) | N/A |
-| 34 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 35 | [#400KBetclic](http://twitter.com/search?q=%23400KBetclic) | N/A |
-| 36 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 37 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
+| 14 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
+| 17 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 18 | [Daniil](http://twitter.com/search?q=Daniil) | N/A |
+| 19 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 20 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 21 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 22 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
+| 23 | [Capitale](http://twitter.com/search?q=Capitale) | N/A |
+| 24 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
+| 25 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 26 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 27 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
+| 28 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 29 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 30 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 31 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 32 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 33 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
+| 36 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 37 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
 | 38 | [#Enfoires2023](http://twitter.com/search?q=%23Enfoires2023) | N/A |
-| 39 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 40 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
-| 41 | [#ShieldsUp](http://twitter.com/search?q=%23ShieldsUp) | N/A |
-| 42 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 43 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 44 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 45 | [#HomeOfTennis](http://twitter.com/search?q=%23HomeOfTennis) | N/A |
-| 46 | [#RCLLOSC](http://twitter.com/search?q=%23RCLLOSC) | N/A |
+| 39 | [#ASNLFCV](http://twitter.com/search?q=%23ASNLFCV) | N/A |
+| 40 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 41 | [#chaletclub](http://twitter.com/search?q=%23chaletclub) | N/A |
+| 42 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
+| 43 | [#ShieldsUp](http://twitter.com/search?q=%23ShieldsUp) | N/A |
+| 44 | [#400KBetclic](http://twitter.com/search?q=%23400KBetclic) | N/A |
+| 45 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 46 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
 
 
 

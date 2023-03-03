@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-03 19:16:57 UTC`
+📆 Last Updated: `2023-03-03 20:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Turkey
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 2 | [#SecimOnuTarimaAtama](http://twitter.com/search?q=%23SecimOnuTarimaAtama) | N/A |
+| 2 | [#SuBurcuYazgıCoşkun](http://twitter.com/search?q=%23SuBurcuYazg%c4%b1Co%c5%9fkun) | N/A |
 | 3 | [#AltılıMasaDağıldı](http://twitter.com/search?q=%23Alt%c4%b1l%c4%b1MasaDa%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 4 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 5 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 6 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 7 | [#DenklikHakkıTorbaYasaya](http://twitter.com/search?q=%23DenklikHakk%c4%b1TorbaYasaya) | N/A |
-| 8 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
-| 9 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
+| 4 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 5 | [#hatayasulazım](http://twitter.com/search?q=%23hatayasulaz%c4%b1m) | N/A |
+| 6 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 7 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 8 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 9 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
 | 10 | [DusİlkDonem NeZaman](http://twitter.com/search?q=Dus%c4%b0lkDonem+NeZaman) | N/A |
-| 11 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 11 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
 | 12 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 13 | [Kamuda35Yaş TorbaYasaya](http://twitter.com/search?q=Kamuda35Ya%c5%9f+TorbaYasaya) | N/A |
-| 14 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 15 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 16 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Sofra](http://twitter.com/search?q=Sofra) | N/A |
-| 19 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
-| 20 | [İNCE İNCE](http://twitter.com/search?q=%c4%b0NCE+%c4%b0NCE) | N/A |
-| 21 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
-| 22 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
-| 23 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
-| 24 | [Yazdınız](http://twitter.com/search?q=Yazd%c4%b1n%c4%b1z) | N/A |
-| 25 | [Bjelica](http://twitter.com/search?q=Bjelica) | N/A |
+| 13 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 14 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 15 | [Kamuda35Yaş TorbaYasaya](http://twitter.com/search?q=Kamuda35Ya%c5%9f+TorbaYasaya) | N/A |
+| 16 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
+| 17 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Bjelica](http://twitter.com/search?q=Bjelica) | N/A |
+| 20 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 21 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
+| 22 | [Sofra](http://twitter.com/search?q=Sofra) | N/A |
+| 23 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 24 | [Aday Belli Karar Net](http://twitter.com/search?q=Aday+Belli+Karar+Net) | N/A |
+| 25 | [Yazdınız](http://twitter.com/search?q=Yazd%c4%b1n%c4%b1z) | N/A |
 | 26 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
-| 27 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 27 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
 | 28 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 29 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
-| 30 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 31 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 32 | [Evcilik](http://twitter.com/search?q=Evcilik) | N/A |
-| 33 | [Yazma](http://twitter.com/search?q=Yazma) | N/A |
-| 34 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 35 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 36 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 37 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 38 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 39 | [Siyasi](http://twitter.com/search?q=Siyasi) | N/A |
-| 40 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 41 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
-| 42 | [Bittiniz](http://twitter.com/search?q=Bittiniz) | N/A |
-| 43 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 44 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
-| 45 | [Kadın](http://twitter.com/search?q=Kad%c4%b1n) | N/A |
-| 46 | [Halkın](http://twitter.com/search?q=Halk%c4%b1n) | N/A |
-| 47 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 48 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 49 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 50 | [Diğer 4](http://twitter.com/search?q=Di%c4%9fer+4) | N/A |
+| 29 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 30 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
+| 31 | [Evcilik](http://twitter.com/search?q=Evcilik) | N/A |
+| 32 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 33 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 34 | [Bittiniz](http://twitter.com/search?q=Bittiniz) | N/A |
+| 35 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 36 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 37 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
+| 38 | [Yazma](http://twitter.com/search?q=Yazma) | N/A |
+| 39 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 40 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 41 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 42 | [Siyasi](http://twitter.com/search?q=Siyasi) | N/A |
+| 43 | [Diğer 4](http://twitter.com/search?q=Di%c4%9fer+4) | N/A |
+| 44 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 45 | [Selanikli](http://twitter.com/search?q=Selanikli) | N/A |
+| 46 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 47 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 48 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 49 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 50 | [#SecimOnuTarimaAtama](http://twitter.com/search?q=%23SecimOnuTarimaAtama) | N/A |
 
 
 
