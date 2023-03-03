@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-03 03:16:25 UTC`
+📆 Last Updated: `2023-03-03 04:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MSDhoni](http://twitter.com/search?q=%23MSDhoni) | N/A |
-| 2 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 3 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
-| 4 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
-| 5 | [#DencomingDay](http://twitter.com/search?q=%23DencomingDay) | N/A |
-| 6 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 7 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
-| 8 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
-| 9 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 10 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
-| 11 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 12 | [Guru ji](http://twitter.com/search?q=Guru+ji) | N/A |
-| 13 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 14 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 15 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 16 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [विशाल भंडारा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
-| 19 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 20 | [North East](http://twitter.com/search?q=North+East) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 23 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 24 | [#RiseOfNTK](http://twitter.com/search?q=%23RiseOfNTK) | N/A |
-| 25 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 26 | [#MakkalWithMKS](http://twitter.com/search?q=%23MakkalWithMKS) | N/A |
-| 27 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
-| 28 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
-| 29 | [#दीपक_चरसिया](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95_%e0%a4%9a%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 30 | [#FatherDaugtherTalk](http://twitter.com/search?q=%23FatherDaugtherTalk) | N/A |
-| 31 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 32 | [#SandeepReddyVanga](http://twitter.com/search?q=%23SandeepReddyVanga) | N/A |
-| 33 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
-| 34 | [#AA23](http://twitter.com/search?q=%23AA23) | N/A |
-| 35 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 36 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 37 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 38 | [#Fridaymotivation](http://twitter.com/search?q=%23Fridaymotivation) | N/A |
-| 39 | [#Spirit](http://twitter.com/search?q=%23Spirit) | N/A |
-| 40 | [#जय_माता_दी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a5%80) | N/A |
-| 41 | [#TSeries](http://twitter.com/search?q=%23TSeries) | N/A |
-| 42 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
-| 43 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
-| 44 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
-| 45 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 46 | [#BhushanKumar](http://twitter.com/search?q=%23BhushanKumar) | N/A |
-| 47 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 48 | [#CJIDYChandrachud](http://twitter.com/search?q=%23CJIDYChandrachud) | N/A |
-| 49 | [#HathrasCase](http://twitter.com/search?q=%23HathrasCase) | N/A |
+| 2 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
+| 3 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 4 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 5 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 6 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 7 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
+| 8 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
+| 9 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 10 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
+| 11 | [जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
+| 12 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 13 | [Guru ji](http://twitter.com/search?q=Guru+ji) | N/A |
+| 14 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 15 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 16 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 17 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 18 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 19 | [विशाल भंडारा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
+| 20 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 21 | [North East](http://twitter.com/search?q=North+East) | N/A |
+| 22 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 23 | [MLAs](http://twitter.com/search?q=MLAs) | N/A |
+| 24 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 25 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
+| 26 | [#दीपक_चरसिया](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95_%e0%a4%9a%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 27 | [#FatherDaugtherTalk](http://twitter.com/search?q=%23FatherDaugtherTalk) | N/A |
+| 28 | [#SandeepReddyVanga](http://twitter.com/search?q=%23SandeepReddyVanga) | N/A |
+| 29 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
+| 30 | [#AA23](http://twitter.com/search?q=%23AA23) | N/A |
+| 31 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 32 | [#Fridaymotivation](http://twitter.com/search?q=%23Fridaymotivation) | N/A |
+| 33 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 34 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 35 | [#JamsetjiTata](http://twitter.com/search?q=%23JamsetjiTata) | N/A |
+| 36 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 37 | [#Spirit](http://twitter.com/search?q=%23Spirit) | N/A |
+| 38 | [#Quad](http://twitter.com/search?q=%23Quad) | N/A |
+| 39 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 40 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
+| 41 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
+| 42 | [#GlobalInvestorsSummit2023](http://twitter.com/search?q=%23GlobalInvestorsSummit2023) | N/A |
+| 43 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 44 | [#Mannat](http://twitter.com/search?q=%23Mannat) | N/A |
+| 45 | [#Animal](http://twitter.com/search?q=%23Animal) | N/A |
+| 46 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
 
 
 

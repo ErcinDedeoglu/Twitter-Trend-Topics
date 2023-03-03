@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-03 03:16:36 UTC`
+📆 Last Updated: `2023-03-03 04:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#ANTUSG](http://twitter.com/search?q=%23ANTUSG) | N/A |
 | 2 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
-| 3 | [De Croo](http://twitter.com/search?q=De+Croo) | N/A |
+| 3 | [de croo](http://twitter.com/search?q=de+croo) | N/A |
 | 4 | [Leemans](http://twitter.com/search?q=Leemans) | N/A |
 | 5 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 6 | [van peteghem](http://twitter.com/search?q=van+peteghem) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Belgium
 | 34 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 35 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
 | 36 | [oeigoeren](http://twitter.com/search?q=oeigoeren) | N/A |
-| 37 | [zucht](http://twitter.com/search?q=zucht) | N/A |
+| 37 | [Zucht](http://twitter.com/search?q=Zucht) | N/A |
 | 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 39 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 | 40 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
 | 41 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
 | 42 | [rekenhof](http://twitter.com/search?q=rekenhof) | N/A |
-| 43 | [Le Real](http://twitter.com/search?q=Le+Real) | N/A |
+| 43 | [le real](http://twitter.com/search?q=le+real) | N/A |
 | 44 | [Brad](http://twitter.com/search?q=Brad) | N/A |
 | 45 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 46 | [torfs](http://twitter.com/search?q=torfs) | N/A |
 | 47 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
-| 48 | [Wetstraat](http://twitter.com/search?q=Wetstraat) | N/A |
+| 48 | [wetstraat](http://twitter.com/search?q=wetstraat) | N/A |
 | 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 50 | [Yordi](http://twitter.com/search?q=Yordi) | N/A |
+| 50 | [vreg](http://twitter.com/search?q=vreg) | N/A |
 
 
 

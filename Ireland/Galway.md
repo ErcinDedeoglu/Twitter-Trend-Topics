@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-03 03:16:02 UTC`
+📆 Last Updated: `2023-03-03 04:43:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
-| 2 | [#ETBDay](http://twitter.com/search?q=%23ETBDay) | N/A |
-| 3 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 4 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 2 | [#etbday](http://twitter.com/search?q=%23etbday) | N/A |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [#heartofireland](http://twitter.com/search?q=%23heartofireland) | N/A |
 | 5 | [wexford general hospital](http://twitter.com/search?q=wexford+general+hospital) | N/A |
-| 6 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 7 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 7 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
 | 8 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 9 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 9 | [niall collins](http://twitter.com/search?q=niall+collins) | N/A |
 | 10 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 11 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
 | 12 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [Rory Gallagher](http://twitter.com/search?q=Rory+Gallagher) | N/A |
 | 36 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
 | 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 38 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 38 | [dublin castle](http://twitter.com/search?q=dublin+castle) | N/A |
 | 39 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 40 | [Liam Sheedy](http://twitter.com/search?q=Liam+Sheedy) | N/A |
+| 40 | [liam sheedy](http://twitter.com/search?q=liam+sheedy) | N/A |
 | 41 | [Wexford Hospital](http://twitter.com/search?q=Wexford+Hospital) | N/A |
 | 42 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 43 | [dj carey](http://twitter.com/search?q=dj+carey) | N/A |

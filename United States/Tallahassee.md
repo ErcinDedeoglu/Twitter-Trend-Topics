@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-03 03:16:34 UTC`
+📆 Last Updated: `2023-03-03 04:44:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#PITvsTBL](http://twitter.com/search?q=%23PITvsTBL) | N/A |
 | 2 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 3 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 4 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 6 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 7 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
-| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 10 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 11 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 12 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 13 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 14 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 5 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 6 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 7 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 8 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 9 | [#GuraTV](http://twitter.com/search?q=%23GuraTV) | N/A |
+| 10 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 11 | [#TERRELLS6](http://twitter.com/search?q=%23TERRELLS6) | N/A |
+| 12 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 13 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 14 | [RED RUBY](http://twitter.com/search?q=RED+RUBY) | N/A |
 | 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 16 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 17 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 16 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 17 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
 | 18 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 19 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 20 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
-| 21 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 22 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 23 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 24 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 25 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 27 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 28 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 29 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
-| 30 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 31 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 32 | [Jett](http://twitter.com/search?q=Jett) | N/A |
-| 33 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 34 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 35 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
-| 36 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 37 | [Isaac Lindsey](http://twitter.com/search?q=Isaac+Lindsey) | N/A |
+| 19 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
+| 20 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 21 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 22 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 23 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 24 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 25 | [HOBI LIVE](http://twitter.com/search?q=HOBI+LIVE) | N/A |
+| 26 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 27 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 28 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
+| 29 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 30 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 31 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 32 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
+| 35 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 36 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 37 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
 | 38 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 39 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 40 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
-| 41 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 39 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 40 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 42 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 43 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 44 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 45 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 46 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 47 | [Youngstown State](http://twitter.com/search?q=Youngstown+State) | N/A |
-| 48 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 49 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 43 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 44 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 45 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 46 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 47 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
+| 48 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 49 | [Hepburn](http://twitter.com/search?q=Hepburn) | N/A |
 
 
 

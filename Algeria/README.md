@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-03 03:16:35 UTC`
+📆 Last Updated: `2023-03-03 04:44:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,16 +49,16 @@ This is top 50 for Algeria
 | 32 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
 | 33 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
 | 34 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 35 | [قيس سعيد](http://twitter.com/search?q=%d9%82%d9%8a%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 36 | [الحمايه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [محمد السادس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 35 | [محمد السادس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 36 | [قيس سعيد](http://twitter.com/search?q=%d9%82%d9%8a%d8%b3+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 37 | [الحمايه المدنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d9%87) | N/A |
 | 38 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 39 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 40 | [بن عبد الرحمان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86) | N/A |
 | 41 | [شوارع باريس](http://twitter.com/search?q=%d8%b4%d9%88%d8%a7%d8%b1%d8%b9+%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 42 | [سعيد بن](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a8%d9%86) | N/A |
 | 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 44 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 45 | [النقل الحضري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ad%d8%b6%d8%b1%d9%8a) | N/A |
 | 46 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 47 | [علي دين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86) | N/A |

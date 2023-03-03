@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-03 03:16:34 UTC`
+📆 Last Updated: `2023-03-03 04:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tucson](http://twitter.com/search?q=Tucson) | N/A |
-| 2 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 6 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 7 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 8 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 9 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
-| 10 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 11 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
-| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 13 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 14 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 15 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 16 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 17 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
-| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 19 | [Discover](http://twitter.com/search?q=Discover) | N/A |
-| 20 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 21 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 24 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 25 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 26 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
-| 27 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 28 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
-| 29 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
-| 30 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 31 | [Jett](http://twitter.com/search?q=Jett) | N/A |
-| 32 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 33 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 34 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
-| 35 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 36 | [Isaac Lindsey](http://twitter.com/search?q=Isaac+Lindsey) | N/A |
-| 37 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
-| 38 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 39 | [Red Ruby](http://twitter.com/search?q=Red+Ruby) | N/A |
-| 40 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 41 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
-| 42 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 43 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 44 | [REAL GAMERS DRINK GAMER SUPPS](http://twitter.com/search?q=REAL+GAMERS+DRINK+GAMER+SUPPS) | N/A |
-| 45 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 46 | [Youngstown State](http://twitter.com/search?q=Youngstown+State) | N/A |
-| 47 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 48 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 49 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 50 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 7 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 8 | [#GuraTV](http://twitter.com/search?q=%23GuraTV) | N/A |
+| 9 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
+| 10 | [#TERRELLS6](http://twitter.com/search?q=%23TERRELLS6) | N/A |
+| 11 | [#WhyIChime](http://twitter.com/search?q=%23WhyIChime) | N/A |
+| 12 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 13 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 14 | [RED RUBY](http://twitter.com/search?q=RED+RUBY) | N/A |
+| 15 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 16 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 17 | [Joey Baker](http://twitter.com/search?q=Joey+Baker) | N/A |
+| 18 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 19 | [Antoine Davis](http://twitter.com/search?q=Antoine+Davis) | N/A |
+| 20 | [Discover](http://twitter.com/search?q=Discover) | N/A |
+| 21 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 22 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 23 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 24 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
+| 25 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 26 | [HOBI LIVE](http://twitter.com/search?q=HOBI+LIVE) | N/A |
+| 27 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 28 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 29 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 30 | [Detroit Mercy](http://twitter.com/search?q=Detroit+Mercy) | N/A |
+| 31 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 32 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 33 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 34 | [Klesmit](http://twitter.com/search?q=Klesmit) | N/A |
+| 35 | [Pistol Pete](http://twitter.com/search?q=Pistol+Pete) | N/A |
+| 36 | [Kobe Bufkin](http://twitter.com/search?q=Kobe+Bufkin) | N/A |
+| 37 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 38 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 39 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 40 | [Metroid Fusion](http://twitter.com/search?q=Metroid+Fusion) | N/A |
+| 41 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 42 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 43 | [PNC Bank](http://twitter.com/search?q=PNC+Bank) | N/A |
+| 44 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 45 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 46 | [Nolan Smith](http://twitter.com/search?q=Nolan+Smith) | N/A |
+| 47 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 48 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
+| 49 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
 
 
 

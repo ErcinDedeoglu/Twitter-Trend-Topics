@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-03 03:16:40 UTC`
+📆 Last Updated: `2023-03-03 04:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
+| 1 | [fosen](http://twitter.com/search?q=fosen) | N/A |
 | 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 3 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 4 | [ingvild flugstad østberg](http://twitter.com/search?q=ingvild+flugstad+%c3%b8stberg) | N/A |
 | 5 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 6 | [sveits](http://twitter.com/search?q=sveits) | N/A |
-| 7 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 6 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [#ARSEVE](http://twitter.com/search?q=%23ARSEVE) | N/A |
+| 9 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
 | 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [lykke](http://twitter.com/search?q=lykke) | N/A |
+| 11 | [LYKKE](http://twitter.com/search?q=LYKKE) | N/A |
 | 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 13 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 14 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Norway
 | 33 | [formel 1](http://twitter.com/search?q=formel+1) | N/A |
 | 34 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
 | 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 36 | [klæbo](http://twitter.com/search?q=kl%c3%a6bo) | N/A |
-| 37 | [holund](http://twitter.com/search?q=holund) | N/A |
-| 38 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 39 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 40 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 41 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 44 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 45 | [Trøndelag](http://twitter.com/search?q=Tr%c3%b8ndelag) | N/A |
-| 46 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
-| 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 48 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 49 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 50 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 36 | [Røkke](http://twitter.com/search?q=R%c3%b8kke) | N/A |
+| 37 | [klæbo](http://twitter.com/search?q=kl%c3%a6bo) | N/A |
+| 38 | [holund](http://twitter.com/search?q=holund) | N/A |
+| 39 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 40 | [Stake](http://twitter.com/search?q=Stake) | N/A |
+| 41 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 42 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 45 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 46 | [Trøndelag](http://twitter.com/search?q=Tr%c3%b8ndelag) | N/A |
+| 47 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
+| 48 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 49 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 50 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 
 
 

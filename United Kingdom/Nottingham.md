@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-03 03:15:52 UTC`
+📆 Last Updated: `2023-03-03 04:43:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 3 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 4 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 6 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 9 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 10 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 11 | [#mimiwebb](http://twitter.com/search?q=%23mimiwebb) | N/A |
-| 12 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 13 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 14 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 17 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 18 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 19 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 20 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 21 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 22 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 23 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 24 | [Venom](http://twitter.com/search?q=Venom) | N/A |
-| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 26 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 27 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 28 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 29 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 30 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 31 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
-| 32 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 33 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
-| 34 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 35 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
-| 36 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 37 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 38 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
-| 39 | [#BoycottHersheys](http://twitter.com/search?q=%23BoycottHersheys) | N/A |
-| 40 | [#StarTrekDiscovery](http://twitter.com/search?q=%23StarTrekDiscovery) | N/A |
-| 41 | [#corrie](http://twitter.com/search?q=%23corrie) | N/A |
-| 42 | [#DragonsDen](http://twitter.com/search?q=%23DragonsDen) | N/A |
-| 43 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 44 | [#AlexMurdaugh](http://twitter.com/search?q=%23AlexMurdaugh) | N/A |
-| 45 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 1 | [#WorldBookDay](http://twitter.com/search?q=%23WorldBookDay) | N/A |
+| 2 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 5 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 6 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 7 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 10 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 11 | [Isabel Oakeshott](http://twitter.com/search?q=Isabel+Oakeshott) | N/A |
+| 12 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 13 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 14 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 15 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 16 | [Steve Mackey](http://twitter.com/search?q=Steve+Mackey) | N/A |
+| 17 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 18 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 20 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 21 | [St David](http://twitter.com/search?q=St+David) | N/A |
+| 22 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 25 | [Frogmore](http://twitter.com/search?q=Frogmore) | N/A |
+| 26 | [Gavin Williamson](http://twitter.com/search?q=Gavin+Williamson) | N/A |
+| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 29 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 30 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 31 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 32 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
+| 33 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 34 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 35 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 36 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 37 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 38 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 39 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
+| 40 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 41 | [Swinney](http://twitter.com/search?q=Swinney) | N/A |
+| 42 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 45 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 46 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 47 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 48 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 49 | [the tiger who came to tea](http://twitter.com/search?q=the+tiger+who+came+to+tea) | N/A |
+| 50 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
 
 
 

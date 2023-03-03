@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-03 03:16:24 UTC`
+📆 Last Updated: `2023-03-03 04:43:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
-| 2 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 2 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
 | 3 | [#दीपक_चरसिया](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95_%e0%a4%9a%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 4 | [#FatherDaugtherTalk](http://twitter.com/search?q=%23FatherDaugtherTalk) | N/A |
-| 5 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
-| 6 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
-| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 8 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 9 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 10 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 11 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
-| 12 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 13 | [जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
-| 14 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 15 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 16 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 17 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 18 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
-| 19 | [Guru ji](http://twitter.com/search?q=Guru+ji) | N/A |
-| 20 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
-| 21 | [भारतीय औद्योगिक क्षेत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 22 | [Best International Film](http://twitter.com/search?q=Best+International+Film) | N/A |
-| 23 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 24 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 25 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 26 | [afsana khan](http://twitter.com/search?q=afsana+khan) | N/A |
-| 27 | [dr jagdish chaturvedi](http://twitter.com/search?q=dr+jagdish+chaturvedi) | N/A |
-| 28 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 29 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 30 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 31 | [Spotlight Award](http://twitter.com/search?q=Spotlight+Award) | N/A |
-| 32 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 33 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 34 | [Umesh Yadav](http://twitter.com/search?q=Umesh+Yadav) | N/A |
-| 35 | [fair proceeding](http://twitter.com/search?q=fair+proceeding) | N/A |
-| 36 | [राष्ट्रीय रक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 37 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 38 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 39 | [women demand](http://twitter.com/search?q=women+demand) | N/A |
-| 40 | [रघुपति सहाय](http://twitter.com/search?q=%e0%a4%b0%e0%a4%98%e0%a5%81%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a4%b9%e0%a4%be%e0%a4%af) | N/A |
-| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 42 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 43 | [pradeep bhandari](http://twitter.com/search?q=pradeep+bhandari) | N/A |
-| 44 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
-| 45 | [POCSO](http://twitter.com/search?q=POCSO) | N/A |
-| 46 | [श्री लक्ष्मी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80) | N/A |
-| 47 | [Sushant Always A Learner](http://twitter.com/search?q=Sushant+Always+A+Learner) | N/A |
-| 48 | [श्री राधे](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87) | N/A |
-| 49 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 50 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 4 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 5 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 6 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 7 | [#FatherDaugtherTalk](http://twitter.com/search?q=%23FatherDaugtherTalk) | N/A |
+| 8 | [#SandeepReddyVanga](http://twitter.com/search?q=%23SandeepReddyVanga) | N/A |
+| 9 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 10 | [वन्य जीव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%9c%e0%a5%80%e0%a4%b5) | N/A |
+| 11 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
+| 12 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 13 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
+| 14 | [जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
+| 15 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 16 | [Guru ji](http://twitter.com/search?q=Guru+ji) | N/A |
+| 17 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
+| 18 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 19 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 20 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 21 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 22 | [विशाल भंडारा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
+| 23 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 24 | [North East](http://twitter.com/search?q=North+East) | N/A |
+| 25 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 26 | [MLAs](http://twitter.com/search?q=MLAs) | N/A |
+| 27 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
+| 28 | [#AA23](http://twitter.com/search?q=%23AA23) | N/A |
+| 29 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 30 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 31 | [#Fridaymotivation](http://twitter.com/search?q=%23Fridaymotivation) | N/A |
+| 32 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 33 | [#JamsetjiTata](http://twitter.com/search?q=%23JamsetjiTata) | N/A |
+| 34 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 35 | [#Spirit](http://twitter.com/search?q=%23Spirit) | N/A |
+| 36 | [#Quad](http://twitter.com/search?q=%23Quad) | N/A |
+| 37 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
+| 38 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 39 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
+| 40 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 41 | [#Mannat](http://twitter.com/search?q=%23Mannat) | N/A |
+| 42 | [#GlobalInvestorsSummit2023](http://twitter.com/search?q=%23GlobalInvestorsSummit2023) | N/A |
+| 43 | [#Animal](http://twitter.com/search?q=%23Animal) | N/A |
+| 44 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
+| 45 | [#DeepikaPadukone](http://twitter.com/search?q=%23DeepikaPadukone) | N/A |
+| 46 | [#TSeries](http://twitter.com/search?q=%23TSeries) | N/A |
+| 47 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 48 | [#BhushanKumar](http://twitter.com/search?q=%23BhushanKumar) | N/A |
+| 49 | [#BihariMajdoor](http://twitter.com/search?q=%23BihariMajdoor) | N/A |
 
 
 
