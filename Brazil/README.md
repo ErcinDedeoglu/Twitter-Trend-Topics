@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-03 06:17:46 UTC`
+📆 Last Updated: `2023-03-03 07:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Brazil
 | 5 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
 | 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
 | 7 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 8 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
-| 9 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
-| 10 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 8 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 9 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 10 | [Bráulio](http://twitter.com/search?q=Br%c3%a1ulio) | N/A |
 | 11 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 12 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 13 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 14 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
-| 15 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 16 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 17 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
-| 18 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
-| 19 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 20 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
-| 21 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
-| 22 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 23 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 24 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 12 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 13 | [My Everything](http://twitter.com/search?q=My+Everything) | N/A |
+| 14 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 15 | [Yours Truly](http://twitter.com/search?q=Yours+Truly) | N/A |
+| 16 | [#Zico70](http://twitter.com/search?q=%23Zico70) | N/A |
+| 17 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 18 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 19 | [ALL I WANTED](http://twitter.com/search?q=ALL+I+WANTED) | N/A |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 21 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 22 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
+| 23 | [The Pinkprint](http://twitter.com/search?q=The+Pinkprint) | N/A |
+| 24 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
 | 25 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 26 | [Future Nostalgia](http://twitter.com/search?q=Future+Nostalgia) | N/A |
-| 27 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
-| 28 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 26 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 27 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 29 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
 | 30 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 31 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 32 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 31 | [Tarzan](http://twitter.com/search?q=Tarzan) | N/A |
+| 32 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
 | 33 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 34 | [graham](http://twitter.com/search?q=graham) | N/A |
-| 35 | [METADE DE MIM HEG](http://twitter.com/search?q=METADE+DE+MIM+HEG) | N/A |
-| 36 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
-| 37 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 38 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 39 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 40 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
-| 41 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 42 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 43 | [Bob Fernandes](http://twitter.com/search?q=Bob+Fernandes) | N/A |
-| 44 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 45 | [Roubo](http://twitter.com/search?q=Roubo) | N/A |
-| 46 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
-| 47 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 34 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
+| 35 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 36 | [Graham](http://twitter.com/search?q=Graham) | N/A |
+| 37 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 38 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 39 | [Rei Leão](http://twitter.com/search?q=Rei+Le%c3%a3o) | N/A |
+| 40 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 41 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 42 | [Justifica](http://twitter.com/search?q=Justifica) | N/A |
+| 43 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
+| 44 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 45 | [sam claflin](http://twitter.com/search?q=sam+claflin) | N/A |
+| 46 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 47 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
 | 48 | [Planta](http://twitter.com/search?q=Planta) | N/A |
-| 49 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 50 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
+| 49 | [Roubo](http://twitter.com/search?q=Roubo) | N/A |
+| 50 | [The Fame](http://twitter.com/search?q=The+Fame) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-03 06:17:22 UTC`
+📆 Last Updated: `2023-03-03 07:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#JHOPE_ON_THE_STREET](http://twitter.com/search?q=%23JHOPE_ON_THE_STREET) | N/A |
-| 3 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 4 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 5 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 6 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 7 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 8 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 9 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 10 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 11 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 3 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 4 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 5 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 6 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 7 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 8 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 10 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 11 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
 | 12 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 13 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 14 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 15 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 17 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 18 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 19 | [Dori](http://twitter.com/search?q=Dori) | N/A |
-| 20 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
-| 23 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 26 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 13 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 14 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
+| 15 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 17 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 18 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 19 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [WITHOUT U MV TEASER 1](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+1) | N/A |
+| 22 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 23 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 24 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 25 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 26 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
 | 27 | [Pika](http://twitter.com/search?q=Pika) | N/A |
 | 28 | [teh ais](http://twitter.com/search?q=teh+ais) | N/A |
-| 29 | [jiho](http://twitter.com/search?q=jiho) | N/A |
-| 30 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 31 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 32 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 33 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 34 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
-| 35 | [hooray for 2](http://twitter.com/search?q=hooray+for+2) | N/A |
-| 36 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 38 | [Salam Jumaat](http://twitter.com/search?q=Salam+Jumaat) | N/A |
-| 39 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
-| 40 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
-| 41 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
-| 42 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 43 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
-| 44 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 45 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 29 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 30 | [jiho](http://twitter.com/search?q=jiho) | N/A |
+| 31 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 32 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 33 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 35 | [5m build](http://twitter.com/search?q=5m+build) | N/A |
+| 36 | [hooray for 2](http://twitter.com/search?q=hooray+for+2) | N/A |
+| 37 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 38 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 39 | [Dori](http://twitter.com/search?q=Dori) | N/A |
+| 40 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 41 | [Salam Jumaat](http://twitter.com/search?q=Salam+Jumaat) | N/A |
+| 42 | [100 MILLION SUGAR RUSH RIDE](http://twitter.com/search?q=100+MILLION+SUGAR+RUSH+RIDE) | N/A |
+| 43 | [done mai](http://twitter.com/search?q=done+mai) | N/A |
+| 44 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 45 | [sunscreen - 3w](http://twitter.com/search?q=sunscreen+-+3w) | N/A |
 | 46 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
 | 47 | [balak](http://twitter.com/search?q=balak) | N/A |
-| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 49 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 50 | [MAHB](http://twitter.com/search?q=MAHB) | N/A |
+| 48 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 49 | [Erwin](http://twitter.com/search?q=Erwin) | N/A |
+| 50 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 
 
 

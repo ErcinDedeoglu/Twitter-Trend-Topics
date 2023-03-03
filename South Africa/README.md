@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-03 06:17:51 UTC`
+📆 Last Updated: `2023-03-03 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for South Africa
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 2 | [#Bavumile](http://twitter.com/search?q=%23Bavumile) | N/A |
+| 2 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
 | 3 | [#HappyBirthdayCIC](http://twitter.com/search?q=%23HappyBirthdayCIC) | N/A |
-| 4 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
-| 5 | [#RedRubyDaSleaze](http://twitter.com/search?q=%23RedRubyDaSleaze) | N/A |
-| 6 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 7 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [thabang the catch](http://twitter.com/search?q=thabang+the+catch) | N/A |
-| 10 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 11 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 12 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 13 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
-| 14 | [Naturena](http://twitter.com/search?q=Naturena) | N/A |
-| 15 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 16 | [vote royals](http://twitter.com/search?q=vote+royals) | N/A |
-| 17 | [gcina](http://twitter.com/search?q=gcina) | N/A |
-| 18 | [concourt](http://twitter.com/search?q=concourt) | N/A |
-| 19 | [Metro FM](http://twitter.com/search?q=Metro+FM) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 21 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
-| 22 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
-| 23 | [bank on thabang](http://twitter.com/search?q=bank+on+thabang) | N/A |
-| 24 | [Onyango](http://twitter.com/search?q=Onyango) | N/A |
-| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 26 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
-| 27 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
-| 28 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
+| 4 | [#BokkieULT](http://twitter.com/search?q=%23BokkieULT) | N/A |
+| 5 | [#WhatIsLove](http://twitter.com/search?q=%23WhatIsLove) | N/A |
+| 6 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 7 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
+| 8 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
+| 9 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
+| 10 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 11 | [THABANG THE CATCH](http://twitter.com/search?q=THABANG+THE+CATCH) | N/A |
+| 12 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 13 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 14 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 15 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
+| 16 | [Jali](http://twitter.com/search?q=Jali) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [Northern Cape](http://twitter.com/search?q=Northern+Cape) | N/A |
+| 19 | [vote royals](http://twitter.com/search?q=vote+royals) | N/A |
+| 20 | [Skhumba](http://twitter.com/search?q=Skhumba) | N/A |
+| 21 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 22 | [concourt](http://twitter.com/search?q=concourt) | N/A |
+| 23 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 24 | [bank on thabang](http://twitter.com/search?q=bank+on+thabang) | N/A |
+| 25 | [JJ Tabane](http://twitter.com/search?q=JJ+Tabane) | N/A |
+| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 27 | [Onyango](http://twitter.com/search?q=Onyango) | N/A |
+| 28 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
 | 29 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 30 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 31 | [Rami](http://twitter.com/search?q=Rami) | N/A |
-| 32 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 33 | [Kagiso Rabada](http://twitter.com/search?q=Kagiso+Rabada) | N/A |
-| 34 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 35 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
-| 36 | [Nicki Minaj](http://twitter.com/search?q=Nicki+Minaj) | N/A |
-| 37 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 38 | [pastor Fred](http://twitter.com/search?q=pastor+Fred) | N/A |
-| 39 | [mr smeg](http://twitter.com/search?q=mr+smeg) | N/A |
+| 30 | [Tsotsi](http://twitter.com/search?q=Tsotsi) | N/A |
+| 31 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 32 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 33 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 34 | [Rami](http://twitter.com/search?q=Rami) | N/A |
+| 35 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 36 | [Vavi](http://twitter.com/search?q=Vavi) | N/A |
+| 37 | [Kamo Mphela](http://twitter.com/search?q=Kamo+Mphela) | N/A |
+| 38 | [Sabby](http://twitter.com/search?q=Sabby) | N/A |
+| 39 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 40 | [Marumo Gallants](http://twitter.com/search?q=Marumo+Gallants) | N/A |
-| 41 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 42 | [Mo Flava](http://twitter.com/search?q=Mo+Flava) | N/A |
-| 43 | [the siu](http://twitter.com/search?q=the+siu) | N/A |
-| 44 | [xoli](http://twitter.com/search?q=xoli) | N/A |
-| 45 | [Siwelele](http://twitter.com/search?q=Siwelele) | N/A |
-| 46 | [S Pen](http://twitter.com/search?q=S+Pen) | N/A |
-| 47 | [ANC and EFF](http://twitter.com/search?q=ANC+and+EFF) | N/A |
-| 48 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
-| 49 | [Stage 16](http://twitter.com/search?q=Stage+16) | N/A |
-| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 41 | [Siwelele](http://twitter.com/search?q=Siwelele) | N/A |
+| 42 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 43 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
+| 44 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 45 | [Bath](http://twitter.com/search?q=Bath) | N/A |
+| 46 | [Cape Flats](http://twitter.com/search?q=Cape+Flats) | N/A |
+| 47 | [the siu](http://twitter.com/search?q=the+siu) | N/A |
+| 48 | [xoli](http://twitter.com/search?q=xoli) | N/A |
+| 49 | [Mo Flava](http://twitter.com/search?q=Mo+Flava) | N/A |
+| 50 | [S Pen](http://twitter.com/search?q=S+Pen) | N/A |
 
 
 

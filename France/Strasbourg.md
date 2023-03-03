@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-03 06:17:10 UTC`
+📆 Last Updated: `2023-03-03 07:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
 | 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 4 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 3 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 4 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 5 | [#JHOPE_ON_THE_STREET](http://twitter.com/search?q=%23JHOPE_ON_THE_STREET) | N/A |
-| 6 | [#OMFCA](http://twitter.com/search?q=%23OMFCA) | N/A |
+| 6 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
 | 7 | [#RMAFCB](http://twitter.com/search?q=%23RMAFCB) | N/A |
 | 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 9 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 10 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 11 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 12 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 13 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 14 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 15 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
+| 9 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 10 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 11 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 13 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
+| 14 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
 | 16 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 18 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 17 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 18 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
 | 19 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
-| 22 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 20 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 21 | [Hilona](http://twitter.com/search?q=Hilona) | N/A |
+| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 23 | [Ferran torres](http://twitter.com/search?q=Ferran+torres) | N/A |
 | 24 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 25 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
-| 26 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 28 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 29 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 30 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 25 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 26 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 27 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [Just Fontaine](http://twitter.com/search?q=Just+Fontaine) | N/A |
 | 31 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 32 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 33 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 34 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 33 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 34 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 | 35 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 36 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 37 | [ectoplasma](http://twitter.com/search?q=ectoplasma) | N/A |
-| 38 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
+| 36 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 37 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
+| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 39 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 40 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
-| 41 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 42 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
-| 43 | [Dave Appadoo](http://twitter.com/search?q=Dave+Appadoo) | N/A |
-| 44 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 45 | [Raphina](http://twitter.com/search?q=Raphina) | N/A |
-| 46 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 47 | [MUGHE](http://twitter.com/search?q=MUGHE) | N/A |
-| 48 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 49 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 50 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 40 | [dave appadoo](http://twitter.com/search?q=dave+appadoo) | N/A |
+| 41 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
+| 42 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
+| 43 | [Raphina](http://twitter.com/search?q=Raphina) | N/A |
+| 44 | [Ectoplasma](http://twitter.com/search?q=Ectoplasma) | N/A |
+| 45 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 46 | [Mughe](http://twitter.com/search?q=Mughe) | N/A |
+| 47 | [Julien](http://twitter.com/search?q=Julien) | N/A |
+| 48 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 49 | [Arnaud Montebourg](http://twitter.com/search?q=Arnaud+Montebourg) | N/A |
+| 50 | [Bartoli](http://twitter.com/search?q=Bartoli) | N/A |
 
 
 

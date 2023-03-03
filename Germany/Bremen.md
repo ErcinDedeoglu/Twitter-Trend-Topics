@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-03 06:17:10 UTC`
+📆 Last Updated: `2023-03-03 07:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
 | 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
-| 5 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 4 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 5 | [#Deutschlandtakt](http://twitter.com/search?q=%23Deutschlandtakt) | N/A |
 | 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 8 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 9 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
-| 10 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 11 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
-| 12 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 14 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 15 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 16 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 17 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 18 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
-| 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 20 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
-| 21 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 22 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 23 | [menstruationshintergrund](http://twitter.com/search?q=menstruationshintergrund) | N/A |
-| 24 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 25 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 26 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
-| 27 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 28 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
-| 29 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 30 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
-| 31 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 7 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 8 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 9 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 10 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 11 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 13 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 14 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 15 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 16 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 17 | [Vergewaltigungen](http://twitter.com/search?q=Vergewaltigungen) | N/A |
+| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 19 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 20 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 21 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 22 | [Rankin](http://twitter.com/search?q=Rankin) | N/A |
+| 23 | [jahre berufserfahrung](http://twitter.com/search?q=jahre+berufserfahrung) | N/A |
+| 24 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 25 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 26 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 28 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 29 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 30 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 31 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 32 | [BAMBOLA HIMNO AVATRICE](http://twitter.com/search?q=BAMBOLA+HIMNO+AVATRICE) | N/A |
-| 33 | [black pearl](http://twitter.com/search?q=black+pearl) | N/A |
-| 34 | [Seidenstraße](http://twitter.com/search?q=Seidenstra%c3%9fe) | N/A |
-| 35 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
-| 36 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 37 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
-| 38 | [JuSos](http://twitter.com/search?q=JuSos) | N/A |
-| 39 | [stilles wasser](http://twitter.com/search?q=stilles+wasser) | N/A |
-| 40 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 41 | [zellhaufen](http://twitter.com/search?q=zellhaufen) | N/A |
-| 42 | [Merz](http://twitter.com/search?q=Merz) | Merz is a German word that means "to combine or join together." It is often used to describe the practice of combining different materials, such as wood and metal, to create a unique piece of art. The term was popularized by the German artist Kurt Schwitters, who used it to describe his collage-like works. |
-| 43 | [schulze](http://twitter.com/search?q=schulze) | N/A |
-| 44 | [schwarzmarkt](http://twitter.com/search?q=schwarzmarkt) | N/A |
-| 45 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 46 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 47 | [Personality](http://twitter.com/search?q=Personality) | N/A |
-| 48 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
+| 33 | [Guten Morgen Claudi](http://twitter.com/search?q=Guten+Morgen+Claudi) | N/A |
+| 34 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 35 | [glühbirnen](http://twitter.com/search?q=gl%c3%bchbirnen) | N/A |
+| 36 | [Black Pearl](http://twitter.com/search?q=Black+Pearl) | N/A |
+| 37 | [Heizung](http://twitter.com/search?q=Heizung) | N/A |
+| 38 | [Faktencheck](http://twitter.com/search?q=Faktencheck) | N/A |
+| 39 | [gräber](http://twitter.com/search?q=gr%c3%a4ber) | N/A |
+| 40 | [Menstruationshintergrund](http://twitter.com/search?q=Menstruationshintergrund) | N/A |
+| 41 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 42 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 43 | [Guten Morgen Markus](http://twitter.com/search?q=Guten+Morgen+Markus) | N/A |
+| 44 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 45 | [Wünsche Dir](http://twitter.com/search?q=W%c3%bcnsche+Dir) | N/A |
+| 46 | [Berliner SPD](http://twitter.com/search?q=Berliner+SPD) | N/A |
+| 47 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 48 | [JuSos](http://twitter.com/search?q=JuSos) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-03-03 06:17:48 UTC`
+📆 Last Updated: `2023-03-03 07:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for India
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
-| 3 | [#electionresults2023](http://twitter.com/search?q=%23electionresults2023) | N/A |
-| 4 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 5 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 8 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
-| 9 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
-| 10 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 11 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 12 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 13 | [भारत कोकिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 14 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 15 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 16 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 17 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 18 | [Craig Fulton](http://twitter.com/search?q=Craig+Fulton) | N/A |
-| 19 | [SEBI](http://twitter.com/search?q=SEBI) | N/A |
-| 20 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 21 | [afsana khan](http://twitter.com/search?q=afsana+khan) | N/A |
-| 22 | [सरोजिनी नायडू](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%a1%e0%a5%82) | N/A |
-| 23 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 24 | [dr jagdish chaturvedi](http://twitter.com/search?q=dr+jagdish+chaturvedi) | N/A |
-| 25 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 26 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 27 | [विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 28 | [नॉर्थ ईस्ट](http://twitter.com/search?q=%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%88%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 29 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
-| 30 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 31 | [Pujara](http://twitter.com/search?q=Pujara) | N/A |
-| 32 | [कल्याण बोर्ड](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 33 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 34 | [Ash Anna](http://twitter.com/search?q=Ash+Anna) | Ash Anna is a term of endearment used in India, particularly in the state of Kerala. It is derived from the Malayalam words "Aashu" (meaning "dear") and "Anna" (meaning "elder brother"). In English, it translates to "Dear Elder Brother". |
-| 35 | [sushant always a learner](http://twitter.com/search?q=sushant+always+a+learner) | N/A |
-| 36 | [श्री जमशेदजी टाटा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%ae%e0%a4%b6%e0%a5%87%e0%a4%a6%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be) | N/A |
-| 37 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 38 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 39 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
-| 40 | [Guru ji](http://twitter.com/search?q=Guru+ji) | N/A |
-| 41 | [राष्ट्रीय रक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 42 | [Developing Tourism](http://twitter.com/search?q=Developing+Tourism) | N/A |
-| 43 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 44 | [NJAC](http://twitter.com/search?q=NJAC) | N/A |
-| 45 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 46 | [Kasba Peth](http://twitter.com/search?q=Kasba+Peth) | N/A |
-| 47 | [Nathan Lyon](http://twitter.com/search?q=Nathan+Lyon) | N/A |
-| 48 | [Spotlight Award](http://twitter.com/search?q=Spotlight+Award) | N/A |
-| 49 | [भारतीय औद्योगिक क्षेत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%94%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 50 | [दिव्या मित्तल](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b2) | N/A |
+| 2 | [#ETRenewableEnergy](http://twitter.com/search?q=%23ETRenewableEnergy) | N/A |
+| 3 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
+| 4 | [#LifeHistory_Of_SantGaribdasji](http://twitter.com/search?q=%23LifeHistory_Of_SantGaribdasji) | N/A |
+| 5 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
+| 6 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
+| 7 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
+| 8 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 9 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 10 | [BREAKING LAWS](http://twitter.com/search?q=BREAKING+LAWS) | N/A |
+| 11 | [Journalists In Court](http://twitter.com/search?q=Journalists+In+Court) | N/A |
+| 12 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 13 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 14 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 15 | [Rs 40](http://twitter.com/search?q=Rs+40) | N/A |
+| 16 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 17 | [बालकृष्ण शिवराम मुंजे](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%9c%e0%a5%87) | N/A |
+| 18 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
+| 19 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 20 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 21 | [Foxconn](http://twitter.com/search?q=Foxconn) | N/A |
+| 22 | [विजय अभियान](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 23 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 24 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 25 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 26 | [कबीर सागर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 27 | [कबीर वाणी](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
+| 28 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 29 | [#ILoveManishSisodia](http://twitter.com/search?q=%23ILoveManishSisodia) | N/A |
+| 30 | [#AnuradhaPaudwal](http://twitter.com/search?q=%23AnuradhaPaudwal) | N/A |
+| 31 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 32 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
+| 33 | [#AdvantageAP](http://twitter.com/search?q=%23AdvantageAP) | N/A |
+| 34 | [#wtcfinal](http://twitter.com/search?q=%23wtcfinal) | N/A |
+| 35 | [#LockUppWithKaran](http://twitter.com/search?q=%23LockUppWithKaran) | N/A |
+| 36 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
+| 37 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 38 | [#दीपक_चरसिया](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95_%e0%a4%9a%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 39 | [#APGlobalInvestorsSummit](http://twitter.com/search?q=%23APGlobalInvestorsSummit) | N/A |
+| 40 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 41 | [#TheLegend](http://twitter.com/search?q=%23TheLegend) | N/A |
+| 42 | [#विश्व_वन्यजीव_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b5%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%9c%e0%a5%80%e0%a4%b5_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 43 | [#WWD2023](http://twitter.com/search?q=%23WWD2023) | N/A |
+| 44 | [#FatherDaughterTalk](http://twitter.com/search?q=%23FatherDaughterTalk) | N/A |
+| 45 | [#HappyBirthdayShraddhaKapoor](http://twitter.com/search?q=%23HappyBirthdayShraddhaKapoor) | N/A |
+| 46 | [#SandeepReddyVanga](http://twitter.com/search?q=%23SandeepReddyVanga) | N/A |
+| 47 | [#Mannat](http://twitter.com/search?q=%23Mannat) | N/A |
+| 48 | [#Quad](http://twitter.com/search?q=%23Quad) | N/A |
+| 49 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 50 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Volgograd
 
-📆 Last Updated: `2023-03-03 06:17:31 UTC`
+📆 Last Updated: `2023-03-03 07:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for [Russia](</Russia>)
 | 23 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 24 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 25 | [яндекс](http://twitter.com/search?q=%d1%8f%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
-| 26 | [лучшая](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [ВЕСНА](http://twitter.com/search?q=%d0%92%d0%95%d0%a1%d0%9d%d0%90) | N/A |
-| 29 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 30 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
-| 31 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 32 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 33 | [слушай](http://twitter.com/search?q=%d1%81%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 34 | [вполне](http://twitter.com/search?q=%d0%b2%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
-| 35 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 36 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
-| 37 | [дада](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b4%d0%b0) | N/A |
-| 38 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 39 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
-| 40 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
-| 41 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 42 | [пусть](http://twitter.com/search?q=%d0%bf%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 43 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 44 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
-| 45 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 46 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
-| 47 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 48 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
-| 49 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 50 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 26 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 27 | [лучшая](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 30 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 31 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 32 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 33 | [ЧВК Редан](http://twitter.com/search?q=%d0%a7%d0%92%d0%9a+%d0%a0%d0%b5%d0%b4%d0%b0%d0%bd) | N/A |
+| 34 | [Дада](http://twitter.com/search?q=%d0%94%d0%b0%d0%b4%d0%b0) | N/A |
+| 35 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
+| 36 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
+| 37 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 38 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 39 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 40 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 41 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 42 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | N/A |
+| 43 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 44 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
+| 45 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 46 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 47 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 50 | [в москве](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-03 06:17:23 UTC`
+📆 Last Updated: `2023-03-03 07:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 2 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 3 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 4 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 5 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 6 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 7 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
-| 8 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
-| 9 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
-| 10 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 11 | [#BBWomenInMusic](http://twitter.com/search?q=%23BBWomenInMusic) | N/A |
-| 12 | [FOR US](http://twitter.com/search?q=FOR+US) | N/A |
-| 13 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 14 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
-| 15 | [cole hyung](http://twitter.com/search?q=cole+hyung) | N/A |
-| 16 | [AS ALWAYS](http://twitter.com/search?q=AS+ALWAYS) | N/A |
-| 17 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
-| 18 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 19 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
-| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 21 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
-| 22 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
-| 27 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 28 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 29 | [iKON IS COMING TO TOWN](http://twitter.com/search?q=iKON+IS+COMING+TO+TOWN) | N/A |
-| 30 | [Pika](http://twitter.com/search?q=Pika) | N/A |
-| 31 | [twentyfourever zach](http://twitter.com/search?q=twentyfourever+zach) | N/A |
-| 32 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 4 | [#MaineAt28](http://twitter.com/search?q=%23MaineAt28) | N/A |
+| 5 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 6 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 7 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 8 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 9 | [#TWICE_BreakthroughAward](http://twitter.com/search?q=%23TWICE_BreakthroughAward) | N/A |
+| 10 | [#SEJOSH](http://twitter.com/search?q=%23SEJOSH) | N/A |
+| 11 | [#NCATxSKZinMNLGA](http://twitter.com/search?q=%23NCATxSKZinMNLGA) | N/A |
+| 12 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 13 | [FOR US](http://twitter.com/search?q=FOR+US) | N/A |
+| 14 | [AS ALWAYS](http://twitter.com/search?q=AS+ALWAYS) | N/A |
+| 15 | [LAZADA DAY WITH BGYO](http://twitter.com/search?q=LAZADA+DAY+WITH+BGYO) | N/A |
+| 16 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 17 | [TWICE BILLBOARD AWARD](http://twitter.com/search?q=TWICE+BILLBOARD+AWARD) | N/A |
+| 18 | [COLE WORLD](http://twitter.com/search?q=COLE+WORLD) | N/A |
+| 19 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 20 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 21 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
+| 22 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 23 | [ikon is coming to town](http://twitter.com/search?q=ikon+is+coming+to+town) | N/A |
+| 24 | [twentyfourever zach](http://twitter.com/search?q=twentyfourever+zach) | N/A |
+| 25 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 26 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 27 | [BSS MCOUNTDOWN TRIPLE CROWN](http://twitter.com/search?q=BSS+MCOUNTDOWN+TRIPLE+CROWN) | N/A |
+| 28 | [RED VELVET 4TH CONCERT](http://twitter.com/search?q=RED+VELVET+4TH+CONCERT) | N/A |
+| 29 | [aldenxlaz11th bdaysupershow](http://twitter.com/search?q=aldenxlaz11th+bdaysupershow) | N/A |
+| 30 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
+| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 32 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 33 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 34 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
-| 35 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 36 | [bss mcountdown triple crown](http://twitter.com/search?q=bss+mcountdown+triple+crown) | N/A |
-| 37 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 38 | [RED VELVET 4TH CONCERT](http://twitter.com/search?q=RED+VELVET+4TH+CONCERT) | N/A |
-| 39 | [aldenxlaz11th bdaysupershow](http://twitter.com/search?q=aldenxlaz11th+bdaysupershow) | N/A |
-| 40 | [KAI ROVER TEASER IMAGES 2](http://twitter.com/search?q=KAI+ROVER+TEASER+IMAGES+2) | N/A |
-| 41 | [des cheng](http://twitter.com/search?q=des+cheng) | N/A |
+| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 35 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 36 | [KATH CELEBRATES LAZbingisa](http://twitter.com/search?q=KATH+CELEBRATES+LAZbingisa) | N/A |
+| 37 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 38 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
+| 39 | [Pika](http://twitter.com/search?q=Pika) | N/A |
+| 40 | [JOMesmerizing Boy](http://twitter.com/search?q=JOMesmerizing+Boy) | N/A |
+| 41 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
 | 42 | [Vocal Unit](http://twitter.com/search?q=Vocal+Unit) | N/A |
-| 43 | [JOMesmerizing Boy](http://twitter.com/search?q=JOMesmerizing+Boy) | N/A |
-| 44 | [THE PORTRAITS OF JISOO](http://twitter.com/search?q=THE+PORTRAITS+OF+JISOO) | N/A |
-| 45 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 46 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 43 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
+| 44 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 45 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 46 | [bobby single coming soon](http://twitter.com/search?q=bobby+single+coming+soon) | N/A |
 | 47 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 48 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 49 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 50 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 48 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 49 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 50 | [EASL](http://twitter.com/search?q=EASL) | N/A |
 
 
 
