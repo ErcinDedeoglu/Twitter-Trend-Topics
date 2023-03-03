@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-03 22:16:26 UTC`
+📆 Last Updated: `2023-03-03 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 2 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
-| 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 4 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 1 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
+| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 3 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
+| 4 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
 | 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
 | 6 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 7 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
-| 8 | [#BuongiornoMamma2](http://twitter.com/search?q=%23BuongiornoMamma2) | N/A |
-| 9 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 10 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 11 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 12 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 13 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
-| 14 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
-| 15 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 16 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 17 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 18 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 19 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 22 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 23 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 24 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 26 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 27 | [Venere e Giove](http://twitter.com/search?q=Venere+e+Giove) | N/A |
-| 28 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 30 | [Lucio Dalla](http://twitter.com/search?q=Lucio+Dalla) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [#colapescedimartino](http://twitter.com/search?q=%23colapescedimartino) | N/A |
+| 7 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 8 | [Maurizia](http://twitter.com/search?q=Maurizia) | N/A |
+| 9 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 10 | [Michelino](http://twitter.com/search?q=Michelino) | N/A |
+| 11 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 12 | [Maria Teresa](http://twitter.com/search?q=Maria+Teresa) | N/A |
+| 13 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 14 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 15 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 16 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
+| 17 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 18 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
+| 19 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 20 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 21 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 22 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 23 | [Hysaj](http://twitter.com/search?q=Hysaj) | N/A |
+| 24 | [Lobotka](http://twitter.com/search?q=Lobotka) | N/A |
+| 25 | [Jacopo](http://twitter.com/search?q=Jacopo) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 28 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 29 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 30 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 33 | [#unadomenicaitaliana](http://twitter.com/search?q=%23unadomenicaitaliana) | N/A |
-| 34 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 36 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 37 | [#CiaoLucio](http://twitter.com/search?q=%23CiaoLucio) | N/A |
-| 38 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 39 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 40 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 41 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 42 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 43 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 44 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 45 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 46 | [#Astorre](http://twitter.com/search?q=%23Astorre) | N/A |
+| 34 | [#colapescedimartino](http://twitter.com/search?q=%23colapescedimartino) | N/A |
+| 35 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 36 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 37 | [#Spalletti](http://twitter.com/search?q=%23Spalletti) | N/A |
+| 38 | [#CiaoLucio](http://twitter.com/search?q=%23CiaoLucio) | N/A |
+| 39 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 40 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 41 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 42 | [#amicispoiler](http://twitter.com/search?q=%23amicispoiler) | #Amicispoiler is a hashtag used on social media to warn readers that a post contains spoilers for the novel The Adventures of Pinocchio by Carlo Collodi. It is used to alert readers that the post contains information about the plot or characters that could ruin their enjoyment of the book if they have not yet read it. |
+| 43 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 44 | [#Adani](http://twitter.com/search?q=%23Adani) | N/A |
+| 45 | [#BrunoAstorre](http://twitter.com/search?q=%23BrunoAstorre) | N/A |
 
 
 

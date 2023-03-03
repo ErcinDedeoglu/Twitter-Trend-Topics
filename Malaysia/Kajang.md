@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-03-03 22:16:37 UTC`
+📆 Last Updated: `2023-03-03 23:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
 | 5 | [#themaskedsingermalaysia](http://twitter.com/search?q=%23themaskedsingermalaysia) | N/A |
 | 6 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 7 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 7 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 8 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 9 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 10 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 11 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 12 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 13 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 15 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 16 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 19 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 22 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 23 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 24 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 25 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 27 | [Welcome to Malaysia](http://twitter.com/search?q=Welcome+to+Malaysia) | N/A |
-| 28 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 29 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 30 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 31 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 32 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 33 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 34 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
-| 35 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 36 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 37 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 38 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
-| 39 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
-| 40 | [klia](http://twitter.com/search?q=klia) | N/A |
-| 41 | [Dori](http://twitter.com/search?q=Dori) | N/A |
-| 42 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
+| 13 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 14 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 15 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 19 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 20 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 21 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 22 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 23 | [welcome to malaysia](http://twitter.com/search?q=welcome+to+malaysia) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
+| 27 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 28 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 29 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 30 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 31 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
+| 32 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 33 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
+| 34 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 35 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 36 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 37 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 38 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
+| 39 | [klia](http://twitter.com/search?q=klia) | N/A |
+| 40 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
+| 41 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 42 | [Dori](http://twitter.com/search?q=Dori) | N/A |
 | 43 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 44 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 45 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 46 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 47 | [Jho Low](http://twitter.com/search?q=Jho+Low) | N/A |
-| 48 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 44 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
+| 45 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 46 | [Jho Low](http://twitter.com/search?q=Jho+Low) | N/A |
+| 47 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 48 | [Klang](http://twitter.com/search?q=Klang) | N/A |
 
 
 

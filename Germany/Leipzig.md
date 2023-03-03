@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-03 22:16:25 UTC`
+📆 Last Updated: `2023-03-03 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
-| 2 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
-| 3 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
-| 4 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
-| 5 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
-| 6 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
-| 7 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 8 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 9 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
-| 10 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
-| 15 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 18 | [Hüftgold](http://twitter.com/search?q=H%c3%bcftgold) | N/A |
-| 19 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 20 | [Opoku](http://twitter.com/search?q=Opoku) | N/A |
-| 21 | [Maxi Schafroth](http://twitter.com/search?q=Maxi+Schafroth) | N/A |
-| 22 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 23 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
-| 24 | [Hasi](http://twitter.com/search?q=Hasi) | N/A |
-| 25 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 26 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
-| 27 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 28 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 29 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 30 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 31 | [Schlepper](http://twitter.com/search?q=Schlepper) | N/A |
-| 32 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 34 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 37 | [Justiz](http://twitter.com/search?q=Justiz) | N/A |
-| 38 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 39 | [#ulfl](http://twitter.com/search?q=%23ulfl) | N/A |
-| 40 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
-| 41 | [#BVBLeipzig](http://twitter.com/search?q=%23BVBLeipzig) | N/A |
-| 42 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 43 | [#heuteshow](http://twitter.com/search?q=%23heuteshow) | N/A |
-| 44 | [#FCMFCK](http://twitter.com/search?q=%23FCMFCK) | N/A |
-| 45 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
-| 46 | [#SCPFCSP](http://twitter.com/search?q=%23SCPFCSP) | N/A |
-| 47 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 48 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 49 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 50 | [#SGESCF](http://twitter.com/search?q=%23SGESCF) | N/A |
+| 2 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
+| 3 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
+| 4 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
+| 5 | [#ulfl](http://twitter.com/search?q=%23ulfl) | N/A |
+| 6 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
+| 7 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 8 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 9 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
+| 10 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 11 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 12 | [Jurys](http://twitter.com/search?q=Jurys) | N/A |
+| 13 | [Katja Ebstein](http://twitter.com/search?q=Katja+Ebstein) | N/A |
+| 14 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 15 | [Anica Russo](http://twitter.com/search?q=Anica+Russo) | N/A |
+| 16 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 17 | [LOTL](http://twitter.com/search?q=LOTL) | N/A |
+| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
+| 21 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 22 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
+| 23 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 24 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 25 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 26 | [Favoriten](http://twitter.com/search?q=Favoriten) | N/A |
+| 27 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 28 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 29 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
+| 30 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 31 | [Hasi](http://twitter.com/search?q=Hasi) | N/A |
+| 32 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
+| 33 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 34 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 35 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
+| 36 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 37 | [Schlepper](http://twitter.com/search?q=Schlepper) | N/A |
+| 38 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 39 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
+| 40 | [Vergewaltiger](http://twitter.com/search?q=Vergewaltiger) | N/A |
+| 41 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 42 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
+| 43 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
+| 44 | [#ESCVorentscheid](http://twitter.com/search?q=%23ESCVorentscheid) | N/A |
+| 45 | [#BVBLeipzig](http://twitter.com/search?q=%23BVBLeipzig) | N/A |
+| 46 | [#deuschland](http://twitter.com/search?q=%23deuschland) | N/A |
+| 47 | [#heuteshow](http://twitter.com/search?q=%23heuteshow) | N/A |
+| 48 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 49 | [#LezFaZ](http://twitter.com/search?q=%23LezFaZ) | N/A |
+| 50 | [#FCMFCK](http://twitter.com/search?q=%23FCMFCK) | N/A |
 
 
 

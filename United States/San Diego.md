@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-03 22:17:03 UTC`
+📆 Last Updated: `2023-03-03 23:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 3 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
-| 4 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 1 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 2 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 3 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
 | 6 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 8 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 9 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
 | 10 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 12 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
 | 13 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 14 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 15 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
-| 16 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 16 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
 | 17 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 18 | [Jonathan Isaac](http://twitter.com/search?q=Jonathan+Isaac) | Jonathan Isaac is a professional basketball player who currently plays for the Orlando Magic of the National Basketball Association (NBA). He was selected with the sixth overall pick in the 2017 NBA draft. The name Jonathan Isaac is derived from the Hebrew name Yehonatan, which means "God has given". |
-| 19 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 20 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 18 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
+| 19 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 20 | [Cooper Neese](http://twitter.com/search?q=Cooper+Neese) | N/A |
 | 21 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 22 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 23 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 26 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 27 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
-| 28 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 29 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 32 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
-| 33 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
-| 34 | [Lamar to Washington](http://twitter.com/search?q=Lamar+to+Washington) | N/A |
-| 35 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
-| 36 | [Cooper Neese](http://twitter.com/search?q=Cooper+Neese) | N/A |
-| 37 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 38 | [SC Upstate](http://twitter.com/search?q=SC+Upstate) | N/A |
-| 39 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 40 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 22 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 23 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 24 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
+| 25 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 26 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
+| 27 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 28 | [Jonathan Isaac](http://twitter.com/search?q=Jonathan+Isaac) | Jonathan Isaac is a professional basketball player who currently plays for the Orlando Magic of the National Basketball Association (NBA). He was selected with the sixth overall pick in the 2017 NBA draft. The name Jonathan Isaac is derived from the Hebrew name Yehonatan, which means "God has given". |
+| 29 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
+| 30 | [Indiana State](http://twitter.com/search?q=Indiana+State) | N/A |
+| 31 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
+| 32 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 35 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
+| 36 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 37 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 38 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 39 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 40 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
 | 41 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 42 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
-| 43 | [Deonte Banks](http://twitter.com/search?q=Deonte+Banks) | N/A |
-| 44 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 45 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 46 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 47 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
-| 48 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
-| 49 | [Asplund](http://twitter.com/search?q=Asplund) | N/A |
-| 50 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 42 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 43 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
+| 44 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 45 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
+| 46 | [Deliver Us Mars](http://twitter.com/search?q=Deliver+Us+Mars) | N/A |
+| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 48 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 49 | [SC Upstate](http://twitter.com/search?q=SC+Upstate) | N/A |
+| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 
 
 

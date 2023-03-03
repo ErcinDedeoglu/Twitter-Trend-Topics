@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-03 22:16:07 UTC`
+📆 Last Updated: `2023-03-03 23:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 2 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 1 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 2 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
 | 3 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 6 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 7 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 8 | [#isitok](http://twitter.com/search?q=%23isitok) | N/A |
-| 9 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
-| 10 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 11 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 12 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 13 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 14 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 15 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 16 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
-| 17 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 18 | [#MetroidPrimeRemastered](http://twitter.com/search?q=%23MetroidPrimeRemastered) | N/A |
-| 19 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 20 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 21 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 22 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 4 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 5 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 6 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
+| 7 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 10 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 11 | [Turkish Delight](http://twitter.com/search?q=Turkish+Delight) | N/A |
+| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 13 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 14 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 17 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 18 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 19 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 20 | [Spartacus](http://twitter.com/search?q=Spartacus) | N/A |
+| 21 | [#BorisTheLiar](http://twitter.com/search?q=%23BorisTheLiar) | N/A |
+| 22 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 | 23 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 24 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 25 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 26 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 27 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 28 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 29 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 24 | [#NintendoSwitch](http://twitter.com/search?q=%23NintendoSwitch) | N/A |
+| 25 | [#JohnsonTheLiar](http://twitter.com/search?q=%23JohnsonTheLiar) | N/A |
+| 26 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 27 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 28 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 29 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
 | 30 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 32 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 31 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 32 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 33 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 34 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 35 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 36 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 37 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
-| 38 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 39 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 40 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 41 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 44 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 45 | [Walters](http://twitter.com/search?q=Walters) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 48 | [Darlow](http://twitter.com/search?q=Darlow) | N/A |
-| 49 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 34 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 35 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 36 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 37 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
+| 38 | [Walters](http://twitter.com/search?q=Walters) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 41 | [Darlow](http://twitter.com/search?q=Darlow) | N/A |
+| 42 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 43 | [Frankie Boyle](http://twitter.com/search?q=Frankie+Boyle) | N/A |
+| 44 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 45 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 46 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
+| 47 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 48 | [Rohan Smith](http://twitter.com/search?q=Rohan+Smith) | N/A |
+| 49 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
 
 
 
