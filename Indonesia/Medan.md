@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-04 07:16:26 UTC`
+📆 Last Updated: `2023-03-04 08:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 3 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 4 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
-| 5 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 6 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 7 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 8 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 9 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
-| 10 | [KIM SEOKJIN](http://twitter.com/search?q=KIM+SEOKJIN) | KIM SEOKJIN is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. In English, it means "golden star of hope". |
-| 11 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 12 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 13 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 14 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [MC JUNGWOO TODAY](http://twitter.com/search?q=MC+JUNGWOO+TODAY) | N/A |
-| 17 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 18 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 19 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 20 | [Combat Experience](http://twitter.com/search?q=Combat+Experience) | N/A |
-| 21 | [like it like it release](http://twitter.com/search?q=like+it+like+it+release) | N/A |
-| 22 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 1 | [#ROAR3rdWin](http://twitter.com/search?q=%23ROAR3rdWin) | N/A |
+| 2 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 3 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 4 | [#THEBOYZ20thWin](http://twitter.com/search?q=%23THEBOYZ20thWin) | N/A |
+| 5 | [#TDS2inJAKARTA_DAY1](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY1) | N/A |
+| 6 | [KIM SEOKJIN](http://twitter.com/search?q=KIM+SEOKJIN) | KIM SEOKJIN is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. In English, it means "golden star of hope". |
+| 7 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 8 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 9 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 10 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
+| 11 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 12 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 13 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 14 | [Pohon](http://twitter.com/search?q=Pohon) | N/A |
+| 15 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 16 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [COD VENUE](http://twitter.com/search?q=COD+VENUE) | N/A |
+| 19 | [Jakarta Utara](http://twitter.com/search?q=Jakarta+Utara) | N/A |
+| 20 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 21 | [Bule](http://twitter.com/search?q=Bule) | N/A |
+| 22 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
 | 23 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 24 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 25 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 26 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 27 | [Pohon](http://twitter.com/search?q=Pohon) | N/A |
-| 28 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 30 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 31 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 32 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 33 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 34 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 35 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 36 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 37 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 38 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 39 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 40 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 41 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
-| 42 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 43 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 44 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 45 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
-| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 47 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 48 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 49 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 50 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 24 | [#KitaDukungJakartaBIN](http://twitter.com/search?q=%23KitaDukungJakartaBIN) | N/A |
+| 25 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 26 | [#OhmNanonReadyforHK](http://twitter.com/search?q=%23OhmNanonReadyforHK) | N/A |
+| 27 | [#EbonixLittleTwo](http://twitter.com/search?q=%23EbonixLittleTwo) | N/A |
+| 28 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 29 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
+| 30 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
+| 31 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 32 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 33 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 34 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
+| 35 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 36 | [#TheDreamShow2InJKT](http://twitter.com/search?q=%23TheDreamShow2InJKT) | N/A |
+| 37 | [#BLACKPINK_BORNPINK](http://twitter.com/search?q=%23BLACKPINK_BORNPINK) | N/A |
+| 38 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 39 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 40 | [#IDNWorldSBK](http://twitter.com/search?q=%23IDNWorldSBK) | N/A |
+| 41 | [#NCTDREAM_THEDREAMSHOW2_in_JKT](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_JKT) | N/A |
+| 42 | [#PLTGSamberaMangkrak](http://twitter.com/search?q=%23PLTGSamberaMangkrak) | N/A |
+| 43 | [#PrayForPlumpang](http://twitter.com/search?q=%23PrayForPlumpang) | N/A |
 
 
 

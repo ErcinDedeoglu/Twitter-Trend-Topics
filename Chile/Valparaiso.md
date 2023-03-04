@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-04 07:16:12 UTC`
+📆 Last Updated: `2023-03-04 08:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,49 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
 | 4 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
 | 5 | [#ñubvsucxtntsports](http://twitter.com/search?q=%23%c3%b1ubvsucxtntsports) | N/A |
-| 6 | [#NiFloresNiChocolates](http://twitter.com/search?q=%23NiFloresNiChocolates) | N/A |
-| 7 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 8 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 11 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 12 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 13 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 14 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 15 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
-| 16 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
-| 17 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 18 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 19 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
-| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 21 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 22 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 23 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 24 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
-| 25 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 26 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 27 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 28 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
-| 29 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
-| 30 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 31 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 32 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 33 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 34 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 35 | [rovira](http://twitter.com/search?q=rovira) | N/A |
-| 36 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
-| 37 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 38 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
-| 39 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 40 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 41 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
-| 42 | [Bocado](http://twitter.com/search?q=Bocado) | N/A |
-| 43 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 44 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 45 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 46 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 47 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
-| 48 | [Catuto](http://twitter.com/search?q=Catuto) | N/A |
-| 49 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 6 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 7 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
+| 10 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 11 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 12 | [católica](http://twitter.com/search?q=cat%c3%b3lica) | N/A |
+| 13 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
+| 14 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
+| 15 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 16 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 18 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 19 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 20 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 21 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 22 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
+| 23 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 24 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 25 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
+| 26 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
+| 27 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
+| 28 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 29 | [Generala](http://twitter.com/search?q=Generala) | N/A |
+| 30 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 31 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 32 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 33 | [rovira](http://twitter.com/search?q=rovira) | N/A |
+| 34 | [general soza](http://twitter.com/search?q=general+soza) | N/A |
+| 35 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 36 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 37 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 38 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 39 | [Bocado](http://twitter.com/search?q=Bocado) | N/A |
+| 40 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 41 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 42 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 43 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 44 | [bellolio](http://twitter.com/search?q=bellolio) | N/A |
+| 45 | [Catuto](http://twitter.com/search?q=Catuto) | N/A |
+| 46 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 47 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
+| 48 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 
 
 

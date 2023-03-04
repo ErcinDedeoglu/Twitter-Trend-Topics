@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-04 07:16:56 UTC`
+📆 Last Updated: `2023-03-04 08:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,15 +24,15 @@ This is top 50 for Ecuador
 | 7 | [Reina del Cisne](http://twitter.com/search?q=Reina+del+Cisne) | N/A |
 | 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
 | 9 | [El Aromo](http://twitter.com/search?q=El+Aromo) | N/A |
-| 10 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Margarita Rosa de Francisco](http://twitter.com/search?q=Margarita+Rosa+de+Francisco) | N/A |
-| 13 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 14 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
-| 15 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 16 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
-| 17 | [Refinería](http://twitter.com/search?q=Refiner%c3%ada) | N/A |
-| 18 | [Anderson Naula](http://twitter.com/search?q=Anderson+Naula) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Margarita Rosa de Francisco](http://twitter.com/search?q=Margarita+Rosa+de+Francisco) | N/A |
+| 12 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 13 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
+| 14 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 15 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
+| 16 | [Refinería](http://twitter.com/search?q=Refiner%c3%ada) | N/A |
+| 17 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 18 | [anderson naula](http://twitter.com/search?q=anderson+naula) | N/A |
 | 19 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
 | 20 | [roddy zambrano](http://twitter.com/search?q=roddy+zambrano) | N/A |
 | 21 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
@@ -52,11 +52,11 @@ This is top 50 for Ecuador
 | 35 | [roberto garcés](http://twitter.com/search?q=roberto+garc%c3%a9s) | N/A |
 | 36 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 37 | [Loja](http://twitter.com/search?q=Loja) | N/A |
-| 38 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 38 | [recalde](http://twitter.com/search?q=recalde) | N/A |
 | 39 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 40 | [Gina Zambrano](http://twitter.com/search?q=Gina+Zambrano) | N/A |
-| 41 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 42 | [Coca Codo Sinclair](http://twitter.com/search?q=Coca+Codo+Sinclair) | N/A |
+| 41 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 42 | [coca codo sinclair](http://twitter.com/search?q=coca+codo+sinclair) | N/A |
 | 43 | [Erika](http://twitter.com/search?q=Erika) | N/A |
 | 44 | [Carlos Flores](http://twitter.com/search?q=Carlos+Flores) | N/A |
 | 45 | [Salazar](http://twitter.com/search?q=Salazar) | N/A |

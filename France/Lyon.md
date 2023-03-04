@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-04 07:16:18 UTC`
+📆 Last Updated: `2023-03-04 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Enfoirés2023](http://twitter.com/search?q=%23Enfoir%c3%a9s2023) | N/A |
-| 2 | [#DaSpace](http://twitter.com/search?q=%23DaSpace) | N/A |
-| 3 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 4 | [#ogcnaja](http://twitter.com/search?q=%23ogcnaja) | N/A |
+| 2 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 3 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 4 | [#DaSpace](http://twitter.com/search?q=%23DaSpace) | N/A |
 | 5 | [#400kbetclic](http://twitter.com/search?q=%23400kbetclic) | N/A |
-| 6 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 7 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 8 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 6 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
+| 7 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 8 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
 | 9 | [JOUR DE DERBY](http://twitter.com/search?q=JOUR+DE+DERBY) | N/A |
-| 10 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 11 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 10 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 11 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 12 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
-| 13 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 14 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 20 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 21 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
-| 22 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 13 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 14 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
+| 15 | [Bonjour Isabelle](http://twitter.com/search?q=Bonjour+Isabelle) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 18 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
+| 19 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 20 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
 | 23 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 24 | [Merci MAPPA](http://twitter.com/search?q=Merci+MAPPA) | N/A |
-| 25 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
-| 26 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
+| 24 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 25 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 26 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
 | 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 28 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 29 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 30 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
-| 31 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 28 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
+| 29 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
+| 30 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 31 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
 | 32 | [Caron](http://twitter.com/search?q=Caron) | N/A |
 | 33 | [Mimie Mathy](http://twitter.com/search?q=Mimie+Mathy) | N/A |
-| 34 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 35 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 36 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 37 | [Rious](http://twitter.com/search?q=Rious) | N/A |
-| 38 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 40 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 41 | [lanvin](http://twitter.com/search?q=lanvin) | N/A |
-| 42 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 43 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 44 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 35 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 36 | [Rious](http://twitter.com/search?q=Rious) | N/A |
+| 37 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 38 | [Casimir](http://twitter.com/search?q=Casimir) | N/A |
+| 39 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
+| 40 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 42 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 43 | [Jour J](http://twitter.com/search?q=Jour+J) | N/A |
+| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 | 45 | [Dinaz](http://twitter.com/search?q=Dinaz) | N/A |
 | 46 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 47 | [Casimir](http://twitter.com/search?q=Casimir) | N/A |
-| 48 | [pourchaire](http://twitter.com/search?q=pourchaire) | N/A |
-| 49 | [kekra](http://twitter.com/search?q=kekra) | N/A |
-| 50 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 47 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 48 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 49 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
+| 50 | [Bouleversant](http://twitter.com/search?q=Bouleversant) | N/A |
 
 
 

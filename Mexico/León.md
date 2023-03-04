@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-03-04 07:16:10 UTC`
+📆 Last Updated: `2023-03-04 08:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,50 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 4 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 5 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 6 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
-| 7 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 8 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 9 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 10 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 2 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 3 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 4 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 5 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 6 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
+| 7 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
+| 8 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 9 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 10 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
 | 11 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 12 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 13 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 14 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 15 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 16 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 12 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 13 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 14 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 15 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 16 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
 | 17 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
 | 18 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 19 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 20 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 21 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 22 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 23 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 24 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 25 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
-| 26 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 27 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 28 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 29 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 30 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 32 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 33 | [ANDRESSE Y NELSON X CAÑAVERAL](http://twitter.com/search?q=ANDRESSE+Y+NELSON+X+CA%c3%91AVERAL) | N/A |
+| 19 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 20 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 21 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 22 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 23 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 24 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 25 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 26 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
+| 27 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 28 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 29 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 30 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 31 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 32 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 33 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
 | 34 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 35 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 36 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 37 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 38 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 39 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 40 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 41 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 42 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 43 | [Nando](http://twitter.com/search?q=Nando) | N/A |
-| 44 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 45 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 46 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 47 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 35 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 36 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 37 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 38 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 39 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 40 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 41 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 42 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 43 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 44 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 45 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-04 07:16:21 UTC`
+📆 Last Updated: `2023-03-04 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
 | 2 | [#4marzo](http://twitter.com/search?q=%234marzo) | N/A |
-| 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 3 | [#LucioDalla](http://twitter.com/search?q=%23LucioDalla) | N/A |
 | 4 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
 | 5 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
 | 6 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 7 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 8 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
-| 9 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 10 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 11 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 14 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 15 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
-| 16 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 17 | [Buongiorno Ferula](http://twitter.com/search?q=Buongiorno+Ferula) | N/A |
-| 18 | [maria teresa](http://twitter.com/search?q=maria+teresa) | N/A |
-| 19 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 20 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
-| 21 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 22 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 23 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 24 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 25 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 26 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 27 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 28 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 29 | [clementino](http://twitter.com/search?q=clementino) | N/A |
-| 30 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 31 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 33 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 34 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 35 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 36 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
-| 37 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 38 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 39 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 40 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 41 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 42 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 43 | [hysaj](http://twitter.com/search?q=hysaj) | N/A |
-| 44 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
-| 45 | [agata](http://twitter.com/search?q=agata) | N/A |
-| 46 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 47 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 48 | [grazie presidente](http://twitter.com/search?q=grazie+presidente) | N/A |
+| 7 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 8 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 9 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
+| 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 11 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
+| 12 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 16 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 17 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 18 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 19 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 20 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
+| 21 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 22 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 23 | [Buongiorno Angelo](http://twitter.com/search?q=Buongiorno+Angelo) | N/A |
+| 24 | [maria teresa](http://twitter.com/search?q=maria+teresa) | N/A |
+| 25 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
+| 26 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
+| 27 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 28 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 29 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
+| 30 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 31 | [Buongiorno Gerry](http://twitter.com/search?q=Buongiorno+Gerry) | N/A |
+| 32 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
+| 33 | [Giuliana](http://twitter.com/search?q=Giuliana) | Giuliana is an Italian female name derived from the Latin name Julius, meaning “youthful” or “downy-bearded.” It is also a variant of the name Julia. |
+| 34 | [michelino](http://twitter.com/search?q=michelino) | N/A |
+| 35 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 36 | [Conte e Speranza](http://twitter.com/search?q=Conte+e+Speranza) | N/A |
+| 37 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 38 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 39 | [clementino](http://twitter.com/search?q=clementino) | N/A |
+| 40 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 41 | [Buongiorno Ferula](http://twitter.com/search?q=Buongiorno+Ferula) | N/A |
+| 42 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 43 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
+| 44 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 45 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
+| 46 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 47 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 48 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
 
 
 

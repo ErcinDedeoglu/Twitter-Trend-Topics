@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vladivostok
 
-📆 Last Updated: `2023-03-04 07:16:40 UTC`
+📆 Last Updated: `2023-03-04 08:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,44 +23,48 @@ This is top 50 for [Russia](</Russia>)
 | 6 | [Insider](http://twitter.com/search?q=Insider) | N/A |
 | 7 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 8 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
-| 9 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
-| 10 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 11 | [Logical](http://twitter.com/search?q=Logical) | N/A |
-| 12 | [THEE](http://twitter.com/search?q=THEE) | N/A |
-| 13 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 9 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
+| 10 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
+| 11 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
+| 12 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 13 | [Thee](http://twitter.com/search?q=Thee) | N/A |
 | 14 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
 | 15 | [Брянской](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 16 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 17 | [Брянскую](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d1%83%d1%8e) | N/A |
-| 18 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 19 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 20 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 21 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 22 | [#lionhunterchannel](http://twitter.com/search?q=%23lionhunterchannel) | N/A |
-| 23 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 24 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 16 | [Брянскую](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d1%83%d1%8e) | N/A |
+| 17 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 18 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 19 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
+| 20 | [#lionhunterchannel](http://twitter.com/search?q=%23lionhunterchannel) | N/A |
+| 21 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 22 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 23 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
+| 24 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 25 | [Король и Шут](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d0%a8%d1%83%d1%82) | N/A |
-| 26 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
-| 27 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 28 | [call of duty warzone 2.0 - dmz](http://twitter.com/search?q=call+of+duty+warzone+2.0+-+dmz) | N/A |
+| 26 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
+| 27 | [call of duty warzone 2.0 - dmz](http://twitter.com/search?q=call+of+duty+warzone+2.0+-+dmz) | N/A |
+| 28 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 29 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 30 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 31 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 32 | [рада](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
-| 33 | [дубае](http://twitter.com/search?q=%d0%b4%d1%83%d0%b1%d0%b0%d0%b5) | N/A |
-| 34 | [лучший](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
-| 35 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 36 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 37 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
-| 38 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 39 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 40 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 41 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 42 | [Кинопоиске](http://twitter.com/search?q=%d0%9a%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
-| 43 | [Лучшая](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 46 | [вс рф](http://twitter.com/search?q=%d0%b2%d1%81+%d1%80%d1%84) | N/A |
+| 30 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 31 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 33 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 34 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 35 | [рада](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
+| 36 | [дубае](http://twitter.com/search?q=%d0%b4%d1%83%d0%b1%d0%b0%d0%b5) | N/A |
+| 37 | [лучший](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
+| 38 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 39 | [Красивый](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9) | N/A |
+| 40 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
+| 41 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
+| 42 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 43 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 44 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 45 | [кинопоиске](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
+| 46 | [ЛУЧШАЯ](http://twitter.com/search?q=%d0%9b%d0%a3%d0%a7%d0%a8%d0%90%d0%af) | N/A |
+| 47 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 48 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 50 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 
 
 

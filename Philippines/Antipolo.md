@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-04 07:16:33 UTC`
+📆 Last Updated: `2023-03-04 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 4 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
-| 5 | [jihope](http://twitter.com/search?q=jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 6 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
-| 7 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
-| 8 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 9 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 10 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 11 | [#กดบัตรฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
-| 12 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 13 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
-| 14 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 15 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
-| 16 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 17 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 18 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
-| 19 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 20 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 21 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 22 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 23 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 24 | [Binsan](http://twitter.com/search?q=Binsan) | N/A |
-| 25 | [Through the Night](http://twitter.com/search?q=Through+the+Night) | N/A |
-| 26 | [CASSREN VISITS DEEUNIVERSITY](http://twitter.com/search?q=CASSREN+VISITS+DEEUNIVERSITY) | N/A |
-| 27 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 28 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 29 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 30 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 31 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 32 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 33 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 1 | [#ROAR3rdWin](http://twitter.com/search?q=%23ROAR3rdWin) | N/A |
+| 2 | [Go USTe](http://twitter.com/search?q=Go+USTe) | N/A |
+| 3 | [#THEBOYZ20thWin](http://twitter.com/search?q=%23THEBOYZ20thWin) | N/A |
+| 4 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 5 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 6 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
+| 7 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 8 | [#BGYO_BeUsMallShow](http://twitter.com/search?q=%23BGYO_BeUsMallShow) | N/A |
+| 9 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
+| 10 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 11 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
+| 12 | [jihope](http://twitter.com/search?q=jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 13 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 14 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
+| 15 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
+| 16 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 17 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
+| 18 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
+| 19 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 20 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 21 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 22 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
+| 23 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 24 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 25 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 26 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
+| 27 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
+| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 29 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
+| 30 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 31 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
+| 32 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 33 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
 | 34 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
-| 35 | [#ShowtimeKiddiePartyParty](http://twitter.com/search?q=%23ShowtimeKiddiePartyParty) | N/A |
-| 36 | [#ShareTheJoy](http://twitter.com/search?q=%23ShareTheJoy) | N/A |
-| 37 | [#JulieForJollibee](http://twitter.com/search?q=%23JulieForJollibee) | N/A |
-| 38 | [#WWIW22](http://twitter.com/search?q=%23WWIW22) | N/A |
-| 39 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
-| 40 | [#ANewDONIsRising](http://twitter.com/search?q=%23ANewDONIsRising) | N/A |
-| 41 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
-| 42 | [#台北欢迎TREASURE](http://twitter.com/search?q=%23%e5%8f%b0%e5%8c%97%e6%ac%a2%e8%bf%8eTREASURE) | N/A |
-| 43 | [#HELLO_TAIPEI](http://twitter.com/search?q=%23HELLO_TAIPEI) | N/A |
-| 44 | [#MOONBIN_SANHA](http://twitter.com/search?q=%23MOONBIN_SANHA) | N/A |
-| 45 | [#HBDMDZ](http://twitter.com/search?q=%23HBDMDZ) | N/A |
-| 46 | [#EatBulaga](http://twitter.com/search?q=%23EatBulaga) | N/A |
-| 47 | [#ame3D](http://twitter.com/search?q=%23ame3D) | N/A |
-| 48 | [#TheJuansLiveInCebu](http://twitter.com/search?q=%23TheJuansLiveInCebu) | N/A |
-| 49 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 50 | [#MakeItGreat](http://twitter.com/search?q=%23MakeItGreat) | N/A |
+| 35 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 36 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 37 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 38 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
+| 39 | [#ShowtimeKiddiePartyParty](http://twitter.com/search?q=%23ShowtimeKiddiePartyParty) | N/A |
+| 40 | [#WWIW22](http://twitter.com/search?q=%23WWIW22) | N/A |
+| 41 | [#กดบัตรฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 42 | [#MOONBIN_SANHA](http://twitter.com/search?q=%23MOONBIN_SANHA) | N/A |
+| 43 | [#ANewDONIsRising](http://twitter.com/search?q=%23ANewDONIsRising) | N/A |
+| 44 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
+| 45 | [#台北欢迎TREASURE](http://twitter.com/search?q=%23%e5%8f%b0%e5%8c%97%e6%ac%a2%e8%bf%8eTREASURE) | N/A |
+| 46 | [#HELLO_TAIPEI](http://twitter.com/search?q=%23HELLO_TAIPEI) | N/A |
+| 47 | [#ShareTheJoy](http://twitter.com/search?q=%23ShareTheJoy) | N/A |
+| 48 | [#JulieForJollibee](http://twitter.com/search?q=%23JulieForJollibee) | N/A |
+| 49 | [#EatBulaga](http://twitter.com/search?q=%23EatBulaga) | N/A |
+| 50 | [#HBDMDZ](http://twitter.com/search?q=%23HBDMDZ) | N/A |
 
 
 

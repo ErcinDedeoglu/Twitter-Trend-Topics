@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-04 07:16:57 UTC`
+📆 Last Updated: `2023-03-04 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Guatemala
 | 17 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 18 | [aguilar batres](http://twitter.com/search?q=aguilar+batres) | N/A |
 | 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 20 | [Covial](http://twitter.com/search?q=Covial) | N/A |
+| 20 | [covial](http://twitter.com/search?q=covial) | N/A |
 | 21 | [ciudad quetzal](http://twitter.com/search?q=ciudad+quetzal) | N/A |
 | 22 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 | 23 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
@@ -47,7 +47,7 @@ This is top 50 for Guatemala
 | 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 31 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
 | 32 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 33 | [Santiago Bernabéu](http://twitter.com/search?q=Santiago+Bernab%c3%a9u) | N/A |
+| 33 | [santiago bernabéu](http://twitter.com/search?q=santiago+bernab%c3%a9u) | N/A |
 | 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 35 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Guatemala
 | 43 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 44 | [la unidad](http://twitter.com/search?q=la+unidad) | N/A |
 | 45 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 46 | [Roja](http://twitter.com/search?q=Roja) | N/A |
-| 47 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
-| 48 | [Jordán Rodas](http://twitter.com/search?q=Jord%c3%a1n+Rodas) | N/A |
-| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 50 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 46 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
+| 47 | [Jordán Rodas](http://twitter.com/search?q=Jord%c3%a1n+Rodas) | N/A |
+| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 49 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 50 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
 
 
 

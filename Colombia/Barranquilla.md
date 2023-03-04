@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-04 07:16:12 UTC`
+📆 Last Updated: `2023-03-04 08:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
 | 3 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
 | 4 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 5 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 6 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 7 | [Samper](http://twitter.com/search?q=Samper) | N/A |
-| 8 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 5 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 6 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 7 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 8 | [Samper](http://twitter.com/search?q=Samper) | N/A |
 | 9 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
 | 10 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
 | 11 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 12 | [Ñeñe](http://twitter.com/search?q=%c3%91e%c3%b1e) | N/A |
 | 13 | [Renuncie](http://twitter.com/search?q=Renuncie) | N/A |
-| 14 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 15 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
-| 16 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 17 | [#unresultadoes](http://twitter.com/search?q=%23unresultadoes) | N/A |
-| 18 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 19 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 20 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 21 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 22 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 23 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 24 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
-| 25 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
-| 26 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 14 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 15 | [#unresultadoes](http://twitter.com/search?q=%23unresultadoes) | N/A |
+| 16 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 17 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 18 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 19 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 20 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 21 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 22 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
+| 23 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 24 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
+| 25 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 26 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
 | 27 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 28 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 29 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 30 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
-| 33 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 34 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 35 | [Hollman Morris](http://twitter.com/search?q=Hollman+Morris) | N/A |
-| 36 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
-| 37 | [Guardia Campesina](http://twitter.com/search?q=Guardia+Campesina) | N/A |
-| 38 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 39 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 40 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
-| 41 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
-| 42 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 43 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
-| 44 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 45 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
-| 46 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
-| 47 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
-| 48 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
-| 49 | [Honesto](http://twitter.com/search?q=Honesto) | N/A |
-| 50 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 28 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
+| 29 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
+| 30 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
+| 31 | [Hollman Morris](http://twitter.com/search?q=Hollman+Morris) | N/A |
+| 32 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
+| 33 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
+| 34 | [Guardia Campesina](http://twitter.com/search?q=Guardia+Campesina) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 37 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 38 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
+| 39 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 40 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 41 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
+| 42 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
+| 43 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 44 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 45 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
+| 46 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
+| 47 | [Honesto](http://twitter.com/search?q=Honesto) | N/A |
+| 48 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 49 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 50 | [Prada](http://twitter.com/search?q=Prada) | N/A |
 
 
 
