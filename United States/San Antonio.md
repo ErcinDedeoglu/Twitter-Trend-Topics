@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-04 18:16:57 UTC`
+📆 Last Updated: `2023-03-04 19:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 2 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 4 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 2 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 3 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 6 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 7 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 | 9 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
 | 12 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
-| 13 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 14 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 15 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 16 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 17 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 18 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 19 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 20 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 21 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 22 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 26 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 27 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 28 | [Brayden Point](http://twitter.com/search?q=Brayden+Point) | N/A |
-| 29 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 30 | [White Democrats](http://twitter.com/search?q=White+Democrats) | N/A |
-| 31 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 32 | [Tiny D](http://twitter.com/search?q=Tiny+D) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 36 | [Azzi Fudd](http://twitter.com/search?q=Azzi+Fudd) | N/A |
-| 37 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 38 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 39 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 40 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 41 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 42 | [Suspend](http://twitter.com/search?q=Suspend) | N/A |
-| 43 | [Hale End](http://twitter.com/search?q=Hale+End) | N/A |
-| 44 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 45 | [Wooden Award](http://twitter.com/search?q=Wooden+Award) | N/A |
-| 46 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 47 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
-| 48 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 49 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 13 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 15 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 16 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 17 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 18 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 19 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 20 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 21 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 22 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 23 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 24 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
+| 25 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 26 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 27 | [Nosek](http://twitter.com/search?q=Nosek) | N/A |
+| 28 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 29 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
+| 30 | [Jalin Hyatt](http://twitter.com/search?q=Jalin+Hyatt) | N/A |
+| 31 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
+| 32 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 33 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 34 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 35 | [Charlie Coyle](http://twitter.com/search?q=Charlie+Coyle) | N/A |
+| 36 | [Alice In Chains](http://twitter.com/search?q=Alice+In+Chains) | N/A |
+| 37 | [Boutte](http://twitter.com/search?q=Boutte) | N/A |
+| 38 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
+| 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 40 | [Wade Taylor](http://twitter.com/search?q=Wade+Taylor) | N/A |
+| 41 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
+| 42 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 43 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 44 | [Zay Flowers](http://twitter.com/search?q=Zay+Flowers) | N/A |
+| 45 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 47 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 48 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 49 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-04 18:17:00 UTC`
+📆 Last Updated: `2023-03-04 19:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 3 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 4 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 5 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 6 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 8 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 9 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 11 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 12 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 13 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 16 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 19 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 20 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 21 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 22 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 23 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 24 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
-| 25 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
-| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 27 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 28 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
-| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
-| 32 | [normani](http://twitter.com/search?q=normani) | N/A |
-| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 34 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 35 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 37 | [Fallen](http://twitter.com/search?q=Fallen) | N/A |
-| 38 | [Legalmente Loira](http://twitter.com/search?q=Legalmente+Loira) | N/A |
-| 39 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 40 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
-| 41 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 42 | [Michele](http://twitter.com/search?q=Michele) | N/A |
-| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 44 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 45 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 46 | [Linha Amarela](http://twitter.com/search?q=Linha+Amarela) | N/A |
-| 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 48 | [Fred e Amanda](http://twitter.com/search?q=Fred+e+Amanda) | N/A |
-| 49 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
-| 50 | [Baianinho](http://twitter.com/search?q=Baianinho) | N/A |
+| 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 3 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 5 | [odin](http://twitter.com/search?q=odin) | N/A |
+| 6 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 7 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 8 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 10 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 11 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 12 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 13 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 15 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 16 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 17 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 18 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 21 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 22 | [Zé Ivaldo](http://twitter.com/search?q=Z%c3%a9+Ivaldo) | N/A |
+| 23 | [Legalmente Loira](http://twitter.com/search?q=Legalmente+Loira) | N/A |
+| 24 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 25 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 26 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 28 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
+| 29 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
+| 30 | [normani](http://twitter.com/search?q=normani) | N/A |
+| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 32 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
+| 33 | [now united](http://twitter.com/search?q=now+united) | N/A |
+| 34 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Go Gunners](http://twitter.com/search?q=Go+Gunners) | N/A |
+| 37 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 38 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
+| 39 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 40 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 41 | [El Mal Querer](http://twitter.com/search?q=El+Mal+Querer) | N/A |
+| 42 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 43 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 44 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 45 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
+| 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 47 | [Baianinho](http://twitter.com/search?q=Baianinho) | N/A |
+| 48 | [Fábio Assunção](http://twitter.com/search?q=F%c3%a1bio+Assun%c3%a7%c3%a3o) | N/A |
+| 49 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 50 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
 
 
 

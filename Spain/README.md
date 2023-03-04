@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-04 18:17:05 UTC`
+📆 Last Updated: `2023-03-04 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Jorge Molina](http://twitter.com/search?q=Jorge+Molina) | N/A |
-| 5 | [Burgos](http://twitter.com/search?q=Burgos) | N/A |
-| 6 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 7 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
-| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
-| 13 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 14 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 16 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 17 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 18 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 19 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
-| 20 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 21 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 22 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
-| 23 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 24 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
-| 25 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 26 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
-| 27 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 30 | [El Plantío](http://twitter.com/search?q=El+Plant%c3%ado) | N/A |
-| 31 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 32 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 33 | [Paco López](http://twitter.com/search?q=Paco+L%c3%b3pez) | N/A |
-| 34 | [El Villarreal](http://twitter.com/search?q=El+Villarreal) | N/A |
-| 35 | [Melendo](http://twitter.com/search?q=Melendo) | N/A |
-| 36 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 38 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 40 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 42 | [Paridad](http://twitter.com/search?q=Paridad) | N/A |
-| 43 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 44 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 45 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 46 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 48 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 49 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 50 | [Torrente](http://twitter.com/search?q=Torrente) | N/A |
+| 3 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
+| 4 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 5 | [Jorge Molina](http://twitter.com/search?q=Jorge+Molina) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Burgos](http://twitter.com/search?q=Burgos) | N/A |
+| 8 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
+| 9 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
+| 10 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 11 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 15 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 16 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 17 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 18 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
+| 19 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 20 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 22 | [Weir](http://twitter.com/search?q=Weir) | N/A |
+| 23 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 24 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 25 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 27 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 28 | [#HuescaLevante](http://twitter.com/search?q=%23HuescaLevante) | N/A |
+| 29 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 30 | [Carpena](http://twitter.com/search?q=Carpena) | N/A |
+| 31 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 32 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 33 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 34 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 35 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 36 | [Paco López](http://twitter.com/search?q=Paco+L%c3%b3pez) | N/A |
+| 37 | [El Villarreal](http://twitter.com/search?q=El+Villarreal) | N/A |
+| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 39 | [Melendo](http://twitter.com/search?q=Melendo) | N/A |
+| 40 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 41 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 42 | [El Plantío](http://twitter.com/search?q=El+Plant%c3%ado) | N/A |
+| 43 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 44 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 45 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 46 | [Paridad](http://twitter.com/search?q=Paridad) | N/A |
+| 47 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 48 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 49 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 50 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 
 
 

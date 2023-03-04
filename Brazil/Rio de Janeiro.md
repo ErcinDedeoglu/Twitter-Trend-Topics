@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-04 18:16:22 UTC`
+📆 Last Updated: `2023-03-04 19:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
-| 2 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 3 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 4 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 5 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
-| 6 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 7 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 8 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 11 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 12 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 13 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 16 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 17 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 18 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 19 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 20 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 23 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 26 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 27 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 28 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 29 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 30 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 31 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
-| 32 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
-| 33 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 34 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 35 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
-| 39 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 40 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 41 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 42 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 43 | [Fallen](http://twitter.com/search?q=Fallen) | N/A |
-| 44 | [normani](http://twitter.com/search?q=normani) | N/A |
-| 45 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 46 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
-| 47 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 48 | [Michele](http://twitter.com/search?q=Michele) | N/A |
-| 49 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 50 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 1 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 2 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 3 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 4 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
+| 5 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 6 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
+| 7 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 9 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 12 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 14 | [odin](http://twitter.com/search?q=odin) | N/A |
+| 15 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 16 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 17 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 18 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 19 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 20 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 21 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 22 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 24 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 25 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 26 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 29 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 30 | [Legalmente Loira](http://twitter.com/search?q=Legalmente+Loira) | N/A |
+| 31 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 32 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 33 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 35 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
+| 36 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
+| 37 | [now united](http://twitter.com/search?q=now+united) | N/A |
+| 38 | [normani](http://twitter.com/search?q=normani) | N/A |
+| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 40 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Go Gunners](http://twitter.com/search?q=Go+Gunners) | N/A |
+| 43 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 44 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 45 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 46 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 47 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
+| 48 | [El Mal Querer](http://twitter.com/search?q=El+Mal+Querer) | N/A |
+| 49 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 50 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
 
 
 
