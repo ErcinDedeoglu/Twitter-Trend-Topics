@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-04 04:16:58 UTC`
+📆 Last Updated: `2023-03-04 05:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 6 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 7 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
+| 7 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
 | 8 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 9 | [#KlamrothLuegt](http://twitter.com/search?q=%23KlamrothLuegt) | N/A |
-| 10 | [vaud](http://twitter.com/search?q=vaud) | N/A |
-| 11 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [vaud](http://twitter.com/search?q=vaud) | N/A |
+| 10 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 11 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
 | 12 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
 | 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 14 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
 | 20 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
 | 21 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
-| 22 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 22 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 23 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
 | 24 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 | 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 35 | [Masse](http://twitter.com/search?q=Masse) | N/A |
 | 36 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 37 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 38 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 38 | [gedanke](http://twitter.com/search?q=gedanke) | N/A |
 | 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 40 | [Physik](http://twitter.com/search?q=Physik) | N/A |
 | 41 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 46 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
 | 47 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
 | 48 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 49 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 49 | [genesung](http://twitter.com/search?q=genesung) | N/A |
 | 50 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
 
 

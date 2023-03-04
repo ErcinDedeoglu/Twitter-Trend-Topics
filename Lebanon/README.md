@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-04 04:17:30 UTC`
+📆 Last Updated: `2023-03-04 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,16 +34,16 @@ This is top 50 for Lebanon
 | 17 | [خليل جرادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%b1%d8%a7%d8%af%d9%8a) | N/A |
 | 18 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 19 | [المرجعيات الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [علي بري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b1%d9%8a) | N/A |
-| 21 | [القايد الحاج](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
-| 22 | [التجربه الانبوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 23 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
+| 20 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
+| 21 | [علي بري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%b1%d9%8a) | N/A |
+| 22 | [القايد الحاج](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
+| 23 | [التجربه الانبوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%a8%d9%88%d8%a8%d9%8a%d9%87) | N/A |
 | 24 | [جنان الخلد](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%84%d8%af) | N/A |
 | 25 | [علي القرض الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
 | 26 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 27 | [الاثنين المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 28 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 29 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 28 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 29 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
 | 30 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 31 | [الفريق الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
 | 32 | [علي وجه الخصوص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Lebanon
 | 34 | [وزير البييه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
 | 35 | [١٤ اذار](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
 | 36 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 37 | [غير مقبول](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
-| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 39 | [انطوان حبشي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b7%d9%88%d8%a7%d9%86+%d8%ad%d8%a8%d8%b4%d9%8a) | N/A |
-| 40 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 41 | [المدرسه الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
-| 42 | [حسن عليق](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d9%84%d9%8a%d9%82) | N/A |
-| 43 | [القوي السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 44 | [الزواج الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
-| 45 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 46 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 47 | [الامام القايد السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 48 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 49 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 37 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 38 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 39 | [غير مقبول](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [انطوان حبشي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b7%d9%88%d8%a7%d9%86+%d8%ad%d8%a8%d8%b4%d9%8a) | N/A |
+| 42 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 43 | [المدرسه الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 44 | [حسن عليق](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b9%d9%84%d9%8a%d9%82) | N/A |
+| 45 | [القوي السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 46 | [الزواج الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
+| 47 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 48 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 49 | [الامام القايد السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 50 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 
 
 

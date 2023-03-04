@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-04 04:16:57 UTC`
+📆 Last Updated: `2023-03-04 05:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 6 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 7 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
+| 7 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
 | 8 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
 | 9 | [vaud](http://twitter.com/search?q=vaud) | N/A |
 | 10 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
 | 18 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
 | 19 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
-| 20 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 20 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 21 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
 | 22 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 | 23 | [Orban](http://twitter.com/search?q=Orban) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Masse](http://twitter.com/search?q=Masse) | N/A |
 | 34 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 35 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 36 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 36 | [gedanke](http://twitter.com/search?q=gedanke) | N/A |
 | 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 38 | [Physik](http://twitter.com/search?q=Physik) | N/A |
 | 39 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
 | 45 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
 | 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 47 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 47 | [genesung](http://twitter.com/search?q=genesung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-04 04:17:22 UTC`
+📆 Last Updated: `2023-03-04 05:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
-| 2 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 2 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 3 | [California](http://twitter.com/search?q=California) | N/A |
 | 4 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 5 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 9 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 11 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 12 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
-| 13 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 13 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
 | 14 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 15 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 16 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 19 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 20 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
-| 21 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 22 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 23 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 24 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 25 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
-| 26 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 27 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 28 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 29 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 30 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 31 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 32 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 33 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 34 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 35 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 36 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 37 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 38 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 39 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 40 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 41 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 42 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 43 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
-| 44 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 45 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
-| 46 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 47 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 15 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 16 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 17 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 18 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 19 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 20 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 21 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
+| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 23 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 24 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 25 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 26 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 27 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 28 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 29 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 31 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 32 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
+| 33 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 34 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 35 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 36 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 37 | [Brandon Clarke](http://twitter.com/search?q=Brandon+Clarke) | Brandon Clarke is a name. It is of English origin and means "from the broad meadow". |
+| 38 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 39 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 40 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
+| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 42 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 43 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 44 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 45 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 46 | [Rickea Jackson](http://twitter.com/search?q=Rickea+Jackson) | N/A |
+| 47 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
 | 48 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
 
 

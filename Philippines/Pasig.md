@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-04 04:17:06 UTC`
+📆 Last Updated: `2023-03-04 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 5 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 6 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 7 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 8 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
-| 9 | [#JulieForJollibee](http://twitter.com/search?q=%23JulieForJollibee) | N/A |
-| 10 | [#ShareTheJoy](http://twitter.com/search?q=%23ShareTheJoy) | N/A |
-| 11 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 1 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 2 | [#JulieForJollibee](http://twitter.com/search?q=%23JulieForJollibee) | N/A |
+| 3 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
+| 4 | [#台北欢迎TREASURE](http://twitter.com/search?q=%23%e5%8f%b0%e5%8c%97%e6%ac%a2%e8%bf%8eTREASURE) | N/A |
+| 5 | [#HELLO_TAIPEI](http://twitter.com/search?q=%23HELLO_TAIPEI) | N/A |
+| 6 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
+| 7 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 8 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
+| 9 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
+| 10 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 11 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
 | 12 | [BGYO LIVE ON GV991](http://twitter.com/search?q=BGYO+LIVE+ON+GV991) | N/A |
-| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 14 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 15 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 16 | [YSAGUEL OnSarapDiba](http://twitter.com/search?q=YSAGUEL+OnSarapDiba) | N/A |
-| 17 | [kodrea tcampus tour at ceu](http://twitter.com/search?q=kodrea+tcampus+tour+at+ceu) | N/A |
-| 18 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 19 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 20 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
-| 21 | [RALPHGAIL CampusTourSaCEU](http://twitter.com/search?q=RALPHGAIL+CampusTourSaCEU) | N/A |
-| 22 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 24 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 25 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 26 | [CASSREN VISITS DEEUNIVERSITY](http://twitter.com/search?q=CASSREN+VISITS+DEEUNIVERSITY) | N/A |
-| 27 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 28 | [MY NAME IS NADINE](http://twitter.com/search?q=MY+NAME+IS+NADINE) | N/A |
-| 29 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 30 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 31 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 32 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
-| 33 | [Mama Dawn](http://twitter.com/search?q=Mama+Dawn) | N/A |
-| 34 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 35 | [kaydets home is kd](http://twitter.com/search?q=kaydets+home+is+kd) | N/A |
-| 36 | [twice billboard award](http://twitter.com/search?q=twice+billboard+award) | N/A |
-| 37 | [TEEN CLASH THIS MARCH17](http://twitter.com/search?q=TEEN+CLASH+THIS+MARCH17) | N/A |
-| 38 | [Dear Name](http://twitter.com/search?q=Dear+Name) | N/A |
-| 39 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 40 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 41 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 42 | [Shopify](http://twitter.com/search?q=Shopify) | N/A |
-| 43 | [WILD TONIGHT LYRIC VIDEO](http://twitter.com/search?q=WILD+TONIGHT+LYRIC+VIDEO) | N/A |
-| 44 | [Crazy Stupid Love](http://twitter.com/search?q=Crazy+Stupid+Love) | N/A |
-| 45 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 46 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 47 | [dawon](http://twitter.com/search?q=dawon) | N/A |
-| 48 | [Through the Night](http://twitter.com/search?q=Through+the+Night) | N/A |
-| 49 | [Kyedae](http://twitter.com/search?q=Kyedae) | N/A |
-| 50 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 13 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
+| 14 | [KODREA TCAMPUS TOUR AT CEU](http://twitter.com/search?q=KODREA+TCAMPUS+TOUR+AT+CEU) | N/A |
+| 15 | [RALPHGAIL CampusTourSaCEU](http://twitter.com/search?q=RALPHGAIL+CampusTourSaCEU) | N/A |
+| 16 | [CASSREN VISITS DEEUNIVERSITY](http://twitter.com/search?q=CASSREN+VISITS+DEEUNIVERSITY) | N/A |
+| 17 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 18 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 19 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 20 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 21 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
+| 22 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 26 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 27 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 28 | [#ShareTheJoy](http://twitter.com/search?q=%23ShareTheJoy) | N/A |
+| 29 | [#ANewDONIsRising](http://twitter.com/search?q=%23ANewDONIsRising) | N/A |
+| 30 | [#ame3D](http://twitter.com/search?q=%23ame3D) | N/A |
+| 31 | [#MOONBIN_SANHA](http://twitter.com/search?q=%23MOONBIN_SANHA) | N/A |
+| 32 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 33 | [#TheJuansLiveInCebu](http://twitter.com/search?q=%23TheJuansLiveInCebu) | N/A |
+| 34 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 35 | [#HBDMDZ](http://twitter.com/search?q=%23HBDMDZ) | N/A |
+| 36 | [#NoToJeepPhaseOut](http://twitter.com/search?q=%23NoToJeepPhaseOut) | N/A |
+| 37 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
+| 38 | [#GVInstaplay](http://twitter.com/search?q=%23GVInstaplay) | N/A |
+| 39 | [#komiket2023](http://twitter.com/search?q=%23komiket2023) | N/A |
+| 40 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
+| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 42 | [#cassrenxDeeU](http://twitter.com/search?q=%23cassrenxDeeU) | N/A |
+| 43 | [#BOYCOTTEBxGMA724](http://twitter.com/search?q=%23BOYCOTTEBxGMA724) | N/A |
+| 44 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
+| 45 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
+| 46 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 47 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 48 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
 
 
 

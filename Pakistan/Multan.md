@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-04 04:17:13 UTC`
+📆 Last Updated: `2023-03-04 05:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,13 +20,13 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#عدل_کی_قیمت_ایک_ٹرک](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84_%da%a9%db%8c_%d9%82%db%8c%d9%85%d8%aa_%d8%a7%db%8c%da%a9_%d9%b9%d8%b1%da%a9) | N/A |
 | 4 | [#KKvIU](http://twitter.com/search?q=%23KKvIU) | N/A |
 | 5 | [AZAM KHAN](http://twitter.com/search?q=AZAM+KHAN) | N/A |
-| 6 | [Imad wasim](http://twitter.com/search?q=Imad+wasim) | N/A |
-| 7 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
-| 8 | [Truck](http://twitter.com/search?q=Truck) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
-| 11 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
-| 12 | [Hales](http://twitter.com/search?q=Hales) | N/A |
+| 6 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 7 | [Truck](http://twitter.com/search?q=Truck) | N/A |
+| 8 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
+| 9 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
+| 10 | [hales](http://twitter.com/search?q=hales) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
 | 13 | [baloch culture day](http://twitter.com/search?q=baloch+culture+day) | N/A |
 | 14 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
 | 15 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
@@ -37,33 +37,33 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 20 | [namoos sahaba ahlbait bill](http://twitter.com/search?q=namoos+sahaba+ahlbait+bill) | N/A |
 | 21 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
 | 22 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 23 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 24 | [Asma](http://twitter.com/search?q=Asma) | N/A |
+| 23 | [Asma](http://twitter.com/search?q=Asma) | N/A |
+| 24 | [Salman](http://twitter.com/search?q=Salman) | N/A |
 | 25 | [Ducky](http://twitter.com/search?q=Ducky) | N/A |
-| 26 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 27 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 28 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 29 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 30 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 31 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 32 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 33 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 34 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
-| 35 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 38 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [London](http://twitter.com/search?q=London) | N/A |
-| 42 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 43 | [Sach](http://twitter.com/search?q=Sach) | N/A |
-| 44 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 45 | [Madam](http://twitter.com/search?q=Madam) | N/A |
-| 46 | [Respected](http://twitter.com/search?q=Respected) | N/A |
-| 47 | [E 20](http://twitter.com/search?q=E+20) | N/A |
-| 48 | [University](http://twitter.com/search?q=University) | N/A |
-| 49 | [Superb](http://twitter.com/search?q=Superb) | N/A |
+| 26 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 27 | [Sath](http://twitter.com/search?q=Sath) | N/A |
+| 28 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 29 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 30 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 31 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 32 | [Metroplotian](http://twitter.com/search?q=Metroplotian) | N/A |
+| 33 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 34 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
+| 35 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
+| 36 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 37 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Strange](http://twitter.com/search?q=Strange) | N/A |
+| 40 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 41 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 42 | [Cricket](http://twitter.com/search?q=Cricket) | N/A |
+| 43 | [Thankyouuu](http://twitter.com/search?q=Thankyouuu) | N/A |
+| 44 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 45 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 46 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 47 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 48 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 
 
 

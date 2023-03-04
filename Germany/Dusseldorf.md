@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-04 04:16:54 UTC`
+📆 Last Updated: `2023-03-04 05:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#Nockherberg](http://twitter.com/search?q=%23Nockherberg) | N/A |
 | 5 | [Lost](http://twitter.com/search?q=Lost) | N/A |
 | 6 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 7 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 7 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
 | 8 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
-| 9 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
-| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 11 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 12 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 13 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
-| 14 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 9 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 10 | [Jury](http://twitter.com/search?q=Jury) | N/A |
+| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 12 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 13 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 14 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 16 | [LotL](http://twitter.com/search?q=LotL) | N/A |
 | 17 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
 | 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 19 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 20 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
-| 21 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 22 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 23 | [singspiel](http://twitter.com/search?q=singspiel) | N/A |
-| 24 | [Barbara Schöneberger](http://twitter.com/search?q=Barbara+Sch%c3%b6neberger) | N/A |
+| 20 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
+| 21 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 22 | [singspiel](http://twitter.com/search?q=singspiel) | N/A |
+| 23 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
+| 24 | [barbara schöneberger](http://twitter.com/search?q=barbara+sch%c3%b6neberger) | N/A |
 | 25 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
 | 26 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 27 | [Frida Gold](http://twitter.com/search?q=Frida+Gold) | N/A |
 | 28 | [Peek & Cloppenburg](http://twitter.com/search?q=Peek+%26+Cloppenburg) | N/A |
 | 29 | [freitag abend](http://twitter.com/search?q=freitag+abend) | N/A |
-| 30 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 31 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 32 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 33 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 30 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 31 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 32 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 33 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
 | 34 | [Anica Russo](http://twitter.com/search?q=Anica+Russo) | N/A |
-| 35 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 36 | [opoku](http://twitter.com/search?q=opoku) | N/A |
-| 37 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 38 | [Katja Ebstein](http://twitter.com/search?q=Katja+Ebstein) | N/A |
+| 35 | [opoku](http://twitter.com/search?q=opoku) | N/A |
+| 36 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 37 | [katja ebstein](http://twitter.com/search?q=katja+ebstein) | N/A |
+| 38 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
 | 39 | [schiri](http://twitter.com/search?q=schiri) | N/A |
 | 40 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 41 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 42 | [paulaner spezi](http://twitter.com/search?q=paulaner+spezi) | N/A |
-| 43 | [Trong](http://twitter.com/search?q=Trong) | N/A |
-| 44 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 45 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 41 | [paulaner spezi](http://twitter.com/search?q=paulaner+spezi) | N/A |
+| 42 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 43 | [EMRE](http://twitter.com/search?q=EMRE) | N/A |
+| 44 | [autoindustrie](http://twitter.com/search?q=autoindustrie) | N/A |
+| 45 | [Audi](http://twitter.com/search?q=Audi) | N/A |
 | 46 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
-| 47 | [stilles wasser](http://twitter.com/search?q=stilles+wasser) | N/A |
-| 48 | [EMRE](http://twitter.com/search?q=EMRE) | N/A |
-| 49 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 47 | [Trong](http://twitter.com/search?q=Trong) | N/A |
+| 48 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 49 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 
 
 

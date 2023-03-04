@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-04 04:17:27 UTC`
+📆 Last Updated: `2023-03-04 05:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for Austria
 | 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 21 | [st. pölten](http://twitter.com/search?q=st.+p%c3%b6lten) | N/A |
 | 22 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
-| 23 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 23 | [anliegen](http://twitter.com/search?q=anliegen) | N/A |
 | 24 | [Überzeugung](http://twitter.com/search?q=%c3%9cberzeugung) | N/A |
 | 25 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 26 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Austria
 | 29 | [Budget](http://twitter.com/search?q=Budget) | N/A |
 | 30 | [angebote](http://twitter.com/search?q=angebote) | N/A |
 | 31 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 32 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 32 | [wasserstoff](http://twitter.com/search?q=wasserstoff) | N/A |
 | 33 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
 | 34 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 35 | [Lasst](http://twitter.com/search?q=Lasst) | N/A |
-| 36 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 37 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 38 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 39 | [anstand](http://twitter.com/search?q=anstand) | N/A |
-| 40 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 41 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 42 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 43 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 45 | [glashaus](http://twitter.com/search?q=glashaus) | N/A |
-| 46 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 47 | [Gm Bro](http://twitter.com/search?q=Gm+Bro) | N/A |
-| 48 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 49 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
-| 50 | [Brote](http://twitter.com/search?q=Brote) | N/A |
+| 35 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 36 | [Lasst](http://twitter.com/search?q=Lasst) | N/A |
+| 37 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 38 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 39 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 40 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 41 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 42 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 43 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 44 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 45 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 46 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
+| 47 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
+| 48 | [GM Bro](http://twitter.com/search?q=GM+Bro) | N/A |
+| 49 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 50 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
 
 
 

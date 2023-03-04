@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-04 04:16:44 UTC`
+📆 Last Updated: `2023-03-04 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 3 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 4 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 5 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 6 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 7 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
+| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 4 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 5 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
+| 6 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
+| 7 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
 | 8 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 9 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 10 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 11 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 12 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 13 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 14 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 15 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 16 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 17 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 18 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 19 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 20 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 21 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 22 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
-| 23 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 24 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 25 | [Ferreti](http://twitter.com/search?q=Ferreti) | N/A |
-| 26 | [ANDRESSE Y NELSON X CAÑAVERAL](http://twitter.com/search?q=ANDRESSE+Y+NELSON+X+CA%c3%91AVERAL) | N/A |
-| 27 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 28 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 29 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 30 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
-| 31 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 32 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 33 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 34 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 35 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 36 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 37 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 38 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 39 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 40 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 41 | [Nando](http://twitter.com/search?q=Nando) | N/A |
-| 42 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 43 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 44 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 45 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 46 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 47 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
-| 48 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 49 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
+| 9 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 10 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 11 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 12 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 13 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 14 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 15 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 16 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 17 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 18 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 19 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 20 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
+| 21 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 22 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 23 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 24 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 25 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 26 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
+| 27 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 28 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 29 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 30 | [ANDRESSE Y NELSON X CAÑAVERAL](http://twitter.com/search?q=ANDRESSE+Y+NELSON+X+CA%c3%91AVERAL) | N/A |
+| 31 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 32 | [Ferreti](http://twitter.com/search?q=Ferreti) | N/A |
+| 33 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 34 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 35 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 36 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 37 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 38 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 39 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 40 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 41 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 42 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 43 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 44 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 45 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 46 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 47 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 48 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 49 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
 
 
 

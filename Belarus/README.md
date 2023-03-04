@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-04 04:17:27 UTC`
+📆 Last Updated: `2023-03-04 05:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Belarus
 | 1 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
 | 2 | [даааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
 | 3 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
-| 4 | [брянской](http://twitter.com/search?q=%d0%b1%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 5 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 4 | [Брянской](http://twitter.com/search?q=%d0%91%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 5 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 6 | [бай чжу](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9+%d1%87%d0%b6%d1%83) | N/A |
 | 7 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 8 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
@@ -33,10 +33,10 @@ This is top 50 for Belarus
 | 16 | [gm fren](http://twitter.com/search?q=gm+fren) | N/A |
 | 17 | [могилеве](http://twitter.com/search?q=%d0%bc%d0%be%d0%b3%d0%b8%d0%bb%d0%b5%d0%b2%d0%b5) | N/A |
 | 18 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 19 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 20 | [В Беларуси](http://twitter.com/search?q=%d0%92+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 19 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 20 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 21 | [выглядит](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
-| 22 | [#web3](http://twitter.com/search?q=%23web3) | N/A |
+| 22 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 | 23 | [#NFTcollection](http://twitter.com/search?q=%23NFTcollection) | N/A |
 | 24 | [#NFTartist](http://twitter.com/search?q=%23NFTartist) | N/A |
 

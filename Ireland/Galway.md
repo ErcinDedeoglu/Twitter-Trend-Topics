@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-04 04:16:52 UTC`
+📆 Last Updated: `2023-03-04 05:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 7 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 8 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
+| 8 | [league of ireland](http://twitter.com/search?q=league+of+ireland) | N/A |
 | 9 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 11 | [michael o'leary](http://twitter.com/search?q=michael+o%27leary) | N/A |
@@ -35,35 +35,35 @@ This is top 50 for [Ireland](</Ireland>)
 | 18 | [Castore](http://twitter.com/search?q=Castore) | N/A |
 | 19 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
 | 20 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 21 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
-| 22 | [Cillian](http://twitter.com/search?q=Cillian) | N/A |
-| 23 | [Dec.](http://twitter.com/search?q=Dec.) | N/A |
-| 24 | [Boots](http://twitter.com/search?q=Boots) | Boots is a term used to describe a type of footwear that covers the foot and ankle, and sometimes even the lower leg. They are typically made of leather or rubber, and can be either heeled or flat. Boots are often worn for protection in certain activities, such as hiking or horseback riding, as well as for fashion. |
-| 25 | [Matt Healy](http://twitter.com/search?q=Matt+Healy) | N/A |
-| 26 | [o'neills](http://twitter.com/search?q=o%27neills) | N/A |
-| 27 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
-| 28 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 29 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
-| 30 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 31 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
-| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 33 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 34 | [galway united](http://twitter.com/search?q=galway+united) | N/A |
-| 35 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
-| 36 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 37 | [mounthawk park](http://twitter.com/search?q=mounthawk+park) | N/A |
-| 38 | [Tallaght Stadium](http://twitter.com/search?q=Tallaght+Stadium) | N/A |
-| 39 | [national digital awards](http://twitter.com/search?q=national+digital+awards) | N/A |
-| 40 | [premier division](http://twitter.com/search?q=premier+division) | N/A |
-| 41 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 42 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 43 | [tulloch](http://twitter.com/search?q=tulloch) | N/A |
-| 44 | [dublin castle](http://twitter.com/search?q=dublin+castle) | N/A |
-| 45 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 49 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 21 | [Cillian](http://twitter.com/search?q=Cillian) | N/A |
+| 22 | [Dec.](http://twitter.com/search?q=Dec.) | N/A |
+| 23 | [Boots](http://twitter.com/search?q=Boots) | Boots is a term used to describe a type of footwear that covers the foot and ankle, and sometimes even the lower leg. They are typically made of leather or rubber, and can be either heeled or flat. Boots are often worn for protection in certain activities, such as hiking or horseback riding, as well as for fashion. |
+| 24 | [matt healy](http://twitter.com/search?q=matt+healy) | N/A |
+| 25 | [o'neills](http://twitter.com/search?q=o%27neills) | N/A |
+| 26 | [musgrave park](http://twitter.com/search?q=musgrave+park) | N/A |
+| 27 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 28 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
+| 29 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 30 | [turners cross](http://twitter.com/search?q=turners+cross) | N/A |
+| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 32 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 33 | [galway united](http://twitter.com/search?q=galway+united) | N/A |
+| 34 | [oriel park](http://twitter.com/search?q=oriel+park) | N/A |
+| 35 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 36 | [mounthawk park](http://twitter.com/search?q=mounthawk+park) | N/A |
+| 37 | [tallaght stadium](http://twitter.com/search?q=tallaght+stadium) | N/A |
+| 38 | [national digital awards](http://twitter.com/search?q=national+digital+awards) | N/A |
+| 39 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 40 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 41 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 42 | [tulloch](http://twitter.com/search?q=tulloch) | N/A |
+| 43 | [dublin castle](http://twitter.com/search?q=dublin+castle) | N/A |
+| 44 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 48 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 49 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
 
 
 

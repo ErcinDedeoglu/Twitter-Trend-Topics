@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-04 04:17:25 UTC`
+📆 Last Updated: `2023-03-04 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 4 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 5 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 8 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 1 | [De'Aaron Fox](http://twitter.com/search?q=De%27Aaron+Fox) | De'Aaron Fox is an American professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is a combination of his parents' names, Deanna and Aaron. The name means "strong and wise" in English. |
+| 2 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 3 | [Ty Jerome](http://twitter.com/search?q=Ty+Jerome) | Ty Jerome is a masculine given name. It is derived from the Greek name Theodore, which means "gift of God". The name Ty Jerome is often used as a nickname for Theodore. |
+| 4 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 5 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 6 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 8 | [#GoBruins](http://twitter.com/search?q=%23GoBruins) | N/A |
 | 9 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 11 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 12 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 14 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 15 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 16 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 17 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 20 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 10 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 11 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 12 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 13 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 14 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 15 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 17 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 19 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 20 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
 | 21 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 22 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 23 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 24 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 25 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 26 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 27 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 28 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
-| 29 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 30 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 31 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 32 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 33 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
-| 34 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 35 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 36 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 37 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 38 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 39 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 40 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 41 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 42 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 43 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 44 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 45 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 46 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 47 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 48 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 22 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 23 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 24 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 25 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 26 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 27 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
+| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 29 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 30 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 31 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 32 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 33 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 35 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 36 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 37 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 38 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 39 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
+| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 41 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 42 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 43 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 44 | [Brandon Clarke](http://twitter.com/search?q=Brandon+Clarke) | Brandon Clarke is a name. It is of English origin and means "from the broad meadow". |
+| 45 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 46 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 47 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
+| 48 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
 
 
 

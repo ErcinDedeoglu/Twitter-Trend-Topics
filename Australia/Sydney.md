@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-04 04:17:01 UTC`
+📆 Last Updated: `2023-03-04 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 2 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
-| 3 | [#NRLPanthersBroncos](http://twitter.com/search?q=%23NRLPanthersBroncos) | N/A |
-| 4 | [#nrleelsstorm](http://twitter.com/search?q=%23nrleelsstorm) | N/A |
-| 5 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
-| 6 | [Sir Lucan](http://twitter.com/search?q=Sir+Lucan) | N/A |
-| 7 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
-| 8 | [#NRLWarriorsKnights](http://twitter.com/search?q=%23NRLWarriorsKnights) | N/A |
-| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 10 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 11 | [Arctic Fairy](http://twitter.com/search?q=Arctic+Fairy) | N/A |
-| 12 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 13 | [Cylinder](http://twitter.com/search?q=Cylinder) | N/A |
-| 14 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 16 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 17 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 20 | [Average](http://twitter.com/search?q=Average) | N/A |
-| 21 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 22 | [Soni Luke](http://twitter.com/search?q=Soni+Luke) | N/A |
-| 23 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 24 | [Bont](http://twitter.com/search?q=Bont) | N/A |
-| 25 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 26 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 27 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
-| 28 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 29 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 32 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 33 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
-| 34 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
-| 35 | [Golden Slipper](http://twitter.com/search?q=Golden+Slipper) | N/A |
-| 36 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
-| 37 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 38 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 39 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 40 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 41 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
-| 42 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 43 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
-| 44 | [Macrae](http://twitter.com/search?q=Macrae) | N/A |
-| 45 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 46 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 47 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 48 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 49 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 1 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
+| 2 | [#NRLPanthersBroncos](http://twitter.com/search?q=%23NRLPanthersBroncos) | N/A |
+| 3 | [#nrleelsstorm](http://twitter.com/search?q=%23nrleelsstorm) | N/A |
+| 4 | [Passive Aggressive](http://twitter.com/search?q=Passive+Aggressive) | N/A |
+| 5 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 6 | [#nrlwarriorsknights](http://twitter.com/search?q=%23nrlwarriorsknights) | N/A |
+| 7 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
+| 8 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 9 | [Artorius](http://twitter.com/search?q=Artorius) | N/A |
+| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 11 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
+| 12 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 13 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 14 | [Arctic Fairy](http://twitter.com/search?q=Arctic+Fairy) | N/A |
+| 15 | [Giga Kick](http://twitter.com/search?q=Giga+Kick) | N/A |
+| 16 | [Max King](http://twitter.com/search?q=Max+King) | N/A |
+| 17 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 18 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 19 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 20 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
+| 21 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 22 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 23 | [Reed](http://twitter.com/search?q=Reed) | N/A |
+| 24 | [Sir Lucan](http://twitter.com/search?q=Sir+Lucan) | N/A |
+| 25 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 26 | [Brookvale](http://twitter.com/search?q=Brookvale) | N/A |
+| 27 | [So Unusual](http://twitter.com/search?q=So+Unusual) | N/A |
+| 28 | [Soni Luke](http://twitter.com/search?q=Soni+Luke) | N/A |
+| 29 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 30 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
+| 31 | [Average](http://twitter.com/search?q=Average) | N/A |
+| 32 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 33 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 34 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 35 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 36 | [Bont](http://twitter.com/search?q=Bont) | N/A |
+| 37 | [Luai](http://twitter.com/search?q=Luai) | N/A |
+| 38 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
+| 39 | [Flemington](http://twitter.com/search?q=Flemington) | N/A |
+| 40 | [Cylinder](http://twitter.com/search?q=Cylinder) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 43 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 44 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 45 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 46 | [Golden Slipper](http://twitter.com/search?q=Golden+Slipper) | N/A |
+| 47 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 48 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 49 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 50 | [cobbo](http://twitter.com/search?q=cobbo) | N/A |
 
 
 

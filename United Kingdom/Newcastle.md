@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-04 04:16:42 UTC`
+📆 Last Updated: `2023-03-04 05:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,42 +26,42 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 9 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
 | 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 11 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 12 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 13 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 12 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 13 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
 | 14 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 15 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 19 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 20 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 21 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 22 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 25 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 26 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 27 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 28 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 29 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 30 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 31 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 21 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 22 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 23 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 24 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 25 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 27 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 28 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 29 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 30 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 31 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
 | 32 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 | 33 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 34 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 35 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 36 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 37 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 34 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 35 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 36 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 37 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
 | 38 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 39 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 40 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 41 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 42 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 43 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 44 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 45 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
-| 46 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 47 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 39 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 40 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 41 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 42 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 43 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 44 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
+| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 46 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 47 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 48 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
 | 49 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
 

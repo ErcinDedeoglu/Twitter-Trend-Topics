@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 04:16:59 UTC`
+📆 Last Updated: `2023-03-04 05:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,45 +21,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
 | 5 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
 | 6 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
-| 7 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 10 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 11 | [Mau Emerald](http://twitter.com/search?q=Mau+Emerald) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 10 | [Mau Emerald](http://twitter.com/search?q=Mau+Emerald) | N/A |
+| 11 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
 | 12 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 13 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 14 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 15 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 16 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 17 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 18 | [Downgrade](http://twitter.com/search?q=Downgrade) | N/A |
-| 19 | [WE NEED IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=WE+NEED+IRENE%27S+BIRTHDAY+PARTY) | N/A |
-| 20 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 22 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 23 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 24 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 25 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 27 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 28 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 29 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 30 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 31 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 32 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 33 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 34 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
-| 35 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 13 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 15 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 16 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 17 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
+| 18 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 19 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 21 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 23 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 24 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 25 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 26 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 27 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 28 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 29 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 30 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 31 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 32 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 33 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 34 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 35 | [WE NEED IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=WE+NEED+IRENE%27S+BIRTHDAY+PARTY) | N/A |
 | 36 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 37 | [Jelek](http://twitter.com/search?q=Jelek) | N/A |
-| 38 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 39 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 40 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
-| 41 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 42 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 43 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
-| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 38 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 39 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
+| 40 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 41 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 42 | [Keong](http://twitter.com/search?q=Keong) | N/A |
+| 43 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 44 | [Pemilu](http://twitter.com/search?q=Pemilu) | N/A |
+| 45 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
 
 
 
