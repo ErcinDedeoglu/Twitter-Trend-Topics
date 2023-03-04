@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-04 19:15:42 UTC`
+📆 Last Updated: `2023-03-04 20:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Chile](</Chile>)
 | 6 | [#ñubvsucxtntsports](http://twitter.com/search?q=%23%c3%b1ubvsucxtntsports) | N/A |
 | 7 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
 | 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 10 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 11 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
-| 12 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 13 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 14 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 15 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 11 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 12 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 13 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
+| 14 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
+| 15 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
 | 16 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 17 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 18 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 20 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
-| 21 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 22 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 23 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 24 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 25 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 26 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 27 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 28 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 29 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
+| 19 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
+| 20 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 21 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 22 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 23 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 24 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 25 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
+| 26 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 27 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
+| 28 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
+| 29 | [Londres](http://twitter.com/search?q=Londres) | N/A |
 | 30 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
-| 31 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 32 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 33 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 34 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
-| 35 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 36 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
-| 37 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
-| 38 | [6-Choclo](http://twitter.com/search?q=6-Choclo) | N/A |
-| 39 | [On Board](http://twitter.com/search?q=On+Board) | N/A |
-| 40 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
-| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 42 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
-| 43 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
-| 44 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 45 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 46 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 47 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 48 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
-| 49 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 50 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 31 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
+| 32 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 33 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
+| 34 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 35 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
+| 36 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 37 | [On Board](http://twitter.com/search?q=On+Board) | N/A |
+| 38 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 39 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
+| 40 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 41 | [6-Choclo](http://twitter.com/search?q=6-Choclo) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
+| 44 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 45 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
+| 46 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 47 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 48 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 49 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 50 | [Hange](http://twitter.com/search?q=Hange) | N/A |
 
 
 

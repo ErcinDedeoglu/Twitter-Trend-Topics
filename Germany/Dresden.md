@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-04 19:15:49 UTC`
+📆 Last Updated: `2023-03-04 20:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
-| 2 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 3 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 4 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 5 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
-| 6 | [#BMGSCF](http://twitter.com/search?q=%23BMGSCF) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 9 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 10 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 11 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 1 | [#SGDAUE](http://twitter.com/search?q=%23SGDAUE) | N/A |
+| 2 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
+| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 4 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 5 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 6 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 8 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 9 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 10 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 14 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
 | 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 16 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 17 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 18 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 16 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 18 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
 | 19 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 20 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 23 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 24 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
-| 25 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 26 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 27 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
-| 28 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 29 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 30 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 31 | [Pyro](http://twitter.com/search?q=Pyro) | N/A |
-| 32 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 33 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
-| 34 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
-| 35 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 36 | [Klimaterroristen](http://twitter.com/search?q=Klimaterroristen) | N/A |
-| 37 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 38 | [Umweltverschmutzung](http://twitter.com/search?q=Umweltverschmutzung) | N/A |
-| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 40 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 41 | [Abstieg](http://twitter.com/search?q=Abstieg) | N/A |
-| 42 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 43 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 44 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 45 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 46 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
-| 47 | [Umweltschutz](http://twitter.com/search?q=Umweltschutz) | N/A |
-| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 49 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 20 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 21 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 22 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 24 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 25 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 26 | [Pyro](http://twitter.com/search?q=Pyro) | N/A |
+| 27 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 28 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 29 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 30 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 31 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 32 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 33 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 34 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 35 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
+| 36 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 37 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
+| 38 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 39 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 40 | [Bochumer](http://twitter.com/search?q=Bochumer) | N/A |
+| 41 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 42 | [Rheinmetall](http://twitter.com/search?q=Rheinmetall) | N/A |
+| 43 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 44 | [Umweltverschmutzung](http://twitter.com/search?q=Umweltverschmutzung) | N/A |
+| 45 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 46 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
+| 47 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 48 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 49 | [Lebensgrundlagen](http://twitter.com/search?q=Lebensgrundlagen) | N/A |
 
 
 

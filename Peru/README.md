@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-04 19:16:28 UTC`
+📆 Last Updated: `2023-03-04 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 1 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 4 | [HANNAH](http://twitter.com/search?q=HANNAH) | N/A |
 | 5 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 6 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 6 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
 | 7 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
-| 8 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
-| 9 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 10 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 8 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
+| 9 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 10 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
 | 11 | [#WeWantENHYPENinPeru](http://twitter.com/search?q=%23WeWantENHYPENinPeru) | N/A |
 | 12 | [PERU WANTS TO SHOUT OUT](http://twitter.com/search?q=PERU+WANTS+TO+SHOUT+OUT) | N/A |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 15 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
-| 16 | [#SicariaMediatica](http://twitter.com/search?q=%23SicariaMediatica) | N/A |
-| 17 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 13 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 14 | [Sport Huancayo](http://twitter.com/search?q=Sport+Huancayo) | N/A |
+| 15 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 16 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 18 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 19 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
-| 20 | [Flavia](http://twitter.com/search?q=Flavia) | N/A |
-| 21 | [Reactiva](http://twitter.com/search?q=Reactiva) | N/A |
-| 22 | [TENDERA](http://twitter.com/search?q=TENDERA) | N/A |
-| 23 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 24 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Jorge Fossati](http://twitter.com/search?q=Jorge+Fossati) | N/A |
+| 19 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 20 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 21 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 22 | [Reactiva](http://twitter.com/search?q=Reactiva) | N/A |
+| 23 | [TENDERA](http://twitter.com/search?q=TENDERA) | N/A |
+| 24 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 25 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 26 | [Roier](http://twitter.com/search?q=Roier) | N/A |
 | 27 | [Martha Moyano](http://twitter.com/search?q=Martha+Moyano) | N/A |
-| 28 | [Miraflores](http://twitter.com/search?q=Miraflores) | N/A |
-| 29 | [Roberto Silva](http://twitter.com/search?q=Roberto+Silva) | N/A |
-| 30 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
-| 31 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
-| 32 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 33 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 34 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Cencosud](http://twitter.com/search?q=Cencosud) | N/A |
-| 37 | [Congresista](http://twitter.com/search?q=Congresista) | N/A |
-| 38 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
-| 39 | [Madres](http://twitter.com/search?q=Madres) | N/A |
-| 40 | [Delito](http://twitter.com/search?q=Delito) | N/A |
-| 41 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
-| 42 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 43 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 44 | [Delia Muñoz](http://twitter.com/search?q=Delia+Mu%c3%b1oz) | N/A |
-| 45 | [Pedro Eloy](http://twitter.com/search?q=Pedro+Eloy) | N/A |
-| 46 | [Desapruebo](http://twitter.com/search?q=Desapruebo) | N/A |
-| 47 | [Facu](http://twitter.com/search?q=Facu) | N/A |
-| 48 | [Galván](http://twitter.com/search?q=Galv%c3%a1n) | N/A |
-| 49 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 50 | [Junko Furuta](http://twitter.com/search?q=Junko+Furuta) | N/A |
+| 28 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
+| 29 | [roberto silva](http://twitter.com/search?q=roberto+silva) | N/A |
+| 30 | [Flavia](http://twitter.com/search?q=Flavia) | N/A |
+| 31 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 32 | [J-HOPE X J. COLE](http://twitter.com/search?q=J-HOPE+X+J.+COLE) | N/A |
+| 33 | [Miraflores](http://twitter.com/search?q=Miraflores) | N/A |
+| 34 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 35 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 36 | [Jorge Fossati](http://twitter.com/search?q=Jorge+Fossati) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 39 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 40 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 41 | [Cencosud](http://twitter.com/search?q=Cencosud) | N/A |
+| 42 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
+| 43 | [Congresista](http://twitter.com/search?q=Congresista) | N/A |
+| 44 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 45 | [Madres](http://twitter.com/search?q=Madres) | N/A |
+| 46 | [Delia Muñoz](http://twitter.com/search?q=Delia+Mu%c3%b1oz) | N/A |
+| 47 | [Pedro Eloy](http://twitter.com/search?q=Pedro+Eloy) | N/A |
+| 48 | [Delito](http://twitter.com/search?q=Delito) | N/A |
+| 49 | [Desapruebo](http://twitter.com/search?q=Desapruebo) | N/A |
+| 50 | [Facu](http://twitter.com/search?q=Facu) | N/A |
 
 
 

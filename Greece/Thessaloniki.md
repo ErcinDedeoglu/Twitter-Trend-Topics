@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-04 19:15:54 UTC`
+📆 Last Updated: `2023-03-04 20:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Greece](</Greece>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#τεμπη_εγκλημα](http://twitter.com/search?q=%23%cf%84%ce%b5%ce%bc%cf%80%ce%b7_%ce%b5%ce%b3%ce%ba%ce%bb%ce%b7%ce%bc%ce%b1) | N/A |
-| 2 | [Τουλουπακη](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bb%ce%bf%cf%85%cf%80%ce%b1%ce%ba%ce%b7) | N/A |
-| 3 | [#Μητσοτακη_ΔΟΛΟΦΟΝΕ](http://twitter.com/search?q=%23%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%b1%ce%ba%ce%b7_%ce%94%ce%9f%ce%9b%ce%9f%ce%a6%ce%9f%ce%9d%ce%95) | N/A |
+| 2 | [#Μητσοτακη_ΔΟΛΟΦΟΝΕ](http://twitter.com/search?q=%23%ce%9c%ce%b7%cf%84%cf%83%ce%bf%cf%84%ce%b1%ce%ba%ce%b7_%ce%94%ce%9f%ce%9b%ce%9f%ce%a6%ce%9f%ce%9d%ce%95) | N/A |
+| 3 | [Τουλουπακη](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bb%ce%bf%cf%85%cf%80%ce%b1%ce%ba%ce%b7) | N/A |
 | 4 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
-| 5 | [#fosstotounel](http://twitter.com/search?q=%23fosstotounel) | #Fosstotounel is a hashtag used to promote the FOSS (Free and Open Source Software) movement. It stands for "Free and Open Source Software To The People". It is used to encourage people to use open source software, which is software that can be freely shared, modified, and distributed. |
-| 6 | [Παπαγγελοπουλος](http://twitter.com/search?q=%ce%a0%ce%b1%cf%80%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 7 | [#xamogelakaipali](http://twitter.com/search?q=%23xamogelakaipali) | N/A |
-| 8 | [Novartis](http://twitter.com/search?q=Novartis) | N/A |
+| 5 | [#survivorGR](http://twitter.com/search?q=%23survivorGR) | #SurvivorGR is a hashtag used on social media to refer to the Greek version of the reality TV show Survivor. It is used to discuss the show, share updates, and connect with other fans. In English, it stands for "Survivor Greece". |
+| 6 | [#survivorGR](http://twitter.com/search?q=%23survivorGR) | #SurvivorGR is a hashtag used on social media to refer to the Greek version of the reality TV show Survivor. It is used to discuss the show, share updates, and connect with other fans. In English, it stands for "Survivor Greece". |
+| 7 | [Παπαγγελοπουλος](http://twitter.com/search?q=%ce%a0%ce%b1%cf%80%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 8 | [Γιαμαλη](http://twitter.com/search?q=%ce%93%ce%b9%ce%b1%ce%bc%ce%b1%ce%bb%ce%b7) | N/A |
 | 9 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
-| 10 | [Γιαμαλη](http://twitter.com/search?q=%ce%93%ce%b9%ce%b1%ce%bc%ce%b1%ce%bb%ce%b7) | N/A |
+| 10 | [Novartis](http://twitter.com/search?q=Novartis) | N/A |
 | 11 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
 | 12 | [Μανεση](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
 | 13 | [Συνταγμα](http://twitter.com/search?q=%ce%a3%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%bc%ce%b1) | N/A |
-| 14 | [Ειδικο Δικαστηριο](http://twitter.com/search?q=%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%94%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
-| 15 | [ΤΡΑΙΝΟΣΕ](http://twitter.com/search?q=%ce%a4%ce%a1%ce%91%ce%99%ce%9d%ce%9f%ce%a3%ce%95) | N/A |
-| 16 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
-| 17 | [Γκλετσος](http://twitter.com/search?q=%ce%93%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
-| 18 | [Τεμπων](http://twitter.com/search?q=%ce%a4%ce%b5%ce%bc%cf%80%cf%89%ce%bd) | N/A |
-| 19 | [Σταθης](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
-| 20 | [Ραικου](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b9%ce%ba%ce%bf%cf%85) | N/A |
-| 21 | [Μανδρα](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b4%cf%81%ce%b1) | N/A |
-| 22 | [Πορτοσαλτε](http://twitter.com/search?q=%ce%a0%ce%bf%cf%81%cf%84%ce%bf%cf%83%ce%b1%ce%bb%cf%84%ce%b5) | N/A |
-| 23 | [Μεγαλη](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%b1%ce%bb%ce%b7) | N/A |
-| 24 | [Χιωτη](http://twitter.com/search?q=%ce%a7%ce%b9%cf%89%cf%84%ce%b7) | N/A |
-| 25 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
-| 26 | [Ζηλιασκοπουλος](http://twitter.com/search?q=%ce%96%ce%b7%ce%bb%ce%b9%ce%b1%cf%83%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 27 | [Ενοχος](http://twitter.com/search?q=%ce%95%ce%bd%ce%bf%cf%87%ce%bf%cf%82) | N/A |
-| 28 | [Σχιζα](http://twitter.com/search?q=%ce%a3%cf%87%ce%b9%ce%b6%ce%b1) | N/A |
-| 29 | [Λουκα Μαυροκεφαλιδη](http://twitter.com/search?q=%ce%9b%ce%bf%cf%85%ce%ba%ce%b1+%ce%9c%ce%b1%cf%85%cf%81%ce%bf%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b9%ce%b4%ce%b7) | N/A |
-| 30 | [Νοβαρτις](http://twitter.com/search?q=%ce%9d%ce%bf%ce%b2%ce%b1%cf%81%cf%84%ce%b9%cf%82) | N/A |
-| 31 | [Σπιρτζης](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
-| 32 | [η ευρυδικη](http://twitter.com/search?q=%ce%b7+%ce%b5%cf%85%cf%81%cf%85%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
-| 33 | [Επιτροπη](http://twitter.com/search?q=%ce%95%cf%80%ce%b9%cf%84%cf%81%ce%bf%cf%80%ce%b7) | N/A |
-| 34 | [Θεοδωρα](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
-| 35 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 36 | [Κηφισια](http://twitter.com/search?q=%ce%9a%ce%b7%cf%86%ce%b9%cf%83%ce%b9%ce%b1) | N/A |
-| 37 | [πανδωρα](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%b4%cf%89%cf%81%ce%b1) | N/A |
-| 38 | [Τζειμς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%b9%ce%bc%cf%82) | N/A |
-| 39 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 40 | [καλημερα νικο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bd%ce%b9%ce%ba%ce%bf) | N/A |
-| 41 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 42 | [Λαρισας](http://twitter.com/search?q=%ce%9b%ce%b1%cf%81%ce%b9%cf%83%ce%b1%cf%82) | N/A |
-| 43 | [Ναταλια](http://twitter.com/search?q=%ce%9d%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
-| 44 | [Γεραπετριτης](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7%cf%82) | N/A |
-| 45 | [Ρομα](http://twitter.com/search?q=%ce%a1%ce%bf%ce%bc%ce%b1) | N/A |
-| 46 | [Σκασε](http://twitter.com/search?q=%ce%a3%ce%ba%ce%b1%cf%83%ce%b5) | N/A |
-| 47 | [Ντανο](http://twitter.com/search?q=%ce%9d%cf%84%ce%b1%ce%bd%ce%bf) | N/A |
-| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 49 | [Πολυχρονη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%b7) | N/A |
-| 50 | [Αρης](http://twitter.com/search?q=%ce%91%cf%81%ce%b7%cf%82) | N/A |
+| 14 | [ΤΡΑΙΝΟΣΕ](http://twitter.com/search?q=%ce%a4%ce%a1%ce%91%ce%99%ce%9d%ce%9f%ce%a3%ce%95) | N/A |
+| 15 | [Τεμπων](http://twitter.com/search?q=%ce%a4%ce%b5%ce%bc%cf%80%cf%89%ce%bd) | N/A |
+| 16 | [Σταθης](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
+| 17 | [Ειδικο Δικαστηριο](http://twitter.com/search?q=%ce%95%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf+%ce%94%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf) | N/A |
+| 18 | [Γκλετσος](http://twitter.com/search?q=%ce%93%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 19 | [Πορτοσαλτε](http://twitter.com/search?q=%ce%a0%ce%bf%cf%81%cf%84%ce%bf%cf%83%ce%b1%ce%bb%cf%84%ce%b5) | N/A |
+| 20 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
+| 21 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 22 | [Μανδρα](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b4%cf%81%ce%b1) | N/A |
+| 23 | [Σχιζα](http://twitter.com/search?q=%ce%a3%cf%87%ce%b9%ce%b6%ce%b1) | N/A |
+| 24 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
+| 25 | [Ζηλιασκοπουλος](http://twitter.com/search?q=%ce%96%ce%b7%ce%bb%ce%b9%ce%b1%cf%83%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 26 | [Ραικου](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b9%ce%ba%ce%bf%cf%85) | N/A |
+| 27 | [Μεγαλη](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%b1%ce%bb%ce%b7) | N/A |
+| 28 | [Σπιρτζης](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
+| 29 | [Χιωτη](http://twitter.com/search?q=%ce%a7%ce%b9%cf%89%cf%84%ce%b7) | N/A |
+| 30 | [Επιτροπη](http://twitter.com/search?q=%ce%95%cf%80%ce%b9%cf%84%cf%81%ce%bf%cf%80%ce%b7) | N/A |
+| 31 | [Θεοδωρα](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
+| 32 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 33 | [Κηφισια](http://twitter.com/search?q=%ce%9a%ce%b7%cf%86%ce%b9%cf%83%ce%b9%ce%b1) | N/A |
+| 34 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 35 | [Ευρυδικη](http://twitter.com/search?q=%ce%95%cf%85%cf%81%cf%85%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
+| 36 | [πανδωρα](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%b4%cf%89%cf%81%ce%b1) | N/A |
+| 37 | [Τζειμς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%b9%ce%bc%cf%82) | N/A |
+| 38 | [καλημερα νικο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bd%ce%b9%ce%ba%ce%bf) | N/A |
+| 39 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 40 | [Ναταλια](http://twitter.com/search?q=%ce%9d%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
+| 41 | [Γκοτσης](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
+| 42 | [Ντανο](http://twitter.com/search?q=%ce%9d%cf%84%ce%b1%ce%bd%ce%bf) | N/A |
+| 43 | [Πολυχρονη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%b7) | N/A |
+| 44 | [Σκασε](http://twitter.com/search?q=%ce%a3%ce%ba%ce%b1%cf%83%ce%b5) | N/A |
+| 45 | [Γεραπετριτη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7) | N/A |
+| 46 | [Λαρισας](http://twitter.com/search?q=%ce%9b%ce%b1%cf%81%ce%b9%cf%83%ce%b1%cf%82) | N/A |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Αυτια](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1) | N/A |
+| 49 | [Αρης](http://twitter.com/search?q=%ce%91%cf%81%ce%b7%cf%82) | N/A |
+| 50 | [Σιλα](http://twitter.com/search?q=%ce%a3%ce%b9%ce%bb%ce%b1) | N/A |
 
 
 

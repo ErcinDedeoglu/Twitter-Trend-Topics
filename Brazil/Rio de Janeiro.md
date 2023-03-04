@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-04 19:15:45 UTC`
+📆 Last Updated: `2023-03-04 20:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 2 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 1 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 2 | [Linha Amarela](http://twitter.com/search?q=Linha+Amarela) | N/A |
 | 3 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
 | 4 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
 | 5 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
 | 6 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
 | 7 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 9 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 8 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 11 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
 | 12 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 14 | [odin](http://twitter.com/search?q=odin) | N/A |
-| 15 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 16 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 17 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 18 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 13 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
+| 14 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 15 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 16 | [odin](http://twitter.com/search?q=odin) | N/A |
+| 17 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 18 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 19 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
 | 20 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 21 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 22 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 24 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 25 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 26 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 30 | [Legalmente Loira](http://twitter.com/search?q=Legalmente+Loira) | N/A |
-| 31 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 32 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 33 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 35 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 36 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
-| 37 | [now united](http://twitter.com/search?q=now+united) | N/A |
-| 38 | [normani](http://twitter.com/search?q=normani) | N/A |
-| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 40 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
-| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 42 | [Go Gunners](http://twitter.com/search?q=Go+Gunners) | N/A |
-| 43 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 44 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 45 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
-| 46 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 47 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
-| 48 | [El Mal Querer](http://twitter.com/search?q=El+Mal+Querer) | N/A |
-| 49 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 50 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 21 | [Ronaldo Henrique](http://twitter.com/search?q=Ronaldo+Henrique) | Ronaldo Henrique is a Portuguese name, with Ronaldo being a given name and Henrique being a surname. In English, it would translate to "Ronald Henry". |
+| 22 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 23 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 25 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 26 | [Bangu](http://twitter.com/search?q=Bangu) | Bangu is a term used in Brazilian Portuguese to refer to a group of friends or family members who are close and supportive of each other. In English, it can be translated as "close circle" or "inner circle". |
+| 27 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
+| 28 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 29 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 30 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 31 | [German Cano](http://twitter.com/search?q=German+Cano) | N/A |
+| 32 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 33 | [Ascent](http://twitter.com/search?q=Ascent) | N/A |
+| 34 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 35 | [Jussa](http://twitter.com/search?q=Jussa) | N/A |
+| 36 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 37 | [Rodrigo Nestor](http://twitter.com/search?q=Rodrigo+Nestor) | N/A |
+| 38 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 39 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 40 | [Zé Ivaldo](http://twitter.com/search?q=Z%c3%a9+Ivaldo) | N/A |
+| 41 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 42 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 43 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
+| 44 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
+| 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 46 | [normani](http://twitter.com/search?q=normani) | N/A |
+| 47 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 48 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 49 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 50 | [Fábio Assunção](http://twitter.com/search?q=F%c3%a1bio+Assun%c3%a7%c3%a3o) | N/A |
 
 
 

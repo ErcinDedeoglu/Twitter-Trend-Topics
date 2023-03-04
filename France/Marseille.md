@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-04 19:15:48 UTC`
+📆 Last Updated: `2023-03-04 20:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [#RCLLOSC](http://twitter.com/search?q=%23RCLLOSC) | N/A |
-| 3 | [Samba](http://twitter.com/search?q=Samba) | N/A |
-| 4 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 5 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
-| 8 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 1 | [#PSGFCN](http://twitter.com/search?q=%23PSGFCN) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
+| 4 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 5 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 6 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 7 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 8 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
 | 9 | [Abou Merguez](http://twitter.com/search?q=Abou+Merguez) | N/A |
-| 10 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 11 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 12 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 13 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 14 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 15 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 16 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 17 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 18 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 25 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 26 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
-| 27 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 28 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
-| 29 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
-| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 31 | [Lensois](http://twitter.com/search?q=Lensois) | N/A |
-| 32 | [Valter](http://twitter.com/search?q=Valter) | N/A |
-| 33 | [Lens Lille](http://twitter.com/search?q=Lens+Lille) | N/A |
-| 34 | [Attal](http://twitter.com/search?q=Attal) | N/A |
+| 10 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
+| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 12 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
+| 13 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 15 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 16 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 17 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 18 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 20 | [Zhegrova](http://twitter.com/search?q=Zhegrova) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 25 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 26 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 27 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
+| 28 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 29 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 30 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 31 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 33 | [Bollaert](http://twitter.com/search?q=Bollaert) | N/A |
+| 34 | [Lensois](http://twitter.com/search?q=Lensois) | N/A |
 | 35 | [Madouas](http://twitter.com/search?q=Madouas) | N/A |
-| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 37 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 38 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 42 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 43 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 44 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 36 | [Lillois](http://twitter.com/search?q=Lillois) | N/A |
+| 37 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
+| 38 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 39 | [Cédric](http://twitter.com/search?q=C%c3%a9dric) | N/A |
+| 40 | [Winston Churchill](http://twitter.com/search?q=Winston+Churchill) | N/A |
+| 41 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 42 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 43 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 45 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 46 | [Allez Lens](http://twitter.com/search?q=Allez+Lens) | N/A |
 
 
 
