@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-03 23:17:32 UTC`
+📆 Last Updated: `2023-03-04 00:27:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [#NRLWarriorsKnights](http://twitter.com/search?q=%23NRLWarriorsKnights) | N/A |
 | 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 5 | [#ADLvMCY](http://twitter.com/search?q=%23ADLvMCY) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
 | 7 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 8 | [The Robodebt](http://twitter.com/search?q=The+Robodebt) | N/A |
-| 9 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 10 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 11 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 12 | [Average](http://twitter.com/search?q=Average) | N/A |
-| 13 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
-| 14 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Soni Luke](http://twitter.com/search?q=Soni+Luke) | N/A |
-| 17 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
-| 18 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 19 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 20 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 21 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 22 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 23 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 24 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 25 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 9 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 10 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 11 | [Average](http://twitter.com/search?q=Average) | N/A |
+| 12 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 13 | [Soni Luke](http://twitter.com/search?q=Soni+Luke) | N/A |
+| 14 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 15 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 16 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 17 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 18 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
+| 19 | [Plibersek](http://twitter.com/search?q=Plibersek) | N/A |
+| 20 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 21 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
+| 22 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 26 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
 | 27 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 28 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 28 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
 | 29 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 30 | [The Project](http://twitter.com/search?q=The+Project) | N/A |
-| 31 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
-| 32 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
-| 33 | [Errol](http://twitter.com/search?q=Errol) | N/A |
-| 34 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 35 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
-| 36 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 30 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 31 | [Gulden](http://twitter.com/search?q=Gulden) | N/A |
+| 32 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
+| 33 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 34 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 35 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 36 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
 | 37 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 38 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
-| 39 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
-| 40 | [joel wilson](http://twitter.com/search?q=joel+wilson) | N/A |
-| 41 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 42 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 43 | [Adam Reynolds](http://twitter.com/search?q=Adam+Reynolds) | N/A |
-| 44 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
-| 45 | [Herbie](http://twitter.com/search?q=Herbie) | N/A |
-| 46 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
-| 47 | [Giga Kick](http://twitter.com/search?q=Giga+Kick) | N/A |
-| 48 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 38 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 39 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
+| 40 | [adam reynolds](http://twitter.com/search?q=adam+reynolds) | N/A |
+| 41 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 42 | [Herbie](http://twitter.com/search?q=Herbie) | N/A |
+| 43 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
+| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 45 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 46 | [Marles](http://twitter.com/search?q=Marles) | N/A |
+| 47 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 48 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
+| 49 | [Meghan Trainor](http://twitter.com/search?q=Meghan+Trainor) | N/A |
+| 50 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-03 23:17:15 UTC`
+📆 Last Updated: `2023-03-04 00:27:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
 | 2 | [#CasasDelEstudiante](http://twitter.com/search?q=%23CasasDelEstudiante) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 3 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 4 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
 | 5 | [FNERRR](http://twitter.com/search?q=FNERRR) | N/A |
-| 6 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 7 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
-| 8 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 9 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 12 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 13 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 15 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 16 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
-| 17 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
-| 18 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
-| 19 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 20 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 21 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 22 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 6 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 9 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 10 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 13 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 14 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
+| 15 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 17 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 18 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 19 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 20 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 21 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 22 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
 | 23 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 24 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 25 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 24 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 25 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
 | 26 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 27 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 28 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 27 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
+| 28 | [Roier](http://twitter.com/search?q=Roier) | N/A |
 | 29 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 30 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 30 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
 | 31 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 32 | [Maau](http://twitter.com/search?q=Maau) | N/A |
-| 33 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 34 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 37 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 38 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 39 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 41 | [El Gobernador](http://twitter.com/search?q=El+Gobernador) | N/A |
-| 42 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
-| 43 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 44 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 45 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 46 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
-| 47 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 32 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 33 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 34 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
+| 35 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
+| 36 | [#ViveLatino](http://twitter.com/search?q=%23ViveLatino) | N/A |
+| 37 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 38 | [#SuperPesoMexicano](http://twitter.com/search?q=%23SuperPesoMexicano) | N/A |
+| 39 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 40 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 41 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
+| 42 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
+| 43 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 44 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
+| 45 | [#AziNoAnlo](http://twitter.com/search?q=%23AziNoAnlo) | N/A |
+| 46 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
 
 
 

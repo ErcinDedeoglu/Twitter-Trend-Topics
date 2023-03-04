@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-03 23:17:58 UTC`
+📆 Last Updated: `2023-03-04 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
 | 2 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 3 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
-| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 5 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 6 | [MIOTO FEAT LEO SANTANA](http://twitter.com/search?q=MIOTO+FEAT+LEO+SANTANA) | N/A |
-| 7 | [comendador](http://twitter.com/search?q=comendador) | N/A |
-| 8 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 9 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 10 | [TEAM GABRIEL SANTANA](http://twitter.com/search?q=TEAM+GABRIEL+SANTANA) | N/A |
-| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 12 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 13 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 14 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 15 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
-| 16 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 17 | [#TrêsVezesAna025](http://twitter.com/search?q=%23Tr%c3%aasVezesAna025) | N/A |
-| 18 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 19 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 20 | [#LulaReconstruindoOBrasil](http://twitter.com/search?q=%23LulaReconstruindoOBrasil) | N/A |
-| 21 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 22 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 23 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 24 | [Não Para Não](http://twitter.com/search?q=N%c3%a3o+Para+N%c3%a3o) | N/A |
-| 25 | [Beijo de Judas](http://twitter.com/search?q=Beijo+de+Judas) | N/A |
-| 26 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 28 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 29 | [Heyoon](http://twitter.com/search?q=Heyoon) | N/A |
-| 30 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 31 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 32 | [The Car](http://twitter.com/search?q=The+Car) | N/A |
-| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 34 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
-| 35 | [Regiane Alves](http://twitter.com/search?q=Regiane+Alves) | N/A |
-| 36 | [Batidão Tropical](http://twitter.com/search?q=Batid%c3%a3o+Tropical) | N/A |
-| 37 | [Vai Passar Mal](http://twitter.com/search?q=Vai+Passar+Mal) | N/A |
-| 38 | [Eyes Wide Open](http://twitter.com/search?q=Eyes+Wide+Open) | N/A |
-| 39 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 40 | [Singular Act II](http://twitter.com/search?q=Singular+Act+II) | N/A |
-| 41 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 44 | [shivani](http://twitter.com/search?q=shivani) | N/A |
-| 45 | [O Theo](http://twitter.com/search?q=O+Theo) | N/A |
-| 46 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 47 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 48 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
-| 49 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 50 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 3 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 4 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 5 | [PARABENS ARTHUR](http://twitter.com/search?q=PARABENS+ARTHUR) | N/A |
+| 6 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 7 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 8 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 9 | [CLIPE VARIAS OPCOES](http://twitter.com/search?q=CLIPE+VARIAS+OPCOES) | N/A |
+| 10 | [Receita](http://twitter.com/search?q=Receita) | N/A |
+| 11 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [comendador](http://twitter.com/search?q=comendador) | N/A |
+| 14 | [MIOTO FEAT LEO SANTANA](http://twitter.com/search?q=MIOTO+FEAT+LEO+SANTANA) | N/A |
+| 15 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 16 | [TEAM GABRIEL SANTANA](http://twitter.com/search?q=TEAM+GABRIEL+SANTANA) | N/A |
+| 17 | [#PolianaMoça](http://twitter.com/search?q=%23PolianaMo%c3%a7a) | N/A |
+| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 19 | [Governo Bolsonaro](http://twitter.com/search?q=Governo+Bolsonaro) | N/A |
+| 20 | [chay](http://twitter.com/search?q=chay) | N/A |
+| 21 | [MUSSI COM CACAUSHOW](http://twitter.com/search?q=MUSSI+COM+CACAUSHOW) | N/A |
+| 22 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 23 | [#LulaReconstruindoOBrasil](http://twitter.com/search?q=%23LulaReconstruindoOBrasil) | N/A |
+| 24 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
+| 25 | [Área Restrita](http://twitter.com/search?q=%c3%81rea+Restrita) | N/A |
+| 26 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
+| 27 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 28 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
+| 29 | [#TrêsVezesAna025](http://twitter.com/search?q=%23Tr%c3%aasVezesAna025) | N/A |
+| 30 | [The Hunting Party](http://twitter.com/search?q=The+Hunting+Party) | N/A |
+| 31 | [#jornalnacional](http://twitter.com/search?q=%23jornalnacional) | N/A |
+| 32 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 33 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 34 | [Cigano](http://twitter.com/search?q=Cigano) | N/A |
+| 35 | [Aeroporto](http://twitter.com/search?q=Aeroporto) | N/A |
+| 36 | [Beijo de Judas](http://twitter.com/search?q=Beijo+de+Judas) | N/A |
+| 37 | [Não Para Não](http://twitter.com/search?q=N%c3%a3o+Para+N%c3%a3o) | N/A |
+| 38 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 39 | [Hybrid Theory](http://twitter.com/search?q=Hybrid+Theory) | N/A |
+| 40 | [Regiane Alves](http://twitter.com/search?q=Regiane+Alves) | N/A |
+| 41 | [LARI MERECE RESPEITO](http://twitter.com/search?q=LARI+MERECE+RESPEITO) | N/A |
+| 42 | [O Theo](http://twitter.com/search?q=O+Theo) | N/A |
+| 43 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 44 | [I Am](http://twitter.com/search?q=I+Am) | N/A |
+| 45 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
+| 46 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 48 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 49 | [Eyes Wide Open](http://twitter.com/search?q=Eyes+Wide+Open) | N/A |
+| 50 | [Singular Act II](http://twitter.com/search?q=Singular+Act+II) | N/A |
 
 
 

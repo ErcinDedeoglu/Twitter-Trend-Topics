@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-03 23:17:11 UTC`
+📆 Last Updated: `2023-03-04 00:27:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
+| 1 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
 | 2 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 3 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 6 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 7 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 8 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 9 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 10 | [#ReinstateEva](http://twitter.com/search?q=%23ReinstateEva) | N/A |
-| 11 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 14 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 3 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 6 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 7 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 8 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 9 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 10 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 11 | [#ReinstateEva](http://twitter.com/search?q=%23ReinstateEva) | N/A |
+| 12 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
 | 16 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 17 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 18 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
-| 19 | [Allvin](http://twitter.com/search?q=Allvin) | N/A |
-| 20 | [Monahan](http://twitter.com/search?q=Monahan) | N/A |
-| 21 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 22 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 23 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 24 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 25 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
-| 26 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 27 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 28 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 29 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 30 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 31 | [Holl and Kerfoot](http://twitter.com/search?q=Holl+and+Kerfoot) | N/A |
-| 32 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 33 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 34 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 35 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 36 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 37 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 38 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 39 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
-| 40 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
-| 41 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 42 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 43 | [Benning](http://twitter.com/search?q=Benning) | N/A |
-| 44 | [Yzerman](http://twitter.com/search?q=Yzerman) | N/A |
-| 45 | [Cocaine](http://twitter.com/search?q=Cocaine) | N/A |
-| 46 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
-| 47 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 48 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 49 | [#NHLTradeDeadline](http://twitter.com/search?q=%23NHLTradeDeadline) | N/A |
+| 17 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
+| 18 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 19 | [Monahan](http://twitter.com/search?q=Monahan) | N/A |
+| 20 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 21 | [Allvin](http://twitter.com/search?q=Allvin) | N/A |
+| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 23 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 24 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 25 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 26 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 27 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 28 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
+| 29 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 30 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 31 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 32 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 33 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 34 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 35 | [Benning](http://twitter.com/search?q=Benning) | N/A |
+| 36 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
+| 37 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 38 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 39 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 40 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
+| 41 | [#NHLTradeDeadline2023](http://twitter.com/search?q=%23NHLTradeDeadline2023) | N/A |
+| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 43 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 44 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 45 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
 
 
 

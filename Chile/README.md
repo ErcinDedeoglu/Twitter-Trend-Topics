@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-03 23:17:58 UTC`
+📆 Last Updated: `2023-03-04 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 2 | [#NiFloresNiChocolates](http://twitter.com/search?q=%23NiFloresNiChocolates) | N/A |
-| 3 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#LeyTEA](http://twitter.com/search?q=%23LeyTEA) | N/A |
-| 6 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 7 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 8 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
-| 9 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 10 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 11 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 12 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 13 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 14 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
-| 15 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 16 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 17 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 18 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 19 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
-| 20 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
-| 21 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 22 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 23 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
-| 24 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 25 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 26 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 27 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 28 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 29 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
-| 30 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
-| 31 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 32 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 33 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 34 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 35 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 36 | [San Pedro de la Paz](http://twitter.com/search?q=San+Pedro+de+la+Paz) | N/A |
-| 37 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 38 | [Carola Julio](http://twitter.com/search?q=Carola+Julio) | N/A |
-| 39 | [Iraci Hassler](http://twitter.com/search?q=Iraci+Hassler) | N/A |
-| 40 | [La Cisterna](http://twitter.com/search?q=La+Cisterna) | N/A |
-| 41 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 42 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
-| 43 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 44 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 45 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
-| 46 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 47 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 48 | [Operación Colombo](http://twitter.com/search?q=Operaci%c3%b3n+Colombo) | N/A |
-| 49 | [La General](http://twitter.com/search?q=La+General) | N/A |
-| 50 | [Coquimbo Unido](http://twitter.com/search?q=Coquimbo+Unido) | N/A |
+| 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 2 | [#ÑUBvsUCxTNTSports](http://twitter.com/search?q=%23%c3%91UBvsUCxTNTSports) | N/A |
+| 3 | [#NiFloresNiChocolates](http://twitter.com/search?q=%23NiFloresNiChocolates) | N/A |
+| 4 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 5 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 6 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 7 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
+| 10 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 11 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 12 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 13 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 14 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
+| 15 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
+| 16 | [Vamos Católica](http://twitter.com/search?q=Vamos+Cat%c3%b3lica) | N/A |
+| 17 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 18 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 19 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 20 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 21 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 22 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
+| 23 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 24 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 25 | [Generala](http://twitter.com/search?q=Generala) | N/A |
+| 26 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 27 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 28 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 29 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 30 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 31 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 32 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 33 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 34 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 35 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 36 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
+| 37 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 38 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 39 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
+| 40 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 41 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 42 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 43 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 44 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
+| 45 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 46 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
+| 47 | [San Pedro de la Paz](http://twitter.com/search?q=San+Pedro+de+la+Paz) | N/A |
+| 48 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 49 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 50 | [Carola Julio](http://twitter.com/search?q=Carola+Julio) | N/A |
 
 
 

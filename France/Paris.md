@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-03 23:17:24 UTC`
+📆 Last Updated: `2023-03-04 00:27:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
-| 2 | [#Enfoirés2023](http://twitter.com/search?q=%23Enfoir%c3%a9s2023) | N/A |
-| 3 | [#SpaceUltraKC](http://twitter.com/search?q=%23SpaceUltraKC) | N/A |
-| 4 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
-| 5 | [#arnaques](http://twitter.com/search?q=%23arnaques) | N/A |
-| 6 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 7 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 8 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
-| 9 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
-| 10 | [Mimie Mathy](http://twitter.com/search?q=Mimie+Mathy) | N/A |
-| 11 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
-| 12 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 13 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 1 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
+| 2 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 3 | [#Enfoirés2023](http://twitter.com/search?q=%23Enfoir%c3%a9s2023) | N/A |
+| 4 | [#DaSpace](http://twitter.com/search?q=%23DaSpace) | N/A |
+| 5 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 6 | [#SpaceUltraKC](http://twitter.com/search?q=%23SpaceUltraKC) | N/A |
+| 7 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
+| 8 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 9 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 10 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 11 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 12 | [Mimie Mathy](http://twitter.com/search?q=Mimie+Mathy) | N/A |
+| 13 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
 | 14 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 15 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
-| 16 | [Radu](http://twitter.com/search?q=Radu) | N/A |
-| 17 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 18 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 19 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
-| 20 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
-| 21 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 22 | [Slimane](http://twitter.com/search?q=Slimane) | N/A |
-| 23 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
-| 24 | [Thomas Pesquet](http://twitter.com/search?q=Thomas+Pesquet) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
-| 27 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 28 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 29 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
-| 30 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 31 | [Lanvin](http://twitter.com/search?q=Lanvin) | N/A |
-| 32 | [Fourniret](http://twitter.com/search?q=Fourniret) | N/A |
-| 33 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 34 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 35 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 36 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
-| 37 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
-| 38 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 39 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 40 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 41 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
-| 42 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
-| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 44 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 45 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 46 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 15 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 16 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 17 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
+| 18 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 19 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 20 | [Radu](http://twitter.com/search?q=Radu) | N/A |
+| 21 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 22 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 23 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 24 | [Slimane](http://twitter.com/search?q=Slimane) | N/A |
+| 25 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 26 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 27 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
+| 28 | [Thomas Pesquet](http://twitter.com/search?q=Thomas+Pesquet) | N/A |
+| 29 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
+| 30 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 33 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 34 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 35 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
+| 36 | [Fourniret](http://twitter.com/search?q=Fourniret) | N/A |
+| 37 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 38 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 39 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
+| 40 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 41 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 43 | [#arnaques](http://twitter.com/search?q=%23arnaques) | N/A |
+| 44 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 45 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
+| 46 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
 | 47 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 48 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 49 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 50 | [#BoycottCarrefour](http://twitter.com/search?q=%23BoycottCarrefour) | N/A |
+| 48 | [#BoycottCarrefour](http://twitter.com/search?q=%23BoycottCarrefour) | N/A |
+| 49 | [#TeamAJA](http://twitter.com/search?q=%23TeamAJA) | N/A |
+| 50 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
 
 
 
