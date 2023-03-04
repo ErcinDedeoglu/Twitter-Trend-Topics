@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-04 02:39:36 UTC`
+📆 Last Updated: `2023-03-04 03:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for Greece
 | 13 | [Σκασε](http://twitter.com/search?q=%ce%a3%ce%ba%ce%b1%cf%83%ce%b5) | N/A |
 | 14 | [Λαρισας](http://twitter.com/search?q=%ce%9b%ce%b1%cf%81%ce%b9%cf%83%ce%b1%cf%82) | N/A |
 | 15 | [Κηφισια](http://twitter.com/search?q=%ce%9a%ce%b7%cf%86%ce%b9%cf%83%ce%b9%ce%b1) | N/A |
-| 16 | [Γκλετσος](http://twitter.com/search?q=%ce%93%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
-| 17 | [Ντανος](http://twitter.com/search?q=%ce%9d%cf%84%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
+| 16 | [γκλετσος](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 17 | [Σακης](http://twitter.com/search?q=%ce%a3%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
 | 18 | [Σταθης](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
-| 19 | [Σακης](http://twitter.com/search?q=%ce%a3%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 20 | [Λιαγκας](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%b3%ce%ba%ce%b1%cf%82) | N/A |
-| 21 | [Πρετεντερη](http://twitter.com/search?q=%ce%a0%cf%81%ce%b5%cf%84%ce%b5%ce%bd%cf%84%ce%b5%cf%81%ce%b7) | N/A |
-| 22 | [Μπαρτζης](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
-| 23 | [Χιωτη](http://twitter.com/search?q=%ce%a7%ce%b9%cf%89%cf%84%ce%b7) | N/A |
-| 24 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
-| 25 | [Τζειμς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%b9%ce%bc%cf%82) | N/A |
-| 26 | [παναγιωτης](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
-| 27 | [γκαγκα](http://twitter.com/search?q=%ce%b3%ce%ba%ce%b1%ce%b3%ce%ba%ce%b1) | N/A |
+| 19 | [Λιαγκας](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%b3%ce%ba%ce%b1%cf%82) | N/A |
+| 20 | [Πρετεντερη](http://twitter.com/search?q=%ce%a0%cf%81%ce%b5%cf%84%ce%b5%ce%bd%cf%84%ce%b5%cf%81%ce%b7) | N/A |
+| 21 | [Μπαρτζης](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
+| 22 | [Χιωτη](http://twitter.com/search?q=%ce%a7%ce%b9%cf%89%cf%84%ce%b7) | N/A |
+| 23 | [Τζειμς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%b5%ce%b9%ce%bc%cf%82) | N/A |
+| 24 | [Ντανο](http://twitter.com/search?q=%ce%9d%cf%84%ce%b1%ce%bd%ce%bf) | N/A |
+| 25 | [παναγιωτης](http://twitter.com/search?q=%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
+| 26 | [γκαγκα](http://twitter.com/search?q=%ce%b3%ce%ba%ce%b1%ce%b3%ce%ba%ce%b1) | N/A |
+| 27 | [η ευρυδικη](http://twitter.com/search?q=%ce%b7+%ce%b5%cf%85%cf%81%cf%85%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
 | 28 | [Αγγελω](http://twitter.com/search?q=%ce%91%ce%b3%ce%b3%ce%b5%ce%bb%cf%89) | N/A |
-| 29 | [η ευρυδικη](http://twitter.com/search?q=%ce%b7+%ce%b5%cf%85%cf%81%cf%85%ce%b4%ce%b9%ce%ba%ce%b7) | N/A |
-| 30 | [γεραπετριτη](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7) | N/A |
-| 31 | [θερμα](http://twitter.com/search?q=%ce%b8%ce%b5%cf%81%ce%bc%ce%b1) | N/A |
-| 32 | [Μαριαλενα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
-| 33 | [Μαριλου](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bb%ce%bf%cf%85) | N/A |
-| 34 | [Μαριο](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bf) | N/A |
-| 35 | [Βαγγελης](http://twitter.com/search?q=%ce%92%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b7%cf%82) | N/A |
-| 36 | [αρμανι](http://twitter.com/search?q=%ce%b1%cf%81%ce%bc%ce%b1%ce%bd%ce%b9) | N/A |
+| 29 | [γεραπετριτη](http://twitter.com/search?q=%ce%b3%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%84%cf%81%ce%b9%cf%84%ce%b7) | N/A |
+| 30 | [θερμα](http://twitter.com/search?q=%ce%b8%ce%b5%cf%81%ce%bc%ce%b1) | N/A |
+| 31 | [Μαριαλενα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 32 | [Μαριο](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bf) | N/A |
+| 33 | [νεα 24ωρη](http://twitter.com/search?q=%ce%bd%ce%b5%ce%b1+24%cf%89%cf%81%ce%b7) | N/A |
+| 34 | [Μαριλου](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bb%ce%bf%cf%85) | N/A |
+| 35 | [αρμανι](http://twitter.com/search?q=%ce%b1%cf%81%ce%bc%ce%b1%ce%bd%ce%b9) | N/A |
+| 36 | [βαγγελης](http://twitter.com/search?q=%ce%b2%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%b7%cf%82) | N/A |
 | 37 | [Πανδωρα](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b4%cf%89%cf%81%ce%b1) | N/A |
 | 38 | [Καραμανλη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%b1%ce%bc%ce%b1%ce%bd%ce%bb%ce%b7) | N/A |
 | 39 | [Ρομα](http://twitter.com/search?q=%ce%a1%ce%bf%ce%bc%ce%b1) | N/A |
-| 40 | [επιτροπη](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9%cf%84%cf%81%ce%bf%cf%80%ce%b7) | N/A |
-| 41 | [Τσιμας](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%ce%bc%ce%b1%cf%82) | N/A |
-| 42 | [ΣΚΑΙ](http://twitter.com/search?q=%ce%a3%ce%9a%ce%91%ce%99) | N/A |
-| 43 | [Νικολουλη](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%bf%cf%85%ce%bb%ce%b7) | N/A |
-| 44 | [νεα 24ωρη](http://twitter.com/search?q=%ce%bd%ce%b5%ce%b1+24%cf%89%cf%81%ce%b7) | N/A |
-| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 46 | [σπιρτζης](http://twitter.com/search?q=%cf%83%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
+| 40 | [τσιμας](http://twitter.com/search?q=%cf%84%cf%83%ce%b9%ce%bc%ce%b1%cf%82) | N/A |
+| 41 | [επιτροπη](http://twitter.com/search?q=%ce%b5%cf%80%ce%b9%cf%84%cf%81%ce%bf%cf%80%ce%b7) | N/A |
+| 42 | [Νικολουλη](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%bf%cf%85%ce%bb%ce%b7) | N/A |
+| 43 | [ΣΚΑΙ](http://twitter.com/search?q=%ce%a3%ce%9a%ce%91%ce%99) | N/A |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [γκοτσης](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
+| 46 | [Σπιρτζης](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
 | 47 | [Αμερικανων](http://twitter.com/search?q=%ce%91%ce%bc%ce%b5%cf%81%ce%b9%ce%ba%ce%b1%ce%bd%cf%89%ce%bd) | N/A |
 | 48 | [προπυλαια](http://twitter.com/search?q=%cf%80%cf%81%ce%bf%cf%80%cf%85%ce%bb%ce%b1%ce%b9%ce%b1) | N/A |
-| 49 | [γκοτσης](http://twitter.com/search?q=%ce%b3%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 50 | [Ντροπη](http://twitter.com/search?q=%ce%9d%cf%84%cf%81%ce%bf%cf%80%ce%b7) | N/A |
 
 

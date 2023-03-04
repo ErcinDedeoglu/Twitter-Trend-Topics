@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-03-04 02:39:12 UTC`
+📆 Last Updated: `2023-03-04 03:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [#themaskedsingermalaysia](http://twitter.com/search?q=%23themaskedsingermalaysia) | N/A |
 | 6 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 7 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 8 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 10 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 11 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 8 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 9 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 10 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 11 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 12 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 13 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 16 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 17 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 18 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 19 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 20 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 21 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 22 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 23 | [Yato](http://twitter.com/search?q=Yato) | N/A |
-| 24 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 25 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
-| 26 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
-| 27 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
-| 28 | [subang airport](http://twitter.com/search?q=subang+airport) | N/A |
-| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 30 | [Welcome to Malaysia](http://twitter.com/search?q=Welcome+to+Malaysia) | N/A |
-| 31 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 32 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 14 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 18 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 19 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 22 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 23 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 24 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
+| 25 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 26 | [subang airport](http://twitter.com/search?q=subang+airport) | N/A |
+| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 28 | [NICE TO MEET YOU BUILD](http://twitter.com/search?q=NICE+TO+MEET+YOU+BUILD) | N/A |
+| 29 | [Welcome to Malaysia](http://twitter.com/search?q=Welcome+to+Malaysia) | N/A |
+| 30 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
+| 31 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 32 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
 | 33 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 34 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 35 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 36 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 34 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 35 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 36 | [Klang](http://twitter.com/search?q=Klang) | N/A |
 | 37 | [1MDB](http://twitter.com/search?q=1MDB) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 39 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 40 | [Envestnet](http://twitter.com/search?q=Envestnet) | N/A |
-| 41 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 42 | [Klang](http://twitter.com/search?q=Klang) | N/A |
-| 43 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 44 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
+| 38 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 39 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 40 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 41 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 42 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 43 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [Jho Low](http://twitter.com/search?q=Jho+Low) | N/A |
 | 45 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
-| 46 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 47 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 46 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 47 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
 | 48 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-04 02:38:47 UTC`
+📆 Last Updated: `2023-03-04 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
 | 4 | [#LastLegWhatsApp](http://twitter.com/search?q=%23LastLegWhatsApp) | N/A |
 | 5 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 6 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
+| 6 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
 | 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 8 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 9 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 10 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
+| 8 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 9 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 10 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
 | 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 12 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 13 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 14 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
-| 15 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 17 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 18 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
-| 19 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 20 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 24 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 25 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 26 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 27 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
-| 28 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 29 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 30 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 31 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 32 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 33 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
-| 34 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 35 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 36 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 38 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 39 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 40 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 41 | [Pembrokeshire](http://twitter.com/search?q=Pembrokeshire) | N/A |
-| 42 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 43 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 44 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 45 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 46 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 47 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 48 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 49 | [Oakshott](http://twitter.com/search?q=Oakshott) | N/A |
+| 13 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
+| 14 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
+| 17 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 18 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 19 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 22 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 23 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 24 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
+| 25 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 26 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 27 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 28 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 29 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 31 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 32 | [Boost](http://twitter.com/search?q=Boost) | N/A |
+| 33 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 34 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 35 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 36 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 37 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 38 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 39 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 40 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 41 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 42 | [#SLStHLee](http://twitter.com/search?q=%23SLStHLee) | N/A |
+| 43 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
+| 44 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 45 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 46 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 47 | [#thankyouwad](http://twitter.com/search?q=%23thankyouwad) | N/A |
+| 48 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
+| 49 | [#GrowingTogether](http://twitter.com/search?q=%23GrowingTogether) | N/A |
 
 
 

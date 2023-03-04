@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-04 02:38:45 UTC`
+📆 Last Updated: `2023-03-04 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
 | 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#dlws](http://twitter.com/search?q=%23dlws) | N/A |
+| 3 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 5 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
 | 6 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 7 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 9 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
-| 10 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 11 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 12 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
-| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 17 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 18 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 19 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 20 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 21 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 22 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 23 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
-| 24 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 25 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 26 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 27 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 28 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 29 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
-| 30 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
-| 31 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 32 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
-| 33 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
-| 34 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 35 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 36 | [frédéric allard](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+allard) | N/A |
-| 37 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 38 | [Namestnikov](http://twitter.com/search?q=Namestnikov) | N/A |
-| 39 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 40 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 8 | [#dlws](http://twitter.com/search?q=%23dlws) | N/A |
+| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 12 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 13 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 18 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 19 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 22 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 23 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
+| 24 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 25 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 26 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
+| 27 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 28 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 29 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 30 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 31 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 32 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
+| 33 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 34 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 35 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
+| 36 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 37 | [CN Tower](http://twitter.com/search?q=CN+Tower) | N/A |
+| 38 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 39 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 40 | [frédéric allard](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+allard) | N/A |
 | 41 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 42 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
-| 43 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 44 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
-| 45 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 46 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 47 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 48 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 49 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 50 | [nate schnarr](http://twitter.com/search?q=nate+schnarr) | N/A |
+| 42 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
+| 43 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
+| 44 | [Namestnikov](http://twitter.com/search?q=Namestnikov) | N/A |
+| 45 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
+| 46 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 47 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 48 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 49 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 50 | [Banky](http://twitter.com/search?q=Banky) | N/A |
 
 
 

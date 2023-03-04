@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-04 02:39:20 UTC`
+📆 Last Updated: `2023-03-04 03:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [AZAM KHAN](http://twitter.com/search?q=AZAM+KHAN) | N/A |
 | 6 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
 | 7 | [Truck](http://twitter.com/search?q=Truck) | N/A |
-| 8 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 8 | [ASIF ALI](http://twitter.com/search?q=ASIF+ALI) | N/A |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 10 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
-| 11 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
-| 12 | [hales](http://twitter.com/search?q=hales) | N/A |
+| 11 | [hales](http://twitter.com/search?q=hales) | N/A |
+| 12 | [sikandar raza](http://twitter.com/search?q=sikandar+raza) | N/A |
 | 13 | [baloch culture day](http://twitter.com/search?q=baloch+culture+day) | N/A |
 | 14 | [Ali Akbar](http://twitter.com/search?q=Ali+Akbar) | N/A |
-| 15 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 16 | [president arif alvi](http://twitter.com/search?q=president+arif+alvi) | N/A |
-| 17 | [hassan ali](http://twitter.com/search?q=hassan+ali) | N/A |
-| 18 | [qalandars](http://twitter.com/search?q=qalandars) | N/A |
-| 19 | [namoos sahaba ahlbait bill](http://twitter.com/search?q=namoos+sahaba+ahlbait+bill) | N/A |
-| 20 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 21 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 22 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 23 | [Asma](http://twitter.com/search?q=Asma) | N/A |
-| 24 | [Ducky](http://twitter.com/search?q=Ducky) | N/A |
-| 25 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
-| 26 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
-| 27 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 28 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 29 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 32 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 33 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 34 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 35 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 36 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 37 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
-| 38 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
-| 39 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
-| 41 | [University](http://twitter.com/search?q=University) | N/A |
-| 42 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 43 | [E 20](http://twitter.com/search?q=E+20) | N/A |
-| 44 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 45 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Strange](http://twitter.com/search?q=Strange) | N/A |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [NUST](http://twitter.com/search?q=NUST) | N/A |
+| 15 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
+| 16 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
+| 17 | [president arif alvi](http://twitter.com/search?q=president+arif+alvi) | N/A |
+| 18 | [Hassan Ali](http://twitter.com/search?q=Hassan+Ali) | N/A |
+| 19 | [qalandars](http://twitter.com/search?q=qalandars) | N/A |
+| 20 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 21 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 22 | [namoos sahaba ahlbait bill](http://twitter.com/search?q=namoos+sahaba+ahlbait+bill) | N/A |
+| 23 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 24 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 25 | [Asma](http://twitter.com/search?q=Asma) | N/A |
+| 26 | [Mighty](http://twitter.com/search?q=Mighty) | N/A |
+| 27 | [Ducky](http://twitter.com/search?q=Ducky) | N/A |
+| 28 | [3rd March](http://twitter.com/search?q=3rd+March) | N/A |
+| 29 | [Prince Of Bani Hashim](http://twitter.com/search?q=Prince+Of+Bani+Hashim) | N/A |
+| 30 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 31 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 32 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 33 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 34 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 37 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 39 | [hmu in dm](http://twitter.com/search?q=hmu+in+dm) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [London](http://twitter.com/search?q=London) | N/A |
+| 42 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 43 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 44 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 45 | [University](http://twitter.com/search?q=University) | N/A |
+| 46 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 47 | [E 20](http://twitter.com/search?q=E+20) | N/A |
+| 48 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 49 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
 
 
 

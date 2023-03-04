@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-04 02:38:50 UTC`
+📆 Last Updated: `2023-03-04 03:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 4 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 5 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 6 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
-| 7 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 8 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 9 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 10 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 11 | [#eruspace](http://twitter.com/search?q=%23eruspace) | N/A |
-| 12 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 13 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 14 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 15 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 1 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 2 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 4 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 5 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 6 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 7 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 8 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
+| 9 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 10 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 11 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 12 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 13 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 14 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 15 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
 | 16 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 17 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 18 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 19 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 20 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 21 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 22 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 23 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 24 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 25 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 26 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 27 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 28 | [Nando](http://twitter.com/search?q=Nando) | N/A |
-| 29 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 30 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 31 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 32 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 33 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
-| 34 | [Vulgar](http://twitter.com/search?q=Vulgar) | N/A |
-| 35 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 36 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 37 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 38 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 39 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 40 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 41 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 44 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 45 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 46 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 47 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 49 | [#FondesoEmprende](http://twitter.com/search?q=%23FondesoEmprende) | N/A |
-| 50 | [#NuggetSMP](http://twitter.com/search?q=%23NuggetSMP) | N/A |
+| 17 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 18 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 19 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
+| 20 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 21 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
+| 22 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 23 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 24 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 25 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 26 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 27 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 28 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 29 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 30 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 31 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 32 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 33 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 34 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 35 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 36 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
+| 37 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
+| 38 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
+| 39 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 40 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 41 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 42 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 43 | [Vulgar](http://twitter.com/search?q=Vulgar) | N/A |
+| 44 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 45 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 46 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
+| 47 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 48 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 49 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 50 | [Lira](http://twitter.com/search?q=Lira) | N/A |
 
 
 

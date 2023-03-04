@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-04 02:39:37 UTC`
+📆 Last Updated: `2023-03-04 03:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Indonesia
 | 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 3 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 5 | [#PLTGSamberaMangkrak](http://twitter.com/search?q=%23PLTGSamberaMangkrak) | N/A |
-| 6 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
-| 7 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 5 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
+| 6 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 7 | [#PLTGSamberaMangkrak](http://twitter.com/search?q=%23PLTGSamberaMangkrak) | N/A |
 | 8 | [#7Dream_in_Indonesia](http://twitter.com/search?q=%237Dream_in_Indonesia) | N/A |
 | 9 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
-| 10 | [Bersandar Hanya Pada Allah](http://twitter.com/search?q=Bersandar+Hanya+Pada+Allah) | N/A |
-| 11 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 14 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 15 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 16 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 10 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 13 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 14 | [pn jakpus](http://twitter.com/search?q=pn+jakpus) | N/A |
+| 15 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 16 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 18 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 19 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 20 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 21 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
-| 22 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 18 | [WE NEED IRENE'S BIRTHDAY PARTY](http://twitter.com/search?q=WE+NEED+IRENE%27S+BIRTHDAY+PARTY) | N/A |
+| 19 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 20 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
+| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 22 | [Downgrade](http://twitter.com/search?q=Downgrade) | N/A |
 | 23 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 24 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 26 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 27 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 28 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 29 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 30 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 31 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 32 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 33 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 34 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 35 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 36 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 37 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 38 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 39 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 40 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 41 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 42 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 43 | [Turut](http://twitter.com/search?q=Turut) | N/A |
-| 44 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 45 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
-| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 47 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 48 | [Anies](http://twitter.com/search?q=Anies) | N/A |
-| 49 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 50 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 24 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 25 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 26 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 28 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 29 | [safe flight dreamies](http://twitter.com/search?q=safe+flight+dreamies) | N/A |
+| 30 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 31 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 32 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 33 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
+| 34 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 35 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 36 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 37 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 38 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 41 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 42 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 43 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 44 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 45 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 46 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 47 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
+| 48 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 49 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 50 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-04 02:39:29 UTC`
+📆 Last Updated: `2023-03-04 03:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 1 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 4 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 5 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 6 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 8 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 9 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 10 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 11 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
-| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 13 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 14 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 15 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 17 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 18 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 19 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 20 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 21 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 22 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 23 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 24 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 25 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 26 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 27 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 28 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 29 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 30 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
+| 3 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 4 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 5 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 6 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 10 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 12 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 13 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 16 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 18 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 22 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 23 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 24 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 25 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
+| 26 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
+| 27 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 29 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 30 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
 | 31 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 32 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 33 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 34 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
-| 35 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 36 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 37 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 38 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 39 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 40 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 41 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 42 | [Tegan](http://twitter.com/search?q=Tegan) | N/A |
-| 43 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 44 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 45 | [Dejounte](http://twitter.com/search?q=Dejounte) | N/A |
-| 46 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 47 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 32 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
+| 33 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
+| 34 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 35 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 36 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 37 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 38 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 39 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
+| 40 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 41 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 42 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 43 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 44 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
+| 45 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 46 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 47 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
 | 48 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 49 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 49 | [Up 28](http://twitter.com/search?q=Up+28) | N/A |
 
 
 
