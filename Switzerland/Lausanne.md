@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-04 10:16:43 UTC`
+📆 Last Updated: `2023-03-04 11:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 6 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
-| 7 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 8 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 9 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 10 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 11 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 12 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 13 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 14 | [#evoting](http://twitter.com/search?q=%23evoting) | N/A |
-| 15 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
-| 16 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 17 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 18 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 19 | [Streifen](http://twitter.com/search?q=Streifen) | N/A |
+| 7 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 8 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 9 | [#Toblerone](http://twitter.com/search?q=%23Toblerone) | N/A |
+| 10 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 11 | [#evoting](http://twitter.com/search?q=%23evoting) | N/A |
+| 12 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 13 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 15 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 16 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
+| 17 | [Streifen](http://twitter.com/search?q=Streifen) | N/A |
+| 18 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
+| 19 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 20 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
 | 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 22 | [Beschwerde beim Presserat](http://twitter.com/search?q=Beschwerde+beim+Presserat) | N/A |
-| 23 | [Ethiopia](http://twitter.com/search?q=Ethiopia) | N/A |
-| 24 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 25 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 26 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 27 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 28 | [Mund](http://twitter.com/search?q=Mund) | N/A |
-| 29 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 30 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
-| 31 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 32 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 35 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 36 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 37 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
-| 38 | [Kollege](http://twitter.com/search?q=Kollege) | N/A |
-| 39 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
-| 40 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 41 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 42 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 43 | [Position](http://twitter.com/search?q=Position) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 46 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
-| 47 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
+| 22 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
+| 23 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 24 | [J'imagine](http://twitter.com/search?q=J%27imagine) | N/A |
+| 25 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
+| 26 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 27 | [Mund](http://twitter.com/search?q=Mund) | N/A |
+| 28 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 29 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 30 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 31 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
+| 32 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 33 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 34 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 35 | [Kollege](http://twitter.com/search?q=Kollege) | N/A |
+| 36 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
+| 39 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 40 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 41 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 42 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
+| 43 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 44 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
+| 45 | [FC Sion](http://twitter.com/search?q=FC+Sion) | N/A |
+| 46 | [Digitalisierung](http://twitter.com/search?q=Digitalisierung) | N/A |
+| 47 | [rentner](http://twitter.com/search?q=rentner) | N/A |
 
 
 

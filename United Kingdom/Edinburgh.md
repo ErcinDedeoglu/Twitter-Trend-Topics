@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-04 10:16:21 UTC`
+📆 Last Updated: `2023-03-04 11:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 4 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 5 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 9 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 10 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 11 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 12 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 2 | [#saturdaykitchen](http://twitter.com/search?q=%23saturdaykitchen) | N/A |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [#ukgiftam](http://twitter.com/search?q=%23ukgiftam) | N/A |
+| 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 9 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 10 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 11 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 12 | [King Kenny](http://twitter.com/search?q=King+Kenny) | N/A |
 | 13 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 14 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 15 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 16 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 17 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 18 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 19 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 20 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 21 | [Doris](http://twitter.com/search?q=Doris) | N/A |
-| 22 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 23 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 24 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 25 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 26 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 27 | [Raya](http://twitter.com/search?q=Raya) | N/A |
-| 28 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 29 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 30 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 31 | [#ASongOrMovieForOpening](http://twitter.com/search?q=%23ASongOrMovieForOpening) | N/A |
-| 32 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 33 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
-| 34 | [#EatOutToHelpOut](http://twitter.com/search?q=%23EatOutToHelpOut) | N/A |
-| 35 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 36 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
-| 37 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 38 | [#LCCSpring](http://twitter.com/search?q=%23LCCSpring) | N/A |
-| 39 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
-| 40 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 41 | [#ToriesOut240](http://twitter.com/search?q=%23ToriesOut240) | N/A |
-| 42 | [#WorldObesityDay](http://twitter.com/search?q=%23WorldObesityDay) | N/A |
-| 43 | [#awaydays](http://twitter.com/search?q=%23awaydays) | N/A |
-| 44 | [#AlphabetChallenge](http://twitter.com/search?q=%23AlphabetChallenge) | N/A |
-| 45 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
-| 46 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
-| 47 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
-| 48 | [#ToriesLiedPeopleDied](http://twitter.com/search?q=%23ToriesLiedPeopleDied) | N/A |
+| 14 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 15 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 16 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 17 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 18 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 19 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 20 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 21 | [Times Radio](http://twitter.com/search?q=Times+Radio) | N/A |
+| 22 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 23 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 24 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 25 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 26 | [Blasphemy](http://twitter.com/search?q=Blasphemy) | N/A |
+| 27 | [Doris](http://twitter.com/search?q=Doris) | N/A |
+| 28 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 29 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 30 | [WhatsApps](http://twitter.com/search?q=WhatsApps) | N/A |
+| 31 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 33 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 34 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 35 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 36 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 38 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 39 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 40 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 41 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 42 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 43 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
+| 44 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
+| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 46 | [#ASongOrMovieForOpening](http://twitter.com/search?q=%23ASongOrMovieForOpening) | N/A |
+| 47 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 48 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
 
 
 

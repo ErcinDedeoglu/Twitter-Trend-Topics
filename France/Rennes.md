@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-04 10:16:37 UTC`
+📆 Last Updated: `2023-03-04 11:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [France](</France>)
 | 4 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 | 5 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
 | 6 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 8 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 9 | [JOUR DE DERBY](http://twitter.com/search?q=JOUR+DE+DERBY) | N/A |
-| 10 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
-| 11 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 7 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
+| 8 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 9 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 10 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 11 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
 | 12 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 13 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 16 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 17 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 18 | [VoirAnime](http://twitter.com/search?q=VoirAnime) | N/A |
+| 13 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 14 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 17 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 18 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
 | 19 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
-| 20 | [Intellectuels](http://twitter.com/search?q=Intellectuels) | N/A |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Onfray](http://twitter.com/search?q=Onfray) | N/A |
-| 23 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
-| 24 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
-| 25 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 26 | [Caron](http://twitter.com/search?q=Caron) | N/A |
-| 27 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 28 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 29 | [Casimir](http://twitter.com/search?q=Casimir) | N/A |
-| 30 | [Mimie Mathy](http://twitter.com/search?q=Mimie+Mathy) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 33 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
-| 34 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 35 | [Bouleversant](http://twitter.com/search?q=Bouleversant) | N/A |
-| 36 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 37 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 20 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
+| 21 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 22 | [Caron](http://twitter.com/search?q=Caron) | N/A |
+| 23 | [Mimie Mathy](http://twitter.com/search?q=Mimie+Mathy) | N/A |
+| 24 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 25 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Bouleversant](http://twitter.com/search?q=Bouleversant) | N/A |
+| 28 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
+| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 30 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 31 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 32 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 33 | [Christiane Constant](http://twitter.com/search?q=Christiane+Constant) | N/A |
+| 34 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 35 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 36 | [Onfray](http://twitter.com/search?q=Onfray) | N/A |
+| 37 | [Dinaz](http://twitter.com/search?q=Dinaz) | N/A |
 | 38 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
-| 39 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 40 | [Dinaz](http://twitter.com/search?q=Dinaz) | N/A |
-| 41 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 42 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 43 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 44 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 45 | [Rious](http://twitter.com/search?q=Rious) | N/A |
-| 46 | [Restos](http://twitter.com/search?q=Restos) | N/A |
-| 47 | [Soliflore](http://twitter.com/search?q=Soliflore) | N/A |
+| 39 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 40 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 41 | [rious](http://twitter.com/search?q=rious) | N/A |
+| 42 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 43 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 44 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 45 | [Jour J](http://twitter.com/search?q=Jour+J) | N/A |
+| 46 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 47 | [BRANDT](http://twitter.com/search?q=BRANDT) | N/A |
 
 
 

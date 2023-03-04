@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-04 10:16:23 UTC`
+📆 Last Updated: `2023-03-04 11:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 2 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
-| 3 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 4 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 5 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
-| 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 7 | [#SLStHLee](http://twitter.com/search?q=%23SLStHLee) | N/A |
+| 2 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 3 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 4 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
+| 5 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 6 | [#slsthlee](http://twitter.com/search?q=%23slsthlee) | N/A |
+| 7 | [#saturdaykitchen](http://twitter.com/search?q=%23saturdaykitchen) | N/A |
 | 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 11 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 12 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 13 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 14 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 9 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 11 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 12 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 13 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 14 | [King Kenny](http://twitter.com/search?q=King+Kenny) | N/A |
 | 15 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 16 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 18 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 19 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 20 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 21 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 22 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 23 | [Doris](http://twitter.com/search?q=Doris) | N/A |
-| 24 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 25 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 26 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 27 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 28 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 29 | [Raya](http://twitter.com/search?q=Raya) | N/A |
-| 30 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 31 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 32 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 33 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 34 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 35 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 37 | [#ASongOrMovieForOpening](http://twitter.com/search?q=%23ASongOrMovieForOpening) | N/A |
-| 38 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 39 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
-| 40 | [#EatOutToHelpOut](http://twitter.com/search?q=%23EatOutToHelpOut) | N/A |
-| 41 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 42 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
-| 43 | [#LCCSpring](http://twitter.com/search?q=%23LCCSpring) | N/A |
-| 44 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 45 | [#ToriesOut240](http://twitter.com/search?q=%23ToriesOut240) | N/A |
-| 46 | [#WorldObesityDay](http://twitter.com/search?q=%23WorldObesityDay) | N/A |
-| 47 | [#AlphabetChallenge](http://twitter.com/search?q=%23AlphabetChallenge) | N/A |
-| 48 | [#awaydays](http://twitter.com/search?q=%23awaydays) | N/A |
-| 49 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
+| 16 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 17 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 18 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 19 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 20 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 21 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 22 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 23 | [Times Radio](http://twitter.com/search?q=Times+Radio) | N/A |
+| 24 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 25 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 26 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 27 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 28 | [Blasphemy](http://twitter.com/search?q=Blasphemy) | N/A |
+| 29 | [Doris](http://twitter.com/search?q=Doris) | N/A |
+| 30 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 31 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 32 | [WhatsApps](http://twitter.com/search?q=WhatsApps) | N/A |
+| 33 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 34 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 35 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 36 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 37 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 38 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 39 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 40 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 41 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 42 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 43 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 44 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 45 | [#ukgiftam](http://twitter.com/search?q=%23ukgiftam) | N/A |
+| 46 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 47 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 48 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
+| 49 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
 
 
 

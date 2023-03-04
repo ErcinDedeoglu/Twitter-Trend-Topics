@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-04 10:16:54 UTC`
+📆 Last Updated: `2023-03-04 11:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
-| 2 | [#MOONBIN_SANHA](http://twitter.com/search?q=%23MOONBIN_SANHA) | N/A |
-| 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 4 | [GO USTE](http://twitter.com/search?q=GO+USTE) | N/A |
-| 5 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 3 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
+| 4 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 5 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
 | 6 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 7 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
-| 8 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 9 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 10 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 11 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 12 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 13 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 14 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 15 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 16 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 17 | [grabe ust](http://twitter.com/search?q=grabe+ust) | N/A |
-| 18 | [ITZY WON THE STAGE](http://twitter.com/search?q=ITZY+WON+THE+STAGE) | N/A |
-| 19 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 20 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 7 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 8 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 9 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 10 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 11 | [Congratulations UST](http://twitter.com/search?q=Congratulations+UST) | N/A |
+| 12 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
+| 13 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 14 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
+| 15 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 16 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 17 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 18 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
+| 19 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 20 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 21 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
-| 22 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 23 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 24 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
-| 25 | [Toring](http://twitter.com/search?q=Toring) | N/A |
-| 26 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 27 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 28 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 29 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 30 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
-| 31 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 32 | [Current PPOP LSS](http://twitter.com/search?q=Current+PPOP+LSS) | N/A |
-| 33 | [Negros Oriental Gov](http://twitter.com/search?q=Negros+Oriental+Gov) | N/A |
-| 34 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
-| 35 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
-| 36 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 37 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 38 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
-| 39 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 40 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
-| 41 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 42 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 43 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 44 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
-| 45 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 46 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 47 | [#BGYO_BeUsMallShow](http://twitter.com/search?q=%23BGYO_BeUsMallShow) | N/A |
-| 48 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
-| 49 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
-| 50 | [#ITZY_WooriBank2023](http://twitter.com/search?q=%23ITZY_WooriBank2023) | N/A |
+| 22 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 23 | [Maji](http://twitter.com/search?q=Maji) | N/A |
+| 24 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 25 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
+| 26 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 27 | [BeUs WithVIVOREE](http://twitter.com/search?q=BeUs+WithVIVOREE) | N/A |
+| 28 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 29 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 30 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
+| 31 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 32 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 33 | [Toring](http://twitter.com/search?q=Toring) | N/A |
+| 34 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
+| 35 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 36 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 37 | [Negros Oriental Gov](http://twitter.com/search?q=Negros+Oriental+Gov) | N/A |
+| 38 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
+| 39 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 40 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 41 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 42 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
+| 43 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 44 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
+| 45 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 46 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
+| 47 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 48 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 49 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 50 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
 
 
 

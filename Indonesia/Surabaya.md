@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-04 10:16:45 UTC`
+📆 Last Updated: `2023-03-04 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 2 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 3 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 4 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
-| 5 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 6 | [#7Dream_in_Indonesia](http://twitter.com/search?q=%237Dream_in_Indonesia) | N/A |
-| 7 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 8 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 9 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 3 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 4 | [#TDS2inJAKARTA_DAY1](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY1) | N/A |
+| 5 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 6 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 7 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 8 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
+| 9 | [#ROAR3rdWin](http://twitter.com/search?q=%23ROAR3rdWin) | N/A |
 | 10 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 11 | [SENENG SENENG KUY](http://twitter.com/search?q=SENENG+SENENG+KUY) | N/A |
-| 12 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 13 | [Kim Seokjin](http://twitter.com/search?q=Kim+Seokjin) | Kim Seokjin is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. His English name is Jin. He is a member of the South Korean boy band BTS. The meaning of his name in English is "golden truth". |
-| 14 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 15 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 16 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 17 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 19 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
-| 20 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 21 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 22 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 23 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 24 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 25 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 26 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 29 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 30 | [safe flight dreamies](http://twitter.com/search?q=safe+flight+dreamies) | N/A |
-| 31 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
-| 32 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 33 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 34 | [on the street out today](http://twitter.com/search?q=on+the+street+out+today) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 37 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 38 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 39 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 40 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 41 | [jeep](http://twitter.com/search?q=jeep) | N/A |
-| 42 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
-| 43 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 44 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 45 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 46 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 47 | [Lenjer](http://twitter.com/search?q=Lenjer) | N/A |
-| 48 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 49 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 50 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 11 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
+| 12 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 13 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 14 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 15 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 16 | [Kim Seokjin](http://twitter.com/search?q=Kim+Seokjin) | Kim Seokjin is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. His English name is Jin. He is a member of the South Korean boy band BTS. The meaning of his name in English is "golden truth". |
+| 17 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 18 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 19 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
+| 20 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 21 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 23 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 24 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 25 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 26 | [Seto](http://twitter.com/search?q=Seto) | N/A |
+| 27 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 28 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 29 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 30 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 31 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 32 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 33 | [#beautyfairxgeminifourth](http://twitter.com/search?q=%23beautyfairxgeminifourth) | N/A |
+| 34 | [#IDGARSvsBOR](http://twitter.com/search?q=%23IDGARSvsBOR) | N/A |
+| 35 | [#THEBOYZ20thWin](http://twitter.com/search?q=%23THEBOYZ20thWin) | N/A |
+| 36 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
+| 37 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
+| 38 | [#BLACKPINK_BORNPINK](http://twitter.com/search?q=%23BLACKPINK_BORNPINK) | N/A |
+| 39 | [#EbonixLittleTwo](http://twitter.com/search?q=%23EbonixLittleTwo) | N/A |
+| 40 | [#NCTDREAM_THEDREAMSHOW2_in_JKT](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_JKT) | N/A |
+| 41 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
+| 42 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
+| 43 | [#OhmNanonReadyforHK](http://twitter.com/search?q=%23OhmNanonReadyforHK) | N/A |
+| 44 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 45 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 46 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 47 | [#TheDreamShow2InJKT](http://twitter.com/search?q=%23TheDreamShow2InJKT) | N/A |
+| 48 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 49 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
 
 
 

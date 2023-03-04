@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-04 10:17:17 UTC`
+📆 Last Updated: `2023-03-04 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 5 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 6 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 7 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 8 | [#BoycottWalgreens](http://twitter.com/search?q=%23BoycottWalgreens) | N/A |
-| 9 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 11 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 12 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
-| 13 | [Adin Hill](http://twitter.com/search?q=Adin+Hill) | N/A |
-| 14 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 15 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 16 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 17 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 18 | [Artificial Intelligence NFT](http://twitter.com/search?q=Artificial+Intelligence+NFT) | N/A |
-| 19 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 20 | [#rollingloud](http://twitter.com/search?q=%23rollingloud) | N/A |
-| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 23 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 24 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 25 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 26 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 27 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 28 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 29 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 30 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 31 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 32 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 33 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
-| 34 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 35 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 36 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 37 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 38 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 39 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 40 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 41 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
-| 42 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 43 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 44 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 45 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 46 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 47 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 48 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 49 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 50 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
+| 10 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
+| 11 | [#视频爱爱](http://twitter.com/search?q=%23%e8%a7%86%e9%a2%91%e7%88%b1%e7%88%b1) | N/A |
+| 12 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 13 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 14 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 15 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 16 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 17 | [Artificial Intelligence NFT](http://twitter.com/search?q=Artificial+Intelligence+NFT) | N/A |
+| 18 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 19 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 20 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 21 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 23 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
+| 24 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 25 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 26 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 27 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 28 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
+| 29 | [dillon brooks](http://twitter.com/search?q=dillon+brooks) | N/A |
+| 30 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 32 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 33 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 35 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 36 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 37 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 38 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 39 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
+| 40 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 41 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 42 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 43 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 44 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 45 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 46 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 47 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 48 | [Bun B](http://twitter.com/search?q=Bun+B) | N/A |
+| 49 | [Hill](http://twitter.com/search?q=Hill) | Hill is a natural elevation of the earth's surface, rising more or less abruptly to a summit, and attaining an altitude greater than that of a hillock. It is usually rounded in shape and smaller than a mountain. |
+| 50 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
 
 
 

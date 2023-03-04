@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-04 10:16:32 UTC`
+📆 Last Updated: `2023-03-04 11:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Brazil](</Brazil>)
 | 10 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 11 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
 | 12 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 13 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 14 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 15 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 17 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 18 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 19 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 20 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 21 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 22 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 14 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 15 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 16 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 17 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 18 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
+| 19 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 20 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 21 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 23 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 24 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
-| 25 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
-| 26 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 27 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 28 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 29 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 30 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
-| 31 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 34 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
-| 35 | [lari merece respeito](http://twitter.com/search?q=lari+merece+respeito) | N/A |
+| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 25 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
+| 26 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
+| 27 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
+| 28 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
+| 29 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 30 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 33 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
+| 34 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 35 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
 | 36 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 37 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 38 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 39 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 40 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 42 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 43 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 44 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 45 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 46 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 47 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 48 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
-| 49 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 50 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 37 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 38 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
+| 39 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 40 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 41 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 42 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 43 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 44 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 45 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 46 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 47 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 48 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 49 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 50 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
 
 
 
