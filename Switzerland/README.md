@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-04 01:43:44 UTC`
+📆 Last Updated: `2023-03-04 02:39:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
+| 2 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
 | 3 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
@@ -28,14 +28,14 @@ This is top 50 for Switzerland
 | 11 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
 | 12 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
 | 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 14 | [Beschwerde beim Presserat](http://twitter.com/search?q=Beschwerde+beim+Presserat) | N/A |
+| 14 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
 | 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Fall Windisch](http://twitter.com/search?q=Fall+Windisch) | N/A |
+| 16 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
 | 17 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
 | 18 | [streifen](http://twitter.com/search?q=streifen) | N/A |
-| 19 | [Unterstütze die Beschwerde](http://twitter.com/search?q=Unterst%c3%bctze+die+Beschwerde) | N/A |
+| 19 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
 | 20 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
-| 21 | [Teuerungsausgleich](http://twitter.com/search?q=Teuerungsausgleich) | N/A |
+| 21 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
 | 22 | [Servette](http://twitter.com/search?q=Servette) | N/A |
 | 23 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
 | 24 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Switzerland
 | 33 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 34 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
 | 35 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 37 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
 | 38 | [gedanke](http://twitter.com/search?q=gedanke) | N/A |
 | 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Switzerland
 | 44 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 45 | [Fair](http://twitter.com/search?q=Fair) | N/A |
 | 46 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 47 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 48 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
-| 49 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 50 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 47 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
+| 48 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 49 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 50 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
 
 
 

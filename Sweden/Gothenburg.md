@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-04 01:43:09 UTC`
+📆 Last Updated: `2023-03-04 02:39:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 6 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
 | 7 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
-| 8 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 9 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 8 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 9 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
 | 10 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
 | 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 12 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
@@ -50,19 +50,19 @@ This is top 50 for [Sweden](</Sweden>)
 | 33 | [Kollektiv](http://twitter.com/search?q=Kollektiv) | N/A |
 | 34 | [guldspaden](http://twitter.com/search?q=guldspaden) | N/A |
 | 35 | [trolltider](http://twitter.com/search?q=trolltider) | N/A |
-| 36 | [drottninggatan](http://twitter.com/search?q=drottninggatan) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [drottninggatan](http://twitter.com/search?q=drottninggatan) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 39 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 40 | [Hyresgästföreningen](http://twitter.com/search?q=Hyresg%c3%a4stf%c3%b6reningen) | N/A |
+| 40 | [hyresgästföreningen](http://twitter.com/search?q=hyresg%c3%a4stf%c3%b6reningen) | N/A |
 | 41 | [Keynes](http://twitter.com/search?q=Keynes) | N/A |
 | 42 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 45 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
-| 46 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 47 | [tinder](http://twitter.com/search?q=tinder) | N/A |
-| 48 | [Ales Bialiatski](http://twitter.com/search?q=Ales+Bialiatski) | N/A |
+| 43 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 44 | [hildeby](http://twitter.com/search?q=hildeby) | N/A |
+| 45 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 46 | [tinder](http://twitter.com/search?q=tinder) | N/A |
+| 47 | [Ales Bialiatski](http://twitter.com/search?q=Ales+Bialiatski) | N/A |
+| 48 | [Hayek](http://twitter.com/search?q=Hayek) | N/A |
 
 
 

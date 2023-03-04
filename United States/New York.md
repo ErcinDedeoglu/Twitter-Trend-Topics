@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-04 01:43:34 UTC`
+📆 Last Updated: `2023-03-04 02:39:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 2 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 3 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 4 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 5 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 8 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 11 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
-| 12 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 13 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 16 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 18 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 19 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 20 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 21 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 22 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 23 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 24 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 25 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 26 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 27 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 28 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 29 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 31 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 32 | [Sincere Carry](http://twitter.com/search?q=Sincere+Carry) | N/A |
-| 33 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 34 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 35 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 38 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 39 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
-| 40 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 42 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 43 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
-| 44 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 45 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
-| 46 | [Ann Wilson](http://twitter.com/search?q=Ann+Wilson) | N/A |
-| 47 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 48 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 50 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 1 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 2 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 3 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 4 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 5 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
+| 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 7 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 8 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 10 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 14 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 15 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 16 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 17 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 18 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 20 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 21 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 22 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 23 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 24 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 25 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 26 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 27 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 28 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 29 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 30 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 31 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
+| 32 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
+| 33 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 34 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 35 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
+| 36 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 37 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 38 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 39 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 40 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 41 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 42 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 43 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 44 | [Tegan](http://twitter.com/search?q=Tegan) | N/A |
+| 45 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 46 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 47 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 48 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 49 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 50 | [Dejounte](http://twitter.com/search?q=Dejounte) | N/A |
 
 
 

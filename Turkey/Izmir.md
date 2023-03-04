@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-04 01:43:29 UTC`
+📆 Last Updated: `2023-03-04 02:39:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 2 | [#Sinsisella](http://twitter.com/search?q=%23Sinsisella) | N/A |
-| 3 | [#hataydaicmesuyuyok](http://twitter.com/search?q=%23hataydaicmesuyuyok) | N/A |
-| 4 | [#hatayasulazım](http://twitter.com/search?q=%23hatayasulaz%c4%b1m) | N/A |
-| 5 | [#SeninleyizKılıçdaroğlu](http://twitter.com/search?q=%23SeninleyizK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 6 | [TorpilliVarsa BizYokuz](http://twitter.com/search?q=TorpilliVarsa+BizYokuz) | N/A |
-| 7 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 8 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 9 | [Korkak](http://twitter.com/search?q=Korkak) | N/A |
-| 10 | [Jahrein](http://twitter.com/search?q=Jahrein) | N/A |
-| 11 | [Uslanmıyor](http://twitter.com/search?q=Uslanm%c4%b1yor) | N/A |
-| 12 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
-| 13 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 14 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
-| 15 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 16 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
-| 17 | [Gündem](http://twitter.com/search?q=G%c3%bcndem) | N/A |
-| 18 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 19 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 20 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 21 | [Yakışmadı](http://twitter.com/search?q=Yak%c4%b1%c5%9fmad%c4%b1) | N/A |
-| 22 | [Yavaş'tan](http://twitter.com/search?q=Yava%c5%9f%27tan) | N/A |
-| 23 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 24 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
-| 25 | [Sofra](http://twitter.com/search?q=Sofra) | N/A |
-| 26 | [#kemalkılıcdaroğluadayolmasın](http://twitter.com/search?q=%23kemalk%c4%b1l%c4%b1cdaro%c4%9fluadayolmas%c4%b1n) | N/A |
-| 27 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 28 | [#AltılıMasaDağıldı](http://twitter.com/search?q=%23Alt%c4%b1l%c4%b1MasaDa%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 29 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 30 | [#ekremimamoğlu](http://twitter.com/search?q=%23ekremimamo%c4%9flu) | N/A |
-| 31 | [#DevadanDavet](http://twitter.com/search?q=%23DevadanDavet) | N/A |
-| 32 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
-| 33 | [#inceince](http://twitter.com/search?q=%23inceince) | N/A |
-| 34 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
-| 35 | [#StajyereÇırağaSahipÇık](http://twitter.com/search?q=%23Stajyere%c3%87%c4%b1ra%c4%9faSahip%c3%87%c4%b1k) | N/A |
-| 36 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 37 | [#hatayacadırsu](http://twitter.com/search?q=%23hatayacad%c4%b1rsu) | N/A |
-| 38 | [#Kizilcikserbeti](http://twitter.com/search?q=%23Kizilcikserbeti) | N/A |
-| 39 | [#MansurYavasGoereve](http://twitter.com/search?q=%23MansurYavasGoereve) | N/A |
-| 40 | [#hatayayeterliyardımyok](http://twitter.com/search?q=%23hatayayeterliyard%c4%b1myok) | N/A |
-| 41 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 42 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 43 | [#hataysubekliyor](http://twitter.com/search?q=%23hataysubekliyor) | N/A |
-| 44 | [#6lımasadağıldı](http://twitter.com/search?q=%236l%c4%b1masada%c4%9f%c4%b1ld%c4%b1) | N/A |
-| 45 | [#Muharrem](http://twitter.com/search?q=%23Muharrem) | N/A |
-| 46 | [#siyaset](http://twitter.com/search?q=%23siyaset) | N/A |
-| 47 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
-| 48 | [#DurmakYokYolaDevam](http://twitter.com/search?q=%23DurmakYokYolaDevam) | N/A |
-| 49 | [#DenklikHakkıTorbaYasaya](http://twitter.com/search?q=%23DenklikHakk%c4%b1TorbaYasaya) | N/A |
-| 50 | [#AteşKuşları](http://twitter.com/search?q=%23Ate%c5%9fKu%c5%9flar%c4%b1) | N/A |
+| 1 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 2 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 3 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 4 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 5 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
+| 6 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
+| 7 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 8 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
+| 9 | [#Sinsisella](http://twitter.com/search?q=%23Sinsisella) | N/A |
+| 10 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
+| 11 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
+| 12 | [el ele aşıyoruz](http://twitter.com/search?q=el+ele+a%c5%9f%c4%b1yoruz) | N/A |
+| 13 | [siyasi ahlaksızlık](http://twitter.com/search?q=siyasi+ahlaks%c4%b1zl%c4%b1k) | N/A |
+| 14 | [Masayı](http://twitter.com/search?q=Masay%c4%b1) | N/A |
+| 15 | [Millet](http://twitter.com/search?q=Millet) | N/A |
+| 16 | [ulusal risk kalkanı](http://twitter.com/search?q=ulusal+risk+kalkan%c4%b1) | N/A |
+| 17 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 18 | [Tura](http://twitter.com/search?q=Tura) | N/A |
+| 19 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
+| 20 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 21 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
+| 22 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 23 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 24 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 25 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 26 | [halkseninle destici](http://twitter.com/search?q=halkseninle+destici) | N/A |
+| 27 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 28 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 29 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
+| 30 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
+| 31 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 32 | [Tayyip](http://twitter.com/search?q=Tayyip) | N/A |
+| 33 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
+| 34 | [kamuda35yaş torbayasaya](http://twitter.com/search?q=kamuda35ya%c5%9f+torbayasaya) | N/A |
+| 35 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 36 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 37 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
+| 38 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 39 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 40 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
+| 41 | [TorpilliVarsa BizYokuz](http://twitter.com/search?q=TorpilliVarsa+BizYokuz) | N/A |
+| 42 | [Uslanmıyor](http://twitter.com/search?q=Uslanm%c4%b1yor) | N/A |
+| 43 | [Korkak](http://twitter.com/search?q=Korkak) | N/A |
+| 44 | [Jahrein](http://twitter.com/search?q=Jahrein) | N/A |
+| 45 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
+| 46 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 47 | [Sikking](http://twitter.com/search?q=Sikking) | N/A |
+| 48 | [Katılmaz](http://twitter.com/search?q=Kat%c4%b1lmaz) | N/A |
+| 49 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 50 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
 
 
 

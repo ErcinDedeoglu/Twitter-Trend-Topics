@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-04 01:43:08 UTC`
+📆 Last Updated: `2023-03-04 02:39:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [#DragQueenLPGC](http://twitter.com/search?q=%23DragQueenLPGC) | N/A |
-| 3 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 4 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 5 | [#ElDesafíoSemifinal](http://twitter.com/search?q=%23ElDesaf%c3%adoSemifinal) | N/A |
-| 6 | [#UnserLiedFuerLiverpool](http://twitter.com/search?q=%23UnserLiedFuerLiverpool) | N/A |
-| 7 | [Anastacia](http://twitter.com/search?q=Anastacia) | N/A |
-| 8 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 9 | [Lord of the Lost](http://twitter.com/search?q=Lord+of+the+Lost) | N/A |
-| 10 | [#Solos3M](http://twitter.com/search?q=%23Solos3M) | N/A |
-| 11 | [La Vulcano](http://twitter.com/search?q=La+Vulcano) | N/A |
-| 12 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 13 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
-| 14 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 15 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 16 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 19 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 21 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 22 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 23 | [La Real](http://twitter.com/search?q=La+Real) | La Real is a Spanish term that translates to "The Royal" in English. It is often used to refer to the Spanish Royal Family, or the monarchy of Spain. It can also be used to refer to certain clubs or organizations that have been granted royal patronage by the Spanish monarchy. |
-| 24 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 25 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
-| 26 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 27 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 28 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 29 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 31 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 32 | [El Cádiz](http://twitter.com/search?q=El+C%c3%a1diz) | N/A |
-| 33 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 34 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
-| 35 | [Alana](http://twitter.com/search?q=Alana) | N/A |
-| 36 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 37 | [Reale Arena](http://twitter.com/search?q=Reale+Arena) | N/A |
-| 38 | [Reverte](http://twitter.com/search?q=Reverte) | N/A |
-| 39 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 40 | [Inglés](http://twitter.com/search?q=Ingl%c3%a9s) | N/A |
-| 41 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 42 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 43 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 44 | [Indra](http://twitter.com/search?q=Indra) | N/A |
-| 45 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 46 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 47 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 48 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 49 | [#kikoymarta](http://twitter.com/search?q=%23kikoymarta) | N/A |
-| 50 | [#SempiternoTourZaragoza](http://twitter.com/search?q=%23SempiternoTourZaragoza) | N/A |
+| 1 | [#DragQueenLPGC](http://twitter.com/search?q=%23DragQueenLPGC) | N/A |
+| 2 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 5 | [#SVGala1](http://twitter.com/search?q=%23SVGala1) | N/A |
+| 6 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
+| 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 8 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 9 | [#Solos3M](http://twitter.com/search?q=%23Solos3M) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
+| 12 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 13 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 14 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 16 | [Anastacia](http://twitter.com/search?q=Anastacia) | N/A |
+| 17 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 18 | [Alberto Casero](http://twitter.com/search?q=Alberto+Casero) | N/A |
+| 19 | [Alana](http://twitter.com/search?q=Alana) | N/A |
+| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 21 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 22 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 23 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 24 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Lord of the Lost](http://twitter.com/search?q=Lord+of+the+Lost) | N/A |
+| 27 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 28 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
+| 29 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
+| 30 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 34 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 35 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 36 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
+| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 38 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
+| 39 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 40 | [El C1](http://twitter.com/search?q=El+C1) | N/A |
+| 41 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 42 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 43 | [Catalán](http://twitter.com/search?q=Catal%c3%a1n) | N/A |
+| 44 | [Lobi](http://twitter.com/search?q=Lobi) | N/A |
+| 45 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 46 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 47 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 48 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 49 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 50 | [Alfredo Landa](http://twitter.com/search?q=Alfredo+Landa) | N/A |
 
 
 

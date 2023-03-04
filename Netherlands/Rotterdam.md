@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-04 01:43:07 UTC`
+📆 Last Updated: `2023-03-04 02:39:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,25 +22,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
 | 6 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
 | 7 | [FC Den Bosch](http://twitter.com/search?q=FC+Den+Bosch) | N/A |
-| 8 | [Lord of the Lost](http://twitter.com/search?q=Lord+of+the+Lost) | N/A |
-| 9 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 8 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 9 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 10 | [Femke Kok](http://twitter.com/search?q=Femke+Kok) | N/A |
-| 11 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 12 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 13 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 14 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 15 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [maya hawke](http://twitter.com/search?q=maya+hawke) | N/A |
-| 19 | [quincy promes](http://twitter.com/search?q=quincy+promes) | N/A |
-| 20 | [Joy Beune](http://twitter.com/search?q=Joy+Beune) | N/A |
-| 21 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 22 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 23 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 24 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 25 | [Bastiaan](http://twitter.com/search?q=Bastiaan) | N/A |
-| 26 | [Jordan Stolz](http://twitter.com/search?q=Jordan+Stolz) | N/A |
+| 11 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 12 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 14 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [maya hawke](http://twitter.com/search?q=maya+hawke) | N/A |
+| 18 | [quincy promes](http://twitter.com/search?q=quincy+promes) | N/A |
+| 19 | [Joy Beune](http://twitter.com/search?q=Joy+Beune) | N/A |
+| 20 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
+| 21 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 22 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
+| 23 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
+| 24 | [Bastiaan](http://twitter.com/search?q=Bastiaan) | N/A |
+| 25 | [Jordan Stolz](http://twitter.com/search?q=Jordan+Stolz) | N/A |
+| 26 | [Johan](http://twitter.com/search?q=Johan) | N/A |
 | 27 | [Jos Heymans](http://twitter.com/search?q=Jos+Heymans) | N/A |
 | 28 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 29 | [olij](http://twitter.com/search?q=olij) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 35 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
 | 36 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 | 37 | [b. nee](http://twitter.com/search?q=b.+nee) | N/A |
-| 38 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 39 | [Eunice](http://twitter.com/search?q=Eunice) | N/A |
-| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 42 | [Eva Vlaardingerbroek](http://twitter.com/search?q=Eva+Vlaardingerbroek) | N/A |
-| 43 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 44 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 45 | [Trusten](http://twitter.com/search?q=Trusten) | N/A |
-| 46 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
-| 47 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
-| 48 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 49 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
-| 50 | [boomen](http://twitter.com/search?q=boomen) | N/A |
+| 38 | [Eunice](http://twitter.com/search?q=Eunice) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 41 | [Eva Vlaardingerbroek](http://twitter.com/search?q=Eva+Vlaardingerbroek) | N/A |
+| 42 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 43 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 44 | [Trusten](http://twitter.com/search?q=Trusten) | N/A |
+| 45 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
+| 46 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 47 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 48 | [Meijer](http://twitter.com/search?q=Meijer) | N/A |
+| 49 | [boomen](http://twitter.com/search?q=boomen) | N/A |
+| 50 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 
 
 

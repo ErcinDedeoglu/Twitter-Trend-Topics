@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-04 01:43:33 UTC`
+📆 Last Updated: `2023-03-04 02:39:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 2 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 3 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 4 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 5 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 5 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 6 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 7 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 7 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
 | 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 9 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 10 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
-| 11 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
-| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 13 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 14 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 17 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 18 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 19 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 20 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 21 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 22 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 23 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 24 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 25 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 26 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 27 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 9 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 10 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 11 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 12 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
+| 13 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 14 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 15 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 16 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 17 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 18 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 19 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 22 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 23 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 24 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 25 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 26 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 27 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
 | 28 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 29 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 30 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 31 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 32 | [Sincere Carry](http://twitter.com/search?q=Sincere+Carry) | N/A |
-| 33 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 34 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 35 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 36 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 39 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
-| 40 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 41 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 42 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 43 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
-| 44 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 45 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
-| 46 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 47 | [Ann Wilson](http://twitter.com/search?q=Ann+Wilson) | N/A |
-| 48 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 50 | [USPS](http://twitter.com/search?q=USPS) | N/A |
+| 29 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 30 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
+| 31 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
+| 32 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 33 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 34 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
+| 35 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 36 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 37 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 38 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 39 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 40 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 41 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 42 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 43 | [Tegan](http://twitter.com/search?q=Tegan) | N/A |
+| 44 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 45 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 46 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 47 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 48 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 49 | [Dejounte](http://twitter.com/search?q=Dejounte) | N/A |
+| 50 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
 
 
 

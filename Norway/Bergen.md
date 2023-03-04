@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-04 01:43:09 UTC`
+📆 Last Updated: `2023-03-04 02:39:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Norway](</Norway>)
 | 4 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 5 | [intility](http://twitter.com/search?q=intility) | N/A |
 | 6 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 7 | [Oscar Aga](http://twitter.com/search?q=Oscar+Aga) | N/A |
+| 7 | [oscar aga](http://twitter.com/search?q=oscar+aga) | N/A |
 | 8 | [Flytoget](http://twitter.com/search?q=Flytoget) | N/A |
 | 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 10 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
@@ -41,28 +41,28 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 25 | [Føler](http://twitter.com/search?q=F%c3%b8ler) | N/A |
 | 26 | [Holund](http://twitter.com/search?q=Holund) | N/A |
-| 27 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 27 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
-| 30 | [Østlandet](http://twitter.com/search?q=%c3%98stlandet) | N/A |
-| 31 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
-| 32 | [Reme](http://twitter.com/search?q=Reme) | N/A |
-| 33 | [Synd](http://twitter.com/search?q=Synd) | N/A |
-| 34 | [ME-syke](http://twitter.com/search?q=ME-syke) | N/A |
-| 35 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
-| 39 | [Kult](http://twitter.com/search?q=Kult) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |
-| 42 | [gleder](http://twitter.com/search?q=gleder) | N/A |
-| 43 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 45 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 46 | [dersom](http://twitter.com/search?q=dersom) | N/A |
-| 47 | [dagsrevyen](http://twitter.com/search?q=dagsrevyen) | N/A |
-| 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 29 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
+| 30 | [obos](http://twitter.com/search?q=obos) | N/A |
+| 31 | [Reme](http://twitter.com/search?q=Reme) | N/A |
+| 32 | [Synd](http://twitter.com/search?q=Synd) | N/A |
+| 33 | [ME-syke](http://twitter.com/search?q=ME-syke) | N/A |
+| 34 | [Comet](http://twitter.com/search?q=Comet) | N/A |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
+| 37 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 38 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 39 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |
+| 40 | [gleder](http://twitter.com/search?q=gleder) | N/A |
+| 41 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 42 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 43 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 44 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
+| 45 | [dersom](http://twitter.com/search?q=dersom) | N/A |
+| 46 | [dagsrevyen](http://twitter.com/search?q=dagsrevyen) | N/A |
+| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 
 
 

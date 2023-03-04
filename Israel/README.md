@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-04 01:43:40 UTC`
+📆 Last Updated: `2023-03-04 02:39:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,21 +31,21 @@ This is top 50 for Israel
 | 14 | [דלת זכוכית](http://twitter.com/search?q=%d7%93%d7%9c%d7%aa+%d7%96%d7%9b%d7%95%d7%9b%d7%99%d7%aa) | N/A |
 | 15 | [תל אביב](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
 | 16 | [אזרחות אמריקאית](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%aa) | N/A |
-| 17 | [אח שלי](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%99) | N/A |
-| 18 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 19 | [שבת של שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
-| 20 | [אשר עשה](http://twitter.com/search?q=%d7%90%d7%a9%d7%a8+%d7%a2%d7%a9%d7%94) | N/A |
+| 17 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 18 | [שבת של שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
+| 19 | [אשר עשה](http://twitter.com/search?q=%d7%90%d7%a9%d7%a8+%d7%a2%d7%a9%d7%94) | N/A |
+| 20 | [אח שלי](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%99) | N/A |
 | 21 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
 | 22 | [סרט טוב](http://twitter.com/search?q=%d7%a1%d7%a8%d7%98+%d7%98%d7%95%d7%91) | N/A |
 | 23 | [עונג שבת](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%92+%d7%a9%d7%91%d7%aa) | N/A |
 | 24 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 25 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
-| 26 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
-| 27 | [זכויות נשים](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 28 | [אזרח אמריקאי](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
-| 29 | [טנק מרכבה](http://twitter.com/search?q=%d7%98%d7%a0%d7%a7+%d7%9e%d7%a8%d7%9b%d7%91%d7%94) | N/A |
-| 30 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
-| 31 | [אברהם בורג](http://twitter.com/search?q=%d7%90%d7%91%d7%a8%d7%94%d7%9d+%d7%91%d7%95%d7%a8%d7%92) | N/A |
+| 25 | [אברהם בורג](http://twitter.com/search?q=%d7%90%d7%91%d7%a8%d7%94%d7%9d+%d7%91%d7%95%d7%a8%d7%92) | N/A |
+| 26 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
+| 27 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
+| 28 | [זכויות נשים](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
+| 29 | [אזרח אמריקאי](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
+| 30 | [טנק מרכבה](http://twitter.com/search?q=%d7%98%d7%a0%d7%a7+%d7%9e%d7%a8%d7%9b%d7%91%d7%94) | N/A |
+| 31 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
 | 32 | [עשו לה](http://twitter.com/search?q=%d7%a2%d7%a9%d7%95+%d7%9c%d7%94) | N/A |
 | 33 | [בלי בג](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%91%d7%92) | N/A |
 | 34 | [כיכר המדינה](http://twitter.com/search?q=%d7%9b%d7%99%d7%9b%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Israel
 | 41 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
 | 42 | [מאות שוטרים](http://twitter.com/search?q=%d7%9e%d7%90%d7%95%d7%aa+%d7%a9%d7%95%d7%98%d7%a8%d7%99%d7%9d) | N/A |
 | 43 | [אליס מילר](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a1+%d7%9e%d7%99%d7%9c%d7%a8) | N/A |
-| 44 | [Sara Netanyahu](http://twitter.com/search?q=Sara+Netanyahu) | N/A |
+| 44 | [sara netanyahu](http://twitter.com/search?q=sara+netanyahu) | N/A |
 | 45 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
 | 46 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
 | 47 | [ביום ראשון](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |

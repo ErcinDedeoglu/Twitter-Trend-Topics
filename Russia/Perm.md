@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perm
 
-📆 Last Updated: `2023-03-04 01:43:23 UTC`
+📆 Last Updated: `2023-03-04 02:39:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,19 +31,19 @@ This is top 50 for [Russia](</Russia>)
 | 14 | [брянскую](http://twitter.com/search?q=%d0%b1%d1%80%d1%8f%d0%bd%d1%81%d0%ba%d1%83%d1%8e) | N/A |
 | 15 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 16 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 17 | [#LionHunterChannel](http://twitter.com/search?q=%23LionHunterChannel) | N/A |
+| 17 | [#lionhunterchannel](http://twitter.com/search?q=%23lionhunterchannel) | N/A |
 | 18 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 19 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 20 | [Король и Шут](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d0%a8%d1%83%d1%82) | N/A |
+| 20 | [король и шут](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c+%d0%b8+%d1%88%d1%83%d1%82) | N/A |
 | 21 | [#shooter](http://twitter.com/search?q=%23shooter) | N/A |
 | 22 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
 | 23 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
 | 24 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 25 | [Никак](http://twitter.com/search?q=%d0%9d%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 26 | [Call of Duty Warzone 2.0 - DMZ](http://twitter.com/search?q=Call+of+Duty+Warzone+2.0+-+DMZ) | N/A |
+| 25 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
+| 26 | [call of duty warzone 2.0 - dmz](http://twitter.com/search?q=call+of+duty+warzone+2.0+-+dmz) | N/A |
 | 27 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
 | 28 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 29 | [рада](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
+| 29 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
 | 30 | [дубае](http://twitter.com/search?q=%d0%b4%d1%83%d0%b1%d0%b0%d0%b5) | N/A |
 | 31 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
 | 32 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Russia](</Russia>)
 | 35 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
 | 36 | [кинопоиске](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b5) | N/A |
 | 37 | [аминь](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b8%d0%bd%d1%8c) | N/A |
-| 38 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 38 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
 | 39 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 40 | [сочувствую](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
 | 41 | [лучшая](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b0%d1%8f) | N/A |

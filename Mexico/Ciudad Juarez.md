@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-04 01:42:55 UTC`
+📆 Last Updated: `2023-03-04 02:38:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 3 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 4 | [#CasasDelEstudiante](http://twitter.com/search?q=%23CasasDelEstudiante) | N/A |
-| 5 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 6 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 7 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 10 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 11 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 12 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 13 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 14 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
-| 17 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 18 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 19 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 20 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 22 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 23 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
-| 24 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 25 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 26 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 27 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 28 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 29 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
-| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 31 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 32 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 33 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 34 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 35 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 36 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 37 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
-| 38 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 39 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
-| 40 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
-| 41 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 42 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 43 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
-| 44 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 45 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 2 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 4 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 5 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 6 | [#FueraTuca](http://twitter.com/search?q=%23FueraTuca) | N/A |
+| 7 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 8 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 9 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 10 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 11 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 12 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 13 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 14 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 15 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 16 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 17 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 18 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 19 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 20 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 21 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 22 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 23 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 24 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 25 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 26 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 27 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 28 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
+| 29 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 30 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 31 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
+| 32 | [Vulgar](http://twitter.com/search?q=Vulgar) | N/A |
+| 33 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
+| 34 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 35 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 36 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 37 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 38 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 39 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 41 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 42 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 43 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 44 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 45 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 46 | [#eruspace](http://twitter.com/search?q=%23eruspace) | N/A |
+| 47 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
 
 
 

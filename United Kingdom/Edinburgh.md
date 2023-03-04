@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-04 01:42:52 UTC`
+📆 Last Updated: `2023-03-04 02:38:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 3 | [#LastLegWhatsApp](http://twitter.com/search?q=%23LastLegWhatsApp) | N/A |
-| 4 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
+| 1 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 4 | [#LastLegWhatsApp](http://twitter.com/search?q=%23LastLegWhatsApp) | N/A |
 | 5 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 6 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 7 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 8 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 9 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 10 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 11 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 12 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
-| 13 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 14 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 15 | [Walters](http://twitter.com/search?q=Walters) | N/A |
-| 16 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
-| 17 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 18 | [Rohan Smith](http://twitter.com/search?q=Rohan+Smith) | N/A |
-| 19 | [Frankie Boyle](http://twitter.com/search?q=Frankie+Boyle) | N/A |
-| 20 | [Darlow](http://twitter.com/search?q=Darlow) | N/A |
-| 21 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 22 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 23 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 28 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 29 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 30 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 31 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 32 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 33 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 34 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 35 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 36 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 37 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 38 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 39 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 40 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 41 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
-| 42 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 43 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 44 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
-| 45 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 46 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 48 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 49 | [Bangor](http://twitter.com/search?q=Bangor) | N/A |
+| 6 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
+| 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 8 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 9 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 10 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
+| 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 12 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 13 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 14 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
+| 15 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 16 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 17 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 18 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
+| 19 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 20 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 24 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 25 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 26 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 27 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
+| 28 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 29 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 30 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 31 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 32 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 33 | [Paul Mason](http://twitter.com/search?q=Paul+Mason) | N/A |
+| 34 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 35 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 36 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 38 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 39 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 40 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 41 | [Pembrokeshire](http://twitter.com/search?q=Pembrokeshire) | N/A |
+| 42 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 43 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 44 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 45 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 46 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 47 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 48 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 49 | [Oakshott](http://twitter.com/search?q=Oakshott) | N/A |
 
 
 
