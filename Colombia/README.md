@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-04 22:17:14 UTC`
+📆 Last Updated: `2023-03-04 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
-| 2 | [#GobiernoDeBandidos](http://twitter.com/search?q=%23GobiernoDeBandidos) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 5 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 6 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 7 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
-| 8 | [Samper](http://twitter.com/search?q=Samper) | N/A |
-| 9 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 10 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [Cerco](http://twitter.com/search?q=Cerco) | N/A |
-| 13 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
-| 14 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
-| 15 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
-| 16 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 17 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 18 | [Caguán](http://twitter.com/search?q=Cagu%c3%a1n) | N/A |
-| 19 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 20 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
-| 21 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
-| 22 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 23 | [Ñeñe](http://twitter.com/search?q=%c3%91e%c3%b1e) | N/A |
-| 24 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 25 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 26 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 27 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 28 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 29 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
-| 30 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 31 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 34 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 35 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 36 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 37 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 38 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 39 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 40 | [Pachito](http://twitter.com/search?q=Pachito) | N/A |
+| 2 | [Nicolás Petro](http://twitter.com/search?q=Nicol%c3%a1s+Petro) | N/A |
+| 3 | [#GobiernoDeBandidos](http://twitter.com/search?q=%23GobiernoDeBandidos) | N/A |
+| 4 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 7 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 8 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
+| 9 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 10 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 11 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 12 | [#PetroEntregueLaPresidencia](http://twitter.com/search?q=%23PetroEntregueLaPresidencia) | N/A |
+| 13 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 14 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 15 | [Samper](http://twitter.com/search?q=Samper) | N/A |
+| 16 | [Envigado](http://twitter.com/search?q=Envigado) | N/A |
+| 17 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
+| 18 | [#ColombiaEsPetro](http://twitter.com/search?q=%23ColombiaEsPetro) | N/A |
+| 19 | [Cerco](http://twitter.com/search?q=Cerco) | N/A |
+| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 21 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 22 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
+| 23 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
+| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 25 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
+| 26 | [Caguán](http://twitter.com/search?q=Cagu%c3%a1n) | N/A |
+| 27 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 28 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 29 | [Renuncie](http://twitter.com/search?q=Renuncie) | N/A |
+| 30 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
+| 31 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 33 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 34 | [Ñeñe](http://twitter.com/search?q=%c3%91e%c3%b1e) | N/A |
+| 35 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 36 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 37 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 38 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 39 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 42 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 43 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 44 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
-| 45 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 46 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 47 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
-| 48 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 49 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
-| 50 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 42 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 43 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 44 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 45 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 46 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 47 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 48 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
+| 49 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 50 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
 
 
 

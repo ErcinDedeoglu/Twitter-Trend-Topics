@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-04 22:16:39 UTC`
+📆 Last Updated: `2023-03-04 23:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
-| 2 | [#FCASVW](http://twitter.com/search?q=%23FCASVW) | N/A |
-| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 4 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
-| 5 | [#FCHSVD](http://twitter.com/search?q=%23FCHSVD) | N/A |
-| 6 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 1 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
+| 2 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 3 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 4 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
+| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 6 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
 | 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 8 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 9 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 10 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 11 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 12 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 13 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 14 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 15 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 16 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 17 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 18 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 19 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 20 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 21 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 22 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 25 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 26 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 27 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 28 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 29 | [Pyro](http://twitter.com/search?q=Pyro) | N/A |
-| 30 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 31 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 32 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 33 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 34 | [Füßen](http://twitter.com/search?q=F%c3%bc%c3%9fen) | N/A |
-| 35 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 36 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 37 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 38 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 39 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 40 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
-| 41 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 42 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 43 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 44 | [#kleingegengross](http://twitter.com/search?q=%23kleingegengross) | N/A |
-| 45 | [#30JahreEurodance](http://twitter.com/search?q=%2330JahreEurodance) | N/A |
-| 46 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 47 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
-| 48 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 49 | [#Rheinmetall](http://twitter.com/search?q=%23Rheinmetall) | N/A |
-| 50 | [#SaveIranianSchoolgirls](http://twitter.com/search?q=%23SaveIranianSchoolgirls) | N/A |
+| 9 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 10 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 12 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 13 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 14 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 15 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 16 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 17 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 18 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 21 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 22 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 23 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 24 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 25 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 26 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 27 | [will church](http://twitter.com/search?q=will+church) | N/A |
+| 28 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 29 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 30 | [DJ Bobo](http://twitter.com/search?q=DJ+Bobo) | N/A |
+| 31 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 32 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 33 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 34 | [Kuriose Bilder](http://twitter.com/search?q=Kuriose+Bilder) | N/A |
+| 35 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 37 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 38 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 39 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
+| 40 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 41 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 42 | [Bochumer](http://twitter.com/search?q=Bochumer) | N/A |
+| 43 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 44 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 45 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 46 | [PATTY GURDY](http://twitter.com/search?q=PATTY+GURDY) | N/A |
+| 47 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 48 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 49 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 50 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
 
 
 

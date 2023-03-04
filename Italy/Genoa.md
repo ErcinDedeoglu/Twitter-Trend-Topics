@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-04 22:16:41 UTC`
+📆 Last Updated: `2023-03-04 23:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
 | 3 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 4 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 5 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
-| 6 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 7 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 8 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 9 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 10 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 11 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
-| 12 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 13 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 14 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 15 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 16 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 5 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 6 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 7 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 8 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 9 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 12 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 13 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 14 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 15 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 16 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
 | 17 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 18 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
-| 19 | [De Ketelaere](http://twitter.com/search?q=De+Ketelaere) | N/A |
-| 20 | [David](http://twitter.com/search?q=David) | N/A |
-| 21 | [Carmine Recano](http://twitter.com/search?q=Carmine+Recano) | N/A |
-| 22 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 23 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 24 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 25 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
-| 26 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 27 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 29 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 31 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 32 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 34 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 35 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 36 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 37 | [#Sapiens](http://twitter.com/search?q=%23Sapiens) | N/A |
-| 38 | [#Senaldi](http://twitter.com/search?q=%23Senaldi) | N/A |
-| 39 | [#Ceccarelli](http://twitter.com/search?q=%23Ceccarelli) | N/A |
-| 40 | [#IlMioCantoLibero](http://twitter.com/search?q=%23IlMioCantoLibero) | N/A |
-| 41 | [#Jacobs](http://twitter.com/search?q=%23Jacobs) | N/A |
-| 42 | [#AtalantaUdinese](http://twitter.com/search?q=%23AtalantaUdinese) | N/A |
-| 43 | [#Istanbul2023](http://twitter.com/search?q=%23Istanbul2023) | N/A |
-| 44 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 45 | [#NON_PRONTO_Piantedosi](http://twitter.com/search?q=%23NON_PRONTO_Piantedosi) | N/A |
-| 46 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
-| 47 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
+| 18 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 19 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 20 | [Londra](http://twitter.com/search?q=Londra) | N/A |
+| 21 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
+| 22 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
+| 23 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 24 | [David](http://twitter.com/search?q=David) | N/A |
+| 25 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 26 | [Carmine Recano](http://twitter.com/search?q=Carmine+Recano) | N/A |
+| 27 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 28 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 29 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 30 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
+| 31 | [Ilary](http://twitter.com/search?q=Ilary) | N/A |
+| 32 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 33 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 34 | [Astori](http://twitter.com/search?q=Astori) | N/A |
+| 35 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 37 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 38 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 39 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 40 | [#GfGameNight](http://twitter.com/search?q=%23GfGameNight) | N/A |
+| 41 | [#Sapiens](http://twitter.com/search?q=%23Sapiens) | N/A |
+| 42 | [#DeKetelaere](http://twitter.com/search?q=%23DeKetelaere) | N/A |
+| 43 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 44 | [#Ceccarelli](http://twitter.com/search?q=%23Ceccarelli) | N/A |
+| 45 | [#IlMioCantoLibero](http://twitter.com/search?q=%23IlMioCantoLibero) | N/A |
+| 46 | [#Jacobs](http://twitter.com/search?q=%23Jacobs) | N/A |
+| 47 | [#Istanbul2023](http://twitter.com/search?q=%23Istanbul2023) | N/A |
 
 
 

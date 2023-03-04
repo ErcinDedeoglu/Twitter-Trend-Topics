@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-04 22:16:52 UTC`
+📆 Last Updated: `2023-03-04 23:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 3 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 1 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 3 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
 | 4 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
 | 5 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
 | 6 | [congrats ust](http://twitter.com/search?q=congrats+ust) | N/A |
 | 7 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 8 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 9 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 10 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 11 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 12 | [lipare you ready for hori7on](http://twitter.com/search?q=lipare+you+ready+for+hori7on) | N/A |
-| 13 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 14 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 15 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 16 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 17 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 18 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 19 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 20 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 21 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 22 | [grabe ust](http://twitter.com/search?q=grabe+ust) | N/A |
-| 23 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 24 | [cutiepie eian on panagbenga](http://twitter.com/search?q=cutiepie+eian+on+panagbenga) | N/A |
-| 25 | [who in treasure](http://twitter.com/search?q=who+in+treasure) | N/A |
-| 26 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 27 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 28 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 29 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 8 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 9 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 10 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 11 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 12 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 13 | [WELCOME BACK TO MANILA HANBIN](http://twitter.com/search?q=WELCOME+BACK+TO+MANILA+HANBIN) | N/A |
+| 14 | [WELCOME BACK TO MANILA HANBIN](http://twitter.com/search?q=WELCOME+BACK+TO+MANILA+HANBIN) | N/A |
+| 15 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 16 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 18 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 19 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 20 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 21 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 22 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 23 | [grabe ust](http://twitter.com/search?q=grabe+ust) | N/A |
+| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 25 | [cutiepie eian on panagbenga](http://twitter.com/search?q=cutiepie+eian+on+panagbenga) | N/A |
+| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 27 | [who in treasure](http://twitter.com/search?q=who+in+treasure) | N/A |
+| 28 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 29 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
 | 30 | [ready to be speechless](http://twitter.com/search?q=ready+to+be+speechless) | N/A |
 | 31 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
 | 32 | [nu vs ust](http://twitter.com/search?q=nu+vs+ust) | N/A |
-| 33 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 33 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 34 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
 | 35 | [toring](http://twitter.com/search?q=toring) | N/A |
 | 36 | [alamat with bingo plus](http://twitter.com/search?q=alamat+with+bingo+plus) | N/A |
-| 37 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
-| 38 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 39 | [treasure rocks taipei](http://twitter.com/search?q=treasure+rocks+taipei) | N/A |
-| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 37 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 38 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 39 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 40 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
 | 41 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
 | 42 | [bgyo live on gv991](http://twitter.com/search?q=bgyo+live+on+gv991) | N/A |
-| 43 | [Carly](http://twitter.com/search?q=Carly) | N/A |
-| 44 | [pienagbenga with robxine](http://twitter.com/search?q=pienagbenga+with+robxine) | N/A |
-| 45 | [zacham cho5en barkada](http://twitter.com/search?q=zacham+cho5en+barkada) | N/A |
-| 46 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 47 | [svip](http://twitter.com/search?q=svip) | N/A |
-| 48 | [juliebee bidaangsaya](http://twitter.com/search?q=juliebee+bidaangsaya) | N/A |
-| 49 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 43 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 44 | [Carly](http://twitter.com/search?q=Carly) | N/A |
+| 45 | [pienagbenga with robxine](http://twitter.com/search?q=pienagbenga+with+robxine) | N/A |
+| 46 | [zacham cho5en barkada](http://twitter.com/search?q=zacham+cho5en+barkada) | N/A |
+| 47 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 48 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 49 | [svip](http://twitter.com/search?q=svip) | N/A |
 
 
 

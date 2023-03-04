@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-04 22:17:21 UTC`
+📆 Last Updated: `2023-03-04 23:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,21 +26,21 @@ This is top 50 for Vietnam
 | 9 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
 | 10 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
 | 11 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 12 | [incentivized](http://twitter.com/search?q=incentivized) | N/A |
-| 13 | [liuyu paris fashion week](http://twitter.com/search?q=liuyu+paris+fashion+week) | N/A |
-| 14 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 15 | [Beyourluve](http://twitter.com/search?q=Beyourluve) | N/A |
-| 16 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 17 | [byls](http://twitter.com/search?q=byls) | N/A |
+| 12 | [liuyu paris fashion week](http://twitter.com/search?q=liuyu+paris+fashion+week) | N/A |
+| 13 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
+| 14 | [Beyourluve](http://twitter.com/search?q=Beyourluve) | N/A |
+| 15 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
+| 16 | [byls](http://twitter.com/search?q=byls) | N/A |
+| 17 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
 | 18 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [Dump](http://twitter.com/search?q=Dump) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 20 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 21 | [Dump](http://twitter.com/search?q=Dump) | N/A |
 | 22 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
 | 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 24 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 25 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
-| 26 | [lqty](http://twitter.com/search?q=lqty) | N/A |
+| 26 | [LQTY](http://twitter.com/search?q=LQTY) | N/A |
 | 27 | [thưởng](http://twitter.com/search?q=th%c6%b0%e1%bb%9fng) | N/A |
 | 28 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
 | 29 | [dApps](http://twitter.com/search?q=dApps) | N/A |

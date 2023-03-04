@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-04 22:16:45 UTC`
+📆 Last Updated: `2023-03-04 23:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 4 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 5 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 6 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 7 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 8 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 9 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 6 | [Syariah Peraturan Hidup](http://twitter.com/search?q=Syariah+Peraturan+Hidup) | N/A |
+| 7 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 8 | [Berlomba Dalam Kebaikan](http://twitter.com/search?q=Berlomba+Dalam+Kebaikan) | N/A |
+| 9 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
 | 10 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 11 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 11 | [Adli](http://twitter.com/search?q=Adli) | N/A |
 | 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 13 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
 | 14 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 15 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 17 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 18 | [Selamat Datang 7Dream](http://twitter.com/search?q=Selamat+Datang+7Dream) | N/A |
-| 19 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 20 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 24 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 25 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 26 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 27 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
-| 28 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 29 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 30 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 31 | [Indonesia Sijeuni](http://twitter.com/search?q=Indonesia+Sijeuni) | N/A |
-| 32 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 34 | [Saturday Drip](http://twitter.com/search?q=Saturday+Drip) | N/A |
-| 35 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 36 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
-| 37 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 15 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 16 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 19 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 20 | [Selamat Datang 7Dream](http://twitter.com/search?q=Selamat+Datang+7Dream) | N/A |
+| 21 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 22 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 24 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
+| 25 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 26 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 27 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 28 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 29 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 30 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 31 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 32 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 33 | [Indonesia Sijeuni](http://twitter.com/search?q=Indonesia+Sijeuni) | N/A |
+| 34 | [Hahaha Indonesia](http://twitter.com/search?q=Hahaha+Indonesia) | N/A |
+| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 36 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 37 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
 | 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 39 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 40 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 41 | [mau angel](http://twitter.com/search?q=mau+angel) | N/A |
-| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 43 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 44 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 39 | [SATURDAY DRIP](http://twitter.com/search?q=SATURDAY+DRIP) | N/A |
+| 40 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 41 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 42 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 43 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 44 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
 | 45 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 46 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 46 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
 | 47 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
 | 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 

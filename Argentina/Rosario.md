@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-04 22:16:36 UTC`
+📆 Last Updated: `2023-03-04 23:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 2 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 3 | [Schott](http://twitter.com/search?q=Schott) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 1 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 2 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 3 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 4 | [Laucha Acosta](http://twitter.com/search?q=Laucha+Acosta) | N/A |
+| 5 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
 | 6 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 7 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 10 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 11 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
-| 12 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
-| 13 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
-| 14 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 15 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
-| 16 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 17 | [Bosque](http://twitter.com/search?q=Bosque) | N/A |
-| 18 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 19 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 20 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
-| 21 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 22 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 23 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 24 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
-| 25 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 26 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 27 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 29 | [#LaliEnVelez](http://twitter.com/search?q=%23LaliEnVelez) | N/A |
-| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Militares](http://twitter.com/search?q=Militares) | N/A |
-| 33 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 34 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 35 | [#Gimnasia](http://twitter.com/search?q=%23Gimnasia) | N/A |
-| 36 | [PROVIAR II](http://twitter.com/search?q=PROVIAR+II) | N/A |
-| 37 | [Canapino](http://twitter.com/search?q=Canapino) | N/A |
-| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 39 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 40 | [Miele](http://twitter.com/search?q=Miele) | N/A |
-| 41 | [Senesi](http://twitter.com/search?q=Senesi) | N/A |
-| 42 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 43 | [Chanito](http://twitter.com/search?q=Chanito) | N/A |
-| 44 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 45 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 46 | [Burrito](http://twitter.com/search?q=Burrito) | N/A |
-| 47 | [ENRE](http://twitter.com/search?q=ENRE) | N/A |
-| 48 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 49 | [Farfa](http://twitter.com/search?q=Farfa) | N/A |
-| 50 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 7 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 8 | [NO TIENEN LUZ](http://twitter.com/search?q=NO+TIENEN+LUZ) | N/A |
+| 9 | [NO TIENEN GAS](http://twitter.com/search?q=NO+TIENEN+GAS) | N/A |
+| 10 | [Enzo Díaz](http://twitter.com/search?q=Enzo+D%c3%adaz) | N/A |
+| 11 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
+| 12 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 13 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 14 | [Casco](http://twitter.com/search?q=Casco) | N/A |
+| 15 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 16 | [Schott](http://twitter.com/search?q=Schott) | N/A |
+| 17 | [Chavo Pus](http://twitter.com/search?q=Chavo+Pus) | N/A |
+| 18 | [De la Vega](http://twitter.com/search?q=De+la+Vega) | N/A |
+| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 22 | [La Fortaleza](http://twitter.com/search?q=La+Fortaleza) | N/A |
+| 23 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 24 | [Nacho Fernández](http://twitter.com/search?q=Nacho+Fern%c3%a1ndez) | Nacho Fernández is a Spanish nickname derived from the given name Ignacio. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 25 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 26 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
+| 27 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 28 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 29 | [Moreyra](http://twitter.com/search?q=Moreyra) | N/A |
+| 30 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
+| 31 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 32 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 33 | [#Platense](http://twitter.com/search?q=%23Platense) | N/A |
+| 34 | [#CentralCordoba](http://twitter.com/search?q=%23CentralCordoba) | N/A |
+| 35 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
+| 36 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
+| 37 | [Goltz](http://twitter.com/search?q=Goltz) | N/A |
+| 38 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 39 | [Bosque](http://twitter.com/search?q=Bosque) | N/A |
+| 40 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 41 | [Aranguren](http://twitter.com/search?q=Aranguren) | N/A |
+| 42 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 43 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 45 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
+| 46 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 47 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 48 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 49 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 50 | [Indy](http://twitter.com/search?q=Indy) | N/A |
 
 
 

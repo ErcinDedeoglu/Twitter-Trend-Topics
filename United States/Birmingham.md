@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-04 22:17:05 UTC`
+📆 Last Updated: `2023-03-04 23:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [Neville Arena](http://twitter.com/search?q=Neville+Arena) | N/A |
-| 3 | [Doug Shows](http://twitter.com/search?q=Doug+Shows) | Doug Shows is a phrase used to describe a type of comedy show featuring Doug Stanhope, an American stand-up comedian. The phrase is derived from the title of his popular podcast, The Doug Stanhope Show. The phrase is used to refer to any comedy show featuring Stanhope's unique brand of dark, edgy humor. |
-| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 6 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 7 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 1 | [War Damn Eagle](http://twitter.com/search?q=War+Damn+Eagle) | N/A |
+| 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 3 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 4 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 5 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 6 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 8 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 9 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 10 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 11 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 12 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 14 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 15 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 16 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 17 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 18 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 19 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 20 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 21 | [Charlie Jones](http://twitter.com/search?q=Charlie+Jones) | N/A |
-| 22 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 23 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 24 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 25 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 26 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 27 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 28 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
+| 9 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 10 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 12 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 13 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 14 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
+| 15 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 16 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 17 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 18 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
+| 19 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 20 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 23 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 24 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 25 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
+| 26 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
+| 27 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 28 | [Charlie Jones](http://twitter.com/search?q=Charlie+Jones) | N/A |
 | 29 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
-| 30 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
+| 30 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 33 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 34 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 35 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 36 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 37 | [Ware](http://twitter.com/search?q=Ware) | N/A |
-| 38 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
-| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 40 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 41 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 42 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 43 | [Matt Landers](http://twitter.com/search?q=Matt+Landers) | N/A |
-| 44 | [2real](http://twitter.com/search?q=2real) | N/A |
-| 45 | [Alice in Chains](http://twitter.com/search?q=Alice+in+Chains) | N/A |
-| 46 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 47 | [Marvin Mims](http://twitter.com/search?q=Marvin+Mims) | N/A |
-| 48 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 49 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
-| 50 | [King Kenny](http://twitter.com/search?q=King+Kenny) | N/A |
+| 32 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 33 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 34 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
+| 35 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 36 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 37 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
+| 38 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
+| 39 | [Nich](http://twitter.com/search?q=Nich) | N/A |
+| 40 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 41 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 42 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
+| 43 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 44 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 46 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 47 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
+| 48 | [Lance Ware](http://twitter.com/search?q=Lance+Ware) | N/A |
+| 49 | [Marvin Mims](http://twitter.com/search?q=Marvin+Mims) | N/A |
+| 50 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
 
 
 

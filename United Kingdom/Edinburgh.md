@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-04 22:16:26 UTC`
+📆 Last Updated: `2023-03-04 23:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
 | 3 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
 | 4 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
-| 5 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 6 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [#RitsonDavies](http://twitter.com/search?q=%23RitsonDavies) | N/A |
-| 9 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 10 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 11 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
-| 12 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 13 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 14 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 15 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 17 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 18 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 19 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 23 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 24 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 25 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 26 | [BDave](http://twitter.com/search?q=BDave) | N/A |
-| 27 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
-| 28 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 29 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
-| 30 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 31 | [Ginty](http://twitter.com/search?q=Ginty) | N/A |
-| 32 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 33 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 34 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 35 | [Elle Brooke](http://twitter.com/search?q=Elle+Brooke) | Elle Brooke is a French phrase meaning "she is beautiful". It is often used as a term of endearment or to express admiration for someone's beauty. |
-| 36 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 37 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 38 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 39 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 40 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 41 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 42 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 43 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 44 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 45 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
-| 46 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 47 | [Lainton](http://twitter.com/search?q=Lainton) | N/A |
-| 48 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
-| 49 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 50 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 5 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 6 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 7 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Nich](http://twitter.com/search?q=Nich) | N/A |
+| 10 | [#RitsonDavies](http://twitter.com/search?q=%23RitsonDavies) | N/A |
+| 11 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 12 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 13 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
+| 14 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 15 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 16 | [Jay Swingler](http://twitter.com/search?q=Jay+Swingler) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 19 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 20 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 21 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 22 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 23 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 26 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 27 | [Bdave](http://twitter.com/search?q=Bdave) | N/A |
+| 28 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 29 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 30 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 31 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 33 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
+| 34 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
+| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 36 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
+| 37 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 38 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 39 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 40 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 41 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
+| 42 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 43 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 44 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 45 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 46 | [Elle Brooke](http://twitter.com/search?q=Elle+Brooke) | Elle Brooke is a French phrase meaning "she is beautiful". It is often used as a term of endearment or to express admiration for someone's beauty. |
+| 47 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 48 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 49 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 50 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-03-04 22:17:02 UTC`
+📆 Last Updated: `2023-03-04 23:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
 | 2 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 3 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 6 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 7 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 8 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 9 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 12 | [SCENE CHANGER EMIWAY](http://twitter.com/search?q=SCENE+CHANGER+EMIWAY) | N/A |
-| 13 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 15 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 16 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 17 | [Sushant TVDebut As Preet](http://twitter.com/search?q=Sushant+TVDebut+As+Preet) | N/A |
-| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 21 | [#JioCinemaDelivers](http://twitter.com/search?q=%23JioCinemaDelivers) | N/A |
-| 22 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
-| 23 | [#GGvMI](http://twitter.com/search?q=%23GGvMI) | N/A |
-| 24 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
-| 25 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 26 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 27 | [#ContestAlert](http://twitter.com/search?q=%23ContestAlert) | N/A |
-| 28 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 29 | [#KarnatakaBulldozers](http://twitter.com/search?q=%23KarnatakaBulldozers) | N/A |
-| 30 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
-| 31 | [#GujaratGiants](http://twitter.com/search?q=%23GujaratGiants) | N/A |
-| 32 | [#SantoshTrophy](http://twitter.com/search?q=%23SantoshTrophy) | N/A |
-| 33 | [#Iratta](http://twitter.com/search?q=%23Iratta) | N/A |
-| 34 | [#MindfulParenting](http://twitter.com/search?q=%23MindfulParenting) | N/A |
-| 35 | [#KicchaSudeep](http://twitter.com/search?q=%23KicchaSudeep) | N/A |
-| 36 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 37 | [#KapilSharma](http://twitter.com/search?q=%23KapilSharma) | N/A |
-| 38 | [#Upendra](http://twitter.com/search?q=%23Upendra) | N/A |
-| 39 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
+| 5 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 6 | [#riseupbaby](http://twitter.com/search?q=%23riseupbaby) | N/A |
+| 7 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 8 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 9 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 10 | [special program](http://twitter.com/search?q=special+program) | N/A |
+| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 13 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 14 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 15 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [pathaan biggest grosser](http://twitter.com/search?q=pathaan+biggest+grosser) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 20 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 21 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 22 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 23 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 24 | [SCENE CHANGER EMIWAY](http://twitter.com/search?q=SCENE+CHANGER+EMIWAY) | N/A |
+| 25 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 26 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
+| 27 | [with palash flowers](http://twitter.com/search?q=with+palash+flowers) | N/A |
+| 28 | [1 year of mera suffer](http://twitter.com/search?q=1+year+of+mera+suffer) | N/A |
+| 29 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
+| 34 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 36 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 37 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
+| 38 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 39 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 45 | [Artificial Neural Network](http://twitter.com/search?q=Artificial+Neural+Network) | N/A |
+| 46 | [UNHRC](http://twitter.com/search?q=UNHRC) | N/A |
+| 47 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 48 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 49 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 50 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 
 
 
