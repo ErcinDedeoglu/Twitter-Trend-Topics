@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-04 11:16:10 UTC`
+📆 Last Updated: `2023-03-04 12:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLSharksSouths](http://twitter.com/search?q=%23NRLSharksSouths) | N/A |
-| 2 | [#SYDvMVC](http://twitter.com/search?q=%23SYDvMVC) | N/A |
-| 3 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
-| 4 | [#NRLCowboysRaiders](http://twitter.com/search?q=%23NRLCowboysRaiders) | N/A |
-| 5 | [#BigBlue](http://twitter.com/search?q=%23BigBlue) | N/A |
-| 6 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
-| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 1 | [#SYDvMVC](http://twitter.com/search?q=%23SYDvMVC) | N/A |
+| 2 | [#nrlmanlybulldogs](http://twitter.com/search?q=%23nrlmanlybulldogs) | N/A |
+| 3 | [#NRLSharksSouths](http://twitter.com/search?q=%23NRLSharksSouths) | N/A |
+| 4 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 5 | [#NRLCowboysRaiders](http://twitter.com/search?q=%23NRLCowboysRaiders) | N/A |
+| 6 | [#BigBlue](http://twitter.com/search?q=%23BigBlue) | N/A |
+| 7 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
 | 8 | [Tahs](http://twitter.com/search?q=Tahs) | N/A |
-| 9 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
-| 10 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 11 | [Tim Tszyu](http://twitter.com/search?q=Tim+Tszyu) | N/A |
-| 12 | [Wade Graham](http://twitter.com/search?q=Wade+Graham) | N/A |
-| 13 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
-| 14 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 15 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
-| 16 | [Ricky Stuart](http://twitter.com/search?q=Ricky+Stuart) | N/A |
-| 17 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 18 | [Cronulla](http://twitter.com/search?q=Cronulla) | N/A |
-| 19 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 20 | [Trindall](http://twitter.com/search?q=Trindall) | N/A |
-| 21 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
-| 22 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 23 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
-| 24 | [Miracle Mile](http://twitter.com/search?q=Miracle+Mile) | N/A |
-| 25 | [Shark Park](http://twitter.com/search?q=Shark+Park) | N/A |
-| 26 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
+| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 10 | [Wade Graham](http://twitter.com/search?q=Wade+Graham) | N/A |
+| 11 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 12 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
+| 13 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
+| 14 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 15 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 16 | [trindall](http://twitter.com/search?q=trindall) | N/A |
+| 17 | [Ricky Stuart](http://twitter.com/search?q=Ricky+Stuart) | N/A |
+| 18 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
+| 19 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 20 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 21 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 22 | [Burgess](http://twitter.com/search?q=Burgess) | N/A |
+| 23 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 24 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 25 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 26 | [David McBride](http://twitter.com/search?q=David+McBride) | N/A |
 | 27 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 28 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
-| 29 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
-| 30 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 31 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 32 | [Artorius](http://twitter.com/search?q=Artorius) | N/A |
-| 33 | [julie bishop](http://twitter.com/search?q=julie+bishop) | N/A |
+| 28 | [Mutton](http://twitter.com/search?q=Mutton) | N/A |
+| 29 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 30 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 31 | [Zac Purton](http://twitter.com/search?q=Zac+Purton) | N/A |
+| 32 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
+| 33 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
 | 34 | [Bunnies](http://twitter.com/search?q=Bunnies) | N/A |
-| 35 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
-| 36 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
-| 37 | [Passive Aggressive](http://twitter.com/search?q=Passive+Aggressive) | N/A |
-| 38 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 39 | [Reed Mahoney](http://twitter.com/search?q=Reed+Mahoney) | N/A |
-| 40 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 41 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
-| 42 | [Victory](http://twitter.com/search?q=Victory) | N/A |
-| 43 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 35 | [Sydney FC](http://twitter.com/search?q=Sydney+FC) | N/A |
+| 36 | [artorius](http://twitter.com/search?q=artorius) | N/A |
+| 37 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
+| 38 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 39 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
+| 40 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
+| 41 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 42 | [Reed Mahoney](http://twitter.com/search?q=Reed+Mahoney) | N/A |
+| 43 | [Passive Aggressive](http://twitter.com/search?q=Passive+Aggressive) | N/A |
 | 44 | [liam jones](http://twitter.com/search?q=liam+jones) | N/A |
 | 45 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 46 | [Aft Cabin](http://twitter.com/search?q=Aft+Cabin) | Aft Cabin is a term used to describe a cabin located at the back of a boat or ship. It is typically the largest and most luxurious cabin on board, and is usually reserved for the captain or other high-ranking passengers. |
-| 47 | [Mutton](http://twitter.com/search?q=Mutton) | N/A |
-| 48 | [Eagle Farm](http://twitter.com/search?q=Eagle+Farm) | N/A |
-| 49 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 50 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
+| 46 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
+| 47 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 48 | [Aft Cabin](http://twitter.com/search?q=Aft+Cabin) | Aft Cabin is a term used to describe a cabin located at the back of a boat or ship. It is typically the largest and most luxurious cabin on board, and is usually reserved for the captain or other high-ranking passengers. |
+| 49 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
+| 50 | [Luai](http://twitter.com/search?q=Luai) | N/A |
 
 
 

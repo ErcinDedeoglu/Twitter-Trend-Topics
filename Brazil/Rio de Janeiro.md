@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-04 11:15:58 UTC`
+📆 Last Updated: `2023-03-04 12:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Olimpo](http://twitter.com/search?q=Olimpo) | N/A |
 | 2 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 3 | [Antônio](http://twitter.com/search?q=Ant%c3%b4nio) | N/A |
-| 4 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 5 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 6 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 9 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 10 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 3 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 4 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 5 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 8 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
+| 9 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 10 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
 | 11 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
 | 12 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 13 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 14 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 14 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 15 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
 | 16 | [Zico](http://twitter.com/search?q=Zico) | N/A |
 | 17 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 18 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 19 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 20 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 21 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 22 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 23 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 26 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 27 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
-| 28 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
-| 29 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
-| 30 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 31 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 32 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 33 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 35 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
-| 36 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 37 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
-| 38 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 39 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 40 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
-| 41 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 19 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 21 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 22 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 23 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 24 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
+| 25 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 26 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 27 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 28 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 29 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 30 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
+| 33 | [paladar alcoólico](http://twitter.com/search?q=paladar+alco%c3%b3lico) | N/A |
+| 34 | [Michele](http://twitter.com/search?q=Michele) | N/A |
+| 35 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
+| 36 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 37 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 38 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
+| 39 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 40 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 41 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
 | 42 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 43 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 44 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 45 | [Propina](http://twitter.com/search?q=Propina) | N/A |
-| 46 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 47 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 48 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 49 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 50 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 43 | [robert renan](http://twitter.com/search?q=robert+renan) | N/A |
+| 44 | [FELIZ DIA DO BOLO LORE](http://twitter.com/search?q=FELIZ+DIA+DO+BOLO+LORE) | N/A |
+| 45 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
+| 46 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 47 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
+| 48 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 49 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 50 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-04 11:16:16 UTC`
+📆 Last Updated: `2023-03-04 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
 | 4 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
 | 5 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 6 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 7 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 8 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 9 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
-| 10 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 11 | [Congratulations UST](http://twitter.com/search?q=Congratulations+UST) | N/A |
-| 12 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 13 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
-| 14 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 15 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
-| 16 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 17 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 18 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 6 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
+| 7 | [#KenTell](http://twitter.com/search?q=%23KenTell) | N/A |
+| 8 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
+| 9 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
+| 10 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 11 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 12 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 13 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 14 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 15 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 16 | [ZACHAM CHO5EN BARKADA](http://twitter.com/search?q=ZACHAM+CHO5EN+BARKADA) | N/A |
+| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 18 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
 | 19 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 20 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
-| 21 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 22 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 23 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 24 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
-| 25 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 26 | [BeUs WithVIVOREE](http://twitter.com/search?q=BeUs+WithVIVOREE) | N/A |
-| 27 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 28 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 29 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
-| 30 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 31 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 32 | [Toring](http://twitter.com/search?q=Toring) | N/A |
-| 33 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 34 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 35 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 36 | [Negros Oriental Gov](http://twitter.com/search?q=Negros+Oriental+Gov) | N/A |
-| 37 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 38 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 39 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
-| 40 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 41 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
-| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 43 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
-| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 45 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
-| 46 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 47 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 48 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 49 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
+| 20 | [Congratulations UST](http://twitter.com/search?q=Congratulations+UST) | N/A |
+| 21 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 22 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
+| 23 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 24 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
+| 25 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 26 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
+| 27 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
+| 28 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 29 | [BeUs WithVIVOREE](http://twitter.com/search?q=BeUs+WithVIVOREE) | N/A |
+| 30 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 31 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 32 | [maji](http://twitter.com/search?q=maji) | N/A |
+| 33 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 34 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 35 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 36 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 37 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 38 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 39 | [Toring](http://twitter.com/search?q=Toring) | N/A |
+| 40 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
+| 41 | [Negros Oriental Gov](http://twitter.com/search?q=Negros+Oriental+Gov) | N/A |
+| 42 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 43 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 44 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 45 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 46 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 47 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 48 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
+| 49 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 50 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-04 11:16:45 UTC`
+📆 Last Updated: `2023-03-04 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MahkumYakınları AFiçinUlusta](http://twitter.com/search?q=MahkumYak%c4%b1nlar%c4%b1+AFi%c3%a7inUlusta) | N/A |
-| 2 | [#SeninleyizKılıçdaroğlu](http://twitter.com/search?q=%23SeninleyizK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 4 | [#AdiyamandaSuYok](http://twitter.com/search?q=%23AdiyamandaSuYok) | N/A |
+| 1 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 2 | [Türkiye Tek Yürek](http://twitter.com/search?q=T%c3%bcrkiye+Tek+Y%c3%bcrek) | N/A |
+| 3 | [MahkumYakınları AFiçinUlusta](http://twitter.com/search?q=MahkumYak%c4%b1nlar%c4%b1+AFi%c3%a7inUlusta) | N/A |
+| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
 | 5 | [#hataydaicmesuyuyok](http://twitter.com/search?q=%23hataydaicmesuyuyok) | N/A |
-| 6 | [#EytÇözülmediBurdayız](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclmediBurday%c4%b1z) | N/A |
-| 7 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
-| 8 | [OYUM ERDOĞANA](http://twitter.com/search?q=OYUM+ERDO%c4%9eANA) | N/A |
-| 9 | [Tombalacı Mehmet](http://twitter.com/search?q=Tombalac%c4%b1+Mehmet) | N/A |
-| 10 | [SATAN SATANA](http://twitter.com/search?q=SATAN+SATANA) | N/A |
+| 6 | [#YAZIKLAROLSUN](http://twitter.com/search?q=%23YAZIKLAROLSUN) | N/A |
+| 7 | [#SeninleyizKılıçdaroğlu](http://twitter.com/search?q=%23SeninleyizK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 8 | [#EytÇözülmediBurdayız](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclmediBurday%c4%b1z) | N/A |
+| 9 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 10 | [OYUM ERDOĞANA](http://twitter.com/search?q=OYUM+ERDO%c4%9eANA) | N/A |
 | 11 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
-| 12 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 13 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
-| 14 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 15 | [Uslanmıyor](http://twitter.com/search?q=Uslanm%c4%b1yor) | N/A |
-| 16 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
-| 17 | [Cihan Paçacı](http://twitter.com/search?q=Cihan+Pa%c3%a7ac%c4%b1) | Cihan Paçacı is a Turkish phrase that translates to "world conqueror" in English. It is used to describe someone who has achieved great success or has a strong ambition to achieve greatness. |
-| 18 | [Oda TV](http://twitter.com/search?q=Oda+TV) | N/A |
-| 19 | [Ahde](http://twitter.com/search?q=Ahde) | N/A |
-| 20 | [Fazıl Say](http://twitter.com/search?q=Faz%c4%b1l+Say) | N/A |
-| 21 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
-| 22 | [Sikking](http://twitter.com/search?q=Sikking) | N/A |
-| 23 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
-| 24 | [Kamuran](http://twitter.com/search?q=Kamuran) | N/A |
-| 25 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 26 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 27 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
-| 28 | [M.İnce](http://twitter.com/search?q=M.%c4%b0nce) | N/A |
-| 29 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
-| 30 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 31 | [Perinçek](http://twitter.com/search?q=Perin%c3%a7ek) | N/A |
-| 32 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 33 | [İncenin](http://twitter.com/search?q=%c4%b0ncenin) | N/A |
-| 34 | [Sayın İnce](http://twitter.com/search?q=Say%c4%b1n+%c4%b0nce) | N/A |
-| 35 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 36 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 37 | [Derya](http://twitter.com/search?q=Derya) | N/A |
-| 38 | [İhanetin](http://twitter.com/search?q=%c4%b0hanetin) | N/A |
-| 39 | [Merale](http://twitter.com/search?q=Merale) | N/A |
-| 40 | [#YAZIKLAROLSUN](http://twitter.com/search?q=%23YAZIKLAROLSUN) | N/A |
-| 41 | [#marticinegitimkarari](http://twitter.com/search?q=%23marticinegitimkarari) | N/A |
-| 42 | [#adıyamandaicmesuyuyok](http://twitter.com/search?q=%23ad%c4%b1yamandaicmesuyuyok) | N/A |
-| 43 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 44 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
-| 45 | [#StajyereÇırağaSahipÇık](http://twitter.com/search?q=%23Stajyere%c3%87%c4%b1ra%c4%9faSahip%c3%87%c4%b1k) | N/A |
-| 46 | [#SelahaddinEyyubi](http://twitter.com/search?q=%23SelahaddinEyyubi) | N/A |
-| 47 | [#hatayasulazım](http://twitter.com/search?q=%23hatayasulaz%c4%b1m) | N/A |
-| 48 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
-| 49 | [#Jahrein](http://twitter.com/search?q=%23Jahrein) | N/A |
-| 50 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 12 | [Erhan Usta](http://twitter.com/search?q=Erhan+Usta) | Erhan Usta is a Turkish phrase that translates to "Master Erhan". It is used as a term of respect for someone who is an expert in their field or has achieved a high level of skill. |
+| 13 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
+| 14 | [Uğur İbrahim Altay](http://twitter.com/search?q=U%c4%9fur+%c4%b0brahim+Altay) | N/A |
+| 15 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
+| 16 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 17 | [Sokağın](http://twitter.com/search?q=Soka%c4%9f%c4%b1n) | N/A |
+| 18 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
+| 19 | [Tombalacı Mehmet](http://twitter.com/search?q=Tombalac%c4%b1+Mehmet) | N/A |
+| 20 | [SATAN SATANA](http://twitter.com/search?q=SATAN+SATANA) | N/A |
+| 21 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 22 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 23 | [Uslanmıyor](http://twitter.com/search?q=Uslanm%c4%b1yor) | N/A |
+| 24 | [Kapı](http://twitter.com/search?q=Kap%c4%b1) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Cihan Paçacı](http://twitter.com/search?q=Cihan+Pa%c3%a7ac%c4%b1) | Cihan Paçacı is a Turkish phrase that translates to "world conqueror" in English. It is used to describe someone who has achieved great success or has a strong ambition to achieve greatness. |
+| 27 | [Fazıl Say](http://twitter.com/search?q=Faz%c4%b1l+Say) | N/A |
+| 28 | [Oda TV](http://twitter.com/search?q=Oda+TV) | N/A |
+| 29 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
+| 30 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 31 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 32 | [Sikking](http://twitter.com/search?q=Sikking) | N/A |
+| 33 | [Kayserispor - Fenerbahçe](http://twitter.com/search?q=Kayserispor+-+Fenerbah%c3%a7e) | N/A |
+| 34 | [Ahde](http://twitter.com/search?q=Ahde) | N/A |
+| 35 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 36 | [M.İnce](http://twitter.com/search?q=M.%c4%b0nce) | N/A |
+| 37 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
+| 38 | [İncenin](http://twitter.com/search?q=%c4%b0ncenin) | N/A |
+| 39 | [Perinçek](http://twitter.com/search?q=Perin%c3%a7ek) | N/A |
+| 40 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 41 | [Derya](http://twitter.com/search?q=Derya) | N/A |
+| 42 | [#marticinegitimkarari](http://twitter.com/search?q=%23marticinegitimkarari) | N/A |
+| 43 | [#AdiyamandaSuYok](http://twitter.com/search?q=%23AdiyamandaSuYok) | N/A |
+| 44 | [#CumhurumÜcretliyeKadro](http://twitter.com/search?q=%23Cumhurum%c3%9ccretliyeKadro) | N/A |
+| 45 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
+| 46 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 47 | [#StajyereÇırağaSahipÇık](http://twitter.com/search?q=%23Stajyere%c3%87%c4%b1ra%c4%9faSahip%c3%87%c4%b1k) | N/A |
+| 48 | [#adıyamandaicmesuyuyok](http://twitter.com/search?q=%23ad%c4%b1yamandaicmesuyuyok) | N/A |
+| 49 | [#SelahaddinEyyubi](http://twitter.com/search?q=%23SelahaddinEyyubi) | N/A |
+| 50 | [#hatayasulazım](http://twitter.com/search?q=%23hatayasulaz%c4%b1m) | N/A |
 
 
 

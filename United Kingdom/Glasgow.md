@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-04 11:15:50 UTC`
+📆 Last Updated: `2023-03-04 12:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
-| 2 | [#saturdaykitchen](http://twitter.com/search?q=%23saturdaykitchen) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 6 | [#ukgiftam](http://twitter.com/search?q=%23ukgiftam) | N/A |
-| 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 9 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 10 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 11 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 12 | [King Kenny](http://twitter.com/search?q=King+Kenny) | N/A |
-| 13 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 14 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 15 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 16 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 17 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 18 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 19 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
-| 20 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 21 | [Times Radio](http://twitter.com/search?q=Times+Radio) | N/A |
-| 22 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 23 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 24 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 25 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 26 | [Blasphemy](http://twitter.com/search?q=Blasphemy) | N/A |
-| 27 | [Doris](http://twitter.com/search?q=Doris) | N/A |
-| 28 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 29 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 30 | [WhatsApps](http://twitter.com/search?q=WhatsApps) | N/A |
-| 31 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 33 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 34 | [Raya](http://twitter.com/search?q=Raya) | N/A |
-| 35 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 36 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 38 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 39 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 40 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 41 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 42 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 43 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
-| 44 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
-| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 46 | [#ASongOrMovieForOpening](http://twitter.com/search?q=%23ASongOrMovieForOpening) | N/A |
-| 47 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 48 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 1 | [dick campbell](http://twitter.com/search?q=dick+campbell) | N/A |
+| 2 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 3 | [Lascelles](http://twitter.com/search?q=Lascelles) | Lascelles is a surname of French origin. It is derived from the Old French phrase "de la celles," which means "of the cells." The name is thought to have been given to someone who lived near a monastery or church, as it was common for such places to have cells for monks and priests. |
+| 4 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 6 | [#saturdaykitchen](http://twitter.com/search?q=%23saturdaykitchen) | N/A |
+| 7 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 8 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 9 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 10 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 11 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [Targett](http://twitter.com/search?q=Targett) | N/A |
+| 14 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 15 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 16 | [Burn](http://twitter.com/search?q=Burn) | N/A |
+| 17 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 18 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 19 | [cathy newman](http://twitter.com/search?q=cathy+newman) | N/A |
+| 20 | [Schar](http://twitter.com/search?q=Schar) | N/A |
+| 21 | [Botman](http://twitter.com/search?q=Botman) | N/A |
+| 22 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 23 | [King Kenny](http://twitter.com/search?q=King+Kenny) | N/A |
+| 24 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 25 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 26 | [Wildcard Active](http://twitter.com/search?q=Wildcard+Active) | N/A |
+| 27 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 29 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 30 | [EOTHO](http://twitter.com/search?q=EOTHO) | N/A |
+| 31 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 32 | [Man City v Newcastle](http://twitter.com/search?q=Man+City+v+Newcastle) | N/A |
+| 33 | [Joseph Quinn](http://twitter.com/search?q=Joseph+Quinn) | N/A |
+| 34 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 35 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 36 | [Times Radio](http://twitter.com/search?q=Times+Radio) | N/A |
+| 37 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 38 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 39 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 40 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 41 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 42 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 43 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 44 | [Blasphemy](http://twitter.com/search?q=Blasphemy) | N/A |
+| 45 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 46 | [Doris](http://twitter.com/search?q=Doris) | N/A |
+| 47 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 48 | [Mason](http://twitter.com/search?q=Mason) | N/A |
 
 
 
