@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-04 06:17:15 UTC`
+📆 Last Updated: `2023-03-04 07:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
-| 2 | [ポケモンタイプ診断](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%97%e8%a8%ba%e6%96%ad) | N/A |
-| 3 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
-| 4 | [#ラプ様へ究極の2択質問](http://twitter.com/search?q=%23%e3%83%a9%e3%83%97%e6%a7%98%e3%81%b8%e7%a9%b6%e6%a5%b5%e3%81%ae2%e6%8a%9e%e8%b3%aa%e5%95%8f) | N/A |
-| 5 | [チューリップ賞](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e8%b3%9e) | N/A |
-| 6 | [キジーさん](http://twitter.com/search?q=%e3%82%ad%e3%82%b8%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 7 | [ファール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
-| 8 | [#Liella_3rd_埼玉Day1](http://twitter.com/search?q=%23Liella_3rd_%e5%9f%bc%e7%8e%89Day1) | N/A |
-| 9 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
-| 10 | [アルゴリズムランド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 11 | [みずタイプ](http://twitter.com/search?q=%e3%81%bf%e3%81%9a%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 12 | [#consadole](http://twitter.com/search?q=%23consadole) | N/A |
-| 13 | [#DM最強位決定戦](http://twitter.com/search?q=%23DM%e6%9c%80%e5%bc%b7%e4%bd%8d%e6%b1%ba%e5%ae%9a%e6%88%a6) | N/A |
-| 14 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
-| 15 | [ジェジエウ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%82%a8%e3%82%a6) | N/A |
-| 16 | [オーシャンS](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3S) | N/A |
-| 17 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 18 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 19 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
-| 20 | [ナランフレグ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%b3%e3%83%95%e3%83%ac%e3%82%b0) | N/A |
-| 21 | [カスティーヨ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%a8) | N/A |
-| 22 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
-| 23 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
-| 24 | [ルブリスウル](http://twitter.com/search?q=%e3%83%ab%e3%83%96%e3%83%aa%e3%82%b9%e3%82%a6%e3%83%ab) | N/A |
-| 25 | [TDC復活](http://twitter.com/search?q=TDC%e5%be%a9%e6%b4%bb) | N/A |
-| 26 | [でんきタイプ](http://twitter.com/search?q=%e3%81%a7%e3%82%93%e3%81%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 27 | [ピアシック](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%82%b7%e3%83%83%e3%82%af) | N/A |
-| 28 | [デュエマ革命](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%9e%e9%9d%a9%e5%91%bd) | N/A |
-| 29 | [関西アイランド](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 30 | [ソンリョン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%aa%e3%83%a7%e3%83%b3) | N/A |
-| 31 | [ホウオウプレミア](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2) | N/A |
-| 32 | [キックオフ](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%af%e3%82%aa%e3%83%95) | N/A |
-| 33 | [佐野海舟](http://twitter.com/search?q=%e4%bd%90%e9%87%8e%e6%b5%b7%e8%88%9f) | N/A |
-| 34 | [キタウイング](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b0) | キタウイング (Kita Wing) is a Japanese rock band formed in Tokyo in 2008. The band's name is derived from the Japanese phrase "Kita Umi no Wing" which translates to "Wing of the North Sea". The band's music is a mix of alternative rock, punk, and ska. |
-| 35 | [ロッテの応援](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%81%ae%e5%bf%9c%e6%8f%b4) | N/A |
-| 36 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
-| 37 | [二次元恋愛](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%85%83%e6%81%8b%e6%84%9b) | N/A |
-| 38 | [アラーノ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%8e) | N/A |
-| 39 | [ジュビリーヘッド](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%93%e3%83%aa%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | ジュビリーヘッド (Jubilee Head) is a type of Japanese coin minted from 1873 to 1876. It was the first Japanese coin to feature a portrait of the Emperor on one side and a dragon on the other. In English, it is sometimes referred to as the "Dragon Head" or "Emperor's Head" coin. |
-| 40 | [スガキヤ](http://twitter.com/search?q=%e3%82%b9%e3%82%ac%e3%82%ad%e3%83%a4) | N/A |
-| 41 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
-| 42 | [麻央さま](http://twitter.com/search?q=%e9%ba%bb%e5%a4%ae%e3%81%95%e3%81%be) | N/A |
-| 43 | [ファウル](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a6%e3%83%ab) | N/A |
-| 44 | [SIREN](http://twitter.com/search?q=SIREN) | N/A |
-| 45 | [ジンヒョン](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 46 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 47 | [千葉ちゃん](http://twitter.com/search?q=%e5%8d%83%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [ドラゴンタイプ](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 49 | [サンキューユウガ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%a6%e3%82%a6%e3%82%ac) | N/A |
-| 50 | [ティノコ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%8e%e3%82%b3) | N/A |
+| 1 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
+| 2 | [チューリップ賞](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e8%b3%9e) | N/A |
+| 3 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
+| 4 | [ポケモンタイプ診断](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%97%e8%a8%ba%e6%96%ad) | N/A |
+| 5 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
+| 6 | [ディヴィナシオン](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%b4%e3%82%a3%e3%83%8a%e3%82%b7%e3%82%aa%e3%83%b3) | N/A |
+| 7 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 8 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
+| 9 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 10 | [オーシャンS](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3S) | N/A |
+| 11 | [ヴェントヴォーチェ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%b3%e3%83%88%e3%83%b4%e3%82%a9%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
+| 12 | [ナランフレグ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%b3%e3%83%95%e3%83%ac%e3%82%b0) | N/A |
+| 13 | [#Liella_3rd_埼玉Day1](http://twitter.com/search?q=%23Liella_3rd_%e5%9f%bc%e7%8e%89Day1) | N/A |
+| 14 | [マスター解放](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e8%a7%a3%e6%94%be) | マスター解放 (Masters Kaihō) is a Japanese term that literally translates to "master release". It is used to refer to the process of releasing a master version of a product, such as a video game or software, after it has been tested and approved. This is usually done after the product has gone through various stages of development and testing. In English, it can be referred to as "master release" or "final release". |
+| 15 | [#ラプ様へ究極の2択質問](http://twitter.com/search?q=%23%e3%83%a9%e3%83%97%e6%a7%98%e3%81%b8%e7%a9%b6%e6%a5%b5%e3%81%ae2%e6%8a%9e%e8%b3%aa%e5%95%8f) | N/A |
+| 16 | [#consadole](http://twitter.com/search?q=%23consadole) | N/A |
+| 17 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
+| 18 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 19 | [ディサロ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b5%e3%83%ad) | N/A |
+| 20 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 21 | [#spulse](http://twitter.com/search?q=%23spulse) | N/A |
+| 22 | [みずタイプ](http://twitter.com/search?q=%e3%81%bf%e3%81%9a%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 23 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
+| 24 | [ファール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
+| 25 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
+| 26 | [キタウイング](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b0) | キタウイング (Kita Wing) is a Japanese rock band formed in Tokyo in 2008. The band's name is derived from the Japanese phrase "Kita Umi no Wing" which translates to "Wing of the North Sea". The band's music is a mix of alternative rock, punk, and ska. |
+| 27 | [ジュビリーヘッド](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%93%e3%83%aa%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | ジュビリーヘッド (Jubilee Head) is a type of Japanese coin minted from 1873 to 1876. It was the first Japanese coin to feature a portrait of the Emperor on one side and a dragon on the other. In English, it is sometimes referred to as the "Dragon Head" or "Emperor's Head" coin. |
+| 28 | [オウンゴール](http://twitter.com/search?q=%e3%82%aa%e3%82%a6%e3%83%b3%e3%82%b4%e3%83%bc%e3%83%ab) | オウンゴール (Oungo-ru) is a Japanese term used in soccer to describe a goal scored directly from a corner kick. It literally translates to "own goal" in English. |
+| 29 | [キジーさん](http://twitter.com/search?q=%e3%82%ad%e3%82%b8%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 30 | [バースクライ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
+| 31 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 32 | [エキスパ](http://twitter.com/search?q=%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91) | エキスパ is short for "Expatriate", which means a person who lives outside of their native country. It is used to refer to people who have moved abroad for work or other reasons. |
+| 33 | [福永さん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%95%e3%82%93) | 福永さん is a Japanese honorific title used to refer to someone with the surname Fukunaga. It is roughly equivalent to "Mr. Fukunaga" in English. |
+| 34 | [飛鳥くん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%8f%e3%82%93) | N/A |
+| 35 | [パドック](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%83%e3%82%af) | パドック (paddock) is a term used in horse racing to refer to the area where horses are kept before and after a race. It is also used to refer to the area where horses are kept during training. In English, it can be translated as "stable" or "enclosure". |
+| 36 | [エイシンスポッター](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%82%b7%e3%83%b3%e3%82%b9%e3%83%9d%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
+| 37 | [ルミノメテオール](http://twitter.com/search?q=%e3%83%ab%e3%83%9f%e3%83%8e%e3%83%a1%e3%83%86%e3%82%aa%e3%83%bc%e3%83%ab) | N/A |
+| 38 | [でんきタイプ](http://twitter.com/search?q=%e3%81%a7%e3%82%93%e3%81%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 39 | [キミワクイーン](http://twitter.com/search?q=%e3%82%ad%e3%83%9f%e3%83%af%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
+| 40 | [マリアズハート](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%82%a2%e3%82%ba%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
+| 41 | [ジンヒョン](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 42 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 43 | [アルゴリズムランド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 44 | [関西アイランド](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 45 | [スタトロ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%88%e3%83%ad) | スタトロ is a Japanese word that refers to a type of traditional Japanese folk dance. It is usually performed at festivals and other celebrations, and involves people dancing in a circle while singing and clapping. The literal translation of スタトロ is "circle dance". |
+| 46 | [モーベルグ](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%99%e3%83%ab%e3%82%b0) | N/A |
+| 47 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
+| 48 | [チャンテ4](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%864) | N/A |
+| 49 | [佐野海舟](http://twitter.com/search?q=%e4%bd%90%e9%87%8e%e6%b5%b7%e8%88%9f) | N/A |
+| 50 | [アリスヴェリテ](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%b9%e3%83%b4%e3%82%a7%e3%83%aa%e3%83%86) | N/A |
 
 
 

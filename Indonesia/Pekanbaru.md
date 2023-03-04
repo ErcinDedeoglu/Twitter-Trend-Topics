@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 06:16:37 UTC`
+📆 Last Updated: `2023-03-04 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,45 +21,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
 | 5 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
 | 6 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 7 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [KIM SEOKJIN](http://twitter.com/search?q=KIM+SEOKJIN) | KIM SEOKJIN is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. In English, it means "golden star of hope". |
+| 8 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
 | 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
 | 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 11 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 12 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [MC JUNGWOO TODAY](http://twitter.com/search?q=MC+JUNGWOO+TODAY) | N/A |
 | 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 14 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 15 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 16 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 17 | [like it like it release](http://twitter.com/search?q=like+it+like+it+release) | N/A |
-| 18 | [Combat Experience](http://twitter.com/search?q=Combat+Experience) | N/A |
-| 19 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 21 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 23 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 24 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 25 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 14 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 15 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 16 | [like it like it release](http://twitter.com/search?q=like+it+like+it+release) | N/A |
+| 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 18 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 19 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 20 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 21 | [Combat Experience](http://twitter.com/search?q=Combat+Experience) | N/A |
+| 22 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 23 | [Pohon](http://twitter.com/search?q=Pohon) | N/A |
+| 24 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 26 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
 | 27 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 28 | [Mau Emerald](http://twitter.com/search?q=Mau+Emerald) | N/A |
-| 29 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 28 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 29 | [Siang](http://twitter.com/search?q=Siang) | N/A |
 | 30 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 31 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 32 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 33 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 35 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 36 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 37 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
-| 38 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
-| 39 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 40 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
-| 41 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 42 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 43 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 44 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 45 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
+| 31 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 32 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 33 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 34 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 35 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
+| 36 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 37 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 38 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 39 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 40 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 41 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
+| 42 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 43 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 44 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 45 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
 
 
 

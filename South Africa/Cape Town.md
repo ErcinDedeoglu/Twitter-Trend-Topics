@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-04 06:16:48 UTC`
+📆 Last Updated: `2023-03-04 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
-| 2 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
-| 3 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 4 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
-| 5 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
-| 6 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
-| 7 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 8 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
-| 9 | [Athi](http://twitter.com/search?q=Athi) | N/A |
-| 10 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 11 | [thabang the titan](http://twitter.com/search?q=thabang+the+titan) | N/A |
-| 12 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 13 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
-| 14 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
-| 15 | [POTS](http://twitter.com/search?q=POTS) | N/A |
-| 16 | [people remix](http://twitter.com/search?q=people+remix) | N/A |
-| 17 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 1 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 2 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 3 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
+| 4 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
+| 5 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 6 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
+| 7 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
+| 8 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
+| 9 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 10 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
+| 11 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
+| 12 | [thabang the titan](http://twitter.com/search?q=thabang+the+titan) | N/A |
+| 13 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
+| 14 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
+| 15 | [Lorch](http://twitter.com/search?q=Lorch) | N/A |
+| 16 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
+| 17 | [people remix](http://twitter.com/search?q=people+remix) | N/A |
 | 18 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 19 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
-| 20 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 22 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 23 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 24 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
-| 25 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
-| 26 | [Edgars Beauty](http://twitter.com/search?q=Edgars+Beauty) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 32 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 33 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
-| 34 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
-| 37 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
-| 38 | [moshabi](http://twitter.com/search?q=moshabi) | N/A |
-| 39 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
-| 40 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 41 | [skin like ipeleng](http://twitter.com/search?q=skin+like+ipeleng) | N/A |
-| 42 | [President](http://twitter.com/search?q=President) | N/A |
-| 43 | [lwazi](http://twitter.com/search?q=lwazi) | N/A |
-| 44 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 45 | [Idiots](http://twitter.com/search?q=Idiots) | N/A |
-| 46 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 47 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 19 | [POTS](http://twitter.com/search?q=POTS) | N/A |
+| 20 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 23 | [Cyril Ramaphosa](http://twitter.com/search?q=Cyril+Ramaphosa) | N/A |
+| 24 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 27 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 28 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 29 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
+| 30 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 33 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 34 | [Idiots](http://twitter.com/search?q=Idiots) | N/A |
+| 35 | [Teko](http://twitter.com/search?q=Teko) | N/A |
+| 36 | [President](http://twitter.com/search?q=President) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
+| 39 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 40 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 41 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
+| 42 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
+| 43 | [moshabi](http://twitter.com/search?q=moshabi) | N/A |
+| 44 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
+| 45 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
+| 46 | [lwazi](http://twitter.com/search?q=lwazi) | N/A |
+| 47 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
 
 
 

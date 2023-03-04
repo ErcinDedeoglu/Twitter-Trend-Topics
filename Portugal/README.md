@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-04 06:17:12 UTC`
+📆 Last Updated: `2023-03-04 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Portugal
 | ------- | ------------ | ------------ |
 | 1 | [artur soares](http://twitter.com/search?q=artur+soares) | N/A |
 | 2 | [GONÇALO RAMOS](http://twitter.com/search?q=GON%c3%87ALO+RAMOS) | N/A |
-| 3 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 4 | [Famalicão](http://twitter.com/search?q=Famalic%c3%a3o) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Famalicão](http://twitter.com/search?q=Famalic%c3%a3o) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
 | 6 | [#betclicelclásico](http://twitter.com/search?q=%23betclicelcl%c3%a1sico) | N/A |
 | 7 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 8 | [neres](http://twitter.com/search?q=neres) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Portugal
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
 | 19 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 20 | [Hugo Miguel](http://twitter.com/search?q=Hugo+Miguel) | N/A |
+| 20 | [hugo miguel](http://twitter.com/search?q=hugo+miguel) | N/A |
 | 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 22 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
 | 23 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |

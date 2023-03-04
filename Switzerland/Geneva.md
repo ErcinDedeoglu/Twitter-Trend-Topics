@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-04 06:16:35 UTC`
+📆 Last Updated: `2023-03-04 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
+| 2 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
 | 3 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 6 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
 | 7 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 8 | [vaud](http://twitter.com/search?q=vaud) | N/A |
+| 8 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
 | 9 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 10 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
-| 11 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 12 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 13 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
-| 14 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 15 | [streifen](http://twitter.com/search?q=streifen) | N/A |
-| 16 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 17 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
-| 18 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
-| 19 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 20 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
-| 21 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 22 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
-| 23 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 24 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 25 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 26 | [zoug](http://twitter.com/search?q=zoug) | N/A |
-| 27 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
-| 28 | [parlamentarier](http://twitter.com/search?q=parlamentarier) | N/A |
-| 29 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 30 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 31 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 32 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 33 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 34 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 37 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
-| 38 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 39 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 40 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 41 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
-| 42 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 10 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 11 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
+| 12 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 13 | [Streifen](http://twitter.com/search?q=Streifen) | N/A |
+| 14 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
+| 15 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 16 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
+| 17 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 18 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 19 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
+| 20 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 21 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 23 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
+| 24 | [parlamentarier](http://twitter.com/search?q=parlamentarier) | N/A |
+| 25 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 26 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 27 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 28 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 29 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 32 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
+| 33 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 34 | [Position](http://twitter.com/search?q=Position) | N/A |
+| 35 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 36 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
+| 37 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
+| 38 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 39 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 40 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
+| 41 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 42 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
 | 43 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 44 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
-| 45 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 46 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 47 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 44 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 45 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
+| 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 47 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
 
 
 

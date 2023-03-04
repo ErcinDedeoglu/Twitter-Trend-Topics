@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-04 06:16:36 UTC`
+📆 Last Updated: `2023-03-04 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,43 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [brann](http://twitter.com/search?q=brann) | N/A |
+| 1 | [brann](http://twitter.com/search?q=brann) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 4 | [intility](http://twitter.com/search?q=intility) | N/A |
 | 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 6 | [oscar aga](http://twitter.com/search?q=oscar+aga) | N/A |
-| 7 | [flytoget](http://twitter.com/search?q=flytoget) | N/A |
+| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 10 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
-| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 9 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 11 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
+| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 13 | [Flytoget](http://twitter.com/search?q=Flytoget) | N/A |
 | 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 15 | [#fredagsselfie](http://twitter.com/search?q=%23fredagsselfie) | N/A |
-| 16 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 17 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
-| 18 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 19 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 20 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 22 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 23 | [Marbella](http://twitter.com/search?q=Marbella) | N/A |
-| 24 | [Søgne](http://twitter.com/search?q=S%c3%b8gne) | N/A |
-| 25 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 26 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 27 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
-| 28 | [holund](http://twitter.com/search?q=holund) | N/A |
-| 29 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
-| 32 | [obos](http://twitter.com/search?q=obos) | N/A |
-| 33 | [reme](http://twitter.com/search?q=reme) | N/A |
-| 34 | [Synd](http://twitter.com/search?q=Synd) | N/A |
-| 35 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
-| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 37 | [fosen](http://twitter.com/search?q=fosen) | N/A |
+| 15 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 16 | [#fredagsselfie](http://twitter.com/search?q=%23fredagsselfie) | N/A |
+| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 18 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 19 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 20 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 21 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 22 | [Marbella](http://twitter.com/search?q=Marbella) | N/A |
+| 23 | [søgne](http://twitter.com/search?q=s%c3%b8gne) | N/A |
+| 24 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 25 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 26 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 27 | [holund](http://twitter.com/search?q=holund) | N/A |
+| 28 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
+| 31 | [obos](http://twitter.com/search?q=obos) | N/A |
+| 32 | [reme](http://twitter.com/search?q=reme) | N/A |
+| 33 | [Synd](http://twitter.com/search?q=Synd) | N/A |
+| 34 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
+| 37 | [Gardermoen](http://twitter.com/search?q=Gardermoen) | N/A |
 | 38 | [Kult](http://twitter.com/search?q=Kult) | N/A |
 | 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 40 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |

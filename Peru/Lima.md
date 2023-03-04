@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-04 06:16:25 UTC`
+📆 Last Updated: `2023-03-04 07:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Peru](</Peru>)
 | 1 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
 | 2 | [Tania](http://twitter.com/search?q=Tania) | N/A |
 | 3 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
-| 4 | [#WeWantENHYPENinPeru](http://twitter.com/search?q=%23WeWantENHYPENinPeru) | N/A |
-| 5 | [PERU WANTS TO SHOUT OUT](http://twitter.com/search?q=PERU+WANTS+TO+SHOUT+OUT) | N/A |
+| 4 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 5 | [#WeWantENHYPENinPeru](http://twitter.com/search?q=%23WeWantENHYPENinPeru) | N/A |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 8 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 9 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 10 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 11 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 12 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 13 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 14 | [Jorge Fossati](http://twitter.com/search?q=Jorge+Fossati) | N/A |
+| 7 | [PERU WANTS TO SHOUT OUT](http://twitter.com/search?q=PERU+WANTS+TO+SHOUT+OUT) | N/A |
+| 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 9 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
+| 10 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 11 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 12 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 13 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 14 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 15 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 16 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 17 | [Tendera](http://twitter.com/search?q=Tendera) | N/A |
-| 18 | [Flavia](http://twitter.com/search?q=Flavia) | N/A |
-| 19 | [Reactiva](http://twitter.com/search?q=Reactiva) | N/A |
-| 20 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 21 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 16 | [Jorge Fossati](http://twitter.com/search?q=Jorge+Fossati) | N/A |
+| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 18 | [Tendera](http://twitter.com/search?q=Tendera) | N/A |
+| 19 | [Flavia](http://twitter.com/search?q=Flavia) | N/A |
+| 20 | [Reactiva](http://twitter.com/search?q=Reactiva) | N/A |
+| 21 | [Carre](http://twitter.com/search?q=Carre) | N/A |
 | 22 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 23 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 24 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
-| 25 | [luciana](http://twitter.com/search?q=luciana) | N/A |
-| 26 | [DELITO](http://twitter.com/search?q=DELITO) | N/A |
-| 27 | [Desapruebo](http://twitter.com/search?q=Desapruebo) | N/A |
-| 28 | [Martha Moyano](http://twitter.com/search?q=Martha+Moyano) | N/A |
-| 29 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 30 | [Siucho](http://twitter.com/search?q=Siucho) | N/A |
-| 31 | [Delia Muñoz](http://twitter.com/search?q=Delia+Mu%c3%b1oz) | N/A |
-| 32 | [Roberto Silva](http://twitter.com/search?q=Roberto+Silva) | N/A |
-| 33 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 34 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 35 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 36 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
-| 37 | [Vicente Romero](http://twitter.com/search?q=Vicente+Romero) | N/A |
-| 38 | [Congresista](http://twitter.com/search?q=Congresista) | N/A |
-| 39 | [Soda Stereo](http://twitter.com/search?q=Soda+Stereo) | N/A |
-| 40 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
-| 41 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 42 | [Gustavo Cerati](http://twitter.com/search?q=Gustavo+Cerati) | N/A |
-| 43 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
-| 44 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 45 | [Cencosud](http://twitter.com/search?q=Cencosud) | N/A |
-| 46 | [Daarick](http://twitter.com/search?q=Daarick) | N/A |
-| 47 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 48 | [Galván](http://twitter.com/search?q=Galv%c3%a1n) | N/A |
-| 49 | [Agustín Lozano](http://twitter.com/search?q=Agust%c3%adn+Lozano) | N/A |
-| 50 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 23 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 24 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 25 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 26 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
+| 27 | [DELITO](http://twitter.com/search?q=DELITO) | N/A |
+| 28 | [Desapruebo](http://twitter.com/search?q=Desapruebo) | N/A |
+| 29 | [Siucho](http://twitter.com/search?q=Siucho) | N/A |
+| 30 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 32 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 33 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 34 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 35 | [Vicente Romero](http://twitter.com/search?q=Vicente+Romero) | N/A |
+| 36 | [Soda Stereo](http://twitter.com/search?q=Soda+Stereo) | N/A |
+| 37 | [Roberto Silva](http://twitter.com/search?q=Roberto+Silva) | N/A |
+| 38 | [Delia Muñoz](http://twitter.com/search?q=Delia+Mu%c3%b1oz) | N/A |
+| 39 | [The Only Exception](http://twitter.com/search?q=The+Only+Exception) | N/A |
+| 40 | [Congresista](http://twitter.com/search?q=Congresista) | N/A |
+| 41 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 42 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 43 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
+| 44 | [Cencosud](http://twitter.com/search?q=Cencosud) | N/A |
+| 45 | [Daarick](http://twitter.com/search?q=Daarick) | N/A |
+| 46 | [Galván](http://twitter.com/search?q=Galv%c3%a1n) | N/A |
+| 47 | [Agustín Lozano](http://twitter.com/search?q=Agust%c3%adn+Lozano) | N/A |
+| 48 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 49 | [Paco Casal](http://twitter.com/search?q=Paco+Casal) | N/A |
+| 50 | [Levitsky](http://twitter.com/search?q=Levitsky) | N/A |
 
 
 

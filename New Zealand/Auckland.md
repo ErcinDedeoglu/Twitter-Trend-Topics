@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-04 06:16:57 UTC`
+📆 Last Updated: `2023-03-04 07:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nrlwarriorsknights](http://twitter.com/search?q=%23nrlwarriorsknights) | N/A |
-| 2 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
-| 3 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
-| 4 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 5 | [#cruvhig](http://twitter.com/search?q=%23cruvhig) | N/A |
-| 6 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 7 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 8 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
-| 9 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
-| 10 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 11 | [#COYN](http://twitter.com/search?q=%23COYN) | N/A |
-| 12 | [Highlanders](http://twitter.com/search?q=Highlanders) | N/A |
-| 13 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 16 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 17 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 18 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 1 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
+| 2 | [#WELvBRI](http://twitter.com/search?q=%23WELvBRI) | N/A |
+| 3 | [#NRLWarriorsKnights](http://twitter.com/search?q=%23NRLWarriorsKnights) | N/A |
+| 4 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 5 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
+| 6 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 7 | [#cruvhig](http://twitter.com/search?q=%23cruvhig) | N/A |
+| 8 | [Sande](http://twitter.com/search?q=Sande) | N/A |
+| 9 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 10 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
+| 11 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
+| 12 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 13 | [Highlanders](http://twitter.com/search?q=Highlanders) | N/A |
+| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 15 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 16 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 18 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 19 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
 | 20 | [Town Hall](http://twitter.com/search?q=Town+Hall) | N/A |
 | 21 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 22 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 24 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 25 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
 | 26 | [school strike 4 climate](http://twitter.com/search?q=school+strike+4+climate) | N/A |
 | 27 | [Coke](http://twitter.com/search?q=Coke) | N/A |
-| 28 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 29 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 30 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 31 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
+| 28 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 29 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 30 | [J Cole](http://twitter.com/search?q=J+Cole) | N/A |
+| 31 | [Surely](http://twitter.com/search?q=Surely) | N/A |
 | 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 33 | [Drag](http://twitter.com/search?q=Drag) | N/A |
 | 34 | [National MPs](http://twitter.com/search?q=National+MPs) | N/A |
 | 35 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 36 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
-| 37 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 38 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 39 | [European](http://twitter.com/search?q=European) | N/A |
-| 40 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 41 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 42 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 43 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 44 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
-| 45 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 46 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
-| 47 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 48 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 49 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 50 | [Lizzie](http://twitter.com/search?q=Lizzie) | N/A |
+| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
+| 39 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 40 | [Jane](http://twitter.com/search?q=Jane) | N/A |
+| 41 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 42 | [European](http://twitter.com/search?q=European) | N/A |
+| 43 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 46 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 47 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 48 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
+| 49 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 50 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-04 06:17:06 UTC`
+📆 Last Updated: `2023-03-04 07:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 1 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
 | 2 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 3 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 4 | [Adin Hill](http://twitter.com/search?q=Adin+Hill) | N/A |
-| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 9 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 10 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 11 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 12 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 13 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 14 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 15 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 16 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 3 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 5 | [Adin Hill](http://twitter.com/search?q=Adin+Hill) | N/A |
+| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 7 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 8 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 9 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 12 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 13 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 14 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 16 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
 | 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 19 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 20 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 21 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 22 | [Taylor Jenkins](http://twitter.com/search?q=Taylor+Jenkins) | N/A |
-| 23 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 24 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 25 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 28 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 29 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 30 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 31 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
-| 32 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 33 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 34 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 35 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 36 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 37 | [Double Bang](http://twitter.com/search?q=Double+Bang) | N/A |
-| 38 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 39 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
-| 40 | [Jaren](http://twitter.com/search?q=Jaren) | N/A |
-| 41 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
-| 42 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 43 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 44 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 45 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 46 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 47 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 48 | [Konchar](http://twitter.com/search?q=Konchar) | N/A |
-| 49 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 50 | [The Relic](http://twitter.com/search?q=The+Relic) | N/A |
+| 18 | [#loveafterlockup](http://twitter.com/search?q=%23loveafterlockup) | #LoveAfterLockup is a reality television series that follows couples who have formed relationships while one of them is in prison. The show follows the couples as they reunite and attempt to make their relationships work after the release of the incarcerated partner. |
+| 19 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 20 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 21 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [Taylor Jenkins](http://twitter.com/search?q=Taylor+Jenkins) | N/A |
+| 24 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 26 | [jihope](http://twitter.com/search?q=jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 27 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 28 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 29 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 30 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 31 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 32 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 33 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 34 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 35 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 36 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 37 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 38 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 39 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 40 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 41 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
+| 42 | [Jaren](http://twitter.com/search?q=Jaren) | N/A |
+| 43 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 44 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 45 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 46 | [The Relic](http://twitter.com/search?q=The+Relic) | N/A |
+| 47 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
+| 48 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 49 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 50 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
 
 
 

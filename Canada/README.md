@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-04 06:17:07 UTC`
+📆 Last Updated: `2023-03-04 07:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 2 | [#thundersnow](http://twitter.com/search?q=%23thundersnow) | N/A |
-| 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 4 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 5 | [#snowstorm](http://twitter.com/search?q=%23snowstorm) | N/A |
-| 6 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 7 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [#dlws](http://twitter.com/search?q=%23dlws) | N/A |
-| 10 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 12 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 13 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
-| 14 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 15 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 16 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
-| 17 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 18 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 19 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 20 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
-| 21 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 22 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 23 | [Guhle](http://twitter.com/search?q=Guhle) | N/A |
-| 24 | [Connor Bedard](http://twitter.com/search?q=Connor+Bedard) | Connor Bedard is a Canadian ice hockey player who currently plays for the Regina Pats of the Western Hockey League. He was selected first overall in the 2020 WHL Bantam Draft. The name Connor Bedard is derived from the Irish surname "O'Bedard," which means "descendant of Bede." |
-| 25 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 26 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
-| 27 | [Moose](http://twitter.com/search?q=Moose) | N/A |
-| 28 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 29 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 30 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
-| 31 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 32 | [#WPGvsEDM](http://twitter.com/search?q=%23WPGvsEDM) | N/A |
-| 33 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 34 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 35 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 36 | [#WinterStorm](http://twitter.com/search?q=%23WinterStorm) | #WinterStorm is a hashtag used on social media to refer to a severe winter storm. It is typically used to share information about the storm, such as its location, intensity, and potential impacts. |
-| 37 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 38 | [#onwx](http://twitter.com/search?q=%23onwx) | N/A |
-| 39 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 40 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
+| 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 3 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 4 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 5 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 6 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 8 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 9 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
+| 12 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 13 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 14 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 15 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 17 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 18 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 19 | [Adin Hill](http://twitter.com/search?q=Adin+Hill) | N/A |
+| 20 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
+| 21 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 24 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 25 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 26 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 27 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 28 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 29 | [Rittich](http://twitter.com/search?q=Rittich) | N/A |
+| 30 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 31 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
+| 32 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 33 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 34 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
+| 35 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 36 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 37 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 38 | [Dillon](http://twitter.com/search?q=Dillon) | N/A |
+| 39 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 40 | [frédéric allard](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+allard) | N/A |
+| 41 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 42 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 43 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 44 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 45 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 46 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 47 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 48 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 49 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
+| 50 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 
 
 

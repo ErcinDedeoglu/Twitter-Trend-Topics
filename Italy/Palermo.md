@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-04 06:16:33 UTC`
+📆 Last Updated: `2023-03-04 07:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
-| 2 | [#4Marzo](http://twitter.com/search?q=%234Marzo) | N/A |
-| 3 | [#thevoicesenior](http://twitter.com/search?q=%23thevoicesenior) | N/A |
-| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 5 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 6 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 7 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 8 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 9 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
-| 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 11 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 15 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 16 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 17 | [Maria Teresa](http://twitter.com/search?q=Maria+Teresa) | N/A |
-| 18 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
-| 19 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 20 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 21 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 22 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 23 | [michelino](http://twitter.com/search?q=michelino) | N/A |
-| 24 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 25 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 26 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 27 | [clementino](http://twitter.com/search?q=clementino) | N/A |
-| 28 | [faraoni](http://twitter.com/search?q=faraoni) | N/A |
-| 29 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 31 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 32 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
-| 33 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 34 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
-| 35 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 36 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 37 | [niveo](http://twitter.com/search?q=niveo) | N/A |
-| 38 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 39 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
-| 40 | [hysaj](http://twitter.com/search?q=hysaj) | N/A |
-| 41 | [provedel](http://twitter.com/search?q=provedel) | N/A |
-| 42 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 43 | [grazie presidente](http://twitter.com/search?q=grazie+presidente) | N/A |
-| 44 | [Erwin](http://twitter.com/search?q=Erwin) | N/A |
-| 45 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 46 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
-| 47 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 48 | [Venere e Giove](http://twitter.com/search?q=Venere+e+Giove) | N/A |
-| 49 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 50 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 2 | [#4marzo](http://twitter.com/search?q=%234marzo) | N/A |
+| 3 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 4 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
+| 5 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 6 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 7 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 8 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 9 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 10 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
+| 11 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 12 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
+| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 16 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 17 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
+| 18 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 19 | [Buongiorno Ferula](http://twitter.com/search?q=Buongiorno+Ferula) | N/A |
+| 20 | [Buongiorno Lu](http://twitter.com/search?q=Buongiorno+Lu) | N/A |
+| 21 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 22 | [maria teresa](http://twitter.com/search?q=maria+teresa) | N/A |
+| 23 | [Pier Silvio](http://twitter.com/search?q=Pier+Silvio) | N/A |
+| 24 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 25 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 26 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 27 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 28 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 29 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 30 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 31 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 32 | [clementino](http://twitter.com/search?q=clementino) | N/A |
+| 33 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 34 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 36 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 37 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 38 | [Lombardo](http://twitter.com/search?q=Lombardo) | N/A |
+| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 40 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 41 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 42 | [Grosseto](http://twitter.com/search?q=Grosseto) | N/A |
+| 43 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 44 | [colaprico](http://twitter.com/search?q=colaprico) | N/A |
+| 45 | [hysaj](http://twitter.com/search?q=hysaj) | N/A |
+| 46 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
+| 47 | [agata](http://twitter.com/search?q=agata) | N/A |
+| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 49 | [grazie presidente](http://twitter.com/search?q=grazie+presidente) | N/A |
+| 50 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
 
 
 
