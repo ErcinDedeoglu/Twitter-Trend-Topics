@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-04 00:28:35 UTC`
+📆 Last Updated: `2023-03-04 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Portugal
 | 1 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 2 | [Artur Soares](http://twitter.com/search?q=Artur+Soares) | N/A |
 | 3 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 4 | [Famalicão](http://twitter.com/search?q=Famalic%c3%a3o) | N/A |
-| 5 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 6 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 9 | [#betclicelclásico](http://twitter.com/search?q=%23betclicelcl%c3%a1sico) | N/A |
-| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 4 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 5 | [Famalicão](http://twitter.com/search?q=Famalic%c3%a3o) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [#betclicelclásico](http://twitter.com/search?q=%23betclicelcl%c3%a1sico) | N/A |
+| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 9 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 10 | [Neres](http://twitter.com/search?q=Neres) | N/A |
+| 11 | [OUTRA VEZ](http://twitter.com/search?q=OUTRA+VEZ) | N/A |
 | 12 | [#SLBFCF](http://twitter.com/search?q=%23SLBFCF) | N/A |
-| 13 | [OUTRA VEZ](http://twitter.com/search?q=OUTRA+VEZ) | N/A |
-| 14 | [Neres](http://twitter.com/search?q=Neres) | N/A |
-| 15 | [#F1naSPORTTV](http://twitter.com/search?q=%23F1naSPORTTV) | N/A |
-| 16 | [João Neves](http://twitter.com/search?q=Jo%c3%a3o+Neves) | João Neves is a Portuguese name. It is composed of two parts: João, which is the Portuguese form of the name John, and Neves, which is a Portuguese surname meaning "snow". In English, it would be translated as John Snow. |
-| 17 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 18 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
-| 19 | [Passos](http://twitter.com/search?q=Passos) | N/A |
-| 20 | [Vasco Santos](http://twitter.com/search?q=Vasco+Santos) | N/A |
+| 13 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 14 | [#F1naSPORTTV](http://twitter.com/search?q=%23F1naSPORTTV) | N/A |
+| 15 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 16 | [Faltam 11](http://twitter.com/search?q=Faltam+11) | N/A |
+| 17 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 18 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
+| 19 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
+| 20 | [Auriol Dongmo](http://twitter.com/search?q=Auriol+Dongmo) | N/A |
 | 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 22 | [Pichardo](http://twitter.com/search?q=Pichardo) | N/A |
-| 23 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 24 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 25 | [Auriol Dongmo](http://twitter.com/search?q=Auriol+Dongmo) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 28 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 29 | [Hugo Miguel](http://twitter.com/search?q=Hugo+Miguel) | N/A |
-| 30 | [Mais 3](http://twitter.com/search?q=Mais+3) | N/A |
-| 31 | [#BundesligaEleven](http://twitter.com/search?q=%23BundesligaEleven) | N/A |
-| 32 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 33 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
-| 34 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 35 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 36 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 37 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 38 | [Marta Temido](http://twitter.com/search?q=Marta+Temido) | N/A |
-| 39 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 40 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 41 | [LUISA](http://twitter.com/search?q=LUISA) | N/A |
-| 42 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
-| 43 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 44 | [Marquês](http://twitter.com/search?q=Marqu%c3%aas) | N/A |
-| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 46 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 48 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 49 | [Campo Pequeno](http://twitter.com/search?q=Campo+Pequeno) | N/A |
-| 50 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 23 | [Passos](http://twitter.com/search?q=Passos) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [#otriangulotvi](http://twitter.com/search?q=%23otriangulotvi) | N/A |
+| 26 | [Mais 3](http://twitter.com/search?q=Mais+3) | N/A |
+| 27 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 28 | [Hugo Miguel](http://twitter.com/search?q=Hugo+Miguel) | N/A |
+| 29 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
+| 30 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 31 | [#bundesligaeleven](http://twitter.com/search?q=%23bundesligaeleven) | N/A |
+| 32 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 33 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
+| 34 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 35 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 36 | [Vasco Santos](http://twitter.com/search?q=Vasco+Santos) | N/A |
+| 37 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 38 | [João Neves](http://twitter.com/search?q=Jo%c3%a3o+Neves) | João Neves is a Portuguese name. It is composed of two parts: João, which is the Portuguese form of the name John, and Neves, which is a Portuguese surname meaning "snow". In English, it would be translated as John Snow. |
+| 39 | [Marta Temido](http://twitter.com/search?q=Marta+Temido) | N/A |
+| 40 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 41 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 42 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 43 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 44 | [Campo Pequeno](http://twitter.com/search?q=Campo+Pequeno) | N/A |
+| 45 | [Igreja](http://twitter.com/search?q=Igreja) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [Cofina](http://twitter.com/search?q=Cofina) | N/A |
+| 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 49 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 50 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 
 
 

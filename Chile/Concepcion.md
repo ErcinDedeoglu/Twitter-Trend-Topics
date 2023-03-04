@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-04 00:27:42 UTC`
+📆 Last Updated: `2023-03-04 01:42:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NiFloresNiChocolates](http://twitter.com/search?q=%23NiFloresNiChocolates) | N/A |
-| 2 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 3 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 4 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 5 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#ÑUBvsUCxTNTSports](http://twitter.com/search?q=%23%c3%91UBvsUCxTNTSports) | N/A |
-| 8 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 9 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 10 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 11 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 12 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
-| 13 | [Vamos Católica](http://twitter.com/search?q=Vamos+Cat%c3%b3lica) | N/A |
-| 14 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 15 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 16 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 17 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 18 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
-| 19 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
-| 20 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 21 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 22 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 23 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
-| 24 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 25 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 26 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
-| 27 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 28 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 29 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 30 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 31 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
-| 32 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 33 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 34 | [General Soza](http://twitter.com/search?q=General+Soza) | N/A |
-| 35 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 36 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 37 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 38 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 39 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
-| 40 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 41 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
-| 42 | [San Pedro de la Paz](http://twitter.com/search?q=San+Pedro+de+la+Paz) | N/A |
-| 43 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 44 | [Carola Julio](http://twitter.com/search?q=Carola+Julio) | N/A |
-| 45 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
-| 46 | [Coquimbo Unido](http://twitter.com/search?q=Coquimbo+Unido) | N/A |
-| 47 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 48 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
-| 49 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 50 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 2 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 3 | [#ÑUBvsUCxTNTSports](http://twitter.com/search?q=%23%c3%91UBvsUCxTNTSports) | N/A |
+| 4 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
+| 5 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 6 | [#NiFloresNiChocolates](http://twitter.com/search?q=%23NiFloresNiChocolates) | N/A |
+| 7 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
+| 8 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
+| 9 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 10 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 11 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 12 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 13 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 14 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 15 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
+| 16 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 17 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 18 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
+| 19 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
+| 22 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 23 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 24 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
+| 25 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
+| 26 | [Catuto](http://twitter.com/search?q=Catuto) | N/A |
+| 27 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
+| 28 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 29 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 30 | [Bocado](http://twitter.com/search?q=Bocado) | N/A |
+| 31 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 32 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 33 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 34 | [Cimbi](http://twitter.com/search?q=Cimbi) | N/A |
+| 35 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 36 | [Parot](http://twitter.com/search?q=Parot) | N/A |
+| 37 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
+| 38 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 39 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 40 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 41 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 42 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 43 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 44 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 45 | [Generala](http://twitter.com/search?q=Generala) | N/A |
+| 46 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 47 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 48 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 49 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 50 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 
 
 

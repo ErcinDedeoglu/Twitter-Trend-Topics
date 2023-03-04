@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-04 00:28:27 UTC`
+📆 Last Updated: `2023-03-04 01:43:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 6 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
-| 7 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 8 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
-| 9 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 10 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 11 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 12 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 13 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 14 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 15 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 16 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 17 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 18 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 19 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 23 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
-| 26 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 27 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 28 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 29 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
-| 30 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
-| 31 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 32 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 33 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
-| 34 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 35 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 36 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
-| 37 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 38 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 39 | [Cooper Neese](http://twitter.com/search?q=Cooper+Neese) | N/A |
-| 40 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 41 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 42 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
-| 43 | [Vicki Gunvalson](http://twitter.com/search?q=Vicki+Gunvalson) | N/A |
-| 44 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
-| 45 | [Jonathan Isaac](http://twitter.com/search?q=Jonathan+Isaac) | Jonathan Isaac is a professional basketball player who currently plays for the Orlando Magic of the National Basketball Association (NBA). He was selected with the sixth overall pick in the 2017 NBA draft. The name Jonathan Isaac is derived from the Hebrew name Yehonatan, which means "God has given". |
-| 46 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
-| 47 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 48 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 49 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 50 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 1 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 2 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
+| 3 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 4 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 6 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 8 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 9 | [#NICAR23](http://twitter.com/search?q=%23NICAR23) | N/A |
+| 10 | [#DeLaDay](http://twitter.com/search?q=%23DeLaDay) | N/A |
+| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 12 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 13 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 15 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 16 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
+| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 18 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 19 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 20 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 21 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 22 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
+| 23 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 24 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 25 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 26 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 27 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 28 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 29 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 31 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 32 | [Sincere Carry](http://twitter.com/search?q=Sincere+Carry) | N/A |
+| 33 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 34 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 35 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 38 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
+| 39 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 40 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 42 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
+| 43 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 44 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
+| 45 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 46 | [Ann Wilson](http://twitter.com/search?q=Ann+Wilson) | N/A |
+| 47 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 48 | [USPS](http://twitter.com/search?q=USPS) | N/A |
+| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 50 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
 
 
 

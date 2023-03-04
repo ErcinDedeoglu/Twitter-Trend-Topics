@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-04 00:27:48 UTC`
+📆 Last Updated: `2023-03-04 01:43:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [#FridaysForFuture](http://twitter.com/search?q=%23FridaysForFuture) | N/A |
 | 7 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
 | 8 | [Flieger](http://twitter.com/search?q=Flieger) | N/A |
-| 9 | [Vorarlberg](http://twitter.com/search?q=Vorarlberg) | N/A |
-| 10 | [Flug](http://twitter.com/search?q=Flug) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Vorarlberg](http://twitter.com/search?q=Vorarlberg) | N/A |
+| 11 | [Flug](http://twitter.com/search?q=Flug) | N/A |
 | 12 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
-| 13 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
-| 14 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 15 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
-| 16 | [Peter Weibel](http://twitter.com/search?q=Peter+Weibel) | N/A |
-| 17 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Kocher](http://twitter.com/search?q=Kocher) | N/A |
+| 15 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 16 | [peter weibel](http://twitter.com/search?q=peter+weibel) | N/A |
+| 17 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
+| 18 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
 | 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 21 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
 | 22 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
 | 23 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
 | 24 | [Überzeugung](http://twitter.com/search?q=%c3%9cberzeugung) | N/A |
 | 25 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 26 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 26 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
 | 27 | [schmäh](http://twitter.com/search?q=schm%c3%a4h) | N/A |
-| 28 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 29 | [Budget](http://twitter.com/search?q=Budget) | N/A |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [Angebote](http://twitter.com/search?q=Angebote) | N/A |
-| 32 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 35 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
-| 36 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 37 | [Muster](http://twitter.com/search?q=Muster) | N/A |
-| 38 | [Lasst](http://twitter.com/search?q=Lasst) | N/A |
+| 30 | [Angebote](http://twitter.com/search?q=Angebote) | N/A |
+| 31 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 32 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 33 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 34 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 35 | [Lasst](http://twitter.com/search?q=Lasst) | N/A |
+| 36 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 37 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 38 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 39 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 40 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 41 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 42 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 43 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 44 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 45 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 46 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
-| 47 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
-| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 49 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 40 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 41 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 42 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 45 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
+| 46 | [Schatten](http://twitter.com/search?q=Schatten) | N/A |
+| 47 | [GM Bro](http://twitter.com/search?q=GM+Bro) | N/A |
+| 48 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 49 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
 | 50 | [Brote](http://twitter.com/search?q=Brote) | N/A |
 
 

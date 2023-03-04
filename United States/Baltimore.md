@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-04 00:28:19 UTC`
+📆 Last Updated: `2023-03-04 01:43:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
-| 2 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 3 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 5 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 6 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 7 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 9 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
-| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 3 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 5 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 6 | [#OrdinalDogecoin](http://twitter.com/search?q=%23OrdinalDogecoin) | N/A |
+| 7 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 8 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 9 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 10 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
 | 11 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 12 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 13 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 14 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 15 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 16 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 19 | [Thunder Snow](http://twitter.com/search?q=Thunder+Snow) | N/A |
-| 20 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 21 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 22 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
-| 23 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 24 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 25 | [Notis](http://twitter.com/search?q=Notis) | N/A |
-| 26 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
-| 27 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
-| 28 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 29 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 30 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
-| 31 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 32 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 33 | [DJ Turner](http://twitter.com/search?q=DJ+Turner) | N/A |
-| 34 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 35 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 36 | [Cooper Neese](http://twitter.com/search?q=Cooper+Neese) | N/A |
-| 37 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 38 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 39 | [Freedom Cities](http://twitter.com/search?q=Freedom+Cities) | N/A |
-| 40 | [Vicki Gunvalson](http://twitter.com/search?q=Vicki+Gunvalson) | N/A |
-| 41 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
-| 42 | [Jonathan Isaac](http://twitter.com/search?q=Jonathan+Isaac) | Jonathan Isaac is a professional basketball player who currently plays for the Orlando Magic of the National Basketball Association (NBA). He was selected with the sixth overall pick in the 2017 NBA draft. The name Jonathan Isaac is derived from the Hebrew name Yehonatan, which means "God has given". |
-| 43 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 44 | [Christian Gonzalez](http://twitter.com/search?q=Christian+Gonzalez) | N/A |
-| 45 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 46 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 47 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 48 | [Chuck Fletcher](http://twitter.com/search?q=Chuck+Fletcher) | N/A |
-| 49 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 12 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 13 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 14 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 15 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 16 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 17 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
+| 18 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
+| 19 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 20 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 21 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 22 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 23 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 24 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 25 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
+| 26 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 27 | [Sincere Carry](http://twitter.com/search?q=Sincere+Carry) | N/A |
+| 28 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 29 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 30 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 33 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 34 | [Helen Reddy](http://twitter.com/search?q=Helen+Reddy) | N/A |
+| 35 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 36 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 37 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 38 | [Jackson Browne](http://twitter.com/search?q=Jackson+Browne) | N/A |
+| 39 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 40 | [Clancy Brown](http://twitter.com/search?q=Clancy+Brown) | N/A |
+| 41 | [Ann Wilson](http://twitter.com/search?q=Ann+Wilson) | N/A |
+| 42 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 43 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 44 | [USPS](http://twitter.com/search?q=USPS) | N/A |
+| 45 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 46 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 47 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 48 | [Notis](http://twitter.com/search?q=Notis) | N/A |
+| 49 | [Pujols](http://twitter.com/search?q=Pujols) | N/A |
 
 
 

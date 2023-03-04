@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-04 00:27:49 UTC`
+📆 Last Updated: `2023-03-04 01:43:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
 | 2 | [#MUNvSCA](http://twitter.com/search?q=%23MUNvSCA) | N/A |
 | 3 | [#BeyondFriday](http://twitter.com/search?q=%23BeyondFriday) | N/A |
-| 4 | [#BlockRockinBeats](http://twitter.com/search?q=%23BlockRockinBeats) | N/A |
-| 5 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 6 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 7 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 8 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 9 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 10 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 11 | [Boots](http://twitter.com/search?q=Boots) | Boots is a term used to describe a type of footwear that covers the foot and ankle, and sometimes even the lower leg. They are typically made of leather or rubber, and can be either heeled or flat. Boots are often worn for protection in certain activities, such as hiking or horseback riding, as well as for fashion. |
-| 12 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 13 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 14 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
-| 15 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
-| 16 | [Michael O'Leary](http://twitter.com/search?q=Michael+O%27Leary) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 21 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 22 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 23 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
-| 24 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 26 | [RG Snyman](http://twitter.com/search?q=RG+Snyman) | N/A |
-| 27 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 28 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 29 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 30 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 31 | [Tulloch](http://twitter.com/search?q=Tulloch) | N/A |
-| 32 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
-| 33 | [Matt Healy](http://twitter.com/search?q=Matt+Healy) | N/A |
-| 34 | [Dec.](http://twitter.com/search?q=Dec.) | N/A |
-| 35 | [Cillian](http://twitter.com/search?q=Cillian) | N/A |
-| 36 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
-| 37 | [O'Neills](http://twitter.com/search?q=O%27Neills) | N/A |
-| 38 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
-| 39 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 6 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 7 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 8 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 9 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
+| 10 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 11 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [michael o'leary](http://twitter.com/search?q=michael+o%27leary) | N/A |
+| 14 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 15 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 16 | [Boots](http://twitter.com/search?q=Boots) | Boots is a term used to describe a type of footwear that covers the foot and ankle, and sometimes even the lower leg. They are typically made of leather or rubber, and can be either heeled or flat. Boots are often worn for protection in certain activities, such as hiking or horseback riding, as well as for fashion. |
+| 17 | [Derry City](http://twitter.com/search?q=Derry+City) | N/A |
+| 18 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 19 | [RG Snyman](http://twitter.com/search?q=RG+Snyman) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 22 | [Tulloch](http://twitter.com/search?q=Tulloch) | N/A |
+| 23 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 24 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
+| 25 | [Cillian](http://twitter.com/search?q=Cillian) | N/A |
+| 26 | [Dec.](http://twitter.com/search?q=Dec.) | N/A |
+| 27 | [Matt Healy](http://twitter.com/search?q=Matt+Healy) | N/A |
+| 28 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 29 | [O'Neills](http://twitter.com/search?q=O%27Neills) | N/A |
+| 30 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
+| 31 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
+| 32 | [Tolka Park](http://twitter.com/search?q=Tolka+Park) | N/A |
+| 33 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 34 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 35 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
+| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 37 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 38 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 40 | [Mounthawk Park](http://twitter.com/search?q=Mounthawk+Park) | N/A |
 | 41 | [Tallaght Stadium](http://twitter.com/search?q=Tallaght+Stadium) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
-| 44 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
-| 45 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 46 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 47 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 48 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 49 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 42 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 43 | [national digital awards](http://twitter.com/search?q=national+digital+awards) | N/A |
+| 44 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 45 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 46 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 47 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
+| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

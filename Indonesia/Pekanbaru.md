@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 00:27:56 UTC`
+📆 Last Updated: `2023-03-04 01:43:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,47 +19,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 3 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
 | 4 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
+| 5 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
+| 6 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
 | 7 | [Bersandar Hanya Pada Allah](http://twitter.com/search?q=Bersandar+Hanya+Pada+Allah) | N/A |
-| 8 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
-| 9 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 10 | [Mari Senantiasa Istiqomah](http://twitter.com/search?q=Mari+Senantiasa+Istiqomah) | N/A |
 | 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 12 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 13 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
-| 14 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 15 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 16 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 17 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 18 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [universitas brawijaya](http://twitter.com/search?q=universitas+brawijaya) | N/A |
-| 21 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
-| 22 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
-| 23 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
-| 24 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
-| 25 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 26 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
-| 27 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
-| 28 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 29 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 30 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 13 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 14 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 15 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 16 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 17 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
+| 18 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 19 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 20 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 21 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 22 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 23 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 24 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 26 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 29 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 30 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
 | 31 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
-| 32 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 33 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 34 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 35 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 36 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 37 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 32 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 33 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 34 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 35 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 36 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 37 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
 | 38 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
-| 39 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
-| 40 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
-| 41 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 42 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 43 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
-| 44 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
-| 45 | [wafello](http://twitter.com/search?q=wafello) | N/A |
+| 39 | [Universitas Brawijaya](http://twitter.com/search?q=Universitas+Brawijaya) | N/A |
+| 40 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 41 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
+| 42 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 43 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 44 | [Keong](http://twitter.com/search?q=Keong) | N/A |
+| 45 | [Kembang Api](http://twitter.com/search?q=Kembang+Api) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-04 00:27:39 UTC`
+📆 Last Updated: `2023-03-04 01:42:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,50 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [#CasasDelEstudiante](http://twitter.com/search?q=%23CasasDelEstudiante) | N/A |
+| 2 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
 | 3 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 4 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 5 | [FNERRR](http://twitter.com/search?q=FNERRR) | N/A |
-| 6 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 9 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 4 | [#CasasDelEstudiante](http://twitter.com/search?q=%23CasasDelEstudiante) | N/A |
+| 5 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 6 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 7 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
 | 10 | [Carla Humphrey](http://twitter.com/search?q=Carla+Humphrey) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 11 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 12 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 13 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 14 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
-| 15 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 17 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 18 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
-| 19 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 14 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [Oscuro](http://twitter.com/search?q=Oscuro) | N/A |
+| 17 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
+| 18 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 19 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
 | 20 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 21 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
-| 22 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
-| 23 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 22 | [Mexiquenses](http://twitter.com/search?q=Mexiquenses) | N/A |
+| 23 | [MEXICO OUT NOW](http://twitter.com/search?q=MEXICO+OUT+NOW) | N/A |
 | 24 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 25 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 26 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 27 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
-| 28 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 29 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 30 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 31 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 32 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
-| 33 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 34 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
-| 35 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 36 | [#ViveLatino](http://twitter.com/search?q=%23ViveLatino) | N/A |
-| 37 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
-| 38 | [#SuperPesoMexicano](http://twitter.com/search?q=%23SuperPesoMexicano) | N/A |
-| 39 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 40 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 41 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
-| 42 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
-| 43 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 44 | [#ZonaRÉCORD](http://twitter.com/search?q=%23ZonaR%c3%89CORD) | N/A |
-| 45 | [#AziNoAnlo](http://twitter.com/search?q=%23AziNoAnlo) | N/A |
-| 46 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
+| 25 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 26 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 27 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 28 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 29 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
+| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 31 | [Banxico](http://twitter.com/search?q=Banxico) | N/A |
+| 32 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 33 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 34 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 35 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 36 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 37 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
+| 38 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
+| 39 | [#Tenancingo](http://twitter.com/search?q=%23Tenancingo) | N/A |
+| 40 | [#PesoMexicano](http://twitter.com/search?q=%23PesoMexicano) | N/A |
+| 41 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 42 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 43 | [#DíaMundialDeLaVidaSilvestre](http://twitter.com/search?q=%23D%c3%adaMundialDeLaVidaSilvestre) | N/A |
+| 44 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 45 | [#HappyBirthdayCamila](http://twitter.com/search?q=%23HappyBirthdayCamila) | N/A |
 
 
 

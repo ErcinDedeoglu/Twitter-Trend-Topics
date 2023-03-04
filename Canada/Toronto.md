@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-04 00:27:34 UTC`
+📆 Last Updated: `2023-03-04 01:42:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 2 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 3 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 4 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 5 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 6 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 8 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 9 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 10 | [#ReinstateEva](http://twitter.com/search?q=%23ReinstateEva) | N/A |
-| 11 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 15 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
-| 16 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 17 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
-| 18 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 19 | [Monahan](http://twitter.com/search?q=Monahan) | N/A |
-| 20 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 21 | [Allvin](http://twitter.com/search?q=Allvin) | N/A |
-| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 23 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 24 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 25 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 26 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 27 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 28 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 29 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 30 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
-| 31 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 32 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 33 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
-| 34 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 35 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 36 | [Benning](http://twitter.com/search?q=Benning) | N/A |
-| 37 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 38 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 39 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
-| 40 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
-| 41 | [#NHLTradeDeadline2023](http://twitter.com/search?q=%23NHLTradeDeadline2023) | N/A |
-| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 43 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 44 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 45 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 2 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
+| 3 | [#onwx](http://twitter.com/search?q=%23onwx) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 6 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 7 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 8 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 9 | [#TradeCentre](http://twitter.com/search?q=%23TradeCentre) | N/A |
+| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 13 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
+| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 15 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 16 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 17 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 18 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 19 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 20 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 21 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 22 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 23 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 24 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 25 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
+| 26 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 27 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
+| 28 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 29 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
+| 30 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
+| 31 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 32 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 33 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 34 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
+| 35 | [frédéric allard](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+allard) | N/A |
+| 36 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
+| 37 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
+| 38 | [Namestnikov](http://twitter.com/search?q=Namestnikov) | N/A |
+| 39 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
+| 40 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 41 | [Kulikov](http://twitter.com/search?q=Kulikov) | N/A |
+| 42 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 43 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 44 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 45 | [Banky](http://twitter.com/search?q=Banky) | N/A |
+| 46 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
+| 47 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 48 | [Kesselring](http://twitter.com/search?q=Kesselring) | N/A |
+| 49 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 50 | [Nate Schnarr](http://twitter.com/search?q=Nate+Schnarr) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-04 00:28:28 UTC`
+📆 Last Updated: `2023-03-04 01:43:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#PepsiRiseUpBaby](http://twitter.com/search?q=%23PepsiRiseUpBaby) | N/A |
-| 4 | [#INDvsAUSTest](http://twitter.com/search?q=%23INDvsAUSTest) | N/A |
-| 5 | [#BFCKBFC](http://twitter.com/search?q=%23BFCKBFC) | N/A |
-| 6 | [#RahulGandhiinCambridge](http://twitter.com/search?q=%23RahulGandhiinCambridge) | N/A |
-| 7 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
-| 8 | [1 Day Left For Bodh Diwas](http://twitter.com/search?q=1+Day+Left+For+Bodh+Diwas) | N/A |
-| 9 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 10 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 11 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
-| 12 | [1yr of badass jailor karan](http://twitter.com/search?q=1yr+of+badass+jailor+karan) | N/A |
-| 13 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
-| 14 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 15 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
-| 16 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 17 | [REMOVE SAMJI FROM HP3](http://twitter.com/search?q=REMOVE+SAMJI+FROM+HP3) | N/A |
-| 18 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 19 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 20 | [breaking laws](http://twitter.com/search?q=breaking+laws) | N/A |
-| 21 | [Nattu Nattu](http://twitter.com/search?q=Nattu+Nattu) | N/A |
+| 1 | [#GiveGirlsWings](http://twitter.com/search?q=%23GiveGirlsWings) | N/A |
+| 2 | [#SantGaribdasji_BodhDiwas](http://twitter.com/search?q=%23SantGaribdasji_BodhDiwas) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 5 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 6 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [#BFCKBFC](http://twitter.com/search?q=%23BFCKBFC) | N/A |
+| 9 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 10 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
+| 11 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 12 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 13 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 14 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
+| 15 | [1yr of badass jailor karan](http://twitter.com/search?q=1yr+of+badass+jailor+karan) | N/A |
+| 16 | [प्रथम महिला](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 17 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 18 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 19 | [remove samji from hp3](http://twitter.com/search?q=remove+samji+from+hp3) | N/A |
+| 20 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
+| 21 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
 | 22 | [1yr of rdh ft tejran](http://twitter.com/search?q=1yr+of+rdh+ft+tejran) | N/A |
-| 23 | [journalists in court](http://twitter.com/search?q=journalists+in+court) | N/A |
-| 24 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 25 | [North East](http://twitter.com/search?q=North+East) | N/A |
-| 26 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
-| 27 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 28 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 29 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 30 | [टाटा समूह](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a5%82%e0%a4%b9) | N/A |
-| 31 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
-| 32 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 33 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 34 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 35 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
-| 38 | [Kaha Tak](http://twitter.com/search?q=Kaha+Tak) | N/A |
-| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 41 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 42 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 43 | [mona](http://twitter.com/search?q=mona) | N/A |
-| 44 | [North Indian](http://twitter.com/search?q=North+Indian) | N/A |
-| 45 | [Chettri](http://twitter.com/search?q=Chettri) | N/A |
-| 46 | [Referee](http://twitter.com/search?q=Referee) | N/A |
-| 47 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 23 | [NATTU NATTU](http://twitter.com/search?q=NATTU+NATTU) | N/A |
+| 24 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 25 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 26 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 27 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 28 | [North East](http://twitter.com/search?q=North+East) | N/A |
+| 29 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 30 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
+| 31 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 32 | [breaking laws](http://twitter.com/search?q=breaking+laws) | N/A |
+| 33 | [journalists in court](http://twitter.com/search?q=journalists+in+court) | N/A |
+| 34 | [गंगाराम अस्पताल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 37 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 38 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 40 | [Suprabhatam](http://twitter.com/search?q=Suprabhatam) | N/A |
+| 41 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 42 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 43 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 44 | [Jai Shri Ram](http://twitter.com/search?q=Jai+Shri+Ram) | N/A |
+| 45 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 46 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 47 | [Kaha Tak](http://twitter.com/search?q=Kaha+Tak) | N/A |
+| 48 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 49 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 50 | [चीन शांति](http://twitter.com/search?q=%e0%a4%9a%e0%a5%80%e0%a4%a8+%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
 
 
 
