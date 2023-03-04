@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-04 13:18:43 UTC`
+📆 Last Updated: `2023-03-04 14:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
 | 2 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 3 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 3 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
 | 4 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 5 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 7 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 8 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 9 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 10 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 11 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 14 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 15 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
-| 16 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 17 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
-| 18 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
-| 19 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 20 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 21 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
-| 22 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 23 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 26 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 27 | [Contrabandista](http://twitter.com/search?q=Contrabandista) | N/A |
-| 28 | [Propina](http://twitter.com/search?q=Propina) | N/A |
-| 29 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 30 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 31 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 32 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
-| 33 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
-| 34 | [Pará](http://twitter.com/search?q=Par%c3%a1) | N/A |
-| 35 | [Governo Bolsonaro](http://twitter.com/search?q=Governo+Bolsonaro) | N/A |
-| 36 | [Queiroz](http://twitter.com/search?q=Queiroz) | N/A |
-| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 38 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 39 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
-| 40 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 41 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 42 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 43 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
-| 44 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
-| 45 | [Ramon Dino](http://twitter.com/search?q=Ramon+Dino) | N/A |
-| 46 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 47 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 48 | [#LulaReconstruindoOBrasil](http://twitter.com/search?q=%23LulaReconstruindoOBrasil) | N/A |
-| 49 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 6 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 9 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 11 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 12 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 14 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 15 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
+| 16 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 17 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 18 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 19 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
+| 20 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
+| 21 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 24 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 25 | [CONTRABANDISTA](http://twitter.com/search?q=CONTRABANDISTA) | N/A |
+| 26 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 27 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 28 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 29 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
+| 30 | [Skala](http://twitter.com/search?q=Skala) | N/A |
+| 31 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 32 | [Spotify Global](http://twitter.com/search?q=Spotify+Global) | N/A |
+| 33 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 36 | [SAÚDE TIGRE RINITE](http://twitter.com/search?q=SA%c3%9aDE+TIGRE+RINITE) | N/A |
+| 37 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 38 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 39 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
+| 40 | [Cyberpunk](http://twitter.com/search?q=Cyberpunk) | N/A |
+| 41 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 42 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
+| 43 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
+| 44 | [Manchete](http://twitter.com/search?q=Manchete) | N/A |
+| 45 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 46 | [Árabes](http://twitter.com/search?q=%c3%81rabes) | N/A |
+| 47 | [Queiroz](http://twitter.com/search?q=Queiroz) | N/A |
+| 48 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
+| 49 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 50 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 
 
 

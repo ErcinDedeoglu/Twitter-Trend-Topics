@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-04 13:19:09 UTC`
+📆 Last Updated: `2023-03-04 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RajasthanYuvaAakrosh](http://twitter.com/search?q=%23RajasthanYuvaAakrosh) | N/A |
-| 2 | [#PepsiXSikander](http://twitter.com/search?q=%23PepsiXSikander) | N/A |
+| 1 | [कांग्रेस सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 2 | [#RajasthanYuvaAakrosh](http://twitter.com/search?q=%23RajasthanYuvaAakrosh) | N/A |
 | 3 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 4 | [#जाट_महाकुंभ_1_दिन_शेष](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_1_%e0%a4%a6%e0%a4%bf%e0%a4%a8_%e0%a4%b6%e0%a5%87%e0%a4%b7) | N/A |
-| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 6 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
-| 7 | [PRIYANKA 3M HEARTS ON IG](http://twitter.com/search?q=PRIYANKA+3M+HEARTS+ON+IG) | N/A |
-| 8 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
-| 9 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
-| 12 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
-| 13 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 14 | [Raval](http://twitter.com/search?q=Raval) | N/A |
-| 15 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 16 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
-| 17 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 18 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 20 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 23 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
-| 24 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
-| 25 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 26 | [Sanghis](http://twitter.com/search?q=Sanghis) | N/A |
-| 27 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
-| 28 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
-| 29 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
-| 30 | [#VaathiSIRscoresCentum](http://twitter.com/search?q=%23VaathiSIRscoresCentum) | N/A |
-| 31 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 32 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
-| 33 | [#TheNightManagerOnHotstar](http://twitter.com/search?q=%23TheNightManagerOnHotstar) | N/A |
-| 34 | [#RajeRajasthanKi](http://twitter.com/search?q=%23RajeRajasthanKi) | N/A |
-| 35 | [#AmritpalIsFraud](http://twitter.com/search?q=%23AmritpalIsFraud) | N/A |
-| 36 | [#TunishaSharma](http://twitter.com/search?q=%23TunishaSharma) | N/A |
-| 37 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
-| 38 | [#Vaathi100crClub](http://twitter.com/search?q=%23Vaathi100crClub) | N/A |
-| 39 | [#ArrestSandhyaRavishankar](http://twitter.com/search?q=%23ArrestSandhyaRavishankar) | N/A |
-| 40 | [#Ramabanam](http://twitter.com/search?q=%23Ramabanam) | N/A |
-| 41 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
-| 42 | [#EVM_हटाओ_लोकतंत्र_बचाओ](http://twitter.com/search?q=%23EVM_%e0%a4%b9%e0%a4%9f%e0%a4%be%e0%a4%93_%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 43 | [#SheezanKhan](http://twitter.com/search?q=%23SheezanKhan) | N/A |
-| 44 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
-| 45 | [#ABAIndiaConference2023](http://twitter.com/search?q=%23ABAIndiaConference2023) | N/A |
-| 46 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
-| 47 | [#MigrantWorkers](http://twitter.com/search?q=%23MigrantWorkers) | N/A |
-| 48 | [#GujaratGiants](http://twitter.com/search?q=%23GujaratGiants) | N/A |
-| 49 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
-| 50 | [#ArijitSingh](http://twitter.com/search?q=%23ArijitSingh) | N/A |
+| 4 | [#महायोद्धा_की_महागाथा](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%af%e0%a5%8b%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be_%e0%a4%95%e0%a5%80_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a4%be%e0%a4%a5%e0%a4%be) | N/A |
+| 5 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
+| 6 | [#PepsiXRanveer](http://twitter.com/search?q=%23PepsiXRanveer) | N/A |
+| 7 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 8 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 9 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
+| 10 | [Mandira Bedi](http://twitter.com/search?q=Mandira+Bedi) | N/A |
+| 11 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 12 | [Kriti Sanon](http://twitter.com/search?q=Kriti+Sanon) | N/A |
+| 13 | [PRIYANKA 3M HEARTS ON IG](http://twitter.com/search?q=PRIYANKA+3M+HEARTS+ON+IG) | N/A |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
+| 16 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 17 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
+| 18 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
+| 21 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 24 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 25 | [Indian Army](http://twitter.com/search?q=Indian+Army) | N/A |
+| 26 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 27 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 30 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 31 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
+| 32 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 33 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
+| 34 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 35 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
+| 36 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 37 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
+| 38 | [Sanghis](http://twitter.com/search?q=Sanghis) | N/A |
+| 39 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 40 | [#MindfulParenting](http://twitter.com/search?q=%23MindfulParenting) | N/A |
+| 41 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 42 | [#जाट_महाकुंभ_1_दिन_शेष](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_1_%e0%a4%a6%e0%a4%bf%e0%a4%a8_%e0%a4%b6%e0%a5%87%e0%a4%b7) | N/A |
+| 43 | [#PepsiXSikander](http://twitter.com/search?q=%23PepsiXSikander) | N/A |
+| 44 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
+| 45 | [#VaathiSIRscoresCentum](http://twitter.com/search?q=%23VaathiSIRscoresCentum) | N/A |
+| 46 | [#GGvMI](http://twitter.com/search?q=%23GGvMI) | N/A |
+| 47 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
+| 48 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
+| 49 | [#Vaathi100crClub](http://twitter.com/search?q=%23Vaathi100crClub) | N/A |
+| 50 | [#CaptainMiller](http://twitter.com/search?q=%23CaptainMiller) | N/A |
 
 
 

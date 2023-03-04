@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-04 13:18:49 UTC`
+📆 Last Updated: `2023-03-04 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
 | 2 | [#4Marzo](http://twitter.com/search?q=%234Marzo) | N/A |
-| 3 | [#luciodalla](http://twitter.com/search?q=%23luciodalla) | N/A |
-| 4 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
-| 5 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 6 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 7 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 8 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 3 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 4 | [#LucioDalla](http://twitter.com/search?q=%23LucioDalla) | N/A |
+| 5 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
+| 6 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 7 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 8 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
 | 9 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 10 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 11 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 12 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 16 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 17 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 18 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 19 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 20 | [Ciao Davide](http://twitter.com/search?q=Ciao+Davide) | N/A |
-| 21 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 22 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 23 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
-| 24 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 27 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 28 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 29 | [provedel](http://twitter.com/search?q=provedel) | N/A |
-| 30 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 31 | [Coppa del Mondo](http://twitter.com/search?q=Coppa+del+Mondo) | N/A |
-| 32 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 33 | [maria teresa](http://twitter.com/search?q=maria+teresa) | N/A |
-| 34 | [Attrezzi](http://twitter.com/search?q=Attrezzi) | N/A |
-| 35 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 36 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 37 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 38 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 39 | [grosseto](http://twitter.com/search?q=grosseto) | N/A |
-| 40 | [michelino](http://twitter.com/search?q=michelino) | N/A |
-| 41 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 42 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 43 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 44 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 45 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
-| 46 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
-| 47 | [Mazzucco](http://twitter.com/search?q=Mazzucco) | N/A |
-| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 49 | [Daria](http://twitter.com/search?q=Daria) | N/A |
-| 50 | [Canzone](http://twitter.com/search?q=Canzone) | N/A |
+| 10 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 11 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 12 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 13 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
+| 14 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 16 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 17 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 20 | [deacon](http://twitter.com/search?q=deacon) | N/A |
+| 21 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 22 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 23 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 24 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 25 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 26 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 27 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
+| 28 | [Ucciso](http://twitter.com/search?q=Ucciso) | N/A |
+| 29 | [sebastiano](http://twitter.com/search?q=sebastiano) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 32 | [Conte e Speranza](http://twitter.com/search?q=Conte+e+Speranza) | N/A |
+| 33 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
+| 34 | [Maria Teresa](http://twitter.com/search?q=Maria+Teresa) | N/A |
+| 35 | [anna e marco](http://twitter.com/search?q=anna+e+marco) | N/A |
+| 36 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 37 | [Coppa del Mondo](http://twitter.com/search?q=Coppa+del+Mondo) | N/A |
+| 38 | [Attrezzi](http://twitter.com/search?q=Attrezzi) | N/A |
+| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 40 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 42 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 43 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
+| 44 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 45 | [michelino](http://twitter.com/search?q=michelino) | N/A |
+| 46 | [Daria](http://twitter.com/search?q=Daria) | N/A |
+| 47 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 48 | [Mazzucco](http://twitter.com/search?q=Mazzucco) | N/A |
+| 49 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 50 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
 
 
 

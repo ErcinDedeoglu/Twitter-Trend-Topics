@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-04 13:19:00 UTC`
+📆 Last Updated: `2023-03-04 14:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Komiket](http://twitter.com/search?q=Komiket) | N/A |
-| 2 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
+| 1 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 2 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
 | 3 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
-| 4 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 5 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 6 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 7 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
-| 8 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 9 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
-| 10 | [#kentell](http://twitter.com/search?q=%23kentell) | N/A |
-| 11 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 12 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 13 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 14 | [ZACHAM CHO5EN BARKADA](http://twitter.com/search?q=ZACHAM+CHO5EN+BARKADA) | N/A |
+| 4 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
+| 5 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
+| 6 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 7 | [#PPOPCONTwitterSpace](http://twitter.com/search?q=%23PPOPCONTwitterSpace) | N/A |
+| 8 | [#PPOPCON2023](http://twitter.com/search?q=%23PPOPCON2023) | N/A |
+| 9 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 10 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 11 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
+| 12 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
+| 13 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
+| 14 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
 | 15 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 16 | [jurado](http://twitter.com/search?q=jurado) | N/A |
-| 17 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 18 | [congratulations ust](http://twitter.com/search?q=congratulations+ust) | N/A |
-| 19 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
-| 20 | [EYA LAURE](http://twitter.com/search?q=EYA+LAURE) | N/A |
-| 21 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 22 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 23 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 24 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 25 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 26 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 27 | [BeUs WithVIVOREE](http://twitter.com/search?q=BeUs+WithVIVOREE) | N/A |
-| 28 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
-| 29 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 30 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 31 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 32 | [KDLex](http://twitter.com/search?q=KDLex) | N/A |
+| 16 | [ZACHAM CHO5EN BARKADA](http://twitter.com/search?q=ZACHAM+CHO5EN+BARKADA) | N/A |
+| 17 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
+| 18 | [Congratulations UST](http://twitter.com/search?q=Congratulations+UST) | N/A |
+| 19 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
+| 20 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 21 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 22 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 23 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 26 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 27 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 28 | [KDLex](http://twitter.com/search?q=KDLex) | N/A |
+| 29 | [UST vs NU](http://twitter.com/search?q=UST+vs+NU) | N/A |
+| 30 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 31 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
+| 32 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
 | 33 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 34 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 35 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 36 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 37 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 38 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 39 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 40 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
-| 41 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 44 | [Toring](http://twitter.com/search?q=Toring) | N/A |
-| 45 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 46 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 47 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 48 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 49 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 34 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 35 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
+| 36 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 37 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 38 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 39 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 40 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 41 | [Maji](http://twitter.com/search?q=Maji) | N/A |
+| 42 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 43 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 44 | [Komiket](http://twitter.com/search?q=Komiket) | N/A |
+| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 46 | [belen](http://twitter.com/search?q=belen) | N/A |
+| 47 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 48 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 49 | [Hange](http://twitter.com/search?q=Hange) | N/A |
 | 50 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
 
 

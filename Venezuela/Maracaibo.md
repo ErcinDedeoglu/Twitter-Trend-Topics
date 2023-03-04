@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-04 13:18:41 UTC`
+📆 Last Updated: `2023-03-04 14:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#ChávezInfinito](http://twitter.com/search?q=%23Ch%c3%a1vezInfinito) | N/A |
 | 3 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
 | 4 | [#ENmascotas](http://twitter.com/search?q=%23ENmascotas) | N/A |
-| 5 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
-| 6 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
-| 7 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
+| 5 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 6 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
+| 7 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
 | 8 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
-| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 10 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 11 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 12 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 13 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
-| 14 | [Palmeritas](http://twitter.com/search?q=Palmeritas) | N/A |
-| 15 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 16 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [Olafo](http://twitter.com/search?q=Olafo) | N/A |
-| 21 | [Felipe Pirela](http://twitter.com/search?q=Felipe+Pirela) | N/A |
-| 22 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 23 | [richard blanco](http://twitter.com/search?q=richard+blanco) | N/A |
-| 24 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 9 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 10 | [#UNT17AñosContigo](http://twitter.com/search?q=%23UNT17A%c3%b1osContigo) | N/A |
+| 11 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 12 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
+| 13 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 14 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 15 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
+| 16 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 18 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 19 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
+| 23 | [Olafo](http://twitter.com/search?q=Olafo) | N/A |
+| 24 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
 | 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 26 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
-| 27 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
-| 28 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 29 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 30 | [Paula Bellini](http://twitter.com/search?q=Paula+Bellini) | N/A |
-| 31 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
-| 32 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 33 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
-| 34 | [Parque Cristal](http://twitter.com/search?q=Parque+Cristal) | N/A |
-| 35 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 36 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
-| 37 | [águilas](http://twitter.com/search?q=%c3%a1guilas) | N/A |
-| 38 | [Gatos](http://twitter.com/search?q=Gatos) | N/A |
-| 39 | [Givova](http://twitter.com/search?q=Givova) | N/A |
+| 26 | [richard blanco](http://twitter.com/search?q=richard+blanco) | N/A |
+| 27 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 28 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
+| 29 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 30 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
+| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 32 | [Parque Cristal](http://twitter.com/search?q=Parque+Cristal) | N/A |
+| 33 | [Paula Bellini](http://twitter.com/search?q=Paula+Bellini) | N/A |
+| 34 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 35 | [Felipe Pirela](http://twitter.com/search?q=Felipe+Pirela) | N/A |
+| 36 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
+| 37 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
+| 38 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
+| 39 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
 | 40 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
-| 41 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
-| 42 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 43 | [Consecomercio](http://twitter.com/search?q=Consecomercio) | N/A |
-| 44 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 45 | [fernando aristeguieta](http://twitter.com/search?q=fernando+aristeguieta) | N/A |
-| 46 | [Muy Buenos](http://twitter.com/search?q=Muy+Buenos) | N/A |
-| 47 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
-| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 41 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 42 | [givova](http://twitter.com/search?q=givova) | N/A |
+| 43 | [Gatos](http://twitter.com/search?q=Gatos) | N/A |
+| 44 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
+| 45 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 46 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 47 | [Fernando Aristeguieta](http://twitter.com/search?q=Fernando+Aristeguieta) | N/A |
+| 48 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
+| 49 | [Hernán Pérez](http://twitter.com/search?q=Hern%c3%a1n+P%c3%a9rez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-04 13:18:49 UTC`
+📆 Last Updated: `2023-03-04 14:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
 | 2 | [#4Marzo](http://twitter.com/search?q=%234Marzo) | N/A |
-| 3 | [#luciodalla](http://twitter.com/search?q=%23luciodalla) | N/A |
+| 3 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
 | 4 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
 | 5 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 6 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 6 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
 | 7 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
 | 8 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 9 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 10 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 11 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 15 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 16 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 17 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 18 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 19 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 20 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 21 | [Ciao Davide](http://twitter.com/search?q=Ciao+Davide) | N/A |
-| 22 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 23 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 24 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
-| 25 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 28 | [Speranza](http://twitter.com/search?q=Speranza) | N/A |
-| 29 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 30 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 31 | [provedel](http://twitter.com/search?q=provedel) | N/A |
-| 32 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 33 | [maria teresa](http://twitter.com/search?q=maria+teresa) | N/A |
-| 34 | [Attrezzi](http://twitter.com/search?q=Attrezzi) | N/A |
-| 35 | [Coppa del Mondo](http://twitter.com/search?q=Coppa+del+Mondo) | N/A |
-| 36 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 37 | [grosseto](http://twitter.com/search?q=grosseto) | N/A |
-| 38 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 39 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 40 | [michelino](http://twitter.com/search?q=michelino) | N/A |
-| 41 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 43 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 44 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
-| 45 | [Bechis](http://twitter.com/search?q=Bechis) | N/A |
-| 46 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
-| 47 | [Mazzucco](http://twitter.com/search?q=Mazzucco) | N/A |
-| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 9 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 10 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 11 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
+| 12 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 13 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 15 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Bruno Astorre](http://twitter.com/search?q=Bruno+Astorre) | N/A |
+| 18 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 19 | [deacon](http://twitter.com/search?q=deacon) | N/A |
+| 20 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 21 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
+| 22 | [Clio](http://twitter.com/search?q=Clio) | N/A |
+| 23 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
+| 24 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
+| 25 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 26 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
+| 27 | [Ucciso](http://twitter.com/search?q=Ucciso) | N/A |
+| 28 | [sebastiano](http://twitter.com/search?q=sebastiano) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 31 | [Conte e Speranza](http://twitter.com/search?q=Conte+e+Speranza) | N/A |
+| 32 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
+| 33 | [Maria Teresa](http://twitter.com/search?q=Maria+Teresa) | N/A |
+| 34 | [anna e marco](http://twitter.com/search?q=anna+e+marco) | N/A |
+| 35 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 36 | [Coppa del Mondo](http://twitter.com/search?q=Coppa+del+Mondo) | N/A |
+| 37 | [Attrezzi](http://twitter.com/search?q=Attrezzi) | N/A |
+| 38 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 39 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 40 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 41 | [Germania](http://twitter.com/search?q=Germania) | N/A |
+| 42 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
+| 43 | [michelino](http://twitter.com/search?q=michelino) | N/A |
+| 44 | [Daria](http://twitter.com/search?q=Daria) | N/A |
+| 45 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 46 | [Mazzucco](http://twitter.com/search?q=Mazzucco) | N/A |
+| 47 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 48 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
 
 
 

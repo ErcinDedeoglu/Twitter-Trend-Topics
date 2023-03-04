@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-04 13:18:45 UTC`
+📆 Last Updated: `2023-03-04 14:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
 | 2 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 3 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 4 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 3 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 4 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
 | 5 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
-| 6 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
-| 7 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 8 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 6 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 7 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 8 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
 | 9 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
-| 10 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
+| 10 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
 | 11 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
 | 12 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 13 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 14 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
+| 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 14 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
 | 15 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 16 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 16 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
 | 17 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 19 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 20 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 21 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 22 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 25 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 26 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 27 | [zajc](http://twitter.com/search?q=zajc) | N/A |
-| 28 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
-| 29 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
-| 30 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 31 | [sakiewicz](http://twitter.com/search?q=sakiewicz) | N/A |
-| 32 | [Oryx](http://twitter.com/search?q=Oryx) | N/A |
-| 33 | [Pani Poseł](http://twitter.com/search?q=Pani+Pose%c5%82) | N/A |
-| 34 | [Ewa Swoboda](http://twitter.com/search?q=Ewa+Swoboda) | N/A |
-| 35 | [Sekielskiego](http://twitter.com/search?q=Sekielskiego) | N/A |
-| 36 | [Winny](http://twitter.com/search?q=Winny) | N/A |
-| 37 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
-| 38 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
-| 39 | [Dziennikarz](http://twitter.com/search?q=Dziennikarz) | N/A |
-| 40 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 41 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
-| 44 | [Balongo](http://twitter.com/search?q=Balongo) | N/A |
-| 45 | [Kopytka](http://twitter.com/search?q=Kopytka) | N/A |
+| 18 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 19 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 20 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 21 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 22 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 23 | [adrianna sułek](http://twitter.com/search?q=adrianna+su%c5%82ek) | N/A |
+| 24 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 25 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
+| 26 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
+| 27 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 28 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 29 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
+| 30 | [Pisowskie](http://twitter.com/search?q=Pisowskie) | N/A |
+| 31 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [ewa swoboda](http://twitter.com/search?q=ewa+swoboda) | N/A |
+| 34 | [Pani Poseł](http://twitter.com/search?q=Pani+Pose%c5%82) | N/A |
+| 35 | [Winny](http://twitter.com/search?q=Winny) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 38 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
+| 39 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 40 | [Dziennikarze](http://twitter.com/search?q=Dziennikarze) | N/A |
+| 41 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
+| 42 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
+| 43 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 44 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
+| 45 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
 | 46 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
-| 47 | [Kort](http://twitter.com/search?q=Kort) | N/A |
-| 48 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
-| 49 | [pisowskie](http://twitter.com/search?q=pisowskie) | N/A |
-| 50 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 47 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
+| 48 | [Kort](http://twitter.com/search?q=Kort) | N/A |
+| 49 | [kopytka](http://twitter.com/search?q=kopytka) | N/A |
+| 50 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
 
 
 

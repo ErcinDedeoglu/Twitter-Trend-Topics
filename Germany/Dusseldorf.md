@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-04 13:18:47 UTC`
+📆 Last Updated: `2023-03-04 14:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
-| 2 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
-| 3 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
-| 4 | [#HSVFCN](http://twitter.com/search?q=%23HSVFCN) | N/A |
-| 5 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 6 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 1 | [#HSVFCN](http://twitter.com/search?q=%23HSVFCN) | N/A |
+| 2 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
+| 3 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
+| 4 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 5 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 6 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
 | 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 8 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 9 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 8 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 9 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 10 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 11 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 12 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 13 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
-| 14 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
-| 15 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 16 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 17 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 18 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
-| 19 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 21 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 22 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 23 | [verdi](http://twitter.com/search?q=verdi) | N/A |
-| 24 | [LOTL](http://twitter.com/search?q=LOTL) | N/A |
-| 25 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 26 | [PATTY GURDY](http://twitter.com/search?q=PATTY+GURDY) | N/A |
-| 27 | [Rheinmetall](http://twitter.com/search?q=Rheinmetall) | N/A |
+| 13 | [Glatzel](http://twitter.com/search?q=Glatzel) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 15 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
+| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 17 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 18 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 19 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 20 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 21 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
+| 22 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
+| 23 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 24 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 25 | [protest](http://twitter.com/search?q=protest) | N/A |
+| 26 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
+| 27 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
 | 28 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 29 | [Kuriose Bilder](http://twitter.com/search?q=Kuriose+Bilder) | N/A |
-| 30 | [Lonely Spring](http://twitter.com/search?q=Lonely+Spring) | N/A |
-| 31 | [schöneberger](http://twitter.com/search?q=sch%c3%b6neberger) | N/A |
-| 32 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 33 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 34 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 35 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 36 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 37 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
-| 38 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 41 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 42 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 43 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
-| 44 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 45 | [Tara](http://twitter.com/search?q=Tara) | Tara is a female name of Irish origin, derived from the Gaelic word “tor” meaning “hill” or “rocky hill.” It is also associated with the Hindu goddess Tara, who is a representation of divine energy and compassion. In English, Tara can mean “star” or “rocky hill.” |
-| 46 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
-| 47 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 48 | [Lordi](http://twitter.com/search?q=Lordi) | N/A |
-| 49 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
+| 29 | [Jury](http://twitter.com/search?q=Jury) | N/A |
+| 30 | [denkmal](http://twitter.com/search?q=denkmal) | N/A |
+| 31 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
+| 32 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 33 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
+| 34 | [Kuriose Bilder](http://twitter.com/search?q=Kuriose+Bilder) | N/A |
+| 35 | [LOTL](http://twitter.com/search?q=LOTL) | N/A |
+| 36 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 37 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 38 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
+| 39 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 40 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 41 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 42 | [lonely spring](http://twitter.com/search?q=lonely+spring) | N/A |
+| 43 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 44 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
+| 45 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
+| 46 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
+| 47 | [Weltuntergang](http://twitter.com/search?q=Weltuntergang) | N/A |
+| 48 | [Singspiel](http://twitter.com/search?q=Singspiel) | N/A |
+| 49 | [Tara](http://twitter.com/search?q=Tara) | Tara is a female name of Irish origin, derived from the Gaelic word “tor” meaning “hill” or “rocky hill.” It is also associated with the Hindu goddess Tara, who is a representation of divine energy and compassion. In English, Tara can mean “star” or “rocky hill.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-04 13:19:17 UTC`
+📆 Last Updated: `2023-03-04 14:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Taylor Jenkins](http://twitter.com/search?q=Taylor+Jenkins) | N/A |
-| 2 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 3 | [Dillon](http://twitter.com/search?q=Dillon) | N/A |
-| 4 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 7 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 11 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
-| 12 | [#satchat](http://twitter.com/search?q=%23satchat) | N/A |
-| 13 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 14 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 15 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 16 | [artificial intelligence nft](http://twitter.com/search?q=artificial+intelligence+nft) | N/A |
-| 17 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 18 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
-| 19 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 21 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 22 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 23 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 24 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 25 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 29 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 30 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 31 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 32 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 33 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
-| 34 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 35 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 1 | [California](http://twitter.com/search?q=California) | N/A |
+| 2 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 3 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 6 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 7 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 12 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 14 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 15 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 16 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 18 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 19 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 20 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 21 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 22 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 23 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 25 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 26 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 27 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
+| 28 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 29 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 30 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 33 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 34 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 36 | [Adam Schiff](http://twitter.com/search?q=Adam+Schiff) | N/A |
-| 37 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 38 | [Gone With The Wind](http://twitter.com/search?q=Gone+With+The+Wind) | N/A |
-| 39 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
-| 40 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 41 | [Don Jr.](http://twitter.com/search?q=Don+Jr.) | N/A |
-| 42 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 43 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 44 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 45 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 46 | [Creed](http://twitter.com/search?q=Creed) | N/A |
-| 47 | [adin hill](http://twitter.com/search?q=adin+hill) | N/A |
-| 48 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 49 | [Gavin Newsom](http://twitter.com/search?q=Gavin+Newsom) | N/A |
+| 37 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 38 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 39 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 40 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 41 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
+| 42 | [Don Jr](http://twitter.com/search?q=Don+Jr) | N/A |
+| 43 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 44 | [Royce](http://twitter.com/search?q=Royce) | Royce is a given name of English origin, derived from the Old French word "rois" meaning "king". It is also a surname, and may refer to the Rolls-Royce car brand. |
+| 45 | [Training Day](http://twitter.com/search?q=Training+Day) | N/A |
+| 46 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
+| 47 | [Gone with the Wind](http://twitter.com/search?q=Gone+with+the+Wind) | N/A |
+| 48 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
 
 
 

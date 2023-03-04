@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-04 13:18:55 UTC`
+📆 Last Updated: `2023-03-04 14:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 2 | [#NRLSharksSouths](http://twitter.com/search?q=%23NRLSharksSouths) | N/A |
-| 3 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
+| 2 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
+| 3 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
 | 4 | [#SYDvMVC](http://twitter.com/search?q=%23SYDvMVC) | N/A |
-| 5 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 5 | [#NRLSharksSouths](http://twitter.com/search?q=%23NRLSharksSouths) | N/A |
 | 6 | [#NRLCowboysRaiders](http://twitter.com/search?q=%23NRLCowboysRaiders) | N/A |
-| 7 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 8 | [#couchpeloton](http://twitter.com/search?q=%23couchpeloton) | N/A |
-| 9 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
-| 10 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 11 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
-| 12 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 13 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 14 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 15 | [cotchin](http://twitter.com/search?q=cotchin) | N/A |
-| 16 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
-| 17 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 19 | [Burgess](http://twitter.com/search?q=Burgess) | N/A |
-| 20 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 21 | [Kooyong](http://twitter.com/search?q=Kooyong) | N/A |
+| 7 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 8 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 10 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
+| 11 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 12 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 13 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
+| 14 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 15 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 16 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 18 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 19 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 20 | [kooyong](http://twitter.com/search?q=kooyong) | N/A |
+| 21 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
 | 22 | [Mutton](http://twitter.com/search?q=Mutton) | N/A |
-| 23 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
-| 24 | [legarto](http://twitter.com/search?q=legarto) | N/A |
-| 25 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
+| 23 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
+| 24 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
+| 25 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
 | 26 | [Zac Purton](http://twitter.com/search?q=Zac+Purton) | N/A |
-| 27 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
-| 28 | [Artorius](http://twitter.com/search?q=Artorius) | N/A |
-| 29 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
-| 30 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
+| 30 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 31 | [reed mahoney](http://twitter.com/search?q=reed+mahoney) | N/A |
 | 32 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
-| 33 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
-| 34 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
-| 35 | [Reed Mahoney](http://twitter.com/search?q=Reed+Mahoney) | N/A |
-| 36 | [liam jones](http://twitter.com/search?q=liam+jones) | N/A |
-| 37 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 38 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 39 | [Tahs](http://twitter.com/search?q=Tahs) | N/A |
-| 40 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 41 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
-| 42 | [Passive Aggressive](http://twitter.com/search?q=Passive+Aggressive) | N/A |
-| 43 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
-| 44 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 45 | [luai](http://twitter.com/search?q=luai) | N/A |
-| 46 | [Cronulla](http://twitter.com/search?q=Cronulla) | N/A |
-| 47 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 48 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
+| 33 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
+| 34 | [Ricky Stuart](http://twitter.com/search?q=Ricky+Stuart) | N/A |
+| 35 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
+| 36 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 37 | [tahs](http://twitter.com/search?q=tahs) | N/A |
+| 38 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 39 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
+| 40 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 41 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
+| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 43 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 44 | [Luai](http://twitter.com/search?q=Luai) | N/A |
+| 45 | [passive aggressive](http://twitter.com/search?q=passive+aggressive) | N/A |
+| 46 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
+| 47 | [Artorius](http://twitter.com/search?q=Artorius) | N/A |
+| 48 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
 | 49 | [soni luke](http://twitter.com/search?q=soni+luke) | N/A |
-| 50 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 50 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
 
 
 

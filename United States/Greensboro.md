@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-04 13:19:15 UTC`
+📆 Last Updated: `2023-03-04 14:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 1 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 2 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 3 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 5 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 6 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 7 | [#satchat](http://twitter.com/search?q=%23satchat) | N/A |
-| 8 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 9 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 10 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 11 | [artificial intelligence nft](http://twitter.com/search?q=artificial+intelligence+nft) | N/A |
-| 12 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 13 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
-| 14 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 15 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 3 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 4 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 6 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 12 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 13 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 14 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 15 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 16 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 17 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
 | 18 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 19 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 20 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 24 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 25 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 26 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 27 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 28 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
-| 29 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 30 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
-| 31 | [Adam Schiff](http://twitter.com/search?q=Adam+Schiff) | N/A |
-| 32 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 33 | [Gone With The Wind](http://twitter.com/search?q=Gone+With+The+Wind) | N/A |
-| 34 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
-| 35 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 36 | [Don Jr.](http://twitter.com/search?q=Don+Jr.) | N/A |
-| 37 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 38 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 39 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 40 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 41 | [Creed](http://twitter.com/search?q=Creed) | N/A |
-| 42 | [adin hill](http://twitter.com/search?q=adin+hill) | N/A |
-| 43 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 44 | [Gavin Newsom](http://twitter.com/search?q=Gavin+Newsom) | N/A |
-| 45 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 46 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 47 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 48 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 49 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 19 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 21 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 22 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 23 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
+| 24 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 25 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 28 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 29 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 31 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
+| 32 | [Adam Schiff](http://twitter.com/search?q=Adam+Schiff) | N/A |
+| 33 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 34 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 35 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 36 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
+| 37 | [Don Jr](http://twitter.com/search?q=Don+Jr) | N/A |
+| 38 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 39 | [Training Day](http://twitter.com/search?q=Training+Day) | N/A |
+| 40 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
+| 41 | [Royce](http://twitter.com/search?q=Royce) | Royce is a given name of English origin, derived from the Old French word "rois" meaning "king". It is also a surname, and may refer to the Rolls-Royce car brand. |
+| 42 | [Gone with the Wind](http://twitter.com/search?q=Gone+with+the+Wind) | N/A |
+| 43 | [Dahm](http://twitter.com/search?q=Dahm) | N/A |
+| 44 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 45 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 46 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 47 | [Tom Sandoval](http://twitter.com/search?q=Tom+Sandoval) | N/A |
+| 48 | [Creed](http://twitter.com/search?q=Creed) | N/A |
+| 49 | [Gavin Newsom](http://twitter.com/search?q=Gavin+Newsom) | N/A |
 
 
 
