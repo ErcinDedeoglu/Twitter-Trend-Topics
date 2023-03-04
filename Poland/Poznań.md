@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-04 08:16:37 UTC`
+📆 Last Updated: `2023-03-04 09:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
 | 2 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
-| 3 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
-| 4 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 5 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 6 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 7 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 3 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 4 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 5 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
+| 6 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 7 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
 | 8 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 9 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 10 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 11 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 12 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
-| 13 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
+| 9 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
+| 10 | [#STMPIA](http://twitter.com/search?q=%23STMPIA) | N/A |
+| 11 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 12 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 13 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
 | 14 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
 | 15 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 16 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
-| 17 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 16 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 17 | [ryoyu](http://twitter.com/search?q=ryoyu) | N/A |
 | 18 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 19 | [ryoyu](http://twitter.com/search?q=ryoyu) | N/A |
-| 20 | [Awans](http://twitter.com/search?q=Awans) | N/A |
-| 21 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 22 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 23 | [Kownacki](http://twitter.com/search?q=Kownacki) | N/A |
-| 24 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 25 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 19 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 20 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 21 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 22 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 23 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 24 | [Awans](http://twitter.com/search?q=Awans) | N/A |
+| 25 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
 | 26 | [Panie Premierze](http://twitter.com/search?q=Panie+Premierze) | N/A |
-| 27 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
-| 28 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 29 | [Oryx](http://twitter.com/search?q=Oryx) | N/A |
+| 27 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 28 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 29 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
 | 30 | [Ewa Swoboda](http://twitter.com/search?q=Ewa+Swoboda) | N/A |
-| 31 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 32 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 33 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 34 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
-| 35 | [Kopytka](http://twitter.com/search?q=Kopytka) | N/A |
-| 36 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 37 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
-| 38 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
-| 39 | [Kuciak](http://twitter.com/search?q=Kuciak) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [thiam](http://twitter.com/search?q=thiam) | N/A |
-| 42 | [Balongo](http://twitter.com/search?q=Balongo) | N/A |
-| 43 | [Kaczyńskiego](http://twitter.com/search?q=Kaczy%c5%84skiego) | N/A |
-| 44 | [Skończ](http://twitter.com/search?q=Sko%c5%84cz) | N/A |
-| 45 | [Kort](http://twitter.com/search?q=Kort) | N/A |
-| 46 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 47 | [Puszcza](http://twitter.com/search?q=Puszcza) | N/A |
-| 48 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 49 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 50 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 32 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 33 | [Trzymam](http://twitter.com/search?q=Trzymam) | N/A |
+| 34 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
+| 35 | [Ojca](http://twitter.com/search?q=Ojca) | N/A |
+| 36 | [Cześć Michał](http://twitter.com/search?q=Cze%c5%9b%c4%87+Micha%c5%82) | N/A |
+| 37 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
+| 38 | [Pisowski](http://twitter.com/search?q=Pisowski) | N/A |
+| 39 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 40 | [Oryx](http://twitter.com/search?q=Oryx) | N/A |
+| 41 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
+| 42 | [Kopytka](http://twitter.com/search?q=Kopytka) | N/A |
+| 43 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
+| 44 | [Kuciak](http://twitter.com/search?q=Kuciak) | N/A |
+| 45 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [thiam](http://twitter.com/search?q=thiam) | N/A |
+| 48 | [Spierdalaj](http://twitter.com/search?q=Spierdalaj) | N/A |
+| 49 | [Balongo](http://twitter.com/search?q=Balongo) | N/A |
+| 50 | [Kort](http://twitter.com/search?q=Kort) | N/A |
 
 
 

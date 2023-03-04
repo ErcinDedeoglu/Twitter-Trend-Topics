@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-04 08:16:32 UTC`
+📆 Last Updated: `2023-03-04 09:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,37 +33,37 @@ This is top 50 for [Colombia](</Colombia>)
 | 16 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
 | 17 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
 | 18 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 19 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 20 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 21 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
-| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 23 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
-| 24 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 25 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 19 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
+| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 21 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 22 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 23 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 24 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 25 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
 | 26 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 27 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
-| 28 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 29 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
-| 30 | [Hollman Morris](http://twitter.com/search?q=Hollman+Morris) | N/A |
-| 31 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
-| 32 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
+| 27 | [los pozos](http://twitter.com/search?q=los+pozos) | N/A |
+| 28 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
+| 29 | [Hollman Morris](http://twitter.com/search?q=Hollman+Morris) | N/A |
+| 30 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
+| 31 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 33 | [Guardia Campesina](http://twitter.com/search?q=Guardia+Campesina) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
 | 35 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 36 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 37 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
-| 38 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 36 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 37 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
+| 38 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
 | 39 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 40 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
-| 41 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
-| 42 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 43 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 44 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
-| 45 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
-| 46 | [Honesto](http://twitter.com/search?q=Honesto) | N/A |
-| 47 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 48 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 49 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 40 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
+| 41 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 42 | [Fuerza Pública](http://twitter.com/search?q=Fuerza+P%c3%bablica) | N/A |
+| 43 | [Emerald Energy](http://twitter.com/search?q=Emerald+Energy) | N/A |
+| 44 | [Honesto](http://twitter.com/search?q=Honesto) | N/A |
+| 45 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 46 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
+| 47 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 48 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 49 | [REPUDIO](http://twitter.com/search?q=REPUDIO) | N/A |
 
 
 

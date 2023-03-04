@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-04 08:16:27 UTC`
+📆 Last Updated: `2023-03-04 09:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 2 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 6 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 7 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 8 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
+| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 5 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 9 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 10 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 11 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 11 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
 | 12 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
 | 13 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
 | 14 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 15 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 16 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 17 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 18 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 19 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 20 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 24 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 25 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 26 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 27 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 28 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 29 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 30 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
-| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 32 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 33 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 35 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 36 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 15 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 17 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 18 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 19 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [shaq and tanya](http://twitter.com/search?q=shaq+and+tanya) | N/A |
+| 25 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 26 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 27 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 29 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
+| 30 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 31 | [Paul Bristow](http://twitter.com/search?q=Paul+Bristow) | N/A |
+| 32 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 33 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 34 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 36 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
 | 37 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 38 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 39 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 40 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 41 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 42 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 43 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 44 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 39 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 40 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 41 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 42 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 43 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 44 | [The Dreaming](http://twitter.com/search?q=The+Dreaming) | N/A |
 | 45 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 46 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 47 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 46 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 47 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
 | 48 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 49 | [Morning Julie](http://twitter.com/search?q=Morning+Julie) | N/A |
-| 50 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 49 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 50 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
 
 
 

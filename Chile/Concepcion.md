@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-04 08:16:32 UTC`
+📆 Last Updated: `2023-03-04 09:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Chile](</Chile>)
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 11 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
 | 12 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 13 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 14 | [católica](http://twitter.com/search?q=cat%c3%b3lica) | N/A |
+| 13 | [tobar](http://twitter.com/search?q=tobar) | N/A |
+| 14 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
 | 15 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
 | 16 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
 | 17 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 18 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
-| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 20 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 21 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 22 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 23 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 24 | [Leandro Fernández](http://twitter.com/search?q=Leandro+Fern%c3%a1ndez) | N/A |
-| 25 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 26 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 18 | [kagelmacher](http://twitter.com/search?q=kagelmacher) | N/A |
+| 19 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 20 | [burdisso](http://twitter.com/search?q=burdisso) | N/A |
+| 21 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 22 | [leandro fernández](http://twitter.com/search?q=leandro+fern%c3%a1ndez) | N/A |
+| 23 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 24 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 25 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
+| 26 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 27 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 28 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
-| 29 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
-| 30 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 31 | [Generala](http://twitter.com/search?q=Generala) | N/A |
-| 32 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 33 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 34 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 35 | [rovira](http://twitter.com/search?q=rovira) | N/A |
-| 36 | [general soza](http://twitter.com/search?q=general+soza) | N/A |
-| 37 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 28 | [Chillán](http://twitter.com/search?q=Chill%c3%a1n) | N/A |
+| 29 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 30 | [generala](http://twitter.com/search?q=generala) | N/A |
+| 31 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 32 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 33 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 34 | [rovira](http://twitter.com/search?q=rovira) | N/A |
+| 35 | [general soza](http://twitter.com/search?q=general+soza) | N/A |
+| 36 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 37 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
 | 38 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
-| 39 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 40 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
-| 41 | [Bocado](http://twitter.com/search?q=Bocado) | N/A |
-| 42 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 43 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 44 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 45 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 46 | [bellolio](http://twitter.com/search?q=bellolio) | N/A |
-| 47 | [Catuto](http://twitter.com/search?q=Catuto) | N/A |
-| 48 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 49 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
-| 50 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 39 | [Marraqueta](http://twitter.com/search?q=Marraqueta) | N/A |
+| 40 | [Bocado](http://twitter.com/search?q=Bocado) | N/A |
+| 41 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 42 | [anfp](http://twitter.com/search?q=anfp) | N/A |
+| 43 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 44 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 45 | [bellolio](http://twitter.com/search?q=bellolio) | N/A |
+| 46 | [catuto](http://twitter.com/search?q=catuto) | N/A |
+| 47 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 48 | [Purranque](http://twitter.com/search?q=Purranque) | N/A |
+| 49 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 50 | [poblete](http://twitter.com/search?q=poblete) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 08:16:45 UTC`
+📆 Last Updated: `2023-03-04 09:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 2 | [KIM SEOKJIN](http://twitter.com/search?q=KIM+SEOKJIN) | KIM SEOKJIN is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. In English, it means "golden star of hope". |
-| 3 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 4 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 5 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 6 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
-| 7 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 8 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 9 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 10 | [Pohon](http://twitter.com/search?q=Pohon) | N/A |
-| 11 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 12 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 14 | [COD VENUE](http://twitter.com/search?q=COD+VENUE) | N/A |
-| 15 | [Jakarta Utara](http://twitter.com/search?q=Jakarta+Utara) | N/A |
-| 16 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 17 | [Bule](http://twitter.com/search?q=Bule) | N/A |
-| 18 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 19 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 20 | [#ROAR3rdWin](http://twitter.com/search?q=%23ROAR3rdWin) | N/A |
-| 21 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 22 | [#THEBOYZ20thWin](http://twitter.com/search?q=%23THEBOYZ20thWin) | N/A |
-| 23 | [#TDS2inJAKARTA_DAY1](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY1) | N/A |
-| 24 | [#KitaDukungJakartaBIN](http://twitter.com/search?q=%23KitaDukungJakartaBIN) | N/A |
-| 25 | [#FIFAMobileIndonesia](http://twitter.com/search?q=%23FIFAMobileIndonesia) | N/A |
-| 26 | [#OhmNanonReadyforHK](http://twitter.com/search?q=%23OhmNanonReadyforHK) | N/A |
-| 27 | [#EbonixLittleTwo](http://twitter.com/search?q=%23EbonixLittleTwo) | N/A |
-| 28 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 29 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
-| 30 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
-| 31 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 32 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 33 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
-| 34 | [#AttackonTitanFinalSeasonpart3](http://twitter.com/search?q=%23AttackonTitanFinalSeasonpart3) | N/A |
-| 35 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
-| 36 | [#BLACKPINK_BORNPINK](http://twitter.com/search?q=%23BLACKPINK_BORNPINK) | N/A |
-| 37 | [#TheDreamShow2InJKT](http://twitter.com/search?q=%23TheDreamShow2InJKT) | N/A |
-| 38 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 39 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 40 | [#IDNWorldSBK](http://twitter.com/search?q=%23IDNWorldSBK) | N/A |
-| 41 | [#NCTDREAM_THEDREAMSHOW2_in_JKT](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_JKT) | N/A |
-| 42 | [#PLTGSamberaMangkrak](http://twitter.com/search?q=%23PLTGSamberaMangkrak) | N/A |
-| 43 | [#PrayForPlumpang](http://twitter.com/search?q=%23PrayForPlumpang) | N/A |
+| 1 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 2 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 3 | [Plumpang](http://twitter.com/search?q=Plumpang) | N/A |
+| 4 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
+| 5 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 6 | [indomie yatai](http://twitter.com/search?q=indomie+yatai) | N/A |
+| 7 | [Kim Seokjin](http://twitter.com/search?q=Kim+Seokjin) | Kim Seokjin is the stage name of South Korean singer, songwriter, and actor Kim Seok-jin. His English name is Jin. He is a member of the South Korean boy band BTS. The meaning of his name in English is "golden truth". |
+| 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 9 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 10 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [like it like it release](http://twitter.com/search?q=like+it+like+it+release) | N/A |
+| 14 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 15 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 16 | [PN Jakpus](http://twitter.com/search?q=PN+Jakpus) | N/A |
+| 17 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 18 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 19 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 21 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 22 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 23 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 25 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 26 | [ON THE STREET WITH J-HOPE](http://twitter.com/search?q=ON+THE+STREET+WITH+J-HOPE) | N/A |
+| 27 | [Jeep](http://twitter.com/search?q=Jeep) | N/A |
+| 28 | [Happy 4th](http://twitter.com/search?q=Happy+4th) | N/A |
+| 29 | [ON THE STREET OUT TODAY](http://twitter.com/search?q=ON+THE+STREET+OUT+TODAY) | N/A |
+| 30 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 31 | [Combat Experience](http://twitter.com/search?q=Combat+Experience) | N/A |
+| 32 | [Superindo](http://twitter.com/search?q=Superindo) | N/A |
+| 33 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 34 | [STREAM LIKE IT LIKE IT](http://twitter.com/search?q=STREAM+LIKE+IT+LIKE+IT) | N/A |
+| 35 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 36 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 37 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 38 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 39 | [Mau Angel](http://twitter.com/search?q=Mau+Angel) | N/A |
+| 40 | [Partai Prima](http://twitter.com/search?q=Partai+Prima) | N/A |
+| 41 | [mari senantiasa istiqomah](http://twitter.com/search?q=mari+senantiasa+istiqomah) | N/A |
+| 42 | [Nobita](http://twitter.com/search?q=Nobita) | N/A |
+| 43 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 44 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 45 | [Shizuka](http://twitter.com/search?q=Shizuka) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-03-04 08:16:29 UTC`
+📆 Last Updated: `2023-03-04 09:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 2 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 3 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 4 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 5 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 6 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 7 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
-| 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 1 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
+| 2 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
+| 3 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 4 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 5 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 6 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 7 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 8 | [Hange](http://twitter.com/search?q=Hange) | N/A |
 | 9 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 10 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 11 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 12 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 13 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 14 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 15 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 16 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 17 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 18 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 19 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 20 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 21 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 22 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 23 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 10 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 11 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 14 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
+| 15 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 16 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 17 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 18 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 19 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 20 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 21 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 22 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 23 | [Baca](http://twitter.com/search?q=Baca) | N/A |
 | 24 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 25 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 26 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 27 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
-| 28 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 29 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 30 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 32 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 33 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 34 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 35 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 36 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 37 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 38 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 39 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 40 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 41 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 42 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 43 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
-| 44 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 25 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 26 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 29 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
+| 30 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 31 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 32 | [Holger Rune](http://twitter.com/search?q=Holger+Rune) | N/A |
+| 33 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 34 | [Banco de México](http://twitter.com/search?q=Banco+de+M%c3%a9xico) | N/A |
+| 35 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 36 | [Pajarito](http://twitter.com/search?q=Pajarito) | N/A |
+| 37 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 38 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 39 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 40 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 41 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 42 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 43 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
+| 44 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
+| 45 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 46 | [CANTA Y NO LLORES](http://twitter.com/search?q=CANTA+Y+NO+LLORES) | N/A |
+| 47 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 48 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
 
 
 
