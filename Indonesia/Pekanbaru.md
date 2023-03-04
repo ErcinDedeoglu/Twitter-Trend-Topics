@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 16:16:49 UTC`
+📆 Last Updated: `2023-03-04 17:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 2 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 5 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 6 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 7 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 9 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Hokky Caraka](http://twitter.com/search?q=Hokky+Caraka) | N/A |
-| 12 | [malming](http://twitter.com/search?q=malming) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 14 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 15 | [BETTER THAN GOLD](http://twitter.com/search?q=BETTER+THAN+GOLD) | N/A |
-| 16 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 18 | [SATURDAY DRIP](http://twitter.com/search?q=SATURDAY+DRIP) | N/A |
-| 19 | [Opini](http://twitter.com/search?q=Opini) | N/A |
-| 20 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 21 | [Daffa](http://twitter.com/search?q=Daffa) | N/A |
-| 22 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 27 | [Realistis](http://twitter.com/search?q=Realistis) | N/A |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 30 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [Fang](http://twitter.com/search?q=Fang) | N/A |
-| 33 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 34 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 35 | [gunung](http://twitter.com/search?q=gunung) | N/A |
-| 36 | [Raya](http://twitter.com/search?q=Raya) | N/A |
-| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 38 | [Le Sserafim](http://twitter.com/search?q=Le+Sserafim) | N/A |
-| 39 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 40 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 41 | [Pantai](http://twitter.com/search?q=Pantai) | N/A |
-| 42 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 43 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 44 | [GANTENG BANGET](http://twitter.com/search?q=GANTENG+BANGET) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 6 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 7 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 8 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 9 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
+| 10 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 11 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 14 | [HAPPY BIRTHDAY RENJUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+RENJUN) | N/A |
+| 15 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 16 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 17 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 18 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
+| 21 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 24 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [BETTER THAN GOLD](http://twitter.com/search?q=BETTER+THAN+GOLD) | N/A |
+| 27 | [Daffa](http://twitter.com/search?q=Daffa) | N/A |
+| 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 29 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 31 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 32 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 33 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 34 | [Opini](http://twitter.com/search?q=Opini) | N/A |
+| 35 | [SATURDAY DRIP](http://twitter.com/search?q=SATURDAY+DRIP) | N/A |
+| 36 | [Pantai](http://twitter.com/search?q=Pantai) | N/A |
+| 37 | [Realistis](http://twitter.com/search?q=Realistis) | N/A |
+| 38 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 39 | [Gunung](http://twitter.com/search?q=Gunung) | N/A |
+| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 41 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 42 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
+| 43 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 44 | [Eren](http://twitter.com/search?q=Eren) | N/A |
 
 
 

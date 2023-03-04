@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-04 16:16:42 UTC`
+📆 Last Updated: `2023-03-04 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCGBASSE](http://twitter.com/search?q=%23FCGBASSE) | N/A |
-| 2 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 3 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 5 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
-| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 7 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 8 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 9 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 10 | [Ignatenko](http://twitter.com/search?q=Ignatenko) | N/A |
-| 11 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 13 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 14 | [Madouas](http://twitter.com/search?q=Madouas) | N/A |
-| 15 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
-| 16 | [Valter](http://twitter.com/search?q=Valter) | N/A |
-| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Romain Grégoire](http://twitter.com/search?q=Romain+Gr%c3%a9goire) | N/A |
-| 21 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 3 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 5 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
+| 6 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 9 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 10 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 11 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 12 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 13 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 14 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 15 | [Ignatenko](http://twitter.com/search?q=Ignatenko) | N/A |
+| 16 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 17 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 20 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
+| 21 | [Valter](http://twitter.com/search?q=Valter) | N/A |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 25 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 26 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
-| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 29 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 30 | [Benoot](http://twitter.com/search?q=Benoot) | N/A |
-| 31 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 32 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 33 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 34 | [Allez Lens](http://twitter.com/search?q=Allez+Lens) | N/A |
-| 35 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 36 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 38 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 39 | [Bakwa](http://twitter.com/search?q=Bakwa) | N/A |
-| 40 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 42 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 43 | [Leslie](http://twitter.com/search?q=Leslie) | N/A |
-| 44 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
-| 45 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 46 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 24 | [Madouas](http://twitter.com/search?q=Madouas) | N/A |
+| 25 | [romain grégoire](http://twitter.com/search?q=romain+gr%c3%a9goire) | N/A |
+| 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 27 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 30 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 31 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 32 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 33 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 34 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 35 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 38 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 39 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 40 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 41 | [Bollaert](http://twitter.com/search?q=Bollaert) | N/A |
+| 42 | [Benoot](http://twitter.com/search?q=Benoot) | N/A |
+| 43 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 44 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 45 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 46 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-04 16:16:34 UTC`
+📆 Last Updated: `2023-03-04 17:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 2 | [#SalarioRosaEsUnaRealidad](http://twitter.com/search?q=%23SalarioRosaEsUnaRealidad) | N/A |
-| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 8 | [#Convoy7Años](http://twitter.com/search?q=%23Convoy7A%c3%b1os) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [HAPPY MJ DAY](http://twitter.com/search?q=HAPPY+MJ+DAY) | N/A |
-| 11 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 12 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 17 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 18 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 20 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 23 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 24 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 26 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 29 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 31 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 33 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 36 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
-| 37 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 38 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 39 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 40 | [Excelente Sábado](http://twitter.com/search?q=Excelente+S%c3%a1bado) | N/A |
-| 41 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 42 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 43 | [Vries](http://twitter.com/search?q=Vries) | N/A |
-| 44 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 45 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
-| 46 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 47 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 48 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 49 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 50 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 1 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 2 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 7 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 8 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 11 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 14 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [HAPPY MJ DAY](http://twitter.com/search?q=HAPPY+MJ+DAY) | N/A |
+| 19 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 21 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 22 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 23 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
+| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 25 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
+| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 27 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 28 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 29 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
+| 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 31 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
+| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 33 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 34 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 35 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 36 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 37 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 38 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 39 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 40 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 41 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 42 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 43 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
+| 44 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
+| 45 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 46 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
+| 47 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
+| 48 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 49 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-03-04 16:16:30 UTC`
+📆 Last Updated: `2023-03-04 17:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [longstaff](http://twitter.com/search?q=longstaff) | N/A |
-| 2 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 3 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 4 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
-| 5 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 6 | [The Den](http://twitter.com/search?q=The+Den) | N/A |
-| 7 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 8 | [Doyle](http://twitter.com/search?q=Doyle) | N/A |
-| 9 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 10 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 11 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 14 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 15 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 20 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 21 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 24 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Ben Johnson](http://twitter.com/search?q=Ben+Johnson) | Ben Johnson is a phrase used to describe someone who is dishonest or unethical in their dealings. It is derived from the name of the disgraced Canadian sprinter Ben Johnson, who was stripped of his gold medal at the 1988 Olympics after testing positive for steroids. |
-| 27 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 28 | [team news](http://twitter.com/search?q=team+news) | N/A |
-| 29 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 30 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 31 | [Tom Pidcock](http://twitter.com/search?q=Tom+Pidcock) | N/A |
-| 32 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 33 | [Solanke](http://twitter.com/search?q=Solanke) | N/A |
-| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 35 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
-| 36 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 37 | [Lascelles](http://twitter.com/search?q=Lascelles) | Lascelles is a surname of French origin. It is derived from the Old French phrase "de la celles," which means "of the cells." The name is thought to have been given to someone who lived near a monastery or church, as it was common for such places to have cells for monks and priests. |
-| 38 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 39 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
-| 40 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 41 | [Gibson](http://twitter.com/search?q=Gibson) | N/A |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [Empire Steel](http://twitter.com/search?q=Empire+Steel) | N/A |
-| 44 | [Billing](http://twitter.com/search?q=Billing) | N/A |
-| 45 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 46 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 47 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
-| 48 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 49 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 1 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 2 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 3 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 4 | [Forster](http://twitter.com/search?q=Forster) | N/A |
+| 5 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 6 | [Summerville](http://twitter.com/search?q=Summerville) | N/A |
+| 7 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 8 | [Lascelles](http://twitter.com/search?q=Lascelles) | Lascelles is a surname of French origin. It is derived from the Old French phrase "de la celles," which means "of the cells." The name is thought to have been given to someone who lived near a monastery or church, as it was common for such places to have cells for monks and priests. |
+| 9 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 10 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
+| 11 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 12 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 13 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 14 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 15 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 16 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 17 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 20 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 21 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 22 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 23 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 24 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 26 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 27 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 28 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
+| 29 | [Ben Johnson](http://twitter.com/search?q=Ben+Johnson) | Ben Johnson is a phrase used to describe someone who is dishonest or unethical in their dealings. It is derived from the name of the disgraced Canadian sprinter Ben Johnson, who was stripped of his gold medal at the 1988 Olympics after testing positive for steroids. |
+| 30 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 31 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 32 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 33 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 35 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 36 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 37 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
+| 38 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 39 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 40 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 41 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 42 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 43 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
+| 44 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 45 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 47 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 48 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 49 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 50 | [Benny Blanco](http://twitter.com/search?q=Benny+Blanco) | N/A |
 
 
 

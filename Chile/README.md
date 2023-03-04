@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-04 16:17:19 UTC`
+📆 Last Updated: `2023-03-04 17:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
-| 2 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 3 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 6 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 7 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
-| 8 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
-| 9 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 10 | [On Board](http://twitter.com/search?q=On+Board) | N/A |
-| 11 | [saavedra](http://twitter.com/search?q=saavedra) | N/A |
-| 12 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 13 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 16 | [Arreglen](http://twitter.com/search?q=Arreglen) | N/A |
-| 17 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 20 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 23 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 24 | [Carre](http://twitter.com/search?q=Carre) | N/A |
-| 25 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 26 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
-| 27 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 28 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
-| 29 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 32 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
-| 33 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 34 | [rovira](http://twitter.com/search?q=rovira) | N/A |
-| 35 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 36 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 37 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
-| 38 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
-| 39 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
-| 40 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 41 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 42 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 43 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 44 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 45 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
-| 46 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 47 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 48 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 49 | [4-alitas](http://twitter.com/search?q=4-alitas) | N/A |
-| 50 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
+| 3 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
+| 4 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 5 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 6 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 7 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 8 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 9 | [#YoQuieroFloresYChocolates](http://twitter.com/search?q=%23YoQuieroFloresYChocolates) | N/A |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
+| 12 | [On Board](http://twitter.com/search?q=On+Board) | N/A |
+| 13 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 14 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 17 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 19 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
+| 20 | [Arreglen](http://twitter.com/search?q=Arreglen) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 24 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 25 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 26 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 30 | [Tagle](http://twitter.com/search?q=Tagle) | N/A |
+| 31 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 32 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
+| 33 | [pinares](http://twitter.com/search?q=pinares) | N/A |
+| 34 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 35 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 36 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 39 | [Augusto Pinochet Ugarte](http://twitter.com/search?q=Augusto+Pinochet+Ugarte) | N/A |
+| 40 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
+| 41 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
+| 42 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 43 | [kagelmacher](http://twitter.com/search?q=kagelmacher) | N/A |
+| 44 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 45 | [Leo Caprile](http://twitter.com/search?q=Leo+Caprile) | N/A |
+| 46 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 47 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 48 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 49 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 50 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-04 16:16:39 UTC`
+📆 Last Updated: `2023-03-04 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 3 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 4 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 2 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 3 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 5 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 6 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 7 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 8 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 9 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 10 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 15 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 16 | [Fallen](http://twitter.com/search?q=Fallen) | N/A |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 19 | [Star Plus](http://twitter.com/search?q=Star+Plus) | N/A |
-| 20 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 21 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
-| 24 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 25 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 26 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
-| 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 28 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 29 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 32 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 34 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 35 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 36 | [Alberto Valentim](http://twitter.com/search?q=Alberto+Valentim) | N/A |
-| 37 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 38 | [Albon](http://twitter.com/search?q=Albon) | N/A |
-| 39 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 40 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 41 | [Sargeant](http://twitter.com/search?q=Sargeant) | N/A |
-| 42 | [Fred e Amanda](http://twitter.com/search?q=Fred+e+Amanda) | N/A |
-| 43 | [gattaz](http://twitter.com/search?q=gattaz) | N/A |
-| 44 | [Magnussen](http://twitter.com/search?q=Magnussen) | N/A |
-| 45 | [Mi Reflejo](http://twitter.com/search?q=Mi+Reflejo) | N/A |
-| 46 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 47 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 48 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 6 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 7 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 8 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 9 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 10 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 11 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 13 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 15 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 16 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 20 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 21 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
+| 22 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 23 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 25 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
+| 26 | [VIRADA DE CAMPEÃO](http://twitter.com/search?q=VIRADA+DE+CAMPE%c3%83O) | N/A |
+| 27 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 28 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [Shivani](http://twitter.com/search?q=Shivani) | N/A |
+| 31 | [Fallen](http://twitter.com/search?q=Fallen) | N/A |
+| 32 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 33 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 36 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 37 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 38 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 39 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
+| 40 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 41 | [Baianinho](http://twitter.com/search?q=Baianinho) | N/A |
+| 42 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 43 | [Now United](http://twitter.com/search?q=Now+United) | N/A |
+| 44 | [Hulkenberg](http://twitter.com/search?q=Hulkenberg) | N/A |
+| 45 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 46 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 47 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 49 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
 
 
 

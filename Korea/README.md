@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Korea
 
-📆 Last Updated: `2023-03-04 16:17:22 UTC`
+📆 Last Updated: `2023-03-04 17:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Korea
 | 3 | [#고마워해찬너무좋은사람이야](http://twitter.com/search?q=%23%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%b4%ec%b0%ac%eb%84%88%eb%ac%b4%ec%a2%8b%ec%9d%80%ec%82%ac%eb%9e%8c%ec%9d%b4%ec%95%bc) | N/A |
 | 4 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
 | 5 | [#뽀고니데이_밤새_가보자곤](http://twitter.com/search?q=%23%eb%bd%80%ea%b3%a0%eb%8b%88%eb%8d%b0%ec%9d%b4_%eb%b0%a4%ec%83%88_%ea%b0%80%eb%b3%b4%ec%9e%90%ea%b3%a4) | N/A |
-| 6 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
-| 7 | [꼬들 428](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+428) | N/A |
-| 8 | [킬링파트](http://twitter.com/search?q=%ed%82%ac%eb%a7%81%ed%8c%8c%ed%8a%b8) | N/A |
-| 9 | [스포티비](http://twitter.com/search?q=%ec%8a%a4%ed%8f%ac%ed%8b%b0%eb%b9%84) | N/A |
-| 10 | [자카르타](http://twitter.com/search?q=%ec%9e%90%ec%b9%b4%eb%a5%b4%ed%83%80) | N/A |
-| 11 | [버터플라이](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%ed%94%8c%eb%9d%bc%ec%9d%b4) | N/A |
-| 12 | [필스페셜](http://twitter.com/search?q=%ed%95%84%ec%8a%a4%ed%8e%98%ec%85%9c) | N/A |
-| 13 | [당신의 최애cp](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%b5%9c%ec%95%a0cp) | N/A |
-| 14 | [페리시치](http://twitter.com/search?q=%ed%8e%98%eb%a6%ac%ec%8b%9c%ec%b9%98) | N/A |
-| 15 | [재우영주](http://twitter.com/search?q=%ec%9e%ac%ec%9a%b0%ec%98%81%ec%a3%bc) | N/A |
-| 16 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
-| 17 | [아킬레스](http://twitter.com/search?q=%ec%95%84%ed%82%ac%eb%a0%88%ec%8a%a4) | N/A |
-| 18 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
-| 19 | [방청 후기](http://twitter.com/search?q=%eb%b0%a9%ec%b2%ad+%ed%9b%84%ea%b8%b0) | N/A |
-| 20 | [해이엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4%ec%97%84%eb%a7%88) | N/A |
-| 21 | [로또 2등](http://twitter.com/search?q=%eb%a1%9c%eb%98%90+2%eb%93%b1) | N/A |
-| 22 | [치열행선](http://twitter.com/search?q=%ec%b9%98%ec%97%b4%ed%96%89%ec%84%a0) | N/A |
-| 23 | [모스코모스코](http://twitter.com/search?q=%eb%aa%a8%ec%8a%a4%ec%bd%94%eb%aa%a8%ec%8a%a4%ec%bd%94) | N/A |
-| 24 | [러브킬라](http://twitter.com/search?q=%eb%9f%ac%eb%b8%8c%ed%82%ac%eb%9d%bc) | N/A |
+| 6 | [꼬들 428](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+428) | N/A |
+| 7 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
+| 8 | [추가시간](http://twitter.com/search?q=%ec%b6%94%ea%b0%80%ec%8b%9c%ea%b0%84) | N/A |
+| 9 | [페리시치](http://twitter.com/search?q=%ed%8e%98%eb%a6%ac%ec%8b%9c%ec%b9%98) | N/A |
+| 10 | [당신의 최애cp](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%b5%9c%ec%95%a0cp) | N/A |
+| 11 | [울버햄튼](http://twitter.com/search?q=%ec%9a%b8%eb%b2%84%ed%96%84%ed%8a%bc) | N/A |
+| 12 | [킬링파트](http://twitter.com/search?q=%ed%82%ac%eb%a7%81%ed%8c%8c%ed%8a%b8) | N/A |
+| 13 | [자카르타](http://twitter.com/search?q=%ec%9e%90%ec%b9%b4%eb%a5%b4%ed%83%80) | N/A |
+| 14 | [방청 후기](http://twitter.com/search?q=%eb%b0%a9%ec%b2%ad+%ed%9b%84%ea%b8%b0) | N/A |
+| 15 | [스포티비](http://twitter.com/search?q=%ec%8a%a4%ed%8f%ac%ed%8b%b0%eb%b9%84) | N/A |
+| 16 | [명헌소연](http://twitter.com/search?q=%eb%aa%85%ed%97%8c%ec%86%8c%ec%97%b0) | N/A |
+| 17 | [필스페셜](http://twitter.com/search?q=%ed%95%84%ec%8a%a4%ed%8e%98%ec%85%9c) | N/A |
+| 18 | [카트라이더](http://twitter.com/search?q=%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94) | N/A |
+| 19 | [버터플라이](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%ed%94%8c%eb%9d%bc%ec%9d%b4) | N/A |
+| 20 | [아킬레스](http://twitter.com/search?q=%ec%95%84%ed%82%ac%eb%a0%88%ec%8a%a4) | N/A |
+| 21 | [재우영주](http://twitter.com/search?q=%ec%9e%ac%ec%9a%b0%ec%98%81%ec%a3%bc) | N/A |
+| 22 | [로또 2등](http://twitter.com/search?q=%eb%a1%9c%eb%98%90+2%eb%93%b1) | N/A |
+| 23 | [러브킬라](http://twitter.com/search?q=%eb%9f%ac%eb%b8%8c%ed%82%ac%eb%9d%bc) | N/A |
+| 24 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
 | 25 | [우리 해이](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ed%95%b4%ec%9d%b4) | N/A |
-| 26 | [수아엄마](http://twitter.com/search?q=%ec%88%98%ec%95%84%ec%97%84%eb%a7%88) | N/A |
-| 27 | [신성한이혼](http://twitter.com/search?q=%ec%8b%a0%ec%84%b1%ed%95%9c%ec%9d%b4%ed%98%bc) | N/A |
-| 28 | [선재해이](http://twitter.com/search?q=%ec%84%a0%ec%9e%ac%ed%95%b4%ec%9d%b4) | N/A |
-| 29 | [해이 친엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4+%ec%b9%9c%ec%97%84%eb%a7%88) | N/A |
+| 26 | [신성한이혼](http://twitter.com/search?q=%ec%8b%a0%ec%84%b1%ed%95%9c%ec%9d%b4%ed%98%bc) | N/A |
+| 27 | [해이 친엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4+%ec%b9%9c%ec%97%84%eb%a7%88) | N/A |
+| 28 | [치열행선](http://twitter.com/search?q=%ec%b9%98%ec%97%b4%ed%96%89%ec%84%a0) | N/A |
+| 29 | [해이엄마](http://twitter.com/search?q=%ed%95%b4%ec%9d%b4%ec%97%84%eb%a7%88) | N/A |
 | 30 | [부석순의 축복](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%98+%ec%b6%95%eb%b3%b5) | N/A |
-| 31 | [온앤오프](http://twitter.com/search?q=%ec%98%a8%ec%95%a4%ec%98%a4%ed%94%84) | N/A |
-| 32 | [유몽커플](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd%ec%bb%a4%ed%94%8c) | N/A |
-| 33 | [유몽부부](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd%eb%b6%80%eb%b6%80) | N/A |
-| 34 | [하이파이](http://twitter.com/search?q=%ed%95%98%ec%9d%b4%ed%8c%8c%ec%9d%b4) | N/A |
-| 35 | [당신 씨피](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0+%ec%94%a8%ed%94%bc) | N/A |
-| 36 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
-| 37 | [드레스코드](http://twitter.com/search?q=%eb%93%9c%eb%a0%88%ec%8a%a4%ec%bd%94%eb%93%9c) | N/A |
-| 38 | [유몽결혼](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd%ea%b2%b0%ed%98%bc) | N/A |
-| 39 | [천지안위](http://twitter.com/search?q=%ec%b2%9c%ec%a7%80%ec%95%88%ec%9c%84) | N/A |
-| 40 | [인도네시아](http://twitter.com/search?q=%ec%9d%b8%eb%8f%84%eb%84%a4%ec%8b%9c%ec%95%84) | N/A |
-| 41 | [릴레이 라이브](http://twitter.com/search?q=%eb%a6%b4%eb%a0%88%ec%9d%b4+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | N/A |
+| 31 | [모스코모스코](http://twitter.com/search?q=%eb%aa%a8%ec%8a%a4%ec%bd%94%eb%aa%a8%ec%8a%a4%ec%bd%94) | N/A |
+| 32 | [수아엄마](http://twitter.com/search?q=%ec%88%98%ec%95%84%ec%97%84%eb%a7%88) | N/A |
+| 33 | [유몽커플](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd%ec%bb%a4%ed%94%8c) | N/A |
+| 34 | [씨피의 찌통](http://twitter.com/search?q=%ec%94%a8%ed%94%bc%ec%9d%98+%ec%b0%8c%ed%86%b5) | N/A |
+| 35 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
+| 36 | [유몽부부](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd%eb%b6%80%eb%b6%80) | N/A |
+| 37 | [온앤오프](http://twitter.com/search?q=%ec%98%a8%ec%95%a4%ec%98%a4%ed%94%84) | N/A |
+| 38 | [겨울왕국](http://twitter.com/search?q=%ea%b2%a8%ec%9a%b8%ec%99%95%ea%b5%ad) | N/A |
+| 39 | [드레스코드](http://twitter.com/search?q=%eb%93%9c%eb%a0%88%ec%8a%a4%ec%bd%94%eb%93%9c) | N/A |
+| 40 | [천지안위](http://twitter.com/search?q=%ec%b2%9c%ec%a7%80%ec%95%88%ec%9c%84) | N/A |
+| 41 | [인도네시아](http://twitter.com/search?q=%ec%9d%b8%eb%8f%84%eb%84%a4%ec%8b%9c%ec%95%84) | N/A |
 | 42 | [연기 너무](http://twitter.com/search?q=%ec%97%b0%ea%b8%b0+%eb%84%88%eb%ac%b4) | N/A |
-| 43 | [덤스트랭](http://twitter.com/search?q=%eb%8d%a4%ec%8a%a4%ed%8a%b8%eb%9e%ad) | N/A |
+| 43 | [유몽 결혼](http://twitter.com/search?q=%ec%9c%a0%eb%aa%bd+%ea%b2%b0%ed%98%bc) | N/A |
 | 44 | [애니플러스](http://twitter.com/search?q=%ec%95%a0%eb%8b%88%ed%94%8c%eb%9f%ac%ec%8a%a4) | N/A |
-| 45 | [우리은행](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac%ec%9d%80%ed%96%89) | N/A |
-| 46 | [#BestLeaderBXDay](http://twitter.com/search?q=%23BestLeaderBXDay) | N/A |
-| 47 | [#해찬베프트친소](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%eb%b2%a0%ed%94%84%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 48 | [#해프트친소](http://twitter.com/search?q=%23%ed%95%b4%ed%94%84%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 49 | [#제니스트친소](http://twitter.com/search?q=%23%ec%a0%9c%eb%8b%88%ec%8a%a4%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 50 | [#쟈니왔쟈니](http://twitter.com/search?q=%23%ec%9f%88%eb%8b%88%ec%99%94%ec%9f%88%eb%8b%88) | N/A |
+| 45 | [#해찬베프트친소](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%eb%b2%a0%ed%94%84%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 46 | [#해프트친소](http://twitter.com/search?q=%23%ed%95%b4%ed%94%84%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 47 | [#BestLeaderBXDay](http://twitter.com/search?q=%23BestLeaderBXDay) | N/A |
+| 48 | [#제니스트친소](http://twitter.com/search?q=%23%ec%a0%9c%eb%8b%88%ec%8a%a4%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 49 | [#트친들이_가지고있는_나에대한_환상](http://twitter.com/search?q=%23%ed%8a%b8%ec%b9%9c%eb%93%a4%ec%9d%b4_%ea%b0%80%ec%a7%80%ea%b3%a0%ec%9e%88%eb%8a%94_%eb%82%98%ec%97%90%eb%8c%80%ed%95%9c_%ed%99%98%ec%83%81) | N/A |
+| 50 | [#서코_트친소](http://twitter.com/search?q=%23%ec%84%9c%ec%bd%94_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
 
 
 
