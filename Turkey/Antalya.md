@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-04 21:16:58 UTC`
+📆 Last Updated: `2023-03-04 22:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 2 | [#NasihatimOlsun](http://twitter.com/search?q=%23NasihatimOlsun) | N/A |
-| 3 | [#tv100](http://twitter.com/search?q=%23tv100) | N/A |
-| 4 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
-| 5 | [ERDOĞANI DURDURAMAZSINIZ](http://twitter.com/search?q=ERDO%c4%9eANI+DURDURAMAZSINIZ) | N/A |
-| 6 | [#Pencerende1MumYak](http://twitter.com/search?q=%23Pencerende1MumYak) | N/A |
-| 7 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
-| 8 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
-| 9 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 10 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 11 | [Kırşehir](http://twitter.com/search?q=K%c4%b1r%c5%9fehir) | N/A |
-| 12 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 13 | [Tuvalete](http://twitter.com/search?q=Tuvalete) | N/A |
-| 14 | [Ahi Evran](http://twitter.com/search?q=Ahi+Evran) | N/A |
-| 15 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 16 | [Kaçırılanlara NeOldu](http://twitter.com/search?q=Ka%c3%a7%c4%b1r%c4%b1lanlara+NeOldu) | N/A |
-| 17 | [FAHRİLERE KADRO NEREDE](http://twitter.com/search?q=FAHR%c4%b0LERE+KADRO+NEREDE) | N/A |
-| 18 | [TaşeronSeçimden ÖnceBitmeli](http://twitter.com/search?q=Ta%c5%9feronSe%c3%a7imden+%c3%96nceBitmeli) | N/A |
-| 19 | [REİS YİNE HAKLI ÇIKTI](http://twitter.com/search?q=RE%c4%b0S+Y%c4%b0NE+HAKLI+%c3%87IKTI) | N/A |
-| 20 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 21 | [Tuğba Danışmaz](http://twitter.com/search?q=Tu%c4%9fba+Dan%c4%b1%c5%9fmaz) | N/A |
-| 22 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
-| 23 | [Tebrikler Fenerbahçem](http://twitter.com/search?q=Tebrikler+Fenerbah%c3%a7em) | N/A |
-| 24 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 25 | [Özgür Demirtaş](http://twitter.com/search?q=%c3%96zg%c3%bcr+Demirta%c5%9f) | N/A |
-| 26 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 27 | [Layık](http://twitter.com/search?q=Lay%c4%b1k) | N/A |
-| 28 | [Constantinople](http://twitter.com/search?q=Constantinople) | N/A |
-| 29 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 30 | [JeofizikMüh SahipÇıkTR](http://twitter.com/search?q=JeofizikM%c3%bch+Sahip%c3%87%c4%b1kTR) | N/A |
-| 31 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 2 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 3 | [#NasihatimOlsun](http://twitter.com/search?q=%23NasihatimOlsun) | N/A |
+| 4 | [#anket](http://twitter.com/search?q=%23anket) | N/A |
+| 5 | [#tv100](http://twitter.com/search?q=%23tv100) | N/A |
+| 6 | [Özgür Demirtaş](http://twitter.com/search?q=%c3%96zg%c3%bcr+Demirta%c5%9f) | N/A |
+| 7 | [Testere Necmi](http://twitter.com/search?q=Testere+Necmi) | N/A |
+| 8 | [#Amedspor](http://twitter.com/search?q=%23Amedspor) | N/A |
+| 9 | [Kazanacak](http://twitter.com/search?q=Kazanacak) | N/A |
+| 10 | [ERDOĞANI DURDURAMAZSINIZ](http://twitter.com/search?q=ERDO%c4%9eANI+DURDURAMAZSINIZ) | N/A |
+| 11 | [#TOPunuzTarihOlacak](http://twitter.com/search?q=%23TOPunuzTarihOlacak) | N/A |
+| 12 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 13 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
+| 14 | [Yılmaz Vural](http://twitter.com/search?q=Y%c4%b1lmaz+Vural) | N/A |
+| 15 | [Kırşehir](http://twitter.com/search?q=K%c4%b1r%c5%9fehir) | N/A |
+| 16 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 17 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
+| 18 | [Bacıyan-ı Rum](http://twitter.com/search?q=Bac%c4%b1yan-%c4%b1+Rum) | N/A |
+| 19 | [Masum Türker](http://twitter.com/search?q=Masum+T%c3%bcrker) | N/A |
+| 20 | [Ahi Evran](http://twitter.com/search?q=Ahi+Evran) | N/A |
+| 21 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 22 | [Şener Şen](http://twitter.com/search?q=%c5%9eener+%c5%9een) | N/A |
+| 23 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
+| 24 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 25 | [Tuvalete](http://twitter.com/search?q=Tuvalete) | N/A |
+| 26 | [REİS YİNE HAKLI ÇIKTI](http://twitter.com/search?q=RE%c4%b0S+Y%c4%b0NE+HAKLI+%c3%87IKTI) | N/A |
+| 27 | [Ahat Andican](http://twitter.com/search?q=Ahat+Andican) | N/A |
+| 28 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
+| 29 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
+| 30 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 31 | [Constantinople](http://twitter.com/search?q=Constantinople) | N/A |
 | 32 | [Tırnak](http://twitter.com/search?q=T%c4%b1rnak) | N/A |
-| 33 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 34 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
-| 35 | [Taci](http://twitter.com/search?q=Taci) | N/A |
-| 36 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 37 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 38 | [OYUM ERDOĞANA](http://twitter.com/search?q=OYUM+ERDO%c4%9eANA) | N/A |
-| 39 | [TARİH ERDOĞAN YAZACAK](http://twitter.com/search?q=TAR%c4%b0H+ERDO%c4%9eAN+YAZACAK) | N/A |
-| 40 | [Kayserililer](http://twitter.com/search?q=Kayserililer) | N/A |
-| 41 | [Kayseri'ye](http://twitter.com/search?q=Kayseri%27ye) | N/A |
-| 42 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 43 | [İnsanlığın](http://twitter.com/search?q=%c4%b0nsanl%c4%b1%c4%9f%c4%b1n) | N/A |
-| 44 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 45 | [Arif Kocaman](http://twitter.com/search?q=Arif+Kocaman) | N/A |
-| 46 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
-| 47 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 48 | [Szalai](http://twitter.com/search?q=Szalai) | Szalai is a Hungarian surname. It is derived from the word szalámi, which means "salami" in English. |
-| 49 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
-| 50 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 33 | [Tuğba Danışmaz](http://twitter.com/search?q=Tu%c4%9fba+Dan%c4%b1%c5%9fmaz) | N/A |
+| 34 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 35 | [FAHRİLERE KADRO NEREDE](http://twitter.com/search?q=FAHR%c4%b0LERE+KADRO+NEREDE) | N/A |
+| 36 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 37 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 38 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 39 | [Kaçırılanlara NeOldu](http://twitter.com/search?q=Ka%c3%a7%c4%b1r%c4%b1lanlara+NeOldu) | N/A |
+| 40 | [Oyum](http://twitter.com/search?q=Oyum) | N/A |
+| 41 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 42 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
+| 43 | [TaşeronSeçimden ÖnceBitmeli](http://twitter.com/search?q=Ta%c5%9feronSe%c3%a7imden+%c3%96nceBitmeli) | N/A |
+| 44 | [Layık](http://twitter.com/search?q=Lay%c4%b1k) | N/A |
+| 45 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 46 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 47 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 48 | [Taci](http://twitter.com/search?q=Taci) | N/A |
+| 49 | [TARİH ERDOĞAN YAZACAK](http://twitter.com/search?q=TAR%c4%b0H+ERDO%c4%9eAN+YAZACAK) | N/A |
+| 50 | [Kayserililer](http://twitter.com/search?q=Kayserililer) | N/A |
 
 
 

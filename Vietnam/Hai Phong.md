@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-04 21:16:49 UTC`
+📆 Last Updated: `2023-03-04 22:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
 | 11 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
 | 12 | [incentivized](http://twitter.com/search?q=incentivized) | N/A |
-| 13 | [Liuyu Paris Fashion Week](http://twitter.com/search?q=Liuyu+Paris+Fashion+Week) | N/A |
+| 13 | [liuyu paris fashion week](http://twitter.com/search?q=liuyu+paris+fashion+week) | N/A |
 | 14 | [WORLD CLASS STAR V](http://twitter.com/search?q=WORLD+CLASS+STAR+V) | N/A |
 | 15 | [Beyourluve](http://twitter.com/search?q=Beyourluve) | N/A |
 | 16 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 24 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 25 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
-| 26 | [Lqty](http://twitter.com/search?q=Lqty) | N/A |
+| 26 | [lqty](http://twitter.com/search?q=lqty) | N/A |
 | 27 | [thưởng](http://twitter.com/search?q=th%c6%b0%e1%bb%9fng) | N/A |
 | 28 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 29 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |

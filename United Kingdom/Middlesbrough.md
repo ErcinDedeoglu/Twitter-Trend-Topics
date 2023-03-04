@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-04 21:16:24 UTC`
+📆 Last Updated: `2023-03-04 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 1 | [#pze23](http://twitter.com/search?q=%23pze23) | N/A |
 | 2 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 3 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 4 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
-| 5 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 6 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 7 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 8 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
-| 9 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
-| 10 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 11 | [MINIMUM of 6](http://twitter.com/search?q=MINIMUM+of+6) | N/A |
-| 12 | [#WOLTOT](http://twitter.com/search?q=%23WOLTOT) | N/A |
-| 13 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 14 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 15 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 16 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
-| 17 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
-| 18 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 19 | [#watfordfc](http://twitter.com/search?q=%23watfordfc) | N/A |
-| 20 | [#COYQ](http://twitter.com/search?q=%23COYQ) | N/A |
-| 21 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 24 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 25 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 26 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 27 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 28 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 29 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 30 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 33 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 34 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 35 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 36 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
-| 37 | [BDave](http://twitter.com/search?q=BDave) | N/A |
-| 38 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 39 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
-| 40 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 41 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 42 | [Ginty](http://twitter.com/search?q=Ginty) | N/A |
-| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 44 | [Elle Brooke](http://twitter.com/search?q=Elle+Brooke) | Elle Brooke is a French phrase meaning "she is beautiful". It is often used as a term of endearment or to express admiration for someone's beauty. |
-| 45 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 46 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 47 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 48 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 49 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 50 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
+| 3 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 4 | [#HARvEXE](http://twitter.com/search?q=%23HARvEXE) | N/A |
+| 5 | [MINIMUM](http://twitter.com/search?q=MINIMUM) | N/A |
+| 6 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 7 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 8 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 9 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
+| 10 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 11 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 12 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 13 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 14 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 15 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 16 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 17 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 18 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 19 | [#afcb](http://twitter.com/search?q=%23afcb) | N/A |
+| 20 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 21 | [Adama](http://twitter.com/search?q=Adama) | N/A |
+| 22 | [Dan Neil](http://twitter.com/search?q=Dan+Neil) | N/A |
+| 23 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
+| 24 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 25 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 26 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
+| 27 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 28 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 30 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 31 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 32 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 33 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 34 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 35 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 37 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 38 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 39 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 41 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 42 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 43 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 44 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 45 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 46 | [BDave](http://twitter.com/search?q=BDave) | N/A |
+| 47 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
+| 48 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 49 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
+| 50 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 
 
 

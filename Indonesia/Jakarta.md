@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-04 21:16:41 UTC`
+📆 Last Updated: `2023-03-04 22:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 4 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 5 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 6 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 7 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 8 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 9 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 10 | [Selamat Datang 7Dream](http://twitter.com/search?q=Selamat+Datang+7Dream) | N/A |
-| 11 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 12 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 13 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 14 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 15 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 16 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 17 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 18 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 19 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
-| 20 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 21 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
-| 22 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 24 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 25 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 26 | [Saturday Drip](http://twitter.com/search?q=Saturday+Drip) | N/A |
-| 27 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
-| 28 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 29 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 32 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 35 | [mau angel](http://twitter.com/search?q=mau+angel) | N/A |
-| 36 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 37 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
-| 38 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 39 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 40 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 41 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 44 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 45 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
-| 46 | [Malmingan](http://twitter.com/search?q=Malmingan) | N/A |
-| 47 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 48 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 6 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 7 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 8 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 9 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 10 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 11 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 13 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 14 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 15 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 16 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 17 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 18 | [Selamat Datang 7Dream](http://twitter.com/search?q=Selamat+Datang+7Dream) | N/A |
+| 19 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 20 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 24 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 25 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 26 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 27 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
+| 28 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 29 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 30 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 31 | [Indonesia Sijeuni](http://twitter.com/search?q=Indonesia+Sijeuni) | N/A |
+| 32 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [Saturday Drip](http://twitter.com/search?q=Saturday+Drip) | N/A |
+| 35 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 36 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
+| 37 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 40 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 41 | [mau angel](http://twitter.com/search?q=mau+angel) | N/A |
+| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 43 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 44 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 45 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 46 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 47 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 
 
 

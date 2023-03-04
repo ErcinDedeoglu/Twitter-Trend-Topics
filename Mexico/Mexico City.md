@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-04 21:16:26 UTC`
+📆 Last Updated: `2023-03-04 22:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
 | 2 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
-| 3 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 4 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 5 | [HANNAH](http://twitter.com/search?q=HANNAH) | N/A |
-| 6 | [#JuntosEnAcción](http://twitter.com/search?q=%23JuntosEnAcci%c3%b3n) | N/A |
-| 7 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 8 | [#dne라틴아메리카콘서트](http://twitter.com/search?q=%23dne%eb%9d%bc%ed%8b%b4%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 11 | [Euripides](http://twitter.com/search?q=Euripides) | N/A |
-| 12 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 3 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
+| 4 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 5 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 6 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 7 | [#dne라틴아메리카콘서트](http://twitter.com/search?q=%23dne%eb%9d%bc%ed%8b%b4%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
+| 8 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 9 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 10 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Euripides](http://twitter.com/search?q=Euripides) | N/A |
+| 13 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
 | 14 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 15 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
-| 16 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 17 | [Aricita](http://twitter.com/search?q=Aricita) | N/A |
-| 18 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
-| 19 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 26 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 27 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 29 | [Tulum](http://twitter.com/search?q=Tulum) | N/A |
-| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 31 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 32 | [Binsan](http://twitter.com/search?q=Binsan) | N/A |
-| 33 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 34 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
-| 35 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
-| 36 | [Histórico](http://twitter.com/search?q=Hist%c3%b3rico) | N/A |
-| 37 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 38 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 40 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 41 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 42 | [Chacho](http://twitter.com/search?q=Chacho) | N/A |
-| 43 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
-| 44 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 45 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 46 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
-| 47 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 48 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
-| 49 | [#EllasEnVix](http://twitter.com/search?q=%23EllasEnVix) | N/A |
-| 50 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
+| 15 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 16 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
+| 17 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 18 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [Aricita](http://twitter.com/search?q=Aricita) | N/A |
+| 21 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 26 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 27 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 28 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [Binsan](http://twitter.com/search?q=Binsan) | N/A |
+| 31 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 32 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
+| 33 | [Tulum](http://twitter.com/search?q=Tulum) | N/A |
+| 34 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 37 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 38 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
+| 39 | [#JuntosEnAcción](http://twitter.com/search?q=%23JuntosEnAcci%c3%b3n) | N/A |
+| 40 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 41 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
+| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 43 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 44 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
+| 45 | [#EllasEnVix](http://twitter.com/search?q=%23EllasEnVix) | N/A |
+| 46 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 47 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
+| 48 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 49 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 50 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 
 
 

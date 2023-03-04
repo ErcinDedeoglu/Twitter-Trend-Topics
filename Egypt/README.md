@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-04 21:17:10 UTC`
+📆 Last Updated: `2023-03-04 22:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Egypt
 | 9 | [#تزوج_الثانيه_ولاتخاف](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87_%d9%88%d9%84%d8%a7%d8%aa%d8%ae%d8%a7%d9%81) | N/A |
 | 10 | [نيلسون](http://twitter.com/search?q=%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
 | 11 | [#هجوم_العمالقه](http://twitter.com/search?q=%23%d9%87%d8%ac%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%82%d9%87) | N/A |
-| 12 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 15 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 16 | [احمد سليمان](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
-| 17 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 18 | [رأفت خليل](http://twitter.com/search?q=%d8%b1%d8%a3%d9%81%d8%aa+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 19 | [ديباي](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%8a) | N/A |
-| 20 | [احمد القندوسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%86%d8%af%d9%88%d8%b3%d9%8a) | N/A |
-| 21 | [جول الدوري](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 22 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
-| 23 | [ملك الحلول](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%84) | "ملك الحلول" is an Arabic phrase that translates to "King of Solutions" in English. It is used to refer to someone who is able to provide solutions to difficult problems. |
-| 24 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 25 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
-| 26 | [اشرف ذكي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b0%d9%83%d9%8a) | N/A |
-| 27 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 28 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 29 | [عنق الرحم](http://twitter.com/search?q=%d8%b9%d9%86%d9%82+%d8%a7%d9%84%d8%b1%d8%ad%d9%85) | N/A |
-| 30 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 31 | [ملعب الامارات](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 32 | [احمد فتحي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
-| 33 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 34 | [ماك اليستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 35 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
-| 36 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
-| 37 | [الدقيقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 12 | [احمد سليمان](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
+| 13 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 16 | [رأفت خليل](http://twitter.com/search?q=%d8%b1%d8%a3%d9%81%d8%aa+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 17 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
+| 18 | [احمد القندوسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%86%d8%af%d9%88%d8%b3%d9%8a) | N/A |
+| 19 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
+| 20 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 21 | [إشبيلية](http://twitter.com/search?q=%d8%a5%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 22 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 23 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 24 | [ديباي](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%8a) | N/A |
+| 25 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 26 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 27 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
+| 28 | [جول الدوري](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 29 | [اشرف ذكي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b0%d9%83%d9%8a) | N/A |
+| 30 | [عنق الرحم](http://twitter.com/search?q=%d8%b9%d9%86%d9%82+%d8%a7%d9%84%d8%b1%d8%ad%d9%85) | N/A |
+| 31 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 32 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 33 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
+| 34 | [ملعب الامارات](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 35 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 36 | [ماك اليستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 37 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
 | 38 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
-| 39 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 40 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
-| 41 | [ايس كوفي](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3+%d9%83%d9%88%d9%81%d9%8a) | N/A |
+| 39 | [الدقيقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 40 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 41 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 42 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
 | 43 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 44 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 45 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 46 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 47 | [١٥ شعبان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 48 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 49 | [النايب العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 50 | [4 مارس 2023](http://twitter.com/search?q=4+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 44 | [ايس كوفي](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3+%d9%83%d9%88%d9%81%d9%8a) | N/A |
+| 45 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 46 | [١٥ شعبان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 47 | [احمد فتحي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
+| 48 | [ملك الحلول](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%84) | "ملك الحلول" is an Arabic phrase that translates to "King of Solutions" in English. It is used to refer to someone who is able to provide solutions to difficult problems. |
+| 49 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 50 | [علي المواطنين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
 
 
 
