@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-04 09:15:38 UTC`
+📆 Last Updated: `2023-03-04 10:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
-| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 5 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 9 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 10 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 11 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 12 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 13 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 14 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 15 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 16 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 17 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 18 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
-| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 20 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 21 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [shaq and tanya](http://twitter.com/search?q=shaq+and+tanya) | N/A |
-| 25 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 26 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 27 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 29 | [Black Hawk Down](http://twitter.com/search?q=Black+Hawk+Down) | N/A |
-| 30 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 31 | [Paul Bristow](http://twitter.com/search?q=Paul+Bristow) | N/A |
-| 32 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 33 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 34 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 35 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 38 | [The Dreaming](http://twitter.com/search?q=The+Dreaming) | N/A |
-| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 40 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
-| 41 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 42 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 43 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 44 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
-| 45 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 46 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 47 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 48 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 49 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
-| 50 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
+| 1 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 2 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
+| 3 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 4 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 5 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
+| 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 7 | [#SLStHLee](http://twitter.com/search?q=%23SLStHLee) | N/A |
+| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 11 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 12 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 13 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 14 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 15 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 16 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 18 | [Welsby](http://twitter.com/search?q=Welsby) | N/A |
+| 19 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 20 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 21 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 22 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 23 | [Doris](http://twitter.com/search?q=Doris) | N/A |
+| 24 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 25 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 26 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 27 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 28 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 29 | [Raya](http://twitter.com/search?q=Raya) | N/A |
+| 30 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 31 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 32 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 33 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 34 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 35 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 37 | [#ASongOrMovieForOpening](http://twitter.com/search?q=%23ASongOrMovieForOpening) | N/A |
+| 38 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 39 | [#APNI23](http://twitter.com/search?q=%23APNI23) | N/A |
+| 40 | [#EatOutToHelpOut](http://twitter.com/search?q=%23EatOutToHelpOut) | N/A |
+| 41 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 42 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
+| 43 | [#LCCSpring](http://twitter.com/search?q=%23LCCSpring) | N/A |
+| 44 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 45 | [#ToriesOut240](http://twitter.com/search?q=%23ToriesOut240) | N/A |
+| 46 | [#WorldObesityDay](http://twitter.com/search?q=%23WorldObesityDay) | N/A |
+| 47 | [#awaydays](http://twitter.com/search?q=%23awaydays) | N/A |
+| 48 | [#AlphabetChallenge](http://twitter.com/search?q=%23AlphabetChallenge) | N/A |
+| 49 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
 
 
 

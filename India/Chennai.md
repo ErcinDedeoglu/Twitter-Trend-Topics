@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-04 09:16:14 UTC`
+📆 Last Updated: `2023-03-04 10:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 2 | [#TheNightManagerOnHotstar](http://twitter.com/search?q=%23TheNightManagerOnHotstar) | N/A |
-| 3 | [#AmritpalIsFraud](http://twitter.com/search?q=%23AmritpalIsFraud) | N/A |
-| 4 | [#RajeRajasthanKi](http://twitter.com/search?q=%23RajeRajasthanKi) | N/A |
-| 5 | [#RiseUpBaby](http://twitter.com/search?q=%23RiseUpBaby) | N/A |
-| 6 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 7 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 8 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 1 | [Bihar](http://twitter.com/search?q=Bihar) | N/A |
+| 2 | [#TNPolice](http://twitter.com/search?q=%23TNPolice) | N/A |
+| 3 | [Tamilnadu](http://twitter.com/search?q=Tamilnadu) | N/A |
+| 4 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
+| 5 | [#AmritpalIsFraud](http://twitter.com/search?q=%23AmritpalIsFraud) | N/A |
+| 6 | [#PepsiXSikander](http://twitter.com/search?q=%23PepsiXSikander) | N/A |
+| 7 | [#RajeRajasthanKi](http://twitter.com/search?q=%23RajeRajasthanKi) | N/A |
+| 8 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
 | 9 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 10 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 11 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
-| 12 | [jihope](http://twitter.com/search?q=jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 13 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 14 | [श्री अर्जुन सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 15 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 16 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 17 | [Infrastructure and Investment](http://twitter.com/search?q=Infrastructure+and+Investment) | N/A |
-| 18 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
-| 19 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 20 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
-| 21 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 22 | [UPSC](http://twitter.com/search?q=UPSC) | N/A |
-| 23 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 24 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 25 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 26 | [With Palash Flowers](http://twitter.com/search?q=With+Palash+Flowers) | N/A |
-| 27 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 28 | [WhatsApp University](http://twitter.com/search?q=WhatsApp+University) | N/A |
-| 29 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
-| 30 | [#EVM_हटाओ_लोकतंत्र_बचाओ](http://twitter.com/search?q=%23EVM_%e0%a4%b9%e0%a4%9f%e0%a4%be%e0%a4%93_%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 31 | [#BJPSuitcaseSarkara](http://twitter.com/search?q=%23BJPSuitcaseSarkara) | N/A |
-| 32 | [#SaraAliKhan](http://twitter.com/search?q=%23SaraAliKhan) | N/A |
-| 33 | [#RajasthanYuvaAakrosh](http://twitter.com/search?q=%23RajasthanYuvaAakrosh) | N/A |
-| 34 | [#ABAIndiaConference2023](http://twitter.com/search?q=%23ABAIndiaConference2023) | N/A |
-| 35 | [#NationalSafetyDay](http://twitter.com/search?q=%23NationalSafetyDay) | N/A |
-| 36 | [#TunishaSharma](http://twitter.com/search?q=%23TunishaSharma) | N/A |
-| 37 | [#SheezanKhan](http://twitter.com/search?q=%23SheezanKhan) | N/A |
-| 38 | [#पक्षपाती_दोगली_दलाल_मीडिया](http://twitter.com/search?q=%23%e0%a4%aa%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%80_%e0%a4%a6%e0%a5%8b%e0%a4%97%e0%a4%b2%e0%a5%80_%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a5%80%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 39 | [#NationalSecurityDay](http://twitter.com/search?q=%23NationalSecurityDay) | N/A |
-| 40 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
-| 41 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
-| 42 | [#ObesitySummit](http://twitter.com/search?q=%23ObesitySummit) | N/A |
-| 43 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 44 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
-| 45 | [#राष्ट्रीय_सुरक्षा_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 46 | [#ISupportMonuManesar](http://twitter.com/search?q=%23ISupportMonuManesar) | N/A |
+| 10 | [Rouse Avenue Court](http://twitter.com/search?q=Rouse+Avenue+Court) | N/A |
+| 11 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 12 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 13 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 14 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 15 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 16 | [श्री अर्जुन सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 17 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
+| 18 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
+| 19 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 20 | [UPSC](http://twitter.com/search?q=UPSC) | N/A |
+| 21 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
+| 22 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
+| 23 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 24 | [With Palash Flowers](http://twitter.com/search?q=With+Palash+Flowers) | N/A |
+| 25 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 26 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 27 | [#ABAIndiaConference2023](http://twitter.com/search?q=%23ABAIndiaConference2023) | N/A |
+| 28 | [#TheNightManagerOnHotstar](http://twitter.com/search?q=%23TheNightManagerOnHotstar) | N/A |
+| 29 | [#EVM_हटाओ_लोकतंत्र_बचाओ](http://twitter.com/search?q=%23EVM_%e0%a4%b9%e0%a4%9f%e0%a4%be%e0%a4%93_%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 30 | [#SheezanKhan](http://twitter.com/search?q=%23SheezanKhan) | N/A |
+| 31 | [#RiseUpBaby](http://twitter.com/search?q=%23RiseUpBaby) | N/A |
+| 32 | [#TunishaSharma](http://twitter.com/search?q=%23TunishaSharma) | N/A |
+| 33 | [#SaraAliKhan](http://twitter.com/search?q=%23SaraAliKhan) | N/A |
+| 34 | [#BJPSuitcaseSarkara](http://twitter.com/search?q=%23BJPSuitcaseSarkara) | N/A |
+| 35 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 36 | [#RajasthanYuvaAakrosh](http://twitter.com/search?q=%23RajasthanYuvaAakrosh) | N/A |
+| 37 | [#पक्षपाती_दोगली_दलाल_मीडिया](http://twitter.com/search?q=%23%e0%a4%aa%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%80_%e0%a4%a6%e0%a5%8b%e0%a4%97%e0%a4%b2%e0%a5%80_%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%b2_%e0%a4%ae%e0%a5%80%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 38 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
+| 39 | [#KarnatakaWantsKejriwal](http://twitter.com/search?q=%23KarnatakaWantsKejriwal) | N/A |
+| 40 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
+| 41 | [#ArrestSandhyaRavishankar](http://twitter.com/search?q=%23ArrestSandhyaRavishankar) | N/A |
+| 42 | [#NationalSafetyDay](http://twitter.com/search?q=%23NationalSafetyDay) | N/A |
+| 43 | [#NationalSecurityDay](http://twitter.com/search?q=%23NationalSecurityDay) | N/A |
+| 44 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
+| 45 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
+| 46 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
 | 47 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
-| 48 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
-| 49 | [#SantGaribdasji_BodhDiwas](http://twitter.com/search?q=%23SantGaribdasji_BodhDiwas) | N/A |
-| 50 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 48 | [#राष्ट्रीय_सुरक्षा_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 49 | [#GujaratGiants](http://twitter.com/search?q=%23GujaratGiants) | N/A |
+| 50 | [#ISupportMonuManesar](http://twitter.com/search?q=%23ISupportMonuManesar) | N/A |
 
 
 

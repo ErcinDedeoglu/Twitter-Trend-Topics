@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-04 09:16:06 UTC`
+📆 Last Updated: `2023-03-04 10:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 2 | [#OneDayForTheOwner](http://twitter.com/search?q=%23OneDayForTheOwner) | N/A |
 | 3 | [#HereLoveLiesMovie](http://twitter.com/search?q=%23HereLoveLiesMovie) | N/A |
-| 4 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 5 | [#OneDayForTheOwner](http://twitter.com/search?q=%23OneDayForTheOwner) | N/A |
-| 6 | [#PRMIEO](http://twitter.com/search?q=%23PRMIEO) | N/A |
-| 7 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 8 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 9 | [Banky](http://twitter.com/search?q=Banky) | N/A |
-| 10 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 11 | [Deyemi](http://twitter.com/search?q=Deyemi) | N/A |
-| 12 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
-| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 14 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
-| 15 | [Attah](http://twitter.com/search?q=Attah) | N/A |
-| 16 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
-| 17 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 18 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
-| 19 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 20 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 21 | [APC and LP](http://twitter.com/search?q=APC+and+LP) | N/A |
-| 22 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 23 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 24 | [MAN OF THE SEASON](http://twitter.com/search?q=MAN+OF+THE+SEASON) | N/A |
-| 25 | [APGA](http://twitter.com/search?q=APGA) | N/A |
-| 26 | [Joshua Selman](http://twitter.com/search?q=Joshua+Selman) | N/A |
-| 27 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 28 | [old naira](http://twitter.com/search?q=old+naira) | N/A |
-| 29 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 30 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Waist](http://twitter.com/search?q=Waist) | N/A |
-| 33 | [letter to kanaga jnr](http://twitter.com/search?q=letter+to+kanaga+jnr) | N/A |
-| 34 | [Finished](http://twitter.com/search?q=Finished) | N/A |
-| 35 | [Team Garri](http://twitter.com/search?q=Team+Garri) | N/A |
-| 36 | [Idoma](http://twitter.com/search?q=Idoma) | N/A |
-| 37 | [10 Apps](http://twitter.com/search?q=10+Apps) | N/A |
-| 38 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
-| 39 | [8 Series](http://twitter.com/search?q=8+Series) | N/A |
-| 40 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 41 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 42 | [Toke Makinwa](http://twitter.com/search?q=Toke+Makinwa) | N/A |
-| 43 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 44 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
-| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 47 | [TOP GUY YEMI CREGX](http://twitter.com/search?q=TOP+GUY+YEMI+CREGX) | N/A |
-| 48 | [Yale](http://twitter.com/search?q=Yale) | N/A |
+| 4 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 5 | [#PRMIEO](http://twitter.com/search?q=%23PRMIEO) | N/A |
+| 6 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 7 | [Uloma](http://twitter.com/search?q=Uloma) | N/A |
+| 8 | [APC and LP](http://twitter.com/search?q=APC+and+LP) | N/A |
+| 9 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Joshua Selman](http://twitter.com/search?q=Joshua+Selman) | N/A |
+| 12 | [London](http://twitter.com/search?q=London) | N/A |
+| 13 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 14 | [Hembe](http://twitter.com/search?q=Hembe) | N/A |
+| 15 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
+| 16 | [APGA](http://twitter.com/search?q=APGA) | N/A |
+| 17 | [Peaky Blinders](http://twitter.com/search?q=Peaky+Blinders) | N/A |
+| 18 | [Prison Break](http://twitter.com/search?q=Prison+Break) | N/A |
+| 19 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 20 | [Idoma](http://twitter.com/search?q=Idoma) | N/A |
+| 21 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
+| 22 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 23 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 24 | [The Originals](http://twitter.com/search?q=The+Originals) | N/A |
+| 25 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 26 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 27 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 28 | [8 Series](http://twitter.com/search?q=8+Series) | N/A |
+| 29 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 30 | [Money Heist](http://twitter.com/search?q=Money+Heist) | N/A |
+| 31 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 32 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 33 | [Lojay](http://twitter.com/search?q=Lojay) | N/A |
+| 34 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
+| 35 | [#DawariGeorge](http://twitter.com/search?q=%23DawariGeorge) | N/A |
+| 36 | [#ilovePMavis](http://twitter.com/search?q=%23ilovePMavis) | N/A |
+| 37 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
+| 38 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 39 | [#shugatiti](http://twitter.com/search?q=%23shugatiti) | N/A |
+| 40 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
+| 41 | [#Enoch_themovie](http://twitter.com/search?q=%23Enoch_themovie) | N/A |
+| 42 | [#RejectTinubu](http://twitter.com/search?q=%23RejectTinubu) | N/A |
+| 43 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 44 | [#Grv4Lagos](http://twitter.com/search?q=%23Grv4Lagos) | N/A |
+| 45 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
+| 46 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-04 09:16:03 UTC`
+📆 Last Updated: `2023-03-04 10:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MOONBIN_SANHA](http://twitter.com/search?q=%23MOONBIN_SANHA) | N/A |
-| 2 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
-| 3 | [#komiket2023](http://twitter.com/search?q=%23komiket2023) | N/A |
-| 4 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 5 | [GO USTE](http://twitter.com/search?q=GO+USTE) | N/A |
-| 6 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 7 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 8 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 9 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
-| 10 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 11 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 12 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 13 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
-| 14 | [Toring](http://twitter.com/search?q=Toring) | N/A |
-| 15 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
-| 16 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 19 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
-| 20 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
-| 21 | [jihope](http://twitter.com/search?q=jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 22 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 23 | [jin hyung](http://twitter.com/search?q=jin+hyung) | Jin hyung is a Korean term of endearment used to refer to an older brother. It is derived from the Korean word for older brother, "hyung". In English, it can be translated as "big brother". |
-| 24 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 25 | [Current PPOP LSS](http://twitter.com/search?q=Current+PPOP+LSS) | N/A |
-| 26 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 27 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 28 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 29 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 30 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
-| 31 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 32 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 33 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
-| 34 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
-| 35 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 36 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 37 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
-| 38 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
-| 39 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 40 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 41 | [#BGYO_BeUsMallShow](http://twitter.com/search?q=%23BGYO_BeUsMallShow) | N/A |
-| 42 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
-| 43 | [#ROAR3rdWin](http://twitter.com/search?q=%23ROAR3rdWin) | N/A |
-| 44 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
-| 45 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
-| 46 | [#MCGIJoyfulHearts](http://twitter.com/search?q=%23MCGIJoyfulHearts) | N/A |
-| 47 | [#THEBOYZ20thWin](http://twitter.com/search?q=%23THEBOYZ20thWin) | N/A |
-| 48 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 49 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 50 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
+| 1 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
+| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 3 | [GO USTE](http://twitter.com/search?q=GO+USTE) | N/A |
+| 4 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 5 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 6 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
+| 7 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 8 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 9 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 10 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 11 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 12 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 13 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
+| 14 | [Maji](http://twitter.com/search?q=Maji) | N/A |
+| 15 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 16 | [grabe ust](http://twitter.com/search?q=grabe+ust) | N/A |
+| 17 | [ITZY WON THE STAGE](http://twitter.com/search?q=ITZY+WON+THE+STAGE) | N/A |
+| 18 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
+| 19 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 20 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 21 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 22 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 23 | [SANTÉ UNSTOPPABLE JANEDELEON](http://twitter.com/search?q=SANT%c3%89+UNSTOPPABLE+JANEDELEON) | N/A |
+| 24 | [Toring](http://twitter.com/search?q=Toring) | N/A |
+| 25 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 27 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 28 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 29 | [CutiePIE EIAN ON PANAGBENGA](http://twitter.com/search?q=CutiePIE+EIAN+ON+PANAGBENGA) | N/A |
+| 30 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 31 | [Current PPOP LSS](http://twitter.com/search?q=Current+PPOP+LSS) | N/A |
+| 32 | [Negros Oriental Gov](http://twitter.com/search?q=Negros+Oriental+Gov) | N/A |
+| 33 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 34 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
+| 35 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 36 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
+| 37 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
+| 38 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 39 | [WHO IN TREASURE](http://twitter.com/search?q=WHO+IN+TREASURE) | N/A |
+| 40 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 41 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 42 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 43 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
+| 44 | [Eat Bulaga](http://twitter.com/search?q=Eat+Bulaga) | N/A |
+| 45 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 46 | [#BGYO_BeUsMallShow](http://twitter.com/search?q=%23BGYO_BeUsMallShow) | N/A |
+| 47 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
+| 48 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
+| 49 | [#ITZY_WooriBank2023](http://twitter.com/search?q=%23ITZY_WooriBank2023) | N/A |
 
 
 

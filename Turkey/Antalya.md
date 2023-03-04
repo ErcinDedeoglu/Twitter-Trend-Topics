@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-04 09:16:15 UTC`
+📆 Last Updated: `2023-03-04 10:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 2 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 3 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 5 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
-| 6 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
-| 7 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 8 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 9 | [#altılımasa](http://twitter.com/search?q=%23alt%c4%b1l%c4%b1masa) | #Altılımasa is a Turkish game similar to bingo. It is played with six dice and a board with 24 numbered squares. Players take turns rolling the dice and marking off the numbers on their board that match the numbers rolled. The first player to mark off all of their numbers wins the game. In English, #altılımasa translates to "six-dice table". |
-| 10 | [Tombalacı Mehmet](http://twitter.com/search?q=Tombalac%c4%b1+Mehmet) | N/A |
-| 11 | [Erdoğan](http://twitter.com/search?q=Erdo%c4%9fan) | N/A |
-| 12 | [#YazıklarOlsun](http://twitter.com/search?q=%23Yaz%c4%b1klarOlsun) | N/A |
-| 13 | [Cumhurbaşkanı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 14 | [Millet](http://twitter.com/search?q=Millet) | N/A |
-| 15 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 16 | [SATAN SATANA](http://twitter.com/search?q=SATAN+SATANA) | N/A |
-| 17 | [Masanın](http://twitter.com/search?q=Masan%c4%b1n) | N/A |
-| 18 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 19 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 20 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 21 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 22 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 23 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 24 | [El Ele Aşıyoruz](http://twitter.com/search?q=El+Ele+A%c5%9f%c4%b1yoruz) | N/A |
-| 25 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 26 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 27 | [Tayyip](http://twitter.com/search?q=Tayyip) | N/A |
-| 28 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 29 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 30 | [Siyasi Ahlaksızlık](http://twitter.com/search?q=Siyasi+Ahlaks%c4%b1zl%c4%b1k) | N/A |
-| 31 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 32 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
-| 33 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
-| 34 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 35 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 36 | [ADAM KAZANDI](http://twitter.com/search?q=ADAM+KAZANDI) | N/A |
-| 37 | [İhanet](http://twitter.com/search?q=%c4%b0hanet) | N/A |
-| 38 | [Hayal](http://twitter.com/search?q=Hayal) | N/A |
-| 39 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 40 | [HalkSeninle Destici](http://twitter.com/search?q=HalkSeninle+Destici) | N/A |
-| 41 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 42 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 43 | [Laz Ziya](http://twitter.com/search?q=Laz+Ziya) | N/A |
-| 44 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 45 | [Bahçeşehir Koleji Fen](http://twitter.com/search?q=Bah%c3%a7e%c5%9fehir+Koleji+Fen) | N/A |
-| 46 | [Sigorta](http://twitter.com/search?q=Sigorta) | N/A |
-| 47 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 48 | [Ahde](http://twitter.com/search?q=Ahde) | N/A |
-| 49 | [Ümraniyespor](http://twitter.com/search?q=%c3%9cmraniyespor) | N/A |
-| 50 | [Sikking](http://twitter.com/search?q=Sikking) | N/A |
+| 1 | [MahkumYakınları AFiçinUlusta](http://twitter.com/search?q=MahkumYak%c4%b1nlar%c4%b1+AFi%c3%a7inUlusta) | N/A |
+| 2 | [#SeninleyizKılıçdaroğlu](http://twitter.com/search?q=%23SeninleyizK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [#hataydaicmesuyuyok](http://twitter.com/search?q=%23hataydaicmesuyuyok) | N/A |
+| 5 | [#EytÇözülmediBurdayız](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclmediBurday%c4%b1z) | N/A |
+| 6 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 7 | [Tombalacı Mehmet](http://twitter.com/search?q=Tombalac%c4%b1+Mehmet) | N/A |
+| 8 | [SATAN SATANA](http://twitter.com/search?q=SATAN+SATANA) | N/A |
+| 9 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 10 | [Sikking](http://twitter.com/search?q=Sikking) | N/A |
+| 11 | [Ahde](http://twitter.com/search?q=Ahde) | N/A |
+| 12 | [Cihan Paçacı](http://twitter.com/search?q=Cihan+Pa%c3%a7ac%c4%b1) | Cihan Paçacı is a Turkish phrase that translates to "world conqueror" in English. It is used to describe someone who has achieved great success or has a strong ambition to achieve greatness. |
+| 13 | [Fazıl Say](http://twitter.com/search?q=Faz%c4%b1l+Say) | N/A |
+| 14 | [Dünden](http://twitter.com/search?q=D%c3%bcnden) | N/A |
+| 15 | [Uslanmıyor](http://twitter.com/search?q=Uslanm%c4%b1yor) | N/A |
+| 16 | [Kamuran](http://twitter.com/search?q=Kamuran) | N/A |
+| 17 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
+| 18 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 19 | [Oda TV](http://twitter.com/search?q=Oda+TV) | N/A |
+| 20 | [Anket](http://twitter.com/search?q=Anket) | N/A |
+| 21 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 22 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 23 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
+| 24 | [Düne](http://twitter.com/search?q=D%c3%bcne) | N/A |
+| 25 | [Perinçek](http://twitter.com/search?q=Perin%c3%a7ek) | N/A |
+| 26 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 27 | [Derya](http://twitter.com/search?q=Derya) | N/A |
+| 28 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 29 | [Sayın İnce](http://twitter.com/search?q=Say%c4%b1n+%c4%b0nce) | N/A |
+| 30 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 31 | [İncenin](http://twitter.com/search?q=%c4%b0ncenin) | N/A |
+| 32 | [İhanetin](http://twitter.com/search?q=%c4%b0hanetin) | N/A |
+| 33 | [#adıyamandaicmesuyuyok](http://twitter.com/search?q=%23ad%c4%b1yamandaicmesuyuyok) | N/A |
+| 34 | [#marticinegitimkarari](http://twitter.com/search?q=%23marticinegitimkarari) | N/A |
+| 35 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 36 | [#YAZIKLAROLSUN](http://twitter.com/search?q=%23YAZIKLAROLSUN) | N/A |
+| 37 | [#StajyereÇırağaSahipÇık](http://twitter.com/search?q=%23Stajyere%c3%87%c4%b1ra%c4%9faSahip%c3%87%c4%b1k) | N/A |
+| 38 | [#Jahrein](http://twitter.com/search?q=%23Jahrein) | N/A |
+| 39 | [#hatayasulazım](http://twitter.com/search?q=%23hatayasulaz%c4%b1m) | N/A |
+| 40 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 41 | [#etz23](http://twitter.com/search?q=%23etz23) | N/A |
+| 42 | [#SiyasetteDeprem](http://twitter.com/search?q=%23SiyasetteDeprem) | N/A |
+| 43 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
+| 44 | [#cbmarttakampuslere](http://twitter.com/search?q=%23cbmarttakampuslere) | N/A |
+| 45 | [#ErdoğanınYanındayız](http://twitter.com/search?q=%23Erdo%c4%9fan%c4%b1nYan%c4%b1nday%c4%b1z) | N/A |
+| 46 | [#DevadanDavet](http://twitter.com/search?q=%23DevadanDavet) | N/A |
 
 
 

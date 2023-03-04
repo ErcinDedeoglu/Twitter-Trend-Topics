@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-04 09:15:47 UTC`
+📆 Last Updated: `2023-03-04 10:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 2 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 3 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 4 | [Fidalgos](http://twitter.com/search?q=Fidalgos) | N/A |
-| 5 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 6 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 7 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 8 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 9 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
-| 10 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 12 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 13 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 14 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 15 | [Ramon Dino](http://twitter.com/search?q=Ramon+Dino) | N/A |
-| 16 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 17 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
-| 18 | [Antônio](http://twitter.com/search?q=Ant%c3%b4nio) | N/A |
-| 19 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 20 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 21 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 22 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
-| 23 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 26 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 27 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 28 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 29 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 30 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 31 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 32 | [Erwin](http://twitter.com/search?q=Erwin) | N/A |
-| 33 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 34 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 35 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 36 | [Governo Bolsonaro](http://twitter.com/search?q=Governo+Bolsonaro) | N/A |
-| 37 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
-| 38 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 39 | [Pará](http://twitter.com/search?q=Par%c3%a1) | N/A |
-| 40 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 41 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 43 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
-| 44 | [Rio grande do Norte](http://twitter.com/search?q=Rio+grande+do+Norte) | N/A |
+| 1 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 2 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 3 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 6 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
+| 7 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 8 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
+| 9 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 10 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 11 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 12 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 13 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 14 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 16 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 17 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 18 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
+| 19 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 20 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 21 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 22 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 23 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
+| 24 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
+| 25 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
+| 26 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
+| 27 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
+| 28 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
+| 29 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
+| 30 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 33 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
+| 34 | [lari merece respeito](http://twitter.com/search?q=lari+merece+respeito) | N/A |
+| 35 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 36 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
+| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 38 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
+| 39 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 40 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 41 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 42 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 43 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 44 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 45 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 46 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 47 | [Sasha Fierce](http://twitter.com/search?q=Sasha+Fierce) | N/A |
+| 48 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
+| 49 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
 
 
 
