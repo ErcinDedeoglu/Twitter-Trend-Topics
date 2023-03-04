@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-04 15:16:48 UTC`
+📆 Last Updated: `2023-03-04 16:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#4Mar](http://twitter.com/search?q=%234Mar) | N/A |
 | 2 | [#ChávezInfinito](http://twitter.com/search?q=%23Ch%c3%a1vezInfinito) | N/A |
-| 3 | [#ENmascotas](http://twitter.com/search?q=%23ENmascotas) | N/A |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 6 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
-| 7 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
-| 8 | [El Inspector Ardilla](http://twitter.com/search?q=El+Inspector+Ardilla) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
+| 7 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 9 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
 | 10 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 11 | [#UNT17AñosContigo](http://twitter.com/search?q=%23UNT17A%c3%b1osContigo) | N/A |
-| 12 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 13 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
-| 14 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
-| 15 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
-| 16 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 18 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Olafo](http://twitter.com/search?q=Olafo) | N/A |
-| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 24 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
-| 25 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
-| 26 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 27 | [richard blanco](http://twitter.com/search?q=richard+blanco) | N/A |
-| 28 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 29 | [Felipe Pirela](http://twitter.com/search?q=Felipe+Pirela) | N/A |
-| 30 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 31 | [Parque Cristal](http://twitter.com/search?q=Parque+Cristal) | N/A |
-| 32 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 33 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 34 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 37 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
-| 38 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 39 | [givova](http://twitter.com/search?q=givova) | N/A |
-| 40 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
-| 41 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
-| 42 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 43 | [Gatos](http://twitter.com/search?q=Gatos) | N/A |
-| 44 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
-| 45 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
-| 46 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
-| 47 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 48 | [un nuevo tiempo](http://twitter.com/search?q=un+nuevo+tiempo) | N/A |
-| 49 | [río Orinoco](http://twitter.com/search?q=r%c3%ado+Orinoco) | N/A |
+| 11 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 12 | [#UNT17AñosContigo](http://twitter.com/search?q=%23UNT17A%c3%b1osContigo) | N/A |
+| 13 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
+| 14 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 15 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 16 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
+| 17 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
+| 18 | [El Inspector Ardilla](http://twitter.com/search?q=El+Inspector+Ardilla) | N/A |
+| 19 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 20 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 21 | [argelio riera](http://twitter.com/search?q=argelio+riera) | N/A |
+| 22 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [Olafo](http://twitter.com/search?q=Olafo) | N/A |
+| 26 | [Richard Blanco](http://twitter.com/search?q=Richard+Blanco) | N/A |
+| 27 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 28 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 30 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 31 | [felipe pirela](http://twitter.com/search?q=felipe+pirela) | N/A |
+| 32 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 33 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 35 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 36 | [Parque Cristal](http://twitter.com/search?q=Parque+Cristal) | N/A |
+| 37 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
+| 38 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
+| 39 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 40 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 41 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 42 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
+| 43 | [Givova](http://twitter.com/search?q=Givova) | N/A |
+| 44 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 45 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
+| 46 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 47 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 48 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
+| 49 | [CPTT](http://twitter.com/search?q=CPTT) | N/A |
 
 
 

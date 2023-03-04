@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-04 15:17:33 UTC`
+📆 Last Updated: `2023-03-04 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#nrlwarriorsknights](http://twitter.com/search?q=%23nrlwarriorsknights) | N/A |
-| 2 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
+| 2 | [#welvnew](http://twitter.com/search?q=%23welvnew) | N/A |
 | 3 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 4 | [niwa](http://twitter.com/search?q=niwa) | N/A |
-| 5 | [#moavchi](http://twitter.com/search?q=%23moavchi) | N/A |
+| 5 | [#MOAvCHI](http://twitter.com/search?q=%23MOAvCHI) | N/A |
 | 6 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 7 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
-| 8 | [sande](http://twitter.com/search?q=sande) | N/A |
-| 9 | [#WELvBRI](http://twitter.com/search?q=%23WELvBRI) | N/A |
-| 10 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
+| 9 | [Sande](http://twitter.com/search?q=Sande) | N/A |
+| 10 | [#WELvBRI](http://twitter.com/search?q=%23WELvBRI) | N/A |
 | 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 12 | [legarto](http://twitter.com/search?q=legarto) | N/A |
-| 13 | [ardie](http://twitter.com/search?q=ardie) | N/A |
-| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 15 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
-| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 12 | [LEGARTO](http://twitter.com/search?q=LEGARTO) | N/A |
+| 13 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
+| 14 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 16 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
 | 17 | [Super Rugby](http://twitter.com/search?q=Super+Rugby) | N/A |
 | 18 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 19 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 19 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 20 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 21 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 22 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 23 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
-| 24 | [Town Hall](http://twitter.com/search?q=Town+Hall) | N/A |
-| 25 | [school strike 4 climate](http://twitter.com/search?q=school+strike+4+climate) | N/A |
-| 26 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 27 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 25 | [Town Hall](http://twitter.com/search?q=Town+Hall) | N/A |
+| 26 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 27 | [school strike 4 climate](http://twitter.com/search?q=school+strike+4+climate) | N/A |
 | 28 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 29 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
 | 30 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 31 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 32 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 31 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 32 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 33 | [Coke](http://twitter.com/search?q=Coke) | N/A |
-| 34 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 35 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 34 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 35 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
 | 36 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
 | 37 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 38 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 41 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 42 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
-| 43 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 44 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 45 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 46 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 48 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
-| 49 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 50 | [Highlanders](http://twitter.com/search?q=Highlanders) | N/A |
+| 38 | [crusaders](http://twitter.com/search?q=crusaders) | N/A |
+| 39 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 40 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 41 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 42 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 45 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
+| 46 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 47 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
+| 48 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 49 | [Highlanders](http://twitter.com/search?q=Highlanders) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

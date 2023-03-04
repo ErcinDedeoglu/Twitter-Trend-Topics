@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-03-04 15:17:41 UTC`
+📆 Last Updated: `2023-03-04 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
 | 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 5 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 6 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 7 | [#loveeternal](http://twitter.com/search?q=%23loveeternal) | N/A |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 13 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 14 | [White Democrats](http://twitter.com/search?q=White+Democrats) | N/A |
-| 15 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 8 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 11 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 14 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 15 | [White Democrats](http://twitter.com/search?q=White+Democrats) | N/A |
+| 16 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 18 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
 | 19 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 20 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 21 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 22 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 23 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 24 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 25 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 26 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 27 | [Tee Morant](http://twitter.com/search?q=Tee+Morant) | Tee Morant is a phrase used to describe someone who is very confident and self-assured. It is derived from the name of NBA player Ja Morant, who is known for his swagger and confidence on the court. The phrase can be used to describe someone who has a strong sense of self and isn't afraid to take risks or stand out from the crowd. |
-| 28 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 29 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 30 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
-| 31 | [Tiny D](http://twitter.com/search?q=Tiny+D) | N/A |
-| 32 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 34 | [Kyler Murray](http://twitter.com/search?q=Kyler+Murray) | N/A |
-| 35 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 36 | [Allegedly](http://twitter.com/search?q=Allegedly) | N/A |
-| 37 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 39 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 40 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 41 | [IG Live](http://twitter.com/search?q=IG+Live) | N/A |
-| 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 43 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
-| 44 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 45 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 46 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 47 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
-| 48 | [Merry Crewsmas](http://twitter.com/search?q=Merry+Crewsmas) | N/A |
-| 49 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 20 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 21 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Tiny D](http://twitter.com/search?q=Tiny+D) | N/A |
+| 24 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 25 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 26 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 27 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
+| 28 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 29 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 30 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 31 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 32 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 33 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 34 | [Albon](http://twitter.com/search?q=Albon) | N/A |
+| 35 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
+| 36 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 38 | [SNKRS app](http://twitter.com/search?q=SNKRS+app) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 41 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 43 | [Zak Brown](http://twitter.com/search?q=Zak+Brown) | N/A |
+| 44 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 45 | [Allegedly](http://twitter.com/search?q=Allegedly) | N/A |
+| 46 | [IG Live](http://twitter.com/search?q=IG+Live) | N/A |
+| 47 | [Heilemann](http://twitter.com/search?q=Heilemann) | N/A |
+| 48 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 49 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 
 
 

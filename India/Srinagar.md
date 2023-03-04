@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-04 15:17:27 UTC`
+📆 Last Updated: `2023-03-04 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 2 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
-| 3 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
-| 4 | [#महायोद्धा_की_महागाथा](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%af%e0%a5%8b%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be_%e0%a4%95%e0%a5%80_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a4%be%e0%a4%a5%e0%a4%be) | N/A |
-| 5 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 2 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 3 | [#JioCinemaDelivers](http://twitter.com/search?q=%23JioCinemaDelivers) | N/A |
+| 4 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 5 | [#PepsiXRanveer](http://twitter.com/search?q=%23PepsiXRanveer) | N/A |
 | 6 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 8 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 9 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 12 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 13 | [Mandira Bedi](http://twitter.com/search?q=Mandira+Bedi) | N/A |
-| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 15 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
+| 7 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
+| 10 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 11 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 12 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 15 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 | 16 | [Sushant TVDebut As Preet](http://twitter.com/search?q=Sushant+TVDebut+As+Preet) | N/A |
-| 17 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 18 | [PRIYANKA 3M HEARTS ON IG](http://twitter.com/search?q=PRIYANKA+3M+HEARTS+ON+IG) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
-| 22 | [Kriti Sanon](http://twitter.com/search?q=Kriti+Sanon) | N/A |
-| 23 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
-| 26 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
-| 27 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
-| 28 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 29 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 30 | [Indian Army](http://twitter.com/search?q=Indian+Army) | N/A |
-| 31 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
-| 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 33 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 34 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
-| 35 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 17 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 18 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 19 | [Yastika](http://twitter.com/search?q=Yastika) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Brendon McCullum](http://twitter.com/search?q=Brendon+McCullum) | N/A |
+| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 23 | [Sports 18](http://twitter.com/search?q=Sports+18) | N/A |
+| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 25 | [Mandira Bedi](http://twitter.com/search?q=Mandira+Bedi) | N/A |
+| 26 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 28 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 29 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [PRIYANKA 3M HEARTS ON IG](http://twitter.com/search?q=PRIYANKA+3M+HEARTS+ON+IG) | N/A |
+| 32 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 33 | [Kriti Sanon](http://twitter.com/search?q=Kriti+Sanon) | N/A |
+| 34 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
+| 35 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 36 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
+| 37 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
 | 38 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 39 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 40 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 41 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
-| 42 | [#pepsixranveer](http://twitter.com/search?q=%23pepsixranveer) | N/A |
-| 43 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 44 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
-| 45 | [#SmileSTRONG](http://twitter.com/search?q=%23SmileSTRONG) | N/A |
-| 46 | [#WPLonJioCinema](http://twitter.com/search?q=%23WPLonJioCinema) | N/A |
-| 47 | [#GGvMI](http://twitter.com/search?q=%23GGvMI) | N/A |
-| 48 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
-| 49 | [#MindfulParenting](http://twitter.com/search?q=%23MindfulParenting) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 41 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 42 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
+| 43 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
+| 44 | [#SmileSTRONG](http://twitter.com/search?q=%23SmileSTRONG) | N/A |
+| 45 | [#GGvMI](http://twitter.com/search?q=%23GGvMI) | N/A |
+| 46 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
+| 47 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
+| 48 | [#MindfulParenting](http://twitter.com/search?q=%23MindfulParenting) | N/A |
+| 49 | [#महायोद्धा_की_महागाथा](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%af%e0%a5%8b%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be_%e0%a4%95%e0%a5%80_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a4%be%e0%a4%a5%e0%a4%be) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-04 15:17:50 UTC`
+📆 Last Updated: `2023-03-04 16:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 2 | [#NapoliLazio](http://twitter.com/search?q=%23NapoliLazio) | N/A |
-| 3 | [#4Marzo](http://twitter.com/search?q=%234Marzo) | N/A |
-| 4 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 5 | [#luciodalla](http://twitter.com/search?q=%23luciodalla) | N/A |
-| 6 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 7 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 8 | [D'Urso](http://twitter.com/search?q=D%27Urso) | N/A |
-| 9 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 10 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 11 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
-| 12 | [maurizia](http://twitter.com/search?q=maurizia) | N/A |
-| 13 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 16 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 19 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
-| 23 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 24 | [Clio](http://twitter.com/search?q=Clio) | N/A |
-| 25 | [Bergamo](http://twitter.com/search?q=Bergamo) | N/A |
-| 26 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 27 | [Feltri](http://twitter.com/search?q=Feltri) | N/A |
-| 28 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 29 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
-| 30 | [Serra](http://twitter.com/search?q=Serra) | N/A |
-| 31 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 32 | [Conte e Speranza](http://twitter.com/search?q=Conte+e+Speranza) | N/A |
-| 33 | [Ucciso](http://twitter.com/search?q=Ucciso) | N/A |
-| 34 | [Di Mariano](http://twitter.com/search?q=Di+Mariano) | N/A |
-| 35 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
-| 36 | [Maria Teresa](http://twitter.com/search?q=Maria+Teresa) | N/A |
-| 37 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 38 | [Coppa del Mondo](http://twitter.com/search?q=Coppa+del+Mondo) | N/A |
-| 39 | [Attrezzi](http://twitter.com/search?q=Attrezzi) | N/A |
-| 40 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
-| 41 | [Provedel](http://twitter.com/search?q=Provedel) | N/A |
-| 42 | [Tachipirina](http://twitter.com/search?q=Tachipirina) | N/A |
-| 43 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 44 | [Germania](http://twitter.com/search?q=Germania) | N/A |
-| 45 | [michelino](http://twitter.com/search?q=michelino) | N/A |
-| 46 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 47 | [Ciao Davide](http://twitter.com/search?q=Ciao+Davide) | N/A |
-| 48 | [Ipocrita](http://twitter.com/search?q=Ipocrita) | N/A |
-| 49 | [Mazzucco](http://twitter.com/search?q=Mazzucco) | N/A |
-| 50 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 3 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 4 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 5 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 6 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
+| 7 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 8 | [d'urso](http://twitter.com/search?q=d%27urso) | N/A |
+| 9 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 10 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 13 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 14 | [Serra](http://twitter.com/search?q=Serra) | N/A |
+| 15 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [Crisanti](http://twitter.com/search?q=Crisanti) | N/A |
+| 18 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 19 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 20 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 21 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 22 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 23 | [#MonzaEmpoli](http://twitter.com/search?q=%23MonzaEmpoli) | N/A |
+| 24 | [#4Marzo](http://twitter.com/search?q=%234Marzo) | N/A |
+| 25 | [#AntiFascista](http://twitter.com/search?q=%23AntiFascista) | N/A |
+| 26 | [#LucioDalla80](http://twitter.com/search?q=%23LucioDalla80) | N/A |
+| 27 | [#PisaPalermo](http://twitter.com/search?q=%23PisaPalermo) | N/A |
+| 28 | [#DenisePipitone](http://twitter.com/search?q=%23DenisePipitone) | N/A |
+| 29 | [#RomaJuve](http://twitter.com/search?q=%23RomaJuve) | N/A |
+| 30 | [#eurosportciclismo](http://twitter.com/search?q=%23eurosportciclismo) | N/A |
+| 31 | [#BarhainGP](http://twitter.com/search?q=%23BarhainGP) | N/A |
+| 32 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
+| 33 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 34 | [#Goggia](http://twitter.com/search?q=%23Goggia) | N/A |
+| 35 | [#DA13](http://twitter.com/search?q=%23DA13) | N/A |
+| 36 | [#AttackonTitanFinalSeason](http://twitter.com/search?q=%23AttackonTitanFinalSeason) | N/A |
+| 37 | [#Astori](http://twitter.com/search?q=%23Astori) | N/A |
+| 38 | [#ConUnImmagine](http://twitter.com/search?q=%23ConUnImmagine) | N/A |
+| 39 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
+| 40 | [#SalviniDimettiti](http://twitter.com/search?q=%23SalviniDimettiti) | N/A |
 
 
 

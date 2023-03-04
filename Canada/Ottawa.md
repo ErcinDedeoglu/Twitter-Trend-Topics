@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-04 15:16:35 UTC`
+📆 Last Updated: `2023-03-04 16:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [#thundersnow](http://twitter.com/search?q=%23thundersnow) | N/A |
-| 6 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 12 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 13 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 14 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 15 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 16 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 17 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 19 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 20 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 21 | [nuge](http://twitter.com/search?q=nuge) | N/A |
-| 22 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 23 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 24 | [Legault](http://twitter.com/search?q=Legault) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 29 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 30 | [bob rae](http://twitter.com/search?q=bob+rae) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [dryden hunt](http://twitter.com/search?q=dryden+hunt) | N/A |
-| 33 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 35 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 36 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 37 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
-| 38 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 39 | [scheifele](http://twitter.com/search?q=scheifele) | N/A |
-| 40 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 41 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 42 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
-| 43 | [Naci](http://twitter.com/search?q=Naci) | N/A |
-| 44 | [bruce boudreau](http://twitter.com/search?q=bruce+boudreau) | N/A |
-| 45 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 46 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 47 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 48 | [kesselring](http://twitter.com/search?q=kesselring) | N/A |
+| 1 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [#thundersnow](http://twitter.com/search?q=%23thundersnow) | N/A |
+| 8 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 13 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 14 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 18 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 21 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 23 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 24 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 27 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 28 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 29 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [carti](http://twitter.com/search?q=carti) | Carti is a slang term used to refer to rapper Playboi Carti. It is derived from his stage name and is often used as a nickname for him. |
+| 32 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 33 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
+| 34 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 35 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
+| 36 | [drouin](http://twitter.com/search?q=drouin) | N/A |
+| 37 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 38 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
+| 39 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
+| 40 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 41 | [NACI](http://twitter.com/search?q=NACI) | N/A |
+| 42 | [Bob Rae](http://twitter.com/search?q=Bob+Rae) | N/A |
+| 43 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 44 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 45 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 46 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 47 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 48 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
 
 
 

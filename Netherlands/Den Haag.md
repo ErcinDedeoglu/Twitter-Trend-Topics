@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-04 15:17:00 UTC`
+📆 Last Updated: `2023-03-04 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
-| 2 | [#pecdbo](http://twitter.com/search?q=%23pecdbo) | N/A |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [#utrfor](http://twitter.com/search?q=%23utrfor) | N/A |
-| 5 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [#pecdbo](http://twitter.com/search?q=%23pecdbo) | N/A |
+| 4 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
+| 5 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
 | 6 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
-| 7 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
-| 8 | [Vollering](http://twitter.com/search?q=Vollering) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 11 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
-| 12 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 13 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 14 | [Robbin](http://twitter.com/search?q=Robbin) | N/A |
-| 15 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 16 | [Slager](http://twitter.com/search?q=Slager) | N/A |
-| 17 | [Binnenhof](http://twitter.com/search?q=Binnenhof) | N/A |
-| 18 | [Zolang Rutte](http://twitter.com/search?q=Zolang+Rutte) | N/A |
-| 19 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 20 | [Wissel](http://twitter.com/search?q=Wissel) | N/A |
-| 21 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 22 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 23 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 24 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 25 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 26 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 27 | [Femke Kok](http://twitter.com/search?q=Femke+Kok) | N/A |
-| 28 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 29 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 30 | [Attje](http://twitter.com/search?q=Attje) | N/A |
-| 31 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 32 | [Olij](http://twitter.com/search?q=Olij) | N/A |
-| 33 | [Leo Driessen](http://twitter.com/search?q=Leo+Driessen) | N/A |
-| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 35 | [pakhuis de zwijger](http://twitter.com/search?q=pakhuis+de+zwijger) | N/A |
-| 36 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 37 | [De 2e](http://twitter.com/search?q=De+2e) | N/A |
-| 38 | [Mathieu van der Poel](http://twitter.com/search?q=Mathieu+van+der+Poel) | N/A |
-| 39 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
-| 40 | [Puck Pieterse](http://twitter.com/search?q=Puck+Pieterse) | N/A |
-| 41 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 42 | [Josse de Voogd](http://twitter.com/search?q=Josse+de+Voogd) | N/A |
-| 43 | [Buitenlandse Zaken](http://twitter.com/search?q=Buitenlandse+Zaken) | N/A |
-| 44 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 45 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 46 | [Benoot](http://twitter.com/search?q=Benoot) | N/A |
-| 47 | [Joy Beune](http://twitter.com/search?q=Joy+Beune) | N/A |
-| 48 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 49 | [Johan](http://twitter.com/search?q=Johan) | N/A |
-| 50 | [Mats](http://twitter.com/search?q=Mats) | N/A |
+| 7 | [Valter](http://twitter.com/search?q=Valter) | N/A |
+| 8 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 9 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Vollering](http://twitter.com/search?q=Vollering) | N/A |
+| 12 | [Benoot](http://twitter.com/search?q=Benoot) | N/A |
+| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 14 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 15 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
+| 16 | [Wissel](http://twitter.com/search?q=Wissel) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Robbin](http://twitter.com/search?q=Robbin) | N/A |
+| 19 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
+| 20 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 21 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [PEC Zwolle](http://twitter.com/search?q=PEC+Zwolle) | N/A |
+| 24 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 25 | [Slager](http://twitter.com/search?q=Slager) | N/A |
+| 26 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 29 | [Geel](http://twitter.com/search?q=Geel) | N/A |
+| 30 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 31 | [Zolang Rutte](http://twitter.com/search?q=Zolang+Rutte) | N/A |
+| 32 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 33 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
+| 34 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 35 | [de 2e](http://twitter.com/search?q=de+2e) | N/A |
+| 36 | [Binnenhof](http://twitter.com/search?q=Binnenhof) | N/A |
+| 37 | [Sporza](http://twitter.com/search?q=Sporza) | N/A |
+| 38 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 39 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
+| 40 | [hartman](http://twitter.com/search?q=hartman) | N/A |
+| 41 | [Attje](http://twitter.com/search?q=Attje) | N/A |
+| 42 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 43 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 44 | [olij](http://twitter.com/search?q=olij) | N/A |
+| 45 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 47 | [Femke Kok](http://twitter.com/search?q=Femke+Kok) | N/A |
+| 48 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 49 | [Werkt](http://twitter.com/search?q=Werkt) | N/A |
+| 50 | [Puck Pieterse](http://twitter.com/search?q=Puck+Pieterse) | N/A |
 
 
 
