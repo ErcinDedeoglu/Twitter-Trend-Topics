@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-04 03:18:08 UTC`
+📆 Last Updated: `2023-03-04 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 2 | [#thundersnow](http://twitter.com/search?q=%23thundersnow) | N/A |
 | 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 5 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 6 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 4 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 5 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 6 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
 | 7 | [#dlws](http://twitter.com/search?q=%23dlws) | N/A |
 | 8 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 9 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 11 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 12 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 15 | [Lazar](http://twitter.com/search?q=Lazar) | N/A |
-| 16 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Health Canada](http://twitter.com/search?q=Health+Canada) | N/A |
-| 19 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 21 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 22 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
-| 23 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 24 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 25 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 26 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 27 | [Rachel Gilmore](http://twitter.com/search?q=Rachel+Gilmore) | N/A |
-| 28 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 29 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
-| 30 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 31 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 32 | [Edmundson](http://twitter.com/search?q=Edmundson) | N/A |
-| 33 | [Nick Bonino](http://twitter.com/search?q=Nick+Bonino) | N/A |
-| 34 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 35 | [Dryden Hunt](http://twitter.com/search?q=Dryden+Hunt) | N/A |
-| 36 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 37 | [CN Tower](http://twitter.com/search?q=CN+Tower) | N/A |
-| 38 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 39 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 40 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 41 | [frédéric allard](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+allard) | N/A |
-| 42 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 43 | [Bruce Boudreau](http://twitter.com/search?q=Bruce+Boudreau) | Bruce Boudreau is the name of a Canadian professional ice hockey coach and former player. He is currently the head coach of the Minnesota Wild of the National Hockey League (NHL). He has also coached the Washington Capitals, Anaheim Ducks, and Ottawa Senators. |
-| 44 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
-| 45 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 46 | [Namestnikov](http://twitter.com/search?q=Namestnikov) | N/A |
-| 47 | [De La Soul](http://twitter.com/search?q=De+La+Soul) | N/A |
-| 48 | [Patrick Brown](http://twitter.com/search?q=Patrick+Brown) | N/A |
-| 49 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
-| 50 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 9 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 10 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 12 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 13 | [Guhle](http://twitter.com/search?q=Guhle) | N/A |
+| 14 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
+| 15 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 16 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 17 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
+| 18 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
+| 19 | [Connor Bedard](http://twitter.com/search?q=Connor+Bedard) | Connor Bedard is a Canadian ice hockey player who currently plays for the Regina Pats of the Western Hockey League. He was selected first overall in the 2020 WHL Bantam Draft. The name Connor Bedard is derived from the Irish surname "O'Bedard," which means "descendant of Bede." |
+| 20 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 21 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 22 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 23 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 24 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 25 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 26 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
+| 27 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 28 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 29 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 30 | [#snowstorm](http://twitter.com/search?q=%23snowstorm) | N/A |
+| 31 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
+| 32 | [#WinterStorm](http://twitter.com/search?q=%23WinterStorm) | #WinterStorm is a hashtag used on social media to refer to a severe winter storm. It is typically used to share information about the storm, such as its location, intensity, and potential impacts. |
+| 33 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 34 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 35 | [#onwx](http://twitter.com/search?q=%23onwx) | N/A |
+| 36 | [#ontariostorm](http://twitter.com/search?q=%23ontariostorm) | N/A |
+| 37 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 38 | [#Brier2023](http://twitter.com/search?q=%23Brier2023) | N/A |
+| 39 | [#LdnOnt](http://twitter.com/search?q=%23LdnOnt) | N/A |
+| 40 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
 
 
 

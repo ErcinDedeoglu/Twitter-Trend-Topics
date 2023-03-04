@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-04 03:17:59 UTC`
+📆 Last Updated: `2023-03-04 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 2 | [Alpharetta](http://twitter.com/search?q=Alpharetta) | N/A |
-| 3 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 4 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 5 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 6 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 7 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 10 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 16 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 18 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 21 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 22 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 23 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 24 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 25 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
-| 26 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
-| 27 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 29 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 30 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 31 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 32 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
-| 33 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 34 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 35 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 36 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 37 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 39 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
-| 40 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 41 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 42 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 43 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 44 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
-| 45 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 46 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 47 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 48 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 49 | [Up 28](http://twitter.com/search?q=Up+28) | N/A |
-| 50 | [Aaron Wiggins](http://twitter.com/search?q=Aaron+Wiggins) | N/A |
+| 5 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 6 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 7 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 8 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 9 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 12 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 13 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 14 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 15 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 16 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 17 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 18 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 19 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 20 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 21 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 22 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 23 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
+| 24 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 25 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 26 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 27 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 28 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
+| 29 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 30 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 31 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 32 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 33 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 34 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 35 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 36 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 37 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
+| 38 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 39 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 40 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 41 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 42 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 43 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 44 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 45 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 46 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
+| 47 | [Richard Jefferson](http://twitter.com/search?q=Richard+Jefferson) | N/A |
+| 48 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
+| 49 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
+| 50 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
 
 
 

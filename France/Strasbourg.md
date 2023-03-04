@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-04 03:17:34 UTC`
+📆 Last Updated: `2023-03-04 04:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,48 @@ This is top 50 for [France](</France>)
 | 4 | [#OGCNAJA](http://twitter.com/search?q=%23OGCNAJA) | N/A |
 | 5 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
 | 6 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 7 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 8 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 9 | [Merci MAPPA](http://twitter.com/search?q=Merci+MAPPA) | N/A |
-| 10 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 9 | [L'épisode de SNK](http://twitter.com/search?q=L%27%c3%a9pisode+de+SNK) | N/A |
+| 10 | [Merci MAPPA](http://twitter.com/search?q=Merci+MAPPA) | N/A |
 | 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 12 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Rious](http://twitter.com/search?q=Rious) | N/A |
+| 12 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 13 | [Rious](http://twitter.com/search?q=Rious) | N/A |
+| 14 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
 | 15 | [Tintin](http://twitter.com/search?q=Tintin) | N/A |
-| 16 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
-| 17 | [Le Space](http://twitter.com/search?q=Le+Space) | N/A |
-| 18 | [Voiranime](http://twitter.com/search?q=Voiranime) | N/A |
-| 19 | [djadja](http://twitter.com/search?q=djadja) | N/A |
+| 16 | [voiranime](http://twitter.com/search?q=voiranime) | N/A |
+| 17 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Djadja](http://twitter.com/search?q=Djadja) | N/A |
 | 20 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 22 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 23 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 24 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
+| 21 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 22 | [Sociabilité](http://twitter.com/search?q=Sociabilit%c3%a9) | N/A |
+| 23 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 24 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
 | 25 | [mimie mathy](http://twitter.com/search?q=mimie+mathy) | N/A |
-| 26 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 27 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 26 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 27 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 28 | [Gabon](http://twitter.com/search?q=Gabon) | N/A |
-| 29 | [Shay](http://twitter.com/search?q=Shay) | N/A |
-| 30 | [Hansi](http://twitter.com/search?q=Hansi) | N/A |
-| 31 | [Caron](http://twitter.com/search?q=Caron) | N/A |
-| 32 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 29 | [Hansi](http://twitter.com/search?q=Hansi) | N/A |
+| 30 | [Wayne Shorter](http://twitter.com/search?q=Wayne+Shorter) | N/A |
+| 31 | [Shay](http://twitter.com/search?q=Shay) | N/A |
+| 32 | [Caron](http://twitter.com/search?q=Caron) | N/A |
 | 33 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 34 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
+| 34 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
 | 35 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 36 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 37 | [kessie](http://twitter.com/search?q=kessie) | N/A |
-| 38 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 36 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 37 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 38 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
 | 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 40 | [Lanvin](http://twitter.com/search?q=Lanvin) | N/A |
-| 41 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 42 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
-| 43 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 44 | [Dinaz](http://twitter.com/search?q=Dinaz) | N/A |
-| 45 | [Rohff](http://twitter.com/search?q=Rohff) | N/A |
-| 46 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
-| 47 | [Radu](http://twitter.com/search?q=Radu) | N/A |
+| 40 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 41 | [Lanvin](http://twitter.com/search?q=Lanvin) | N/A |
+| 42 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 43 | [Kekra](http://twitter.com/search?q=Kekra) | N/A |
+| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 45 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 46 | [Dinaz](http://twitter.com/search?q=Dinaz) | N/A |
+| 47 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 48 | [rohff](http://twitter.com/search?q=rohff) | N/A |
 
 
 

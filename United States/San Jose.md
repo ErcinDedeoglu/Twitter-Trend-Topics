@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-04 03:18:06 UTC`
+📆 Last Updated: `2023-03-04 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 4 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 5 | [USPS](http://twitter.com/search?q=USPS) | N/A |
-| 6 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 7 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
-| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 10 | [#EmployeeAppreciationDay](http://twitter.com/search?q=%23EmployeeAppreciationDay) | N/A |
-| 11 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 12 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 13 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 15 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 16 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 18 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 21 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 22 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 23 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 24 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 25 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
-| 26 | [Uncle Howdy](http://twitter.com/search?q=Uncle+Howdy) | Uncle Howdy is a term of endearment used to refer to someone who is like an uncle figure. It is usually used in a playful or affectionate way. The literal meaning of the phrase is "dear uncle". |
-| 27 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
-| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 29 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 30 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 31 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 32 | [Cam Johnson](http://twitter.com/search?q=Cam+Johnson) | Cam Johnson is a slang term used to describe someone who is very confident and outgoing. It can also be used to describe someone who is always the life of the party. |
-| 33 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
-| 34 | [WE WANT CARDI](http://twitter.com/search?q=WE+WANT+CARDI) | N/A |
-| 35 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 36 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 37 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 39 | [Santos Escobar](http://twitter.com/search?q=Santos+Escobar) | Santos Escobar is a Mexican professional wrestler currently signed to WWE. His ring name is derived from the Spanish words for "saints" and "harbor," and it can be translated to mean "saints' harbor." |
-| 40 | [Josh Okogie](http://twitter.com/search?q=Josh+Okogie) | N/A |
-| 41 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 1 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 4 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 5 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 8 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 9 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 11 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 12 | [USPS](http://twitter.com/search?q=USPS) | N/A |
+| 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 14 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 15 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 16 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 17 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 19 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 20 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 21 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 22 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 23 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 24 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 25 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 26 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 27 | [DOUBLE BANG](http://twitter.com/search?q=DOUBLE+BANG) | N/A |
+| 28 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 29 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 32 | [8 IN A ROW](http://twitter.com/search?q=8+IN+A+ROW) | N/A |
+| 33 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 34 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 35 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 36 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 37 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 38 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 39 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 40 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 41 | [Thundersnow](http://twitter.com/search?q=Thundersnow) | N/A |
 | 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 43 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 44 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 45 | [Big Run](http://twitter.com/search?q=Big+Run) | N/A |
-| 46 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
-| 47 | [Aaron Wiggins](http://twitter.com/search?q=Aaron+Wiggins) | N/A |
-| 48 | [Josh Berry](http://twitter.com/search?q=Josh+Berry) | N/A |
-| 49 | [Up 28](http://twitter.com/search?q=Up+28) | N/A |
+| 43 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 44 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 45 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 46 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 47 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 48 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 49 | [Caddyshack](http://twitter.com/search?q=Caddyshack) | N/A |
 
 
 

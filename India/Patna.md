@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-04 03:17:55 UTC`
+📆 Last Updated: `2023-03-04 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SantGaribdasji_BodhDiwas](http://twitter.com/search?q=%23SantGaribdasji_BodhDiwas) | N/A |
-| 2 | [#GiveGirlsWings](http://twitter.com/search?q=%23GiveGirlsWings) | N/A |
-| 3 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 2 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 3 | [#GiveGirlsWings](http://twitter.com/search?q=%23GiveGirlsWings) | N/A |
 | 4 | [#प्राकृतिक_होली](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
-| 5 | [#RiseUpBaby](http://twitter.com/search?q=%23RiseUpBaby) | N/A |
-| 6 | [Vedic Holi](http://twitter.com/search?q=Vedic+Holi) | N/A |
-| 7 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 8 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 5 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 6 | [#RiseUpBaby](http://twitter.com/search?q=%23RiseUpBaby) | N/A |
+| 7 | [#NationalSafetyDay](http://twitter.com/search?q=%23NationalSafetyDay) | N/A |
+| 8 | [Vedic Holi](http://twitter.com/search?q=Vedic+Holi) | N/A |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
 | 11 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 13 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 14 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 15 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
-| 16 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
-| 17 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 18 | [Royal Daughters](http://twitter.com/search?q=Royal+Daughters) | N/A |
-| 19 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 20 | [CHARTBUSTER BILLI BILLI](http://twitter.com/search?q=CHARTBUSTER+BILLI+BILLI) | N/A |
+| 12 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 13 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
+| 14 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
+| 15 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 16 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 17 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 18 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 19 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 20 | [chartbuster billi billi](http://twitter.com/search?q=chartbuster+billi+billi) | N/A |
 | 21 | [साधना टीवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a7%e0%a4%a8%e0%a4%be+%e0%a4%9f%e0%a5%80%e0%a4%b5%e0%a5%80) | N/A |
-| 22 | [Shahi Betiyan](http://twitter.com/search?q=Shahi+Betiyan) | N/A |
-| 23 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 24 | [remove samji from hp3](http://twitter.com/search?q=remove+samji+from+hp3) | N/A |
-| 25 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 26 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
-| 27 | [breaking laws](http://twitter.com/search?q=breaking+laws) | N/A |
-| 28 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
-| 29 | [1yr of rdh ft tejran](http://twitter.com/search?q=1yr+of+rdh+ft+tejran) | N/A |
-| 30 | [journalists in court](http://twitter.com/search?q=journalists+in+court) | N/A |
-| 31 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 32 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 33 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
-| 34 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
-| 35 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 36 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
-| 37 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 38 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
+| 22 | [Royal Daughters](http://twitter.com/search?q=Royal+Daughters) | N/A |
+| 23 | [श्री अर्जुन सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 24 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 25 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 26 | [remove samji from hp3](http://twitter.com/search?q=remove+samji+from+hp3) | N/A |
+| 27 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 28 | [Shahi Betiyan](http://twitter.com/search?q=Shahi+Betiyan) | N/A |
+| 29 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 30 | [मनीष चाचा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%9a%e0%a4%be%e0%a4%9a%e0%a4%be) | N/A |
+| 31 | [1yr of rdh ft tejran](http://twitter.com/search?q=1yr+of+rdh+ft+tejran) | N/A |
+| 32 | [Sadhna TV](http://twitter.com/search?q=Sadhna+TV) | N/A |
+| 33 | [Tripura](http://twitter.com/search?q=Tripura) | N/A |
+| 34 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 35 | [विदेशी धरती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 36 | [Public Demands Justice4SSR](http://twitter.com/search?q=Public+Demands+Justice4SSR) | N/A |
+| 37 | [Chhetri](http://twitter.com/search?q=Chhetri) | N/A |
+| 38 | [1YR OF BADASS JAILOR KARAN](http://twitter.com/search?q=1YR+OF+BADASS+JAILOR+KARAN) | N/A |
 | 39 | [NATTU NATTU](http://twitter.com/search?q=NATTU+NATTU) | N/A |
-| 40 | [North East](http://twitter.com/search?q=North+East) | N/A |
-| 41 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 40 | [Lokayukta](http://twitter.com/search?q=Lokayukta) | N/A |
+| 41 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
 | 42 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 43 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
-| 44 | [Sadhna TV](http://twitter.com/search?q=Sadhna+TV) | N/A |
-| 45 | [Ujjain](http://twitter.com/search?q=Ujjain) | N/A |
+| 43 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 44 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 45 | [North East](http://twitter.com/search?q=North+East) | N/A |
 | 46 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
-| 47 | [Ranveer](http://twitter.com/search?q=Ranveer) | N/A |
-| 48 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
-| 49 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 50 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 47 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 48 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 49 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 50 | [Zero Harm](http://twitter.com/search?q=Zero+Harm) | N/A |
 
 
 

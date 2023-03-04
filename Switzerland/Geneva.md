@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-04 03:17:38 UTC`
+📆 Last Updated: `2023-03-04 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [#Klimastreik](http://twitter.com/search?q=%23Klimastreik) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 6 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
-| 7 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 8 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 9 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
-| 10 | [rüebli](http://twitter.com/search?q=r%c3%bcebli) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
-| 13 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
-| 14 | [städten](http://twitter.com/search?q=st%c3%a4dten) | N/A |
-| 15 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 17 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 18 | [streifen](http://twitter.com/search?q=streifen) | N/A |
-| 19 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
-| 20 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
-| 21 | [Kollege](http://twitter.com/search?q=Kollege) | N/A |
-| 22 | [ethiopia](http://twitter.com/search?q=ethiopia) | N/A |
-| 23 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 24 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 25 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 26 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
-| 27 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 28 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 29 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 30 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
-| 31 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 32 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 33 | [zoug](http://twitter.com/search?q=zoug) | N/A |
-| 34 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 35 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
-| 36 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 37 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 38 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 39 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 40 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 41 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
-| 42 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 43 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 44 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 46 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 47 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 6 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 7 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
+| 8 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 9 | [vaud](http://twitter.com/search?q=vaud) | N/A |
+| 10 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
+| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 12 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
+| 13 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 14 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
+| 15 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 16 | [streifen](http://twitter.com/search?q=streifen) | N/A |
+| 17 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
+| 18 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 19 | [teuerungsausgleich](http://twitter.com/search?q=teuerungsausgleich) | N/A |
+| 20 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 21 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
+| 22 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 23 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 24 | [Ersatz](http://twitter.com/search?q=Ersatz) | N/A |
+| 25 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 26 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 27 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 28 | [zoug](http://twitter.com/search?q=zoug) | N/A |
+| 29 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
+| 30 | [parlamentarier](http://twitter.com/search?q=parlamentarier) | N/A |
+| 31 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 32 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 33 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 34 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 35 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 36 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 39 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
+| 40 | [Renten](http://twitter.com/search?q=Renten) | N/A |
+| 41 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 42 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 43 | [Fair](http://twitter.com/search?q=Fair) | N/A |
+| 44 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 45 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
+| 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 47 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
 
 
 

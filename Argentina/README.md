@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-04 03:18:07 UTC`
+📆 Last Updated: `2023-03-04 04:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [Balbo](http://twitter.com/search?q=Balbo) | N/A |
 | 2 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 3 | [Melano](http://twitter.com/search?q=Melano) | N/A |
-| 4 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 3 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 4 | [Melano](http://twitter.com/search?q=Melano) | N/A |
 | 5 | [Broun](http://twitter.com/search?q=Broun) | N/A |
 | 6 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 7 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 8 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 8 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
 | 9 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 10 | [Servio](http://twitter.com/search?q=Servio) | Servio is a Spanish word that means "service" or "help". It is often used to refer to a service provided by someone or something, such as customer service or technical support. |
-| 11 | [Veron](http://twitter.com/search?q=Veron) | N/A |
-| 12 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
-| 13 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 14 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 15 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 16 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 17 | [Piris](http://twitter.com/search?q=Piris) | N/A |
-| 18 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
-| 19 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 20 | [LOS EX EN GH](http://twitter.com/search?q=LOS+EX+EN+GH) | N/A |
-| 21 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
-| 22 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
-| 23 | [Aued](http://twitter.com/search?q=Aued) | N/A |
+| 10 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 11 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 12 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 13 | [Veron](http://twitter.com/search?q=Veron) | N/A |
+| 14 | [Lanata](http://twitter.com/search?q=Lanata) | N/A |
+| 15 | [Machuca](http://twitter.com/search?q=Machuca) | N/A |
+| 16 | [Piris](http://twitter.com/search?q=Piris) | N/A |
+| 17 | [Servio](http://twitter.com/search?q=Servio) | Servio is a Spanish word that means "service" or "help". It is often used to refer to a service provided by someone or something, such as customer service or technical support. |
+| 18 | [LOS EX EN GH](http://twitter.com/search?q=LOS+EX+EN+GH) | N/A |
+| 19 | [#LaliEnVelez](http://twitter.com/search?q=%23LaliEnVelez) | N/A |
+| 20 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 21 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 22 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 23 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
 | 24 | [#TXTINARGENTINA](http://twitter.com/search?q=%23TXTINARGENTINA) | N/A |
-| 25 | [Lisandro López](http://twitter.com/search?q=Lisandro+L%c3%b3pez) | N/A |
-| 26 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
-| 27 | [#RosarioCentral](http://twitter.com/search?q=%23RosarioCentral) | N/A |
-| 28 | [Zuqui](http://twitter.com/search?q=Zuqui) | N/A |
-| 29 | [Lanata](http://twitter.com/search?q=Lanata) | N/A |
-| 30 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 31 | [Vía Blanca](http://twitter.com/search?q=V%c3%ada+Blanca) | N/A |
-| 32 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
-| 33 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 34 | [Campaz](http://twitter.com/search?q=Campaz) | Campaz is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 35 | [Leña](http://twitter.com/search?q=Le%c3%b1a) | N/A |
-| 36 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 37 | [BKCC](http://twitter.com/search?q=BKCC) | N/A |
-| 38 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 39 | [Sappa](http://twitter.com/search?q=Sappa) | N/A |
-| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 41 | [Junín](http://twitter.com/search?q=Jun%c3%adn) | N/A |
-| 42 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
-| 43 | [Piatti](http://twitter.com/search?q=Piatti) | N/A |
-| 44 | [Zaramay](http://twitter.com/search?q=Zaramay) | N/A |
-| 45 | [Pincha](http://twitter.com/search?q=Pincha) | N/A |
-| 46 | [Almagro](http://twitter.com/search?q=Almagro) | N/A |
-| 47 | [Bernardi](http://twitter.com/search?q=Bernardi) | N/A |
-| 48 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 49 | [QUEREMOS A LOS EX](http://twitter.com/search?q=QUEREMOS+A+LOS+EX) | N/A |
-| 50 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 25 | [Aued](http://twitter.com/search?q=Aued) | N/A |
+| 26 | [Lisandro López](http://twitter.com/search?q=Lisandro+L%c3%b3pez) | N/A |
+| 27 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
+| 28 | [#Vendimia2023](http://twitter.com/search?q=%23Vendimia2023) | N/A |
+| 29 | [Zuqui](http://twitter.com/search?q=Zuqui) | N/A |
+| 30 | [#RosarioCentral](http://twitter.com/search?q=%23RosarioCentral) | N/A |
+| 31 | [Campaz](http://twitter.com/search?q=Campaz) | Campaz is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 32 | [All Boys](http://twitter.com/search?q=All+Boys) | N/A |
+| 33 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 34 | [Vía Blanca](http://twitter.com/search?q=V%c3%ada+Blanca) | N/A |
+| 35 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
+| 36 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 37 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 38 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 39 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 40 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 41 | [Leña](http://twitter.com/search?q=Le%c3%b1a) | N/A |
+| 42 | [Sappa](http://twitter.com/search?q=Sappa) | N/A |
+| 43 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 44 | [Piatti](http://twitter.com/search?q=Piatti) | N/A |
+| 45 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
+| 46 | [Junín](http://twitter.com/search?q=Jun%c3%adn) | N/A |
+| 47 | [Pincha](http://twitter.com/search?q=Pincha) | N/A |
+| 48 | [Zaramay](http://twitter.com/search?q=Zaramay) | N/A |
+| 49 | [Almagro](http://twitter.com/search?q=Almagro) | N/A |
+| 50 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
 
 
 

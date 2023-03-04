@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-04 03:17:21 UTC`
+📆 Last Updated: `2023-03-04 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dick Campbell](http://twitter.com/search?q=Dick+Campbell) | N/A |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 1 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 2 | [#WorldBookDay2023](http://twitter.com/search?q=%23WorldBookDay2023) | N/A |
 | 3 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 4 | [#LastLegWhatsApp](http://twitter.com/search?q=%23LastLegWhatsApp) | N/A |
-| 5 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 6 | [#hcafc](http://twitter.com/search?q=%23hcafc) | N/A |
-| 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 8 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 9 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 10 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 12 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 13 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
-| 14 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
-| 15 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 16 | [Roman Reigns](http://twitter.com/search?q=Roman+Reigns) | N/A |
-| 17 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 18 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
-| 19 | [Hurrell](http://twitter.com/search?q=Hurrell) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 22 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 23 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 24 | [Falklands](http://twitter.com/search?q=Falklands) | N/A |
-| 25 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 26 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 27 | [Keown](http://twitter.com/search?q=Keown) | N/A |
-| 28 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
-| 29 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 31 | [Crunchyroll](http://twitter.com/search?q=Crunchyroll) | N/A |
-| 32 | [Boost](http://twitter.com/search?q=Boost) | N/A |
-| 33 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 34 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 35 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 36 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 37 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 38 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 39 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 40 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
-| 41 | [#SLStHLee](http://twitter.com/search?q=%23SLStHLee) | N/A |
-| 42 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 43 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 44 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 45 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
-| 46 | [#thankyouwad](http://twitter.com/search?q=%23thankyouwad) | N/A |
-| 47 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
-| 48 | [#GrowingTogether](http://twitter.com/search?q=%23GrowingTogether) | N/A |
-| 49 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 6 | [#WorldWildlifeDay](http://twitter.com/search?q=%23WorldWildlifeDay) | N/A |
+| 7 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 8 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 9 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 12 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 13 | [Glastonbury](http://twitter.com/search?q=Glastonbury) | N/A |
+| 14 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 15 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 16 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 20 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 21 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 22 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 23 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 24 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 26 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 27 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 28 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 29 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
+| 30 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 31 | [Oakeshott](http://twitter.com/search?q=Oakeshott) | N/A |
+| 32 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 34 | [David Frost](http://twitter.com/search?q=David+Frost) | N/A |
+| 35 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 36 | [Chris Kendall](http://twitter.com/search?q=Chris+Kendall) | N/A |
+| 37 | [Crunchie](http://twitter.com/search?q=Crunchie) | N/A |
+| 38 | [Picnic](http://twitter.com/search?q=Picnic) | N/A |
+| 39 | [Double Decker](http://twitter.com/search?q=Double+Decker) | N/A |
+| 40 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 41 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 42 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 43 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 44 | [Keown](http://twitter.com/search?q=Keown) | N/A |
+| 45 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 46 | [Georgia Harrison](http://twitter.com/search?q=Georgia+Harrison) | N/A |
+| 47 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 48 | [Wispa](http://twitter.com/search?q=Wispa) | N/A |
+| 49 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 50 | [Daily Quordle 403](http://twitter.com/search?q=Daily+Quordle+403) | N/A |
 
 
 
