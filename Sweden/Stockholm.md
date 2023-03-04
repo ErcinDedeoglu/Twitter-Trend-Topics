@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-04 14:16:43 UTC`
+📆 Last Updated: `2023-03-04 15:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
-| 2 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 3 | [Linn](http://twitter.com/search?q=Linn) | N/A |
-| 4 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 5 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
-| 6 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 2 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 3 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 4 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 5 | [Linn](http://twitter.com/search?q=Linn) | N/A |
+| 6 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
 | 7 | [Videll](http://twitter.com/search?q=Videll) | N/A |
-| 8 | [Sirius](http://twitter.com/search?q=Sirius) | N/A |
-| 9 | [Mange](http://twitter.com/search?q=Mange) | N/A |
-| 10 | [Frida Karlsson](http://twitter.com/search?q=Frida+Karlsson) | Frida Karlsson is a Swedish female given name. It is derived from the Old Norse name Fríða, which means "beautiful" or "beloved". |
-| 11 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 12 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 13 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 14 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
-| 15 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
-| 16 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
-| 17 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 18 | [Simon Strand](http://twitter.com/search?q=Simon+Strand) | N/A |
-| 19 | [jomshof](http://twitter.com/search?q=jomshof) | N/A |
-| 20 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 21 | [kaskisuo](http://twitter.com/search?q=kaskisuo) | N/A |
-| 22 | [Alperna](http://twitter.com/search?q=Alperna) | N/A |
-| 23 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [#SvenskaCupen](http://twitter.com/search?q=%23SvenskaCupen) | N/A |
-| 26 | [#RussiaIsCollapsing](http://twitter.com/search?q=%23RussiaIsCollapsing) | N/A |
+| 8 | [Freddie Mercury](http://twitter.com/search?q=Freddie+Mercury) | N/A |
+| 9 | [Sirius](http://twitter.com/search?q=Sirius) | N/A |
+| 10 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 11 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 15 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 16 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 17 | [#svenskacupen](http://twitter.com/search?q=%23svenskacupen) | N/A |
+| 18 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
+| 19 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 20 | [Simon Strand](http://twitter.com/search?q=Simon+Strand) | N/A |
+| 21 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 22 | [fredag](http://twitter.com/search?q=fredag) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [kaskisuo](http://twitter.com/search?q=kaskisuo) | N/A |
+| 25 | [Alperna](http://twitter.com/search?q=Alperna) | N/A |
+| 26 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 27 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 28 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
-| 29 | [varberg](http://twitter.com/search?q=varberg) | N/A |
-| 30 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 32 | [Tullinge](http://twitter.com/search?q=Tullinge) | N/A |
-| 33 | [Föräldrar](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrar) | N/A |
-| 34 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [katrineholm](http://twitter.com/search?q=katrineholm) | N/A |
-| 37 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
-| 38 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 39 | [Stryktipset](http://twitter.com/search?q=Stryktipset) | N/A |
-| 40 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 41 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
-| 42 | [trolltider](http://twitter.com/search?q=trolltider) | N/A |
-| 43 | [höganäs](http://twitter.com/search?q=h%c3%b6gan%c3%a4s) | N/A |
-| 44 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
-| 45 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 46 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 47 | [hyresgästföreningen](http://twitter.com/search?q=hyresg%c3%a4stf%c3%b6reningen) | N/A |
-| 48 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 49 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 50 | [Ales Bialiatski](http://twitter.com/search?q=Ales+Bialiatski) | N/A |
+| 28 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 29 | [#vardagpåminplanet](http://twitter.com/search?q=%23vardagp%c3%a5minplanet) | N/A |
+| 30 | [Föräldrar](http://twitter.com/search?q=F%c3%b6r%c3%a4ldrar) | N/A |
+| 31 | [varberg](http://twitter.com/search?q=varberg) | N/A |
+| 32 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 33 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
+| 34 | [Frida Karlsson](http://twitter.com/search?q=Frida+Karlsson) | Frida Karlsson is a Swedish female given name. It is derived from the Old Norse name Fríða, which means "beautiful" or "beloved". |
+| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 36 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
+| 37 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 40 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 41 | [Stryktipset](http://twitter.com/search?q=Stryktipset) | N/A |
+| 42 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 43 | [trolltider](http://twitter.com/search?q=trolltider) | N/A |
+| 44 | [höganäs](http://twitter.com/search?q=h%c3%b6gan%c3%a4s) | N/A |
+| 45 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 46 | [katrineholm](http://twitter.com/search?q=katrineholm) | N/A |
+| 47 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 48 | [hyresgästföreningen](http://twitter.com/search?q=hyresg%c3%a4stf%c3%b6reningen) | N/A |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 
 
 

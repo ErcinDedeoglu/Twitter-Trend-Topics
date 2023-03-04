@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-04 14:17:20 UTC`
+📆 Last Updated: `2023-03-04 15:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 4 | [מזל טוב גונן](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%92%d7%95%d7%a0%d7%9f) | N/A |
 | 5 | [כרמי גילון](http://twitter.com/search?q=%d7%9b%d7%a8%d7%9e%d7%99+%d7%92%d7%99%d7%9c%d7%95%d7%9f) | N/A |
-| 6 | [שרה נתניהו](http://twitter.com/search?q=%d7%a9%d7%a8%d7%94+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 7 | [אלון בן דוד](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%91%d7%9f+%d7%93%d7%95%d7%93) | N/A |
+| 6 | [אלון בן דוד](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%91%d7%9f+%d7%93%d7%95%d7%93) | N/A |
+| 7 | [שרה נתניהו](http://twitter.com/search?q=%d7%a9%d7%a8%d7%94+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 8 | [אזרחות אמריקאית](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%aa) | N/A |
-| 9 | [מפקד חיל](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%97%d7%99%d7%9c) | N/A |
-| 10 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 11 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 9 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 10 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 11 | [עיתונאי אובייקטיבי](http://twitter.com/search?q=%d7%a2%d7%99%d7%aa%d7%95%d7%a0%d7%90%d7%99+%d7%90%d7%95%d7%91%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%91%d7%99) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [עיתונאי אובייקטיבי](http://twitter.com/search?q=%d7%a2%d7%99%d7%aa%d7%95%d7%a0%d7%90%d7%99+%d7%90%d7%95%d7%91%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%91%d7%99) | N/A |
+| 13 | [מפקד חיל](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%97%d7%99%d7%9c) | N/A |
 | 14 | [מאי גולן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 15 | [מטוס קל](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%9c) | N/A |
-| 16 | [לכל מקום](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%a7%d7%95%d7%9d) | N/A |
+| 15 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 16 | [מטוס קל](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%9c) | N/A |
 | 17 | [אזרח אמריקאי](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
-| 18 | [סולידריות עם](http://twitter.com/search?q=%d7%a1%d7%95%d7%9c%d7%99%d7%93%d7%a8%d7%99%d7%95%d7%aa+%d7%a2%d7%9d) | N/A |
-| 19 | [רני רהב](http://twitter.com/search?q=%d7%a8%d7%a0%d7%99+%d7%a8%d7%94%d7%91) | N/A |
-| 20 | [רימון הלם](http://twitter.com/search?q=%d7%a8%d7%99%d7%9e%d7%95%d7%9f+%d7%94%d7%9c%d7%9d) | N/A |
+| 18 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
+| 19 | [סולידריות עם](http://twitter.com/search?q=%d7%a1%d7%95%d7%9c%d7%99%d7%93%d7%a8%d7%99%d7%95%d7%aa+%d7%a2%d7%9d) | N/A |
+| 20 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 | 21 | [אחים של](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
-| 22 | [אברהם בורג](http://twitter.com/search?q=%d7%90%d7%91%d7%a8%d7%94%d7%9d+%d7%91%d7%95%d7%a8%d7%92) | N/A |
-| 23 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 24 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
-| 25 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 26 | [#ShabbatShalom](http://twitter.com/search?q=%23ShabbatShalom) | N/A |
-| 27 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
-| 28 | [אח שלך](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%9a) | N/A |
-| 29 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 30 | [טנק מרכבה](http://twitter.com/search?q=%d7%98%d7%a0%d7%a7+%d7%9e%d7%a8%d7%9b%d7%91%d7%94) | N/A |
-| 31 | [יובל נח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
-| 32 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 33 | [בלי בג](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%91%d7%92) | N/A |
-| 34 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
-| 35 | [מכל העולם](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%94%d7%a2%d7%95%d7%9c%d7%9d) | N/A |
-| 36 | [יום יפה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%99%d7%a4%d7%94) | N/A |
-| 37 | [פה הפיכה](http://twitter.com/search?q=%d7%a4%d7%94+%d7%94%d7%a4%d7%99%d7%9b%d7%94) | N/A |
-| 38 | [עונג שבת](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%92+%d7%a9%d7%91%d7%aa) | N/A |
-| 39 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
+| 22 | [רני רהב](http://twitter.com/search?q=%d7%a8%d7%a0%d7%99+%d7%a8%d7%94%d7%91) | N/A |
+| 23 | [רימון הלם](http://twitter.com/search?q=%d7%a8%d7%99%d7%9e%d7%95%d7%9f+%d7%94%d7%9c%d7%9d) | N/A |
+| 24 | [#ShabbatShalom](http://twitter.com/search?q=%23ShabbatShalom) | N/A |
+| 25 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
+| 26 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
+| 27 | [אח שלך](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%9a) | N/A |
+| 28 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 29 | [בלי בג](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%91%d7%92) | N/A |
+| 30 | [יובל נח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
+| 31 | [מכבי נתניה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%a0%d7%aa%d7%a0%d7%99%d7%94) | N/A |
+| 32 | [מכל העולם](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%94%d7%a2%d7%95%d7%9c%d7%9d) | N/A |
+| 33 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
+| 34 | [לכל מקום](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%a7%d7%95%d7%9d) | N/A |
+| 35 | [יום יפה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%99%d7%a4%d7%94) | N/A |
+| 36 | [פה הפיכה](http://twitter.com/search?q=%d7%a4%d7%94+%d7%94%d7%a4%d7%99%d7%9b%d7%94) | N/A |
+| 37 | [עונג שבת](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%92+%d7%a9%d7%91%d7%aa) | N/A |
+| 38 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
+| 39 | [של חיל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%9c) | N/A |
 | 40 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
 | 41 | [יוסי מזרחי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%9e%d7%96%d7%a8%d7%97%d7%99) | N/A |
-| 42 | [זכויות נשים](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 43 | [אשר עשה](http://twitter.com/search?q=%d7%90%d7%a9%d7%a8+%d7%a2%d7%a9%d7%94) | N/A |
-| 44 | [מכבי חיפה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 45 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
-| 46 | [של חיל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%9c) | N/A |
+| 42 | [סרט טוב](http://twitter.com/search?q=%d7%a1%d7%a8%d7%98+%d7%98%d7%95%d7%91) | N/A |
+| 43 | [זכויות נשים](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
+| 44 | [פחד מוות](http://twitter.com/search?q=%d7%a4%d7%97%d7%93+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
+| 45 | [אשר עשה](http://twitter.com/search?q=%d7%90%d7%a9%d7%a8+%d7%a2%d7%a9%d7%94) | N/A |
+| 46 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
 | 47 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
-| 48 | [אזרחות זרה](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%96%d7%a8%d7%94) | N/A |
-| 49 | [אליס מילר](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a1+%d7%9e%d7%99%d7%9c%d7%a8) | N/A |
-| 50 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 48 | [חתן פרס נובל](http://twitter.com/search?q=%d7%97%d7%aa%d7%9f+%d7%a4%d7%a8%d7%a1+%d7%a0%d7%95%d7%91%d7%9c) | N/A |
+| 49 | [אזרחות זרה](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%96%d7%a8%d7%94) | N/A |
+| 50 | [אליס מילר](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a1+%d7%9e%d7%99%d7%9c%d7%a8) | N/A |
 
 
 

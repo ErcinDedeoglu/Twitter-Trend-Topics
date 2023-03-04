@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-04 14:16:52 UTC`
+📆 Last Updated: `2023-03-04 15:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
-| 2 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
-| 3 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 4 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 5 | [#PPOPCONTwitterSpace](http://twitter.com/search?q=%23PPOPCONTwitterSpace) | N/A |
-| 6 | [#PPOPCON2023](http://twitter.com/search?q=%23PPOPCON2023) | N/A |
+| 1 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
+| 2 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
+| 3 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
+| 4 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
+| 5 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 6 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
 | 7 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 8 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 9 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
-| 10 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
-| 11 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
+| 8 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
+| 9 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 10 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 11 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
 | 12 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
 | 13 | [ZACHAM CHO5EN BARKADA](http://twitter.com/search?q=ZACHAM+CHO5EN+BARKADA) | N/A |
-| 14 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 15 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 16 | [Congratulations UST](http://twitter.com/search?q=Congratulations+UST) | N/A |
-| 17 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 18 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
-| 19 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 20 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 23 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 24 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 25 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
-| 26 | [KDLex](http://twitter.com/search?q=KDLex) | N/A |
-| 27 | [UST vs NU](http://twitter.com/search?q=UST+vs+NU) | N/A |
-| 28 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 29 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 30 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 31 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 32 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 33 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
-| 34 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 35 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 38 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 39 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 40 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 41 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 42 | [Komiket](http://twitter.com/search?q=Komiket) | N/A |
-| 43 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 44 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 45 | [belen](http://twitter.com/search?q=belen) | N/A |
-| 46 | [junhui](http://twitter.com/search?q=junhui) | N/A |
-| 47 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 14 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
+| 15 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 16 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
+| 17 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 18 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
+| 19 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 20 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
+| 21 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [carly rae jepsen](http://twitter.com/search?q=carly+rae+jepsen) | N/A |
+| 24 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 25 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 26 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 27 | [NU Lady Bulldogs](http://twitter.com/search?q=NU+Lady+Bulldogs) | N/A |
+| 28 | [NU vs UST](http://twitter.com/search?q=NU+vs+UST) | N/A |
+| 29 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 31 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 32 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 33 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 34 | [Maji](http://twitter.com/search?q=Maji) | N/A |
+| 35 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
+| 36 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 37 | [Komiket](http://twitter.com/search?q=Komiket) | N/A |
+| 38 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 39 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 40 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 41 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 42 | [belen](http://twitter.com/search?q=belen) | N/A |
+| 43 | [junhui](http://twitter.com/search?q=junhui) | N/A |
+| 44 | [Wanderland](http://twitter.com/search?q=Wanderland) | N/A |
+| 45 | [Happy 11th Birthday Lazada](http://twitter.com/search?q=Happy+11th+Birthday+Lazada) | N/A |
+| 46 | [PIENAGBENGA WITH ROBXINE](http://twitter.com/search?q=PIENAGBENGA+WITH+ROBXINE) | N/A |
+| 47 | [#1YearWithGoodPersonByHaechan](http://twitter.com/search?q=%231YearWithGoodPersonByHaechan) | N/A |
 
 
 

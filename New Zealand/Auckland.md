@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-04 14:17:07 UTC`
+📆 Last Updated: `2023-03-04 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,32 +15,32 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLWarriorsKnights](http://twitter.com/search?q=%23NRLWarriorsKnights) | N/A |
-| 2 | [#welvnew](http://twitter.com/search?q=%23welvnew) | N/A |
+| 1 | [#nrlwarriorsknights](http://twitter.com/search?q=%23nrlwarriorsknights) | N/A |
+| 2 | [#WELvNEW](http://twitter.com/search?q=%23WELvNEW) | N/A |
 | 3 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 4 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 4 | [niwa](http://twitter.com/search?q=niwa) | N/A |
 | 5 | [#moavchi](http://twitter.com/search?q=%23moavchi) | N/A |
-| 6 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 6 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 | 7 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
 | 8 | [sande](http://twitter.com/search?q=sande) | N/A |
-| 9 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 10 | [#WELvBRI](http://twitter.com/search?q=%23WELvBRI) | N/A |
-| 11 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 12 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
-| 13 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
-| 14 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
-| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 16 | [Super Rugby](http://twitter.com/search?q=Super+Rugby) | N/A |
-| 17 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 9 | [#WELvBRI](http://twitter.com/search?q=%23WELvBRI) | N/A |
+| 10 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 11 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 12 | [legarto](http://twitter.com/search?q=legarto) | N/A |
+| 13 | [ardie](http://twitter.com/search?q=ardie) | N/A |
+| 14 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 15 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
+| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 17 | [Super Rugby](http://twitter.com/search?q=Super+Rugby) | N/A |
 | 18 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [breakers](http://twitter.com/search?q=breakers) | N/A |
+| 19 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 20 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 21 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 22 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
 | 23 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
 | 24 | [Town Hall](http://twitter.com/search?q=Town+Hall) | N/A |
 | 25 | [school strike 4 climate](http://twitter.com/search?q=school+strike+4+climate) | N/A |
-| 26 | [chiefs](http://twitter.com/search?q=chiefs) | N/A |
+| 26 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 27 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 28 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 29 | [Hershey](http://twitter.com/search?q=Hershey) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 47 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 48 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
 | 49 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 50 | [highlanders](http://twitter.com/search?q=highlanders) | N/A |
+| 50 | [Highlanders](http://twitter.com/search?q=Highlanders) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-04 14:16:29 UTC`
+📆 Last Updated: `2023-03-04 15:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
 | 2 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
-| 3 | [#DesconfíoDe](http://twitter.com/search?q=%23Desconf%c3%adoDe) | N/A |
-| 4 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
-| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 6 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 7 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 8 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 9 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 3 | [#GobiernoDeBandidos](http://twitter.com/search?q=%23GobiernoDeBandidos) | N/A |
+| 4 | [#DesconfíoDe](http://twitter.com/search?q=%23Desconf%c3%adoDe) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [#ElGranProblemaEs](http://twitter.com/search?q=%23ElGranProblemaEs) | N/A |
+| 7 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 8 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
+| 9 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
 | 10 | [Samper](http://twitter.com/search?q=Samper) | N/A |
-| 11 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 12 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 13 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 14 | [Renuncie](http://twitter.com/search?q=Renuncie) | N/A |
+| 11 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 12 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 13 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 14 | [Prada](http://twitter.com/search?q=Prada) | N/A |
 | 15 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 16 | [Ñeñe](http://twitter.com/search?q=%c3%91e%c3%b1e) | N/A |
-| 17 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
-| 18 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 19 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 22 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 23 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
-| 24 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
+| 16 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 17 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 18 | [Ñeñe](http://twitter.com/search?q=%c3%91e%c3%b1e) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 23 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 24 | [Day Vásquez](http://twitter.com/search?q=Day+V%c3%a1squez) | N/A |
 | 25 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
-| 26 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 27 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 28 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 29 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 30 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 31 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
-| 32 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 33 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 34 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
-| 35 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 36 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 37 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
-| 38 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
-| 39 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 40 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
-| 41 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 42 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 43 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
-| 44 | [Guardia Campesina](http://twitter.com/search?q=Guardia+Campesina) | N/A |
-| 45 | [Prudencia](http://twitter.com/search?q=Prudencia) | N/A |
-| 46 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 47 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
-| 48 | [Honesto](http://twitter.com/search?q=Honesto) | N/A |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
+| 27 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 30 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 32 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
+| 33 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 34 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 35 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 36 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 37 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 38 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 39 | [FFMM](http://twitter.com/search?q=FFMM) | N/A |
+| 40 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 41 | [Marlboro](http://twitter.com/search?q=Marlboro) | N/A |
+| 42 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
+| 43 | [Caucasia](http://twitter.com/search?q=Caucasia) | N/A |
+| 44 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 45 | [guardia campesina](http://twitter.com/search?q=guardia+campesina) | N/A |
+| 46 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 47 | [Campesinos](http://twitter.com/search?q=Campesinos) | N/A |
+| 48 | [Honestidad](http://twitter.com/search?q=Honestidad) | N/A |
+| 49 | [Prudencia](http://twitter.com/search?q=Prudencia) | N/A |
 
 
 

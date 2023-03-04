@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-04 14:16:46 UTC`
+📆 Last Updated: `2023-03-04 15:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#NRLManlyBulldogs](http://twitter.com/search?q=%23NRLManlyBulldogs) | N/A |
 | 2 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
-| 3 | [#SYDvMVC](http://twitter.com/search?q=%23SYDvMVC) | N/A |
-| 4 | [#NRLSharksSouths](http://twitter.com/search?q=%23NRLSharksSouths) | N/A |
+| 3 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 4 | [#nrlsharkssouths](http://twitter.com/search?q=%23nrlsharkssouths) | N/A |
 | 5 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
-| 6 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 7 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 8 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
-| 9 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 10 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 11 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
-| 12 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
-| 13 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 14 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 16 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 17 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 18 | [kooyong](http://twitter.com/search?q=kooyong) | N/A |
-| 19 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
-| 20 | [Mutton](http://twitter.com/search?q=Mutton) | N/A |
-| 21 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
-| 22 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
-| 23 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
-| 24 | [Zac Purton](http://twitter.com/search?q=Zac+Purton) | N/A |
-| 25 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 6 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 7 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
+| 10 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 11 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 12 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 15 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 16 | [Rugg](http://twitter.com/search?q=Rugg) | N/A |
+| 17 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 18 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 19 | [kooyong](http://twitter.com/search?q=kooyong) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
+| 22 | [Mutton](http://twitter.com/search?q=Mutton) | N/A |
+| 23 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Kikau](http://twitter.com/search?q=Kikau) | N/A |
 | 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
-| 28 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
-| 29 | [reed mahoney](http://twitter.com/search?q=reed+mahoney) | N/A |
-| 30 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
-| 31 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
-| 32 | [Ricky Stuart](http://twitter.com/search?q=Ricky+Stuart) | N/A |
-| 33 | [Learning To Fly](http://twitter.com/search?q=Learning+To+Fly) | N/A |
-| 34 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 35 | [tahs](http://twitter.com/search?q=tahs) | N/A |
-| 36 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 37 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
-| 38 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 39 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
-| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 41 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 42 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 43 | [passive aggressive](http://twitter.com/search?q=passive+aggressive) | N/A |
+| 27 | [Zac Purton](http://twitter.com/search?q=Zac+Purton) | N/A |
+| 28 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 29 | [so unusual](http://twitter.com/search?q=so+unusual) | N/A |
+| 30 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 31 | [reed mahoney](http://twitter.com/search?q=reed+mahoney) | N/A |
+| 32 | [Catch A Wave](http://twitter.com/search?q=Catch+A+Wave) | N/A |
+| 33 | [Flanagan](http://twitter.com/search?q=Flanagan) | N/A |
+| 34 | [Liam Jones](http://twitter.com/search?q=Liam+Jones) | N/A |
+| 35 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 36 | [ricky stuart](http://twitter.com/search?q=ricky+stuart) | N/A |
+| 37 | [learning to fly](http://twitter.com/search?q=learning+to+fly) | N/A |
+| 38 | [tahs](http://twitter.com/search?q=tahs) | N/A |
+| 39 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
+| 40 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 41 | [eagle farm](http://twitter.com/search?q=eagle+farm) | N/A |
+| 42 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 43 | [Passive Aggressive](http://twitter.com/search?q=Passive+Aggressive) | N/A |
 | 44 | [Dr Ryan](http://twitter.com/search?q=Dr+Ryan) | N/A |
 | 45 | [Artorius](http://twitter.com/search?q=Artorius) | N/A |
-| 46 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 47 | [soni luke](http://twitter.com/search?q=soni+luke) | N/A |
-| 48 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
-| 49 | [sir lucan](http://twitter.com/search?q=sir+lucan) | N/A |
+| 46 | [Ilias](http://twitter.com/search?q=Ilias) | N/A |
+| 47 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 48 | [soni luke](http://twitter.com/search?q=soni+luke) | N/A |
+| 49 | [Turbo](http://twitter.com/search?q=Turbo) | N/A |
 
 
 

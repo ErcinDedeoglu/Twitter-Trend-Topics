@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-04 14:16:39 UTC`
+📆 Last Updated: `2023-03-04 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HSVFCN](http://twitter.com/search?q=%23HSVFCN) | N/A |
-| 2 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
-| 3 | [#UnserLiedFürLiverpool](http://twitter.com/search?q=%23UnserLiedF%c3%bcrLiverpool) | N/A |
-| 4 | [#BVBRBL](http://twitter.com/search?q=%23BVBRBL) | N/A |
-| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 6 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 7 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 1 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 2 | [#UnserLiedFuerLiverpool](http://twitter.com/search?q=%23UnserLiedFuerLiverpool) | N/A |
+| 3 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 4 | [#HSVFCN](http://twitter.com/search?q=%23HSVFCN) | N/A |
+| 5 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
+| 6 | [#FCASVW](http://twitter.com/search?q=%23FCASVW) | N/A |
+| 7 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 8 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 9 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 10 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 9 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 10 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
 | 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 12 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 13 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 14 | [Glatzel](http://twitter.com/search?q=Glatzel) | N/A |
-| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 16 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
-| 17 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 18 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
-| 19 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 20 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 21 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 22 | [Will Church](http://twitter.com/search?q=Will+Church) | N/A |
-| 23 | [Grundwasser](http://twitter.com/search?q=Grundwasser) | N/A |
-| 24 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 25 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 26 | [protest](http://twitter.com/search?q=protest) | N/A |
-| 27 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
-| 28 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 29 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 30 | [Jury](http://twitter.com/search?q=Jury) | N/A |
-| 31 | [denkmal](http://twitter.com/search?q=denkmal) | N/A |
-| 32 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 33 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 34 | [Verdi](http://twitter.com/search?q=Verdi) | N/A |
-| 35 | [Kuriose Bilder](http://twitter.com/search?q=Kuriose+Bilder) | N/A |
-| 36 | [LOTL](http://twitter.com/search?q=LOTL) | N/A |
-| 37 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 38 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
-| 39 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 40 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 41 | [kunstwerk](http://twitter.com/search?q=kunstwerk) | N/A |
-| 42 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 43 | [lonely spring](http://twitter.com/search?q=lonely+spring) | N/A |
-| 44 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 45 | [BEA I'M SAURY](http://twitter.com/search?q=BEA+I%27M+SAURY) | N/A |
-| 46 | [Weltuntergang](http://twitter.com/search?q=Weltuntergang) | N/A |
-| 47 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 48 | [Seenotrettung](http://twitter.com/search?q=Seenotrettung) | N/A |
-| 49 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 50 | [Tara](http://twitter.com/search?q=Tara) | Tara is a female name of Irish origin, derived from the Gaelic word “tor” meaning “hill” or “rocky hill.” It is also associated with the Hindu goddess Tara, who is a representation of divine energy and compassion. In English, Tara can mean “star” or “rocky hill.” |
+| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 13 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 14 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 15 | [aktivisten](http://twitter.com/search?q=aktivisten) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 17 | [Umweltverschmutzung](http://twitter.com/search?q=Umweltverschmutzung) | N/A |
+| 18 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 19 | [grundwasser](http://twitter.com/search?q=grundwasser) | N/A |
+| 20 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 23 | [Weltuntergang](http://twitter.com/search?q=Weltuntergang) | N/A |
+| 24 | [Umweltschutz](http://twitter.com/search?q=Umweltschutz) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 27 | [straftäter](http://twitter.com/search?q=straft%c3%a4ter) | N/A |
+| 28 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
+| 29 | [Klimakatastrophe](http://twitter.com/search?q=Klimakatastrophe) | N/A |
+| 30 | [Waage](http://twitter.com/search?q=Waage) | N/A |
+| 31 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 33 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 34 | [Syrer](http://twitter.com/search?q=Syrer) | N/A |
+| 35 | [#BMGSCF](http://twitter.com/search?q=%23BMGSCF) | N/A |
+| 36 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 37 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 38 | [#SGDAUE](http://twitter.com/search?q=%23SGDAUE) | N/A |
+| 39 | [#M05TSG](http://twitter.com/search?q=%23M05TSG) | N/A |
+| 40 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
+| 41 | [#svmhfc](http://twitter.com/search?q=%23svmhfc) | N/A |
+| 42 | [#SSVF95](http://twitter.com/search?q=%23SSVF95) | N/A |
+| 43 | [#SVSKSV](http://twitter.com/search?q=%23SVSKSV) | N/A |
+| 44 | [#lastgeneration](http://twitter.com/search?q=%23lastgeneration) | N/A |
+| 45 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 46 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
+| 47 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 48 | [#Rheinmetall](http://twitter.com/search?q=%23Rheinmetall) | N/A |
+| 49 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
+| 50 | [#Klimaterroristen](http://twitter.com/search?q=%23Klimaterroristen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-04 14:16:42 UTC`
+📆 Last Updated: `2023-03-04 15:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [Posición Pérez](http://twitter.com/search?q=Posici%c3%b3n+P%c3%a9rez) | N/A |
-| 3 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
-| 4 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
-| 5 | [TOP 5](http://twitter.com/search?q=TOP+5) | N/A |
-| 6 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
-| 7 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
-| 8 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 9 | [#GetafeGirona](http://twitter.com/search?q=%23GetafeGirona) | N/A |
-| 10 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [Libres 3](http://twitter.com/search?q=Libres+3) | N/A |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 15 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
-| 16 | [OH REALLY](http://twitter.com/search?q=OH+REALLY) | N/A |
-| 17 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 18 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 19 | [Munir](http://twitter.com/search?q=Munir) | N/A |
-| 20 | [Unal](http://twitter.com/search?q=Unal) | N/A |
-| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 23 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
-| 24 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 25 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 27 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 28 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 29 | [Pepe Martí](http://twitter.com/search?q=Pepe+Mart%c3%ad) | N/A |
-| 30 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 1 | [El Ferrari](http://twitter.com/search?q=El+Ferrari) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 5 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 6 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
+| 7 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 8 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 9 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 12 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 13 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
+| 14 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 17 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 18 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 19 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 22 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 23 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 25 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 26 | [OH REALLY](http://twitter.com/search?q=OH+REALLY) | N/A |
+| 27 | [Libres 3](http://twitter.com/search?q=Libres+3) | N/A |
+| 28 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 29 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 30 | [Martins](http://twitter.com/search?q=Martins) | N/A |
 | 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 32 | [Ley de Seguridad Ciudadana](http://twitter.com/search?q=Ley+de+Seguridad+Ciudadana) | N/A |
-| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 34 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 35 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 36 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 37 | [Seville](http://twitter.com/search?q=Seville) | N/A |
-| 38 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 39 | [Freakcon](http://twitter.com/search?q=Freakcon) | N/A |
-| 40 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 41 | [Lo País](http://twitter.com/search?q=Lo+Pa%c3%ads) | N/A |
-| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 43 | [La Justicia](http://twitter.com/search?q=La+Justicia) | N/A |
-| 44 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 45 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 46 | [LO VA A HACER](http://twitter.com/search?q=LO+VA+A+HACER) | N/A |
-| 47 | [Prisa](http://twitter.com/search?q=Prisa) | N/A |
+| 32 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 33 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
+| 34 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
+| 35 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 36 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
+| 37 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 38 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 39 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 40 | [Pepe Martí](http://twitter.com/search?q=Pepe+Mart%c3%ad) | N/A |
+| 41 | [Ley de Seguridad Ciudadana](http://twitter.com/search?q=Ley+de+Seguridad+Ciudadana) | N/A |
+| 42 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 43 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 44 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 45 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 46 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 47 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
 
 
 

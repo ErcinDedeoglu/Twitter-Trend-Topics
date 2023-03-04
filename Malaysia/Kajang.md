@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-03-04 14:16:51 UTC`
+📆 Last Updated: `2023-03-04 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
-| 2 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 2 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
 | 3 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 6 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
-| 7 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 8 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
-| 9 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 11 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 16 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 17 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 18 | [BLINKS](http://twitter.com/search?q=BLINKS) | N/A |
-| 19 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 20 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 21 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 22 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 23 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 4 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 8 | [#1YearWithGoodPersonByHaechan](http://twitter.com/search?q=%231YearWithGoodPersonByHaechan) | N/A |
+| 9 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 13 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 14 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 15 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 19 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 20 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 23 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
 | 24 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 27 | [scoups](http://twitter.com/search?q=scoups) | N/A |
-| 28 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
-| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 30 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 31 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 32 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 33 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 35 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 36 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
-| 37 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 38 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
-| 39 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 40 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 41 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 42 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 44 | [suppasit wft 2023](http://twitter.com/search?q=suppasit+wft+2023) | N/A |
-| 45 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 46 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 47 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
-| 48 | [gossip girl](http://twitter.com/search?q=gossip+girl) | N/A |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 27 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 28 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 29 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 31 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 32 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 33 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 34 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 35 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 36 | [Scoups](http://twitter.com/search?q=Scoups) | N/A |
+| 37 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
+| 38 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
+| 39 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 40 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 41 | [Subang Airport](http://twitter.com/search?q=Subang+Airport) | N/A |
+| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 43 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
+| 44 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 45 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
+| 46 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 47 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 48 | [yedam](http://twitter.com/search?q=yedam) | N/A |
 
 
 

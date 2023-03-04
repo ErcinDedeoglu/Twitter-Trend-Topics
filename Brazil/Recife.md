@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-04 14:16:32 UTC`
+📆 Last Updated: `2023-03-04 15:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 2 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 3 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
-| 4 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 6 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 9 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
-| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 11 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 12 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 14 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 15 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
-| 16 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 17 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 18 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
-| 19 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
-| 20 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
-| 21 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 24 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 25 | [CONTRABANDISTA](http://twitter.com/search?q=CONTRABANDISTA) | N/A |
-| 26 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 27 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 28 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
-| 29 | [Propina](http://twitter.com/search?q=Propina) | N/A |
-| 30 | [Skala](http://twitter.com/search?q=Skala) | N/A |
-| 31 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 32 | [Spotify Global](http://twitter.com/search?q=Spotify+Global) | N/A |
-| 33 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 36 | [SAÚDE TIGRE RINITE](http://twitter.com/search?q=SA%c3%9aDE+TIGRE+RINITE) | N/A |
-| 37 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 38 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 39 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 40 | [Cyberpunk](http://twitter.com/search?q=Cyberpunk) | N/A |
-| 41 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 42 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
-| 43 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 44 | [Manchete](http://twitter.com/search?q=Manchete) | N/A |
-| 45 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 46 | [Árabes](http://twitter.com/search?q=%c3%81rabes) | N/A |
-| 47 | [Queiroz](http://twitter.com/search?q=Queiroz) | N/A |
-| 48 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 6 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 7 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [#ESPNnoStarPlus](http://twitter.com/search?q=%23ESPNnoStarPlus) | N/A |
+| 11 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 12 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 13 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 14 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 16 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 17 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
+| 18 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 20 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 21 | [Sueli Costa](http://twitter.com/search?q=Sueli+Costa) | N/A |
+| 22 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 23 | [Movimentar](http://twitter.com/search?q=Movimentar) | N/A |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 25 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 26 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 27 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 28 | [PRESENTE PROFESSOR](http://twitter.com/search?q=PRESENTE+PROFESSOR) | N/A |
+| 29 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 30 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 31 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 32 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 33 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 34 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 35 | [SAÚDE TIGRE RINITE](http://twitter.com/search?q=SA%c3%9aDE+TIGRE+RINITE) | N/A |
+| 36 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 37 | [Contrabandista](http://twitter.com/search?q=Contrabandista) | N/A |
+| 38 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 40 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 41 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 42 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 43 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 44 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 45 | [Skala](http://twitter.com/search?q=Skala) | N/A |
+| 46 | [Spotify Global](http://twitter.com/search?q=Spotify+Global) | N/A |
+| 47 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 48 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
 
 
 

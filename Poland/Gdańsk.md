@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-04 14:16:34 UTC`
+📆 Last Updated: `2023-03-04 15:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
-| 2 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 3 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 4 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
-| 5 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
+| 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 2 | [#WIDWAR](http://twitter.com/search?q=%23WIDWAR) | N/A |
+| 3 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 4 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
+| 5 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
 | 6 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 7 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 8 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
-| 9 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
-| 10 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
-| 11 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 12 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 7 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 8 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
+| 9 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 10 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
+| 11 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 12 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
 | 13 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 14 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 15 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 16 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
-| 17 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 18 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 14 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 16 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
 | 19 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 20 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 21 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 22 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 23 | [adrianna sułek](http://twitter.com/search?q=adrianna+su%c5%82ek) | N/A |
-| 24 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 25 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
-| 26 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
-| 27 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 28 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
-| 29 | [Pisowskie](http://twitter.com/search?q=Pisowskie) | N/A |
-| 30 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 31 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 33 | [ewa swoboda](http://twitter.com/search?q=ewa+swoboda) | N/A |
-| 34 | [Pani Poseł](http://twitter.com/search?q=Pani+Pose%c5%82) | N/A |
-| 35 | [Winny](http://twitter.com/search?q=Winny) | N/A |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 38 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
-| 39 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 40 | [Dziennikarze](http://twitter.com/search?q=Dziennikarze) | N/A |
-| 41 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
+| 20 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
+| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 23 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 24 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 25 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
+| 26 | [adrianna sułek](http://twitter.com/search?q=adrianna+su%c5%82ek) | N/A |
+| 27 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
+| 28 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 29 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 30 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 31 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
+| 32 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
+| 35 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 36 | [ewa swoboda](http://twitter.com/search?q=ewa+swoboda) | N/A |
+| 37 | [pani poseł](http://twitter.com/search?q=pani+pose%c5%82) | N/A |
+| 38 | [Winny](http://twitter.com/search?q=Winny) | N/A |
+| 39 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
+| 40 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
+| 41 | [ryoyu](http://twitter.com/search?q=ryoyu) | N/A |
 | 42 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
 | 43 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 44 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
-| 45 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
-| 46 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
-| 47 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
-| 48 | [Kort](http://twitter.com/search?q=Kort) | N/A |
-| 49 | [kopytka](http://twitter.com/search?q=kopytka) | N/A |
-| 50 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 44 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 45 | [Pisowskie](http://twitter.com/search?q=Pisowskie) | N/A |
+| 46 | [tag 7](http://twitter.com/search?q=tag+7) | N/A |
+| 47 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
+| 48 | [kort](http://twitter.com/search?q=kort) | N/A |
+| 49 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 50 | [Oryx](http://twitter.com/search?q=Oryx) | N/A |
 
 
 
