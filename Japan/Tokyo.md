@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-04 05:16:13 UTC`
+📆 Last Updated: `2023-03-04 06:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AVEST](http://twitter.com/search?q=%23AVEST) | N/A |
-| 2 | [ドリパレ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%91%e3%83%ac) | N/A |
-| 3 | [アベスト](http://twitter.com/search?q=%e3%82%a2%e3%83%99%e3%82%b9%e3%83%88) | N/A |
-| 4 | [#天キー](http://twitter.com/search?q=%23%e5%a4%a9%e3%82%ad%e3%83%bc) | N/A |
-| 5 | [NOISEMAKER](http://twitter.com/search?q=NOISEMAKER) | N/A |
-| 6 | [バクテン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%86%e3%83%b3) | N/A |
-| 7 | [#鹿児島ユナイテッドFC](http://twitter.com/search?q=%23%e9%b9%bf%e5%85%90%e5%b3%b6%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89FC) | N/A |
-| 8 | [#サガン鳥栖](http://twitter.com/search?q=%23%e3%82%b5%e3%82%ac%e3%83%b3%e9%b3%a5%e6%a0%96) | N/A |
-| 9 | [中山7R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b17R) | 中山7R is a racecourse located in the city of Nakayama, Japan. It is a flat, turf course that hosts many of Japan's major horse races. The name "7R" stands for the seven right-handed turns on the track. |
-| 10 | [ブイヤベース](http://twitter.com/search?q=%e3%83%96%e3%82%a4%e3%83%a4%e3%83%99%e3%83%bc%e3%82%b9) | N/A |
-| 11 | [阪神競馬場](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%ab%b6%e9%a6%ac%e5%a0%b4) | N/A |
-| 12 | [アリシアン](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 13 | [#フリーランスサミット](http://twitter.com/search?q=%23%e3%83%95%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%b5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
-| 14 | [リベリオン](http://twitter.com/search?q=%e3%83%aa%e3%83%99%e3%83%aa%e3%82%aa%e3%83%b3) | N/A |
-| 15 | [政権の火種](http://twitter.com/search?q=%e6%94%bf%e6%a8%a9%e3%81%ae%e7%81%ab%e7%a8%ae) | N/A |
-| 16 | [HIKAGE](http://twitter.com/search?q=HIKAGE) | N/A |
-| 17 | [ジュビリーヘッド](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%93%e3%83%aa%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | ジュビリーヘッド (Jubilee Head) is a type of Japanese coin minted from 1873 to 1876. It was the first Japanese coin to feature a portrait of the Emperor on one side and a dragon on the other. In English, it is sometimes referred to as the "Dragon Head" or "Emperor's Head" coin. |
-| 18 | [出かけ日和](http://twitter.com/search?q=%e5%87%ba%e3%81%8b%e3%81%91%e6%97%a5%e5%92%8c) | N/A |
-| 19 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
-| 20 | [スガキヤ](http://twitter.com/search?q=%e3%82%b9%e3%82%ac%e3%82%ad%e3%83%a4) | N/A |
-| 21 | [ダノンバビル](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%83%90%e3%83%93%e3%83%ab) | N/A |
-| 22 | [入場規制](http://twitter.com/search?q=%e5%85%a5%e5%a0%b4%e8%a6%8f%e5%88%b6) | N/A |
-| 23 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
-| 24 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
-| 25 | [アルゴリズムランド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 26 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 27 | [ソンリョン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%aa%e3%83%a7%e3%83%b3) | N/A |
-| 28 | [ポケモンタイプ診断](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%97%e8%a8%ba%e6%96%ad) | N/A |
-| 29 | [ホウオウプレミア](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2) | N/A |
-| 30 | [TDC復活](http://twitter.com/search?q=TDC%e5%be%a9%e6%b4%bb) | N/A |
-| 31 | [ルブリスウル](http://twitter.com/search?q=%e3%83%ab%e3%83%96%e3%83%aa%e3%82%b9%e3%82%a6%e3%83%ab) | N/A |
-| 32 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
-| 33 | [麻央さま](http://twitter.com/search?q=%e9%ba%bb%e5%a4%ae%e3%81%95%e3%81%be) | N/A |
-| 34 | [デュエマ革命](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%9e%e9%9d%a9%e5%91%bd) | N/A |
-| 35 | [チューリップ賞](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e8%b3%9e) | N/A |
-| 36 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
-| 37 | [マングローブ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%96) | N/A |
-| 38 | [ロッテの応援](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%81%ae%e5%bf%9c%e6%8f%b4) | N/A |
-| 39 | [エスピナル](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%94%e3%83%8a%e3%83%ab) | N/A |
-| 40 | [アンバギー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%90%e3%82%ae%e3%83%bc) | N/A |
-| 41 | [キジーさん](http://twitter.com/search?q=%e3%82%ad%e3%82%b8%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 42 | [亜美ちゃん](http://twitter.com/search?q=%e4%ba%9c%e7%be%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [麻央ちゃん](http://twitter.com/search?q=%e9%ba%bb%e5%a4%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [レーザーレイズライザー](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%83%ac%e3%82%a4%e3%82%ba%e3%83%a9%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
-| 45 | [ジンヒョン](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 46 | [ワンダースワン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%80%e3%83%bc%e3%82%b9%e3%83%af%e3%83%b3) | N/A |
-| 47 | [キックオフ](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%af%e3%82%aa%e3%83%95) | N/A |
-| 48 | [ピーターズ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 49 | [当たり前レストラン](http://twitter.com/search?q=%e5%bd%93%e3%81%9f%e3%82%8a%e5%89%8d%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
-| 50 | [精霊の守り人](http://twitter.com/search?q=%e7%b2%be%e9%9c%8a%e3%81%ae%e5%ae%88%e3%82%8a%e4%ba%ba) | N/A |
+| 1 | [サバプロ](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e3%83%97%e3%83%ad) | N/A |
+| 2 | [フラスタ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%b9%e3%82%bf) | フラスタ is a Japanese word that means "fluster" or "agitation". It is used to describe a state of confusion or disorientation. |
+| 3 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
+| 4 | [#ギタージャンボリー](http://twitter.com/search?q=%23%e3%82%ae%e3%82%bf%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%bc) | N/A |
+| 5 | [#ぐぅデジ杯](http://twitter.com/search?q=%23%e3%81%90%e3%81%85%e3%83%87%e3%82%b8%e6%9d%af) | N/A |
+| 6 | [パトリック](http://twitter.com/search?q=%e3%83%91%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 7 | [#超絶限界](http://twitter.com/search?q=%23%e8%b6%85%e7%b5%b6%e9%99%90%e7%95%8c) | N/A |
+| 8 | [#三期生おもてなし会_Day1](http://twitter.com/search?q=%23%e4%b8%89%e6%9c%9f%e7%94%9f%e3%81%8a%e3%82%82%e3%81%a6%e3%81%aa%e3%81%97%e4%bc%9a_Day1) | N/A |
+| 9 | [#天キー](http://twitter.com/search?q=%23%e5%a4%a9%e3%82%ad%e3%83%bc) | N/A |
+| 10 | [札幌ドーム](http://twitter.com/search?q=%e6%9c%ad%e5%b9%8c%e3%83%89%e3%83%bc%e3%83%a0) | 札幌ドーム is a multi-purpose stadium located in Sapporo, Japan. It is primarily used for baseball and football games, as well as concerts and other events. The name "札幌ドーム" translates to "Sapporo Dome" in English. |
+| 11 | [中山8R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b18R) | N/A |
+| 12 | [キッチンカー](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3%e3%82%ab%e3%83%bc) | N/A |
+| 13 | [飛鳥くん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%8f%e3%82%93) | N/A |
+| 14 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 15 | [オーシャンステークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%b9%e3%83%86%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 16 | [阪神9R](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e9R) | N/A |
+| 17 | [来田くん](http://twitter.com/search?q=%e6%9d%a5%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
+| 18 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
+| 19 | [ポケモンタイプ診断](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%bf%e3%82%a4%e3%83%97%e8%a8%ba%e6%96%ad) | N/A |
+| 20 | [キジーさん](http://twitter.com/search?q=%e3%82%ad%e3%82%b8%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 21 | [ファール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
+| 22 | [チューリップ賞](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%83%e3%83%97%e8%b3%9e) | N/A |
+| 23 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
+| 24 | [アルゴリズムランド](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 25 | [みずタイプ](http://twitter.com/search?q=%e3%81%bf%e3%81%9a%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 26 | [ジェジエウ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b8%e3%82%a8%e3%82%a6) | N/A |
+| 27 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 28 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
+| 29 | [オーシャンS](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3S) | N/A |
+| 30 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
+| 31 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
+| 32 | [ルブリスウル](http://twitter.com/search?q=%e3%83%ab%e3%83%96%e3%83%aa%e3%82%b9%e3%82%a6%e3%83%ab) | N/A |
+| 33 | [ナランフレグ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%b3%e3%83%95%e3%83%ac%e3%82%b0) | N/A |
+| 34 | [カスティーヨ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%a8) | N/A |
+| 35 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
+| 36 | [ホウオウプレミア](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2) | N/A |
+| 37 | [TDC復活](http://twitter.com/search?q=TDC%e5%be%a9%e6%b4%bb) | N/A |
+| 38 | [でんきタイプ](http://twitter.com/search?q=%e3%81%a7%e3%82%93%e3%81%8d%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 39 | [デュエマ革命](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%9e%e9%9d%a9%e5%91%bd) | N/A |
+| 40 | [ピアシック](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%82%b7%e3%83%83%e3%82%af) | N/A |
+| 41 | [ソンリョン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%aa%e3%83%a7%e3%83%b3) | N/A |
+| 42 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
+| 43 | [キックオフ](http://twitter.com/search?q=%e3%82%ad%e3%83%83%e3%82%af%e3%82%aa%e3%83%95) | N/A |
+| 44 | [関西アイランド](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 45 | [ティノコ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%8e%e3%82%b3) | N/A |
+| 46 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
+| 47 | [ロッテの応援](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%81%ae%e5%bf%9c%e6%8f%b4) | N/A |
+| 48 | [二次元恋愛](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%85%83%e6%81%8b%e6%84%9b) | N/A |
+| 49 | [アラーノ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%8e) | N/A |
+| 50 | [ファウル](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a6%e3%83%ab) | N/A |
 
 
 

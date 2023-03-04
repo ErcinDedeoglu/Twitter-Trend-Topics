@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-04 05:16:08 UTC`
+📆 Last Updated: `2023-03-04 06:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 2 | [brann](http://twitter.com/search?q=brann) | N/A |
 | 3 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 4 | [intility](http://twitter.com/search?q=intility) | N/A |
 | 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
@@ -31,10 +31,10 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 15 | [#fredagsselfie](http://twitter.com/search?q=%23fredagsselfie) | N/A |
 | 16 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 17 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 18 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 19 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 20 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 17 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 18 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 19 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 20 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
 | 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 22 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 23 | [Marbella](http://twitter.com/search?q=Marbella) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Norway](</Norway>)
 | 31 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
 | 32 | [obos](http://twitter.com/search?q=obos) | N/A |
 | 33 | [reme](http://twitter.com/search?q=reme) | N/A |
-| 34 | [synd](http://twitter.com/search?q=synd) | N/A |
+| 34 | [Synd](http://twitter.com/search?q=Synd) | N/A |
 | 35 | [me-syke](http://twitter.com/search?q=me-syke) | N/A |
-| 36 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 37 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 38 | [fosen](http://twitter.com/search?q=fosen) | N/A |
-| 39 | [Kult](http://twitter.com/search?q=Kult) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |
-| 42 | [gleder](http://twitter.com/search?q=gleder) | N/A |
-| 43 | [Strand](http://twitter.com/search?q=Strand) | N/A |
-| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 45 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
-| 46 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
-| 47 | [dersom](http://twitter.com/search?q=dersom) | N/A |
-| 48 | [dagsrevyen](http://twitter.com/search?q=dagsrevyen) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [fosen](http://twitter.com/search?q=fosen) | N/A |
+| 38 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 40 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |
+| 41 | [gleder](http://twitter.com/search?q=gleder) | N/A |
+| 42 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 43 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
+| 44 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
+| 45 | [dersom](http://twitter.com/search?q=dersom) | N/A |
+| 46 | [dagsrevyen](http://twitter.com/search?q=dagsrevyen) | N/A |
+| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [Comet](http://twitter.com/search?q=Comet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-04 05:16:20 UTC`
+📆 Last Updated: `2023-03-04 06:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 2 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
 | 3 | [#مغربيه_والا_سعوديه](http://twitter.com/search?q=%23%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d9%87_%d9%88%d8%a7%d9%84%d8%a7_%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 4 | [#تزوج_الثانيه_ولاتخاف](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87_%d9%88%d9%84%d8%a7%d8%aa%d8%ae%d8%a7%d9%81) | N/A |
-| 5 | [#الهلال_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 6 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 5 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 6 | [#هجوم_العمالقه](http://twitter.com/search?q=%23%d9%87%d8%ac%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%82%d9%87) | N/A |
 | 7 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
 | 8 | [الوقت الضايع](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%b6%d8%a7%d9%8a%d8%b9) | N/A |
 | 9 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
@@ -35,36 +35,36 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 18 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
 | 19 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 20 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 21 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 22 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 23 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 24 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
+| 21 | [هات الصداره](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 22 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 23 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
+| 24 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
 | 25 | [الشوط الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
 | 26 | [الجريس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%b3) | N/A |
-| 27 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 28 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 29 | [قول روما](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 30 | [الوعد الجوهره](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
-| 31 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 32 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 27 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 28 | [قول روما](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 29 | [الوعد الجوهره](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1%d9%87) | N/A |
+| 30 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 31 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 32 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
 | 33 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
 | 34 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 35 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 36 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
-| 37 | [ناصر الهويدي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
-| 38 | [صالح الهلال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 39 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 40 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
-| 41 | [سمير عثمان](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
-| 42 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 43 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 44 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
-| 45 | [ابو مناف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%86%d8%a7%d9%81) | N/A |
+| 35 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
+| 36 | [صالح الهلال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 37 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 38 | [ناصر الهويدي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
+| 39 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 40 | [سمير عثمان](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
+| 41 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 42 | [راعي الجيب](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%8a%d8%a8) | N/A |
+| 43 | [ابو مناف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%86%d8%a7%d9%81) | N/A |
+| 44 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 45 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
 | 46 | [فتيل](http://twitter.com/search?q=%d9%81%d8%aa%d9%8a%d9%84) | N/A |
 | 47 | [علاء سعيد](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 48 | [غوستافو](http://twitter.com/search?q=%d8%ba%d9%88%d8%b3%d8%aa%d8%a7%d9%81%d9%88) | غوستافو is a Spanish word meaning "gusto" or "taste". It is used to describe the flavor of food or drink. |
-| 49 | [شراحيلي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a7%d8%ad%d9%8a%d9%84%d9%8a) | شراحيلي is an Arabic phrase that translates to "My Darling" in English. It is a term of endearment used to express love and affection. |
-| 50 | [الوقت المحتسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b3%d8%a8) | N/A |
+| 49 | [الوقت المحتسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b3%d8%a8) | N/A |
+| 50 | [الخميس الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
 
 
 

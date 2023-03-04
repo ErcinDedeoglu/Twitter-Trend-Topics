@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-04 05:16:15 UTC`
+📆 Last Updated: `2023-03-04 06:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 11 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 12 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 13 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 14 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 16 | [dawon](http://twitter.com/search?q=dawon) | N/A |
 | 17 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
 | 18 | [Happy 4](http://twitter.com/search?q=Happy+4) | N/A |
@@ -39,31 +39,31 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 22 | [welcome to malaysia](http://twitter.com/search?q=welcome+to+malaysia) | N/A |
 | 23 | [subang airport](http://twitter.com/search?q=subang+airport) | N/A |
 | 24 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 25 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 26 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
-| 27 | [salam jumaat](http://twitter.com/search?q=salam+jumaat) | N/A |
-| 28 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 29 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 30 | [Luda](http://twitter.com/search?q=Luda) | N/A |
-| 31 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 32 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
-| 33 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 35 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 36 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 25 | [TY WEARS LOEWE](http://twitter.com/search?q=TY+WEARS+LOEWE) | N/A |
+| 26 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 27 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 28 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 29 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
+| 30 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 31 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 32 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 33 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 34 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 35 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 36 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
 | 37 | [wjsn](http://twitter.com/search?q=wjsn) | WJSN stands for Cosmic Girls, a South Korean girl group formed in 2016 by Starship Entertainment and Yuehua Entertainment. The group consists of thirteen members: Seola, Xuan Yi, Bona, Exy, Soobin, Luda, Dawon, Eunseo, Cheng Xiao, Mei Qi, Yeoreum, Dayoung and Yeonjung. The name WJSN is an acronym for “Wonderful Journey to the Stars”. |
 | 38 | [arul kanda](http://twitter.com/search?q=arul+kanda) | N/A |
-| 39 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 40 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
-| 41 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
-| 42 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 39 | [SUPPASIT WFT 2023](http://twitter.com/search?q=SUPPASIT+WFT+2023) | N/A |
+| 40 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 41 | [Yato](http://twitter.com/search?q=Yato) | N/A |
+| 42 | [bebe rexha](http://twitter.com/search?q=bebe+rexha) | N/A |
 | 43 | [Jho Low](http://twitter.com/search?q=Jho+Low) | N/A |
-| 44 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 45 | [Gossip Girl](http://twitter.com/search?q=Gossip+Girl) | Gossip Girl is an American teen drama television series based on the book series of the same name written by Cecily von Ziegesar. The show follows the lives of privileged upper-class adolescents living in Manhattan's Upper East Side. The title character, Gossip Girl, is an anonymous narrator who provides the audience with gossip and commentary on the characters' lives. |
-| 46 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
-| 47 | [D-DAY](http://twitter.com/search?q=D-DAY) | N/A |
-| 48 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 49 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 45 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 46 | [Gossip Girl](http://twitter.com/search?q=Gossip+Girl) | Gossip Girl is an American teen drama television series based on the book series of the same name written by Cecily von Ziegesar. The show follows the lives of privileged upper-class adolescents living in Manhattan's Upper East Side. The title character, Gossip Girl, is an anonymous narrator who provides the audience with gossip and commentary on the characters' lives. |
+| 47 | [READY TO BE SPEECHLESS](http://twitter.com/search?q=READY+TO+BE+SPEECHLESS) | N/A |
+| 48 | [D-DAY](http://twitter.com/search?q=D-DAY) | N/A |
+| 49 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 
 
 

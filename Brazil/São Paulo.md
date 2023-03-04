@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-04 05:15:59 UTC`
+📆 Last Updated: `2023-03-04 06:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 2 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 3 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 1 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 4 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
 | 5 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
 | 6 | [Levi](http://twitter.com/search?q=Levi) | N/A |
 | 7 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
 | 8 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 9 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
-| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 11 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 10 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 12 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
 | 13 | [Ramon Dino](http://twitter.com/search?q=Ramon+Dino) | N/A |
 | 14 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
 | 15 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
 | 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 17 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 18 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
-| 19 | [#GloboReporter](http://twitter.com/search?q=%23GloboReporter) | N/A |
-| 20 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 21 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 17 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 18 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 19 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 20 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 22 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 23 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 24 | [Lud Session](http://twitter.com/search?q=Lud+Session) | N/A |
-| 25 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 26 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 27 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 29 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 30 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 31 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 32 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 33 | [Lady Leste](http://twitter.com/search?q=Lady+Leste) | N/A |
-| 34 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
-| 35 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 36 | [Salina](http://twitter.com/search?q=Salina) | N/A |
-| 37 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 38 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
-| 39 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 40 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 41 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 42 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
-| 43 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 44 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 45 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 46 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 47 | [Picture To Burn](http://twitter.com/search?q=Picture+To+Burn) | N/A |
-| 48 | [Erwin](http://twitter.com/search?q=Erwin) | N/A |
-| 49 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
-| 50 | [Guitar Songs](http://twitter.com/search?q=Guitar+Songs) | N/A |
+| 23 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 24 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 25 | [Bambas](http://twitter.com/search?q=Bambas) | N/A |
+| 26 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 28 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 29 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 30 | [Lud Session](http://twitter.com/search?q=Lud+Session) | N/A |
+| 31 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 32 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
+| 33 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 34 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 35 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 36 | [LADY LESTE](http://twitter.com/search?q=LADY+LESTE) | N/A |
+| 37 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
+| 38 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 39 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 40 | [PALADAR ALCOÓLICO](http://twitter.com/search?q=PALADAR+ALCO%c3%93LICO) | N/A |
+| 41 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 42 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 43 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
+| 44 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 45 | [amelie](http://twitter.com/search?q=amelie) | N/A |
+| 46 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 47 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
+| 48 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 49 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 50 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
 
 
 

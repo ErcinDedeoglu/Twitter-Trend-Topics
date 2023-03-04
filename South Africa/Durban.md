@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-04 05:16:19 UTC`
+📆 Last Updated: `2023-03-04 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
 | 2 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
 | 3 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
-| 4 | [#HappyBirthdayCIC](http://twitter.com/search?q=%23HappyBirthdayCIC) | N/A |
-| 5 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
-| 6 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 7 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 8 | [#absasmallbizfriday](http://twitter.com/search?q=%23absasmallbizfriday) | N/A |
-| 9 | [khosi the philanthropist](http://twitter.com/search?q=khosi+the+philanthropist) | N/A |
-| 10 | [tsatsii all white party](http://twitter.com/search?q=tsatsii+all+white+party) | N/A |
-| 11 | [Ankoles](http://twitter.com/search?q=Ankoles) | N/A |
-| 12 | [THABANG THE TITAN](http://twitter.com/search?q=THABANG+THE+TITAN) | N/A |
-| 13 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
-| 14 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
-| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 16 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 4 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 5 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
+| 6 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
+| 7 | [#TheWeekendGetUp](http://twitter.com/search?q=%23TheWeekendGetUp) | N/A |
+| 8 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
+| 9 | [KHOSI THE PHILANTHROPIST](http://twitter.com/search?q=KHOSI+THE+PHILANTHROPIST) | N/A |
+| 10 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 11 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 12 | [thabang the titan](http://twitter.com/search?q=thabang+the+titan) | N/A |
+| 13 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 14 | [TSATSII ALL WHITE PARTY](http://twitter.com/search?q=TSATSII+ALL+WHITE+PARTY) | N/A |
+| 15 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
+| 16 | [POTS](http://twitter.com/search?q=POTS) | N/A |
 | 17 | [people remix](http://twitter.com/search?q=people+remix) | N/A |
-| 18 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 19 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
-| 20 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 21 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
-| 24 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
-| 25 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
-| 26 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
-| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 28 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 29 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 30 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 31 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 33 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 34 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 35 | [Vavi](http://twitter.com/search?q=Vavi) | N/A |
-| 36 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
+| 18 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 19 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 20 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
+| 21 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 24 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
+| 25 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
+| 26 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 27 | [Edgars Beauty](http://twitter.com/search?q=Edgars+Beauty) | N/A |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [NSBC Africa](http://twitter.com/search?q=NSBC+Africa) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
+| 32 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 33 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 34 | [Mmusi](http://twitter.com/search?q=Mmusi) | N/A |
+| 35 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 37 | [NSFAS](http://twitter.com/search?q=NSFAS) | N/A |
-| 38 | [moshabi](http://twitter.com/search?q=moshabi) | N/A |
-| 39 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 40 | [skin like ipeleng](http://twitter.com/search?q=skin+like+ipeleng) | N/A |
-| 41 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 42 | [lwazi](http://twitter.com/search?q=lwazi) | N/A |
-| 43 | [Masego](http://twitter.com/search?q=Masego) | N/A |
-| 44 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
-| 45 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 46 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 47 | [astro hyperlapse](http://twitter.com/search?q=astro+hyperlapse) | N/A |
-| 48 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 49 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
-| 50 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 38 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
+| 39 | [moshabi](http://twitter.com/search?q=moshabi) | N/A |
+| 40 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
+| 41 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
+| 42 | [skin like ipeleng](http://twitter.com/search?q=skin+like+ipeleng) | N/A |
+| 43 | [President](http://twitter.com/search?q=President) | N/A |
+| 44 | [lwazi](http://twitter.com/search?q=lwazi) | N/A |
+| 45 | [Masego](http://twitter.com/search?q=Masego) | N/A |
+| 46 | [Idiots](http://twitter.com/search?q=Idiots) | N/A |
+| 47 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 49 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
 
 
 

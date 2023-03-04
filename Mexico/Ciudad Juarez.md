@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-04 05:15:53 UTC`
+📆 Last Updated: `2023-03-04 06:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
 | 4 | [#ViernesDeSupervivencia](http://twitter.com/search?q=%23ViernesDeSupervivencia) | N/A |
 | 5 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 6 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 7 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 8 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 6 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 7 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 8 | [Baca](http://twitter.com/search?q=Baca) | N/A |
 | 9 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 10 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 11 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 12 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 13 | [Euripides](http://twitter.com/search?q=Euripides) | N/A |
-| 14 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 15 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 16 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 17 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
-| 18 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 19 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 20 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 21 | [Diego Reyes](http://twitter.com/search?q=Diego+Reyes) | N/A |
-| 22 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 23 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
-| 24 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 10 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 11 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 12 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 13 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 14 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 15 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 16 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 17 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 18 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 19 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 20 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 21 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 22 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 23 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 24 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
 | 25 | [Furch](http://twitter.com/search?q=Furch) | N/A |
-| 26 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 27 | [ANDRESSE Y NELSON X CAÑAVERAL](http://twitter.com/search?q=ANDRESSE+Y+NELSON+X+CA%c3%91AVERAL) | N/A |
-| 28 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 29 | [Ferreti](http://twitter.com/search?q=Ferreti) | N/A |
-| 30 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 31 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 32 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 33 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 34 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 35 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 36 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 37 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 38 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 39 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 40 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 41 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 42 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 43 | [Nando](http://twitter.com/search?q=Nando) | N/A |
-| 44 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 45 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 46 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 47 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 26 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
+| 27 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 28 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
+| 29 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 30 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 31 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 32 | [ANDRESSE Y NELSON X CAÑAVERAL](http://twitter.com/search?q=ANDRESSE+Y+NELSON+X+CA%c3%91AVERAL) | N/A |
+| 33 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 34 | [Ferreti](http://twitter.com/search?q=Ferreti) | N/A |
+| 35 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 36 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 37 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 38 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 39 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 40 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 41 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 42 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 43 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
+| 44 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 45 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 46 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 47 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
 
 
 
