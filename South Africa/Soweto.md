@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-04 12:17:46 UTC`
+📆 Last Updated: `2023-03-04 13:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 2 | [#DebonairsDoubleMe](http://twitter.com/search?q=%23DebonairsDoubleMe) | N/A |
-| 3 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
-| 4 | [Lucas Radebe](http://twitter.com/search?q=Lucas+Radebe) | N/A |
-| 5 | [#MphoWaBadimo](http://twitter.com/search?q=%23MphoWaBadimo) | N/A |
-| 6 | [Athi](http://twitter.com/search?q=Athi) | N/A |
-| 7 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 8 | [#DiepCityMzansi](http://twitter.com/search?q=%23DiepCityMzansi) | N/A |
-| 9 | [#WitsShutDown](http://twitter.com/search?q=%23WitsShutDown) | N/A |
-| 10 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
-| 11 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 12 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
-| 13 | [khosi the philanthropist](http://twitter.com/search?q=khosi+the+philanthropist) | N/A |
-| 14 | [VIBE WITH TSATSII](http://twitter.com/search?q=VIBE+WITH+TSATSII) | N/A |
-| 15 | [tsatsii all white party](http://twitter.com/search?q=tsatsii+all+white+party) | N/A |
-| 16 | [PARTI WITH KHOSI TWALA](http://twitter.com/search?q=PARTI+WITH+KHOSI+TWALA) | N/A |
-| 17 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
-| 18 | [People Remix](http://twitter.com/search?q=People+Remix) | N/A |
-| 19 | [President](http://twitter.com/search?q=President) | N/A |
-| 20 | [President](http://twitter.com/search?q=President) | N/A |
-| 21 | [TSATSII THE SHOW](http://twitter.com/search?q=TSATSII+THE+SHOW) | N/A |
-| 22 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 25 | [JIVA THABANG](http://twitter.com/search?q=JIVA+THABANG) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 28 | [nsbc africa](http://twitter.com/search?q=nsbc+africa) | N/A |
-| 29 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
-| 30 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
-| 31 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
-| 32 | [POTS](http://twitter.com/search?q=POTS) | N/A |
-| 33 | [MTN8](http://twitter.com/search?q=MTN8) | N/A |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 37 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 38 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 39 | [Terry Pheto](http://twitter.com/search?q=Terry+Pheto) | N/A |
-| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 42 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | N/A |
-| 43 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
-| 44 | [Lukay](http://twitter.com/search?q=Lukay) | Lukay is a term used in the Caribbean to refer to a close friend or companion. It is derived from the French word "lucie," which means "companion." In English, it can be translated as "buddy" or "pal." |
-| 45 | [Dischem](http://twitter.com/search?q=Dischem) | N/A |
-| 46 | [Black Coffee](http://twitter.com/search?q=Black+Coffee) | N/A |
-| 47 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 48 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 49 | [Shalulile](http://twitter.com/search?q=Shalulile) | N/A |
-| 50 | [Dlamini](http://twitter.com/search?q=Dlamini) | N/A |
+| 1 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 2 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 3 | [Lucas Radebe](http://twitter.com/search?q=Lucas+Radebe) | N/A |
+| 4 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 5 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 6 | [#STOvSHA](http://twitter.com/search?q=%23STOvSHA) | N/A |
+| 7 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
+| 8 | [#DebonairsDoubleMe](http://twitter.com/search?q=%23DebonairsDoubleMe) | N/A |
+| 9 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 13 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
+| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 15 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 16 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
+| 17 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 18 | [Emtee](http://twitter.com/search?q=Emtee) | N/A |
+| 19 | [VIBE WITH TSATSII](http://twitter.com/search?q=VIBE+WITH+TSATSII) | N/A |
+| 20 | [tsatsii all white party](http://twitter.com/search?q=tsatsii+all+white+party) | N/A |
+| 21 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 23 | [PARTI WITH KHOSI TWALA](http://twitter.com/search?q=PARTI+WITH+KHOSI+TWALA) | N/A |
+| 24 | [Jacob Banks](http://twitter.com/search?q=Jacob+Banks) | N/A |
+| 25 | [People Remix](http://twitter.com/search?q=People+Remix) | N/A |
+| 26 | [President](http://twitter.com/search?q=President) | N/A |
+| 27 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 28 | [De Klerk](http://twitter.com/search?q=De+Klerk) | N/A |
+| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 31 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 32 | [JIVA THABANG](http://twitter.com/search?q=JIVA+THABANG) | N/A |
+| 33 | [Saile](http://twitter.com/search?q=Saile) | N/A |
+| 34 | [TSATSII THE SHOW](http://twitter.com/search?q=TSATSII+THE+SHOW) | N/A |
+| 35 | [Ndah](http://twitter.com/search?q=Ndah) | N/A |
+| 36 | [Zamani](http://twitter.com/search?q=Zamani) | N/A |
+| 37 | [Libo](http://twitter.com/search?q=Libo) | N/A |
+| 38 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 39 | [Richards Bay](http://twitter.com/search?q=Richards+Bay) | N/A |
+| 40 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 42 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 43 | [MTN8](http://twitter.com/search?q=MTN8) | N/A |
+| 44 | [nsbc africa](http://twitter.com/search?q=nsbc+africa) | N/A |
+| 45 | [POTS](http://twitter.com/search?q=POTS) | N/A |
+| 46 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 47 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 48 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 49 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | N/A |
+| 50 | [Ricky Rick](http://twitter.com/search?q=Ricky+Rick) | N/A |
 
 
 

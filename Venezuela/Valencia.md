@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-04 12:17:24 UTC`
+📆 Last Updated: `2023-03-04 13:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#4Mar](http://twitter.com/search?q=%234Mar) | N/A |
 | 2 | [#ChávezInfinito](http://twitter.com/search?q=%23Ch%c3%a1vezInfinito) | N/A |
-| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 4 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
-| 5 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
-| 6 | [#produciresindependencia](http://twitter.com/search?q=%23produciresindependencia) | N/A |
-| 7 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
-| 8 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 3 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 4 | [#ENmascotas](http://twitter.com/search?q=%23ENmascotas) | N/A |
+| 5 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
+| 6 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
+| 7 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
+| 8 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
 | 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 10 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 11 | [palmeritas](http://twitter.com/search?q=palmeritas) | N/A |
-| 12 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
-| 13 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 15 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 16 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 17 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 10 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 11 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 12 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 13 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
+| 14 | [palmeritas](http://twitter.com/search?q=palmeritas) | N/A |
+| 15 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 16 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Givova](http://twitter.com/search?q=Givova) | N/A |
+| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 20 | [Olafo](http://twitter.com/search?q=Olafo) | N/A |
 | 21 | [Felipe Pirela](http://twitter.com/search?q=Felipe+Pirela) | N/A |
-| 22 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 23 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [richard blanco](http://twitter.com/search?q=richard+blanco) | N/A |
-| 26 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
-| 27 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
-| 28 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 29 | [Paula Bellini](http://twitter.com/search?q=Paula+Bellini) | N/A |
-| 30 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
-| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 32 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
-| 33 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 22 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 23 | [richard blanco](http://twitter.com/search?q=richard+blanco) | N/A |
+| 24 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 26 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
+| 27 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
+| 28 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 29 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 30 | [Paula Bellini](http://twitter.com/search?q=Paula+Bellini) | N/A |
+| 31 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
+| 32 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 33 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
 | 34 | [Parque Cristal](http://twitter.com/search?q=Parque+Cristal) | N/A |
 | 35 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 36 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 37 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
-| 38 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
-| 39 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 40 | [Miguel Rojas](http://twitter.com/search?q=Miguel+Rojas) | Miguel Rojas is a Spanish name. It is composed of the given name Miguel, which is derived from the Hebrew name Michael, meaning "who is like God," and the surname Rojas, which means "red." |
-| 41 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Gatos](http://twitter.com/search?q=Gatos) | N/A |
-| 44 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 45 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
-| 46 | [Hernán Pérez](http://twitter.com/search?q=Hern%c3%a1n+P%c3%a9rez) | N/A |
-| 47 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
-| 48 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 49 | [Fernando Aristeguieta](http://twitter.com/search?q=Fernando+Aristeguieta) | N/A |
-| 50 | [cptt](http://twitter.com/search?q=cptt) | N/A |
+| 36 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
+| 37 | [águilas](http://twitter.com/search?q=%c3%a1guilas) | N/A |
+| 38 | [Gatos](http://twitter.com/search?q=Gatos) | N/A |
+| 39 | [Givova](http://twitter.com/search?q=Givova) | N/A |
+| 40 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
+| 41 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
+| 42 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 43 | [Consecomercio](http://twitter.com/search?q=Consecomercio) | N/A |
+| 44 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 45 | [fernando aristeguieta](http://twitter.com/search?q=fernando+aristeguieta) | N/A |
+| 46 | [Muy Buenos](http://twitter.com/search?q=Muy+Buenos) | N/A |
+| 47 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 
 
 

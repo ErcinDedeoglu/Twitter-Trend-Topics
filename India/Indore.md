@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-04 12:17:52 UTC`
+📆 Last Updated: `2023-03-04 13:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 2 | [#PepsiXSikander](http://twitter.com/search?q=%23PepsiXSikander) | N/A |
-| 3 | [#VaathiSIRscoresCentum](http://twitter.com/search?q=%23VaathiSIRscoresCentum) | N/A |
-| 4 | [#जाट_महाकुंभ_1_दिन_शेष](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_1_%e0%a4%a6%e0%a4%bf%e0%a4%a8_%e0%a4%b6%e0%a5%87%e0%a4%b7) | N/A |
-| 5 | [#TheNightManagerOnHotstar](http://twitter.com/search?q=%23TheNightManagerOnHotstar) | N/A |
-| 6 | [#RajeRajasthanKi](http://twitter.com/search?q=%23RajeRajasthanKi) | N/A |
-| 7 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
-| 8 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
-| 9 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
-| 10 | [Raval](http://twitter.com/search?q=Raval) | N/A |
-| 11 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 12 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
-| 13 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 14 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 15 | [rouse avenue court](http://twitter.com/search?q=rouse+avenue+court) | N/A |
-| 16 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 17 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 2 | [#SantGaribdasji_BodhDiwas](http://twitter.com/search?q=%23SantGaribdasji_BodhDiwas) | N/A |
+| 3 | [#PepsiXSikander](http://twitter.com/search?q=%23PepsiXSikander) | N/A |
+| 4 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 5 | [#जाट_महाकुंभ_1_दिन_शेष](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_1_%e0%a4%a6%e0%a4%bf%e0%a4%a8_%e0%a4%b6%e0%a5%87%e0%a4%b7) | N/A |
+| 6 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 7 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
+| 8 | [PRIYANKA 3M HEARTS ON IG](http://twitter.com/search?q=PRIYANKA+3M+HEARTS+ON+IG) | N/A |
+| 9 | [1 YEAR OF MERA SUFFER](http://twitter.com/search?q=1+YEAR+OF+MERA+SUFFER) | N/A |
+| 10 | [Dottin](http://twitter.com/search?q=Dottin) | N/A |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [मणिकर्णिका घाट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%95%e0%a4%be+%e0%a4%98%e0%a4%be%e0%a4%9f) | N/A |
+| 13 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 14 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 15 | [Raval](http://twitter.com/search?q=Raval) | N/A |
+| 16 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 17 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
 | 18 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 19 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 20 | [Constitution of India](http://twitter.com/search?q=Constitution+of+India) | N/A |
-| 21 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 19 | [एवेन्यू कोर्ट](http://twitter.com/search?q=%e0%a4%8f%e0%a4%b5%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 21 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
 | 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 23 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
-| 24 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 25 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
-| 26 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
-| 27 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
-| 28 | [लाला हरदयाल](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%b9%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%be%e0%a4%b2) | N/A |
-| 29 | [Sanghis](http://twitter.com/search?q=Sanghis) | N/A |
-| 30 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
-| 31 | [UPSC](http://twitter.com/search?q=UPSC) | N/A |
-| 32 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
-| 33 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 34 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 35 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
+| 23 | [अनुष्का शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%95%e0%a4%be+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 24 | [Tamils](http://twitter.com/search?q=Tamils) | N/A |
+| 25 | [बिल गेट्स](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2+%e0%a4%97%e0%a5%87%e0%a4%9f%e0%a5%8d%e0%a4%b8) | N/A |
+| 26 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 27 | [Sanghis](http://twitter.com/search?q=Sanghis) | N/A |
+| 28 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 29 | [Ranveer Singh](http://twitter.com/search?q=Ranveer+Singh) | N/A |
+| 30 | [#OBedardeya](http://twitter.com/search?q=%23OBedardeya) | N/A |
+| 31 | [#VaathiSIRscoresCentum](http://twitter.com/search?q=%23VaathiSIRscoresCentum) | N/A |
+| 32 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
+| 33 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
+| 34 | [#TheNightManagerOnHotstar](http://twitter.com/search?q=%23TheNightManagerOnHotstar) | N/A |
+| 35 | [#RajeRajasthanKi](http://twitter.com/search?q=%23RajeRajasthanKi) | N/A |
 | 36 | [#AmritpalIsFraud](http://twitter.com/search?q=%23AmritpalIsFraud) | N/A |
-| 37 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
+| 37 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
 | 38 | [#TunishaSharma](http://twitter.com/search?q=%23TunishaSharma) | N/A |
-| 39 | [#vaathi100crclub](http://twitter.com/search?q=%23vaathi100crclub) | N/A |
-| 40 | [#Ramabanam](http://twitter.com/search?q=%23Ramabanam) | N/A |
-| 41 | [#EVM_हटाओ_लोकतंत्र_बचाओ](http://twitter.com/search?q=%23EVM_%e0%a4%b9%e0%a4%9f%e0%a4%be%e0%a4%93_%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 39 | [#Vaathi100crClub](http://twitter.com/search?q=%23Vaathi100crClub) | N/A |
+| 40 | [#ArrestSandhyaRavishankar](http://twitter.com/search?q=%23ArrestSandhyaRavishankar) | N/A |
+| 41 | [#Ramabanam](http://twitter.com/search?q=%23Ramabanam) | N/A |
 | 42 | [#SheezanKhan](http://twitter.com/search?q=%23SheezanKhan) | N/A |
-| 43 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
-| 44 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
-| 45 | [#ArrestSandhyaRavishankar](http://twitter.com/search?q=%23ArrestSandhyaRavishankar) | N/A |
+| 43 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
+| 44 | [#EVM_हटाओ_लोकतंत्र_बचाओ](http://twitter.com/search?q=%23EVM_%e0%a4%b9%e0%a4%9f%e0%a4%be%e0%a4%93_%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 45 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
 | 46 | [#ABAIndiaConference2023](http://twitter.com/search?q=%23ABAIndiaConference2023) | N/A |
-| 47 | [#womenspremierleague](http://twitter.com/search?q=%23womenspremierleague) | N/A |
-| 48 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
-| 49 | [#NorthIndianworkers](http://twitter.com/search?q=%23NorthIndianworkers) | N/A |
-| 50 | [#KarnatakaWantsKejriwal](http://twitter.com/search?q=%23KarnatakaWantsKejriwal) | N/A |
+| 47 | [#MIvsGG](http://twitter.com/search?q=%23MIvsGG) | N/A |
+| 48 | [#MigrantWorkers](http://twitter.com/search?q=%23MigrantWorkers) | N/A |
+| 49 | [#GujaratGiants](http://twitter.com/search?q=%23GujaratGiants) | N/A |
+| 50 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
 
 
 

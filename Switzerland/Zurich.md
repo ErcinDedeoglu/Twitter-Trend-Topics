@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-04 12:17:34 UTC`
+📆 Last Updated: `2023-03-04 13:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
 | 3 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [panzer](http://twitter.com/search?q=panzer) | N/A |
+| 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 6 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 7 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
-| 8 | [#Toblerone](http://twitter.com/search?q=%23Toblerone) | N/A |
-| 9 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
-| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [#evoting](http://twitter.com/search?q=%23evoting) | N/A |
-| 12 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
+| 7 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
+| 8 | [#WorldHearingDay](http://twitter.com/search?q=%23WorldHearingDay) | N/A |
+| 9 | [#Toblerone](http://twitter.com/search?q=%23Toblerone) | N/A |
+| 10 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
+| 11 | [gruyère](http://twitter.com/search?q=gruy%c3%a8re) | N/A |
+| 12 | [#evoting](http://twitter.com/search?q=%23evoting) | N/A |
 | 13 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
 | 14 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 15 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
-| 16 | [projekt](http://twitter.com/search?q=projekt) | N/A |
+| 15 | [#ixd23](http://twitter.com/search?q=%23ixd23) | N/A |
+| 16 | [fall windisch](http://twitter.com/search?q=fall+windisch) | N/A |
 | 17 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 18 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
+| 18 | [unterstütze die beschwerde](http://twitter.com/search?q=unterst%c3%bctze+die+beschwerde) | N/A |
 | 19 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 20 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 21 | [beschwerde beim presserat](http://twitter.com/search?q=beschwerde+beim+presserat) | N/A |
-| 22 | [Ethiopia](http://twitter.com/search?q=Ethiopia) | N/A |
-| 23 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 24 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 25 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 26 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
-| 27 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 29 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 30 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
-| 31 | [Kollege](http://twitter.com/search?q=Kollege) | N/A |
-| 32 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
-| 33 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 34 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 35 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 36 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
-| 37 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
-| 38 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 39 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
-| 40 | [Speriamo](http://twitter.com/search?q=Speriamo) | N/A |
-| 41 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 42 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 43 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 45 | [Lebensqualität](http://twitter.com/search?q=Lebensqualit%c3%a4t) | N/A |
-| 46 | [Teuerungsausgleich](http://twitter.com/search?q=Teuerungsausgleich) | N/A |
-| 47 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
-| 48 | [Digitalisierung](http://twitter.com/search?q=Digitalisierung) | N/A |
-| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 50 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 22 | [J'imagine](http://twitter.com/search?q=J%27imagine) | N/A |
+| 23 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 24 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 25 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 26 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 27 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
+| 28 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 29 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 30 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
+| 31 | [leopard](http://twitter.com/search?q=leopard) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [Kollege](http://twitter.com/search?q=Kollege) | N/A |
+| 34 | [totalrevision](http://twitter.com/search?q=totalrevision) | N/A |
+| 35 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 36 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 37 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 38 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 39 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
+| 40 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 41 | [Pensa](http://twitter.com/search?q=Pensa) | N/A |
+| 42 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 45 | [Digitalisierung](http://twitter.com/search?q=Digitalisierung) | N/A |
+| 46 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 47 | [Städten](http://twitter.com/search?q=St%c3%a4dten) | N/A |
+| 48 | [Menge](http://twitter.com/search?q=Menge) | N/A |
+| 49 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 50 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
 
 
 

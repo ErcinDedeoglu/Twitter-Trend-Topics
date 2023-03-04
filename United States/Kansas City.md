@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-04 12:17:58 UTC`
+📆 Last Updated: `2023-03-04 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#ArchMadness](http://twitter.com/search?q=%23ArchMadness) | N/A |
-| 3 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
-| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 2 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 3 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 4 | [#MCINEW](http://twitter.com/search?q=%23MCINEW) | N/A |
 | 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 6 | [Artificial Intelligence NFT](http://twitter.com/search?q=Artificial+Intelligence+NFT) | N/A |
+| 6 | [Carti](http://twitter.com/search?q=Carti) | Carti is a shortened form of the word "cartilage," which is a type of connective tissue found in the human body. It is made up of collagen and other proteins, and it helps to provide structure and support for bones, joints, and other tissues. In English, carti means cartilage. |
 | 7 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 8 | [#Wordle623](http://twitter.com/search?q=%23Wordle623) | N/A |
-| 9 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
-| 10 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 8 | [Daily Quordle 404](http://twitter.com/search?q=Daily+Quordle+404) | N/A |
+| 9 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 10 | [artificial intelligence nft](http://twitter.com/search?q=artificial+intelligence+nft) | N/A |
 | 11 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 12 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 13 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 14 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
-| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 16 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 17 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 18 | [kehlani](http://twitter.com/search?q=kehlani) | N/A |
-| 19 | [Adin Hill](http://twitter.com/search?q=Adin+Hill) | N/A |
-| 20 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 21 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 22 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 23 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
-| 24 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
-| 25 | [John Stewart](http://twitter.com/search?q=John+Stewart) | N/A |
-| 26 | [Light the Beam](http://twitter.com/search?q=Light+the+Beam) | Light the Beam is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for achieving success, as in "Let's light the beam and get this project done!" |
-| 27 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 28 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 29 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 30 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
-| 31 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
-| 32 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 33 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 34 | [Thin Mints](http://twitter.com/search?q=Thin+Mints) | N/A |
-| 35 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
-| 36 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
-| 37 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
-| 38 | [Mappa](http://twitter.com/search?q=Mappa) | Mappa is a Japanese term that refers to a map or chart. It is often used to refer to a map of an area, such as a city or region. In English, it can be translated as "map" or "chart". |
-| 39 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 40 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 41 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 42 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 43 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 44 | [David Lindley](http://twitter.com/search?q=David+Lindley) | N/A |
-| 45 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
-| 46 | [#视频爱爱](http://twitter.com/search?q=%23%e8%a7%86%e9%a2%91%e7%88%b1%e7%88%b1) | N/A |
-| 47 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 48 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 49 | [#AttackonTitanFinalSeason](http://twitter.com/search?q=%23AttackonTitanFinalSeason) | N/A |
+| 12 | [George Conway](http://twitter.com/search?q=George+Conway) | N/A |
+| 13 | [Saving Private Ryan](http://twitter.com/search?q=Saving+Private+Ryan) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 16 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 17 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 18 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 19 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 24 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 25 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 26 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 27 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 28 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 29 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 30 | [Adam Schiff](http://twitter.com/search?q=Adam+Schiff) | N/A |
+| 31 | [Jake Gyllenhaal](http://twitter.com/search?q=Jake+Gyllenhaal) | N/A |
+| 32 | [Gone With The Wind](http://twitter.com/search?q=Gone+With+The+Wind) | N/A |
+| 33 | [Road House](http://twitter.com/search?q=Road+House) | N/A |
+| 34 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 35 | [Don Jr.](http://twitter.com/search?q=Don+Jr.) | N/A |
+| 36 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 37 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 38 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 39 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 40 | [Creed](http://twitter.com/search?q=Creed) | N/A |
+| 41 | [adin hill](http://twitter.com/search?q=adin+hill) | N/A |
+| 42 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 43 | [Gavin Newsom](http://twitter.com/search?q=Gavin+Newsom) | N/A |
+| 44 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 45 | [Mike Breen](http://twitter.com/search?q=Mike+Breen) | N/A |
+| 46 | [Samoas](http://twitter.com/search?q=Samoas) | N/A |
+| 47 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 48 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
 
 
 

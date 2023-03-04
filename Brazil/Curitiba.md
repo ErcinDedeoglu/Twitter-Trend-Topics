@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-04 12:17:25 UTC`
+📆 Last Updated: `2023-03-04 13:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 2 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 3 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 5 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 6 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 7 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 8 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 9 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 10 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 11 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 12 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 14 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 15 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
-| 16 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 19 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 20 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 21 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 22 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 23 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 24 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 25 | [UNIVERSAL LIBERA A LUISA](http://twitter.com/search?q=UNIVERSAL+LIBERA+A+LUISA) | N/A |
-| 26 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 27 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 28 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
-| 31 | [paladar alcoólico](http://twitter.com/search?q=paladar+alco%c3%b3lico) | N/A |
-| 32 | [Michele](http://twitter.com/search?q=Michele) | N/A |
-| 33 | [#F3noBandsports](http://twitter.com/search?q=%23F3noBandsports) | N/A |
-| 34 | [Dangerous Woman](http://twitter.com/search?q=Dangerous+Woman) | N/A |
-| 35 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 36 | [feliz natal](http://twitter.com/search?q=feliz+natal) | N/A |
-| 37 | [Caio Henrique](http://twitter.com/search?q=Caio+Henrique) | N/A |
-| 38 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 39 | [Bruno Guimarães](http://twitter.com/search?q=Bruno+Guimar%c3%a3es) | N/A |
-| 40 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
-| 41 | [robert renan](http://twitter.com/search?q=robert+renan) | N/A |
-| 42 | [FELIZ DIA DO BOLO LORE](http://twitter.com/search?q=FELIZ+DIA+DO+BOLO+LORE) | N/A |
-| 43 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 44 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 45 | [#PanteneComTudo](http://twitter.com/search?q=%23PanteneComTudo) | N/A |
-| 46 | [on the street](http://twitter.com/search?q=on+the+street) | N/A |
-| 47 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
-| 48 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 49 | [lari merece respeito](http://twitter.com/search?q=lari+merece+respeito) | N/A |
-| 50 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 1 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 2 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 3 | [Rodrigo Simas](http://twitter.com/search?q=Rodrigo+Simas) | N/A |
+| 4 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 7 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 8 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 9 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 10 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 11 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 13 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 14 | [#AnimeAwards](http://twitter.com/search?q=%23AnimeAwards) | N/A |
+| 15 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 16 | [Márcio Guedes](http://twitter.com/search?q=M%c3%a1rcio+Guedes) | N/A |
+| 17 | [#GoIMP](http://twitter.com/search?q=%23GoIMP) | N/A |
+| 18 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 19 | [Roda Viva](http://twitter.com/search?q=Roda+Viva) | N/A |
+| 20 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
+| 21 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 22 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [CONTRABANDO DO JAIR](http://twitter.com/search?q=CONTRABANDO+DO+JAIR) | N/A |
+| 25 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 26 | [Contrabandista](http://twitter.com/search?q=Contrabandista) | N/A |
+| 27 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 28 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 29 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
+| 30 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
+| 31 | [Joelho](http://twitter.com/search?q=Joelho) | N/A |
+| 32 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
+| 33 | [Pará](http://twitter.com/search?q=Par%c3%a1) | N/A |
+| 34 | [Governo Bolsonaro](http://twitter.com/search?q=Governo+Bolsonaro) | N/A |
+| 35 | [Queiroz](http://twitter.com/search?q=Queiroz) | N/A |
+| 36 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 37 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 38 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 41 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 42 | [Rio Grande do Norte](http://twitter.com/search?q=Rio+Grande+do+Norte) | N/A |
+| 43 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
+| 44 | [Ramon Dino](http://twitter.com/search?q=Ramon+Dino) | N/A |
+| 45 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 46 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
 
 
 

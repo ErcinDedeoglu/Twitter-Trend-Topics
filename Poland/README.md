@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-04 12:18:08 UTC`
+📆 Last Updated: `2023-03-04 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 2 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
-| 3 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
-| 4 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 5 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 6 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
-| 7 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
-| 8 | [#GW26](http://twitter.com/search?q=%23GW26) | N/A |
+| 1 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
+| 2 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 3 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 4 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 5 | [#LPOLGD](http://twitter.com/search?q=%23LPOLGD) | N/A |
+| 6 | [#AferaBielana](http://twitter.com/search?q=%23AferaBielana) | N/A |
+| 7 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 8 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
 | 9 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
-| 10 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 11 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 12 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 13 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
-| 14 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 15 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 16 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 17 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
-| 18 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 19 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 20 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 21 | [Dziennikarze](http://twitter.com/search?q=Dziennikarze) | N/A |
-| 22 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 23 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 24 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
-| 25 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
-| 26 | [Przyrzekam](http://twitter.com/search?q=Przyrzekam) | N/A |
-| 27 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
+| 10 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
+| 11 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 12 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 13 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 14 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 15 | [Lektor](http://twitter.com/search?q=Lektor) | N/A |
+| 16 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 17 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 18 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 20 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 21 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 22 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 23 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
+| 24 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 26 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 27 | [zajc](http://twitter.com/search?q=zajc) | N/A |
 | 28 | [Skiba](http://twitter.com/search?q=Skiba) | N/A |
-| 29 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 30 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 31 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
-| 32 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 33 | [ewa swoboda](http://twitter.com/search?q=ewa+swoboda) | N/A |
-| 34 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
-| 35 | [oryx](http://twitter.com/search?q=oryx) | N/A |
-| 36 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
-| 37 | [pani magdaleno](http://twitter.com/search?q=pani+magdaleno) | N/A |
-| 38 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 39 | [Pani Poseł](http://twitter.com/search?q=Pani+Pose%c5%82) | N/A |
-| 40 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
-| 41 | [Winny](http://twitter.com/search?q=Winny) | N/A |
-| 42 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
-| 43 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
-| 44 | [Kopytka](http://twitter.com/search?q=Kopytka) | N/A |
-| 45 | [szafarowicz](http://twitter.com/search?q=szafarowicz) | N/A |
-| 46 | [Balongo](http://twitter.com/search?q=Balongo) | N/A |
-| 47 | [Rozlicz](http://twitter.com/search?q=Rozlicz) | N/A |
-| 48 | [Kuciak](http://twitter.com/search?q=Kuciak) | N/A |
-| 49 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 50 | [Kort](http://twitter.com/search?q=Kort) | N/A |
+| 29 | [brawo dawid](http://twitter.com/search?q=brawo+dawid) | N/A |
+| 30 | [Etiopii](http://twitter.com/search?q=Etiopii) | N/A |
+| 31 | [sakiewicz](http://twitter.com/search?q=sakiewicz) | N/A |
+| 32 | [Oryx](http://twitter.com/search?q=Oryx) | N/A |
+| 33 | [Pani Poseł](http://twitter.com/search?q=Pani+Pose%c5%82) | N/A |
+| 34 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
+| 35 | [Ewa Swoboda](http://twitter.com/search?q=Ewa+Swoboda) | N/A |
+| 36 | [winny](http://twitter.com/search?q=winny) | N/A |
+| 37 | [aleś bialacki](http://twitter.com/search?q=ale%c5%9b+bialacki) | N/A |
+| 38 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
+| 39 | [Dziennikarz](http://twitter.com/search?q=Dziennikarz) | N/A |
+| 40 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 41 | [Szczere](http://twitter.com/search?q=Szczere) | N/A |
+| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 43 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
+| 44 | [Balongo](http://twitter.com/search?q=Balongo) | N/A |
+| 45 | [Kopytka](http://twitter.com/search?q=Kopytka) | N/A |
+| 46 | [Pegasusem](http://twitter.com/search?q=Pegasusem) | N/A |
+| 47 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 48 | [PISowskie](http://twitter.com/search?q=PISowskie) | N/A |
+| 49 | [Kort](http://twitter.com/search?q=Kort) | N/A |
+| 50 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
 
 
 
