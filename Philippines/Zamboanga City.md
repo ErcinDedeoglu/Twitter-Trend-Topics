@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-04 17:17:27 UTC`
+📆 Last Updated: `2023-03-04 18:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
 | 2 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 3 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
+| 3 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
+| 4 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 5 | [WELCOME BACK TO MANILA HANBIN](http://twitter.com/search?q=WELCOME+BACK+TO+MANILA+HANBIN) | N/A |
-| 6 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 7 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 10 | [kmjs](http://twitter.com/search?q=kmjs) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
-| 13 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 14 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
-| 15 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
-| 16 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 19 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 20 | [Kyler](http://twitter.com/search?q=Kyler) | Kyler is a masculine given name of English origin. It is derived from the Old Norse name Kýrill, which is composed of the elements kyr, meaning "lord", and hildr, meaning "battle". The name can also be interpreted as meaning "brave warrior". |
-| 21 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 22 | [ZACHAM CHO5EN BARKADA](http://twitter.com/search?q=ZACHAM+CHO5EN+BARKADA) | N/A |
-| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 24 | [Congrats UST](http://twitter.com/search?q=Congrats+UST) | N/A |
-| 25 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 26 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 27 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 28 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 29 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 30 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 31 | [Eya Laure](http://twitter.com/search?q=Eya+Laure) | N/A |
-| 32 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 33 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
-| 34 | [#BUSKINGforJENNIEinPH](http://twitter.com/search?q=%23BUSKINGforJENNIEinPH) | N/A |
-| 35 | [#1YearWithGoodPersonByHaechan](http://twitter.com/search?q=%231YearWithGoodPersonByHaechan) | N/A |
-| 36 | [#PPOPCONTwitterSpace](http://twitter.com/search?q=%23PPOPCONTwitterSpace) | N/A |
-| 37 | [#CrashCourseInRomanceEp15](http://twitter.com/search?q=%23CrashCourseInRomanceEp15) | N/A |
-| 38 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
-| 39 | [#고마워해찬너무좋은사람이야](http://twitter.com/search?q=%23%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%b4%ec%b0%ac%eb%84%88%eb%ac%b4%ec%a2%8b%ec%9d%80%ec%82%ac%eb%9e%8c%ec%9d%b4%ec%95%bc) | N/A |
-| 40 | [#PPOPCON2023](http://twitter.com/search?q=%23PPOPCON2023) | N/A |
-| 41 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
-| 42 | [#KDLex](http://twitter.com/search?q=%23KDLex) | N/A |
-| 43 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 44 | [#BingoPlusNight](http://twitter.com/search?q=%23BingoPlusNight) | N/A |
-| 45 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
-| 46 | [#kentell](http://twitter.com/search?q=%23kentell) | N/A |
-| 47 | [#SongKangInManila](http://twitter.com/search?q=%23SongKangInManila) | N/A |
-| 48 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
-| 49 | [#AttackonTitanFinalSeason](http://twitter.com/search?q=%23AttackonTitanFinalSeason) | N/A |
+| 6 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 7 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 8 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 11 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 12 | [Carly](http://twitter.com/search?q=Carly) | N/A |
+| 13 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 14 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 15 | [ALAMAT WITH BINGO PLUS](http://twitter.com/search?q=ALAMAT+WITH+BINGO+PLUS) | N/A |
+| 16 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 17 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
+| 18 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 21 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 24 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 25 | [#BUSKINGforJENNIEinPH](http://twitter.com/search?q=%23BUSKINGforJENNIEinPH) | N/A |
+| 26 | [#WILDTONIGHTatBingoPlus](http://twitter.com/search?q=%23WILDTONIGHTatBingoPlus) | N/A |
+| 27 | [#PPOPCONTwitterSpace](http://twitter.com/search?q=%23PPOPCONTwitterSpace) | N/A |
+| 28 | [#1YearWithGoodPersonByHaechan](http://twitter.com/search?q=%231YearWithGoodPersonByHaechan) | N/A |
+| 29 | [#CrashCourseInRomanceEp15](http://twitter.com/search?q=%23CrashCourseInRomanceEp15) | N/A |
+| 30 | [#PPOPCON2023](http://twitter.com/search?q=%23PPOPCON2023) | N/A |
+| 31 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
+| 32 | [#고마워해찬너무좋은사람이야](http://twitter.com/search?q=%23%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%b4%ec%b0%ac%eb%84%88%eb%ac%b4%ec%a2%8b%ec%9d%80%ec%82%ac%eb%9e%8c%ec%9d%b4%ec%95%bc) | N/A |
+| 33 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
+| 34 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 35 | [#KDLex](http://twitter.com/search?q=%23KDLex) | N/A |
+| 36 | [#WanderlandMusicFest](http://twitter.com/search?q=%23WanderlandMusicFest) | N/A |
+| 37 | [#BingoPlusNight](http://twitter.com/search?q=%23BingoPlusNight) | N/A |
+| 38 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
+| 39 | [#HORI7ON_RobinsonsLipa](http://twitter.com/search?q=%23HORI7ON_RobinsonsLipa) | N/A |
+| 40 | [#KENTELL](http://twitter.com/search?q=%23KENTELL) | N/A |
+| 41 | [#SongKangInManila](http://twitter.com/search?q=%23SongKangInManila) | N/A |
+| 42 | [#SongKangAtTheBigDome](http://twitter.com/search?q=%23SongKangAtTheBigDome) | N/A |
+| 43 | [#ShootingStarInVietnam](http://twitter.com/search?q=%23ShootingStarInVietnam) | N/A |
+| 44 | [#BGYOatMarQueeMall](http://twitter.com/search?q=%23BGYOatMarQueeMall) | N/A |
+| 45 | [#BGYO_BeUsMallShow](http://twitter.com/search?q=%23BGYO_BeUsMallShow) | N/A |
+| 46 | [#ROSÉ](http://twitter.com/search?q=%23ROS%c3%89) | N/A |
+| 47 | [#HORI7ON_KYLER](http://twitter.com/search?q=%23HORI7ON_KYLER) | N/A |
+| 48 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
+| 49 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
 
 
 

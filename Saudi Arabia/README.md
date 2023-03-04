@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-04 17:17:54 UTC`
+📆 Last Updated: `2023-03-04 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Saudi Arabia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 2 | [نيلسون](http://twitter.com/search?q=%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
-| 3 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 4 | [#البزنس88](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b388) | N/A |
-| 5 | [#نرفع_هشتاقك_ترند_θ5θ3θ46347](http://twitter.com/search?q=%23%d9%86%d8%b1%d9%81%d8%b9_%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%ce%b85%ce%b83%ce%b846347) | N/A |
-| 6 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 7 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 8 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
-| 9 | [الاتحاد الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 10 | [#البكيري_يثير_التعصب_الرياضي2](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a_%d9%8a%d8%ab%d9%8a%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a2) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [#صيح_وطيح](http://twitter.com/search?q=%23%d8%b5%d9%8a%d8%ad_%d9%88%d8%b7%d9%8a%d8%ad) | N/A |
-| 13 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 14 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 15 | [قول فوفانا](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%81%d9%88%d9%81%d8%a7%d9%86%d8%a7) | N/A |
+| 2 | [#الشباب_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 3 | [#البقرات_الثلاث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%82%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab) | N/A |
+| 4 | [#cyberx_world](http://twitter.com/search?q=%23cyberx_world) | N/A |
+| 5 | [ارون](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86) | ارون is an Arabic name meaning "light". |
+| 6 | [#البزنس88](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b388) | N/A |
+| 7 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
+| 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 9 | [نيلسون](http://twitter.com/search?q=%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
+| 10 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
+| 11 | [الاتحاد الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 12 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
+| 15 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 16 | [نيتو](http://twitter.com/search?q=%d9%86%d9%8a%d8%aa%d9%88) | N/A |
-| 17 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
-| 18 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 19 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 20 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 21 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
-| 22 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
-| 23 | [عيال الكلب](http://twitter.com/search?q=%d8%b9%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%84%d8%a8) | N/A |
-| 24 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 25 | [قول الثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 26 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 27 | [الظلم التحكيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [تمبكتي](http://twitter.com/search?q=%d8%aa%d9%85%d8%a8%d9%83%d8%aa%d9%8a) | تمبكتي is an Arabic word that translates to "tambourine" in English. It is a percussion instrument consisting of a frame with metal discs or jingles attached to it. |
-| 30 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 31 | [١٤ شعبان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 17 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 18 | [ابو سالم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 19 | [اوديغارد](http://twitter.com/search?q=%d8%a7%d9%88%d8%af%d9%8a%d8%ba%d8%a7%d8%b1%d8%af) | اوديغارد is an Arabic name that means "Odyssey" in English. It is derived from the Greek word "Ὀδύσσεια" which means a long journey or voyage. |
+| 20 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
+| 21 | [ملعب الامارات](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 22 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 23 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 24 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 25 | [الظلم التحكيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
+| 26 | [باب رزق](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%b1%d8%b2%d9%82) | N/A |
+| 27 | [١٤ شعبان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 28 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 29 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
+| 30 | [قول الثالث](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 31 | [عيال الكلب](http://twitter.com/search?q=%d8%b9%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%84%d8%a8) | N/A |
 | 32 | [مهر الدوري](http://twitter.com/search?q=%d9%85%d9%87%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 33 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 34 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
-| 35 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 36 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
-| 37 | [علي التحكيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85) | N/A |
-| 38 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 39 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
-| 40 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 35 | [ايدي هاو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%af%d9%8a+%d9%87%d8%a7%d9%88) | N/A |
+| 36 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 37 | [الانديه الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 38 | [تمبكتي](http://twitter.com/search?q=%d8%aa%d9%85%d8%a8%d9%83%d8%aa%d9%8a) | تمبكتي is an Arabic word that translates to "tambourine" in English. It is a percussion instrument consisting of a frame with metal discs or jingles attached to it. |
+| 39 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 40 | [علي التحكيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85) | N/A |
 | 41 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 42 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
-| 43 | [الهويدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
-| 44 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 45 | [رييس نادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 46 | [علي المكشوف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%83%d8%b4%d9%88%d9%81) | N/A |
-| 47 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
-| 48 | [#الدوري_الانجليزي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 49 | [#الاتحاد_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | #الاتحاد_النصر is an Arabic hashtag that translates to "Union of Victory" in English. It is used to express solidarity and support for a cause or group. |
-| 50 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 42 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 43 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 44 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
+| 45 | [الهويدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
+| 46 | [علي المرتدات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%af%d8%a7%d8%aa) | N/A |
+| 47 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 48 | [علي المكشوف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%83%d8%b4%d9%88%d9%81) | N/A |
+| 49 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 50 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 
 
 
