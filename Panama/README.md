@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-04 20:16:47 UTC`
+📆 Last Updated: `2023-03-04 21:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Amador](http://twitter.com/search?q=Amador) | N/A |
-| 3 | [Taboga](http://twitter.com/search?q=Taboga) | N/A |
+| 2 | [Taboga](http://twitter.com/search?q=Taboga) | N/A |
+| 3 | [Amador](http://twitter.com/search?q=Amador) | N/A |
 | 4 | [Panamá Oeste](http://twitter.com/search?q=Panam%c3%a1+Oeste) | N/A |
 | 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 6 | [El Bosque](http://twitter.com/search?q=El+Bosque) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Panama
 | 15 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 16 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
 | 17 | [Marañón Curazao](http://twitter.com/search?q=Mara%c3%b1%c3%b3n+Curazao) | N/A |
-| 18 | [#on_the_street](http://twitter.com/search?q=%23on_the_street) | N/A |
-| 19 | [Comparto](http://twitter.com/search?q=Comparto) | N/A |
-| 20 | [sinaproc](http://twitter.com/search?q=sinaproc) | N/A |
-| 21 | [#BeisRPC](http://twitter.com/search?q=%23BeisRPC) | N/A |
-| 22 | [Causeway](http://twitter.com/search?q=Causeway) | N/A |
-| 23 | [Vaqueros](http://twitter.com/search?q=Vaqueros) | N/A |
-| 24 | [LGTB](http://twitter.com/search?q=LGTB) | N/A |
-| 25 | [Prado](http://twitter.com/search?q=Prado) | N/A |
-| 26 | [#monjesoy](http://twitter.com/search?q=%23monjesoy) | N/A |
-| 27 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 30 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
-| 31 | [Béisbol Juvenil 2023](http://twitter.com/search?q=B%c3%a9isbol+Juvenil+2023) | N/A |
-| 32 | [Aderlyn](http://twitter.com/search?q=Aderlyn) | N/A |
-| 33 | [Cocle](http://twitter.com/search?q=Cocle) | N/A |
-| 34 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 35 | [Cholo Chorrillo](http://twitter.com/search?q=Cholo+Chorrillo) | N/A |
-| 36 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 37 | [endara](http://twitter.com/search?q=endara) | N/A |
-| 38 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 39 | [cativá](http://twitter.com/search?q=cativ%c3%a1) | N/A |
-| 40 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 41 | [Villa Lucre](http://twitter.com/search?q=Villa+Lucre) | N/A |
-| 42 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 43 | [Senniaf](http://twitter.com/search?q=Senniaf) | N/A |
-| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 18 | [sinaproc](http://twitter.com/search?q=sinaproc) | N/A |
+| 19 | [#BeisRPC](http://twitter.com/search?q=%23BeisRPC) | N/A |
+| 20 | [Causeway](http://twitter.com/search?q=Causeway) | N/A |
+| 21 | [Vaqueros](http://twitter.com/search?q=Vaqueros) | N/A |
+| 22 | [Prado](http://twitter.com/search?q=Prado) | N/A |
+| 23 | [Comparto](http://twitter.com/search?q=Comparto) | N/A |
+| 24 | [#monjesoy](http://twitter.com/search?q=%23monjesoy) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 28 | [Caraballo](http://twitter.com/search?q=Caraballo) | Caraballo is a Spanish surname. It is derived from the Latin word carabus, which means "wagon" or "cart". In English, the meaning of Caraballo is "wagon driver". |
+| 29 | [Béisbol Juvenil 2023](http://twitter.com/search?q=B%c3%a9isbol+Juvenil+2023) | N/A |
+| 30 | [Cocle](http://twitter.com/search?q=Cocle) | N/A |
+| 31 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 32 | [Cholo Chorrillo](http://twitter.com/search?q=Cholo+Chorrillo) | N/A |
+| 33 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 34 | [Villa Lucre](http://twitter.com/search?q=Villa+Lucre) | N/A |
+| 35 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 36 | [LGTB](http://twitter.com/search?q=LGTB) | N/A |
+| 37 | [cativá](http://twitter.com/search?q=cativ%c3%a1) | N/A |
+| 38 | [#ElSalvador](http://twitter.com/search?q=%23ElSalvador) | N/A |
+| 39 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 40 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 41 | [senniaf](http://twitter.com/search?q=senniaf) | N/A |
+| 42 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 45 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 46 | [Aderlyn](http://twitter.com/search?q=Aderlyn) | N/A |
 | 47 | [Corte Suprema de Justicia](http://twitter.com/search?q=Corte+Suprema+de+Justicia) | N/A |
 | 48 | [pedasí](http://twitter.com/search?q=pedas%c3%ad) | N/A |
 | 49 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 50 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
 
 
 

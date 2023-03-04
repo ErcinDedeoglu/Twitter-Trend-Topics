@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-04 20:16:09 UTC`
+📆 Last Updated: `2023-03-04 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 5 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 6 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 1 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 4 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 5 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 6 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 7 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 8 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 11 | [Pantai](http://twitter.com/search?q=Pantai) | N/A |
-| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 13 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 14 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 15 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
-| 16 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 17 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 18 | [Opini](http://twitter.com/search?q=Opini) | N/A |
-| 19 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 22 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 23 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 24 | [#TDS2inJAKARTA_DAY1](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY1) | N/A |
-| 25 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 26 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 27 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
-| 28 | [#BedFriendEP3](http://twitter.com/search?q=%23BedFriendEP3) | N/A |
-| 29 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 30 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 31 | [#CrashCourseInRomanceEp15](http://twitter.com/search?q=%23CrashCourseInRomanceEp15) | N/A |
-| 32 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 33 | [#TBSD](http://twitter.com/search?q=%23TBSD) | N/A |
-| 34 | [#TheBSelcaDay](http://twitter.com/search?q=%23TheBSelcaDay) | N/A |
-| 35 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 36 | [#DeobiSelcaDay](http://twitter.com/search?q=%23DeobiSelcaDay) | N/A |
-| 37 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
-| 38 | [#TheBShot](http://twitter.com/search?q=%23TheBShot) | N/A |
-| 39 | [#1YearWithGoodPersonByHaechan](http://twitter.com/search?q=%231YearWithGoodPersonByHaechan) | N/A |
-| 40 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
-| 41 | [#고마워해찬너무좋은사람이야](http://twitter.com/search?q=%23%ea%b3%a0%eb%a7%88%ec%9b%8c%ed%95%b4%ec%b0%ac%eb%84%88%eb%ac%b4%ec%a2%8b%ec%9d%80%ec%82%ac%eb%9e%8c%ec%9d%b4%ec%95%bc) | N/A |
-| 42 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 43 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 44 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 8 | [Selamat Datang 7Dream](http://twitter.com/search?q=Selamat+Datang+7Dream) | N/A |
+| 9 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 10 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 12 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 13 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 14 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 15 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 16 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 17 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 18 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
+| 19 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 20 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
+| 21 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 24 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 25 | [Saturday Drip](http://twitter.com/search?q=Saturday+Drip) | N/A |
+| 26 | [Better Than Gold](http://twitter.com/search?q=Better+Than+Gold) | N/A |
+| 27 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 28 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 31 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 34 | [mau angel](http://twitter.com/search?q=mau+angel) | N/A |
+| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 36 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
+| 37 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 38 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 40 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 43 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
+| 44 | [Dreamies](http://twitter.com/search?q=Dreamies) | N/A |
+| 45 | [Malmingan](http://twitter.com/search?q=Malmingan) | N/A |
 
 
 

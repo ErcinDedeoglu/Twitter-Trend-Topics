@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-04 20:16:08 UTC`
+📆 Last Updated: `2023-03-04 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
 | 2 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
 | 3 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
-| 4 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 5 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 6 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
-| 7 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 8 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 9 | [Victor Crone](http://twitter.com/search?q=Victor+Crone) | N/A |
-| 10 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 11 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
-| 14 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 15 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 16 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
-| 17 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 18 | [Videll](http://twitter.com/search?q=Videll) | N/A |
-| 19 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
-| 20 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 21 | [Linn](http://twitter.com/search?q=Linn) | N/A |
-| 22 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 23 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 24 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 25 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 26 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 27 | [simon strand](http://twitter.com/search?q=simon+strand) | N/A |
-| 28 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [Henrik Larsson](http://twitter.com/search?q=Henrik+Larsson) | N/A |
-| 31 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 34 | [Magiskt](http://twitter.com/search?q=Magiskt) | N/A |
-| 35 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 36 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 37 | [Skröder](http://twitter.com/search?q=Skr%c3%b6der) | N/A |
-| 38 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 39 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
-| 40 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 41 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
-| 42 | [baudin](http://twitter.com/search?q=baudin) | N/A |
-| 43 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 44 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 45 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
-| 46 | [Alperna](http://twitter.com/search?q=Alperna) | N/A |
-| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 49 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 4 | [Christer Lindarw](http://twitter.com/search?q=Christer+Lindarw) | N/A |
+| 5 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 6 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 7 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
+| 8 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 9 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 10 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 11 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [Victor Crone](http://twitter.com/search?q=Victor+Crone) | N/A |
+| 14 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
+| 17 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
+| 18 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 19 | [Videll](http://twitter.com/search?q=Videll) | N/A |
+| 20 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
+| 21 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 22 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 23 | [Linn](http://twitter.com/search?q=Linn) | N/A |
+| 24 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
+| 25 | [Honka](http://twitter.com/search?q=Honka) | N/A |
+| 26 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 27 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 28 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 29 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 30 | [simon strand](http://twitter.com/search?q=simon+strand) | N/A |
+| 31 | [Henrik Larsson](http://twitter.com/search?q=Henrik+Larsson) | N/A |
+| 32 | [Timrå](http://twitter.com/search?q=Timr%c3%a5) | N/A |
+| 33 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 35 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
+| 36 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 37 | [Magiskt](http://twitter.com/search?q=Magiskt) | N/A |
+| 38 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 40 | [Skröder](http://twitter.com/search?q=Skr%c3%b6der) | N/A |
+| 41 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 42 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 43 | [baudin](http://twitter.com/search?q=baudin) | N/A |
+| 44 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 45 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 46 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 47 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
+| 48 | [alperna](http://twitter.com/search?q=alperna) | N/A |
+| 49 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 50 | [Katrineholm](http://twitter.com/search?q=Katrineholm) | N/A |
 
 

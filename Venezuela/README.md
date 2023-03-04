@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-04 20:16:50 UTC`
+📆 Last Updated: `2023-03-04 21:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Venezuela
 | 1 | [#4Mar](http://twitter.com/search?q=%234Mar) | N/A |
 | 2 | [#ChávezInfinito](http://twitter.com/search?q=%23Ch%c3%a1vezInfinito) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 5 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 6 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 7 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
-| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 5 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 6 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
+| 7 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 8 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
 | 9 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
-| 10 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 11 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 12 | [Arturo Peraza](http://twitter.com/search?q=Arturo+Peraza) | N/A |
-| 13 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 14 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 15 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 18 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 19 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 20 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
-| 21 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 22 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
-| 23 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
-| 24 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 25 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
-| 26 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 27 | [Día Mundial de la Ingeniería](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Ingenier%c3%ada) | N/A |
-| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 29 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 30 | [Manuel Rosales](http://twitter.com/search?q=Manuel+Rosales) | N/A |
-| 31 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 10 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 11 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 12 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
+| 15 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 16 | [#felizviernesatodos](http://twitter.com/search?q=%23felizviernesatodos) | N/A |
+| 17 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
+| 18 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 19 | [Día Mundial de la Ingeniería](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Ingenier%c3%ada) | N/A |
+| 20 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
+| 21 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 23 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 24 | [Arturo Peraza](http://twitter.com/search?q=Arturo+Peraza) | N/A |
+| 25 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 27 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 28 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 30 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 32 | [El Inspector Ardilla](http://twitter.com/search?q=El+Inspector+Ardilla) | N/A |
-| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 35 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
-| 36 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 33 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 36 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
 | 37 | [Evelio Hernández](http://twitter.com/search?q=Evelio+Hern%c3%a1ndez) | N/A |
 | 38 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
-| 39 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 39 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
 | 40 | [parque cristal](http://twitter.com/search?q=parque+cristal) | N/A |
-| 41 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 42 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
-| 43 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 44 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 45 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 46 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 47 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 48 | [Maiquetía](http://twitter.com/search?q=Maiquet%c3%ada) | N/A |
-| 49 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
-| 50 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
+| 41 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
+| 42 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 43 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 44 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 45 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 46 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 47 | [Gualberto Ibarreto](http://twitter.com/search?q=Gualberto+Ibarreto) | N/A |
+| 48 | [El Buen Pastor](http://twitter.com/search?q=El+Buen+Pastor) | N/A |
+| 49 | [Encuentro Mundial](http://twitter.com/search?q=Encuentro+Mundial) | N/A |
+| 50 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 
 
 

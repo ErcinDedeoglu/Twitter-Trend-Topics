@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-04 20:16:33 UTC`
+📆 Last Updated: `2023-03-04 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LightTheLand](http://twitter.com/search?q=%23LightTheLand) | N/A |
-| 2 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 5 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 6 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 7 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 8 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
-| 9 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 14 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
-| 15 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 16 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 17 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 18 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 19 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
-| 20 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
-| 21 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 22 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 23 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 24 | [Alice in Chains](http://twitter.com/search?q=Alice+in+Chains) | N/A |
-| 25 | [Mark Vientos](http://twitter.com/search?q=Mark+Vientos) | N/A |
-| 26 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 27 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 28 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 29 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
-| 30 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
-| 31 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 1 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 2 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 3 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 4 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 7 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 8 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 9 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 10 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 11 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 12 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 14 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 15 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
+| 16 | [Devo](http://twitter.com/search?q=Devo) | N/A |
+| 17 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 18 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 19 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
+| 20 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
+| 21 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 22 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 23 | [Lance Ware](http://twitter.com/search?q=Lance+Ware) | N/A |
+| 24 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 25 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
+| 26 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 27 | [Alice in Chains](http://twitter.com/search?q=Alice+in+Chains) | N/A |
+| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 29 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
+| 30 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 31 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
 | 32 | [Zay Flowers](http://twitter.com/search?q=Zay+Flowers) | N/A |
-| 33 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 34 | [Boutte](http://twitter.com/search?q=Boutte) | N/A |
-| 35 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
-| 36 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 37 | [Jordan Addison](http://twitter.com/search?q=Jordan+Addison) | N/A |
-| 38 | [Ricky Council](http://twitter.com/search?q=Ricky+Council) | N/A |
-| 39 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 40 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 41 | [Jalin Hyatt](http://twitter.com/search?q=Jalin+Hyatt) | N/A |
+| 33 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
+| 34 | [Musselman](http://twitter.com/search?q=Musselman) | N/A |
+| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 36 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 37 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 38 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 39 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
+| 40 | [Tyson Bagent](http://twitter.com/search?q=Tyson+Bagent) | N/A |
+| 41 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
 | 42 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 43 | [Southern Miss](http://twitter.com/search?q=Southern+Miss) | N/A |
-| 44 | [Nosek](http://twitter.com/search?q=Nosek) | N/A |
-| 45 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 46 | [Josh Downs](http://twitter.com/search?q=Josh+Downs) | N/A |
-| 47 | [Bryce Ford](http://twitter.com/search?q=Bryce+Ford) | N/A |
-| 48 | [Charlie Coyle](http://twitter.com/search?q=Charlie+Coyle) | N/A |
+| 43 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 44 | [Hyatt](http://twitter.com/search?q=Hyatt) | N/A |
+| 45 | [Mark Vientos](http://twitter.com/search?q=Mark+Vientos) | N/A |
+| 46 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 47 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
+| 48 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
 
 
 

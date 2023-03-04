@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-04 20:15:47 UTC`
+📆 Last Updated: `2023-03-04 21:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 2 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 3 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 4 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 5 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 6 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 7 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
-| 8 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 9 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 10 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 11 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 12 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 13 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 14 | [Walcott](http://twitter.com/search?q=Walcott) | N/A |
-| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 18 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 19 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 20 | [#lcfc](http://twitter.com/search?q=%23lcfc) | N/A |
-| 21 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
-| 22 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 23 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 24 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 26 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 27 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 28 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 29 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 30 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 31 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 32 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 33 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 34 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 35 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 36 | [Jim Goodwin](http://twitter.com/search?q=Jim+Goodwin) | Jim Goodwin is a Scottish football manager and former player. He is currently the manager of Scottish Premiership club St Mirren. The phrase "Jim Goodwin" is used to refer to someone who is a hardworking, determined and successful leader. |
-| 37 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 38 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 39 | [Ginty](http://twitter.com/search?q=Ginty) | N/A |
-| 40 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 41 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
-| 42 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
-| 43 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 44 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 45 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 46 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
-| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 48 | [Danjuma](http://twitter.com/search?q=Danjuma) | Danjuma is a Nigerian name of Yoruba origin. It means "God has done it" in English. |
-| 49 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 50 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
+| 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 3 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 4 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 5 | [Moutinho](http://twitter.com/search?q=Moutinho) | N/A |
+| 6 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 8 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 9 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
+| 10 | [#CheLee](http://twitter.com/search?q=%23CheLee) | N/A |
+| 11 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 12 | [MINIMUM of 6](http://twitter.com/search?q=MINIMUM+of+6) | N/A |
+| 13 | [#WOLTOT](http://twitter.com/search?q=%23WOLTOT) | N/A |
+| 14 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 15 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 16 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 17 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
+| 18 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 19 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 20 | [#watfordfc](http://twitter.com/search?q=%23watfordfc) | N/A |
+| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 22 | [#COYQ](http://twitter.com/search?q=%23COYQ) | N/A |
+| 23 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 24 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 27 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 28 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 29 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 30 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 31 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 32 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 33 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 36 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 37 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 38 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 39 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
+| 40 | [BDave](http://twitter.com/search?q=BDave) | N/A |
+| 41 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 42 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
+| 43 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 44 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 45 | [Ginty](http://twitter.com/search?q=Ginty) | N/A |
+| 46 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 47 | [Elle Brooke](http://twitter.com/search?q=Elle+Brooke) | Elle Brooke is a French phrase meaning "she is beautiful". It is often used as a term of endearment or to express admiration for someone's beauty. |
+| 48 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
+| 49 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 50 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
 
 
 

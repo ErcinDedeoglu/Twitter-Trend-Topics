@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-04 20:16:08 UTC`
+📆 Last Updated: `2023-03-04 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Latvia](</Latvia>)
 | 4 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
 | 5 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 | 6 | [Ļeņina](http://twitter.com/search?q=%c4%bbe%c5%86ina) | N/A |
-| 7 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
-| 8 | [Ziedoni](http://twitter.com/search?q=Ziedoni) | N/A |
-| 9 | [Sūnu](http://twitter.com/search?q=S%c5%abnu) | N/A |
-| 10 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 11 | [Runa](http://twitter.com/search?q=Runa) | N/A |
-| 12 | [Staļina](http://twitter.com/search?q=Sta%c4%bcina) | N/A |
-| 13 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 14 | [dieva](http://twitter.com/search?q=dieva) | N/A |
-| 15 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 16 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 7 | [Ziedoni](http://twitter.com/search?q=Ziedoni) | N/A |
+| 8 | [Sūnu](http://twitter.com/search?q=S%c5%abnu) | N/A |
+| 9 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 10 | [Runa](http://twitter.com/search?q=Runa) | N/A |
+| 11 | [Staļina](http://twitter.com/search?q=Sta%c4%bcina) | N/A |
+| 12 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 13 | [dieva](http://twitter.com/search?q=dieva) | N/A |
+| 14 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 15 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 16 | [Depo](http://twitter.com/search?q=Depo) | N/A |
 | 17 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 18 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
-| 19 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 20 | [Jelgavā](http://twitter.com/search?q=Jelgav%c4%81) | N/A |
-| 21 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 22 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 23 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 24 | [Progresīvie](http://twitter.com/search?q=Progres%c4%abvie) | N/A |
-| 25 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
-| 26 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 18 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 19 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
+| 20 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 21 | [Jelgavā](http://twitter.com/search?q=Jelgav%c4%81) | N/A |
+| 22 | [Starp](http://twitter.com/search?q=Starp) | N/A |
+| 23 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 24 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 25 | [Progresīvie](http://twitter.com/search?q=Progres%c4%abvie) | N/A |
+| 26 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
 | 27 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 28 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 29 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 30 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 31 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 32 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 33 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 34 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 35 | [VARu](http://twitter.com/search?q=VARu) | N/A |
-| 36 | [Pareizi](http://twitter.com/search?q=Pareizi) | N/A |
+| 28 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 29 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 30 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 31 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 32 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 33 | [VARu](http://twitter.com/search?q=VARu) | N/A |
+| 34 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
+| 35 | [Gandrīz](http://twitter.com/search?q=Gandr%c4%abz) | N/A |
+| 36 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
 | 37 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 38 | [Gandrīz](http://twitter.com/search?q=Gandr%c4%abz) | N/A |
-| 39 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 40 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
+| 38 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 39 | [Liepāju](http://twitter.com/search?q=Liep%c4%81ju) | N/A |
+| 40 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
 | 41 | [liāna](http://twitter.com/search?q=li%c4%81na) | N/A |
-| 42 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
-| 43 | [Liepāju](http://twitter.com/search?q=Liep%c4%81ju) | N/A |
+| 42 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
+| 43 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
 | 44 | [Cēsīs](http://twitter.com/search?q=C%c4%93s%c4%abs) | N/A |
 | 45 | [#hokejs](http://twitter.com/search?q=%23hokejs) | N/A |
-| 46 | [Biju](http://twitter.com/search?q=Biju) | N/A |
-| 47 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
-| 48 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
-| 49 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
-| 50 | [katram](http://twitter.com/search?q=katram) | N/A |
+| 46 | [biju](http://twitter.com/search?q=biju) | N/A |
+| 47 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
+| 48 | [katram](http://twitter.com/search?q=katram) | N/A |
+| 49 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 50 | [Problēma](http://twitter.com/search?q=Probl%c4%93ma) | N/A |
 
 
 
