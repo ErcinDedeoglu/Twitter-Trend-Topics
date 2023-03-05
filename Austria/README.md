@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-05 11:16:58 UTC`
+📆 Last Updated: `2023-03-05 12:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Austria
 | 2 | [#gakadm](http://twitter.com/search?q=%23gakadm) | N/A |
 | 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 6 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
-| 7 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 10 | [#htbwac](http://twitter.com/search?q=%23htbwac) | N/A |
-| 11 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
-| 12 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 13 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
-| 14 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 15 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 17 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
-| 18 | [Flug](http://twitter.com/search?q=Flug) | N/A |
-| 19 | [Flieger](http://twitter.com/search?q=Flieger) | N/A |
-| 20 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 21 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 22 | [Landeshauptmann](http://twitter.com/search?q=Landeshauptmann) | N/A |
-| 23 | [Peter Kaiser](http://twitter.com/search?q=Peter+Kaiser) | N/A |
-| 24 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 25 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 26 | [Neid](http://twitter.com/search?q=Neid) | N/A |
-| 27 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 28 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
-| 29 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
-| 30 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 31 | [Vorarlberg](http://twitter.com/search?q=Vorarlberg) | N/A |
-| 32 | [Kreisky](http://twitter.com/search?q=Kreisky) | N/A |
-| 33 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 5 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [#ltwktn](http://twitter.com/search?q=%23ltwktn) | N/A |
+| 9 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 10 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 11 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
+| 12 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
+| 13 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 14 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 15 | [Flug](http://twitter.com/search?q=Flug) | N/A |
+| 16 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 17 | [flieger](http://twitter.com/search?q=flieger) | N/A |
+| 18 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 19 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
+| 20 | [Peter Kaiser](http://twitter.com/search?q=Peter+Kaiser) | N/A |
+| 21 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 23 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 24 | [Neid](http://twitter.com/search?q=Neid) | N/A |
+| 25 | [Kreisky](http://twitter.com/search?q=Kreisky) | N/A |
+| 26 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 27 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
+| 28 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 29 | [Vorarlberg](http://twitter.com/search?q=Vorarlberg) | N/A |
+| 30 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 31 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
+| 32 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 33 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
 | 34 | [Bärlauch](http://twitter.com/search?q=B%c3%a4rlauch) | N/A |
-| 35 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 36 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 37 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 38 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 39 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 35 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 36 | [waldhäusl](http://twitter.com/search?q=waldh%c3%a4usl) | N/A |
+| 37 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 38 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 39 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
 | 40 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 41 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 42 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 43 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 44 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
-| 45 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 46 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
-| 47 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 48 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 49 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 50 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 41 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 42 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 43 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 44 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 45 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 46 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 47 | [Heuchelei](http://twitter.com/search?q=Heuchelei) | N/A |
+| 48 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
+| 49 | [laune](http://twitter.com/search?q=laune) | N/A |
+| 50 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
 
 
 

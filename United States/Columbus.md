@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-05 11:16:50 UTC`
+📆 Last Updated: `2023-03-05 12:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 2 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 6 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 7 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 8 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 9 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 10 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 11 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 12 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 15 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 16 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 17 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 18 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 19 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 20 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 21 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 22 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 23 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 24 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 9 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 10 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 11 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 12 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 13 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 14 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 15 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 16 | [VIVA MEXICO](http://twitter.com/search?q=VIVA+MEXICO) | N/A |
+| 17 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 18 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 19 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 20 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 21 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 22 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 23 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
 | 25 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 26 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 27 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 29 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 26 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 27 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 28 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 29 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
 | 30 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 31 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 32 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 33 | [Greatest Of All Time](http://twitter.com/search?q=Greatest+Of+All+Time) | N/A |
-| 34 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 35 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 36 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 37 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
-| 38 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 39 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 40 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
-| 41 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 42 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
-| 43 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 44 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 45 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 46 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 47 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 48 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
-| 49 | [Conor](http://twitter.com/search?q=Conor) | N/A |
-| 50 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 31 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 32 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 33 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 34 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 35 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 36 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 37 | [James Harden](http://twitter.com/search?q=James+Harden) | James Harden is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). He is known for his ability to score points and create plays for his teammates. He has won multiple awards, including the NBA Most Valuable Player Award in 2018. |
+| 38 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 39 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 40 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 41 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 42 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 43 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 44 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 45 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 46 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 47 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 48 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 49 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 50 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
 
 
 

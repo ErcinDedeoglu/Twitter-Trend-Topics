@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-05 11:17:05 UTC`
+📆 Last Updated: `2023-03-05 12:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Singapore
 | 1 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 5 | [neyo](http://twitter.com/search?q=neyo) | N/A |
+| 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 14 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 15 | [anirudh](http://twitter.com/search?q=anirudh) | N/A |
+| 7 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
+| 10 | [Neyo](http://twitter.com/search?q=Neyo) | N/A |
+| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 13 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 14 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 15 | [Anirudh](http://twitter.com/search?q=Anirudh) | N/A |
 | 16 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
 | 17 | [Wish Me Luck](http://twitter.com/search?q=Wish+Me+Luck) | N/A |
 | 18 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
 | 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 20 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 21 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 24 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 25 | [TOP 3 HIGHLIGHTS](http://twitter.com/search?q=TOP+3+HIGHLIGHTS) | N/A |
-| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 27 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 28 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 26 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
 | 29 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 30 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 31 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 32 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 33 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 34 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 35 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 36 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 30 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 31 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 32 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 33 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 34 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 35 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 36 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 37 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 38 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 39 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 40 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 42 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 43 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 44 | [German](http://twitter.com/search?q=German) | N/A |
-| 45 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
-| 46 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 47 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 48 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 49 | [Gosh](http://twitter.com/search?q=Gosh) | N/A |
-| 50 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 38 | [dawon](http://twitter.com/search?q=dawon) | N/A |
+| 39 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 40 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 42 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
+| 43 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 44 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 45 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 48 | [German](http://twitter.com/search?q=German) | N/A |
+| 49 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 50 | [Armin](http://twitter.com/search?q=Armin) | N/A |
 
 
 

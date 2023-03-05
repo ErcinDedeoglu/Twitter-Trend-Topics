@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-05 11:16:19 UTC`
+📆 Last Updated: `2023-03-05 12:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 2 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 3 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 5 | [#Fetedesgrandsmeres](http://twitter.com/search?q=%23Fetedesgrandsmeres) | N/A |
-| 6 | [#Le7MarsJeBosse](http://twitter.com/search?q=%23Le7MarsJeBosse) | N/A |
-| 7 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 8 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 1 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 2 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 3 | [#Le7MarsJeBosse](http://twitter.com/search?q=%23Le7MarsJeBosse) | N/A |
+| 4 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 5 | [#ESTACASM](http://twitter.com/search?q=%23ESTACASM) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 8 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
 | 9 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 10 | [#Le7marsJeTravaille](http://twitter.com/search?q=%23Le7marsJeTravaille) | N/A |
+| 10 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
 | 11 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 12 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 13 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
-| 14 | [Chewbacca](http://twitter.com/search?q=Chewbacca) | N/A |
-| 15 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 16 | [OSS 117](http://twitter.com/search?q=OSS+117) | N/A |
-| 17 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 18 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 19 | [Daghestan](http://twitter.com/search?q=Daghestan) | N/A |
-| 20 | [2min](http://twitter.com/search?q=2min) | N/A |
-| 21 | [TOUT ÇA POUR ÇA](http://twitter.com/search?q=TOUT+%c3%87A+POUR+%c3%87A) | N/A |
-| 22 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 23 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 24 | [30sec](http://twitter.com/search?q=30sec) | N/A |
-| 25 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 26 | [Abou](http://twitter.com/search?q=Abou) | N/A |
+| 12 | [chewbacca](http://twitter.com/search?q=chewbacca) | N/A |
+| 13 | [Pourchaire](http://twitter.com/search?q=Pourchaire) | N/A |
+| 14 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
+| 15 | [kaaris](http://twitter.com/search?q=kaaris) | N/A |
+| 16 | [2min](http://twitter.com/search?q=2min) | N/A |
+| 17 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 18 | [OSS 117](http://twitter.com/search?q=OSS+117) | N/A |
+| 19 | [Abou](http://twitter.com/search?q=Abou) | N/A |
+| 20 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 21 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
+| 22 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 23 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 24 | [Daghestan](http://twitter.com/search?q=Daghestan) | N/A |
+| 25 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 26 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
 | 27 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 28 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 29 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
-| 30 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
-| 31 | [Attal](http://twitter.com/search?q=Attal) | N/A |
-| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 33 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 34 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 35 | [Booba](http://twitter.com/search?q=Booba) | N/A |
-| 36 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
-| 37 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 38 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 39 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
-| 40 | [Clim](http://twitter.com/search?q=Clim) | N/A |
-| 41 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
-| 42 | [#EspagneDansUnTitre](http://twitter.com/search?q=%23EspagneDansUnTitre) | N/A |
-| 43 | [#GreveGeneraleIllimitee](http://twitter.com/search?q=%23GreveGeneraleIllimitee) | N/A |
-| 44 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
+| 28 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
+| 29 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 30 | [30sec](http://twitter.com/search?q=30sec) | N/A |
+| 31 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 32 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 33 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 34 | [Bandal](http://twitter.com/search?q=Bandal) | N/A |
+| 35 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
+| 36 | [Attal](http://twitter.com/search?q=Attal) | N/A |
+| 37 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 38 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 39 | [Clim](http://twitter.com/search?q=Clim) | N/A |
+| 40 | [#Fetedesgrandsmeres](http://twitter.com/search?q=%23Fetedesgrandsmeres) | N/A |
+| 41 | [#LeGrandJury](http://twitter.com/search?q=%23LeGrandJury) | N/A |
+| 42 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
+| 43 | [#GreveGenerale](http://twitter.com/search?q=%23GreveGenerale) | N/A |
+| 44 | [#EspagneDansUnTitre](http://twitter.com/search?q=%23EspagneDansUnTitre) | N/A |
 | 45 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
 | 46 | [#MacronLaHonte](http://twitter.com/search?q=%23MacronLaHonte) | N/A |
-| 47 | [#GreveReconductible](http://twitter.com/search?q=%23GreveReconductible) | N/A |
-| 48 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 49 | [#7marslaFRANCEalarret](http://twitter.com/search?q=%237marslaFRANCEalarret) | N/A |
-| 50 | [#Senat](http://twitter.com/search?q=%23Senat) | N/A |
+| 47 | [#Senat](http://twitter.com/search?q=%23Senat) | N/A |
+| 48 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 49 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 50 | [#poupette](http://twitter.com/search?q=%23poupette) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-05 11:16:12 UTC`
+📆 Last Updated: `2023-03-05 12:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
-| 5 | [#AtlasDeChileTVN](http://twitter.com/search?q=%23AtlasDeChileTVN) | N/A |
-| 6 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 7 | [Munar](http://twitter.com/search?q=Munar) | N/A |
-| 8 | [vejar](http://twitter.com/search?q=vejar) | N/A |
-| 9 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 2 | [#starplusla](http://twitter.com/search?q=%23starplusla) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
+| 6 | [Munar](http://twitter.com/search?q=Munar) | N/A |
+| 7 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 8 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 9 | [vejar](http://twitter.com/search?q=vejar) | N/A |
 | 10 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
 | 11 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
 | 12 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
 | 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 14 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 15 | [Mac iver](http://twitter.com/search?q=Mac+iver) | N/A |
-| 16 | [nico jarry](http://twitter.com/search?q=nico+jarry) | N/A |
+| 16 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
 | 17 | [juan fuentes](http://twitter.com/search?q=juan+fuentes) | N/A |
-| 18 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 18 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 19 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
 | 20 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
 | 21 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
-| 22 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 23 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 24 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 25 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 26 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 27 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 28 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 29 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 22 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
+| 23 | [tobar](http://twitter.com/search?q=tobar) | N/A |
+| 24 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 25 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 26 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
+| 27 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 28 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 29 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 30 | [on board](http://twitter.com/search?q=on+board) | N/A |
-| 31 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 32 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
-| 33 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
-| 34 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
-| 35 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 36 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
-| 37 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
-| 38 | [rebolledo](http://twitter.com/search?q=rebolledo) | N/A |
-| 39 | [el teniente](http://twitter.com/search?q=el+teniente) | N/A |
-| 40 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 41 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
-| 42 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 43 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
-| 44 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 45 | [vamos nico](http://twitter.com/search?q=vamos+nico) | N/A |
-| 46 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 47 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 48 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 49 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 31 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 32 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 33 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
+| 34 | [rebolledo](http://twitter.com/search?q=rebolledo) | N/A |
+| 35 | [barbe](http://twitter.com/search?q=barbe) | N/A |
+| 36 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 37 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 38 | [6-Choclo](http://twitter.com/search?q=6-Choclo) | N/A |
+| 39 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 40 | [10-aceitunas](http://twitter.com/search?q=10-aceitunas) | N/A |
+| 41 | [vamos nico](http://twitter.com/search?q=vamos+nico) | N/A |
+| 42 | [el teniente](http://twitter.com/search?q=el+teniente) | N/A |
+| 43 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
+| 44 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 45 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 46 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 47 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
+| 48 | [kagelmacher](http://twitter.com/search?q=kagelmacher) | N/A |
+| 49 | [Ossa](http://twitter.com/search?q=Ossa) | N/A |
 
 
 

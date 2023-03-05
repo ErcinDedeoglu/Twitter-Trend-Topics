@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-05 11:16:03 UTC`
+📆 Last Updated: `2023-03-05 12:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 3 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 4 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 5 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 5 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
 | 6 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
 | 7 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
 | 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 10 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 13 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 14 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 15 | [russell brand](http://twitter.com/search?q=russell+brand) | N/A |
-| 16 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 17 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 18 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 19 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 20 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 9 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 10 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 11 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 12 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 14 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 15 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 16 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 17 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 18 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 19 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 20 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
 | 21 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 22 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 23 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 22 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 23 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 24 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 25 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 25 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 26 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 27 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 28 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 29 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 30 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 31 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 32 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 33 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
-| 34 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
-| 35 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
-| 36 | [Caryma](http://twitter.com/search?q=Caryma) | N/A |
-| 37 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 38 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 39 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 40 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 41 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 42 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
-| 43 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 44 | [sean johnson](http://twitter.com/search?q=sean+johnson) | N/A |
-| 45 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 46 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 27 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 28 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 29 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
+| 30 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
+| 31 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 32 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 33 | [MEVs](http://twitter.com/search?q=MEVs) | N/A |
+| 34 | [matthews](http://twitter.com/search?q=matthews) | N/A |
+| 35 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
+| 36 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 37 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 38 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 39 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 40 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 41 | [Sean Johnson](http://twitter.com/search?q=Sean+Johnson) | N/A |
+| 42 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 43 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 44 | [caryma](http://twitter.com/search?q=caryma) | N/A |
+| 45 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 46 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
 | 47 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 48 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 49 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 48 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 49 | [Bob Rae](http://twitter.com/search?q=Bob+Rae) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-05 11:16:15 UTC`
+📆 Last Updated: `2023-03-05 12:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [#goloud](http://twitter.com/search?q=%23goloud) | N/A |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 3 | [#goloud](http://twitter.com/search?q=%23goloud) | N/A |
 | 4 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 5 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 5 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 6 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
 | 7 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 8 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 9 | [11x3](http://twitter.com/search?q=11x3) | N/A |
 | 10 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
-| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 11 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
 | 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 13 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 14 | [ASPAS](http://twitter.com/search?q=ASPAS) | N/A |
-| 15 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 16 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 17 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 18 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 19 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 20 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
-| 21 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 22 | [Gabriel Bortoleto](http://twitter.com/search?q=Gabriel+Bortoleto) | N/A |
-| 23 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 24 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 25 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 26 | [rUbel](http://twitter.com/search?q=rUbel) | N/A |
-| 27 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 14 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 15 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
+| 16 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 17 | [ASPAS](http://twitter.com/search?q=ASPAS) | N/A |
+| 18 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 19 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 20 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 21 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 22 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 23 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
+| 24 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 25 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 26 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 27 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 28 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
 | 29 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 30 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 31 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 32 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 33 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 34 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 35 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [MATHEUS ARAÚJO](http://twitter.com/search?q=MATHEUS+ARA%c3%9aJO) | N/A |
-| 38 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 39 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
+| 30 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 31 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 32 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 33 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 34 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 35 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 36 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 37 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 38 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 40 | [GANSO](http://twitter.com/search?q=GANSO) | N/A |
-| 41 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 42 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 43 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 44 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 45 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 46 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 47 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 49 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 41 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 42 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 43 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
+| 44 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 45 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 46 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
+| 47 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 48 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 49 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 
 
 

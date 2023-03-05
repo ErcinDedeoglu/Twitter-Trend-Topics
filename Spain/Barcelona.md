@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-05 11:16:23 UTC`
+📆 Last Updated: `2023-03-05 12:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 5 | [#Solos5M](http://twitter.com/search?q=%23Solos5M) | N/A |
+| 1 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 3 | [#Solos5M](http://twitter.com/search?q=%23Solos5M) | N/A |
+| 4 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
+| 5 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
 | 6 | [Sostres](http://twitter.com/search?q=Sostres) | N/A |
-| 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 8 | [#CCubicos315](http://twitter.com/search?q=%23CCubicos315) | N/A |
-| 9 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 10 | [#APOYOROCIO5M](http://twitter.com/search?q=%23APOYOROCIO5M) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 13 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 14 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
-| 15 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 17 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 18 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 19 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 20 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 21 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 22 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 23 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 24 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 25 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 28 | [Mt 17](http://twitter.com/search?q=Mt+17) | N/A |
-| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 31 | [II Domingo de Cuaresma](http://twitter.com/search?q=II+Domingo+de+Cuaresma) | N/A |
-| 32 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 33 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
-| 34 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 36 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 37 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 38 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 39 | [gueye](http://twitter.com/search?q=gueye) | N/A |
-| 40 | [Don Pelayo](http://twitter.com/search?q=Don+Pelayo) | N/A |
-| 41 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 42 | [Paridad](http://twitter.com/search?q=Paridad) | N/A |
-| 43 | [lemar](http://twitter.com/search?q=lemar) | N/A |
-| 44 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 45 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 46 | [Ussía](http://twitter.com/search?q=Uss%c3%ada) | N/A |
-| 47 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 49 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 50 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 7 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 8 | [#APOYOROCIO5M](http://twitter.com/search?q=%23APOYOROCIO5M) | N/A |
+| 9 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 10 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 11 | [#SobriedadEnergeticaRadio3](http://twitter.com/search?q=%23SobriedadEnergeticaRadio3) | N/A |
+| 12 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 13 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 14 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 15 | [Pina](http://twitter.com/search?q=Pina) | N/A |
+| 16 | [Asenjo](http://twitter.com/search?q=Asenjo) | N/A |
+| 17 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 18 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
+| 19 | [Paco González](http://twitter.com/search?q=Paco+Gonz%c3%a1lez) | N/A |
+| 20 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 21 | [Posición Pérez](http://twitter.com/search?q=Posici%c3%b3n+P%c3%a9rez) | N/A |
+| 22 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
+| 23 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
+| 24 | [II Domingo de Cuaresma](http://twitter.com/search?q=II+Domingo+de+Cuaresma) | N/A |
+| 25 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
+| 26 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 27 | [Mt 17](http://twitter.com/search?q=Mt+17) | N/A |
+| 28 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 29 | [Kratos](http://twitter.com/search?q=Kratos) | N/A |
+| 30 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 31 | [Johan](http://twitter.com/search?q=Johan) | N/A |
+| 32 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 33 | [El 5](http://twitter.com/search?q=El+5) | N/A |
+| 34 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 35 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 36 | [Isa Serra](http://twitter.com/search?q=Isa+Serra) | N/A |
+| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 38 | [Caparrós](http://twitter.com/search?q=Caparr%c3%b3s) | N/A |
+| 39 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 40 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
+| 41 | [Ussía](http://twitter.com/search?q=Uss%c3%ada) | N/A |
+| 42 | [Baños](http://twitter.com/search?q=Ba%c3%b1os) | N/A |
+| 43 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 44 | [Domingo 5](http://twitter.com/search?q=Domingo+5) | N/A |
+| 45 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 46 | [#CCubicos315](http://twitter.com/search?q=%23CCubicos315) | N/A |
+| 47 | [#SalvarLasNucleares](http://twitter.com/search?q=%23SalvarLasNucleares) | N/A |
+| 48 | [#YoMeRebelo5M](http://twitter.com/search?q=%23YoMeRebelo5M) | N/A |
+| 49 | [#Cincomarzada](http://twitter.com/search?q=%23Cincomarzada) | N/A |
+| 50 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 
 
 

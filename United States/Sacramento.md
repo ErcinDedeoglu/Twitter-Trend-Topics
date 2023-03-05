@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-05 11:16:55 UTC`
+📆 Last Updated: `2023-03-05 12:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 2 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 3 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 4 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 8 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 9 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 10 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 11 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 12 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 13 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 14 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 15 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 16 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 17 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 18 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 19 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 20 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 21 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 22 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 23 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 9 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 11 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 12 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 13 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 14 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 16 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 17 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 18 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 19 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 20 | [VIVA MEXICO](http://twitter.com/search?q=VIVA+MEXICO) | N/A |
+| 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 22 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 23 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
 | 24 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 26 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 27 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 28 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 29 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 30 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 32 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 33 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 34 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 35 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 36 | [Greatest Of All Time](http://twitter.com/search?q=Greatest+Of+All+Time) | N/A |
-| 37 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 38 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 39 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 40 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
-| 41 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 42 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 43 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
-| 44 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 45 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 46 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 47 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 48 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 49 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 50 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 25 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 26 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 27 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 28 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 29 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 30 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 31 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
+| 32 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 33 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 34 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 35 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 36 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 37 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 38 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 39 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 40 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 41 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 42 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 43 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 44 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 45 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 46 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 47 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 48 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 49 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 50 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 
 
 
