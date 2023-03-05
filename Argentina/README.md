@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-05 14:16:46 UTC`
+📆 Last Updated: `2023-03-05 15:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Argentina
 | ------- | ------------ | ------------ |
 | 1 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 2 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 3 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 3 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 4 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [laucha acosta](http://twitter.com/search?q=laucha+acosta) | N/A |
-| 7 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
-| 8 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 9 | [#BienDeDomingo](http://twitter.com/search?q=%23BienDeDomingo) | N/A |
-| 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 11 | [#Vendimia2023](http://twitter.com/search?q=%23Vendimia2023) | N/A |
-| 12 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [#QuieroLaDeBoca](http://twitter.com/search?q=%23QuieroLaDeBoca) | N/A |
-| 15 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 6 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 7 | [laucha acosta](http://twitter.com/search?q=laucha+acosta) | N/A |
+| 8 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 9 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 10 | [#BienDeDomingo](http://twitter.com/search?q=%23BienDeDomingo) | N/A |
+| 11 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
+| 12 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 13 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 14 | [#Vendimia2023](http://twitter.com/search?q=%23Vendimia2023) | N/A |
+| 15 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
 | 16 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 17 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 18 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
-| 19 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
-| 20 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 21 | [Pirez](http://twitter.com/search?q=Pirez) | N/A |
-| 22 | [Canale](http://twitter.com/search?q=Canale) | N/A |
-| 23 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 24 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 25 | [LUCILA AL 9009](http://twitter.com/search?q=LUCILA+AL+9009) | N/A |
-| 26 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 27 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 28 | [Gracias Osvaldo](http://twitter.com/search?q=Gracias+Osvaldo) | N/A |
-| 29 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
-| 30 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 31 | [Senesi](http://twitter.com/search?q=Senesi) | N/A |
-| 32 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
-| 33 | [Diario El Sol Mendoza](http://twitter.com/search?q=Diario+El+Sol+Mendoza) | N/A |
-| 34 | [Lema](http://twitter.com/search?q=Lema) | N/A |
-| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 36 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 38 | [Abajo](http://twitter.com/search?q=Abajo) | N/A |
-| 39 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 40 | [melano](http://twitter.com/search?q=melano) | N/A |
-| 41 | [paulo diaz](http://twitter.com/search?q=paulo+diaz) | N/A |
-| 42 | [buen sábado](http://twitter.com/search?q=buen+s%c3%a1bado) | N/A |
-| 43 | [no tienen luz](http://twitter.com/search?q=no+tienen+luz) | N/A |
-| 44 | [Miele](http://twitter.com/search?q=Miele) | N/A |
-| 45 | [Rancia](http://twitter.com/search?q=Rancia) | N/A |
-| 46 | [no tienen gas](http://twitter.com/search?q=no+tienen+gas) | N/A |
-| 47 | [Burrito](http://twitter.com/search?q=Burrito) | N/A |
-| 48 | [Echarri](http://twitter.com/search?q=Echarri) | N/A |
-| 49 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 50 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 17 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 20 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 21 | [Reasco](http://twitter.com/search?q=Reasco) | N/A |
+| 22 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 23 | [Canale](http://twitter.com/search?q=Canale) | N/A |
+| 24 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 25 | [Pirez](http://twitter.com/search?q=Pirez) | N/A |
+| 26 | [Empalme Graneros](http://twitter.com/search?q=Empalme+Graneros) | N/A |
+| 27 | [LUCILA AL 9009](http://twitter.com/search?q=LUCILA+AL+9009) | N/A |
+| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 29 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 30 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 31 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 32 | [Gracias Osvaldo](http://twitter.com/search?q=Gracias+Osvaldo) | N/A |
+| 33 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
+| 34 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 35 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
+| 36 | [Alberto Olmedo](http://twitter.com/search?q=Alberto+Olmedo) | N/A |
+| 37 | [Lema](http://twitter.com/search?q=Lema) | N/A |
+| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 39 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 40 | [Diario El Sol Mendoza](http://twitter.com/search?q=Diario+El+Sol+Mendoza) | N/A |
+| 41 | [Senesi](http://twitter.com/search?q=Senesi) | N/A |
+| 42 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 44 | [melano](http://twitter.com/search?q=melano) | N/A |
+| 45 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 46 | [Miele](http://twitter.com/search?q=Miele) | N/A |
+| 47 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 48 | [Abajo](http://twitter.com/search?q=Abajo) | N/A |
+| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 50 | [no tienen luz](http://twitter.com/search?q=no+tienen+luz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-05 14:16:51 UTC`
+📆 Last Updated: `2023-03-05 15:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Pakistan
 | 1 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
 | 2 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
 | 3 | [#ZamanPark](http://twitter.com/search?q=%23ZamanPark) | N/A |
-| 4 | [#cowardIK](http://twitter.com/search?q=%23cowardIK) | N/A |
-| 5 | [#ٹرک_دو_ضمانت_لو](http://twitter.com/search?q=%23%d9%b9%d8%b1%da%a9_%d8%af%d9%88_%d8%b6%d9%85%d8%a7%d9%86%d8%aa_%d9%84%d9%88) | N/A |
-| 6 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 7 | [London](http://twitter.com/search?q=London) | N/A |
-| 8 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 9 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 10 | [Hamza Shahbaz](http://twitter.com/search?q=Hamza+Shahbaz) | N/A |
-| 11 | [5th UN Conference](http://twitter.com/search?q=5th+UN+Conference) | N/A |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 14 | [Hamad Al Thani](http://twitter.com/search?q=Hamad+Al+Thani) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
-| 17 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 18 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 19 | [Not Available](http://twitter.com/search?q=Not+Available) | N/A |
-| 20 | [Mrs. Alvi](http://twitter.com/search?q=Mrs.+Alvi) | N/A |
-| 21 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 22 | [LAHORE QALANDARS](http://twitter.com/search?q=LAHORE+QALANDARS) | N/A |
-| 23 | [khairpur sukkur](http://twitter.com/search?q=khairpur+sukkur) | N/A |
-| 24 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 25 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 26 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
-| 27 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 28 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 29 | [hammad azhar](http://twitter.com/search?q=hammad+azhar) | N/A |
-| 30 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 31 | [Jawad Ahmed](http://twitter.com/search?q=Jawad+Ahmed) | N/A |
-| 32 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
-| 33 | [Sam billings](http://twitter.com/search?q=Sam+billings) | N/A |
-| 34 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 35 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 36 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 37 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
-| 38 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 39 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 40 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
-| 41 | [Evening](http://twitter.com/search?q=Evening) | N/A |
-| 42 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 43 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 44 | [Aray](http://twitter.com/search?q=Aray) | N/A |
-| 45 | [thnk](http://twitter.com/search?q=thnk) | N/A |
-| 46 | [PM of Pakistan](http://twitter.com/search?q=PM+of+Pakistan) | N/A |
-| 47 | [People of Pakistan](http://twitter.com/search?q=People+of+Pakistan) | N/A |
-| 48 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 49 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 50 | [Pakistanis](http://twitter.com/search?q=Pakistanis) | N/A |
+| 4 | [#SWSF](http://twitter.com/search?q=%23SWSF) | N/A |
+| 5 | [#IUvQG](http://twitter.com/search?q=%23IUvQG) | N/A |
+| 6 | [Sindh Government](http://twitter.com/search?q=Sindh+Government) | N/A |
+| 7 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 8 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 9 | [PKR 5,000](http://twitter.com/search?q=PKR+5%2c000) | N/A |
+| 10 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 11 | [London](http://twitter.com/search?q=London) | N/A |
+| 12 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 13 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 14 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 15 | [5th UN Conference](http://twitter.com/search?q=5th+UN+Conference) | N/A |
+| 16 | [Hamza Shahbaz](http://twitter.com/search?q=Hamza+Shahbaz) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 19 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 20 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 22 | [Lt Gen](http://twitter.com/search?q=Lt+Gen) | N/A |
+| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 24 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 25 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 26 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
+| 27 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 28 | [Mrs. Alvi](http://twitter.com/search?q=Mrs.+Alvi) | N/A |
+| 29 | [Hamad Al Thani](http://twitter.com/search?q=Hamad+Al+Thani) | N/A |
+| 30 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 31 | [khairpur sukkur](http://twitter.com/search?q=khairpur+sukkur) | N/A |
+| 32 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 33 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 34 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
+| 35 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 36 | [prime minister shahbaz sharif](http://twitter.com/search?q=prime+minister+shahbaz+sharif) | N/A |
+| 37 | [Hammad Azhar](http://twitter.com/search?q=Hammad+Azhar) | N/A |
+| 38 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
+| 39 | [Not Available](http://twitter.com/search?q=Not+Available) | N/A |
+| 40 | [Sam billings](http://twitter.com/search?q=Sam+billings) | N/A |
+| 41 | [Jawad Ahmed](http://twitter.com/search?q=Jawad+Ahmed) | N/A |
+| 42 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
+| 43 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 44 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 45 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
+| 46 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Avenfield](http://twitter.com/search?q=Avenfield) | N/A |
+| 49 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

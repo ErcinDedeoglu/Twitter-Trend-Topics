@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-05 14:16:08 UTC`
+📆 Last Updated: `2023-03-05 15:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 2 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
-| 3 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 4 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 5 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
-| 6 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 7 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
-| 8 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
-| 9 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
-| 10 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 11 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 12 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
-| 13 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 14 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 15 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 16 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 17 | [José Rainha](http://twitter.com/search?q=Jos%c3%a9+Rainha) | N/A |
-| 18 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 19 | [RIVAIS SIM](http://twitter.com/search?q=RIVAIS+SIM) | N/A |
-| 20 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 21 | [INIMIGOS TAMBÉM](http://twitter.com/search?q=INIMIGOS+TAMB%c3%89M) | N/A |
-| 22 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 23 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
-| 24 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 25 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 26 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 27 | [MC Carol](http://twitter.com/search?q=MC+Carol) | N/A |
-| 28 | [BaVi](http://twitter.com/search?q=BaVi) | N/A |
-| 29 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 30 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 31 | [BOM DIAAAA](http://twitter.com/search?q=BOM+DIAAAA) | N/A |
-| 32 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 33 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
-| 34 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 35 | [Dark Souls 2](http://twitter.com/search?q=Dark+Souls+2) | N/A |
-| 36 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 37 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
-| 38 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 39 | [Clássico](http://twitter.com/search?q=Cl%c3%a1ssico) | N/A |
-| 40 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 41 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 42 | [Klara](http://twitter.com/search?q=Klara) | N/A |
-| 43 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
-| 44 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 45 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
-| 46 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 47 | [INCRA](http://twitter.com/search?q=INCRA) | N/A |
-| 48 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 49 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 50 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 1 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 2 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 3 | [#SkateNoVE](http://twitter.com/search?q=%23SkateNoVE) | N/A |
+| 4 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
+| 5 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
+| 6 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
+| 7 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Fearless TV](http://twitter.com/search?q=Fearless+TV) | N/A |
+| 10 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
+| 11 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
+| 12 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 13 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 14 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 15 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
+| 16 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 17 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 20 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 23 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
+| 24 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
+| 27 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 28 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 29 | [Iporá](http://twitter.com/search?q=Ipor%c3%a1) | N/A |
+| 30 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 31 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 32 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 33 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 35 | [José Rainha](http://twitter.com/search?q=Jos%c3%a9+Rainha) | N/A |
+| 36 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 37 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 38 | [Esporte Espetacular](http://twitter.com/search?q=Esporte+Espetacular) | N/A |
+| 39 | [Maiara Carla](http://twitter.com/search?q=Maiara+Carla) | N/A |
+| 40 | [O Stroll](http://twitter.com/search?q=O+Stroll) | N/A |
+| 41 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 42 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 43 | [RIVAIS SIM](http://twitter.com/search?q=RIVAIS+SIM) | N/A |
+| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 45 | [HOJE É DIA DE GUERRA](http://twitter.com/search?q=HOJE+%c3%89+DIA+DE+GUERRA) | N/A |
+| 46 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 47 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
+| 48 | [INIMIGOS TAMBÉM](http://twitter.com/search?q=INIMIGOS+TAMB%c3%89M) | N/A |
+| 49 | [Nilmar](http://twitter.com/search?q=Nilmar) | Nilmar is a Portuguese name derived from the Latin words "nihil" and "mar" which mean "nothing" and "sea," respectively. The name is often given to boys and can be translated to mean "nothing of the sea." |
+| 50 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
 
 
 

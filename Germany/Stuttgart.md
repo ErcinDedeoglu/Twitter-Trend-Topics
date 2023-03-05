@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-05 14:16:14 UTC`
+📆 Last Updated: `2023-03-05 15:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
-| 2 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
-| 3 | [#FCHKSC](http://twitter.com/search?q=%23FCHKSC) | N/A |
-| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 5 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 6 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 7 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 8 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 9 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 10 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 11 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 12 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 13 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 14 | [Fantasie- und Verbotswelt](http://twitter.com/search?q=Fantasie-+und+Verbotswelt) | N/A |
-| 15 | [Fratze](http://twitter.com/search?q=Fratze) | N/A |
-| 16 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 18 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 19 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 20 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 21 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 22 | [Fenster auf Kipp](http://twitter.com/search?q=Fenster+auf+Kipp) | N/A |
-| 23 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 24 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 25 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 26 | [Abschaum](http://twitter.com/search?q=Abschaum) | N/A |
-| 27 | [Vergleiche](http://twitter.com/search?q=Vergleiche) | N/A |
-| 28 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 29 | [Rhein](http://twitter.com/search?q=Rhein) | N/A |
-| 30 | [Proteste](http://twitter.com/search?q=Proteste) | N/A |
-| 31 | [Grundordnung](http://twitter.com/search?q=Grundordnung) | N/A |
-| 32 | [Lebensgrundlagen](http://twitter.com/search?q=Lebensgrundlagen) | N/A |
-| 33 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 34 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 35 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
-| 36 | [#Bramsche](http://twitter.com/search?q=%23Bramsche) | N/A |
-| 37 | [#OBWahlFfm](http://twitter.com/search?q=%23OBWahlFfm) | N/A |
-| 38 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
-| 39 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
-| 40 | [#Soeder](http://twitter.com/search?q=%23Soeder) | N/A |
-| 41 | [#lastgeneration](http://twitter.com/search?q=%23lastgeneration) | N/A |
-| 42 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 43 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
-| 44 | [#Klimakatastrophe](http://twitter.com/search?q=%23Klimakatastrophe) | N/A |
-| 45 | [#GrueneDoppelmoral](http://twitter.com/search?q=%23GrueneDoppelmoral) | N/A |
+| 1 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 2 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 3 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 4 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
+| 5 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
+| 6 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 8 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 9 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
+| 10 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
+| 11 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 12 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 13 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 14 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 15 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 17 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 18 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 19 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 20 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 21 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 22 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 23 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 24 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 25 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 26 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 27 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 28 | [Scherning](http://twitter.com/search?q=Scherning) | N/A |
+| 29 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
+| 30 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 31 | [Sonntagnachmittag](http://twitter.com/search?q=Sonntagnachmittag) | N/A |
+| 32 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 33 | [Heizkosten und Strompreise](http://twitter.com/search?q=Heizkosten+und+Strompreise) | N/A |
+| 34 | [Künstlers](http://twitter.com/search?q=K%c3%bcnstlers) | N/A |
+| 35 | [Fantasie- und Verbotswelt](http://twitter.com/search?q=Fantasie-+und+Verbotswelt) | N/A |
+| 36 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
+| 37 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 38 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 39 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 40 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 41 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
+| 42 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
+| 43 | [Lebensgrundlagen](http://twitter.com/search?q=Lebensgrundlagen) | N/A |
+| 44 | [Gartenstuhl](http://twitter.com/search?q=Gartenstuhl) | N/A |
+| 45 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 46 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 47 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 48 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 49 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 50 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 
 
 

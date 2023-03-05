@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-05 14:16:48 UTC`
+📆 Last Updated: `2023-03-05 15:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 2 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 3 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
-| 4 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
-| 5 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 3 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 4 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
+| 5 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
 | 6 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 8 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 9 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
-| 10 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 11 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 12 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 13 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 14 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 15 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 16 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 9 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 12 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 13 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 14 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 15 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 16 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 17 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 18 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 18 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
 | 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 20 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 21 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 22 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 23 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 24 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 25 | [will church](http://twitter.com/search?q=will+church) | N/A |
-| 26 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 27 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
-| 28 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 29 | [Künstlers](http://twitter.com/search?q=K%c3%bcnstlers) | N/A |
-| 30 | [Heizkosten und Strompreise](http://twitter.com/search?q=Heizkosten+und+Strompreise) | N/A |
+| 20 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 21 | [Frimpong](http://twitter.com/search?q=Frimpong) | N/A |
+| 22 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 23 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 24 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 25 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 26 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 27 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 28 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 29 | [Sonntagnachmittag](http://twitter.com/search?q=Sonntagnachmittag) | N/A |
+| 30 | [Symbolik](http://twitter.com/search?q=Symbolik) | N/A |
 | 31 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 32 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 33 | [Fantasie- und Verbotswelt](http://twitter.com/search?q=Fantasie-+und+Verbotswelt) | N/A |
-| 34 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
-| 35 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 36 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 37 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 38 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 39 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 40 | [Lebensgrundlagen](http://twitter.com/search?q=Lebensgrundlagen) | N/A |
-| 41 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 42 | [Gartenstuhl](http://twitter.com/search?q=Gartenstuhl) | N/A |
-| 43 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
-| 44 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 45 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 46 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 47 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 48 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 49 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 50 | [Dani Karavan](http://twitter.com/search?q=Dani+Karavan) | N/A |
+| 32 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 33 | [Heizkosten und Strompreise](http://twitter.com/search?q=Heizkosten+und+Strompreise) | N/A |
+| 34 | [Scherning](http://twitter.com/search?q=Scherning) | N/A |
+| 35 | [Künstlers](http://twitter.com/search?q=K%c3%bcnstlers) | N/A |
+| 36 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
+| 37 | [Fantasie- und Verbotswelt](http://twitter.com/search?q=Fantasie-+und+Verbotswelt) | N/A |
+| 38 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 39 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 40 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 41 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 42 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 43 | [Lebensgrundlagen](http://twitter.com/search?q=Lebensgrundlagen) | N/A |
+| 44 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
+| 45 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 46 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
+| 47 | [Gartenstuhl](http://twitter.com/search?q=Gartenstuhl) | N/A |
+| 48 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 49 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 50 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
 
 
 

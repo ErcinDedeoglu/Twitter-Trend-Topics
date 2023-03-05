@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-05 14:16:36 UTC`
+📆 Last Updated: `2023-03-05 15:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sayın](http://twitter.com/search?q=Say%c4%b1n) | N/A |
+| 1 | [Ağlama](http://twitter.com/search?q=A%c4%9flama) | N/A |
 | 2 | [İlk](http://twitter.com/search?q=%c4%b0lk) | N/A |
-| 3 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
-| 4 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
-| 5 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 6 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
-| 7 | [#Seçimi100BinBelirleyecek](http://twitter.com/search?q=%23Se%c3%a7imi100BinBelirleyecek) | N/A |
-| 8 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 9 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
-| 10 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
-| 11 | [Yeşil](http://twitter.com/search?q=Ye%c5%9fil) | N/A |
-| 12 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
-| 13 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 14 | [bir olma vakti](http://twitter.com/search?q=bir+olma+vakti) | N/A |
-| 15 | [negüzel allahvar](http://twitter.com/search?q=neg%c3%bczel+allahvar) | N/A |
+| 3 | [Sayın](http://twitter.com/search?q=Say%c4%b1n) | N/A |
+| 4 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
+| 5 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
+| 6 | [#Seçimi100BinBelirleyecek](http://twitter.com/search?q=%23Se%c3%a7imi100BinBelirleyecek) | N/A |
+| 7 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 8 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 9 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
+| 10 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
+| 11 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
+| 12 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 14 | [Yeşil](http://twitter.com/search?q=Ye%c5%9fil) | N/A |
+| 15 | [İyiKiGeldin OzanYakın](http://twitter.com/search?q=%c4%b0yiKiGeldin+OzanYak%c4%b1n) | N/A |
 | 16 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
-| 17 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
-| 18 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
-| 19 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 17 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
+| 18 | [bir olma vakti](http://twitter.com/search?q=bir+olma+vakti) | N/A |
+| 19 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
 | 20 | [İstiklal](http://twitter.com/search?q=%c4%b0stiklal) | N/A |
-| 21 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
-| 22 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 23 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
-| 24 | [Ruhat Mengi](http://twitter.com/search?q=Ruhat+Mengi) | N/A |
-| 25 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 26 | [Jitem](http://twitter.com/search?q=Jitem) | N/A |
-| 27 | [Çağatay](http://twitter.com/search?q=%c3%87a%c4%9fatay) | N/A |
-| 28 | [Faşistler](http://twitter.com/search?q=Fa%c5%9fistler) | N/A |
-| 29 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
-| 30 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 31 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 32 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
-| 33 | [Oruspu](http://twitter.com/search?q=Oruspu) | N/A |
-| 34 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
-| 35 | [TFF 2](http://twitter.com/search?q=TFF+2) | N/A |
-| 36 | [Burası Türkiye](http://twitter.com/search?q=Buras%c4%b1+T%c3%bcrkiye) | N/A |
-| 37 | [Fuchs](http://twitter.com/search?q=Fuchs) | N/A |
-| 38 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
-| 39 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 40 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
-| 41 | [koyduk](http://twitter.com/search?q=koyduk) | N/A |
-| 42 | [Kısasa](http://twitter.com/search?q=K%c4%b1sasa) | N/A |
-| 43 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
-| 44 | [Beşli Çete](http://twitter.com/search?q=Be%c5%9fli+%c3%87ete) | N/A |
-| 45 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
-| 46 | [Maçı](http://twitter.com/search?q=Ma%c3%a7%c4%b1) | N/A |
-| 47 | [Barbar](http://twitter.com/search?q=Barbar) | N/A |
-| 48 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 49 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
-| 50 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 21 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 22 | [Kandilin](http://twitter.com/search?q=Kandilin) | N/A |
+| 23 | [Oruspu](http://twitter.com/search?q=Oruspu) | N/A |
+| 24 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
+| 25 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
+| 26 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 27 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
+| 28 | [Jitem](http://twitter.com/search?q=Jitem) | N/A |
+| 29 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
+| 30 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
+| 31 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
+| 32 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 33 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 34 | [Jiletle](http://twitter.com/search?q=Jiletle) | N/A |
+| 35 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 36 | [Paçavra](http://twitter.com/search?q=Pa%c3%a7avra) | N/A |
+| 37 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
+| 38 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
+| 39 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 40 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 41 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
+| 42 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
+| 43 | [Ruhat Mengi](http://twitter.com/search?q=Ruhat+Mengi) | N/A |
+| 44 | [Burası Türkiye](http://twitter.com/search?q=Buras%c4%b1+T%c3%bcrkiye) | N/A |
+| 45 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 46 | [Alçaklar](http://twitter.com/search?q=Al%c3%a7aklar) | N/A |
+| 47 | [#İzleyicineKulakVerGHBG](http://twitter.com/search?q=%23%c4%b0zleyicineKulakVerGHBG) | N/A |
+| 48 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
+| 49 | [#10BinFztYarayıSarar](http://twitter.com/search?q=%2310BinFztYaray%c4%b1Sarar) | N/A |
+| 50 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
 
 
 

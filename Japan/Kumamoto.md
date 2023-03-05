@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-03-05 14:16:21 UTC`
+📆 Last Updated: `2023-03-05 15:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [#ロアッソ熊本](http://twitter.com/search?q=%23%e3%83%ad%e3%82%a2%e3%83%83%e3%82%bd%e7%86%8a%e6%9c%ac) | N/A |
 | 2 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 3 | [#さくらみこ生誕祭](http://twitter.com/search?q=%23%e3%81%95%e3%81%8f%e3%82%89%e3%81%bf%e3%81%93%e7%94%9f%e8%aa%95%e7%a5%ad) | N/A |
-| 4 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
-| 5 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
-| 6 | [#秋元真夏卒業コンサート](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e7%9c%9f%e5%a4%8f%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
-| 7 | [板垣さん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%95%e3%82%93) | N/A |
-| 8 | [忘羨結婚](http://twitter.com/search?q=%e5%bf%98%e7%be%a8%e7%b5%90%e5%a9%9a) | 忘羨結婚 is a Chinese phrase that literally translates to "forget envy and marry". It is used to describe a situation in which two people are so in love with each other that they forget about any feelings of envy or jealousy they may have had for each other. In English, it can be interpreted as "marry without envy". |
-| 9 | [キドフェノ](http://twitter.com/search?q=%e3%82%ad%e3%83%89%e3%83%95%e3%82%a7%e3%83%8e) | N/A |
-| 10 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 11 | [ハンジソン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b8%e3%82%bd%e3%83%b3) | ハンジソン (Hanson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand was founded in 1997 and is known for its use of bright colors, bold patterns, and unique designs. In English, the name translates to "Hanson" or "Hansson". |
-| 12 | [タラちゃん](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 13 | [本多正信](http://twitter.com/search?q=%e6%9c%ac%e5%a4%9a%e6%ad%a3%e4%bf%a1) | 本多正信 is a Japanese name. It is composed of two characters: 本 (hon) meaning "origin" or "basis", and 多 (ta) meaning "many". 正 (masa) means "correct" or "true", and 信 (shin) means "belief" or "trust". In English, the name could be translated as "Origin of Many Truths". |
-| 14 | [りひとくん](http://twitter.com/search?q=%e3%82%8a%e3%81%b2%e3%81%a8%e3%81%8f%e3%82%93) | N/A |
-| 15 | [シャカファイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%95%e3%82%a1%e3%82%a4) | N/A |
-| 16 | [李光人くん](http://twitter.com/search?q=%e6%9d%8e%e5%85%89%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
-| 17 | [ヤフオク障害](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%82%aa%e3%82%af%e9%9a%9c%e5%ae%b3) | N/A |
-| 18 | [マンネズ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%8d%e3%82%ba) | N/A |
-| 19 | [武藤敬司](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e6%95%ac%e5%8f%b8) | 武藤敬司 is a Japanese name. It is composed of two characters: 武 (Take) and 藤 (Fuji). The meaning of the name is "respectful and noble". |
-| 20 | [生粋の狂人](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8b%82%e4%ba%ba) | N/A |
-| 21 | [狂気度100](http://twitter.com/search?q=%e7%8b%82%e6%b0%97%e5%ba%a6100) | N/A |
-| 22 | [正気度0](http://twitter.com/search?q=%e6%ad%a3%e6%b0%97%e5%ba%a60) | N/A |
+| 3 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 4 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 5 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 6 | [#さくらみこ生誕祭](http://twitter.com/search?q=%23%e3%81%95%e3%81%8f%e3%82%89%e3%81%bf%e3%81%93%e7%94%9f%e8%aa%95%e7%a5%ad) | N/A |
+| 7 | [#秋元真夏卒業コンサート](http://twitter.com/search?q=%23%e7%a7%8b%e5%85%83%e7%9c%9f%e5%a4%8f%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
+| 8 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 9 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
+| 10 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
+| 11 | [忘羨結婚](http://twitter.com/search?q=%e5%bf%98%e7%be%a8%e7%b5%90%e5%a9%9a) | 忘羨結婚 is a Chinese phrase that literally translates to "forget envy and marry". It is used to describe a situation in which two people are so in love with each other that they forget about any feelings of envy or jealousy they may have had for each other. In English, it can be interpreted as "marry without envy". |
+| 12 | [出川さん](http://twitter.com/search?q=%e5%87%ba%e5%b7%9d%e3%81%95%e3%82%93) | 出川さん is a Japanese phrase that literally translates to "Mr. Degawa". It is a term of respect used to refer to someone who has achieved success in their field or profession. |
+| 13 | [板垣さん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%95%e3%82%93) | N/A |
+| 14 | [スノハレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%8f%e3%83%ac) | N/A |
+| 15 | [キドフェノ](http://twitter.com/search?q=%e3%82%ad%e3%83%89%e3%83%95%e3%82%a7%e3%83%8e) | N/A |
+| 16 | [なっちとみーぽん](http://twitter.com/search?q=%e3%81%aa%e3%81%a3%e3%81%a1%e3%81%a8%e3%81%bf%e3%83%bc%e3%81%bd%e3%82%93) | N/A |
+| 17 | [爆走兄弟レッツ](http://twitter.com/search?q=%e7%88%86%e8%b5%b0%e5%85%84%e5%bc%9f%e3%83%ac%e3%83%83%e3%83%84) | N/A |
+| 18 | [ハンジソン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b8%e3%82%bd%e3%83%b3) | ハンジソン (Hanson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand was founded in 1997 and is known for its use of bright colors, bold patterns, and unique designs. In English, the name translates to "Hanson" or "Hansson". |
+| 19 | [ショウヘイヘーイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%98%e3%82%a4%e3%83%98%e3%83%bc%e3%82%a4) | N/A |
+| 20 | [江口のりこ](http://twitter.com/search?q=%e6%b1%9f%e5%8f%a3%e3%81%ae%e3%82%8a%e3%81%93) | N/A |
+| 21 | [F1開幕戦](http://twitter.com/search?q=F1%e9%96%8b%e5%b9%95%e6%88%a6) | N/A |
+| 22 | [りひとくん](http://twitter.com/search?q=%e3%82%8a%e3%81%b2%e3%81%a8%e3%81%8f%e3%82%93) | N/A |
 | 23 | [なーたん](http://twitter.com/search?q=%e3%81%aa%e3%83%bc%e3%81%9f%e3%82%93) | なーたん is a nickname for the Japanese name "Natsuki". It is a combination of the first two syllables of the name, and is often used as an affectionate term. In English, it could be translated to something like "Nattie" or "Natty". |
-| 24 | [望月千代女](http://twitter.com/search?q=%e6%9c%9b%e6%9c%88%e5%8d%83%e4%bb%a3%e5%a5%b3) | N/A |
-| 25 | [定期ミッション](http://twitter.com/search?q=%e5%ae%9a%e6%9c%9f%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 26 | [アギパン](http://twitter.com/search?q=%e3%82%a2%e3%82%ae%e3%83%91%e3%83%b3) | N/A |
-| 27 | [SAN値ピンチ](http://twitter.com/search?q=SAN%e5%80%a4%e3%83%94%e3%83%b3%e3%83%81) | N/A |
-| 28 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
-| 29 | [狂気度80](http://twitter.com/search?q=%e7%8b%82%e6%b0%97%e5%ba%a680) | N/A |
-| 30 | [ガチ狂人](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e7%8b%82%e4%ba%ba) | N/A |
-| 31 | [ダブルアンコール](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%a2%e3%83%b3%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [航空学校](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e5%ad%a6%e6%a0%a1) | N/A |
-| 33 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 34 | [ゴーオンジャー](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%aa%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 35 | [渡辺棋王](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e6%a3%8b%e7%8e%8b) | N/A |
-| 36 | [野田さん](http://twitter.com/search?q=%e9%87%8e%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 37 | [りいこちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%84%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [小田原駅](http://twitter.com/search?q=%e5%b0%8f%e7%94%b0%e5%8e%9f%e9%a7%85) | N/A |
-| 39 | [れるりりさん](http://twitter.com/search?q=%e3%82%8c%e3%82%8b%e3%82%8a%e3%82%8a%e3%81%95%e3%82%93) | N/A |
-| 40 | [松山ケン](http://twitter.com/search?q=%e6%9d%be%e5%b1%b1%e3%82%b1%e3%83%b3) | 松山ケン is a Japanese phrase that literally translates to "Matsuyama Ken". It is the name of a Japanese actor, singer, and television personality. |
-| 41 | [みこちの新衣装](http://twitter.com/search?q=%e3%81%bf%e3%81%93%e3%81%a1%e3%81%ae%e6%96%b0%e8%a1%a3%e8%a3%85) | N/A |
-| 42 | [後列のメンバー](http://twitter.com/search?q=%e5%be%8c%e5%88%97%e3%81%ae%e3%83%a1%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 43 | [サクラカゼ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%82%ab%e3%82%bc) | N/A |
-| 44 | [メディキュット](http://twitter.com/search?q=%e3%83%a1%e3%83%87%e3%82%a3%e3%82%ad%e3%83%a5%e3%83%83%e3%83%88) | N/A |
-| 45 | [ドリライ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%a9%e3%82%a4) | N/A |
-| 46 | [Second Sparkle](http://twitter.com/search?q=Second+Sparkle) | N/A |
-| 47 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
-| 48 | [YOLO](http://twitter.com/search?q=YOLO) | N/A |
-| 49 | [よしながさん](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%81%aa%e3%81%8c%e3%81%95%e3%82%93) | N/A |
-| 50 | [はまゆうさん](http://twitter.com/search?q=%e3%81%af%e3%81%be%e3%82%86%e3%81%86%e3%81%95%e3%82%93) | N/A |
+| 24 | [メディキュット](http://twitter.com/search?q=%e3%83%a1%e3%83%87%e3%82%a3%e3%82%ad%e3%83%a5%e3%83%83%e3%83%88) | N/A |
+| 25 | [李光人くん](http://twitter.com/search?q=%e6%9d%8e%e5%85%89%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
+| 26 | [ストロール](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
+| 27 | [浅野さん](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e3%81%95%e3%82%93) | N/A |
+| 28 | [ゴーオンジャー](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%aa%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 29 | [ヤフオク障害](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%82%aa%e3%82%af%e9%9a%9c%e5%ae%b3) | N/A |
+| 30 | [チキンとラーメン](http://twitter.com/search?q=%e3%83%81%e3%82%ad%e3%83%b3%e3%81%a8%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
+| 31 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
+| 32 | [あいみょん](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%81%bf%e3%82%87%e3%82%93) | N/A |
+| 33 | [チョコビ](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%93) | N/A |
+| 34 | [シャカファイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%95%e3%82%a1%e3%82%a4) | N/A |
+| 35 | [あずきちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%9a%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [主役気分](http://twitter.com/search?q=%e4%b8%bb%e5%bd%b9%e6%b0%97%e5%88%86) | N/A |
+| 37 | [本多正信](http://twitter.com/search?q=%e6%9c%ac%e5%a4%9a%e6%ad%a3%e4%bf%a1) | 本多正信 is a Japanese name. It is composed of two characters: 本 (hon) meaning "origin" or "basis", and 多 (ta) meaning "many". 正 (masa) means "correct" or "true", and 信 (shin) means "belief" or "trust". In English, the name could be translated as "Origin of Many Truths". |
+| 38 | [情熱大陸](http://twitter.com/search?q=%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | 情熱大陸 (Namaiki! Zenryoku-jōi Sengen) is a Japanese variety show that aired on Fuji TV from October 7, 1997 to September 28, 2003. The show's title translates to "Passionate Continent: A Declaration of Full-Force Enthusiasm". It was a popular variety show that featured various celebrities and comedians in skits and games. |
+| 39 | [マスター文化](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e6%96%87%e5%8c%96) | N/A |
+| 40 | [Kiroro](http://twitter.com/search?q=Kiroro) | N/A |
+| 41 | [リレー放送](http://twitter.com/search?q=%e3%83%aa%e3%83%ac%e3%83%bc%e6%94%be%e9%80%81) | N/A |
+| 42 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
+| 43 | [恋ちゃん](http://twitter.com/search?q=%e6%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [ベストフレンド](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89) | ベストフレンド (besuto furendo) is a Japanese phrase meaning "best friend". It is used to refer to someone who is a very close and trusted friend. |
+| 45 | [北ちゃん](http://twitter.com/search?q=%e5%8c%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [野田さん](http://twitter.com/search?q=%e9%87%8e%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 47 | [カムバ情報](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%90%e6%83%85%e5%a0%b1) | N/A |
+| 48 | [生粋の狂人](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8b%82%e4%ba%ba) | N/A |
+| 49 | [狂気度100](http://twitter.com/search?q=%e7%8b%82%e6%b0%97%e5%ba%a6100) | N/A |
+| 50 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
 
 
 

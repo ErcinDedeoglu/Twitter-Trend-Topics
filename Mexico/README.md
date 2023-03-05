@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-05 14:16:50 UTC`
+📆 Last Updated: `2023-03-05 15:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 4 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 5 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 6 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 7 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 8 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 9 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 11 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 12 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 13 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 14 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 15 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 16 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 17 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 18 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 19 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 21 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 22 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 23 | [aniversario dream tour](http://twitter.com/search?q=aniversario+dream+tour) | N/A |
-| 24 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [viñas](http://twitter.com/search?q=vi%c3%b1as) | N/A |
-| 27 | [chofis](http://twitter.com/search?q=chofis) | N/A |
-| 28 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 29 | [nodal](http://twitter.com/search?q=nodal) | N/A |
-| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 31 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
-| 32 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
-| 33 | [adonai escobedo](http://twitter.com/search?q=adonai+escobedo) | N/A |
-| 34 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 35 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 36 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 37 | [kevin álvarez](http://twitter.com/search?q=kevin+%c3%a1lvarez) | N/A |
-| 38 | [joao](http://twitter.com/search?q=joao) | N/A |
-| 39 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 40 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 41 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [attack on titan](http://twitter.com/search?q=attack+on+titan) | N/A |
-| 44 | [leo suárez](http://twitter.com/search?q=leo+su%c3%a1rez) | N/A |
-| 45 | [turnstile](http://twitter.com/search?q=turnstile) | N/A |
-| 46 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 47 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 48 | [Peter Hook](http://twitter.com/search?q=Peter+Hook) | N/A |
-| 49 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 50 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
+| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
+| 5 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 8 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 9 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 10 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 11 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 13 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 14 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 15 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 16 | [chessman](http://twitter.com/search?q=chessman) | N/A |
+| 17 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 18 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 19 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 20 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 21 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 22 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 23 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 24 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 25 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 26 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 27 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 28 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 31 | [aniversario dream tour](http://twitter.com/search?q=aniversario+dream+tour) | N/A |
+| 32 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 33 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 34 | [chofis](http://twitter.com/search?q=chofis) | N/A |
+| 35 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 38 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 39 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
+| 40 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
+| 43 | [adonai escobedo](http://twitter.com/search?q=adonai+escobedo) | N/A |
+| 44 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 45 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
+| 46 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 47 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
+| 48 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 49 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 50 | [joao](http://twitter.com/search?q=joao) | N/A |
 
 
 

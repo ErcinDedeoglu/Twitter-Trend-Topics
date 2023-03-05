@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-05 14:16:44 UTC`
+📆 Last Updated: `2023-03-05 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 3 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 4 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 8 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 9 | [#MurderousMoviesAndShows](http://twitter.com/search?q=%23MurderousMoviesAndShows) | N/A |
-| 10 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 11 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 12 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
-| 15 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 16 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 17 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 18 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 19 | [Coamo](http://twitter.com/search?q=Coamo) | N/A |
-| 20 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
-| 21 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 22 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 23 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 24 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 25 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 26 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 27 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
-| 28 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 29 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 30 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
-| 31 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 32 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 33 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 36 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 37 | [Kush](http://twitter.com/search?q=Kush) | N/A |
-| 38 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 39 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 40 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
-| 41 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 42 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 43 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 44 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 45 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 46 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
-| 47 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 48 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 49 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 6 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
+| 9 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 10 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 11 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 12 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 13 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
+| 14 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 17 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 18 | [championship sunday](http://twitter.com/search?q=championship+sunday) | N/A |
+| 19 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 20 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 23 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 24 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
+| 25 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
+| 26 | [Alexander Torres](http://twitter.com/search?q=Alexander+Torres) | N/A |
+| 27 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 28 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
+| 29 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
+| 30 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 32 | [LIGHTS OUT](http://twitter.com/search?q=LIGHTS+OUT) | N/A |
+| 33 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
+| 34 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 35 | [GI Jane](http://twitter.com/search?q=GI+Jane) | N/A |
+| 36 | [Coamo](http://twitter.com/search?q=Coamo) | N/A |
+| 37 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
+| 38 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 39 | [Salsa](http://twitter.com/search?q=Salsa) | N/A |
+| 40 | [Tabasco](http://twitter.com/search?q=Tabasco) | N/A |
+| 41 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 42 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 44 | [Eradicate](http://twitter.com/search?q=Eradicate) | N/A |
+| 45 | [Golden Corral](http://twitter.com/search?q=Golden+Corral) | N/A |
+| 46 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
+| 47 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 48 | [Full Moon](http://twitter.com/search?q=Full+Moon) | N/A |
+| 49 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
 
 
 

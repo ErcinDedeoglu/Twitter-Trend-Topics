@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-05 14:16:18 UTC`
+📆 Last Updated: `2023-03-05 15:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nasi](http://twitter.com/search?q=Nasi) | N/A |
-| 2 | [#MomennyaHeineken](http://twitter.com/search?q=%23MomennyaHeineken) | N/A |
-| 3 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 7 | [#CrashCourseInRomanceEp16](http://twitter.com/search?q=%23CrashCourseInRomanceEp16) | N/A |
-| 8 | [#VDKaTe](http://twitter.com/search?q=%23VDKaTe) | N/A |
-| 9 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 11 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 12 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 13 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 14 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 15 | [Beras](http://twitter.com/search?q=Beras) | N/A |
-| 16 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
-| 17 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
-| 18 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 19 | [Jamu](http://twitter.com/search?q=Jamu) | N/A |
-| 20 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 21 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
-| 22 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 23 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 24 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 25 | [Lontong](http://twitter.com/search?q=Lontong) | N/A |
-| 26 | [Sukaa](http://twitter.com/search?q=Sukaa) | N/A |
-| 27 | [Kamar](http://twitter.com/search?q=Kamar) | N/A |
-| 28 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
-| 29 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 30 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
-| 31 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
-| 32 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 33 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 35 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 36 | [Terang](http://twitter.com/search?q=Terang) | N/A |
-| 37 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 38 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 39 | [Zhongli](http://twitter.com/search?q=Zhongli) | N/A |
-| 40 | [#EucerinKDermaXGeminiFourth](http://twitter.com/search?q=%23EucerinKDermaXGeminiFourth) | N/A |
-| 41 | [#Vindes](http://twitter.com/search?q=%23Vindes) | N/A |
-| 42 | [#TebakSkor](http://twitter.com/search?q=%23TebakSkor) | N/A |
-| 43 | [#OhmNanonFMHK2023](http://twitter.com/search?q=%23OhmNanonFMHK2023) | N/A |
-| 44 | [#OishiOnePieceXGulf](http://twitter.com/search?q=%23OishiOnePieceXGulf) | N/A |
-| 45 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 46 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 47 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 2 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 3 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
+| 4 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
+| 5 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 6 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
+| 7 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 8 | [#Vindes](http://twitter.com/search?q=%23Vindes) | N/A |
+| 9 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [HAPPY BIRTHDAY WANG ZIHAO](http://twitter.com/search?q=HAPPY+BIRTHDAY+WANG+ZIHAO) | N/A |
+| 12 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 13 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 16 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 17 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
+| 18 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 19 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 20 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
+| 21 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 22 | [Beras](http://twitter.com/search?q=Beras) | N/A |
+| 23 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 24 | [Jamu](http://twitter.com/search?q=Jamu) | N/A |
+| 25 | [CHENLE](http://twitter.com/search?q=CHENLE) | N/A |
+| 26 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 27 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
+| 28 | [Sukaa](http://twitter.com/search?q=Sukaa) | N/A |
+| 29 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 30 | [Bubur](http://twitter.com/search?q=Bubur) | N/A |
+| 31 | [Kamar](http://twitter.com/search?q=Kamar) | N/A |
+| 32 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
+| 35 | [Terang](http://twitter.com/search?q=Terang) | N/A |
+| 36 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
+| 37 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 38 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
+| 39 | [#MomennyaHeineken](http://twitter.com/search?q=%23MomennyaHeineken) | N/A |
+| 40 | [#ITSZIHAODAY](http://twitter.com/search?q=%23ITSZIHAODAY) | N/A |
+| 41 | [#王子浩0306生日快乐](http://twitter.com/search?q=%23%e7%8e%8b%e5%ad%90%e6%b5%a90306%e7%94%9f%e6%97%a5%e5%bf%ab%e4%b9%90) | N/A |
+| 42 | [#김희철_18주년도_체리업](http://twitter.com/search?q=%23%ea%b9%80%ed%9d%ac%ec%b2%a0_18%ec%a3%bc%eb%85%84%eb%8f%84_%ec%b2%b4%eb%a6%ac%ec%97%85) | N/A |
+| 43 | [#DANCEKING_ZIHAO_DAY](http://twitter.com/search?q=%23DANCEKING_ZIHAO_DAY) | N/A |
+| 44 | [#VDKaTe](http://twitter.com/search?q=%23VDKaTe) | N/A |
+| 45 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 46 | [#CrashCourseInRomanceEp16](http://twitter.com/search?q=%23CrashCourseInRomanceEp16) | N/A |
+| 47 | [#SHINeeisBack](http://twitter.com/search?q=%23SHINeeisBack) | N/A |
 | 48 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 49 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 50 | [#GitaSemangat](http://twitter.com/search?q=%23GitaSemangat) | N/A |
+| 49 | [#EucerinKDermaXGeminiFourth](http://twitter.com/search?q=%23EucerinKDermaXGeminiFourth) | N/A |
+| 50 | [#TebakSkor](http://twitter.com/search?q=%23TebakSkor) | N/A |
 
 
 

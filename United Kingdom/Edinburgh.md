@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-05 14:16:00 UTC`
+📆 Last Updated: `2023-03-05 15:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 2 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 3 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 4 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
-| 5 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
-| 6 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
-| 7 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
-| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 9 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 10 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 11 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
-| 12 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 13 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 14 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 15 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 16 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 17 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 19 | [Colback](http://twitter.com/search?q=Colback) | N/A |
-| 20 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 21 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 22 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
-| 23 | [Alistair Johnston](http://twitter.com/search?q=Alistair+Johnston) | N/A |
-| 24 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 25 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 26 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 27 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
-| 28 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 29 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
-| 30 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 31 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
-| 32 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 33 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
-| 34 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
-| 35 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 36 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
-| 37 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 38 | [andrew rawnsley](http://twitter.com/search?q=andrew+rawnsley) | N/A |
-| 39 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 40 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
-| 41 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 42 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
-| 43 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
-| 44 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 45 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 46 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
-| 47 | [Ashworth](http://twitter.com/search?q=Ashworth) | N/A |
-| 48 | [The North](http://twitter.com/search?q=The+North) | N/A |
-| 49 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 1 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
+| 4 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 5 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 6 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 7 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 8 | [Colback](http://twitter.com/search?q=Colback) | N/A |
+| 9 | [#NFOEVE](http://twitter.com/search?q=%23NFOEVE) | N/A |
+| 10 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 11 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 12 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 13 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 14 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 15 | [#ContiCupFinal](http://twitter.com/search?q=%23ContiCupFinal) | N/A |
+| 16 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 17 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
+| 18 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 19 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
+| 20 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 21 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 22 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 23 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 24 | [Gibbs](http://twitter.com/search?q=Gibbs) | N/A |
+| 25 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 26 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
+| 27 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
+| 28 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 29 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 30 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 31 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
+| 32 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 33 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 34 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 35 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 36 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 37 | [Alistair Johnston](http://twitter.com/search?q=Alistair+Johnston) | N/A |
+| 38 | [Yates](http://twitter.com/search?q=Yates) | N/A |
+| 39 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
+| 40 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 41 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 42 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
+| 43 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
+| 44 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 45 | [Haksabanovic](http://twitter.com/search?q=Haksabanovic) | N/A |
+| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 47 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 48 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 49 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
 
 
 
