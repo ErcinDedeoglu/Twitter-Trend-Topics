@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-03-04 23:16:00 UTC`
+📆 Last Updated: `2023-03-05 00:31:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 2 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 1 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
+| 2 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 3 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 4 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 5 | [MINIMUM](http://twitter.com/search?q=MINIMUM) | N/A |
-| 6 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 7 | [#INDYCAR](http://twitter.com/search?q=%23INDYCAR) | N/A |
-| 8 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 9 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 10 | [Adama](http://twitter.com/search?q=Adama) | N/A |
-| 11 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
-| 12 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 13 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 14 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
-| 15 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 16 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 17 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 18 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 19 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 20 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 21 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
-| 22 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 23 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
-| 24 | [Dan Neil](http://twitter.com/search?q=Dan+Neil) | N/A |
-| 25 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 26 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 27 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 28 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 29 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 31 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 32 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 35 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 36 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 37 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 38 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 39 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 40 | [Jay Swingler](http://twitter.com/search?q=Jay+Swingler) | N/A |
-| 41 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 42 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 43 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 44 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 45 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 46 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 47 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 49 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 4 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
+| 5 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 6 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
+| 7 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 8 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 9 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 10 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 11 | [#itfc](http://twitter.com/search?q=%23itfc) | N/A |
+| 12 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 13 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 14 | [Dan Neil](http://twitter.com/search?q=Dan+Neil) | N/A |
+| 15 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
+| 16 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
+| 17 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 18 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 19 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 21 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 22 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 23 | [Nich](http://twitter.com/search?q=Nich) | N/A |
+| 24 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 25 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 26 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 27 | [Jay Swingler](http://twitter.com/search?q=Jay+Swingler) | N/A |
+| 28 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 29 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 31 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 32 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 33 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 34 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 35 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 36 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 37 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
+| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 39 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 40 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 41 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 42 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 43 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 44 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
+| 45 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 46 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 47 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 48 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 49 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
 
 
 

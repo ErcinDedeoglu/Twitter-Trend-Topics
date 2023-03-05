@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-04 23:16:05 UTC`
+📆 Last Updated: `2023-03-05 00:31:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 2 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 3 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 4 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
-| 5 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
-| 6 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 8 | [#dne라틴아메리카콘서트](http://twitter.com/search?q=%23dne%eb%9d%bc%ed%8b%b4%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
-| 9 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 10 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 11 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 12 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 13 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 14 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 16 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 17 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 20 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
-| 21 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
-| 22 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
-| 23 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 24 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 25 | [Binsan](http://twitter.com/search?q=Binsan) | N/A |
-| 26 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 27 | [Tulum](http://twitter.com/search?q=Tulum) | N/A |
-| 28 | [Marietto](http://twitter.com/search?q=Marietto) | N/A |
-| 29 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
-| 30 | [#JuntosEnAcción](http://twitter.com/search?q=%23JuntosEnAcci%c3%b3n) | N/A |
-| 31 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 32 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
-| 33 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 34 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 35 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 36 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
-| 37 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
-| 38 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 39 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
-| 40 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 41 | [#INEcorruptisimo](http://twitter.com/search?q=%23INEcorruptisimo) | N/A |
-| 42 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
-| 43 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 2 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 3 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 7 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 10 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 11 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 13 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 16 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 17 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
+| 20 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
+| 25 | [UANL](http://twitter.com/search?q=UANL) | N/A |
+| 26 | [Hipólito Mora](http://twitter.com/search?q=Hip%c3%b3lito+Mora) | N/A |
+| 27 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 28 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
+| 29 | [Replik](http://twitter.com/search?q=Replik) | N/A |
+| 30 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 31 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 32 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
+| 33 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 34 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 35 | [Shorty Party](http://twitter.com/search?q=Shorty+Party) | N/A |
+| 36 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 37 | [Hace 9](http://twitter.com/search?q=Hace+9) | N/A |
+| 38 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [HAPPY MJ DAY](http://twitter.com/search?q=HAPPY+MJ+DAY) | N/A |
+| 41 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 44 | [La Ruana](http://twitter.com/search?q=La+Ruana) | N/A |
+| 45 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 46 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 47 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
+| 48 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-04 23:16:42 UTC`
+📆 Last Updated: `2023-03-05 00:32:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 2 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 3 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 4 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 5 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 6 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 7 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 8 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 11 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 12 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 13 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 14 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 1 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 2 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 3 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 4 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 5 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 6 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 7 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 8 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 9 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 10 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 11 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 13 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 15 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 16 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 17 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 18 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 19 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 20 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 21 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 22 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 23 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 24 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 25 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
-| 26 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 27 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 28 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 29 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 30 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 31 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
-| 32 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 33 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
-| 34 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 35 | [Charlie Jones](http://twitter.com/search?q=Charlie+Jones) | N/A |
-| 36 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 37 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 40 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 41 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
-| 42 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
-| 43 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 44 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 45 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 46 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 47 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 48 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 49 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 50 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
+| 16 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
+| 17 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 18 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 19 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 20 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 21 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 22 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
+| 23 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 24 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 25 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
+| 26 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 27 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 28 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 30 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
+| 31 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 32 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 33 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
+| 34 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 35 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 36 | [Penne](http://twitter.com/search?q=Penne) | N/A |
+| 37 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 38 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 39 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
+| 40 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 41 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
+| 42 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 43 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
+| 44 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
+| 45 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 46 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 47 | [Delon Wright](http://twitter.com/search?q=Delon+Wright) | N/A |
+| 48 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 49 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 50 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
 
 
 

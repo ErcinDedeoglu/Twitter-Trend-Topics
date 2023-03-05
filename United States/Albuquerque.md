@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-04 23:16:37 UTC`
+📆 Last Updated: `2023-03-05 00:32:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 2 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 3 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 4 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 5 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 8 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 9 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 10 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 11 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 12 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
-| 13 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 14 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 15 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 16 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 17 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 18 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 19 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
-| 20 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 21 | [Charlie Jones](http://twitter.com/search?q=Charlie+Jones) | N/A |
-| 22 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
-| 23 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 26 | [Jackson Mahomes](http://twitter.com/search?q=Jackson+Mahomes) | N/A |
-| 27 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 28 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 29 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 30 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 31 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 32 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 33 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
-| 34 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 35 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 36 | [Smashing Pumpkins](http://twitter.com/search?q=Smashing+Pumpkins) | N/A |
-| 37 | [Devo](http://twitter.com/search?q=Devo) | N/A |
-| 38 | [Gilbert Arenas](http://twitter.com/search?q=Gilbert+Arenas) | N/A |
-| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 40 | [Muss](http://twitter.com/search?q=Muss) | N/A |
-| 41 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 42 | [Lance Ware](http://twitter.com/search?q=Lance+Ware) | N/A |
-| 43 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
-| 44 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 45 | [Marvin Mims](http://twitter.com/search?q=Marvin+Mims) | N/A |
-| 46 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
-| 47 | [Raise Cain](http://twitter.com/search?q=Raise+Cain) | N/A |
-| 48 | [Ja Wick](http://twitter.com/search?q=Ja+Wick) | N/A |
+| 6 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 7 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
+| 8 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 9 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 10 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 11 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 12 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
+| 13 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 14 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 15 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 16 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 17 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 18 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 19 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 20 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
+| 21 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 22 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 23 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
+| 24 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 25 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 26 | [Penne](http://twitter.com/search?q=Penne) | N/A |
+| 27 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 28 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 29 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
+| 30 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 31 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
+| 32 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 33 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
+| 34 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 35 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
+| 36 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 37 | [Delon Wright](http://twitter.com/search?q=Delon+Wright) | N/A |
+| 38 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 39 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 40 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
+| 41 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 42 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
+| 43 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
+| 44 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 45 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 46 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 47 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 48 | [Arma 3](http://twitter.com/search?q=Arma+3) | N/A |
 
 
 

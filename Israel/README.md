@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-04 23:16:48 UTC`
+📆 Last Updated: `2023-03-05 00:32:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [לימור לבנת](http://twitter.com/search?q=%d7%9c%d7%99%d7%9e%d7%95%d7%a8+%d7%9c%d7%91%d7%a0%d7%aa) | N/A |
 | 4 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 | 5 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 6 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
-| 7 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 8 | [דגל לבן](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%9c%d7%91%d7%9f) | N/A |
+| 6 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 7 | [דגל לבן](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%9c%d7%91%d7%9f) | N/A |
+| 8 | [אלון בן דוד](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%91%d7%9f+%d7%93%d7%95%d7%93) | N/A |
 | 9 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 10 | [אלון בן דוד](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%9f+%d7%91%d7%9f+%d7%93%d7%95%d7%93) | N/A |
-| 11 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
-| 12 | [דן חלוץ](http://twitter.com/search?q=%d7%93%d7%9f+%d7%97%d7%9c%d7%95%d7%a5) | N/A |
+| 10 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
+| 11 | [דן חלוץ](http://twitter.com/search?q=%d7%93%d7%9f+%d7%97%d7%9c%d7%95%d7%a5) | N/A |
+| 12 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 13 | [גיא בדש](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%91%d7%93%d7%a9) | N/A |
 | 14 | [עיתונאי אובייקטיבי](http://twitter.com/search?q=%d7%a2%d7%99%d7%aa%d7%95%d7%a0%d7%90%d7%99+%d7%90%d7%95%d7%91%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%91%d7%99) | N/A |
-| 15 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 16 | [#דמוקרטיה](http://twitter.com/search?q=%23%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
-| 17 | [אזרחות אמריקאית](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%aa) | N/A |
+| 15 | [#דמוקרטיה](http://twitter.com/search?q=%23%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
+| 16 | [אזרחות אמריקאית](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97%d7%95%d7%aa+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%aa) | N/A |
+| 17 | [ערן זהבי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
 | 18 | [חצי מיליון](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f) | N/A |
 | 19 | [אלף איש](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%90%d7%99%d7%a9) | N/A |
-| 20 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 21 | [ערן זהבי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
-| 22 | [מיליון איש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%90%d7%99%d7%a9) | N/A |
-| 23 | [זיו אריה](http://twitter.com/search?q=%d7%96%d7%99%d7%95+%d7%90%d7%a8%d7%99%d7%94) | N/A |
-| 24 | [נח הררי](http://twitter.com/search?q=%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
-| 25 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
-| 26 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 27 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
-| 28 | [תל אביב](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
-| 29 | [כרמי גילון](http://twitter.com/search?q=%d7%9b%d7%a8%d7%9e%d7%99+%d7%92%d7%99%d7%9c%d7%95%d7%9f) | N/A |
+| 20 | [נח הררי](http://twitter.com/search?q=%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
+| 21 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 22 | [יולי אדלשטיין](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%99+%d7%90%d7%93%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 23 | [איש ימין](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%99%d7%9e%d7%99%d7%9f) | N/A |
+| 24 | [שגריר ארה](http://twitter.com/search?q=%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%90%d7%a8%d7%94) | N/A |
+| 25 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
+| 26 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 27 | [פרסונה נון](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1%d7%95%d7%a0%d7%94+%d7%a0%d7%95%d7%9f) | N/A |
+| 28 | [זיו אריה](http://twitter.com/search?q=%d7%96%d7%99%d7%95+%d7%90%d7%a8%d7%99%d7%94) | N/A |
+| 29 | [מפקד חיל](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%97%d7%99%d7%9c) | N/A |
 | 30 | [מרכז חורב](http://twitter.com/search?q=%d7%9e%d7%a8%d7%9b%d7%96+%d7%97%d7%95%d7%a8%d7%91) | N/A |
-| 31 | [מפקד חיל](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%97%d7%99%d7%9c) | N/A |
-| 32 | [רני רהב](http://twitter.com/search?q=%d7%a8%d7%a0%d7%99+%d7%a8%d7%94%d7%91) | N/A |
-| 33 | [שגריר ארה](http://twitter.com/search?q=%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%90%d7%a8%d7%94) | N/A |
-| 34 | [של ירושלים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 35 | [אלה אנשים](http://twitter.com/search?q=%d7%90%d7%9c%d7%94+%d7%90%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 36 | [איש ימין](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%99%d7%9e%d7%99%d7%9f) | N/A |
-| 37 | [בת ים](http://twitter.com/search?q=%d7%91%d7%aa+%d7%99%d7%9d) | N/A |
-| 38 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
-| 39 | [מטוס קל](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%9c) | N/A |
-| 40 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 41 | [של ארסנל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a8%d7%a1%d7%a0%d7%9c) | N/A |
-| 42 | [כפר סבא](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a1%d7%91%d7%90) | N/A |
-| 43 | [אזרח אמריקאי](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
-| 44 | [מלח הארץ](http://twitter.com/search?q=%d7%9e%d7%9c%d7%97+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
-| 45 | [אדם בן](http://twitter.com/search?q=%d7%90%d7%93%d7%9d+%d7%91%d7%9f) | N/A |
-| 46 | [כנף ציון](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a3+%d7%a6%d7%99%d7%95%d7%9f) | N/A |
-| 47 | [של שבת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%91%d7%aa) | N/A |
-| 48 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
-| 49 | [עם האמריקאים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%9d) | N/A |
-| 50 | [דן שכטמן](http://twitter.com/search?q=%d7%93%d7%9f+%d7%a9%d7%9b%d7%98%d7%9e%d7%9f) | N/A |
+| 31 | [רני רהב](http://twitter.com/search?q=%d7%a8%d7%a0%d7%99+%d7%a8%d7%94%d7%91) | N/A |
+| 32 | [כרמי גילון](http://twitter.com/search?q=%d7%9b%d7%a8%d7%9e%d7%99+%d7%92%d7%99%d7%9c%d7%95%d7%9f) | N/A |
+| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 34 | [בת ים](http://twitter.com/search?q=%d7%91%d7%aa+%d7%99%d7%9d) | N/A |
+| 35 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 36 | [של ארסנל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a8%d7%a1%d7%a0%d7%9c) | N/A |
+| 37 | [מטוס קל](http://twitter.com/search?q=%d7%9e%d7%98%d7%95%d7%a1+%d7%a7%d7%9c) | N/A |
+| 38 | [של ירושלים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 39 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 40 | [כפר סבא](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a1%d7%91%d7%90) | N/A |
+| 41 | [אזרח אמריקאי](http://twitter.com/search?q=%d7%90%d7%96%d7%a8%d7%97+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
+| 42 | [כנף ציון](http://twitter.com/search?q=%d7%9b%d7%a0%d7%a3+%d7%a6%d7%99%d7%95%d7%9f) | N/A |
+| 43 | [עם האמריקאים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%9d) | N/A |
+| 44 | [הם באמת חיים](http://twitter.com/search?q=%d7%94%d7%9d+%d7%91%d7%90%d7%9e%d7%aa+%d7%97%d7%99%d7%99%d7%9d) | N/A |
+| 45 | [היא חיה או](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%97%d7%99%d7%94+%d7%90%d7%95) | N/A |
+| 46 | [מאי גולן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 47 | [דן שכטמן](http://twitter.com/search?q=%d7%93%d7%9f+%d7%a9%d7%9b%d7%98%d7%9e%d7%9f) | N/A |
+| 48 | [לכל מילה](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%99%d7%9c%d7%94) | N/A |
+| 49 | [חתן פרס נובל](http://twitter.com/search?q=%d7%97%d7%aa%d7%9f+%d7%a4%d7%a8%d7%a1+%d7%a0%d7%95%d7%91%d7%9c) | N/A |
+| 50 | [של שבת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%91%d7%aa) | N/A |
 
 
 
