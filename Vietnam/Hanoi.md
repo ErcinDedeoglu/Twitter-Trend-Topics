@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-05 20:16:41 UTC`
+📆 Last Updated: `2023-03-05 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
 | 2 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 3 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
-| 4 | [#BetweenUsFanMeeting](http://twitter.com/search?q=%23BetweenUsFanMeeting) | N/A |
+| 3 | [#BetweenUsFanMeeting](http://twitter.com/search?q=%23BetweenUsFanMeeting) | N/A |
+| 4 | [#มีนานี้จะโอบกอดบิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%88%e0%b8%b0%e0%b9%82%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%ad%e0%b8%94%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
 | 5 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 6 | [#มีนานี้จะโอบกอดบิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%88%e0%b8%b0%e0%b9%82%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%ad%e0%b8%94%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 7 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
-| 8 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 6 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
+| 7 | [#2yrsbylxbuild](http://twitter.com/search?q=%232yrsbylxbuild) | N/A |
+| 8 | [always beside build](http://twitter.com/search?q=always+beside+build) | N/A |
 | 9 | [LiuYu in Paris](http://twitter.com/search?q=LiuYu+in+Paris) | N/A |
 | 10 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
 | 11 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
@@ -49,21 +49,20 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 33 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 34 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 35 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 35 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
 | 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 38 | [byls](http://twitter.com/search?q=byls) | N/A |
 | 39 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 40 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 41 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
-| 42 | [Tính](http://twitter.com/search?q=T%c3%adnh) | N/A |
+| 42 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
 | 43 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
 | 44 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
 | 45 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 46 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 47 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
-| 48 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 49 | [Chết](http://twitter.com/search?q=Ch%e1%ba%bft) | N/A |
+| 46 | [HO CHI MINH CITY](http://twitter.com/search?q=HO+CHI+MINH+CITY) | N/A |
+| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 48 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
 
 
 

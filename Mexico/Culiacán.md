@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-05 20:16:19 UTC`
+📆 Last Updated: `2023-03-05 21:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ALDO](http://twitter.com/search?q=ALDO) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 1 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 2 | [ALDO](http://twitter.com/search?q=ALDO) | N/A |
+| 3 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
 | 4 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 5 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 6 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 7 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 8 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
-| 11 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [#ParamountPlus](http://twitter.com/search?q=%23ParamountPlus) | N/A |
-| 15 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 16 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 17 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 18 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 19 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 20 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 21 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 22 | [ManU](http://twitter.com/search?q=ManU) | N/A |
-| 23 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 25 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 26 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 27 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 28 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
-| 29 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 30 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
-| 31 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 32 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 5 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 6 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 9 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 10 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 11 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
+| 12 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
+| 13 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 14 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 15 | [#MujeresHaciendoHistoria](http://twitter.com/search?q=%23MujeresHaciendoHistoria) | N/A |
+| 16 | [FELICIDADES REY](http://twitter.com/search?q=FELICIDADES+REY) | N/A |
+| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 18 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 19 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 20 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 21 | [#ParamountPlus](http://twitter.com/search?q=%23ParamountPlus) | N/A |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [Diste](http://twitter.com/search?q=Diste) | N/A |
+| 24 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 25 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 28 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 29 | [SLIME](http://twitter.com/search?q=SLIME) | N/A |
+| 30 | [Ángel Robles](http://twitter.com/search?q=%c3%81ngel+Robles) | N/A |
+| 31 | [La Franja](http://twitter.com/search?q=La+Franja) | N/A |
+| 32 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
 | 33 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 34 | [Héctor Ramírez](http://twitter.com/search?q=H%c3%a9ctor+Ram%c3%adrez) | N/A |
-| 35 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 39 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 40 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 42 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 43 | [Lele](http://twitter.com/search?q=Lele) | N/A |
-| 44 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 45 | [Rodezel](http://twitter.com/search?q=Rodezel) | N/A |
-| 46 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
-| 47 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 48 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 49 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 34 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
+| 35 | [Mancuello](http://twitter.com/search?q=Mancuello) | N/A |
+| 36 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 37 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 38 | [Llegaste](http://twitter.com/search?q=Llegaste) | N/A |
+| 39 | [Lele](http://twitter.com/search?q=Lele) | N/A |
+| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 41 | [Héctor Ramírez](http://twitter.com/search?q=H%c3%a9ctor+Ram%c3%adrez) | N/A |
+| 42 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 43 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 44 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
+| 45 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 46 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 47 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 48 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 49 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-05 20:16:26 UTC`
+📆 Last Updated: `2023-03-05 21:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 2 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
 | 3 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 4 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
-| 5 | [#ApelDoTVP](http://twitter.com/search?q=%23ApelDoTVP) | N/A |
-| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 9 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 10 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 11 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
-| 12 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 13 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 14 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 15 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 18 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 19 | [Valencii](http://twitter.com/search?q=Valencii) | N/A |
-| 20 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 24 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 25 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 26 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 27 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 28 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 30 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 31 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 32 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 33 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 34 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [#ApelDoTVP](http://twitter.com/search?q=%23ApelDoTVP) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 9 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 12 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 13 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 14 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 15 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
+| 16 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 17 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 18 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 19 | [Motorze](http://twitter.com/search?q=Motorze) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Valencii](http://twitter.com/search?q=Valencii) | N/A |
+| 22 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 23 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 24 | [Realem](http://twitter.com/search?q=Realem) | N/A |
+| 25 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 26 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 30 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 33 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 34 | [Martineza](http://twitter.com/search?q=Martineza) | N/A |
 | 35 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 36 | [Martineza](http://twitter.com/search?q=Martineza) | N/A |
-| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 38 | [Piotr Lisek](http://twitter.com/search?q=Piotr+Lisek) | N/A |
-| 39 | [Tropem Wilczym](http://twitter.com/search?q=Tropem+Wilczym) | N/A |
-| 40 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 36 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 37 | [Tropem Wilczym](http://twitter.com/search?q=Tropem+Wilczym) | N/A |
+| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 40 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
 | 41 | [Lyczmański](http://twitter.com/search?q=Lyczma%c5%84ski) | N/A |
-| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
+| 42 | [Dalota](http://twitter.com/search?q=Dalota) | N/A |
+| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 44 | [RODADO](http://twitter.com/search?q=RODADO) | N/A |
 | 45 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 46 | [Skra](http://twitter.com/search?q=Skra) | N/A |
-| 47 | [The Reds](http://twitter.com/search?q=The+Reds) | N/A |
+| 46 | [Piotr Lisek](http://twitter.com/search?q=Piotr+Lisek) | N/A |
+| 47 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
 | 48 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
 | 49 | [Leclerca](http://twitter.com/search?q=Leclerca) | N/A |
-| 50 | [Kessiego](http://twitter.com/search?q=Kessiego) | N/A |
+| 50 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
 
 
 
