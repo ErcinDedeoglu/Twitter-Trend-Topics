@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-05 10:16:37 UTC`
+📆 Last Updated: `2023-03-05 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BINIFeelGoodMallShow](http://twitter.com/search?q=%23BINIFeelGoodMallShow) | N/A |
-| 2 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 2 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
 | 3 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
-| 4 | [#SteadfastDLSU](http://twitter.com/search?q=%23SteadfastDLSU) | N/A |
-| 5 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 6 | [#BGYO_BeUs2ndAnnivMallTour](http://twitter.com/search?q=%23BGYO_BeUs2ndAnnivMallTour) | N/A |
-| 7 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
-| 8 | [BarbieForteza HappyToGetHer](http://twitter.com/search?q=BarbieForteza+HappyToGetHer) | N/A |
-| 9 | [DASMAke SOME NOISE FOR HORI7ON](http://twitter.com/search?q=DASMAke+SOME+NOISE+FOR+HORI7ON) | N/A |
-| 10 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
-| 11 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 12 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 13 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 14 | [Miner](http://twitter.com/search?q=Miner) | N/A |
-| 15 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 16 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 17 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 18 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 19 | [Sulit](http://twitter.com/search?q=Sulit) | N/A |
-| 20 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
-| 21 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 22 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 23 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
-| 24 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 25 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
-| 26 | [Thea](http://twitter.com/search?q=Thea) | N/A |
-| 27 | [KYCINE inCINEMA1](http://twitter.com/search?q=KYCINE+inCINEMA1) | N/A |
-| 28 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 29 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
-| 30 | [One Big Fight](http://twitter.com/search?q=One+Big+Fight) | N/A |
-| 31 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
-| 32 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
-| 33 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 34 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 35 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 36 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
-| 37 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 38 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 39 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 40 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 41 | [#BGYOatTheDistrictMall](http://twitter.com/search?q=%23BGYOatTheDistrictMall) | N/A |
-| 42 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
-| 43 | [#HappyToGetHerBarbie](http://twitter.com/search?q=%23HappyToGetHerBarbie) | N/A |
-| 44 | [#24OrasAngSagotNiDavid](http://twitter.com/search?q=%2324OrasAngSagotNiDavid) | N/A |
-| 45 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
-| 46 | [#THEBOYZ21stWin](http://twitter.com/search?q=%23THEBOYZ21stWin) | N/A |
-| 47 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 4 | [#BGYOatTheDistrictMall](http://twitter.com/search?q=%23BGYOatTheDistrictMall) | N/A |
+| 5 | [#BGYO_BeUs2ndAnnivMallTour](http://twitter.com/search?q=%23BGYO_BeUs2ndAnnivMallTour) | N/A |
+| 6 | [BarbieForteza HappyToGetHer](http://twitter.com/search?q=BarbieForteza+HappyToGetHer) | N/A |
+| 7 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 8 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 9 | [dasmake some noise for hori7on](http://twitter.com/search?q=dasmake+some+noise+for+hori7on) | N/A |
+| 10 | [VIVOREE MATAPANG SA CIRCUIT](http://twitter.com/search?q=VIVOREE+MATAPANG+SA+CIRCUIT) | N/A |
+| 11 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 12 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 13 | [Faith Nisperos](http://twitter.com/search?q=Faith+Nisperos) | N/A |
+| 14 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 15 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 16 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
+| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Sulit](http://twitter.com/search?q=Sulit) | N/A |
+| 19 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 20 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 21 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 22 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
+| 23 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
+| 24 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 25 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 26 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 27 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 28 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 29 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
+| 30 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 31 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 32 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 33 | [#HappyToGetHerBarbie](http://twitter.com/search?q=%23HappyToGetHerBarbie) | N/A |
+| 34 | [#24OrasAngSagotNiDavid](http://twitter.com/search?q=%2324OrasAngSagotNiDavid) | N/A |
+| 35 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
+| 36 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
+| 37 | [#SteadfastDLSU](http://twitter.com/search?q=%23SteadfastDLSU) | N/A |
+| 38 | [#THEBOYZ21stWin](http://twitter.com/search?q=%23THEBOYZ21stWin) | N/A |
+| 39 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 40 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 41 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 42 | [#DeoprocePHxSongKang](http://twitter.com/search?q=%23DeoprocePHxSongKang) | N/A |
+| 43 | [#ONEW_NOTE_BeyondLIVE](http://twitter.com/search?q=%23ONEW_NOTE_BeyondLIVE) | N/A |
+| 44 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
+| 45 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 46 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
+| 47 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
 
 
 

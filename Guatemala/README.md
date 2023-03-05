@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-05 10:17:00 UTC`
+📆 Last Updated: `2023-03-05 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Guatemala
 | 15 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 16 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
 | 17 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 18 | [manuel baldizón](http://twitter.com/search?q=manuel+baldiz%c3%b3n) | N/A |
-| 19 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 20 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 21 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 22 | [makuka](http://twitter.com/search?q=makuka) | N/A |
-| 23 | [rotondi](http://twitter.com/search?q=rotondi) | N/A |
-| 24 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
-| 25 | [Rojos](http://twitter.com/search?q=Rojos) | N/A |
-| 26 | [el registro de ciudadanos](http://twitter.com/search?q=el+registro+de+ciudadanos) | N/A |
-| 27 | [jorlian sánchez](http://twitter.com/search?q=jorlian+s%c3%a1nchez) | N/A |
-| 28 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
-| 29 | [fracchia](http://twitter.com/search?q=fracchia) | N/A |
-| 30 | [milciades](http://twitter.com/search?q=milciades) | N/A |
-| 31 | [#GUATEVOTA2023](http://twitter.com/search?q=%23GUATEVOTA2023) | N/A |
-| 32 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
-| 33 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 34 | [altan](http://twitter.com/search?q=altan) | N/A |
-| 35 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
-| 36 | [manuel felipe carrera](http://twitter.com/search?q=manuel+felipe+carrera) | N/A |
-| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [Lele](http://twitter.com/search?q=Lele) | N/A |
-| 41 | [retalhuleu](http://twitter.com/search?q=retalhuleu) | N/A |
-| 42 | [fredy pérez](http://twitter.com/search?q=fredy+p%c3%a9rez) | N/A |
-| 43 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 44 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 45 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 46 | [aparicio](http://twitter.com/search?q=aparicio) | N/A |
-| 47 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
-| 48 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 49 | [parlacen](http://twitter.com/search?q=parlacen) | N/A |
-| 50 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 18 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 19 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 20 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 21 | [makuka](http://twitter.com/search?q=makuka) | N/A |
+| 22 | [rotondi](http://twitter.com/search?q=rotondi) | N/A |
+| 23 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
+| 24 | [el registro de ciudadanos](http://twitter.com/search?q=el+registro+de+ciudadanos) | N/A |
+| 25 | [jorlian sánchez](http://twitter.com/search?q=jorlian+s%c3%a1nchez) | N/A |
+| 26 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
+| 27 | [fracchia](http://twitter.com/search?q=fracchia) | N/A |
+| 28 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
+| 29 | [milciades](http://twitter.com/search?q=milciades) | N/A |
+| 30 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
+| 31 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 32 | [Altan](http://twitter.com/search?q=Altan) | N/A |
+| 33 | [#vamosrojos](http://twitter.com/search?q=%23vamosrojos) | N/A |
+| 34 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
+| 35 | [manuel felipe carrera](http://twitter.com/search?q=manuel+felipe+carrera) | N/A |
+| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 37 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Lele](http://twitter.com/search?q=Lele) | N/A |
+| 40 | [retalhuleu](http://twitter.com/search?q=retalhuleu) | N/A |
+| 41 | [fredy pérez](http://twitter.com/search?q=fredy+p%c3%a9rez) | N/A |
+| 42 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 43 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 44 | [aparicio](http://twitter.com/search?q=aparicio) | N/A |
+| 45 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
+| 46 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
+| 47 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 48 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 49 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

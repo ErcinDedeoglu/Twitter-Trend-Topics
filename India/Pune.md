@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-05 10:16:47 UTC`
+📆 Last Updated: `2023-03-05 11:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
-| 2 | [#NotFair](http://twitter.com/search?q=%23NotFair) | N/A |
-| 3 | [#ShivrajKiLadliBehna](http://twitter.com/search?q=%23ShivrajKiLadliBehna) | N/A |
-| 4 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 5 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 6 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
-| 7 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 1 | [#RanbirKapoor](http://twitter.com/search?q=%23RanbirKapoor) | N/A |
+| 2 | [#Holi2023](http://twitter.com/search?q=%23Holi2023) | N/A |
+| 3 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
+| 4 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 5 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 6 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 7 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
 | 8 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 9 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 10 | [Hindu Rashtra Is Must](http://twitter.com/search?q=Hindu+Rashtra+Is+Must) | N/A |
-| 11 | [INSPIRING ICON SUMBUL](http://twitter.com/search?q=INSPIRING+ICON+SUMBUL) | N/A |
-| 12 | [American Airlines](http://twitter.com/search?q=American+Airlines) | N/A |
-| 13 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
-| 14 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 15 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
-| 16 | [The 10](http://twitter.com/search?q=The+10) | N/A |
-| 17 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 18 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
-| 19 | [Biju Patnaik](http://twitter.com/search?q=Biju+Patnaik) | N/A |
-| 20 | [Biju Babu](http://twitter.com/search?q=Biju+Babu) | N/A |
-| 21 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 22 | [Manusmriti](http://twitter.com/search?q=Manusmriti) | N/A |
-| 23 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 24 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
-| 25 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 26 | [प्रभु श्रीराम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 27 | [Mahila Utthan Mandal](http://twitter.com/search?q=Mahila+Utthan+Mandal) | N/A |
-| 28 | [Nari Tu Narayani](http://twitter.com/search?q=Nari+Tu+Narayani) | N/A |
-| 29 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 30 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 9 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 10 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 12 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 13 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 14 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
+| 15 | [INSPIRING ICON SUMBUL](http://twitter.com/search?q=INSPIRING+ICON+SUMBUL) | N/A |
+| 16 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 17 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
+| 18 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
+| 19 | [American Airlines](http://twitter.com/search?q=American+Airlines) | N/A |
+| 20 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
+| 21 | [The 10](http://twitter.com/search?q=The+10) | N/A |
+| 22 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 23 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 24 | [Biju Babu](http://twitter.com/search?q=Biju+Babu) | N/A |
+| 25 | [Hindu Rashtra Is Must](http://twitter.com/search?q=Hindu+Rashtra+Is+Must) | N/A |
+| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 27 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
+| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 29 | [प्रभु श्रीराम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 30 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
 | 31 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 32 | [Milords](http://twitter.com/search?q=Milords) | N/A |
-| 33 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 34 | [#AmritpalMisleadingPunjab](http://twitter.com/search?q=%23AmritpalMisleadingPunjab) | N/A |
-| 35 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
-| 36 | [#CGBudgetTomorrow](http://twitter.com/search?q=%23CGBudgetTomorrow) | N/A |
-| 37 | [#ABAIndiaConf](http://twitter.com/search?q=%23ABAIndiaConf) | N/A |
-| 38 | [#HoliwithRakeshYadav](http://twitter.com/search?q=%23HoliwithRakeshYadav) | N/A |
-| 39 | [#Amazon5GStoreGrandOpening](http://twitter.com/search?q=%23Amazon5GStoreGrandOpening) | N/A |
-| 40 | [#BholaaTrailerOutTomorrow](http://twitter.com/search?q=%23BholaaTrailerOutTomorrow) | N/A |
-| 41 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
-| 42 | [#DakotaComesHome](http://twitter.com/search?q=%23DakotaComesHome) | N/A |
+| 33 | [#ReelTokenIndia](http://twitter.com/search?q=%23ReelTokenIndia) | N/A |
+| 34 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
+| 35 | [#AmritpalMisleadingPunjab](http://twitter.com/search?q=%23AmritpalMisleadingPunjab) | N/A |
+| 36 | [#NotFair](http://twitter.com/search?q=%23NotFair) | N/A |
+| 37 | [#KabzaaMovieTrailerReleased](http://twitter.com/search?q=%23KabzaaMovieTrailerReleased) | N/A |
+| 38 | [#ShivrajKiLadliBehna](http://twitter.com/search?q=%23ShivrajKiLadliBehna) | N/A |
+| 39 | [#CGBudgetTomorrow](http://twitter.com/search?q=%23CGBudgetTomorrow) | N/A |
+| 40 | [#ABAIndiaConf](http://twitter.com/search?q=%23ABAIndiaConf) | N/A |
+| 41 | [#HoliwithRakeshYadav](http://twitter.com/search?q=%23HoliwithRakeshYadav) | N/A |
+| 42 | [#Amazon5GStoreGrandOpening](http://twitter.com/search?q=%23Amazon5GStoreGrandOpening) | N/A |
 | 43 | [#LadliBehnaYojanaMP](http://twitter.com/search?q=%23LadliBehnaYojanaMP) | N/A |
-| 44 | [#AshianaSeniorLiving](http://twitter.com/search?q=%23AshianaSeniorLiving) | N/A |
+| 44 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
 | 45 | [#Aptech](http://twitter.com/search?q=%23Aptech) | N/A |
-| 46 | [#PurneaAirport](http://twitter.com/search?q=%23PurneaAirport) | N/A |
+| 46 | [#DakotaComesHome](http://twitter.com/search?q=%23DakotaComesHome) | N/A |
 | 47 | [#JKSSB](http://twitter.com/search?q=%23JKSSB) | N/A |
 
 

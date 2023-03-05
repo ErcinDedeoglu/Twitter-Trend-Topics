@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-05 10:16:52 UTC`
+📆 Last Updated: `2023-03-05 11:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
 | 3 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 4 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
-| 5 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 6 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 10 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 11 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 12 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 13 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 14 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 15 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 16 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 17 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 18 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 19 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 20 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 21 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 22 | [Khalil Shabazz](http://twitter.com/search?q=Khalil+Shabazz) | N/A |
-| 23 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 24 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 25 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 26 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 27 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 28 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 29 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 30 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 31 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 32 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 33 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 34 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 35 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 36 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 37 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
-| 38 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 39 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 40 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 41 | [kush](http://twitter.com/search?q=kush) | N/A |
-| 42 | [Pavlovich](http://twitter.com/search?q=Pavlovich) | N/A |
-| 43 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 44 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 45 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 46 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 47 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 48 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 49 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
-| 50 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 7 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 10 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 11 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 12 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 13 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 16 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 17 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 18 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 19 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 20 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 21 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 22 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 23 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 25 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 26 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 27 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 28 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 29 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 32 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 33 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 34 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 35 | [Greatest Of All Time](http://twitter.com/search?q=Greatest+Of+All+Time) | N/A |
+| 36 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 37 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 38 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 39 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 40 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 41 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 42 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 43 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 44 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 45 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 46 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 47 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 48 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 49 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 50 | [Conor](http://twitter.com/search?q=Conor) | N/A |
 
 
 

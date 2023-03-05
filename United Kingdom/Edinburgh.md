@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-05 10:16:12 UTC`
+📆 Last Updated: `2023-03-05 11:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 2 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
-| 3 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 4 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [#stpiransday](http://twitter.com/search?q=%23stpiransday) | N/A |
-| 9 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
-| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 11 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 2 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 3 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 4 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [#stpiransday](http://twitter.com/search?q=%23stpiransday) | N/A |
+| 7 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 10 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
+| 11 | [England C](http://twitter.com/search?q=England+C) | N/A |
 | 12 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 13 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 13 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
 | 14 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 15 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
-| 16 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 17 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 18 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 19 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 21 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 22 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 23 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 25 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 16 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
+| 17 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 18 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
+| 19 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 21 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 22 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 23 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 24 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 26 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 27 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
 | 28 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 29 | [Sage](http://twitter.com/search?q=Sage) | N/A |
-| 30 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 31 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 32 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 33 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 34 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 35 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 36 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 37 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
-| 38 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 39 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
-| 40 | [David Moyes](http://twitter.com/search?q=David+Moyes) | N/A |
-| 41 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 42 | [#ASongOrMovieForWinning](http://twitter.com/search?q=%23ASongOrMovieForWinning) | N/A |
-| 43 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 44 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 45 | [#bbcbh](http://twitter.com/search?q=%23bbcbh) | N/A |
-| 46 | [#laurakuenssberg](http://twitter.com/search?q=%23laurakuenssberg) | N/A |
-| 47 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 48 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 49 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 29 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 30 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 31 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 32 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 33 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 34 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 35 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 36 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 37 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 38 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 39 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 40 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 41 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 42 | [gray](http://twitter.com/search?q=gray) | N/A |
+| 43 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 44 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
+| 45 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 46 | [Dennis Taylor](http://twitter.com/search?q=Dennis+Taylor) | N/A |
+| 47 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 48 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 49 | [Eat Out to Help Out](http://twitter.com/search?q=Eat+Out+to+Help+Out) | N/A |
 
 
 

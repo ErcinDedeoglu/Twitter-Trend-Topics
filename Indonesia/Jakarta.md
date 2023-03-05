@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-05 10:16:30 UTC`
+📆 Last Updated: `2023-03-05 11:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
-| 2 | [#MomennyaHeineken](http://twitter.com/search?q=%23MomennyaHeineken) | N/A |
-| 3 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 4 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
+| 2 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 3 | [#MomennyaHeineken](http://twitter.com/search?q=%23MomennyaHeineken) | N/A |
+| 4 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
 | 5 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 8 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 9 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 13 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 14 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 15 | [So Long](http://twitter.com/search?q=So+Long) | N/A |
-| 16 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
-| 17 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 18 | [KOTW](http://twitter.com/search?q=KOTW) | N/A |
-| 19 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 21 | [Anies](http://twitter.com/search?q=Anies) | N/A |
-| 22 | [Flying High](http://twitter.com/search?q=Flying+High) | N/A |
-| 23 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
-| 24 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 25 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 26 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
-| 27 | [syariah peraturan hidup](http://twitter.com/search?q=syariah+peraturan+hidup) | N/A |
-| 28 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 29 | [berlomba dalam kebaikan](http://twitter.com/search?q=berlomba+dalam+kebaikan) | N/A |
-| 30 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
-| 31 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 32 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 33 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 34 | [Kamarku](http://twitter.com/search?q=Kamarku) | N/A |
-| 35 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 36 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
-| 37 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 38 | [Hyein](http://twitter.com/search?q=Hyein) | N/A |
-| 39 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
-| 40 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 41 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 43 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 44 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 45 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 46 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 47 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 48 | [WAITING FOR US](http://twitter.com/search?q=WAITING+FOR+US) | N/A |
+| 7 | [oishi x gulf](http://twitter.com/search?q=oishi+x+gulf) | N/A |
+| 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 9 | [Beras](http://twitter.com/search?q=Beras) | N/A |
+| 10 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 11 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
+| 12 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 13 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 14 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 15 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 16 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 17 | [Kunyit](http://twitter.com/search?q=Kunyit) | N/A |
+| 18 | [Kunir](http://twitter.com/search?q=Kunir) | N/A |
+| 19 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 20 | [Sukinanda](http://twitter.com/search?q=Sukinanda) | N/A |
+| 21 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 22 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 23 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
+| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 25 | [Best Visual](http://twitter.com/search?q=Best+Visual) | N/A |
+| 26 | [Best Rapper](http://twitter.com/search?q=Best+Rapper) | N/A |
+| 27 | [Best Vocal](http://twitter.com/search?q=Best+Vocal) | N/A |
+| 28 | [Best Dancer](http://twitter.com/search?q=Best+Dancer) | N/A |
+| 29 | [Best Variety](http://twitter.com/search?q=Best+Variety) | N/A |
+| 30 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 31 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 32 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
+| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [Anies](http://twitter.com/search?q=Anies) | N/A |
+| 35 | [So Long](http://twitter.com/search?q=So+Long) | N/A |
+| 36 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 37 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 38 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 39 | [KOTW](http://twitter.com/search?q=KOTW) | N/A |
+| 40 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 41 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 42 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
+| 43 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
+| 44 | [syariah peraturan hidup](http://twitter.com/search?q=syariah+peraturan+hidup) | N/A |
+| 45 | [selamat datang 7dream](http://twitter.com/search?q=selamat+datang+7dream) | N/A |
+| 46 | [berlomba dalam kebaikan](http://twitter.com/search?q=berlomba+dalam+kebaikan) | N/A |
+| 47 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 48 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
 
 
 
