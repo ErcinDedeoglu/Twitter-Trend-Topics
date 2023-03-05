@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-05 22:16:35 UTC`
+📆 Last Updated: `2023-03-05 23:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | N/A |
 | 2 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
 | 3 | [Upīša](http://twitter.com/search?q=Up%c4%ab%c5%a1a) | N/A |
-| 4 | [Upīti](http://twitter.com/search?q=Up%c4%abti) | N/A |
+| 4 | [upīti](http://twitter.com/search?q=up%c4%abti) | N/A |
 | 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 6 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 8 | [sakses](http://twitter.com/search?q=sakses) | N/A |
-| 9 | [Staļina](http://twitter.com/search?q=Sta%c4%bcina) | N/A |
+| 9 | [staļina](http://twitter.com/search?q=sta%c4%bcina) | N/A |
 | 10 | [Tomēr](http://twitter.com/search?q=Tom%c4%93r) | N/A |
 | 11 | [Rainis](http://twitter.com/search?q=Rainis) | N/A |
 | 12 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
@@ -35,22 +35,22 @@ This is top 50 for [Latvia](</Latvia>)
 | 18 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
 | 19 | [Maskavu](http://twitter.com/search?q=Maskavu) | N/A |
 | 20 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 21 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 21 | [tevis](http://twitter.com/search?q=tevis) | N/A |
 | 22 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 23 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 24 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
 | 25 | [Ulmanis](http://twitter.com/search?q=Ulmanis) | N/A |
 | 26 | [Pieminekļu](http://twitter.com/search?q=Pieminek%c4%bcu) | N/A |
-| 27 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
+| 27 | [cerams](http://twitter.com/search?q=cerams) | N/A |
 | 28 | [Sūnu](http://twitter.com/search?q=S%c5%abnu) | N/A |
 | 29 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
 | 30 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
 | 31 | [ziedoni](http://twitter.com/search?q=ziedoni) | N/A |
-| 32 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 32 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 33 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
 | 34 | [joprojām](http://twitter.com/search?q=joproj%c4%81m) | N/A |
-| 35 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
-| 36 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 35 | [Visiem](http://twitter.com/search?q=Visiem) | N/A |
+| 36 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | N/A |
 | 37 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 38 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 39 | [Ļeņina](http://twitter.com/search?q=%c4%bbe%c5%86ina) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 43 | [Acīmredzot](http://twitter.com/search?q=Ac%c4%abmredzot) | N/A |
 | 44 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 45 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | N/A |
-| 46 | [Progresīvie](http://twitter.com/search?q=Progres%c4%abvie) | N/A |
+| 46 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | N/A |
 | 47 | [Depo](http://twitter.com/search?q=Depo) | N/A |
-| 48 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 48 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 49 | [Azov](http://twitter.com/search?q=Azov) | N/A |
 | 50 | [Tādā](http://twitter.com/search?q=T%c4%81d%c4%81) | N/A |
 

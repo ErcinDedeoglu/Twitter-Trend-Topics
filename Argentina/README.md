@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-05 22:17:04 UTC`
+📆 Last Updated: `2023-03-05 23:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 3 | [#LaPrevia](http://twitter.com/search?q=%23LaPrevia) | N/A |
-| 4 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 5 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 6 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 7 | [Ostachuk](http://twitter.com/search?q=Ostachuk) | N/A |
-| 8 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 9 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
-| 10 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 11 | [Albertengo](http://twitter.com/search?q=Albertengo) | N/A |
-| 12 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 13 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
-| 14 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
-| 15 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 16 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 17 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 18 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 19 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 20 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 21 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
-| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 25 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 26 | [Betra](http://twitter.com/search?q=Betra) | N/A |
-| 27 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 28 | [Grosjean](http://twitter.com/search?q=Grosjean) | N/A |
-| 29 | [#INDYCAR](http://twitter.com/search?q=%23INDYCAR) | N/A |
-| 30 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 31 | [#JULIETA9009](http://twitter.com/search?q=%23JULIETA9009) | N/A |
-| 32 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 33 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 34 | [Ducó](http://twitter.com/search?q=Duc%c3%b3) | N/A |
-| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 36 | [Canapino](http://twitter.com/search?q=Canapino) | N/A |
-| 37 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 38 | [Villagra](http://twitter.com/search?q=Villagra) | N/A |
-| 39 | [Frances](http://twitter.com/search?q=Frances) | N/A |
-| 40 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 43 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 44 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 45 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 46 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
-| 47 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 50 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 1 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
+| 2 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
+| 3 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
+| 4 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 5 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 6 | [Rafa Perez](http://twitter.com/search?q=Rafa+Perez) | N/A |
+| 7 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 8 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 11 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 12 | [#LaPrevia](http://twitter.com/search?q=%23LaPrevia) | N/A |
+| 13 | [Jalil Elías](http://twitter.com/search?q=Jalil+El%c3%adas) | N/A |
+| 14 | [Ostachuk](http://twitter.com/search?q=Ostachuk) | N/A |
+| 15 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
+| 16 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 17 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 18 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
+| 19 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 20 | [Albertengo](http://twitter.com/search?q=Albertengo) | N/A |
+| 21 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 22 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 23 | [Hidalgo](http://twitter.com/search?q=Hidalgo) | N/A |
+| 24 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 25 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 26 | [Linares](http://twitter.com/search?q=Linares) | Linares is a city in the province of Jaén, in the autonomous community of Andalusia, Spain. It is known as the "City of Chess" due to its long-standing chess tournament, which has been held there since 1978. The name Linares comes from the Latin word linares, meaning "flax fields". |
+| 27 | [Lodico](http://twitter.com/search?q=Lodico) | N/A |
+| 28 | [#JULIETA9009](http://twitter.com/search?q=%23JULIETA9009) | N/A |
+| 29 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 30 | [Ducó](http://twitter.com/search?q=Duc%c3%b3) | N/A |
+| 31 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 32 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 33 | [Cerato](http://twitter.com/search?q=Cerato) | N/A |
+| 34 | [Rodrigo Rey](http://twitter.com/search?q=Rodrigo+Rey) | N/A |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 37 | [ALDO](http://twitter.com/search?q=ALDO) | N/A |
+| 38 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 39 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 40 | [#SquidCraft2](http://twitter.com/search?q=%23SquidCraft2) | N/A |
+| 41 | [Vamos Ciclón](http://twitter.com/search?q=Vamos+Cicl%c3%b3n) | N/A |
+| 42 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 43 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 44 | [CADU](http://twitter.com/search?q=CADU) | N/A |
+| 45 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 46 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 47 | [Trelew](http://twitter.com/search?q=Trelew) | N/A |
+| 48 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 49 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 50 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 
 
 

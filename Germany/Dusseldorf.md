@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-05 22:16:31 UTC`
+📆 Last Updated: `2023-03-05 23:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 6 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 7 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 9 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 10 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
 | 12 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
 | 13 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 14 | [Münster](http://twitter.com/search?q=M%c3%bcnster) | N/A |
-| 15 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 16 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 17 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 18 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Boerne](http://twitter.com/search?q=Boerne) | N/A |
-| 21 | [Svenrik](http://twitter.com/search?q=Svenrik) | N/A |
-| 22 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 23 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 24 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 25 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 26 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 28 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 29 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 30 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 31 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 32 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 33 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 34 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 35 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 38 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 40 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 41 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 42 | [Herr Gysi](http://twitter.com/search?q=Herr+Gysi) | N/A |
-| 43 | [Klamauk](http://twitter.com/search?q=Klamauk) | N/A |
-| 44 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
-| 45 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 46 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 47 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 49 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
+| 14 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 15 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 16 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 17 | [Svenrik](http://twitter.com/search?q=Svenrik) | N/A |
+| 18 | [Münster](http://twitter.com/search?q=M%c3%bcnster) | N/A |
+| 19 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 20 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 22 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Boerne](http://twitter.com/search?q=Boerne) | N/A |
+| 25 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 26 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 27 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 29 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 32 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 33 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 34 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 35 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 36 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 39 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 41 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 44 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 45 | [Klamauk](http://twitter.com/search?q=Klamauk) | N/A |
+| 46 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
+| 47 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 48 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 49 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
 
 
 
