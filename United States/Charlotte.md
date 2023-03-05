@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-05 06:17:15 UTC`
+📆 Last Updated: `2023-03-05 07:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 2 | [#OnPatrolLive](http://twitter.com/search?q=%23OnPatrolLive) | N/A |
-| 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 4 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 5 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 6 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 7 | [#ForTheCrown](http://twitter.com/search?q=%23ForTheCrown) | N/A |
-| 8 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 9 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 10 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 11 | [Heels](http://twitter.com/search?q=Heels) | N/A |
-| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 13 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 14 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 15 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 16 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 17 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 18 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 20 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 21 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 22 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 23 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 24 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 25 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 26 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 27 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 28 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 30 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 31 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 32 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 33 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 34 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 35 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 36 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 37 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 38 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 39 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 1 | [#ForTheCrown](http://twitter.com/search?q=%23ForTheCrown) | N/A |
+| 2 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 3 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 4 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 5 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 6 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 10 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 11 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 12 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 13 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 14 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 16 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 17 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 19 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 20 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 22 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 23 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 24 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 25 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 26 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 28 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 29 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 30 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 31 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 32 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 33 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 34 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 35 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 36 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 37 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 38 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 39 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
 | 40 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 41 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 42 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 43 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 44 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 45 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 46 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 47 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 48 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 49 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
-| 50 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 41 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 42 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
+| 43 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 44 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 45 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 46 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 47 | [#RollingLoud2023](http://twitter.com/search?q=%23RollingLoud2023) | N/A |
+| 48 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 49 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
+| 50 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-05 06:17:27 UTC`
+📆 Last Updated: `2023-03-05 07:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for France
 | 3 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
 | 4 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
 | 5 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 6 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 7 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 8 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
-| 9 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 10 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 11 | [30sec](http://twitter.com/search?q=30sec) | N/A |
-| 12 | [2min](http://twitter.com/search?q=2min) | N/A |
+| 6 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
+| 7 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 8 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 9 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
+| 10 | [30sec](http://twitter.com/search?q=30sec) | N/A |
+| 11 | [2min](http://twitter.com/search?q=2min) | N/A |
+| 12 | [Daghestan](http://twitter.com/search?q=Daghestan) | N/A |
 | 13 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 14 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 15 | [Clim](http://twitter.com/search?q=Clim) | N/A |
-| 16 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 17 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 18 | [TOUT ÇA POUR ÇA](http://twitter.com/search?q=TOUT+%c3%87A+POUR+%c3%87A) | N/A |
-| 19 | [DU ZOO](http://twitter.com/search?q=DU+ZOO) | N/A |
-| 20 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 21 | [C'EST L'HEURE](http://twitter.com/search?q=C%27EST+L%27HEURE) | N/A |
-| 22 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
-| 23 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 24 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 25 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 26 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 27 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 28 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 29 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 30 | [1min](http://twitter.com/search?q=1min) | N/A |
-| 31 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
-| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 33 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 34 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 14 | [Clim](http://twitter.com/search?q=Clim) | N/A |
+| 15 | [TOUT ÇA POUR ÇA](http://twitter.com/search?q=TOUT+%c3%87A+POUR+%c3%87A) | N/A |
+| 16 | [DU ZOO](http://twitter.com/search?q=DU+ZOO) | N/A |
+| 17 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 18 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 19 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 20 | [C'EST L'HEURE](http://twitter.com/search?q=C%27EST+L%27HEURE) | N/A |
+| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 22 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 23 | [MMA Factory](http://twitter.com/search?q=MMA+Factory) | N/A |
+| 24 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 25 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
+| 26 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 27 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 28 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 29 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 30 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 31 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 32 | [1min](http://twitter.com/search?q=1min) | N/A |
+| 33 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
+| 34 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
 | 35 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 36 | [L'entrée](http://twitter.com/search?q=L%27entr%c3%a9e) | N/A |
-| 37 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 38 | [Booba](http://twitter.com/search?q=Booba) | N/A |
-| 39 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
-| 40 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 41 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 36 | [Main Event](http://twitter.com/search?q=Main+Event) | N/A |
+| 37 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 38 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 39 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
+| 40 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
+| 41 | [Booba](http://twitter.com/search?q=Booba) | N/A |
 | 42 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 43 | [5h30](http://twitter.com/search?q=5h30) | N/A |
-| 44 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
+| 43 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 44 | [5h30](http://twitter.com/search?q=5h30) | N/A |
 | 45 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 46 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 47 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
+| 46 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
+| 47 | [Fally](http://twitter.com/search?q=Fally) | N/A |
 | 48 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 49 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 50 | [#MMAGP](http://twitter.com/search?q=%23MMAGP) | N/A |
+| 49 | [#MMAGP](http://twitter.com/search?q=%23MMAGP) | N/A |
+| 50 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
 
 
 

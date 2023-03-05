@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-05 06:16:51 UTC`
+📆 Last Updated: `2023-03-05 07:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
 | 2 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 5 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
 | 6 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
 | 7 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
 | 8 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 9 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 10 | [Kamarku](http://twitter.com/search?q=Kamarku) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
-| 13 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 14 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 15 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 16 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 17 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
-| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 19 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 20 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 21 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 11 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 12 | [Kamarku](http://twitter.com/search?q=Kamarku) | N/A |
+| 13 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
+| 14 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
+| 15 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
+| 16 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 17 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 18 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 19 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 20 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 21 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
 | 22 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 23 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 24 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 25 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
-| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 27 | [Anies](http://twitter.com/search?q=Anies) | N/A |
-| 28 | [syariah peraturan hidup](http://twitter.com/search?q=syariah+peraturan+hidup) | N/A |
-| 29 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
-| 30 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 31 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
-| 32 | [berlomba dalam kebaikan](http://twitter.com/search?q=berlomba+dalam+kebaikan) | N/A |
-| 33 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 34 | [Terang](http://twitter.com/search?q=Terang) | N/A |
-| 35 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 36 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
-| 37 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
-| 38 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 39 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 40 | [Saturday Drip](http://twitter.com/search?q=Saturday+Drip) | N/A |
-| 41 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 42 | [Trigger The Fever](http://twitter.com/search?q=Trigger+The+Fever) | N/A |
-| 43 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 44 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 45 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Anies](http://twitter.com/search?q=Anies) | N/A |
+| 24 | [PARK JISUNG](http://twitter.com/search?q=PARK+JISUNG) | N/A |
+| 25 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 26 | [syariah peraturan hidup](http://twitter.com/search?q=syariah+peraturan+hidup) | N/A |
+| 27 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 28 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 29 | [Vitri](http://twitter.com/search?q=Vitri) | N/A |
+| 30 | [SELAMAT DATANG 7DREAM](http://twitter.com/search?q=SELAMAT+DATANG+7DREAM) | N/A |
+| 31 | [berlomba dalam kebaikan](http://twitter.com/search?q=berlomba+dalam+kebaikan) | N/A |
+| 32 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 33 | [INDONESIA SIJEUNI](http://twitter.com/search?q=INDONESIA+SIJEUNI) | N/A |
+| 34 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
+| 35 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 36 | [Terang](http://twitter.com/search?q=Terang) | N/A |
+| 37 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 38 | [Gen 3](http://twitter.com/search?q=Gen+3) | N/A |
+| 39 | [HAHAHA INDONESIA](http://twitter.com/search?q=HAHAHA+INDONESIA) | N/A |
+| 40 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 41 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 42 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 43 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 45 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 
 
 

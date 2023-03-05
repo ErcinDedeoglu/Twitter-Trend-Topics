@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-05 06:16:33 UTC`
+📆 Last Updated: `2023-03-05 07:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 2 | [#1MillonDeAmigosConAbel](http://twitter.com/search?q=%231MillonDeAmigosConAbel) | N/A |
-| 3 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 4 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
-| 5 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 3 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
+| 4 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 5 | [nelson cruz](http://twitter.com/search?q=nelson+cruz) | N/A |
 | 6 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
 | 7 | [Carlos Santana](http://twitter.com/search?q=Carlos+Santana) | N/A |
 | 8 | [#LeonelEnSantiago](http://twitter.com/search?q=%23LeonelEnSantiago) | N/A |
@@ -28,7 +28,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 12 | [yamaico navarro](http://twitter.com/search?q=yamaico+navarro) | N/A |
 | 13 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
-| 14 | [Casals](http://twitter.com/search?q=Casals) | N/A |
+| 14 | [casals](http://twitter.com/search?q=casals) | N/A |
 | 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 16 | [Audi](http://twitter.com/search?q=Audi) | N/A |
 | 17 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
@@ -38,33 +38,33 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
 | 22 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
 | 23 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 24 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
+| 24 | [ramón hernández](http://twitter.com/search?q=ram%c3%b3n+hern%c3%a1ndez) | N/A |
 | 25 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 26 | [María Trinidad Sánchez](http://twitter.com/search?q=Mar%c3%ada+Trinidad+S%c3%a1nchez) | N/A |
+| 26 | [maría trinidad sánchez](http://twitter.com/search?q=mar%c3%ada+trinidad+s%c3%a1nchez) | N/A |
 | 27 | [ENURM](http://twitter.com/search?q=ENURM) | N/A |
 | 28 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
-| 29 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 32 | [Pantalones](http://twitter.com/search?q=Pantalones) | N/A |
-| 33 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
-| 34 | [licey al medio](http://twitter.com/search?q=licey+al+medio) | N/A |
-| 35 | [Faride](http://twitter.com/search?q=Faride) | N/A |
-| 36 | [Autovía del Este](http://twitter.com/search?q=Autov%c3%ada+del+Este) | N/A |
-| 37 | [Espectáculos Públicos](http://twitter.com/search?q=Espect%c3%a1culos+P%c3%bablicos) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [jairo gonzález](http://twitter.com/search?q=jairo+gonz%c3%a1lez) | N/A |
-| 40 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 41 | [caribe express](http://twitter.com/search?q=caribe+express) | N/A |
-| 42 | [omar fernandez](http://twitter.com/search?q=omar+fernandez) | N/A |
-| 43 | [domingo maíz](http://twitter.com/search?q=domingo+ma%c3%adz) | N/A |
-| 44 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 45 | [thelmo](http://twitter.com/search?q=thelmo) | N/A |
-| 46 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 47 | [Invivienda](http://twitter.com/search?q=Invivienda) | N/A |
-| 48 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 49 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
-| 50 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
+| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 30 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 33 | [Pantalones](http://twitter.com/search?q=Pantalones) | N/A |
+| 34 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
+| 35 | [licey al medio](http://twitter.com/search?q=licey+al+medio) | N/A |
+| 36 | [faride](http://twitter.com/search?q=faride) | N/A |
+| 37 | [Autovía del Este](http://twitter.com/search?q=Autov%c3%ada+del+Este) | N/A |
+| 38 | [Espectáculos Públicos](http://twitter.com/search?q=Espect%c3%a1culos+P%c3%bablicos) | N/A |
+| 39 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 41 | [jairo gonzález](http://twitter.com/search?q=jairo+gonz%c3%a1lez) | N/A |
+| 42 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 43 | [caribe express](http://twitter.com/search?q=caribe+express) | N/A |
+| 44 | [omar fernandez](http://twitter.com/search?q=omar+fernandez) | N/A |
+| 45 | [domingo maíz](http://twitter.com/search?q=domingo+ma%c3%adz) | N/A |
+| 46 | [thelmo](http://twitter.com/search?q=thelmo) | N/A |
+| 47 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 48 | [Invivienda](http://twitter.com/search?q=Invivienda) | N/A |
+| 49 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
+| 50 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
 
 
 

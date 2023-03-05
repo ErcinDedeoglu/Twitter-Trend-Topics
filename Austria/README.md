@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-05 06:17:25 UTC`
+📆 Last Updated: `2023-03-05 07:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 3 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 3 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 4 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 5 | [#alustu](http://twitter.com/search?q=%23alustu) | N/A |
-| 6 | [Flieger](http://twitter.com/search?q=Flieger) | N/A |
-| 7 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
-| 8 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 9 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
-| 12 | [#ECR2023](http://twitter.com/search?q=%23ECR2023) | N/A |
-| 13 | [vorarlberg](http://twitter.com/search?q=vorarlberg) | N/A |
-| 14 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 15 | [koalitionspartner](http://twitter.com/search?q=koalitionspartner) | N/A |
-| 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 17 | [altenrhein](http://twitter.com/search?q=altenrhein) | N/A |
-| 18 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 19 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
-| 20 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 21 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 22 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
-| 23 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 24 | [Neid](http://twitter.com/search?q=Neid) | N/A |
-| 25 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 26 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 27 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 28 | [Heuchelei](http://twitter.com/search?q=Heuchelei) | N/A |
-| 29 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 30 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 31 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 32 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 33 | [ausnahmen](http://twitter.com/search?q=ausnahmen) | N/A |
-| 34 | [insekten](http://twitter.com/search?q=insekten) | N/A |
-| 35 | [Leser](http://twitter.com/search?q=Leser) | N/A |
-| 36 | [glashaus](http://twitter.com/search?q=glashaus) | N/A |
-| 37 | [Nachwuchs](http://twitter.com/search?q=Nachwuchs) | N/A |
-| 38 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
-| 39 | [Empfehlung](http://twitter.com/search?q=Empfehlung) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Fahrer](http://twitter.com/search?q=Fahrer) | N/A |
-| 42 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 43 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
-| 44 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 45 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 46 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
-| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 48 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 49 | [Feld](http://twitter.com/search?q=Feld) | N/A |
-| 50 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 6 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 7 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
+| 8 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 9 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 10 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
+| 11 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 12 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
+| 15 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 16 | [#htbwac](http://twitter.com/search?q=%23htbwac) | N/A |
+| 17 | [vorarlberg](http://twitter.com/search?q=vorarlberg) | N/A |
+| 18 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 19 | [Koalitionspartner](http://twitter.com/search?q=Koalitionspartner) | N/A |
+| 20 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 21 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 22 | [Gurken](http://twitter.com/search?q=Gurken) | N/A |
+| 23 | [altenrhein](http://twitter.com/search?q=altenrhein) | N/A |
+| 24 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 25 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
+| 26 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 27 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 28 | [Zugang](http://twitter.com/search?q=Zugang) | N/A |
+| 29 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 30 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
+| 31 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
+| 32 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 33 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 34 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 35 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 36 | [Neid](http://twitter.com/search?q=Neid) | N/A |
+| 37 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 38 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 39 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 40 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
+| 41 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 42 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 43 | [Leser](http://twitter.com/search?q=Leser) | N/A |
+| 44 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
+| 45 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
+| 46 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 47 | [Heuchelei](http://twitter.com/search?q=Heuchelei) | N/A |
+| 48 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 49 | [Empfehlung](http://twitter.com/search?q=Empfehlung) | N/A |
+| 50 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 
 
 

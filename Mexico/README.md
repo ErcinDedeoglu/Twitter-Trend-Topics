@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-05 06:17:29 UTC`
+📆 Last Updated: `2023-03-05 07:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Mexico
 | 2 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
 | 3 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 4 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 5 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 7 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 8 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 6 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 8 | [Layun](http://twitter.com/search?q=Layun) | N/A |
 | 9 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 10 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 11 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
+| 10 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 11 | [Tano](http://twitter.com/search?q=Tano) | N/A |
 | 12 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 13 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 14 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 16 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 17 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 18 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 19 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 20 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 21 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
-| 22 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 23 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 24 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
-| 25 | [Alex de Minaur](http://twitter.com/search?q=Alex+de+Minaur) | N/A |
-| 26 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 27 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 28 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 29 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 30 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 31 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 32 | [Figueroa](http://twitter.com/search?q=Figueroa) | N/A |
-| 33 | [Club Deportivo Guadalajara](http://twitter.com/search?q=Club+Deportivo+Guadalajara) | N/A |
-| 34 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 35 | [#LigaMX](http://twitter.com/search?q=%23LigaMX) | N/A |
-| 36 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 13 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 14 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
+| 15 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 16 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 17 | [Alex de Minaur](http://twitter.com/search?q=Alex+de+Minaur) | N/A |
+| 18 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 19 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 20 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
+| 21 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 22 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 23 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
+| 24 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 25 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 26 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 27 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 28 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 29 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 30 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 31 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 32 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 33 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 34 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 35 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
+| 36 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 37 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 38 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 39 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
-| 40 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 41 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 42 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 43 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 44 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 45 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 46 | [Peter Hook](http://twitter.com/search?q=Peter+Hook) | N/A |
-| 47 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 48 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 49 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 50 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 38 | [Figueroa](http://twitter.com/search?q=Figueroa) | N/A |
+| 39 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 40 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 41 | [Club Deportivo Guadalajara](http://twitter.com/search?q=Club+Deportivo+Guadalajara) | N/A |
+| 42 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 43 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 44 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 45 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 46 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 47 | [Peter Hook](http://twitter.com/search?q=Peter+Hook) | N/A |
+| 48 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 49 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 50 | [Julion](http://twitter.com/search?q=Julion) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-05 06:17:22 UTC`
+📆 Last Updated: `2023-03-05 07:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
 | 2 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
-| 3 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 3 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 4 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 5 | [#OnPatrolLive](http://twitter.com/search?q=%23OnPatrolLive) | N/A |
-| 6 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 7 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 8 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 9 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 5 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 6 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 7 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 8 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 9 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
 | 10 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 11 | [Frisco](http://twitter.com/search?q=Frisco) | Frisco is a nickname for the city of San Francisco, California. It is derived from the city's full name, which is "The City and County of San Francisco". |
-| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 14 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 15 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 16 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 17 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 18 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 11 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 12 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 13 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 14 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 15 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 16 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 17 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 18 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
 | 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 20 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 21 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
 | 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 23 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 24 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 23 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 24 | [Jada](http://twitter.com/search?q=Jada) | N/A |
 | 25 | [Neal](http://twitter.com/search?q=Neal) | N/A |
 | 26 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 27 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 29 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 30 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 31 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 32 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 33 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 34 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 35 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 36 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 37 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 38 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 39 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 40 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 41 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 42 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 43 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 44 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 45 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 46 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 47 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 48 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
-| 49 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 50 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 27 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 28 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 31 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 32 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 33 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 34 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 35 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 36 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 37 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 38 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 39 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 40 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 41 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 42 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
+| 43 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
+| 44 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 45 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 46 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 47 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 48 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 49 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 50 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
 
 
 

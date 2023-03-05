@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-05 06:17:30 UTC`
+📆 Last Updated: `2023-03-05 07:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Peru
 | 10 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 11 | [#wewantenhypeninperu](http://twitter.com/search?q=%23wewantenhypeninperu) | N/A |
 | 12 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 13 | [#ElRetoCueva](http://twitter.com/search?q=%23ElRetoCueva) | N/A |
-| 14 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 13 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 14 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
 | 15 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
 | 16 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
 | 17 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
 | 18 | [#SicariaMediatica](http://twitter.com/search?q=%23SicariaMediatica) | N/A |
-| 19 | [Orlando City](http://twitter.com/search?q=Orlando+City) | N/A |
+| 19 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 20 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
 | 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 22 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
 | 23 | [Artika](http://twitter.com/search?q=Artika) | N/A |
-| 24 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 25 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 26 | [Campo de Marte](http://twitter.com/search?q=Campo+de+Marte) | N/A |
-| 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 28 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 29 | [Mannucci](http://twitter.com/search?q=Mannucci) | N/A |
+| 24 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
+| 25 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 26 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
+| 27 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 28 | [Mannucci](http://twitter.com/search?q=Mannucci) | N/A |
+| 29 | [Campo de Marte](http://twitter.com/search?q=Campo+de+Marte) | N/A |
 | 30 | [Martha Moyano](http://twitter.com/search?q=Martha+Moyano) | N/A |
 | 31 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
 | 32 | [Mena](http://twitter.com/search?q=Mena) | N/A |
 | 33 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
 | 34 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 35 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 35 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 37 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
 | 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 39 | [Aymaras](http://twitter.com/search?q=Aymaras) | N/A |
-| 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 41 | [Ugarriza](http://twitter.com/search?q=Ugarriza) | N/A |
-| 42 | [Mansiche](http://twitter.com/search?q=Mansiche) | N/A |
-| 43 | [Vándalos](http://twitter.com/search?q=V%c3%a1ndalos) | N/A |
-| 44 | [Kevin Serna](http://twitter.com/search?q=Kevin+Serna) | N/A |
-| 45 | [DINI](http://twitter.com/search?q=DINI) | N/A |
-| 46 | [Alberto Gallardo](http://twitter.com/search?q=Alberto+Gallardo) | N/A |
-| 47 | [Comisaría](http://twitter.com/search?q=Comisar%c3%ada) | N/A |
-| 48 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 49 | [REACTIVA](http://twitter.com/search?q=REACTIVA) | N/A |
-| 50 | [Saturnino Huillca](http://twitter.com/search?q=Saturnino+Huillca) | N/A |
+| 39 | [Ugarriza](http://twitter.com/search?q=Ugarriza) | N/A |
+| 40 | [Mansiche](http://twitter.com/search?q=Mansiche) | N/A |
+| 41 | [Vándalos](http://twitter.com/search?q=V%c3%a1ndalos) | N/A |
+| 42 | [kevin serna](http://twitter.com/search?q=kevin+serna) | N/A |
+| 43 | [DINI](http://twitter.com/search?q=DINI) | N/A |
+| 44 | [Alberto Gallardo](http://twitter.com/search?q=Alberto+Gallardo) | N/A |
+| 45 | [Comisaría](http://twitter.com/search?q=Comisar%c3%ada) | N/A |
+| 46 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 47 | [REACTIVA](http://twitter.com/search?q=REACTIVA) | N/A |
+| 48 | [Saturnino Huillca](http://twitter.com/search?q=Saturnino+Huillca) | N/A |
+| 49 | [Chucuito](http://twitter.com/search?q=Chucuito) | N/A |
+| 50 | [Facu](http://twitter.com/search?q=Facu) | N/A |
 
 
 

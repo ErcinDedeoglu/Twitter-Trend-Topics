@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-05 06:17:19 UTC`
+📆 Last Updated: `2023-03-05 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 1 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
+| 2 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 5 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 6 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
 | 7 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 8 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 9 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 10 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 11 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 12 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 13 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 14 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 15 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 16 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 17 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 18 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 19 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 21 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 22 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 23 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 24 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 25 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 26 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 27 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 28 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 29 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 30 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 31 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 32 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 33 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 34 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 35 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 36 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 37 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 8 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 9 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 10 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 11 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 12 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 13 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 15 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 16 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 17 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 18 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 19 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 20 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 21 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 22 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 23 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 24 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 25 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 26 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 27 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 28 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 29 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 30 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 31 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 32 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 33 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 34 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 35 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 36 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 37 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
 | 38 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 39 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 40 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 41 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
-| 42 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 43 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 39 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
+| 40 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 41 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 42 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 43 | [#RollingLoud2023](http://twitter.com/search?q=%23RollingLoud2023) | N/A |
 | 44 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
 | 45 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
 | 46 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
-| 47 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 48 | [#SaturdayNightLive](http://twitter.com/search?q=%23SaturdayNightLive) | N/A |
+| 47 | [#ONEPIECE](http://twitter.com/search?q=%23ONEPIECE) | N/A |
+| 48 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 49 | [#SaturdayNightLive](http://twitter.com/search?q=%23SaturdayNightLive) | N/A |
 
 
 
