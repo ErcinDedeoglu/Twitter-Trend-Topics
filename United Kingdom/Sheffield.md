@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-05 08:16:41 UTC`
+📆 Last Updated: `2023-03-05 09:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 3 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 6 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 8 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 10 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 11 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 12 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 13 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 14 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 16 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 17 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 19 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 20 | [lascelles](http://twitter.com/search?q=lascelles) | N/A |
-| 21 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
-| 22 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 23 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
-| 24 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 25 | [THE GREATEST OF ALL TIME](http://twitter.com/search?q=THE+GREATEST+OF+ALL+TIME) | N/A |
-| 26 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 27 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 29 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 30 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 31 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 34 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 35 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 36 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 37 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 38 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 39 | [dwight gayle](http://twitter.com/search?q=dwight+gayle) | N/A |
-| 40 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 41 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 42 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 43 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 44 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
-| 45 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 46 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 47 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 48 | [Cormier](http://twitter.com/search?q=Cormier) | N/A |
-| 49 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 4 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 7 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 8 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 10 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 11 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 12 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 13 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 14 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 15 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 16 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 17 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 18 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 19 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 20 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 21 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 22 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 24 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 25 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 26 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 27 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 28 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 29 | [#stpiransday](http://twitter.com/search?q=%23stpiransday) | N/A |
+| 30 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 31 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 32 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 33 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 34 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 35 | [#Kernow](http://twitter.com/search?q=%23Kernow) | N/A |
+| 36 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 37 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 38 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 39 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
+| 40 | [#ToriesLiedPeopleDied](http://twitter.com/search?q=%23ToriesLiedPeopleDied) | N/A |
 
 
 

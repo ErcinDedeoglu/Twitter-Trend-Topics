@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-05 08:16:44 UTC`
+📆 Last Updated: `2023-03-05 09:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,46 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 3 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
 | 4 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 7 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 7 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 9 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
 | 10 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 11 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 12 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 11 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 12 | [Layun](http://twitter.com/search?q=Layun) | N/A |
 | 13 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 14 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 15 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
-| 16 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 17 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 18 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
-| 19 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 20 | [Alex de Minaur](http://twitter.com/search?q=Alex+de+Minaur) | N/A |
-| 21 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 14 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 15 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
+| 16 | [Valentina Shevchenko](http://twitter.com/search?q=Valentina+Shevchenko) | N/A |
+| 17 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 18 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 19 | [Peter Hook](http://twitter.com/search?q=Peter+Hook) | N/A |
+| 20 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
+| 21 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 | 22 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 23 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 24 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 23 | [Turnstile](http://twitter.com/search?q=Turnstile) | N/A |
+| 24 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
 | 25 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 26 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 27 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 28 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 29 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 30 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 31 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 32 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
-| 33 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 34 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 35 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
-| 36 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 37 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 38 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
-| 39 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
-| 40 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 41 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
-| 42 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 43 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 44 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 45 | [Turnstile](http://twitter.com/search?q=Turnstile) | N/A |
-| 46 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 47 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 48 | [Julion](http://twitter.com/search?q=Julion) | N/A |
+| 26 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 27 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 28 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 29 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 30 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 31 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 32 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 33 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 34 | [Tommy Paul](http://twitter.com/search?q=Tommy+Paul) | Tommy Paul is a slang term used to describe someone who is a show-off or a braggart. It is derived from the phrase "Tommy Paul Proud," which was popularized by the song "Tommy Paul Proud" by the British band The Kinks in 1966. The phrase implies that someone is overly proud of themselves and their accomplishments, often to the point of being obnoxious. |
+| 35 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 36 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 37 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 38 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 39 | [Julion](http://twitter.com/search?q=Julion) | N/A |
+| 40 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 41 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 42 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 43 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 44 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
 
 
 

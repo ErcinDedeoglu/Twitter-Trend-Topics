@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-05 08:17:23 UTC`
+📆 Last Updated: `2023-03-05 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [United States](</United States>)
 | 11 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 | 12 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
 | 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 15 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 16 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 17 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 14 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 15 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 16 | [Khalil Shabazz](http://twitter.com/search?q=Khalil+Shabazz) | N/A |
+| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 18 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
 | 19 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
 | 20 | [Neal](http://twitter.com/search?q=Neal) | N/A |
 | 21 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 22 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 23 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 22 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 23 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
 | 24 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 25 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 28 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 29 | [#RollingLoud2023](http://twitter.com/search?q=%23RollingLoud2023) | N/A |
-| 30 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 31 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 32 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 33 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 34 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 35 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 36 | [Kush](http://twitter.com/search?q=Kush) | N/A |
-| 37 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
-| 38 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 39 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 40 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 41 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 42 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 43 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 44 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 45 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
-| 46 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 47 | [#ONEPIECE](http://twitter.com/search?q=%23ONEPIECE) | N/A |
-| 48 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
-| 49 | [#SaturdayNightLive](http://twitter.com/search?q=%23SaturdayNightLive) | N/A |
-| 50 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 26 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 27 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 28 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 31 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 32 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 33 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 34 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 35 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 36 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 37 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 38 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
+| 39 | [Kush](http://twitter.com/search?q=Kush) | N/A |
+| 40 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 41 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 42 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 43 | [Pavlovich](http://twitter.com/search?q=Pavlovich) | N/A |
+| 44 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 45 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 46 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 47 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 48 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
+| 49 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 50 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
 
 
 

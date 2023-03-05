@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-05 08:16:53 UTC`
+📆 Last Updated: `2023-03-05 09:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CePostaPerTe](http://twitter.com/search?q=%23CePostaPerTe) | #CePostaPerTe is an Italian hashtag that translates to "This Post Is For You". It is often used on social media to share content with a specific person or group of people. |
+| 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
 | 2 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
 | 3 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
 | 4 | [#5marzo](http://twitter.com/search?q=%235marzo) | N/A |
 | 5 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 6 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 6 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
 | 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 8 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 8 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
 | 9 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 10 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 11 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 12 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 13 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 14 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 15 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 16 | [tiziano](http://twitter.com/search?q=tiziano) | N/A |
-| 17 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
+| 10 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 11 | [Pier Paolo Pasolini](http://twitter.com/search?q=Pier+Paolo+Pasolini) | N/A |
+| 12 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 13 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 14 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 15 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 16 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 17 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
 | 18 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 19 | [giacomo giorgio](http://twitter.com/search?q=giacomo+giorgio) | N/A |
+| 19 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
 | 20 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 21 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 22 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 23 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 24 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 25 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 26 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 27 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 28 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 29 | [franchi](http://twitter.com/search?q=franchi) | N/A |
-| 30 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 31 | [Predappio](http://twitter.com/search?q=Predappio) | N/A |
-| 32 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 35 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 37 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 22 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 23 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 24 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 25 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 26 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 27 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
+| 28 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 31 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 32 | [De Masi](http://twitter.com/search?q=De+Masi) | N/A |
+| 33 | [franchi](http://twitter.com/search?q=franchi) | N/A |
+| 34 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 35 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
 | 38 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 39 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
-| 40 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 41 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 42 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
+| 39 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 40 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 42 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
 | 43 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 44 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 45 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
-| 46 | [Narci](http://twitter.com/search?q=Narci) | N/A |
-| 47 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
-| 48 | [Ennio Flaiano](http://twitter.com/search?q=Ennio+Flaiano) | N/A |
+| 44 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
+| 45 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
+| 46 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
+| 47 | [Narci](http://twitter.com/search?q=Narci) | N/A |
+| 48 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
 
 
 

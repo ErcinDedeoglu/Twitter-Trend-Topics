@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-05 08:16:48 UTC`
+📆 Last Updated: `2023-03-05 09:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 2 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 3 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
-| 4 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
-| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 8 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 9 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
-| 10 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 11 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 12 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 13 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 14 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 15 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 16 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 17 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 18 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
-| 19 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 20 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 21 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
-| 22 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 23 | [DIA DE GRENAL](http://twitter.com/search?q=DIA+DE+GRENAL) | N/A |
-| 24 | [Imperadores](http://twitter.com/search?q=Imperadores) | N/A |
-| 25 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 26 | [#UFCFightPass](http://twitter.com/search?q=%23UFCFightPass) | N/A |
-| 27 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
-| 28 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 29 | [11x3](http://twitter.com/search?q=11x3) | N/A |
-| 30 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
-| 31 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 32 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 33 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
-| 34 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 35 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
-| 36 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 37 | [Flamengo e Vasco](http://twitter.com/search?q=Flamengo+e+Vasco) | N/A |
-| 38 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
-| 39 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 40 | [SAÚDE TIGRE RINITE](http://twitter.com/search?q=SA%c3%9aDE+TIGRE+RINITE) | N/A |
-| 41 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 42 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 43 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 44 | [#TeamKey](http://twitter.com/search?q=%23TeamKey) | N/A |
+| 1 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 5 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 6 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 7 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
+| 8 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 9 | [11x3](http://twitter.com/search?q=11x3) | N/A |
+| 10 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
+| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 13 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 14 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 15 | [ASPAS](http://twitter.com/search?q=ASPAS) | N/A |
+| 16 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 17 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 18 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
+| 19 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
+| 20 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 21 | [#ufcbr](http://twitter.com/search?q=%23ufcbr) | N/A |
+| 22 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 24 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 25 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 26 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 27 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 28 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 29 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 30 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 31 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
+| 32 | [BRUNO RODRIGUES](http://twitter.com/search?q=BRUNO+RODRIGUES) | N/A |
+| 33 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 34 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
+| 35 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 36 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 39 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 40 | [Next in Fashion](http://twitter.com/search?q=Next+in+Fashion) | N/A |
+| 41 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 44 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 45 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 46 | [MATHEUS ARAÚJO](http://twitter.com/search?q=MATHEUS+ARA%c3%9aJO) | N/A |
+| 47 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 48 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 49 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 50 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
 
 
 

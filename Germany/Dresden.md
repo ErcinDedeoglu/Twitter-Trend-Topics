@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-05 08:16:52 UTC`
+📆 Last Updated: `2023-03-05 09:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
 | 4 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 5 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
-| 8 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 10 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 11 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 12 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 13 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 14 | [Gartenstuhl](http://twitter.com/search?q=Gartenstuhl) | N/A |
-| 15 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 16 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 17 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 6 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
+| 7 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 10 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 11 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
+| 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 13 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 14 | [GARTENSTUHL](http://twitter.com/search?q=GARTENSTUHL) | N/A |
+| 15 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 16 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 17 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 18 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 19 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 20 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 21 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 22 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 23 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 24 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 25 | [will church](http://twitter.com/search?q=will+church) | N/A |
-| 26 | [Abkommen](http://twitter.com/search?q=Abkommen) | N/A |
-| 27 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 28 | [riemann](http://twitter.com/search?q=riemann) | N/A |
+| 19 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 20 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 21 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 22 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 23 | [will church](http://twitter.com/search?q=will+church) | N/A |
+| 24 | [Rosa Luxemburg](http://twitter.com/search?q=Rosa+Luxemburg) | N/A |
+| 25 | [Markus](http://twitter.com/search?q=Markus) | N/A |
+| 26 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 28 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 29 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 30 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 31 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 32 | [Cevi](http://twitter.com/search?q=Cevi) | N/A |
-| 33 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
-| 36 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
-| 37 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
-| 38 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 39 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 40 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 41 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 43 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
-| 44 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
-| 45 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 46 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 47 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 48 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
-| 49 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 30 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 31 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 32 | [Guten Morgen Uwe](http://twitter.com/search?q=Guten+Morgen+Uwe) | N/A |
+| 33 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 34 | [Fantasie- und Verbotswelt](http://twitter.com/search?q=Fantasie-+und+Verbotswelt) | N/A |
+| 35 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
+| 36 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 37 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 38 | [Guten Morgen Jörg](http://twitter.com/search?q=Guten+Morgen+J%c3%b6rg) | N/A |
+| 39 | [Künstlers](http://twitter.com/search?q=K%c3%bcnstlers) | N/A |
+| 40 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 41 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
+| 42 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 43 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 46 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 47 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 48 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 49 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
 
 
 
