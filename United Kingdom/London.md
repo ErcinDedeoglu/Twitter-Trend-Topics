@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-05 15:15:42 UTC`
+📆 Last Updated: `2023-03-05 16:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MattHancockIsALiar](http://twitter.com/search?q=%23MattHancockIsALiar) | N/A |
-| 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 3 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 4 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 5 | [#UkOpenDarts](http://twitter.com/search?q=%23UkOpenDarts) | N/A |
-| 6 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 7 | [#COYR](http://twitter.com/search?q=%23COYR) | N/A |
-| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 10 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 11 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 12 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 13 | [Lockdowns](http://twitter.com/search?q=Lockdowns) | N/A |
-| 14 | [The Who](http://twitter.com/search?q=The+Who) | N/A |
-| 15 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 16 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 17 | [Cornish](http://twitter.com/search?q=Cornish) | N/A |
-| 18 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 19 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 20 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 21 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 22 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 23 | [Colback](http://twitter.com/search?q=Colback) | N/A |
-| 24 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 25 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 26 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 28 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
-| 29 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 30 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
-| 31 | [Aurier](http://twitter.com/search?q=Aurier) | Aurier is a French surname. It is derived from the Latin word aurum, meaning "gold". In English, it can be translated to mean "of gold" or "golden". |
-| 32 | [Keane](http://twitter.com/search?q=Keane) | N/A |
-| 33 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
-| 34 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 35 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 36 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 37 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 38 | [Gibbs](http://twitter.com/search?q=Gibbs) | N/A |
-| 39 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
-| 40 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 41 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
-| 42 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 43 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 44 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 45 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
-| 46 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 47 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 48 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 49 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 1 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 2 | [Midfield](http://twitter.com/search?q=Midfield) | N/A |
+| 3 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 4 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 5 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 6 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 7 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 8 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
+| 9 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 10 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 11 | [#bbcf1](http://twitter.com/search?q=%23bbcf1) | N/A |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [#classicalpop](http://twitter.com/search?q=%23classicalpop) | N/A |
+| 14 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 15 | [Gana](http://twitter.com/search?q=Gana) | N/A |
+| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 18 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
+| 19 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 20 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 21 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 22 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 23 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 24 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Tom Davies](http://twitter.com/search?q=Tom+Davies) | N/A |
+| 29 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 30 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 31 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 32 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 33 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 34 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 35 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 36 | [Colback](http://twitter.com/search?q=Colback) | N/A |
+| 37 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 38 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 39 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 40 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 41 | [Gibbs](http://twitter.com/search?q=Gibbs) | N/A |
+| 42 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 43 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 45 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 46 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 47 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 49 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-05 15:15:56 UTC`
+📆 Last Updated: `2023-03-05 16:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 2 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 3 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 4 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 5 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 6 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 7 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 2 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [#SkyMotori](http://twitter.com/search?q=%23SkyMotori) | N/A |
+| 5 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 7 | [Mara](http://twitter.com/search?q=Mara) | N/A |
 | 8 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 9 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
-| 10 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
-| 11 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 12 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 13 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 14 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 15 | [#SampdoriaSalernitana](http://twitter.com/search?q=%23SampdoriaSalernitana) | N/A |
-| 16 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 17 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 18 | [celentano](http://twitter.com/search?q=celentano) | N/A |
-| 19 | [Profondo Rosso](http://twitter.com/search?q=Profondo+Rosso) | N/A |
-| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 21 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 22 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 23 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 24 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 25 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 26 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 27 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 28 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 29 | [Fascismo](http://twitter.com/search?q=Fascismo) | N/A |
-| 30 | [#BresciaCagliari](http://twitter.com/search?q=%23BresciaCagliari) | N/A |
-| 31 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 32 | [#MilanRoma](http://twitter.com/search?q=%23MilanRoma) | #MilanRoma is a hashtag used to refer to the rivalry between two of Italy's most popular football teams, AC Milan and AS Roma. It is often used when the two teams are playing each other in a match. In English, it means "AC Milan vs AS Roma". |
-| 33 | [#5marzo](http://twitter.com/search?q=%235marzo) | N/A |
-| 34 | [#SpeziaVerona](http://twitter.com/search?q=%23SpeziaVerona) | N/A |
-| 35 | [#SkyMotori](http://twitter.com/search?q=%23SkyMotori) | N/A |
-| 36 | [#LucioBattisti](http://twitter.com/search?q=%23LucioBattisti) | N/A |
-| 37 | [#fumo](http://twitter.com/search?q=%23fumo) | N/A |
-| 38 | [#anarchici](http://twitter.com/search?q=%23anarchici) | N/A |
-| 39 | [#InterLecce](http://twitter.com/search?q=%23InterLecce) | N/A |
-| 40 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 41 | [#RomaJuventus](http://twitter.com/search?q=%23RomaJuventus) | N/A |
-| 42 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 43 | [#Leclerc](http://twitter.com/search?q=%23Leclerc) | N/A |
-| 44 | [#IlMioCantoLibero](http://twitter.com/search?q=%23IlMioCantoLibero) | N/A |
-| 45 | [#Cospito](http://twitter.com/search?q=%23Cospito) | N/A |
+| 9 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 10 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 11 | [#BresciaCagliari](http://twitter.com/search?q=%23BresciaCagliari) | N/A |
+| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 13 | [niveo](http://twitter.com/search?q=niveo) | N/A |
+| 14 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 17 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 18 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 19 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 20 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
+| 21 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 22 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 23 | [Rosberg](http://twitter.com/search?q=Rosberg) | N/A |
+| 24 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 25 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 26 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 27 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
+| 28 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 29 | [Profondo Rosso](http://twitter.com/search?q=Profondo+Rosso) | N/A |
+| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Matti](http://twitter.com/search?q=Matti) | N/A |
+| 33 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 40 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 41 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 42 | [Fascismo](http://twitter.com/search?q=Fascismo) | N/A |
+| 43 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
+| 44 | [#SampdoriaSalernitana](http://twitter.com/search?q=%23SampdoriaSalernitana) | N/A |
+| 45 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 46 | [#InterLecce](http://twitter.com/search?q=%23InterLecce) | N/A |
+| 47 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 48 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 49 | [#AscoliBari](http://twitter.com/search?q=%23AscoliBari) | N/A |
+| 50 | [#MilanRoma](http://twitter.com/search?q=%23MilanRoma) | #MilanRoma is a hashtag used to refer to the rivalry between two of Italy's most popular football teams, AC Milan and AS Roma. It is often used when the two teams are playing each other in a match. In English, it means "AC Milan vs AS Roma". |
 
 
 

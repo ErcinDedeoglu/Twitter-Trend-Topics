@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-05 15:15:38 UTC`
+📆 Last Updated: `2023-03-05 16:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 2 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
-| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 4 | [#ProjectAlphaTHFinalEP](http://twitter.com/search?q=%23ProjectAlphaTHFinalEP) | N/A |
-| 5 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 6 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
-| 7 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
-| 8 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 9 | [BamBam Highlight Medley](http://twitter.com/search?q=BamBam+Highlight+Medley) | N/A |
-| 10 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
-| 11 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 12 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 13 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
-| 14 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 15 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 16 | [忘羨結婚](http://twitter.com/search?q=%e5%bf%98%e7%be%a8%e7%b5%90%e5%a9%9a) | 忘羨結婚 is a Chinese phrase that literally translates to "forget envy and marry". It is used to describe a situation in which two people are so in love with each other that they forget about any feelings of envy or jealousy they may have had for each other. In English, it can be interpreted as "marry without envy". |
-| 17 | [板垣さん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%95%e3%82%93) | N/A |
-| 18 | [スノハレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%8f%e3%83%ac) | N/A |
-| 19 | [سلمان الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 20 | [الثقه الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
-| 21 | [キドフェノ](http://twitter.com/search?q=%e3%82%ad%e3%83%89%e3%83%95%e3%82%a7%e3%83%8e) | N/A |
-| 22 | [なっちとみーぽん](http://twitter.com/search?q=%e3%81%aa%e3%81%a3%e3%81%a1%e3%81%a8%e3%81%bf%e3%83%bc%e3%81%bd%e3%82%93) | N/A |
-| 23 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 24 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 25 | [爆走兄弟レッツ](http://twitter.com/search?q=%e7%88%86%e8%b5%b0%e5%85%84%e5%bc%9f%e3%83%ac%e3%83%83%e3%83%84) | N/A |
-| 26 | [ハンジソン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b8%e3%82%bd%e3%83%b3) | ハンジソン (Hanson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand was founded in 1997 and is known for its use of bright colors, bold patterns, and unique designs. In English, the name translates to "Hanson" or "Hansson". |
-| 27 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 28 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 29 | [ヤフオク](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%82%aa%e3%82%af) | N/A |
-| 30 | [ショウヘイヘーイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%98%e3%82%a4%e3%83%98%e3%83%bc%e3%82%a4) | N/A |
-| 31 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 32 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 33 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
-| 34 | [Colback](http://twitter.com/search?q=Colback) | N/A |
-| 35 | [江口のりこ](http://twitter.com/search?q=%e6%b1%9f%e5%8f%a3%e3%81%ae%e3%82%8a%e3%81%93) | N/A |
-| 36 | [りひとくん](http://twitter.com/search?q=%e3%82%8a%e3%81%b2%e3%81%a8%e3%81%8f%e3%82%93) | N/A |
-| 37 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 38 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 39 | [なーたん](http://twitter.com/search?q=%e3%81%aa%e3%83%bc%e3%81%9f%e3%82%93) | なーたん is a nickname for the Japanese name "Natsuki". It is a combination of the first two syllables of the name, and is often used as an affectionate term. In English, it could be translated to something like "Nattie" or "Natty". |
-| 40 | [F1開幕戦](http://twitter.com/search?q=F1%e9%96%8b%e5%b9%95%e6%88%a6) | N/A |
-| 41 | [メディキュット](http://twitter.com/search?q=%e3%83%a1%e3%83%87%e3%82%a3%e3%82%ad%e3%83%a5%e3%83%83%e3%83%88) | N/A |
-| 42 | [李光人くん](http://twitter.com/search?q=%e6%9d%8e%e5%85%89%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
-| 43 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 44 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 45 | [タラちゃん](http://twitter.com/search?q=%e3%82%bf%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 46 | [浅野さん](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 47 | [本多正信](http://twitter.com/search?q=%e6%9c%ac%e5%a4%9a%e6%ad%a3%e4%bf%a1) | 本多正信 is a Japanese name. It is composed of two characters: 本 (hon) meaning "origin" or "basis", and 多 (ta) meaning "many". 正 (masa) means "correct" or "true", and 信 (shin) means "belief" or "trust". In English, the name could be translated as "Origin of Many Truths". |
-| 48 | [出川さん](http://twitter.com/search?q=%e5%87%ba%e5%b7%9d%e3%81%95%e3%82%93) | 出川さん is a Japanese phrase that literally translates to "Mr. Degawa". It is a term of respect used to refer to someone who has achieved success in their field or profession. |
-| 49 | [シャカファイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%95%e3%82%a1%e3%82%a4) | N/A |
-| 50 | [生粋の狂人](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8b%82%e4%ba%ba) | N/A |
+| 1 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 2 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
+| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 6 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
+| 7 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 8 | [#SourandSweetHighlight](http://twitter.com/search?q=%23SourandSweetHighlight) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 11 | [BamBam Highlight Medley](http://twitter.com/search?q=BamBam+Highlight+Medley) | N/A |
+| 12 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 13 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 14 | [Pedrinho matador](http://twitter.com/search?q=Pedrinho+matador) | N/A |
+| 15 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 16 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 17 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 18 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 19 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 20 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 21 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 22 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 23 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 24 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 25 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 28 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 29 | [キャパ2000](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%912000) | N/A |
+| 30 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
+| 31 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
+| 32 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
+| 33 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
+| 34 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
+| 35 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 36 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [ガスリー](http://twitter.com/search?q=%e3%82%ac%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
+| 39 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 40 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 41 | [Bir Olma Vakti](http://twitter.com/search?q=Bir+Olma+Vakti) | N/A |
+| 42 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 43 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 44 | [ピアストリ](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%82%b9%e3%83%88%e3%83%aa) | N/A |
+| 45 | [心操くん](http://twitter.com/search?q=%e5%bf%83%e6%93%8d%e3%81%8f%e3%82%93) | N/A |
+| 46 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
+| 47 | [第26話](http://twitter.com/search?q=%e7%ac%ac26%e8%a9%b1) | N/A |
+| 48 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
+| 49 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 50 | [出川さん](http://twitter.com/search?q=%e5%87%ba%e5%b7%9d%e3%81%95%e3%82%93) | 出川さん is a Japanese phrase that literally translates to "Mr. Degawa". It is a term of respect used to refer to someone who has achieved success in their field or profession. |
 
 
 

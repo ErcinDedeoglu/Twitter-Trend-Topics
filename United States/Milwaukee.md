@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-05 15:16:26 UTC`
+📆 Last Updated: `2023-03-05 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 9 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 10 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
-| 11 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 12 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 13 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 15 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
-| 16 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 17 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 18 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 19 | [championship sunday](http://twitter.com/search?q=championship+sunday) | N/A |
-| 20 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 21 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 25 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 26 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
-| 27 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
-| 28 | [Alexander Torres](http://twitter.com/search?q=Alexander+Torres) | N/A |
-| 29 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
-| 30 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 32 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
-| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 34 | [LIGHTS OUT](http://twitter.com/search?q=LIGHTS+OUT) | N/A |
-| 35 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 36 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
-| 37 | [Coamo](http://twitter.com/search?q=Coamo) | N/A |
-| 38 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 39 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
-| 40 | [Tabasco](http://twitter.com/search?q=Tabasco) | N/A |
-| 41 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 42 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 43 | [Golden Corral](http://twitter.com/search?q=Golden+Corral) | N/A |
-| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 45 | [Salsa](http://twitter.com/search?q=Salsa) | N/A |
-| 46 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
-| 47 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 48 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 49 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 50 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 5 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 9 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 13 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 14 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 15 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 16 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
+| 17 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 18 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 21 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 24 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 25 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 26 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 27 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 28 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
+| 29 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 30 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 31 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 32 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 33 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
+| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 35 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 36 | [Danny Ric](http://twitter.com/search?q=Danny+Ric) | N/A |
+| 37 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 38 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 39 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 40 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 41 | [Zak Brown](http://twitter.com/search?q=Zak+Brown) | N/A |
+| 42 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
+| 43 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 44 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 46 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
+| 47 | [When You Touch Me](http://twitter.com/search?q=When+You+Touch+Me) | N/A |
+| 48 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
+| 49 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 50 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 
 
 

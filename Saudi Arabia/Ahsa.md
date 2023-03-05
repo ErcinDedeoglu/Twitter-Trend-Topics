@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-03-05 15:16:40 UTC`
+📆 Last Updated: `2023-03-05 16:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [سلمان الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 2 | [الثقه الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
-| 3 | [الرجل المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
-| 4 | [#وزير_الاعلام](http://twitter.com/search?q=%23%d9%88%d8%b2%d9%8a%d8%b1_%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 5 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
-| 6 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 7 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 8 | [#نطالب_مسرحيه_غرفه_13_في_العيد](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d9%85%d8%b3%d8%b1%d8%ad%d9%8a%d9%87_%d8%ba%d8%b1%d9%81%d9%87_13_%d9%81%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 9 | [#البزنس89](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b389) | N/A |
-| 10 | [#قصر_الاواني](http://twitter.com/search?q=%23%d9%82%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%86%d9%8a) | N/A |
-| 11 | [الاوامر الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
-| 12 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 13 | [صالح النعيمه](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85%d9%87) | N/A |
-| 14 | [سلمان بن يوسف بن علي الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%86+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 15 | [المرتبه الممتازه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%87) | N/A |
-| 16 | [سلمان بن يوسف الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 17 | [الاعلام السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 18 | [الاستخبارات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 19 | [ابو سعود](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 20 | [وزير دوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 21 | [الاعلام الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 22 | [الديوان الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 23 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 24 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 25 | [جاكوزي بارد](http://twitter.com/search?q=%d8%ac%d8%a7%d9%83%d9%88%d8%b2%d9%8a+%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 26 | [وليد الصمعاني](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d8%b5%d9%85%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 28 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 29 | [محمد مران](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 30 | [التدريب المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 1 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 2 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 3 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 4 | [سلمان الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 5 | [الثقه الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
+| 6 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 7 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
+| 8 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 9 | [#امر_ملكي](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b1_%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 10 | [#وزير_الاعلام](http://twitter.com/search?q=%23%d9%88%d8%b2%d9%8a%d8%b1_%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 11 | [الرجل المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
+| 12 | [#قصر_الاواني](http://twitter.com/search?q=%23%d9%82%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%86%d9%8a) | N/A |
+| 13 | [#البزنس89](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b389) | N/A |
+| 14 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
+| 15 | [فاتي](http://twitter.com/search?q=%d9%81%d8%a7%d8%aa%d9%8a) | N/A |
+| 16 | [بابلو توري](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d9%84%d9%88+%d8%aa%d9%88%d8%b1%d9%8a) | N/A |
+| 17 | [المرتبه الممتازه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2%d9%87) | N/A |
+| 18 | [صالح النعيمه](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85%d9%87) | N/A |
+| 19 | [الاوامر الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
+| 20 | [سلمان بن يوسف بن علي الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%86+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 21 | [حمود بن بداح المريخي](http://twitter.com/search?q=%d8%ad%d9%85%d9%88%d8%af+%d8%a8%d9%86+%d8%a8%d8%af%d8%a7%d8%ad+%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
+| 22 | [الاعلام السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 23 | [وزير دوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 24 | [سلمان بن يوسف الدوسري](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 25 | [ابو سعود](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 26 | [الاعلام الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 27 | [الاستخبارات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 28 | [الديوان الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 29 | [عدم الزواج](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac) | N/A |
+| 30 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 31 | [بيتيس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | بيتيس (pronounced "bay-tees") is an Arabic word meaning "my house". It is often used as a term of endearment, similar to saying "my home" or "my place". |
-| 32 | [المرتبه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 33 | [الوسط الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 34 | [#زد_رصيدك41](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8341) | N/A |
-| 35 | [#هوم_الك](http://twitter.com/search?q=%23%d9%87%d9%88%d9%85_%d8%a7%d9%84%d9%83) | N/A |
-| 36 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 37 | [#الموتمر_العدلي_الدولي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d9%84%d9%8a_%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 38 | [#الحب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 39 | [#مشروع_رابح](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%b1%d9%88%d8%b9_%d8%b1%d8%a7%d8%a8%d8%ad) | N/A |
-| 40 | [#بهاج_مع_كرم_النخيل](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac_%d9%85%d8%b9_%d9%83%d8%b1%d9%85_%d8%a7%d9%84%d9%86%d8%ae%d9%8a%d9%84) | N/A |
-| 41 | [#الاتفاق_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 42 | [#الشباب_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 43 | [#ميلان_توتنهام](http://twitter.com/search?q=%23%d9%85%d9%8a%d9%84%d8%a7%d9%86_%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | N/A |
-| 44 | [#الباطن_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 45 | [#باريس_سان_جيرمان_بايرن_ميونخ](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3_%d8%b3%d8%a7%d9%86_%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86_%d8%a8%d8%a7%d9%8a%d8%b1%d9%86_%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 46 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 47 | [#اليوم_الوطني_للمشي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a_%d9%84%d9%84%d9%85%d8%b4%d9%8a) | N/A |
-| 48 | [#ارحل_يالبلطان](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%ad%d9%84_%d9%8a%d8%a7%d9%84%d8%a8%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 49 | [#مساء_الخيرᅠ](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | N/A |
-| 50 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
+| 32 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 33 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 34 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 35 | [محمد مران](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 36 | [التدريب المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 37 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 38 | [الوسط الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 39 | [#هوم_الك](http://twitter.com/search?q=%23%d9%87%d9%88%d9%85_%d8%a7%d9%84%d9%83) | N/A |
+| 40 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
+| 41 | [#زد_رصيدك41](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8341) | N/A |
+| 42 | [#نطالب_مسرحيه_غرفه_13_في_العيد](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d9%85%d8%b3%d8%b1%d8%ad%d9%8a%d9%87_%d8%ba%d8%b1%d9%81%d9%87_13_%d9%81%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 43 | [#مساء_الخيرᅠ](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | N/A |
+| 44 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 45 | [#مشروع_رابح](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%b1%d9%88%d8%b9_%d8%b1%d8%a7%d8%a8%d8%ad) | N/A |
+| 46 | [#الاتفاق_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 47 | [#الحب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
+| 48 | [#الباطن_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 49 | [#الشباب_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 50 | [#باريس_سان_جيرمان_بايرن_ميونخ](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3_%d8%b3%d8%a7%d9%86_%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86_%d8%a8%d8%a7%d9%8a%d8%b1%d9%86_%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
 
 
 

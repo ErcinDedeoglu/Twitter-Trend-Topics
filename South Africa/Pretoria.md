@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-05 15:16:12 UTC`
+📆 Last Updated: `2023-03-05 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 2 | [#RIPMarkPilgrim](http://twitter.com/search?q=%23RIPMarkPilgrim) | N/A |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
-| 8 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [Pabi Cooper](http://twitter.com/search?q=Pabi+Cooper) | N/A |
-| 12 | [Mashego](http://twitter.com/search?q=Mashego) | N/A |
-| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [Themba](http://twitter.com/search?q=Themba) | N/A |
-| 15 | [Tate Makgoe](http://twitter.com/search?q=Tate+Makgoe) | N/A |
-| 16 | [Stellies](http://twitter.com/search?q=Stellies) | N/A |
-| 17 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 18 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 19 | [vibe with tsatsii](http://twitter.com/search?q=vibe+with+tsatsii) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [lucas radebe](http://twitter.com/search?q=lucas+radebe) | N/A |
-| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 23 | [La Parada](http://twitter.com/search?q=La+Parada) | N/A |
-| 24 | [Ntando](http://twitter.com/search?q=Ntando) | N/A |
-| 25 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
-| 26 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 27 | [Free State](http://twitter.com/search?q=Free+State) | N/A |
-| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 29 | [parti with khosi twala](http://twitter.com/search?q=parti+with+khosi+twala) | N/A |
-| 30 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 31 | [party with ipeleng](http://twitter.com/search?q=party+with+ipeleng) | N/A |
-| 32 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 35 | [tsatsii the show](http://twitter.com/search?q=tsatsii+the+show) | N/A |
-| 36 | [juicy jay life of the party](http://twitter.com/search?q=juicy+jay+life+of+the+party) | N/A |
-| 37 | [NO KHOSI NO KHONTENT](http://twitter.com/search?q=NO+KHOSI+NO+KHONTENT) | N/A |
-| 38 | [Lebusa](http://twitter.com/search?q=Lebusa) | N/A |
-| 39 | [Athi](http://twitter.com/search?q=Athi) | N/A |
-| 40 | [Vincent Magwenya](http://twitter.com/search?q=Vincent+Magwenya) | N/A |
-| 41 | [Adrienne](http://twitter.com/search?q=Adrienne) | N/A |
-| 42 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 43 | [Winky D](http://twitter.com/search?q=Winky+D) | N/A |
-| 44 | [JIVA THABANG](http://twitter.com/search?q=JIVA+THABANG) | N/A |
-| 45 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
-| 46 | [Sun Arena](http://twitter.com/search?q=Sun+Arena) | N/A |
-| 47 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 48 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 49 | [Vusi Nova](http://twitter.com/search?q=Vusi+Nova) | N/A |
-| 50 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 1 | [Stellenbosch](http://twitter.com/search?q=Stellenbosch) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 4 | [#RIPMarkPilgrim](http://twitter.com/search?q=%23RIPMarkPilgrim) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
+| 11 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 14 | [Mbule](http://twitter.com/search?q=Mbule) | N/A |
+| 15 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 16 | [Pabi Cooper](http://twitter.com/search?q=Pabi+Cooper) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 18 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 22 | [Stellies](http://twitter.com/search?q=Stellies) | N/A |
+| 23 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 24 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [Tate Makgoe](http://twitter.com/search?q=Tate+Makgoe) | N/A |
+| 27 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 28 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 29 | [vibe with tsatsii](http://twitter.com/search?q=vibe+with+tsatsii) | N/A |
+| 30 | [lucas radebe](http://twitter.com/search?q=lucas+radebe) | N/A |
+| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 32 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 33 | [Themba](http://twitter.com/search?q=Themba) | N/A |
+| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 35 | [LA PARADA](http://twitter.com/search?q=LA+PARADA) | N/A |
+| 36 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 37 | [Ankole](http://twitter.com/search?q=Ankole) | N/A |
+| 38 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 39 | [Free State](http://twitter.com/search?q=Free+State) | N/A |
+| 40 | [Vusi Nova](http://twitter.com/search?q=Vusi+Nova) | N/A |
+| 41 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 42 | [Pieterse](http://twitter.com/search?q=Pieterse) | N/A |
+| 43 | [party with ipeleng](http://twitter.com/search?q=party+with+ipeleng) | N/A |
+| 44 | [PARTI WITH KHOSI TWALA](http://twitter.com/search?q=PARTI+WITH+KHOSI+TWALA) | N/A |
+| 45 | [Mashego](http://twitter.com/search?q=Mashego) | N/A |
+| 46 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 47 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 48 | [tsatsii the show](http://twitter.com/search?q=tsatsii+the+show) | N/A |
+| 49 | [juicy jay life of the party](http://twitter.com/search?q=juicy+jay+life+of+the+party) | N/A |
+| 50 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 
 
 

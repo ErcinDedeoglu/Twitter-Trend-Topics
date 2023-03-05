@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-05 15:16:19 UTC`
+📆 Last Updated: `2023-03-05 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 2 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 3 | [#Plant4Shivraj](http://twitter.com/search?q=%23Plant4Shivraj) | N/A |
-| 4 | [#KollywoodPrideRAJINI](http://twitter.com/search?q=%23KollywoodPrideRAJINI) | N/A |
-| 5 | [#SethaPaambuRAJINI](http://twitter.com/search?q=%23SethaPaambuRAJINI) | N/A |
-| 6 | [#RCBvsDC](http://twitter.com/search?q=%23RCBvsDC) | N/A |
-| 7 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
-| 8 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
-| 9 | [#NotFair](http://twitter.com/search?q=%23NotFair) | N/A |
-| 10 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 11 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
-| 12 | [ABHIRA HITS 450](http://twitter.com/search?q=ABHIRA+HITS+450) | N/A |
-| 13 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 14 | [Lyn F](http://twitter.com/search?q=Lyn+F) | N/A |
-| 15 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 16 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
-| 17 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 18 | [up warriorz](http://twitter.com/search?q=up+warriorz) | N/A |
-| 19 | [Arabian Sea](http://twitter.com/search?q=Arabian+Sea) | N/A |
-| 20 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 21 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
-| 22 | [SHIV YT FAMILY RISING](http://twitter.com/search?q=SHIV+YT+FAMILY+RISING) | N/A |
-| 23 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 24 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 25 | [HaaRCB](http://twitter.com/search?q=HaaRCB) | N/A |
-| 26 | [मिलन कार्यक्रम](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 27 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
+| 3 | [#KollywoodPrideRAJINI](http://twitter.com/search?q=%23KollywoodPrideRAJINI) | N/A |
+| 4 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 7 | [#SethaPaambuRAJINI](http://twitter.com/search?q=%23SethaPaambuRAJINI) | N/A |
+| 8 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 9 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
+| 12 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
+| 13 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 14 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 15 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
+| 16 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 18 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 19 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 20 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
+| 21 | [Kim Garth](http://twitter.com/search?q=Kim+Garth) | N/A |
+| 22 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
+| 23 | [Harleen Deol](http://twitter.com/search?q=Harleen+Deol) | N/A |
+| 24 | [Lyn F](http://twitter.com/search?q=Lyn+F) | N/A |
+| 25 | [Arabian Sea](http://twitter.com/search?q=Arabian+Sea) | N/A |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
 | 28 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 29 | [Holika](http://twitter.com/search?q=Holika) | N/A |
-| 30 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 31 | [London](http://twitter.com/search?q=London) | N/A |
-| 32 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
-| 35 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 36 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 37 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
-| 38 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
-| 39 | [रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 40 | [लोकप्रिय मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 42 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 43 | [#IStandWithShubhamShukla](http://twitter.com/search?q=%23IStandWithShubhamShukla) | N/A |
-| 44 | [#KollywoodKingதளபதி](http://twitter.com/search?q=%23KollywoodKing%e0%ae%a4%e0%ae%b3%e0%ae%aa%e0%ae%a4%e0%ae%bf) | N/A |
-| 45 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
-| 46 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
-| 47 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
-| 48 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 49 | [#SethaAnilKunjuVIJAY](http://twitter.com/search?q=%23SethaAnilKunjuVIJAY) | N/A |
-| 50 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 29 | [ABHIRA HITS 450](http://twitter.com/search?q=ABHIRA+HITS+450) | N/A |
+| 30 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 32 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
+| 33 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 34 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 35 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 36 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 37 | [Holika](http://twitter.com/search?q=Holika) | N/A |
+| 38 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 39 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
+| 40 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 41 | [London](http://twitter.com/search?q=London) | N/A |
+| 42 | [मिलन कार्यक्रम](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 44 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 45 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 46 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 47 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 48 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 49 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
+| 50 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
 
 
 

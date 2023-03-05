@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-05 15:16:07 UTC`
+📆 Last Updated: `2023-03-05 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
-| 2 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 5 | [#O_D1](http://twitter.com/search?q=%23O_D1) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
-| 8 | [WITHOUT U MV TEASER 2](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+2) | N/A |
-| 9 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 10 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 11 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 12 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 13 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 14 | [Siti Nurhaliza](http://twitter.com/search?q=Siti+Nurhaliza) | N/A |
-| 15 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 16 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 17 | [BLINKS](http://twitter.com/search?q=BLINKS) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
-| 20 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 22 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Going Crazy](http://twitter.com/search?q=Going+Crazy) | N/A |
-| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 26 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
-| 27 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 28 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 29 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 30 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 31 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
-| 32 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 33 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
-| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 35 | [3 KAI](http://twitter.com/search?q=3+KAI) | N/A |
-| 36 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
-| 37 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 38 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 39 | [8 MX SONGS TO GET TO KNOW ME](http://twitter.com/search?q=8+MX+SONGS+TO+GET+TO+KNOW+ME) | N/A |
-| 40 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
-| 41 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
-| 42 | [Galaxy](http://twitter.com/search?q=Galaxy) | N/A |
-| 43 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 45 | [Collei](http://twitter.com/search?q=Collei) | N/A |
-| 46 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 47 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 48 | [bukit jalil](http://twitter.com/search?q=bukit+jalil) | N/A |
-| 49 | [Hensem](http://twitter.com/search?q=Hensem) | N/A |
-| 50 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 1 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 2 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 3 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
+| 10 | [WITHOUT U MV TEASER 2](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+2) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 13 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 14 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 15 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 20 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 21 | [Siti Nurhaliza](http://twitter.com/search?q=Siti+Nurhaliza) | N/A |
+| 22 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 23 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 24 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Allen](http://twitter.com/search?q=Allen) | N/A |
+| 27 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
+| 28 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 29 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 30 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 32 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 33 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
+| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 40 | [Selangor](http://twitter.com/search?q=Selangor) | N/A |
+| 41 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
+| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 43 | [3 KAI](http://twitter.com/search?q=3+KAI) | N/A |
+| 44 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 45 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 46 | [Going Crazy](http://twitter.com/search?q=Going+Crazy) | N/A |
+| 47 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 48 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
+| 49 | [8 MX SONGS TO GET TO KNOW ME](http://twitter.com/search?q=8+MX+SONGS+TO+GET+TO+KNOW+ME) | N/A |
+| 50 | [Minji](http://twitter.com/search?q=Minji) | Minji is a Korean given name for girls. It is composed of two characters, "min" meaning "beautiful" and "ji" meaning "wisdom". In English, it can be translated to mean "beautiful wisdom". |
 
 
 

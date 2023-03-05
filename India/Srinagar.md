@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-05 15:16:18 UTC`
+📆 Last Updated: `2023-03-05 16:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KollywoodPrideRAJINI](http://twitter.com/search?q=%23KollywoodPrideRAJINI) | N/A |
-| 2 | [#SethaPaambuRAJINI](http://twitter.com/search?q=%23SethaPaambuRAJINI) | N/A |
-| 3 | [#RCBvsDC](http://twitter.com/search?q=%23RCBvsDC) | N/A |
-| 4 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
-| 5 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
-| 6 | [#NotFair](http://twitter.com/search?q=%23NotFair) | N/A |
-| 7 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 8 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
-| 9 | [ABHIRA HITS 450](http://twitter.com/search?q=ABHIRA+HITS+450) | N/A |
-| 10 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 11 | [Lyn F](http://twitter.com/search?q=Lyn+F) | N/A |
-| 12 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 13 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
-| 14 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 15 | [up warriorz](http://twitter.com/search?q=up+warriorz) | N/A |
-| 16 | [Arabian Sea](http://twitter.com/search?q=Arabian+Sea) | N/A |
-| 17 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 18 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
-| 19 | [SHIV YT FAMILY RISING](http://twitter.com/search?q=SHIV+YT+FAMILY+RISING) | N/A |
-| 20 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 21 | [HaaRCB](http://twitter.com/search?q=HaaRCB) | N/A |
-| 22 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 23 | [मिलन कार्यक्रम](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 24 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
-| 25 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 26 | [Holika](http://twitter.com/search?q=Holika) | N/A |
-| 27 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
-| 28 | [London](http://twitter.com/search?q=London) | N/A |
-| 29 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 31 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
-| 32 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 34 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
-| 35 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
-| 36 | [रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 37 | [लोकप्रिय मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 38 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 39 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 40 | [#IStandWithShubhamShukla](http://twitter.com/search?q=%23IStandWithShubhamShukla) | N/A |
-| 41 | [#KollywoodKingதளபதி](http://twitter.com/search?q=%23KollywoodKing%e0%ae%a4%e0%ae%b3%e0%ae%aa%e0%ae%a4%e0%ae%bf) | N/A |
-| 42 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
-| 43 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
-| 44 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
-| 45 | [#SethaAnilKunjuVIJAY](http://twitter.com/search?q=%23SethaAnilKunjuVIJAY) | N/A |
-| 46 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 47 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 48 | [#ReelTokenIndia](http://twitter.com/search?q=%23ReelTokenIndia) | N/A |
-| 49 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
+| 4 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 5 | [#SethaPaambuRAJINI](http://twitter.com/search?q=%23SethaPaambuRAJINI) | N/A |
+| 6 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
+| 9 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
+| 10 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 13 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
+| 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 16 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 17 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
+| 18 | [Kim Garth](http://twitter.com/search?q=Kim+Garth) | N/A |
+| 19 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
+| 20 | [Harleen Deol](http://twitter.com/search?q=Harleen+Deol) | N/A |
+| 21 | [Lyn F](http://twitter.com/search?q=Lyn+F) | N/A |
+| 22 | [Arabian Sea](http://twitter.com/search?q=Arabian+Sea) | N/A |
+| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 24 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 25 | [ABHIRA HITS 450](http://twitter.com/search?q=ABHIRA+HITS+450) | N/A |
+| 26 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 29 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
+| 30 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 31 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 32 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 33 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 34 | [Holika](http://twitter.com/search?q=Holika) | N/A |
+| 35 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
+| 36 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 37 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 38 | [London](http://twitter.com/search?q=London) | N/A |
+| 39 | [मिलन कार्यक्रम](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 40 | [ADMK](http://twitter.com/search?q=ADMK) | N/A |
+| 41 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 42 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 43 | [हनुमान बेनीवाल](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 44 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 45 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
+| 46 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
+| 47 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 48 | [#IndianCulture](http://twitter.com/search?q=%23IndianCulture) | N/A |
+| 49 | [#IStandWithShubhamShukla](http://twitter.com/search?q=%23IStandWithShubhamShukla) | N/A |
 
 
 

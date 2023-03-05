@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-05 15:16:20 UTC`
+📆 Last Updated: `2023-03-05 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
 | 3 | [#Seçimi100BinBelirleyecek](http://twitter.com/search?q=%23Se%c3%a7imi100BinBelirleyecek) | N/A |
 | 4 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 5 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 6 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
-| 7 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 8 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
-| 9 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 10 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 11 | [Yeşil](http://twitter.com/search?q=Ye%c5%9fil) | N/A |
-| 12 | [İyiKiGeldin OzanYakın](http://twitter.com/search?q=%c4%b0yiKiGeldin+OzanYak%c4%b1n) | N/A |
-| 13 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
-| 14 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
-| 15 | [bir olma vakti](http://twitter.com/search?q=bir+olma+vakti) | N/A |
-| 16 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
-| 17 | [İstiklal](http://twitter.com/search?q=%c4%b0stiklal) | N/A |
-| 18 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 19 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
-| 20 | [Kandilin](http://twitter.com/search?q=Kandilin) | N/A |
-| 21 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
-| 22 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 23 | [Oruspu](http://twitter.com/search?q=Oruspu) | N/A |
-| 24 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
-| 25 | [jitem](http://twitter.com/search?q=jitem) | N/A |
-| 26 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
-| 27 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
-| 28 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
-| 29 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 30 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 31 | [Jiletle](http://twitter.com/search?q=Jiletle) | N/A |
-| 32 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 33 | [Paçavra](http://twitter.com/search?q=Pa%c3%a7avra) | N/A |
-| 34 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
-| 35 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
-| 36 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 37 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
-| 38 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
-| 39 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
-| 40 | [Ruhat Mengi](http://twitter.com/search?q=Ruhat+Mengi) | N/A |
-| 41 | [Burası Türkiye](http://twitter.com/search?q=Buras%c4%b1+T%c3%bcrkiye) | N/A |
-| 42 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
-| 43 | [Alçaklar](http://twitter.com/search?q=Al%c3%a7aklar) | N/A |
-| 44 | [#İzleyicineKulakVerGHBG](http://twitter.com/search?q=%23%c4%b0zleyicineKulakVerGHBG) | N/A |
-| 45 | [#BahreinGP](http://twitter.com/search?q=%23BahreinGP) | N/A |
-| 46 | [#10BinFztYarayıSarar](http://twitter.com/search?q=%2310BinFztYaray%c4%b1Sarar) | N/A |
-| 47 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
-| 48 | [#5000VeKısmiTorbaya](http://twitter.com/search?q=%235000VeK%c4%b1smiTorbaya) | N/A |
-| 49 | [#WhatsApp](http://twitter.com/search?q=%23WhatsApp) | N/A |
-| 50 | [#BJKvANK](http://twitter.com/search?q=%23BJKvANK) | N/A |
+| 5 | [Bir Olma Vakti](http://twitter.com/search?q=Bir+Olma+Vakti) | N/A |
+| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
+| 9 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
+| 10 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
+| 11 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 12 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [yeşil](http://twitter.com/search?q=ye%c5%9fil) | N/A |
+| 16 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
+| 17 | [Kandilin](http://twitter.com/search?q=Kandilin) | N/A |
+| 18 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 19 | [İyiKiGeldin OzanYakın](http://twitter.com/search?q=%c4%b0yiKiGeldin+OzanYak%c4%b1n) | N/A |
+| 20 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
+| 23 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 24 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
+| 25 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
+| 26 | [İstiklal](http://twitter.com/search?q=%c4%b0stiklal) | N/A |
+| 27 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 28 | [Jitem](http://twitter.com/search?q=Jitem) | N/A |
+| 29 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
+| 30 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 31 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
+| 32 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
+| 33 | [Oruspu](http://twitter.com/search?q=Oruspu) | N/A |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 35 | [Jiletle](http://twitter.com/search?q=Jiletle) | N/A |
+| 36 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 37 | [Paçavra](http://twitter.com/search?q=Pa%c3%a7avra) | N/A |
+| 38 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 39 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
+| 40 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
+| 41 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
+| 42 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
+| 43 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
+| 44 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
+| 45 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 46 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 47 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 48 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 49 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 50 | [#İzleyicineKulakVerGHBG](http://twitter.com/search?q=%23%c4%b0zleyicineKulakVerGHBG) | N/A |
 
 
 

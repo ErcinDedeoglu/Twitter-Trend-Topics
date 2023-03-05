@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-05 15:16:22 UTC`
+📆 Last Updated: `2023-03-05 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [#SPNATL](http://twitter.com/search?q=%23SPNATL) | N/A |
-| 3 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 8 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
-| 9 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 10 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 11 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 12 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 13 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
-| 14 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 15 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 16 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 17 | [championship sunday](http://twitter.com/search?q=championship+sunday) | N/A |
-| 18 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 19 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 23 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 24 | [Jeremy Clarkson](http://twitter.com/search?q=Jeremy+Clarkson) | Jeremy Clarkson is an English broadcaster, journalist and writer who is best known for his role as a presenter on the BBC motoring show Top Gear. He is also the host of the Amazon Prime show The Grand Tour. The phrase "Jeremy Clarkson" has come to be associated with his outspoken views on a variety of topics, including cars, politics and current affairs. |
-| 25 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
-| 26 | [Alexander Torres](http://twitter.com/search?q=Alexander+Torres) | N/A |
-| 27 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
-| 28 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 29 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 30 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
-| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 32 | [LIGHTS OUT](http://twitter.com/search?q=LIGHTS+OUT) | N/A |
-| 33 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 34 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
-| 35 | [Coamo](http://twitter.com/search?q=Coamo) | N/A |
-| 36 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 37 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
-| 38 | [Tabasco](http://twitter.com/search?q=Tabasco) | N/A |
-| 39 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 40 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 41 | [Golden Corral](http://twitter.com/search?q=Golden+Corral) | N/A |
-| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 43 | [Salsa](http://twitter.com/search?q=Salsa) | N/A |
-| 44 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
-| 45 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 46 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 47 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 48 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 50 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 1 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 3 | [#SPNATL](http://twitter.com/search?q=%23SPNATL) | N/A |
+| 4 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 7 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 12 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 14 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
+| 15 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 16 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 19 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 22 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 23 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 24 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 25 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 26 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
+| 27 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 28 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 29 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 30 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 31 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
+| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 33 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 34 | [Danny Ric](http://twitter.com/search?q=Danny+Ric) | N/A |
+| 35 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 36 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 37 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 38 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 39 | [Zak Brown](http://twitter.com/search?q=Zak+Brown) | N/A |
+| 40 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
+| 41 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 42 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 44 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
+| 45 | [When You Touch Me](http://twitter.com/search?q=When+You+Touch+Me) | N/A |
+| 46 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
+| 47 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 48 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 49 | [Salsa](http://twitter.com/search?q=Salsa) | N/A |
+| 50 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
 
 
 

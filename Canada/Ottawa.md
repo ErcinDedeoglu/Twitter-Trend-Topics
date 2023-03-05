@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-05 15:15:38 UTC`
+📆 Last Updated: `2023-03-05 16:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 3 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 6 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 7 | [#ONstorm](http://twitter.com/search?q=%23ONstorm) | N/A |
-| 8 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 11 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 14 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 15 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 16 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 17 | [Lagacé](http://twitter.com/search?q=Lagac%c3%a9) | N/A |
-| 18 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 19 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 20 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 21 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 22 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 23 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
-| 24 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 25 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 26 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 29 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 30 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 31 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
-| 32 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 33 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 34 | [uniswap](http://twitter.com/search?q=uniswap) | N/A |
-| 35 | [mevs](http://twitter.com/search?q=mevs) | N/A |
-| 36 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 37 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 38 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 39 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 40 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
-| 41 | [Canuckle 295 X](http://twitter.com/search?q=Canuckle+295+X) | N/A |
-| 42 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 43 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 44 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 45 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 46 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 47 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 48 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 49 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 50 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 6 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 11 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 12 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 13 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 14 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 19 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 22 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 23 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 24 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
+| 25 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 26 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 27 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 28 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 30 | [Lagacé](http://twitter.com/search?q=Lagac%c3%a9) | N/A |
+| 31 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 32 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 33 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 36 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 37 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 38 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 39 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 40 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 41 | [Byfield](http://twitter.com/search?q=Byfield) | N/A |
+| 42 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 43 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
+| 44 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 45 | [mevs](http://twitter.com/search?q=mevs) | N/A |
+| 46 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 47 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 48 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 49 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 50 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
 
 
 
