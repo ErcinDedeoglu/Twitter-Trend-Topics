@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-05 16:16:55 UTC`
+📆 Last Updated: `2023-03-05 17:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 2 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 3 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 4 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
-| 5 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
-| 6 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 6 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
 | 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 8 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 11 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
-| 12 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 13 | [20M FOR ENHYPEN PRIDE](http://twitter.com/search?q=20M+FOR+ENHYPEN+PRIDE) | N/A |
+| 8 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 9 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 11 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 12 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 13 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 15 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 16 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 17 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 18 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 19 | [OMG FINALLY](http://twitter.com/search?q=OMG+FINALLY) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 22 | [ClashMasters JULIEVER](http://twitter.com/search?q=ClashMasters+JULIEVER) | N/A |
-| 23 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 24 | [On Me](http://twitter.com/search?q=On+Me) | N/A |
-| 25 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 26 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
-| 27 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
-| 28 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 29 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
-| 30 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 31 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 32 | [BarbieForteza HappyToGetHer](http://twitter.com/search?q=BarbieForteza+HappyToGetHer) | N/A |
+| 15 | [Jaehyun](http://twitter.com/search?q=Jaehyun) | N/A |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 20 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
+| 21 | [20M FOR ENHYPEN PRIDE](http://twitter.com/search?q=20M+FOR+ENHYPEN+PRIDE) | N/A |
+| 22 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 23 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 24 | [OMG FINALLY](http://twitter.com/search?q=OMG+FINALLY) | N/A |
+| 25 | [On Me](http://twitter.com/search?q=On+Me) | N/A |
+| 26 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 27 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 28 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
+| 29 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
+| 30 | [BINI LIVE AT CIRCUIT MAKATI](http://twitter.com/search?q=BINI+LIVE+AT+CIRCUIT+MAKATI) | N/A |
+| 31 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 32 | [barbieforteza happytogether](http://twitter.com/search?q=barbieforteza+happytogether) | N/A |
 | 33 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 34 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 35 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 36 | [#CrashCourseInRomanceEp16](http://twitter.com/search?q=%23CrashCourseInRomanceEp16) | N/A |
+| 34 | [#CrashCourseInRomanceEp16](http://twitter.com/search?q=%23CrashCourseInRomanceEp16) | N/A |
+| 35 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
+| 36 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
 | 37 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 38 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 39 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
-| 40 | [#Happy20MillionHeeCover](http://twitter.com/search?q=%23Happy20MillionHeeCover) | N/A |
-| 41 | [#김희철_18주년도_체리업](http://twitter.com/search?q=%23%ea%b9%80%ed%9d%ac%ec%b2%a0_18%ec%a3%bc%eb%85%84%eb%8f%84_%ec%b2%b4%eb%a6%ac%ec%97%85) | N/A |
+| 38 | [#베이비몬스터](http://twitter.com/search?q=%23%eb%b2%a0%ec%9d%b4%eb%b9%84%eb%aa%ac%ec%8a%a4%ed%84%b0) | N/A |
+| 39 | [#김희철_18주년도_체리업](http://twitter.com/search?q=%23%ea%b9%80%ed%9d%ac%ec%b2%a0_18%ec%a3%bc%eb%85%84%eb%8f%84_%ec%b2%b4%eb%a6%ac%ec%97%85) | N/A |
+| 40 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
+| 41 | [#WINWINxPFW23](http://twitter.com/search?q=%23WINWINxPFW23) | N/A |
 | 42 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
-| 43 | [#HEESEUNG_OFFMYFACE](http://twitter.com/search?q=%23HEESEUNG_OFFMYFACE) | N/A |
-| 44 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 45 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 43 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 44 | [#Happy20MillionHeeCover](http://twitter.com/search?q=%23Happy20MillionHeeCover) | N/A |
+| 45 | [#HEESEUNG_OFFMYFACE](http://twitter.com/search?q=%23HEESEUNG_OFFMYFACE) | N/A |
 | 46 | [#SongkangFunMeetinManila](http://twitter.com/search?q=%23SongkangFunMeetinManila) | N/A |
-| 47 | [#DarrenCanSeeYourVoice](http://twitter.com/search?q=%23DarrenCanSeeYourVoice) | N/A |
-| 48 | [#엔하이픈_희승](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88_%ed%9d%ac%ec%8a%b9) | N/A |
-| 49 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 47 | [#WINWINxValentino](http://twitter.com/search?q=%23WINWINxValentino) | N/A |
+| 48 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 49 | [#DarrenCanSeeYourVoice](http://twitter.com/search?q=%23DarrenCanSeeYourVoice) | N/A |
 
 
 

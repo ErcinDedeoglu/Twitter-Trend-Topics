@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-05 16:16:24 UTC`
+📆 Last Updated: `2023-03-05 17:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 2 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 6 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
-| 7 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
-| 8 | [#SourandSweetHighlight](http://twitter.com/search?q=%23SourandSweetHighlight) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 11 | [BamBam Highlight Medley](http://twitter.com/search?q=BamBam+Highlight+Medley) | N/A |
-| 12 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 13 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 14 | [Pedrinho matador](http://twitter.com/search?q=Pedrinho+matador) | N/A |
-| 15 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 16 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 17 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
-| 18 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
-| 19 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 20 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 21 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 22 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 23 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 24 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 25 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 27 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 28 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 29 | [キャパ2000](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%912000) | N/A |
-| 30 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
-| 31 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
-| 32 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
-| 33 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
-| 34 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 35 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 36 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
-| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 38 | [ガスリー](http://twitter.com/search?q=%e3%82%ac%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
-| 39 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 40 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 41 | [Bir Olma Vakti](http://twitter.com/search?q=Bir+Olma+Vakti) | N/A |
-| 42 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 43 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 44 | [ピアストリ](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%82%b9%e3%83%88%e3%83%aa) | N/A |
-| 45 | [心操くん](http://twitter.com/search?q=%e5%bf%83%e6%93%8d%e3%81%8f%e3%82%93) | N/A |
-| 46 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
-| 47 | [第26話](http://twitter.com/search?q=%e7%ac%ac26%e8%a9%b1) | N/A |
-| 48 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 49 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 50 | [出川さん](http://twitter.com/search?q=%e5%87%ba%e5%b7%9d%e3%81%95%e3%82%93) | 出川さん is a Japanese phrase that literally translates to "Mr. Degawa". It is a term of respect used to refer to someone who has achieved success in their field or profession. |
+| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 4 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 5 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 7 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 10 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
+| 15 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 16 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
+| 19 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 21 | [Pedrinho matador](http://twitter.com/search?q=Pedrinho+matador) | N/A |
+| 22 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 23 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 24 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 25 | [BamBam Highlight Medley](http://twitter.com/search?q=BamBam+Highlight+Medley) | N/A |
+| 26 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 27 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 28 | [ルクレール](http://twitter.com/search?q=%e3%83%ab%e3%82%af%e3%83%ac%e3%83%bc%e3%83%ab) | N/A |
+| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 30 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 31 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 33 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
+| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 35 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 36 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 37 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 38 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 39 | [DenklikHakkımızı Veriniz](http://twitter.com/search?q=DenklikHakk%c4%b1m%c4%b1z%c4%b1+Veriniz) | N/A |
+| 40 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 41 | [FahriÖğreticiyeKadroVerilsin](http://twitter.com/search?q=Fahri%c3%96%c4%9freticiyeKadroVerilsin) | N/A |
+| 42 | [サインツ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
+| 43 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 44 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
+| 45 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 48 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 49 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 50 | [ガスリー](http://twitter.com/search?q=%e3%82%ac%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
 
 
 

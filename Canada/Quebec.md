@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-05 16:16:25 UTC`
+📆 Last Updated: `2023-03-05 17:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 3 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 5 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 6 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 11 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 12 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 13 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 18 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 19 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 21 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 22 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 23 | [fnatic](http://twitter.com/search?q=fnatic) | N/A |
-| 24 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 25 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 26 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 5 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 7 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 8 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 10 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 13 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 20 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 21 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
 | 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 29 | [Lagacé](http://twitter.com/search?q=Lagac%c3%a9) | N/A |
-| 30 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 31 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 32 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 33 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 34 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 35 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 36 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 37 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 38 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 39 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 40 | [Byfield](http://twitter.com/search?q=Byfield) | N/A |
-| 41 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
-| 42 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 43 | [mevs](http://twitter.com/search?q=mevs) | N/A |
-| 44 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 45 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 46 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 47 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 48 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 49 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
+| 28 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 29 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 32 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 33 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 34 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 35 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 36 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 37 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 38 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 39 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 40 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 41 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 42 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 43 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 44 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 45 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 46 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 47 | [Lougheed](http://twitter.com/search?q=Lougheed) | N/A |
+| 48 | [15 ETH](http://twitter.com/search?q=15+ETH) | N/A |
+| 49 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
 
 
 

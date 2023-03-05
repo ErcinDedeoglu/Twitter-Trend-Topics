@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-05 16:16:35 UTC`
+📆 Last Updated: `2023-03-05 17:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 2 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 1 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 4 | [Pedrinho matador](http://twitter.com/search?q=Pedrinho+matador) | N/A |
-| 5 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
-| 6 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 7 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 9 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 5 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [#F1naBand](http://twitter.com/search?q=%23F1naBand) | N/A |
+| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 11 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 12 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 14 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 15 | [#SkateNoVE](http://twitter.com/search?q=%23SkateNoVE) | N/A |
-| 16 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 20 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [Fearless TV](http://twitter.com/search?q=Fearless+TV) | N/A |
-| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 24 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
-| 25 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
-| 26 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 27 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 28 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 29 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 30 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 31 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 32 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
-| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 34 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 35 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
-| 36 | [Mataram o Pedrinho](http://twitter.com/search?q=Mataram+o+Pedrinho) | N/A |
-| 37 | [Jardel](http://twitter.com/search?q=Jardel) | N/A |
-| 38 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 39 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 40 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 41 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 42 | [Paulo Nunes](http://twitter.com/search?q=Paulo+Nunes) | N/A |
-| 43 | [Ricciardo](http://twitter.com/search?q=Ricciardo) | N/A |
-| 44 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 16 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 17 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 19 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 20 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 21 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 22 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 23 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 24 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
+| 25 | [Fearless TV](http://twitter.com/search?q=Fearless+TV) | N/A |
+| 26 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 27 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 28 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 29 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 30 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 31 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 32 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
+| 33 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 34 | [Liverpool x United](http://twitter.com/search?q=Liverpool+x+United) | N/A |
+| 35 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 36 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 37 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
+| 38 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
+| 39 | [Astúrias](http://twitter.com/search?q=Ast%c3%barias) | N/A |
+| 40 | [NO POWER](http://twitter.com/search?q=NO+POWER) | N/A |
+| 41 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 42 | [Mogi](http://twitter.com/search?q=Mogi) | N/A |
+| 43 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 44 | [Parmegiana](http://twitter.com/search?q=Parmegiana) | Parmegiana is an Italian dish made with breaded and fried slices of eggplant, topped with tomato sauce, mozzarella cheese, and Parmesan cheese. The name comes from the Italian word for Parmesan cheese, "Parmigiano". In English, it is often referred to as Eggplant Parmesan. |
+| 45 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 46 | [Liverpool x Manchester United](http://twitter.com/search?q=Liverpool+x+Manchester+United) | N/A |
+| 47 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 48 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 49 | [Jardel](http://twitter.com/search?q=Jardel) | N/A |
+| 50 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-05 16:16:51 UTC`
+📆 Last Updated: `2023-03-05 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
-| 2 | [レイちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | レイちゃん is a nickname for the Japanese name Rei. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
-| 3 | [Second Sparkle](http://twitter.com/search?q=Second+Sparkle) | N/A |
-| 4 | [ディアボ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%83%9c) | N/A |
-| 5 | [なぎちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 6 | [#行列のできる相談所](http://twitter.com/search?q=%23%e8%a1%8c%e5%88%97%e3%81%ae%e3%81%a7%e3%81%8d%e3%82%8b%e7%9b%b8%e8%ab%87%e6%89%80) | #行列のできる相談所 is a Japanese hashtag that translates to "Consultation Office for Arrangements". It is used to refer to a place where people can go for advice and assistance in arranging their affairs. |
-| 7 | [YOLO](http://twitter.com/search?q=YOLO) | N/A |
-| 8 | [#世界一のギタリスト](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e4%b8%80%e3%81%ae%e3%82%ae%e3%82%bf%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
-| 9 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
-| 10 | [#東京03CreepyNuts武道館](http://twitter.com/search?q=%23%e6%9d%b1%e4%ba%ac03CreepyNuts%e6%ad%a6%e9%81%93%e9%a4%a8) | N/A |
-| 11 | [#あざと連ドラ](http://twitter.com/search?q=%23%e3%81%82%e3%81%96%e3%81%a8%e9%80%a3%e3%83%89%e3%83%a9) | N/A |
-| 12 | [ダブルアンコール](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%a2%e3%83%b3%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
-| 13 | [浅野さん](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 14 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
-| 15 | [忍たま乱太郎](http://twitter.com/search?q=%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e) | N/A |
-| 16 | [情熱大陸](http://twitter.com/search?q=%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | 情熱大陸 (Namaiki! Zenryoku-jōi Sengen) is a Japanese variety show that aired on Fuji TV from October 7, 1997 to September 28, 2003. The show's title translates to "Passionate Continent: A Declaration of Full-Force Enthusiasm". It was a popular variety show that featured various celebrities and comedians in skits and games. |
-| 17 | [スタジオライブ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%aa%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 18 | [片桐はいりさん](http://twitter.com/search?q=%e7%89%87%e6%a1%90%e3%81%af%e3%81%84%e3%82%8a%e3%81%95%e3%82%93) | N/A |
-| 19 | [ペイちゃん](http://twitter.com/search?q=%e3%83%9a%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [#賢者の時間](http://twitter.com/search?q=%23%e8%b3%a2%e8%80%85%e3%81%ae%e6%99%82%e9%96%93) | N/A |
-| 21 | [ヤフオク障害](http://twitter.com/search?q=%e3%83%a4%e3%83%95%e3%82%aa%e3%82%af%e9%9a%9c%e5%ae%b3) | N/A |
-| 22 | [ヨォーヨちゃん](http://twitter.com/search?q=%e3%83%a8%e3%82%a9%e3%83%bc%e3%83%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 1 | [新幹線遅延](http://twitter.com/search?q=%e6%96%b0%e5%b9%b9%e7%b7%9a%e9%81%85%e5%bb%b6) | N/A |
+| 2 | [#虚構推理](http://twitter.com/search?q=%23%e8%99%9a%e6%a7%8b%e6%8e%a8%e7%90%86) | N/A |
+| 3 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
+| 4 | [レイちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | レイちゃん is a nickname for the Japanese name Rei. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 5 | [マスター文化](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e6%96%87%e5%8c%96) | N/A |
+| 6 | [Second Sparkle](http://twitter.com/search?q=Second+Sparkle) | N/A |
+| 7 | [#便利屋斎藤さん](http://twitter.com/search?q=%23%e4%be%bf%e5%88%a9%e5%b1%8b%e6%96%8e%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 8 | [ディアボ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%83%9c) | N/A |
+| 9 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 10 | [なぎちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 11 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
+| 12 | [ヨォーヨちゃん](http://twitter.com/search?q=%e3%83%a8%e3%82%a9%e3%83%bc%e3%83%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 13 | [カースタント](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88) | N/A |
+| 14 | [#anan表紙](http://twitter.com/search?q=%23anan%e8%a1%a8%e7%b4%99) | N/A |
+| 15 | [#ガキの使い](http://twitter.com/search?q=%23%e3%82%ac%e3%82%ad%e3%81%ae%e4%bd%bf%e3%81%84) | N/A |
+| 16 | [江口のりこ](http://twitter.com/search?q=%e6%b1%9f%e5%8f%a3%e3%81%ae%e3%82%8a%e3%81%93) | N/A |
+| 17 | [なーたん](http://twitter.com/search?q=%e3%81%aa%e3%83%bc%e3%81%9f%e3%82%93) | なーたん is a nickname for the Japanese name "Natsuki". It is a combination of the first two syllables of the name, and is often used as an affectionate term. In English, it could be translated to something like "Nattie" or "Natty". |
+| 18 | [#世界一のギタリスト](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e4%b8%80%e3%81%ae%e3%82%ae%e3%82%bf%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
+| 19 | [ラブライブ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | ラブライブ is a Japanese multimedia franchise created by ASCII Media Works' Dengeki G's Magazine. It follows the story of a group of nine schoolgirls who become idols in order to save their school from shutting down. The title is a combination of the words "love" and "live", meant to signify the girls' passion and energy as they strive to make their dreams come true. In English, it can be translated as "Love Live!" |
+| 20 | [ショーン](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%b3) | N/A |
+| 21 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
+| 22 | [ルクレール](http://twitter.com/search?q=%e3%83%ab%e3%82%af%e3%83%ac%e3%83%bc%e3%83%ab) | N/A |
 | 23 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 24 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 25 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
-| 26 | [キャパ2000](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%912000) | N/A |
-| 27 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
-| 28 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 29 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
-| 30 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
-| 31 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 32 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
+| 24 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
+| 25 | [サインツ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
+| 26 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
+| 27 | [ガスリー](http://twitter.com/search?q=%e3%82%ac%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
+| 28 | [浅野忠信](http://twitter.com/search?q=%e6%b5%85%e9%87%8e%e5%bf%a0%e4%bf%a1) | N/A |
+| 29 | [キャパ2000](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%912000) | N/A |
+| 30 | [角田くん](http://twitter.com/search?q=%e8%a7%92%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
+| 31 | [レッドブル](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%83%96%e3%83%ab) | N/A |
+| 32 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
 | 33 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
-| 34 | [ガスリー](http://twitter.com/search?q=%e3%82%ac%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
-| 35 | [心操くん](http://twitter.com/search?q=%e5%bf%83%e6%93%8d%e3%81%8f%e3%82%93) | N/A |
-| 36 | [第26話](http://twitter.com/search?q=%e7%ac%ac26%e8%a9%b1) | N/A |
-| 37 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
-| 38 | [ピアストリ](http://twitter.com/search?q=%e3%83%94%e3%82%a2%e3%82%b9%e3%83%88%e3%83%aa) | N/A |
-| 39 | [出川さん](http://twitter.com/search?q=%e5%87%ba%e5%b7%9d%e3%81%95%e3%82%93) | 出川さん is a Japanese phrase that literally translates to "Mr. Degawa". It is a term of respect used to refer to someone who has achieved success in their field or profession. |
+| 34 | [フェルスタッペン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%83%9a%e3%83%b3) | N/A |
+| 35 | [ウィリアムズ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%a2%e3%83%a0%e3%82%ba) | N/A |
+| 36 | [フレンチクルーラー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%82%af%e3%83%ab%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 37 | [エリオット](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%aa%e3%83%83%e3%83%88) | エリオット (Eliott) is a Japanese given name for boys. It is derived from the English name Elliott, which is of Hebrew origin and means "Jehovah is God". |
+| 38 | [アストン](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%83%88%e3%83%b3) | N/A |
+| 39 | [ピットミス](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%88%e3%83%9f%e3%82%b9) | N/A |
 | 40 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
-| 41 | [北ちゃん](http://twitter.com/search?q=%e5%8c%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 42 | [爆走兄弟レッツ](http://twitter.com/search?q=%e7%88%86%e8%b5%b0%e5%85%84%e5%bc%9f%e3%83%ac%e3%83%83%e3%83%84) | N/A |
-| 43 | [ベビモン](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%a2%e3%83%b3) | N/A |
-| 44 | [ターン10](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%b310) | N/A |
-| 45 | [あいみょん](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%81%bf%e3%82%87%e3%82%93) | N/A |
-| 46 | [ストロール](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 47 | [真希さん](http://twitter.com/search?q=%e7%9c%9f%e5%b8%8c%e3%81%95%e3%82%93) | N/A |
-| 48 | [スノハレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%8f%e3%83%ac) | N/A |
-| 49 | [忘羨結婚](http://twitter.com/search?q=%e5%bf%98%e7%be%a8%e7%b5%90%e5%a9%9a) | 忘羨結婚 is a Chinese phrase that literally translates to "forget envy and marry". It is used to describe a situation in which two people are so in love with each other that they forget about any feelings of envy or jealousy they may have had for each other. In English, it can be interpreted as "marry without envy". |
-| 50 | [焼きオムライス](http://twitter.com/search?q=%e7%84%bc%e3%81%8d%e3%82%aa%e3%83%a0%e3%83%a9%e3%82%a4%e3%82%b9) | N/A |
+| 41 | [第26話](http://twitter.com/search?q=%e7%ac%ac26%e8%a9%b1) | N/A |
+| 42 | [加藤の粉雪](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%ae%e7%b2%89%e9%9b%aa) | N/A |
+| 43 | [真夏さん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%8f%e3%81%95%e3%82%93) | 真夏さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr./Ms. Midsummer" in English. |
+| 44 | [板垣くん](http://twitter.com/search?q=%e6%9d%bf%e5%9e%a3%e3%81%8f%e3%82%93) | N/A |
+| 45 | [ストロール](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
+| 46 | [オーバーテイク](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%86%e3%82%a4%e3%82%af) | N/A |
+| 47 | [メルセデス](http://twitter.com/search?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9) | N/A |
+| 48 | [心操くん](http://twitter.com/search?q=%e5%bf%83%e6%93%8d%e3%81%8f%e3%82%93) | N/A |
+| 49 | [ベビモン](http://twitter.com/search?q=%e3%83%99%e3%83%93%e3%83%a2%e3%83%b3) | N/A |
+| 50 | [マクラーレン](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%a9%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
 
 
 

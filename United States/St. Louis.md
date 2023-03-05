@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-05 16:17:16 UTC`
+📆 Last Updated: `2023-03-05 17:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 3 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 4 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 1 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 11 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 9 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 11 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 12 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 14 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
-| 15 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 16 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 17 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 13 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 16 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 17 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
 | 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 19 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 21 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 22 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 23 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
-| 24 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 25 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 26 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
-| 27 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 28 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 29 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 30 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 31 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
-| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 33 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 34 | [Danny Ric](http://twitter.com/search?q=Danny+Ric) | N/A |
-| 35 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 36 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 37 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 38 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 39 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 40 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 41 | [Zak Brown](http://twitter.com/search?q=Zak+Brown) | N/A |
-| 42 | [Crispus Attucks](http://twitter.com/search?q=Crispus+Attucks) | N/A |
-| 43 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 44 | [Boston Massacre](http://twitter.com/search?q=Boston+Massacre) | N/A |
-| 45 | [When You Touch Me](http://twitter.com/search?q=When+You+Touch+Me) | N/A |
-| 46 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
-| 47 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 48 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
-| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 50 | [Salsa](http://twitter.com/search?q=Salsa) | N/A |
+| 19 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [Dave Wills](http://twitter.com/search?q=Dave+Wills) | N/A |
+| 23 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 25 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 26 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 27 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 28 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 29 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 30 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 31 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 32 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
+| 33 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 35 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 36 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 37 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 38 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 39 | [RIP Dave](http://twitter.com/search?q=RIP+Dave) | N/A |
+| 40 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 41 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 42 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
+| 43 | [Paul Pierce](http://twitter.com/search?q=Paul+Pierce) | N/A |
+| 44 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
+| 45 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 46 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 47 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 48 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 49 | [Happy 305](http://twitter.com/search?q=Happy+305) | N/A |
+| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 
 
 

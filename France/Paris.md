@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-05 16:16:40 UTC`
+📆 Last Updated: `2023-03-05 17:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 1 | [#greve7mars](http://twitter.com/search?q=%23greve7mars) | N/A |
 | 2 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 3 | [#greve7mars](http://twitter.com/search?q=%23greve7mars) | N/A |
-| 4 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 3 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 4 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
 | 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [#TFCCF63](http://twitter.com/search?q=%23TFCCF63) | N/A |
-| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 10 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 11 | [#RCSASB29](http://twitter.com/search?q=%23RCSASB29) | N/A |
-| 12 | [#MHSCSCO](http://twitter.com/search?q=%23MHSCSCO) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 15 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 6 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 9 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 10 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 11 | [#OLFCL](http://twitter.com/search?q=%23OLFCL) | N/A |
+| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 14 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 15 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
 | 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 17 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 18 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 19 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 20 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 21 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 22 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 25 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
-| 26 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 27 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 28 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 29 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 30 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 31 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 32 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 33 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 34 | [Volland](http://twitter.com/search?q=Volland) | N/A |
-| 35 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 36 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 37 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 38 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 39 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 40 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 41 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 42 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 43 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 44 | [Avatar 2](http://twitter.com/search?q=Avatar+2) | N/A |
-| 45 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 46 | [Retailleau](http://twitter.com/search?q=Retailleau) | N/A |
-| 47 | [Abou](http://twitter.com/search?q=Abou) | N/A |
-| 48 | [L'alcool](http://twitter.com/search?q=L%27alcool) | N/A |
-| 49 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 50 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
+| 17 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 18 | [#RCSASB29](http://twitter.com/search?q=%23RCSASB29) | N/A |
+| 19 | [#66minutes](http://twitter.com/search?q=%2366minutes) | N/A |
+| 20 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Valence](http://twitter.com/search?q=Valence) | N/A |
+| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 24 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 25 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 26 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 28 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 29 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
+| 30 | [1er GP](http://twitter.com/search?q=1er+GP) | N/A |
+| 31 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 32 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 33 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 34 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 35 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 36 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
+| 37 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 38 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
+| 39 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 40 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
+| 41 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 42 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 43 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 44 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 45 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 46 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 47 | [Pierrot](http://twitter.com/search?q=Pierrot) | N/A |
+| 48 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 49 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 50 | [Staline](http://twitter.com/search?q=Staline) | N/A |
 
 
 

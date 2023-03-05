@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-05 16:16:32 UTC`
+📆 Last Updated: `2023-03-05 17:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 4 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 8 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 9 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 15 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 18 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 19 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 20 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 23 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 24 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 26 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 27 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 29 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 30 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 31 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 32 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
-| 33 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
-| 34 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 35 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 36 | [#RedBull](http://twitter.com/search?q=%23RedBull) | N/A |
+| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [#ParamountPlus](http://twitter.com/search?q=%23ParamountPlus) | N/A |
+| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 12 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
+| 13 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 14 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 19 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
+| 23 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 24 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 25 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 26 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 27 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 28 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 29 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 30 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 31 | [EL PLAN](http://twitter.com/search?q=EL+PLAN) | N/A |
+| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 33 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 34 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 35 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 36 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 37 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 38 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 39 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 40 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 41 | [#F1DriveroftheDay](http://twitter.com/search?q=%23F1DriveroftheDay) | N/A |
+| 42 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 43 | [#OnTheStreetParty](http://twitter.com/search?q=%23OnTheStreetParty) | N/A |
+| 44 | [#DCCconReb](http://twitter.com/search?q=%23DCCconReb) | N/A |
+| 45 | [#SetMeFree_MVTeaser1](http://twitter.com/search?q=%23SetMeFree_MVTeaser1) | N/A |
+| 46 | [#BarhainGP](http://twitter.com/search?q=%23BarhainGP) | N/A |
+| 47 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
 
 
 

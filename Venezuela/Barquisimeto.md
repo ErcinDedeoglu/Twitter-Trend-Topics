@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-05 16:16:37 UTC`
+📆 Last Updated: `2023-03-05 17:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,35 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YoSoyChávez](http://twitter.com/search?q=%23YoSoyCh%c3%a1vez) | N/A |
-| 2 | [#5Mar](http://twitter.com/search?q=%235Mar) | N/A |
-| 3 | [#68años](http://twitter.com/search?q=%2368a%c3%b1os) | N/A |
-| 4 | [#AlianzaPorLaEducación](http://twitter.com/search?q=%23AlianzaPorLaEducaci%c3%b3n) | N/A |
-| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 9 | [Feliz 5](http://twitter.com/search?q=Feliz+5) | N/A |
-| 10 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 11 | [Día del Campesino](http://twitter.com/search?q=D%c3%ada+del+Campesino) | N/A |
-| 12 | [Maracayeros](http://twitter.com/search?q=Maracayeros) | N/A |
-| 13 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 14 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 15 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 16 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 17 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 18 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
-| 19 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
-| 20 | [Lina Ron](http://twitter.com/search?q=Lina+Ron) | N/A |
-| 21 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 22 | [Ciudad Jardín](http://twitter.com/search?q=Ciudad+Jard%c3%adn) | N/A |
-| 23 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
-| 24 | [Raúl Castro](http://twitter.com/search?q=Ra%c3%bal+Castro) | N/A |
-| 25 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 28 | [DESARROLLO SOSTENIBLE](http://twitter.com/search?q=DESARROLLO+SOSTENIBLE) | N/A |
-| 29 | [arístides rojas](http://twitter.com/search?q=ar%c3%adstides+rojas) | N/A |
-| 30 | [día mundial de la ingeniería](http://twitter.com/search?q=d%c3%ada+mundial+de+la+ingenier%c3%ada) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [Arturo Peraza](http://twitter.com/search?q=Arturo+Peraza) | N/A |
-| 33 | [Siembra](http://twitter.com/search?q=Siembra) | N/A |
-| 34 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
-| 35 | [Sambil](http://twitter.com/search?q=Sambil) | N/A |
-| 36 | [barracuda](http://twitter.com/search?q=barracuda) | N/A |
-| 37 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 38 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 39 | [Dinamo](http://twitter.com/search?q=Dinamo) | N/A |
-| 40 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 41 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 42 | [Legado](http://twitter.com/search?q=Legado) | N/A |
-| 43 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 44 | [10 Años](http://twitter.com/search?q=10+A%c3%b1os) | N/A |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 47 | [ardilla](http://twitter.com/search?q=ardilla) | N/A |
-| 48 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
-| 49 | [Rayo Zuliano](http://twitter.com/search?q=Rayo+Zuliano) | N/A |
+| 1 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 2 | [#YoSoyChávez](http://twitter.com/search?q=%23YoSoyCh%c3%a1vez) | N/A |
+| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 4 | [#5Mar](http://twitter.com/search?q=%235Mar) | N/A |
+| 5 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 8 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 9 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 10 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 11 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
+| 12 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 13 | [#68años](http://twitter.com/search?q=%2368a%c3%b1os) | N/A |
+| 14 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 17 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 18 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 20 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 22 | [Maracay](http://twitter.com/search?q=Maracay) | N/A |
+| 23 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 24 | [Feliz 5](http://twitter.com/search?q=Feliz+5) | N/A |
+| 25 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
+| 26 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 27 | [Patria](http://twitter.com/search?q=Patria) | N/A |
+| 28 | [#AlianzaPorLaEducación](http://twitter.com/search?q=%23AlianzaPorLaEducaci%c3%b3n) | N/A |
+| 29 | [#CubaPorLaVida](http://twitter.com/search?q=%23CubaPorLaVida) | N/A |
 
 
 

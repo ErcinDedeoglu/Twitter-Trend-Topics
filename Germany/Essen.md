@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-05 16:16:41 UTC`
+📆 Last Updated: `2023-03-05 17:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 2 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
-| 3 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 4 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
-| 5 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
-| 6 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 7 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 8 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 9 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 10 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 11 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 12 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 13 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 17 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 18 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 19 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 20 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
-| 21 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 22 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 23 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 24 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 25 | [Fratze](http://twitter.com/search?q=Fratze) | N/A |
-| 26 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 28 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 29 | [Vergleiche](http://twitter.com/search?q=Vergleiche) | N/A |
-| 30 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
-| 31 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 32 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 33 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 34 | [#SailorMoon](http://twitter.com/search?q=%23SailorMoon) | N/A |
-| 35 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 36 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
-| 37 | [#Formel1](http://twitter.com/search?q=%23Formel1) | N/A |
-| 38 | [#VFBMSV](http://twitter.com/search?q=%23VFBMSV) | N/A |
-| 39 | [#FCHKSC](http://twitter.com/search?q=%23FCHKSC) | N/A |
-| 40 | [#WOBSGE](http://twitter.com/search?q=%23WOBSGE) | N/A |
-| 41 | [#Bramsche](http://twitter.com/search?q=%23Bramsche) | N/A |
-| 42 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 43 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
-| 44 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 45 | [#obwahlffm](http://twitter.com/search?q=%23obwahlffm) | N/A |
-| 46 | [#Soeder](http://twitter.com/search?q=%23Soeder) | N/A |
-| 47 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
-| 48 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
-| 49 | [#lastgeneration](http://twitter.com/search?q=%23lastgeneration) | N/A |
+| 2 | [#WOBSGE](http://twitter.com/search?q=%23WOBSGE) | N/A |
+| 3 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 7 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 8 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 9 | [Podium](http://twitter.com/search?q=Podium) | N/A |
+| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 11 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 12 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 13 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 15 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 16 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 17 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 18 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 20 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 21 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 23 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 24 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
+| 25 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 26 | [Reaktionen](http://twitter.com/search?q=Reaktionen) | N/A |
+| 27 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 28 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 29 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
+| 30 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 31 | [Fratze](http://twitter.com/search?q=Fratze) | N/A |
+| 32 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
+| 33 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
+| 34 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 35 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 36 | [Vergleiche](http://twitter.com/search?q=Vergleiche) | N/A |
+| 37 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 38 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 39 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
+| 40 | [#Formel1](http://twitter.com/search?q=%23Formel1) | N/A |
+| 41 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 42 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
+| 43 | [#SailorMoon](http://twitter.com/search?q=%23SailorMoon) | N/A |
+| 44 | [#SVWFCB](http://twitter.com/search?q=%23SVWFCB) | N/A |
+| 45 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 46 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
+| 47 | [#Bramsche](http://twitter.com/search?q=%23Bramsche) | N/A |
+| 48 | [#VFBMSV](http://twitter.com/search?q=%23VFBMSV) | N/A |
+| 49 | [#Kindergrundsicherung](http://twitter.com/search?q=%23Kindergrundsicherung) | N/A |
 
 
 

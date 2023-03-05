@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-05 16:16:47 UTC`
+📆 Last Updated: `2023-03-05 17:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 2 | [#JENO](http://twitter.com/search?q=%23JENO) | N/A |
-| 3 | [#HAECHAN](http://twitter.com/search?q=%23HAECHAN) | N/A |
-| 4 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 7 | [7 YEARS WITH CHENLE](http://twitter.com/search?q=7+YEARS+WITH+CHENLE) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [HAPPY BIRTHDAY WANG ZIHAO](http://twitter.com/search?q=HAPPY+BIRTHDAY+WANG+ZIHAO) | N/A |
-| 10 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 11 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 15 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 16 | [WITHOUT U MV TEASER 2](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+2) | N/A |
-| 17 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
-| 18 | [Kim Heechul](http://twitter.com/search?q=Kim+Heechul) | N/A |
-| 19 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 20 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 22 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 23 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 24 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 25 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 26 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 27 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 28 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Beras](http://twitter.com/search?q=Beras) | N/A |
-| 31 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 33 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 35 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 36 | [sukaa](http://twitter.com/search?q=sukaa) | N/A |
+| 1 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 2 | [#KamiMauLiga2Baru](http://twitter.com/search?q=%23KamiMauLiga2Baru) | N/A |
+| 3 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
+| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [7 YEARS WITH CHENLE](http://twitter.com/search?q=7+YEARS+WITH+CHENLE) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 11 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 12 | [HAPPY BIRTHDAY WANG ZIHAO](http://twitter.com/search?q=HAPPY+BIRTHDAY+WANG+ZIHAO) | N/A |
+| 13 | [BABYMONSTER OT7](http://twitter.com/search?q=BABYMONSTER+OT7) | N/A |
+| 14 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 15 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 16 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 19 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 21 | [WITHOUT U MV TEASER 2](http://twitter.com/search?q=WITHOUT+U+MV+TEASER+2) | N/A |
+| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 23 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 24 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 25 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
+| 26 | [Kim Heechul](http://twitter.com/search?q=Kim+Heechul) | N/A |
+| 27 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 28 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 29 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 32 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 33 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 34 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
+| 35 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 36 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
 | 37 | [Bubur](http://twitter.com/search?q=Bubur) | N/A |
-| 38 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 39 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 40 | [Terang](http://twitter.com/search?q=Terang) | N/A |
-| 41 | [Kamar](http://twitter.com/search?q=Kamar) | N/A |
-| 42 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
-| 43 | [#KamiMauLiga2Baru](http://twitter.com/search?q=%23KamiMauLiga2Baru) | N/A |
-| 44 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
-| 45 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
-| 46 | [#ITSZIHAODAY](http://twitter.com/search?q=%23ITSZIHAODAY) | N/A |
-| 47 | [#王子浩0306生日快乐](http://twitter.com/search?q=%23%e7%8e%8b%e5%ad%90%e6%b5%a90306%e7%94%9f%e6%97%a5%e5%bf%ab%e4%b9%90) | N/A |
-| 48 | [#DANCEKING_ZIHAO_DAY](http://twitter.com/search?q=%23DANCEKING_ZIHAO_DAY) | N/A |
+| 38 | [Beras](http://twitter.com/search?q=Beras) | N/A |
+| 39 | [Sukaa](http://twitter.com/search?q=Sukaa) | N/A |
+| 40 | [Kamar](http://twitter.com/search?q=Kamar) | N/A |
+| 41 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 42 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 43 | [#CrashCourseInRomanceEp16](http://twitter.com/search?q=%23CrashCourseInRomanceEp16) | N/A |
+| 44 | [#ITSZIHAODAY](http://twitter.com/search?q=%23ITSZIHAODAY) | N/A |
+| 45 | [#DANCEKING_ZIHAO_DAY](http://twitter.com/search?q=%23DANCEKING_ZIHAO_DAY) | N/A |
+| 46 | [#王子浩0306生日快乐](http://twitter.com/search?q=%23%e7%8e%8b%e5%ad%90%e6%b5%a90306%e7%94%9f%e6%97%a5%e5%bf%ab%e4%b9%90) | N/A |
+| 47 | [#김희철_18주년도_체리업](http://twitter.com/search?q=%23%ea%b9%80%ed%9d%ac%ec%b2%a0_18%ec%a3%bc%eb%85%84%eb%8f%84_%ec%b2%b4%eb%a6%ac%ec%97%85) | N/A |
+| 48 | [#ROVER_MoodSampler2](http://twitter.com/search?q=%23ROVER_MoodSampler2) | N/A |
 
 
 
