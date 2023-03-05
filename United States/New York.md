@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-05 07:16:53 UTC`
+📆 Last Updated: `2023-03-05 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 2 | [cardi](http://twitter.com/search?q=cardi) | N/A |
-| 3 | [#DreamcatcherInNYC](http://twitter.com/search?q=%23DreamcatcherInNYC) | N/A |
-| 4 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 5 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 10 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 11 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 12 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 13 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 14 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 16 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 17 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 18 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 19 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 1 | [cardi](http://twitter.com/search?q=cardi) | N/A |
+| 2 | [#DreamcatcherInNYC](http://twitter.com/search?q=%23DreamcatcherInNYC) | N/A |
+| 3 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 7 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 9 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 10 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 11 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 12 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 13 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 14 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 15 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 16 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 17 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 18 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 19 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
 | 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 21 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 21 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
 | 22 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 23 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 24 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 25 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 23 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 24 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 26 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
 | 27 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 28 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 29 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 30 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 31 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 32 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 33 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 34 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 35 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 36 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 37 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 38 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 29 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 30 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 31 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 32 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 33 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 34 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 35 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 36 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 37 | [Kush](http://twitter.com/search?q=Kush) | N/A |
+| 38 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
 | 39 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 40 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 41 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
-| 42 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 43 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 40 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 41 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 42 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 43 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
 | 44 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 45 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 45 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 46 | [#RollingLoud2023](http://twitter.com/search?q=%23RollingLoud2023) | N/A |
-| 47 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 48 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
-| 49 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
-| 50 | [#ONEPIECE](http://twitter.com/search?q=%23ONEPIECE) | N/A |
+| 47 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
+| 48 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 49 | [#ONEPIECE](http://twitter.com/search?q=%23ONEPIECE) | N/A |
+| 50 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-05 07:16:03 UTC`
+📆 Last Updated: `2023-03-05 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,43 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 3 | [#WWEToronto](http://twitter.com/search?q=%23WWEToronto) | N/A |
-| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 5 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 6 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 7 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 8 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 10 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 11 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 12 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 13 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 14 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 16 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 17 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 18 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 19 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 20 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 1 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 2 | [#WWEToronto](http://twitter.com/search?q=%23WWEToronto) | N/A |
+| 3 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 4 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 5 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 8 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 10 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 11 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 12 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 13 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 14 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 15 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 16 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 17 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 18 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 19 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 20 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
 | 21 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
-| 22 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 22 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
 | 23 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 24 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 25 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 24 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 25 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
 | 26 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 27 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 28 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 29 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 30 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
-| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 32 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 33 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 34 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 35 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 36 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 37 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 38 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
-| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 41 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 42 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 43 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 44 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 45 | [#GOAT](http://twitter.com/search?q=%23GOAT) | #GOAT stands for "Greatest Of All Time" and is used to refer to someone or something that is the best in its field. |
-| 46 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 47 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 48 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 49 | [#WhoWantsIt](http://twitter.com/search?q=%23WhoWantsIt) | N/A |
+| 27 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 28 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 29 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 30 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 31 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 32 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 33 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 34 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 35 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 36 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 37 | [#WhoWantsIt](http://twitter.com/search?q=%23WhoWantsIt) | N/A |
 
 
 

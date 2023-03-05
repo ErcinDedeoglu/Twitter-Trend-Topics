@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-05 07:16:55 UTC`
+📆 Last Updated: `2023-03-05 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
-| 2 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 3 | [Durzi](http://twitter.com/search?q=Durzi) | N/A |
-| 4 | [Vilardi](http://twitter.com/search?q=Vilardi) | N/A |
-| 5 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 6 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 2 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
+| 3 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
+| 4 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 5 | [Durzi](http://twitter.com/search?q=Durzi) | N/A |
+| 6 | [Vilardi](http://twitter.com/search?q=Vilardi) | N/A |
+| 7 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
 | 8 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
-| 9 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 10 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 11 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 10 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 11 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
 | 12 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 13 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 14 | [Go Bruins](http://twitter.com/search?q=Go+Bruins) | N/A |
+| 13 | [#GoBruins](http://twitter.com/search?q=%23GoBruins) | N/A |
+| 14 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
 | 15 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 16 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 17 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 18 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 19 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 20 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 21 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 22 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 23 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 24 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 25 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
-| 26 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 27 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 28 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 29 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 30 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 31 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 32 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 33 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 34 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 35 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 36 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 37 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 38 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 39 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 40 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 41 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 42 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 43 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 44 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 45 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 46 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 47 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 48 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 49 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 50 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 16 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 17 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 18 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 19 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 20 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 21 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 22 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 23 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 24 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 25 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 26 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 27 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 28 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 29 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 30 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 31 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 32 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 33 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 34 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 35 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 36 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 37 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 38 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 40 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 41 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 42 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 43 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 44 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 45 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 46 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 47 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 48 | [Kush](http://twitter.com/search?q=Kush) | N/A |
+| 49 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
+| 50 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
 
 
 

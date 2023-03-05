@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-05 07:16:32 UTC`
+📆 Last Updated: `2023-03-05 08:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 4 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
 | 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 7 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 8 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 9 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
 | 12 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 13 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 13 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 14 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 15 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 15 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 17 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 19 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 20 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 21 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 22 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 23 | [bukit jalil](http://twitter.com/search?q=bukit+jalil) | N/A |
-| 24 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 17 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 18 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 19 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 21 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 22 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 23 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 24 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 | 25 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
 | 26 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 28 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
 | 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 30 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 31 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 32 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 33 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 34 | [Armin](http://twitter.com/search?q=Armin) | N/A |
-| 35 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 36 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 37 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
-| 38 | [pink ocean](http://twitter.com/search?q=pink+ocean) | N/A |
-| 39 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 41 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 42 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 43 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 44 | [Alia](http://twitter.com/search?q=Alia) | N/A |
-| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 47 | [8 MX SONGS TO GET TO KNOW ME](http://twitter.com/search?q=8+MX+SONGS+TO+GET+TO+KNOW+ME) | N/A |
-| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 49 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 30 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 31 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 32 | [Armin](http://twitter.com/search?q=Armin) | N/A |
+| 33 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
+| 34 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 35 | [8 MX SONGS TO GET TO KNOW ME](http://twitter.com/search?q=8+MX+SONGS+TO+GET+TO+KNOW+ME) | N/A |
+| 36 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
+| 37 | [pink ocean](http://twitter.com/search?q=pink+ocean) | N/A |
+| 38 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 39 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 40 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
+| 41 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 42 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 43 | [Alia](http://twitter.com/search?q=Alia) | N/A |
+| 44 | [Siti Nurhaliza](http://twitter.com/search?q=Siti+Nurhaliza) | N/A |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 46 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 47 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
+| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 49 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 
 
 

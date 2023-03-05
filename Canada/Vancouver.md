@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-05 07:16:04 UTC`
+📆 Last Updated: `2023-03-05 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,36 @@ This is top 50 for [Canada](</Canada>)
 | 6 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
 | 7 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
 | 8 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 9 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 10 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 9 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 10 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
 | 11 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
 | 12 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
 | 13 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 14 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 15 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 16 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 17 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 18 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 14 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 16 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 17 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 19 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 20 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 21 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 22 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 23 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 24 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 20 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 21 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 22 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 23 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 24 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
 | 25 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 26 | [Demko](http://twitter.com/search?q=Demko) | N/A |
 | 27 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 28 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 29 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
-| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 31 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 32 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 33 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 34 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 35 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 36 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 37 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 38 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 39 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
-| 40 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 41 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 42 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 43 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 44 | [#GOAT](http://twitter.com/search?q=%23GOAT) | #GOAT stands for "Greatest Of All Time" and is used to refer to someone or something that is the best in its field. |
-| 45 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 46 | [#WWEToronto](http://twitter.com/search?q=%23WWEToronto) | N/A |
-| 47 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 48 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 49 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 50 | [#WhoWantsIt](http://twitter.com/search?q=%23WhoWantsIt) | N/A |
+| 28 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 29 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
+| 32 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 33 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 34 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 35 | [#WWEToronto](http://twitter.com/search?q=%23WWEToronto) | N/A |
+| 36 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 37 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 38 | [#WhoWantsIt](http://twitter.com/search?q=%23WhoWantsIt) | N/A |
 
 
 

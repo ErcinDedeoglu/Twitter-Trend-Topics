@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-05 07:16:14 UTC`
+📆 Last Updated: `2023-03-05 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,40 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
 | 6 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
 | 7 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 8 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 9 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 8 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 9 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
 | 10 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
 | 11 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
 | 12 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 13 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 14 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
-| 15 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 18 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 19 | [hoje tem flamengo](http://twitter.com/search?q=hoje+tem+flamengo) | N/A |
-| 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 13 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 14 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 15 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
+| 16 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 17 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 18 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 19 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 20 | [DIA DE GRENAL](http://twitter.com/search?q=DIA+DE+GRENAL) | N/A |
 | 21 | [Imperadores](http://twitter.com/search?q=Imperadores) | N/A |
-| 22 | [Dia de GREnal](http://twitter.com/search?q=Dia+de+GREnal) | N/A |
+| 22 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
 | 23 | [#UFCFightPass](http://twitter.com/search?q=%23UFCFightPass) | N/A |
 | 24 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
-| 25 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
-| 26 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 27 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 28 | [11x3](http://twitter.com/search?q=11x3) | N/A |
-| 29 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
-| 30 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 31 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 32 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 33 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 36 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
-| 37 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 38 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 39 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 40 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
-| 41 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
-| 42 | [Flamengo e Vasco](http://twitter.com/search?q=Flamengo+e+Vasco) | N/A |
-| 43 | [Dan Reynolds](http://twitter.com/search?q=Dan+Reynolds) | N/A |
-| 44 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 45 | [Dias Antes](http://twitter.com/search?q=Dias+Antes) | N/A |
-| 46 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 47 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 48 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 49 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
-| 50 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 25 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
+| 26 | [11x3](http://twitter.com/search?q=11x3) | N/A |
+| 27 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
+| 28 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 29 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 30 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
+| 31 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 32 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
+| 33 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 34 | [Flamengo e Vasco](http://twitter.com/search?q=Flamengo+e+Vasco) | N/A |
+| 35 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
+| 36 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 37 | [SAÚDE TIGRE RINITE](http://twitter.com/search?q=SA%c3%9aDE+TIGRE+RINITE) | N/A |
+| 38 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 39 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
+| 40 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 41 | [#TeamKey](http://twitter.com/search?q=%23TeamKey) | N/A |
 
 
 

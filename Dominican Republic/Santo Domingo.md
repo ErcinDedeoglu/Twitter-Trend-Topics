@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-05 07:16:07 UTC`
+📆 Last Updated: `2023-03-05 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,36 +22,36 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 5 | [nelson cruz](http://twitter.com/search?q=nelson+cruz) | N/A |
 | 6 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
 | 7 | [Carlos Santana](http://twitter.com/search?q=Carlos+Santana) | N/A |
-| 8 | [#LeonelEnSantiago](http://twitter.com/search?q=%23LeonelEnSantiago) | N/A |
+| 8 | [#leonelensantiago](http://twitter.com/search?q=%23leonelensantiago) | N/A |
 | 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 10 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
 | 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 12 | [yamaico navarro](http://twitter.com/search?q=yamaico+navarro) | N/A |
 | 13 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
-| 14 | [casals](http://twitter.com/search?q=casals) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 17 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 18 | [perico ripiao](http://twitter.com/search?q=perico+ripiao) | N/A |
-| 19 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 20 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 21 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
-| 22 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 14 | [Casals](http://twitter.com/search?q=Casals) | N/A |
+| 15 | [#leonelfernandez](http://twitter.com/search?q=%23leonelfernandez) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 18 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 19 | [perico ripiao](http://twitter.com/search?q=perico+ripiao) | N/A |
+| 20 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 21 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 22 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
 | 23 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
-| 24 | [ramón hernández](http://twitter.com/search?q=ram%c3%b3n+hern%c3%a1ndez) | N/A |
+| 24 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
 | 25 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 26 | [maría trinidad sánchez](http://twitter.com/search?q=mar%c3%ada+trinidad+s%c3%a1nchez) | N/A |
-| 27 | [ENURM](http://twitter.com/search?q=ENURM) | N/A |
-| 28 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
-| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 30 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 27 | [Vladdy Jr.](http://twitter.com/search?q=Vladdy+Jr.) | N/A |
+| 28 | [enurm](http://twitter.com/search?q=enurm) | N/A |
+| 29 | [vi reunión de la alianza](http://twitter.com/search?q=vi+reuni%c3%b3n+de+la+alianza) | N/A |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 32 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
 | 33 | [Pantalones](http://twitter.com/search?q=Pantalones) | N/A |
 | 34 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
 | 35 | [licey al medio](http://twitter.com/search?q=licey+al+medio) | N/A |
 | 36 | [faride](http://twitter.com/search?q=faride) | N/A |
-| 37 | [Autovía del Este](http://twitter.com/search?q=Autov%c3%ada+del+Este) | N/A |
+| 37 | [autovía del este](http://twitter.com/search?q=autov%c3%ada+del+este) | N/A |
 | 38 | [Espectáculos Públicos](http://twitter.com/search?q=Espect%c3%a1culos+P%c3%bablicos) | N/A |
 | 39 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
 | 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
@@ -64,7 +64,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 47 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 48 | [Invivienda](http://twitter.com/search?q=Invivienda) | N/A |
 | 49 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 50 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
+| 50 | [cholitin](http://twitter.com/search?q=cholitin) | N/A |
 
 
 
