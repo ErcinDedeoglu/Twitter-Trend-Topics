@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-05 09:17:11 UTC`
+📆 Last Updated: `2023-03-05 10:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,11 +36,11 @@ This is top 50 for Panama
 | 19 | [comarca wargandí](http://twitter.com/search?q=comarca+wargand%c3%ad) | N/A |
 | 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 21 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 22 | [Rod Carew](http://twitter.com/search?q=Rod+Carew) | N/A |
+| 22 | [rod carew](http://twitter.com/search?q=rod+carew) | N/A |
 | 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 24 | [3-Porotos](http://twitter.com/search?q=3-Porotos) | N/A |
 | 25 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 26 | [PREGUNTAS SEXUALES](http://twitter.com/search?q=PREGUNTAS+SEXUALES) | N/A |
+| 26 | [preguntas sexuales](http://twitter.com/search?q=preguntas+sexuales) | N/A |
 | 27 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
 | 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 29 | [#beisrpc](http://twitter.com/search?q=%23beisrpc) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Panama
 | 37 | [Villa Lucre](http://twitter.com/search?q=Villa+Lucre) | N/A |
 | 38 | [Aderlyn](http://twitter.com/search?q=Aderlyn) | N/A |
 | 39 | [Vaqueros](http://twitter.com/search?q=Vaqueros) | N/A |
-| 40 | [Beteta](http://twitter.com/search?q=Beteta) | N/A |
+| 40 | [beteta](http://twitter.com/search?q=beteta) | N/A |
 | 41 | [Comparto](http://twitter.com/search?q=Comparto) | N/A |
 | 42 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 43 | [#tigosportpa](http://twitter.com/search?q=%23tigosportpa) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-05 09:17:10 UTC`
+📆 Last Updated: `2023-03-05 10:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,21 +15,21 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 2 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 1 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 2 | [puno](http://twitter.com/search?q=puno) | N/A |
 | 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
 | 6 | [peru wants to shout out](http://twitter.com/search?q=peru+wants+to+shout+out) | N/A |
 | 7 | [#wewantenhypeninperu](http://twitter.com/search?q=%23wewantenhypeninperu) | N/A |
 | 8 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 9 | [Papo](http://twitter.com/search?q=Papo) | N/A |
 | 10 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 11 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
-| 12 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
-| 13 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 11 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 12 | [#TXT_4th_Anniversary](http://twitter.com/search?q=%23TXT_4th_Anniversary) | N/A |
+| 13 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
 | 14 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 15 | [#SicariaMediatica](http://twitter.com/search?q=%23SicariaMediatica) | N/A |
+| 15 | [#sicariamediatica](http://twitter.com/search?q=%23sicariamediatica) | N/A |
 | 16 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
 | 17 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
 | 18 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for Peru
 | 24 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 25 | [mannucci](http://twitter.com/search?q=mannucci) | N/A |
 | 26 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
-| 27 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
-| 28 | [Campo de Marte](http://twitter.com/search?q=Campo+de+Marte) | N/A |
+| 27 | [Campo de Marte](http://twitter.com/search?q=Campo+de+Marte) | N/A |
+| 28 | [Vizcarra](http://twitter.com/search?q=Vizcarra) | N/A |
 | 29 | [martha moyano](http://twitter.com/search?q=martha+moyano) | N/A |
 | 30 | [barbe](http://twitter.com/search?q=barbe) | N/A |
 | 31 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
@@ -57,13 +57,13 @@ This is top 50 for Peru
 | 40 | [kevin serna](http://twitter.com/search?q=kevin+serna) | N/A |
 | 41 | [alberto gallardo](http://twitter.com/search?q=alberto+gallardo) | N/A |
 | 42 | [Comisaría](http://twitter.com/search?q=Comisar%c3%ada) | N/A |
-| 43 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 44 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
-| 45 | [REACTIVA](http://twitter.com/search?q=REACTIVA) | N/A |
-| 46 | [Saturnino Huillca](http://twitter.com/search?q=Saturnino+Huillca) | N/A |
-| 47 | [chucuito](http://twitter.com/search?q=chucuito) | N/A |
-| 48 | [Facu](http://twitter.com/search?q=Facu) | N/A |
-| 49 | [Soda Stereo](http://twitter.com/search?q=Soda+Stereo) | N/A |
+| 43 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 44 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 45 | [Alarcón](http://twitter.com/search?q=Alarc%c3%b3n) | N/A |
+| 46 | [reactiva](http://twitter.com/search?q=reactiva) | N/A |
+| 47 | [saturnino huillca](http://twitter.com/search?q=saturnino+huillca) | N/A |
+| 48 | [chucuito](http://twitter.com/search?q=chucuito) | N/A |
+| 49 | [Facu](http://twitter.com/search?q=Facu) | N/A |
 | 50 | [sport huancayo](http://twitter.com/search?q=sport+huancayo) | N/A |
 
 

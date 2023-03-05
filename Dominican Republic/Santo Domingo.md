@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-05 09:16:12 UTC`
+📆 Last Updated: `2023-03-05 10:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [#1millondeamigosconabel](http://twitter.com/search?q=%231millondeamigosconabel) | N/A |
-| 3 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
+| 1 | [#1millondeamigosconabel](http://twitter.com/search?q=%231millondeamigosconabel) | N/A |
+| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 3 | [valle nuevo](http://twitter.com/search?q=valle+nuevo) | N/A |
 | 4 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 5 | [nelson cruz](http://twitter.com/search?q=nelson+cruz) | N/A |
 | 6 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
@@ -37,15 +37,15 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 20 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
 | 21 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
 | 22 | [canó](http://twitter.com/search?q=can%c3%b3) | N/A |
-| 23 | [David Ortiz](http://twitter.com/search?q=David+Ortiz) | N/A |
+| 23 | [david ortiz](http://twitter.com/search?q=david+ortiz) | N/A |
 | 24 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
 | 25 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 26 | [maría trinidad sánchez](http://twitter.com/search?q=mar%c3%ada+trinidad+s%c3%a1nchez) | N/A |
 | 27 | [Vladdy Jr.](http://twitter.com/search?q=Vladdy+Jr.) | N/A |
-| 28 | [enurm](http://twitter.com/search?q=enurm) | N/A |
-| 29 | [vi reunión de la alianza](http://twitter.com/search?q=vi+reuni%c3%b3n+de+la+alianza) | N/A |
-| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [vi reunión de la alianza](http://twitter.com/search?q=vi+reuni%c3%b3n+de+la+alianza) | N/A |
+| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [ENURM](http://twitter.com/search?q=ENURM) | N/A |
 | 32 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
 | 33 | [pantalones](http://twitter.com/search?q=pantalones) | N/A |
 | 34 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 47 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 48 | [invivienda](http://twitter.com/search?q=invivienda) | N/A |
 | 49 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 50 | [cholitin](http://twitter.com/search?q=cholitin) | N/A |
+| 50 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
 
 
 

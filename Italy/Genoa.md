@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-05 09:16:26 UTC`
+📆 Last Updated: `2023-03-05 10:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 2 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 3 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
-| 4 | [#5marzo](http://twitter.com/search?q=%235marzo) | N/A |
-| 5 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 6 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 2 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
+| 3 | [#5marzo](http://twitter.com/search?q=%235marzo) | N/A |
+| 4 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 5 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 6 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 | 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 8 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 9 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 10 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 11 | [Pier Paolo Pasolini](http://twitter.com/search?q=Pier+Paolo+Pasolini) | N/A |
-| 12 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 13 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 14 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 15 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 16 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 17 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
-| 18 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 19 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
-| 20 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 21 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 22 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 23 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 24 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 25 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 26 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 10 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 12 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 13 | [Minì](http://twitter.com/search?q=Min%c3%ac) | N/A |
+| 14 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 15 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 16 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 17 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 18 | [Pier Paolo Pasolini](http://twitter.com/search?q=Pier+Paolo+Pasolini) | N/A |
+| 19 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
+| 20 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 21 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 22 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 23 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 24 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 25 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 27 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
 | 28 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 30 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 31 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 32 | [De Masi](http://twitter.com/search?q=De+Masi) | N/A |
-| 33 | [franchi](http://twitter.com/search?q=franchi) | N/A |
-| 34 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 35 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 38 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 39 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 40 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 42 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 43 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 44 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
+| 29 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 30 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
+| 31 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 32 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 33 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 34 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 35 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 36 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 37 | [Buongiorno Lucia](http://twitter.com/search?q=Buongiorno+Lucia) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
+| 40 | [Bologna](http://twitter.com/search?q=Bologna) | N/A |
+| 41 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 42 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
+| 43 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 44 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
 | 45 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
-| 46 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
-| 47 | [Narci](http://twitter.com/search?q=Narci) | N/A |
-| 48 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
+| 46 | [Di Battista](http://twitter.com/search?q=Di+Battista) | N/A |
+| 47 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 48 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-05 09:17:07 UTC`
+📆 Last Updated: `2023-03-05 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,50 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 2 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 3 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 3 | [#Le7MarsJeBosse](http://twitter.com/search?q=%23Le7MarsJeBosse) | N/A |
 | 4 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 5 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 6 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
+| 5 | [#Fetedesgrandsmeres](http://twitter.com/search?q=%23Fetedesgrandsmeres) | N/A |
+| 6 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
 | 7 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 8 | [#Fetedesgrandsmeres](http://twitter.com/search?q=%23Fetedesgrandsmeres) | N/A |
+| 8 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
 | 9 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 10 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
-| 11 | [#Le7MarsJeBosse](http://twitter.com/search?q=%23Le7MarsJeBosse) | N/A |
-| 12 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 13 | [30sec](http://twitter.com/search?q=30sec) | N/A |
-| 14 | [2min](http://twitter.com/search?q=2min) | N/A |
-| 15 | [MMA Factory](http://twitter.com/search?q=MMA+Factory) | N/A |
-| 16 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 17 | [Daghestan](http://twitter.com/search?q=Daghestan) | N/A |
-| 18 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 19 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 20 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 21 | [Clim](http://twitter.com/search?q=Clim) | N/A |
-| 22 | [TOUT ÇA POUR ÇA](http://twitter.com/search?q=TOUT+%c3%87A+POUR+%c3%87A) | N/A |
-| 23 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 24 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 25 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 26 | [#GreveGenerale](http://twitter.com/search?q=%23GreveGenerale) | N/A |
-| 27 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 28 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 29 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 30 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 31 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 32 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 33 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
-| 34 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 35 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
-| 36 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 10 | [#Le7marsJeTravaille](http://twitter.com/search?q=%23Le7marsJeTravaille) | N/A |
+| 11 | [#GreveGeneraleIllimitee](http://twitter.com/search?q=%23GreveGeneraleIllimitee) | N/A |
+| 12 | [2min](http://twitter.com/search?q=2min) | N/A |
+| 13 | [Daghestan](http://twitter.com/search?q=Daghestan) | N/A |
+| 14 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 15 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 16 | [30sec](http://twitter.com/search?q=30sec) | N/A |
+| 17 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
+| 18 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 19 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 20 | [TOUT ÇA POUR ÇA](http://twitter.com/search?q=TOUT+%c3%87A+POUR+%c3%87A) | N/A |
+| 21 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 22 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 23 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 24 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 25 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 26 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 27 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 28 | [Abou](http://twitter.com/search?q=Abou) | N/A |
+| 29 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
+| 30 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 31 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
+| 32 | [Clim](http://twitter.com/search?q=Clim) | N/A |
+| 33 | [Doumbé](http://twitter.com/search?q=Doumb%c3%a9) | N/A |
+| 34 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 35 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 36 | [Booba](http://twitter.com/search?q=Booba) | N/A |
 | 37 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 38 | [Booba](http://twitter.com/search?q=Booba) | N/A |
-| 39 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 41 | [#MacronLaHonte](http://twitter.com/search?q=%23MacronLaHonte) | N/A |
-| 42 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
+| 38 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 39 | [Céline Dion](http://twitter.com/search?q=C%c3%a9line+Dion) | N/A |
+| 40 | [Attal](http://twitter.com/search?q=Attal) | N/A |
+| 41 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
+| 42 | [#MacronLaHonte](http://twitter.com/search?q=%23MacronLaHonte) | N/A |
+| 43 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
+| 44 | [#GreveReconductible](http://twitter.com/search?q=%23GreveReconductible) | N/A |
+| 45 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 46 | [#Senat](http://twitter.com/search?q=%23Senat) | N/A |
 
 
 

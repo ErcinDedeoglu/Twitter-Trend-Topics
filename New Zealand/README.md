@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-05 09:17:10 UTC`
+📆 Last Updated: `2023-03-05 10:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for New Zealand
 | 10 | [Paula Bennett](http://twitter.com/search?q=Paula+Bennett) | N/A |
 | 11 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
 | 12 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 13 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
-| 14 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 15 | [Newtown Festival](http://twitter.com/search?q=Newtown+Festival) | N/A |
+| 13 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 14 | [Newtown Festival](http://twitter.com/search?q=Newtown+Festival) | N/A |
+| 15 | [#MOAvCHI](http://twitter.com/search?q=%23MOAvCHI) | N/A |
 | 16 | [Peter Williams](http://twitter.com/search?q=Peter+Williams) | N/A |
-| 17 | [#MOAvCHI](http://twitter.com/search?q=%23MOAvCHI) | N/A |
-| 18 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 19 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 20 | [Wright](http://twitter.com/search?q=Wright) | N/A |
-| 21 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 22 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 23 | [State of the Nation](http://twitter.com/search?q=State+of+the+Nation) | N/A |
-| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 25 | [Rodney Hide](http://twitter.com/search?q=Rodney+Hide) | N/A |
-| 26 | [Ethernet](http://twitter.com/search?q=Ethernet) | N/A |
-| 27 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 28 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 17 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 18 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 19 | [Wright](http://twitter.com/search?q=Wright) | N/A |
+| 20 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 21 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 22 | [State of the Nation](http://twitter.com/search?q=State+of+the+Nation) | N/A |
+| 23 | [Ethernet](http://twitter.com/search?q=Ethernet) | N/A |
+| 24 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 25 | [Beach Haven](http://twitter.com/search?q=Beach+Haven) | N/A |
+| 26 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 27 | [Rodney Hide](http://twitter.com/search?q=Rodney+Hide) | N/A |
+| 28 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 29 | [Chris Luxon](http://twitter.com/search?q=Chris+Luxon) | N/A |
-| 30 | [Beach Haven](http://twitter.com/search?q=Beach+Haven) | N/A |
-| 31 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
-| 32 | [Terrible](http://twitter.com/search?q=Terrible) | N/A |
-| 33 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 34 | [Brand](http://twitter.com/search?q=Brand) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 37 | [Mātauranga Māori](http://twitter.com/search?q=M%c4%81tauranga+M%c4%81ori) | N/A |
-| 38 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 39 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
-| 40 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
-| 41 | [OECD](http://twitter.com/search?q=OECD) | N/A |
-| 42 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 43 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 44 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 45 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
-| 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 47 | [Hersheys](http://twitter.com/search?q=Hersheys) | N/A |
-| 48 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 49 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 31 | [Terrible](http://twitter.com/search?q=Terrible) | N/A |
+| 32 | [Brand](http://twitter.com/search?q=Brand) | N/A |
+| 33 | [Labours](http://twitter.com/search?q=Labours) | N/A |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 36 | [Mātauranga Māori](http://twitter.com/search?q=M%c4%81tauranga+M%c4%81ori) | N/A |
+| 37 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 38 | [Legarto](http://twitter.com/search?q=Legarto) | N/A |
+| 39 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
+| 40 | [OECD](http://twitter.com/search?q=OECD) | N/A |
+| 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 42 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
+| 43 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 44 | [Ardie](http://twitter.com/search?q=Ardie) | N/A |
+| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 46 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 47 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 50 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 
 
 

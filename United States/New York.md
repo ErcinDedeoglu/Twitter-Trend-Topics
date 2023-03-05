@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-05 09:17:00 UTC`
+📆 Last Updated: `2023-03-05 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 4 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 5 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 7 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 8 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 9 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 10 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 11 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 12 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 15 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 16 | [Khalil Shabazz](http://twitter.com/search?q=Khalil+Shabazz) | N/A |
-| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 18 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 19 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 20 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 5 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 6 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 7 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 9 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 10 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 11 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 12 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 13 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 15 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 16 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 17 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 18 | [Khalil Shabazz](http://twitter.com/search?q=Khalil+Shabazz) | N/A |
+| 19 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 20 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 21 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 22 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 22 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
 | 23 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 24 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 26 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
-| 27 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 28 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 30 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 31 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 32 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 33 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 34 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 35 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
-| 36 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 37 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 38 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
-| 39 | [Kush](http://twitter.com/search?q=Kush) | N/A |
-| 40 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 41 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 42 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
-| 43 | [Pavlovich](http://twitter.com/search?q=Pavlovich) | N/A |
-| 44 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 45 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 46 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 47 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 48 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
-| 49 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 50 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 25 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 26 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 27 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 28 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 29 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 32 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 33 | [Mama Blue](http://twitter.com/search?q=Mama+Blue) | N/A |
+| 34 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 35 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 36 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 37 | [kush](http://twitter.com/search?q=kush) | N/A |
+| 38 | [Pavlovich](http://twitter.com/search?q=Pavlovich) | N/A |
+| 39 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 40 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 41 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 42 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 43 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 44 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 45 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
+| 46 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 47 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 48 | [Kelsea](http://twitter.com/search?q=Kelsea) | N/A |
+| 49 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
+| 50 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
 
 
 
