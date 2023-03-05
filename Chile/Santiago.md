@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-05 05:16:09 UTC`
+📆 Last Updated: `2023-03-05 06:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 4 | [#SeLlamaráYildirim](http://twitter.com/search?q=%23SeLlamar%c3%a1Yildirim) | N/A |
-| 5 | [#AtlasDeChileTVN](http://twitter.com/search?q=%23AtlasDeChileTVN) | N/A |
-| 6 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 7 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 8 | [Munar](http://twitter.com/search?q=Munar) | N/A |
-| 9 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 10 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
-| 11 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 12 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 13 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 14 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 15 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 16 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
-| 17 | [Mac Iver](http://twitter.com/search?q=Mac+Iver) | N/A |
-| 18 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 19 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 20 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 21 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 22 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 23 | [Zanahoria](http://twitter.com/search?q=Zanahoria) | N/A |
-| 24 | [Juan Fuentes](http://twitter.com/search?q=Juan+Fuentes) | N/A |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [#StarPlusLA](http://twitter.com/search?q=%23StarPlusLA) | N/A |
+| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 4 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 6 | [#AtlasDeChileTVN](http://twitter.com/search?q=%23AtlasDeChileTVN) | N/A |
+| 7 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 8 | [#alarucaconcoolbet](http://twitter.com/search?q=%23alarucaconcoolbet) | N/A |
+| 9 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 10 | [Munar](http://twitter.com/search?q=Munar) | N/A |
+| 11 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 12 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
+| 13 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
+| 14 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 15 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 16 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 17 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 19 | [Jorge Valdivia](http://twitter.com/search?q=Jorge+Valdivia) | N/A |
+| 20 | [Mac Iver](http://twitter.com/search?q=Mac+Iver) | N/A |
+| 21 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 22 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
+| 23 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 24 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
 | 25 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 26 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 26 | [Juan Fuentes](http://twitter.com/search?q=Juan+Fuentes) | N/A |
 | 27 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 28 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 29 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 28 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 29 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
 | 30 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 31 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
-| 32 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
-| 33 | [on board](http://twitter.com/search?q=on+board) | N/A |
-| 34 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 35 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 36 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 37 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
-| 38 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 39 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
-| 40 | [Elías Figueroa](http://twitter.com/search?q=El%c3%adas+Figueroa) | N/A |
-| 41 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 42 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
-| 43 | [el teniente](http://twitter.com/search?q=el+teniente) | N/A |
-| 44 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
-| 45 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 46 | [Cabero](http://twitter.com/search?q=Cabero) | N/A |
-| 47 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 48 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 49 | [Dávalos](http://twitter.com/search?q=D%c3%a1valos) | N/A |
+| 31 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 32 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 33 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
+| 34 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
+| 35 | [on board](http://twitter.com/search?q=on+board) | N/A |
+| 36 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 37 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 38 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 39 | [9-Palta](http://twitter.com/search?q=9-Palta) | N/A |
+| 40 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 41 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 42 | [Barbe](http://twitter.com/search?q=Barbe) | N/A |
+| 43 | [Elías Figueroa](http://twitter.com/search?q=El%c3%adas+Figueroa) | N/A |
+| 44 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 45 | [Rebolledo](http://twitter.com/search?q=Rebolledo) | N/A |
+| 46 | [el teniente](http://twitter.com/search?q=el+teniente) | N/A |
+| 47 | [Leiva](http://twitter.com/search?q=Leiva) | N/A |
+| 48 | [Cabero](http://twitter.com/search?q=Cabero) | N/A |
+| 49 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 
 
 

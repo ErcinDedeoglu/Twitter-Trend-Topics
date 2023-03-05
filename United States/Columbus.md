@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-05 05:16:53 UTC`
+📆 Last Updated: `2023-03-05 06:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 2 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 1 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 2 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
 | 3 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
-| 4 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 5 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 6 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 7 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 8 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 9 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 5 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 10 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 11 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 12 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 13 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 14 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 15 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 16 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 17 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 18 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 19 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 20 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 21 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 22 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 23 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 24 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 25 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
-| 26 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 27 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 28 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 29 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 30 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 31 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 32 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 33 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 34 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 35 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 36 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 37 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 38 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 39 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 40 | [Derek Brunson](http://twitter.com/search?q=Derek+Brunson) | N/A |
-| 41 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 42 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
-| 43 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 44 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 45 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 46 | [Khris](http://twitter.com/search?q=Khris) | N/A |
-| 47 | [David Spade](http://twitter.com/search?q=David+Spade) | N/A |
-| 48 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 49 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 50 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
+| 11 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 12 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 13 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 14 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 15 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 16 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 17 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 18 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 19 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 21 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 22 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 23 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 24 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 25 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 26 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 27 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 28 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 29 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 30 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 31 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 32 | [3 Mexican](http://twitter.com/search?q=3+Mexican) | N/A |
+| 33 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 34 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 35 | [TOO EASY](http://twitter.com/search?q=TOO+EASY) | N/A |
+| 36 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
+| 37 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 38 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 39 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 40 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 41 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 42 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 43 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 44 | [Another Mexican](http://twitter.com/search?q=Another+Mexican) | N/A |
+| 45 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 46 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 47 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 48 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 49 | [#FigueroaMagsayo](http://twitter.com/search?q=%23FigueroaMagsayo) | N/A |
+| 50 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
 
 
 

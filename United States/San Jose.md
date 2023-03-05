@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-05 05:17:00 UTC`
+📆 Last Updated: `2023-03-05 06:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 2 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 3 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 4 | [#UCLA](http://twitter.com/search?q=%23UCLA) | N/A |
-| 5 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 6 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 1 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
+| 2 | [Vilardi](http://twitter.com/search?q=Vilardi) | N/A |
+| 3 | [Jalisco](http://twitter.com/search?q=Jalisco) | N/A |
+| 4 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
+| 5 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 6 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
 | 7 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
 | 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 9 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 11 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 12 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 13 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 14 | [Judy](http://twitter.com/search?q=Judy) | N/A |
-| 15 | [Quinn](http://twitter.com/search?q=Quinn) | N/A |
-| 16 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 17 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 18 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 20 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 21 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 22 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 23 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 24 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 25 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 26 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 28 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 29 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 30 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 31 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 32 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 33 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 34 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 35 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 36 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
-| 37 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 38 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 39 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 40 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 41 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 42 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 43 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 44 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 45 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 46 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
-| 47 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 48 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 49 | [Derek Brunson](http://twitter.com/search?q=Derek+Brunson) | N/A |
+| 9 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 10 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 11 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 12 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 13 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 14 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 15 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 16 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 17 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 20 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 21 | [Judy](http://twitter.com/search?q=Judy) | N/A |
+| 22 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 23 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 24 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 25 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 26 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 27 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
+| 28 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 30 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 31 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 32 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 33 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 34 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 35 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 36 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 37 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 38 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 39 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 40 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 41 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 42 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 43 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 44 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 45 | [THE CHAMP IS HERE](http://twitter.com/search?q=THE+CHAMP+IS+HERE) | N/A |
+| 46 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 47 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 48 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 49 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 50 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
 
 
 

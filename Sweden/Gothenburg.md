@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-05 05:16:25 UTC`
+📆 Last Updated: `2023-03-05 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,49 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 2 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
-| 3 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
-| 4 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 5 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 6 | [christer lindarw](http://twitter.com/search?q=christer+lindarw) | N/A |
-| 7 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
-| 8 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 10 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 11 | [videll](http://twitter.com/search?q=videll) | N/A |
-| 12 | [oxie](http://twitter.com/search?q=oxie) | N/A |
-| 13 | [ebba andersson](http://twitter.com/search?q=ebba+andersson) | N/A |
-| 14 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 15 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
-| 16 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
-| 17 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 18 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 19 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 20 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 21 | [victor crone](http://twitter.com/search?q=victor+crone) | N/A |
-| 22 | [Linn](http://twitter.com/search?q=Linn) | N/A |
-| 23 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 24 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 25 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 26 | [Henrik Larsson](http://twitter.com/search?q=Henrik+Larsson) | N/A |
-| 27 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 28 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
-| 29 | [skröder](http://twitter.com/search?q=skr%c3%b6der) | N/A |
-| 30 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 31 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 32 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 33 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 34 | [honka](http://twitter.com/search?q=honka) | N/A |
-| 35 | [baudin](http://twitter.com/search?q=baudin) | N/A |
-| 36 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
-| 37 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
-| 38 | [alperna](http://twitter.com/search?q=alperna) | N/A |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 41 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 42 | [sisto](http://twitter.com/search?q=sisto) | N/A |
-| 43 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 44 | [varberg](http://twitter.com/search?q=varberg) | N/A |
+| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 3 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
+| 4 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
+| 5 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 6 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 7 | [christer lindarw](http://twitter.com/search?q=christer+lindarw) | N/A |
+| 8 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
+| 9 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 11 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 12 | [videll](http://twitter.com/search?q=videll) | N/A |
+| 13 | [oxie](http://twitter.com/search?q=oxie) | N/A |
+| 14 | [ebba andersson](http://twitter.com/search?q=ebba+andersson) | N/A |
+| 15 | [brynäs](http://twitter.com/search?q=bryn%c3%a4s) | N/A |
+| 16 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 17 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
+| 18 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
+| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 20 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 21 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 22 | [victor crone](http://twitter.com/search?q=victor+crone) | N/A |
+| 23 | [Linn](http://twitter.com/search?q=Linn) | N/A |
+| 24 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 25 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 26 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 27 | [henrik larsson](http://twitter.com/search?q=henrik+larsson) | N/A |
+| 28 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 29 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
+| 30 | [skröder](http://twitter.com/search?q=skr%c3%b6der) | N/A |
+| 31 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 32 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 33 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [honka](http://twitter.com/search?q=honka) | N/A |
+| 36 | [baudin](http://twitter.com/search?q=baudin) | N/A |
+| 37 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
+| 38 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
+| 39 | [alperna](http://twitter.com/search?q=alperna) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 42 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 43 | [sisto](http://twitter.com/search?q=sisto) | N/A |
+| 44 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
 | 45 | [katrineholm](http://twitter.com/search?q=katrineholm) | N/A |
 | 46 | [king of everything](http://twitter.com/search?q=king+of+everything) | N/A |
 | 47 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |

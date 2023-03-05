@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-05 05:16:46 UTC`
+📆 Last Updated: `2023-03-05 06:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
 | 2 | [#TATAWPL](http://twitter.com/search?q=%23TATAWPL) | N/A |
-| 3 | [#HBDShivraj](http://twitter.com/search?q=%23HBDShivraj) | N/A |
-| 4 | [#Plant4Shivraj](http://twitter.com/search?q=%23Plant4Shivraj) | N/A |
-| 5 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
-| 6 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 7 | [Nari Tu Narayani](http://twitter.com/search?q=Nari+Tu+Narayani) | N/A |
-| 8 | [Mahila Utthan Mandal](http://twitter.com/search?q=Mahila+Utthan+Mandal) | N/A |
-| 9 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 10 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 11 | [लोकप्रिय मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 12 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 13 | [गंगूबाई हंगल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a5%82%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b9%e0%a4%82%e0%a4%97%e0%a4%b2) | N/A |
-| 14 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 15 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 16 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 17 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 19 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 20 | [#निज_स्वरूप_में_जाग](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%bf%e0%a4%9c_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%9c%e0%a4%be%e0%a4%97) | N/A |
-| 21 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 22 | [#संकटमोचन_हनुमान_बेनीवाल](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f%e0%a4%ae%e0%a5%8b%e0%a4%9a%e0%a4%a8_%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 23 | [#sundaythoughts](http://twitter.com/search?q=%23sundaythoughts) | N/A |
-| 24 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 25 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 26 | [#BijuPatnaik](http://twitter.com/search?q=%23BijuPatnaik) | N/A |
-| 27 | [#HBDSelvaraghavan](http://twitter.com/search?q=%23HBDSelvaraghavan) | N/A |
-| 28 | [#KaranWithFaridoon](http://twitter.com/search?q=%23KaranWithFaridoon) | N/A |
-| 29 | [#ShivrajSinghChouhan](http://twitter.com/search?q=%23ShivrajSinghChouhan) | N/A |
-| 30 | [#51000_MPTET_VARG_3](http://twitter.com/search?q=%2351000_MPTET_VARG_3) | N/A |
-| 31 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 32 | [#HBDVaralaxmiSarathkumar](http://twitter.com/search?q=%23HBDVaralaxmiSarathkumar) | N/A |
-| 33 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 34 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 35 | [#BijuBabuAmarRahe](http://twitter.com/search?q=%23BijuBabuAmarRahe) | N/A |
-| 36 | [#ॐ_सूर्य_देवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af_%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
-| 37 | [#BiharHaiTaiyar](http://twitter.com/search?q=%23BiharHaiTaiyar) | N/A |
-| 38 | [#AyeshaSingh](http://twitter.com/search?q=%23AyeshaSingh) | N/A |
-| 39 | [#Sivaangi](http://twitter.com/search?q=%23Sivaangi) | N/A |
-| 40 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
-| 41 | [#MSP_की_गारंटी_जरूरी_है](http://twitter.com/search?q=%23MSP_%e0%a4%95%e0%a5%80_%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a4%82%e0%a4%9f%e0%a5%80_%e0%a4%9c%e0%a4%b0%e0%a5%82%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
-| 42 | [#HoliFestival](http://twitter.com/search?q=%23HoliFestival) | N/A |
-| 43 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 44 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 45 | [#जाट_महाकुंभ](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad) | N/A |
-| 46 | [#होली](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
-| 47 | [#KabzaaFromMarch17](http://twitter.com/search?q=%23KabzaaFromMarch17) | N/A |
-| 48 | [#Upendra](http://twitter.com/search?q=%23Upendra) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 5 | [#DakotaComesHome](http://twitter.com/search?q=%23DakotaComesHome) | N/A |
+| 6 | [Hindu Rashtra Is Must](http://twitter.com/search?q=Hindu+Rashtra+Is+Must) | N/A |
+| 7 | [#Plant4Shivraj](http://twitter.com/search?q=%23Plant4Shivraj) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [Nari Tu Narayani](http://twitter.com/search?q=Nari+Tu+Narayani) | N/A |
+| 10 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 11 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 12 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [Mahila Utthan Mandal](http://twitter.com/search?q=Mahila+Utthan+Mandal) | N/A |
+| 14 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 15 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 16 | [World Leader India](http://twitter.com/search?q=World+Leader+India) | N/A |
+| 17 | [Mama ji](http://twitter.com/search?q=Mama+ji) | N/A |
+| 18 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 19 | [गंगूबाई हंगल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a5%82%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b9%e0%a4%82%e0%a4%97%e0%a4%b2) | N/A |
+| 20 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 21 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 22 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 23 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 24 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 25 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 26 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 27 | [Dravidian](http://twitter.com/search?q=Dravidian) | N/A |
+| 28 | [#HBDShivraj](http://twitter.com/search?q=%23HBDShivraj) | N/A |
+| 29 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
+| 30 | [#संकटमोचन_हनुमान_बेनीवाल](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f%e0%a4%ae%e0%a5%8b%e0%a4%9a%e0%a4%a8_%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%ac%e0%a5%87%e0%a4%a8%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 31 | [#PurneaAirport](http://twitter.com/search?q=%23PurneaAirport) | N/A |
+| 32 | [#निज_स्वरूप_में_जाग](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%bf%e0%a4%9c_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%9c%e0%a4%be%e0%a4%97) | N/A |
+| 33 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 34 | [#BijuPatnaik](http://twitter.com/search?q=%23BijuPatnaik) | N/A |
+| 35 | [#विश्वगुरु_भारत](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 36 | [#51000_MPTET_VARG_3](http://twitter.com/search?q=%2351000_MPTET_VARG_3) | N/A |
+| 37 | [#HBDSelvaraghavan](http://twitter.com/search?q=%23HBDSelvaraghavan) | N/A |
+| 38 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 39 | [#AmericanAirlines](http://twitter.com/search?q=%23AmericanAirlines) | N/A |
+| 40 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 41 | [#ShivrajSinghChouhan](http://twitter.com/search?q=%23ShivrajSinghChouhan) | N/A |
+| 42 | [#KaranWithFaridoon](http://twitter.com/search?q=%23KaranWithFaridoon) | N/A |
+| 43 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 44 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 45 | [#HindusUnderAttack](http://twitter.com/search?q=%23HindusUnderAttack) | N/A |
+| 46 | [#BiharHaiTaiyar](http://twitter.com/search?q=%23BiharHaiTaiyar) | N/A |
+| 47 | [#HBDVaralaxmiSarathkumar](http://twitter.com/search?q=%23HBDVaralaxmiSarathkumar) | N/A |
+| 48 | [#BijuBabu](http://twitter.com/search?q=%23BijuBabu) | N/A |
+| 49 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 50 | [#GangubaiHangal](http://twitter.com/search?q=%23GangubaiHangal) | N/A |
 
 
 

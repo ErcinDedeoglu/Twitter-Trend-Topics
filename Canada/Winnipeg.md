@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-05 05:16:00 UTC`
+📆 Last Updated: `2023-03-05 06:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 4 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 5 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 6 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 7 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
-| 8 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 9 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 10 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 11 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 12 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 13 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 14 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 16 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 17 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 18 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 19 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 20 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 21 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 22 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 23 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 24 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 25 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 26 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 4 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 5 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 6 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 7 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 8 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 9 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 10 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 11 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 12 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 13 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 14 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 15 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 16 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 17 | [Geoff Neal](http://twitter.com/search?q=Geoff+Neal) | N/A |
+| 18 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 19 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 20 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 22 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 23 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 24 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 25 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 26 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
 | 27 | [Sirois](http://twitter.com/search?q=Sirois) | N/A |
-| 28 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
-| 29 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
-| 30 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 31 | [Sean Johnson](http://twitter.com/search?q=Sean+Johnson) | N/A |
-| 32 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 28 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 29 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 30 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 31 | [Great-Great Grandparents](http://twitter.com/search?q=Great-Great+Grandparents) | N/A |
+| 32 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
 | 33 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 34 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 35 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 36 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 37 | [Woodcroft](http://twitter.com/search?q=Woodcroft) | N/A |
-| 38 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 39 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 40 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 42 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 43 | [Rogers Arena](http://twitter.com/search?q=Rogers+Arena) | N/A |
-| 44 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 34 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 35 | [Sean Johnson](http://twitter.com/search?q=Sean+Johnson) | N/A |
+| 36 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 37 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 38 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 39 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 40 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 41 | [Woodcroft](http://twitter.com/search?q=Woodcroft) | N/A |
+| 42 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 43 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 44 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
 | 45 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
-| 46 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 47 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 48 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 49 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 50 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 46 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 47 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 48 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 49 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 50 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
 
 
 

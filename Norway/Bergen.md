@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-05 05:16:25 UTC`
+📆 Last Updated: `2023-03-05 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,13 +27,13 @@ This is top 50 for [Norway](</Norway>)
 | 10 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
 | 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 17 | [flytoget](http://twitter.com/search?q=flytoget) | N/A |
-| 18 | [Bjørn](http://twitter.com/search?q=Bj%c3%b8rn) | N/A |
-| 19 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 18 | [flytoget](http://twitter.com/search?q=flytoget) | N/A |
+| 19 | [Bjørn](http://twitter.com/search?q=Bj%c3%b8rn) | N/A |
 | 20 | [Faen](http://twitter.com/search?q=Faen) | N/A |
 | 21 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 22 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
@@ -44,13 +44,13 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 28 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
 | 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 31 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
 | 32 | [statens](http://twitter.com/search?q=statens) | N/A |
 | 33 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 34 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 35 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 37 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
 | 38 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 39 | [Asker](http://twitter.com/search?q=Asker) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Norway](</Norway>)
 | 45 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 46 | [oscar aga](http://twitter.com/search?q=oscar+aga) | N/A |
 | 47 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
-| 48 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
+| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 
 
 
