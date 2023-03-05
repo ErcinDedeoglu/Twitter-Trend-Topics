@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-05 04:16:17 UTC`
+📆 Last Updated: `2023-03-05 05:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 2 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
-| 5 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 6 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 7 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 8 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 9 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 10 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 11 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 12 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 13 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 14 | [#PSGFCN](http://twitter.com/search?q=%23PSGFCN) | N/A |
-| 15 | [Bandal](http://twitter.com/search?q=Bandal) | N/A |
-| 16 | [Zoo de Kaaris](http://twitter.com/search?q=Zoo+de+Kaaris) | N/A |
-| 17 | [Khalis](http://twitter.com/search?q=Khalis) | N/A |
-| 18 | [#MMAGP](http://twitter.com/search?q=%23MMAGP) | N/A |
-| 19 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 20 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 21 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
-| 22 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 23 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 24 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
-| 25 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 26 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 27 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 29 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 30 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 31 | [#Mbappe](http://twitter.com/search?q=%23Mbappe) | N/A |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
+| 3 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 4 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 5 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 6 | [#PSGFCN](http://twitter.com/search?q=%23PSGFCN) | N/A |
+| 7 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 8 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 9 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 10 | [#RCLLOSC](http://twitter.com/search?q=%23RCLLOSC) | N/A |
+| 11 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 12 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 13 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 14 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 15 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 16 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 17 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
+| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 19 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 20 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 24 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 25 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 26 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 27 | [brice samba](http://twitter.com/search?q=brice+samba) | N/A |
+| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 29 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 30 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 31 | [Vers 6h](http://twitter.com/search?q=Vers+6h) | N/A |
+| 32 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 33 | [Zoo de Kaaris](http://twitter.com/search?q=Zoo+de+Kaaris) | N/A |
+| 34 | [Bandal](http://twitter.com/search?q=Bandal) | N/A |
+| 35 | [5h40](http://twitter.com/search?q=5h40) | N/A |
+| 36 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Fonte](http://twitter.com/search?q=Fonte) | N/A |
+| 39 | [Abou Merguez](http://twitter.com/search?q=Abou+Merguez) | N/A |
+| 40 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
+| 41 | [Khalis](http://twitter.com/search?q=Khalis) | N/A |
+| 42 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
+| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 44 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 46 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 47 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 48 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 49 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
+| 50 | [Coluche](http://twitter.com/search?q=Coluche) | N/A |
 
 
 

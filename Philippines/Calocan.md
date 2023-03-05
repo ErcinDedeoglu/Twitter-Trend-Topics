@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-05 04:16:30 UTC`
+📆 Last Updated: `2023-03-05 05:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Song Kang](http://twitter.com/search?q=Song+Kang) | N/A |
-| 2 | [#komiket2023](http://twitter.com/search?q=%23komiket2023) | N/A |
-| 3 | [WELCOME BACK TO MANILA HANBIN](http://twitter.com/search?q=WELCOME+BACK+TO+MANILA+HANBIN) | N/A |
-| 4 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
-| 5 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
+| 1 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
+| 2 | [#SaveUPWVT](http://twitter.com/search?q=%23SaveUPWVT) | N/A |
+| 3 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
+| 4 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 5 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
 | 6 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 7 | [ASAPMarSoAmazing JONA](http://twitter.com/search?q=ASAPMarSoAmazing+JONA) | N/A |
-| 8 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 7 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 8 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
 | 9 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
-| 10 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 11 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
+| 10 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
+| 11 | [ASAPMarSoAmazing JONA](http://twitter.com/search?q=ASAPMarSoAmazing+JONA) | N/A |
 | 12 | [ASAP JAM WITH ANJI](http://twitter.com/search?q=ASAP+JAM+WITH+ANJI) | N/A |
 | 13 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 14 | [#HORI7ON_onASAP](http://twitter.com/search?q=%23HORI7ON_onASAP) | N/A |
-| 15 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 16 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
-| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 18 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
-| 19 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
-| 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 21 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 22 | [Sara Duterte](http://twitter.com/search?q=Sara+Duterte) | N/A |
-| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 24 | [iKONICS](http://twitter.com/search?q=iKONICS) | N/A |
+| 14 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 15 | [EMPIRE STATE OF TWICE](http://twitter.com/search?q=EMPIRE+STATE+OF+TWICE) | N/A |
+| 16 | [MARCHottest SUNDAY WithKICE](http://twitter.com/search?q=MARCHottest+SUNDAY+WithKICE) | N/A |
+| 17 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
+| 18 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 19 | [Sara Duterte](http://twitter.com/search?q=Sara+Duterte) | N/A |
+| 20 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
+| 21 | [Song Kang](http://twitter.com/search?q=Song+Kang) | N/A |
+| 22 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 23 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
+| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 25 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 26 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 27 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 28 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 29 | [Wanderland](http://twitter.com/search?q=Wanderland) | N/A |
-| 30 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 31 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
-| 32 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 33 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 34 | [#TOKYOmarathANNEventure](http://twitter.com/search?q=%23TOKYOmarathANNEventure) | N/A |
-| 35 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
-| 36 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
-| 37 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 38 | [#BOYCOTTEBxGMA725](http://twitter.com/search?q=%23BOYCOTTEBxGMA725) | N/A |
-| 39 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
-| 40 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
-| 41 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
-| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 43 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 44 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 45 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 46 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 26 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 28 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
+| 29 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 30 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 31 | [WELCOME BACK TO MANILA HANBIN](http://twitter.com/search?q=WELCOME+BACK+TO+MANILA+HANBIN) | N/A |
+| 32 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 33 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 34 | [Wanderland](http://twitter.com/search?q=Wanderland) | N/A |
+| 35 | [#HORI7ON_onASAP](http://twitter.com/search?q=%23HORI7ON_onASAP) | N/A |
+| 36 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 37 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 38 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 39 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
+| 40 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 41 | [#TOKYOmarathANNEventure](http://twitter.com/search?q=%23TOKYOmarathANNEventure) | N/A |
+| 42 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
+| 43 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 44 | [#BOYCOTTEBxGMA725](http://twitter.com/search?q=%23BOYCOTTEBxGMA725) | N/A |
+| 45 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
+| 46 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 47 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
+| 48 | [#komiket2023](http://twitter.com/search?q=%23komiket2023) | N/A |
+| 49 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
+| 50 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 
 
 

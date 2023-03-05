@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-05 04:16:46 UTC`
+📆 Last Updated: `2023-03-05 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 2 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
-| 3 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
-| 4 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 5 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 6 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
-| 7 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 8 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 9 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 11 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 13 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 14 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 15 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 18 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 19 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 20 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 21 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 22 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 23 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 24 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
-| 25 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 26 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 28 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 29 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 30 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 31 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
-| 32 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 33 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 34 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 35 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
-| 36 | [Jamie Pickett](http://twitter.com/search?q=Jamie+Pickett) | N/A |
-| 37 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 38 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 39 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 40 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 41 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 42 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 43 | [Khris](http://twitter.com/search?q=Khris) | N/A |
-| 44 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
-| 45 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 46 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 47 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 48 | [Aquille Carr](http://twitter.com/search?q=Aquille+Carr) | N/A |
-| 49 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 50 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 1 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
+| 2 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
+| 3 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
+| 4 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
+| 5 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 6 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 7 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 8 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 9 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 10 | [Frisco](http://twitter.com/search?q=Frisco) | Frisco is a nickname for the city of San Francisco, California. It is derived from the city's full name, which is "The City and County of San Francisco". |
+| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 12 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 13 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 14 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 16 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 17 | [Neal](http://twitter.com/search?q=Neal) | N/A |
+| 18 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 19 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 21 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 22 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 23 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 24 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 25 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 26 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 27 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 28 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 29 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 30 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
+| 31 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 33 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 34 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 35 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 36 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 37 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 38 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 39 | [Jason Kelce](http://twitter.com/search?q=Jason+Kelce) | N/A |
+| 40 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 41 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 42 | [Derek Brunson](http://twitter.com/search?q=Derek+Brunson) | N/A |
+| 43 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
+| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 45 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 46 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 47 | [Jaylen Clark](http://twitter.com/search?q=Jaylen+Clark) | N/A |
+| 48 | [Khris](http://twitter.com/search?q=Khris) | N/A |
+| 49 | [David Spade](http://twitter.com/search?q=David+Spade) | N/A |
+| 50 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
 
 
 
