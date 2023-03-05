@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-05 00:31:34 UTC`
+📆 Last Updated: `2023-03-05 01:45:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
-| 2 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 3 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 4 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 5 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
-| 6 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 7 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
-| 8 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 9 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 10 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 11 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 12 | [#itfc](http://twitter.com/search?q=%23itfc) | N/A |
-| 13 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 14 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 15 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 16 | [Dan Neil](http://twitter.com/search?q=Dan+Neil) | N/A |
-| 17 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 18 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 19 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 20 | [#groundhopping](http://twitter.com/search?q=%23groundhopping) | N/A |
-| 21 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 22 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 23 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 24 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 25 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 26 | [Jay Swingler](http://twitter.com/search?q=Jay+Swingler) | N/A |
-| 27 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 28 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 29 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 30 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 31 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 32 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 33 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 34 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 35 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 36 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
-| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 38 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 39 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 40 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 41 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 42 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 43 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
-| 44 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 45 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 46 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 47 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 48 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 49 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 50 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
+| 2 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 3 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 4 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 6 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 8 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 9 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 10 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
+| 11 | [Nich](http://twitter.com/search?q=Nich) | N/A |
+| 12 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 13 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
+| 14 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 15 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 16 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 17 | [Ritson](http://twitter.com/search?q=Ritson) | N/A |
+| 18 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 19 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 20 | [Ohara Davies](http://twitter.com/search?q=Ohara+Davies) | N/A |
+| 21 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 22 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 23 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 24 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 25 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 26 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 28 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 29 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 30 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 31 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 32 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 33 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 34 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 36 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 37 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 38 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 39 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 40 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 41 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 42 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 43 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 44 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
+| 45 | [Dennis Taylor](http://twitter.com/search?q=Dennis+Taylor) | N/A |
+| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 47 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
+| 48 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 49 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 50 | [billie](http://twitter.com/search?q=billie) | N/A |
 
 
 

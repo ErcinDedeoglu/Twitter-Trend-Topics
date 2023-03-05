@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-05 00:31:38 UTC`
+📆 Last Updated: `2023-03-05 01:45:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 3 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 7 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 8 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 11 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 12 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 13 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 14 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 17 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 18 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 20 | [Marx Arriaga](http://twitter.com/search?q=Marx+Arriaga) | N/A |
-| 21 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Hipólito Mora](http://twitter.com/search?q=Hip%c3%b3lito+Mora) | N/A |
-| 26 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
-| 27 | [UANL](http://twitter.com/search?q=UANL) | N/A |
-| 28 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 29 | [Marciano Dzul Caamal](http://twitter.com/search?q=Marciano+Dzul+Caamal) | N/A |
-| 30 | [Replik](http://twitter.com/search?q=Replik) | N/A |
-| 31 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 32 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 33 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 34 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 35 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 36 | [Shorty Party](http://twitter.com/search?q=Shorty+Party) | N/A |
-| 37 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 38 | [Hace 9](http://twitter.com/search?q=Hace+9) | N/A |
-| 39 | [Chencho](http://twitter.com/search?q=Chencho) | N/A |
-| 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 41 | [HAPPY MJ DAY](http://twitter.com/search?q=HAPPY+MJ+DAY) | N/A |
-| 42 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 45 | [La Ruana](http://twitter.com/search?q=La+Ruana) | N/A |
-| 46 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 47 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 48 | [UN AÑO HEARTBREAKER](http://twitter.com/search?q=UN+A%c3%91O+HEARTBREAKER) | N/A |
-| 49 | [Lencho](http://twitter.com/search?q=Lencho) | N/A |
-| 50 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 1 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 2 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 3 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 4 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 5 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 6 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 7 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
+| 8 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
+| 9 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 10 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 11 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 12 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
+| 13 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
+| 14 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 15 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 16 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 17 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 18 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
+| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 20 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 22 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 23 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
+| 24 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 25 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 26 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 27 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 28 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
+| 29 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 31 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 32 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 33 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 34 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 35 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
+| 36 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 37 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
+| 38 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 39 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
+| 40 | [#JuntosEnAcción](http://twitter.com/search?q=%23JuntosEnAcci%c3%b3n) | N/A |
+| 41 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
+| 42 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 43 | [#ArribaElMonterrey](http://twitter.com/search?q=%23ArribaElMonterrey) | N/A |
+| 44 | [#dne라틴아메리카콘서트](http://twitter.com/search?q=%23dne%eb%9d%bc%ed%8b%b4%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
+| 45 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
+| 46 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 47 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
+| 48 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
+| 49 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
 
 
 

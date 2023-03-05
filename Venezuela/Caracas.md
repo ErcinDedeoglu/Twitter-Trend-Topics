@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-03-05 00:31:41 UTC`
+📆 Last Updated: `2023-03-05 01:45:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#4Mar](http://twitter.com/search?q=%234Mar) | N/A |
 | 2 | [#ChávezInfinito](http://twitter.com/search?q=%23Ch%c3%a1vezInfinito) | N/A |
-| 3 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 7 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 8 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 6 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 7 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
+| 8 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
 | 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 10 | [Barry Cartaya](http://twitter.com/search?q=Barry+Cartaya) | N/A |
-| 11 | [Rayo Zuliano](http://twitter.com/search?q=Rayo+Zuliano) | N/A |
-| 12 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
-| 13 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 14 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 15 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 16 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
-| 17 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
-| 18 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
-| 19 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 20 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 21 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 22 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
-| 23 | [Arturo Peraza](http://twitter.com/search?q=Arturo+Peraza) | N/A |
-| 24 | [Edwin Torres](http://twitter.com/search?q=Edwin+Torres) | N/A |
-| 25 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 26 | [Día Mundial de la Ingeniería](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Ingenier%c3%ada) | N/A |
+| 11 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 12 | [Forte](http://twitter.com/search?q=Forte) | N/A |
+| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 14 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 15 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 16 | [Rayo Zuliano](http://twitter.com/search?q=Rayo+Zuliano) | N/A |
+| 17 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 18 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 19 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 20 | [Arístides Rojas](http://twitter.com/search?q=Ar%c3%adstides+Rojas) | N/A |
+| 21 | [Desarrollo Sostenible](http://twitter.com/search?q=Desarrollo+Sostenible) | N/A |
+| 22 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 23 | [Argelio Riera](http://twitter.com/search?q=Argelio+Riera) | N/A |
+| 24 | [Día Mundial de la Ingeniería](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Ingenier%c3%ada) | N/A |
+| 25 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 26 | [Arturo Peraza](http://twitter.com/search?q=Arturo+Peraza) | N/A |
 | 27 | [Barracuda](http://twitter.com/search?q=Barracuda) | N/A |
-| 28 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 29 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 30 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 31 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 33 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
-| 34 | [Mage](http://twitter.com/search?q=Mage) | N/A |
-| 35 | [Salomón](http://twitter.com/search?q=Salom%c3%b3n) | N/A |
-| 36 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 30 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 31 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 32 | [Edwin Torres](http://twitter.com/search?q=Edwin+Torres) | N/A |
+| 33 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 34 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 35 | [Doble 4](http://twitter.com/search?q=Doble+4) | N/A |
+| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 37 | [El Inspector Ardilla](http://twitter.com/search?q=El+Inspector+Ardilla) | N/A |
-| 38 | [parque cristal](http://twitter.com/search?q=parque+cristal) | N/A |
-| 39 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 40 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 41 | [Evelio Hernández](http://twitter.com/search?q=Evelio+Hern%c3%a1ndez) | N/A |
-| 42 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
-| 43 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
-| 44 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 45 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
-| 46 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 47 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 50 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 38 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
+| 39 | [Día Mundial de la Obesidad](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Obesidad) | N/A |
+| 40 | [parque cristal](http://twitter.com/search?q=parque+cristal) | N/A |
+| 41 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 42 | [Evelio Hernández](http://twitter.com/search?q=Evelio+Hern%c3%a1ndez) | N/A |
+| 43 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 44 | [Charles Brewer Carias](http://twitter.com/search?q=Charles+Brewer+Carias) | N/A |
+| 45 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 46 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 47 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
+| 48 | [La RAE](http://twitter.com/search?q=La+RAE) | N/A |
+| 49 | [Un Nuevo Tiempo](http://twitter.com/search?q=Un+Nuevo+Tiempo) | N/A |
+| 50 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 
 
 

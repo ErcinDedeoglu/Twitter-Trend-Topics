@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-05 00:31:40 UTC`
+📆 Last Updated: `2023-03-05 01:45:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 2 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 3 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
+| 2 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 3 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
 | 4 | [Laucha Acosta](http://twitter.com/search?q=Laucha+Acosta) | N/A |
-| 5 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
+| 5 | [Beltran](http://twitter.com/search?q=Beltran) | N/A |
 | 6 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 7 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 7 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
 | 8 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 9 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 10 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 11 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 12 | [davo](http://twitter.com/search?q=davo) | N/A |
-| 13 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
-| 14 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 15 | [Pirez](http://twitter.com/search?q=Pirez) | N/A |
-| 16 | [Lema](http://twitter.com/search?q=Lema) | N/A |
-| 17 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 9 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 10 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 11 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 12 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
+| 13 | [davo](http://twitter.com/search?q=davo) | N/A |
+| 14 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 15 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 16 | [Pirez](http://twitter.com/search?q=Pirez) | N/A |
+| 17 | [Lema](http://twitter.com/search?q=Lema) | N/A |
 | 18 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 19 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
-| 20 | [Canale](http://twitter.com/search?q=Canale) | N/A |
-| 21 | [Gime](http://twitter.com/search?q=Gime) | N/A |
-| 22 | [Belmonte](http://twitter.com/search?q=Belmonte) | N/A |
-| 23 | [#SDTV](http://twitter.com/search?q=%23SDTV) | N/A |
-| 24 | [Chavo Pus](http://twitter.com/search?q=Chavo+Pus) | N/A |
-| 25 | [Casco](http://twitter.com/search?q=Casco) | N/A |
-| 26 | [Enzo Perez](http://twitter.com/search?q=Enzo+Perez) | N/A |
-| 27 | [NO TIENEN LUZ](http://twitter.com/search?q=NO+TIENEN+LUZ) | N/A |
-| 28 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
-| 29 | [Micho](http://twitter.com/search?q=Micho) | N/A |
-| 30 | [NO TIENEN GAS](http://twitter.com/search?q=NO+TIENEN+GAS) | N/A |
-| 31 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 32 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 33 | [La Fortaleza](http://twitter.com/search?q=La+Fortaleza) | N/A |
-| 34 | [nacho fernandez](http://twitter.com/search?q=nacho+fernandez) | N/A |
-| 35 | [Schott](http://twitter.com/search?q=Schott) | N/A |
-| 36 | [De la Vega](http://twitter.com/search?q=De+la+Vega) | N/A |
+| 19 | [Canale](http://twitter.com/search?q=Canale) | N/A |
+| 20 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 21 | [Offside](http://twitter.com/search?q=Offside) | Offside is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field when the ball is passed to them. It is an infraction of the rules and results in a free kick for the opposing team. In English, offside means being in an illegal position on the field. |
+| 22 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 23 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
+| 24 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 25 | [Belmonte](http://twitter.com/search?q=Belmonte) | N/A |
+| 26 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 27 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 28 | [Casco](http://twitter.com/search?q=Casco) | N/A |
+| 29 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 30 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
+| 31 | [NO TIENEN LUZ](http://twitter.com/search?q=NO+TIENEN+LUZ) | N/A |
+| 32 | [Gime](http://twitter.com/search?q=Gime) | N/A |
+| 33 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
+| 34 | [Chavo Pus](http://twitter.com/search?q=Chavo+Pus) | N/A |
+| 35 | [NO TIENEN GAS](http://twitter.com/search?q=NO+TIENEN+GAS) | N/A |
+| 36 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 37 | [Orozco](http://twitter.com/search?q=Orozco) | N/A |
-| 38 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
-| 39 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
-| 40 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 41 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 42 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
-| 43 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 44 | [Pepe Sand](http://twitter.com/search?q=Pepe+Sand) | N/A |
-| 45 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 46 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 47 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 48 | [Granate](http://twitter.com/search?q=Granate) | N/A |
-| 49 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 50 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 38 | [La Fortaleza](http://twitter.com/search?q=La+Fortaleza) | N/A |
+| 39 | [Pepe Sand](http://twitter.com/search?q=Pepe+Sand) | N/A |
+| 40 | [De La Cruz](http://twitter.com/search?q=De+La+Cruz) | N/A |
+| 41 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
+| 42 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 43 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 44 | [#Vendimia](http://twitter.com/search?q=%23Vendimia) | N/A |
+| 45 | [Granate](http://twitter.com/search?q=Granate) | N/A |
+| 46 | [De la Vega](http://twitter.com/search?q=De+la+Vega) | N/A |
+| 47 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 48 | [Nacho Fernandez](http://twitter.com/search?q=Nacho+Fernandez) | N/A |
+| 49 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
+| 50 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
 
 
 

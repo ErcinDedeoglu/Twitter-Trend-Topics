@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-05 00:32:21 UTC`
+📆 Last Updated: `2023-03-05 01:46:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Egypt
 | 9 | [#تزوج_الثانيه_ولاتخاف](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87_%d9%88%d9%84%d8%a7%d8%aa%d8%ae%d8%a7%d9%81) | N/A |
 | 10 | [نيلسون](http://twitter.com/search?q=%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
 | 11 | [#هجوم_العمالقه](http://twitter.com/search?q=%23%d9%87%d8%ac%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%82%d9%87) | N/A |
-| 12 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
-| 13 | [احمد سليمان](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
-| 14 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [رأفت خليل](http://twitter.com/search?q=%d8%b1%d8%a3%d9%81%d8%aa+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 17 | [احمد القندوسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%86%d8%af%d9%88%d8%b3%d9%8a) | N/A |
-| 18 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 12 | [احمد سليمان](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [احمد القندوسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%86%d8%af%d9%88%d8%b3%d9%8a) | N/A |
+| 15 | [رأفت خليل](http://twitter.com/search?q=%d8%b1%d8%a3%d9%81%d8%aa+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 16 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 17 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 18 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 | 19 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
-| 20 | [ملعب الامارات](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 21 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
-| 22 | [جول الدوري](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 23 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
-| 24 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 25 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 26 | [عماد متعب](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
-| 27 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 28 | [اشرف ذكي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b0%d9%83%d9%8a) | N/A |
-| 29 | [عنق الرحم](http://twitter.com/search?q=%d8%b9%d9%86%d9%82+%d8%a7%d9%84%d8%b1%d8%ad%d9%85) | N/A |
-| 30 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 31 | [سان جيرمان](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
-| 32 | [ماك اليستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 20 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 21 | [جول الدوري](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 22 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 23 | [اشرف زكي](http://twitter.com/search?q=%d8%a7%d8%b4%d8%b1%d9%81+%d8%b2%d9%83%d9%8a) | N/A |
+| 24 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 25 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
+| 26 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
+| 27 | [عماد متعب](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
+| 28 | [عنق الرحم](http://twitter.com/search?q=%d8%b9%d9%86%d9%82+%d8%a7%d9%84%d8%b1%d8%ad%d9%85) | N/A |
+| 29 | [ملعب الامارات](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 30 | [الاهلي الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 31 | [ماك اليستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 32 | [ايس كوفي](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3+%d9%83%d9%88%d9%81%d9%8a) | N/A |
 | 33 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 34 | [الدقيقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 35 | [ايس كوفي](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3+%d9%83%d9%88%d9%81%d9%8a) | N/A |
-| 36 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 37 | [١٣ شعبان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 38 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 34 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 35 | [الدقيقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 36 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
+| 37 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 38 | [١٥ شعبان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 39 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
-| 40 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 41 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
-| 42 | [احمد فتحي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
+| 40 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 41 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 42 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
 | 43 | [صيام الايام القمريه](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d9%85%d8%b1%d9%8a%d9%87) | N/A |
-| 44 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 45 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 46 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 44 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 45 | [تشكيل الاهلي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 46 | [احمد فتحي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
 | 47 | [البريميرليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%85%d9%8a%d8%b1%d9%84%d9%8a%d8%ac) | N/A |
-| 48 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 49 | [علي المواطنين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
-| 50 | [اميره شنب](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%87+%d8%b4%d9%86%d8%a8) | N/A |
+| 48 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
+| 49 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
+| 50 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
 
 
 

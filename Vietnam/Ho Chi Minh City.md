@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-05 00:32:00 UTC`
+📆 Last Updated: `2023-03-05 01:46:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,50 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
 | 3 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
 | 4 | [#ShootingStarInVietnam](http://twitter.com/search?q=%23ShootingStarInVietnam) | N/A |
-| 5 | [#BWDNtoVietnam](http://twitter.com/search?q=%23BWDNtoVietnam) | N/A |
-| 6 | [#EnglotAns11month](http://twitter.com/search?q=%23EnglotAns11month) | N/A |
+| 5 | [#EnglotAns11month](http://twitter.com/search?q=%23EnglotAns11month) | N/A |
+| 6 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
 | 7 | [PRIVATE FIRST CLASS JIN](http://twitter.com/search?q=PRIVATE+FIRST+CLASS+JIN) | N/A |
-| 8 | [win x vietnam](http://twitter.com/search?q=win+x+vietnam) | N/A |
-| 9 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 10 | [Liuyu Paris Fashion Week](http://twitter.com/search?q=Liuyu+Paris+Fashion+Week) | N/A |
-| 11 | [beyourluve](http://twitter.com/search?q=beyourluve) | N/A |
-| 12 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 13 | [byls](http://twitter.com/search?q=byls) | N/A |
-| 14 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
-| 15 | [Welcome to Vietnam](http://twitter.com/search?q=Welcome+to+Vietnam) | N/A |
-| 16 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 18 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 19 | [Dump](http://twitter.com/search?q=Dump) | N/A |
-| 20 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 21 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 22 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 25 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 26 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 27 | [LQTY](http://twitter.com/search?q=LQTY) | N/A |
-| 28 | [đáng](http://twitter.com/search?q=%c4%91%c3%a1ng) | N/A |
-| 29 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
-| 32 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 33 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 34 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 35 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 36 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
-| 37 | [kiếm](http://twitter.com/search?q=ki%e1%ba%bfm) | N/A |
-| 38 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 39 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 40 | [Thưởng](http://twitter.com/search?q=Th%c6%b0%e1%bb%9fng) | N/A |
-| 41 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 42 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 43 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 44 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 47 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
-| 48 | [#BeckyIsOurHeart](http://twitter.com/search?q=%23BeckyIsOurHeart) | N/A |
-| 49 | [#OhmNanonReadyforHK](http://twitter.com/search?q=%23OhmNanonReadyforHK) | N/A |
+| 8 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 9 | [Liuyu Paris Fashion Week](http://twitter.com/search?q=Liuyu+Paris+Fashion+Week) | N/A |
+| 10 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [beyourluve](http://twitter.com/search?q=beyourluve) | N/A |
+| 13 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
+| 14 | [byls](http://twitter.com/search?q=byls) | N/A |
+| 15 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 16 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 18 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 20 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 21 | [Dump](http://twitter.com/search?q=Dump) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
+| 24 | [LQTY](http://twitter.com/search?q=LQTY) | N/A |
+| 25 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 26 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 27 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 28 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 30 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
+| 31 | [kiếm](http://twitter.com/search?q=ki%e1%ba%bfm) | N/A |
+| 32 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 33 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 34 | [Thưởng](http://twitter.com/search?q=Th%c6%b0%e1%bb%9fng) | N/A |
+| 35 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 36 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 37 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 38 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 39 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 40 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 41 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 42 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
+| 43 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 44 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 45 | [#LIUYU_PFW23](http://twitter.com/search?q=%23LIUYU_PFW23) | N/A |
+| 46 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 47 | [#OhmNanonReadyforHK](http://twitter.com/search?q=%23OhmNanonReadyforHK) | N/A |
+| 48 | [#YEvolutionXJeffBarcode](http://twitter.com/search?q=%23YEvolutionXJeffBarcode) | N/A |
 
 
 

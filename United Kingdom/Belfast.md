@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-05 00:31:37 UTC`
+📆 Last Updated: `2023-03-05 01:45:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 2 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 3 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 4 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 5 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 8 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 9 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 10 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 11 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 12 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 13 | [Jay Swingler](http://twitter.com/search?q=Jay+Swingler) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 6 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 7 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 8 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
+| 9 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 10 | [Nich](http://twitter.com/search?q=Nich) | N/A |
+| 11 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 12 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
+| 13 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
 | 14 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 15 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 16 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 17 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 18 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 19 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 20 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 21 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 22 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 23 | [Kylian Mbappe](http://twitter.com/search?q=Kylian+Mbappe) | N/A |
-| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 25 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 26 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 28 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 29 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 30 | [Rob Beckett](http://twitter.com/search?q=Rob+Beckett) | N/A |
-| 31 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 15 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 16 | [Ritson](http://twitter.com/search?q=Ritson) | N/A |
+| 17 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 18 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 19 | [Ohara Davies](http://twitter.com/search?q=Ohara+Davies) | N/A |
+| 20 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
+| 21 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 22 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 23 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 24 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 25 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 27 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 28 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 29 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 30 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 31 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 32 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 33 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 34 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 33 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
+| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
 | 35 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 36 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 37 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
-| 38 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 39 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
-| 40 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 41 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 42 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 45 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 46 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 47 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 48 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 49 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 50 | [Dennis Taylor](http://twitter.com/search?q=Dennis+Taylor) | N/A |
+| 36 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 37 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 38 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 39 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
+| 40 | [Watergate](http://twitter.com/search?q=Watergate) | N/A |
+| 41 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 42 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 43 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
+| 44 | [Dennis Taylor](http://twitter.com/search?q=Dennis+Taylor) | N/A |
+| 45 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 46 | [fletcher](http://twitter.com/search?q=fletcher) | N/A |
+| 47 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 48 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 49 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 50 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 
 
 

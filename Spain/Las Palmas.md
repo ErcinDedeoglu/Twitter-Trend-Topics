@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-05 00:31:50 UTC`
+📆 Last Updated: `2023-03-05 01:45:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 3 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 1 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 2 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 3 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
 | 4 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
 | 5 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
 | 6 | [#XplicaBrecha](http://twitter.com/search?q=%23XplicaBrecha) | N/A |
 | 7 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 8 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 9 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
-| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 11 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 12 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 13 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 9 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 10 | [Sostres](http://twitter.com/search?q=Sostres) | N/A |
+| 11 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 12 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 13 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 14 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
 | 15 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 16 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 17 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
-| 18 | [Sostres](http://twitter.com/search?q=Sostres) | N/A |
-| 19 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 20 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 21 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 16 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 17 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 18 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 19 | [Pape Gueye](http://twitter.com/search?q=Pape+Gueye) | N/A |
+| 20 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 21 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
 | 22 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 23 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 24 | [Caparrós](http://twitter.com/search?q=Caparr%c3%b3s) | N/A |
-| 25 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 26 | [Islandia](http://twitter.com/search?q=Islandia) | N/A |
-| 27 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 28 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 29 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 23 | [Caparrós](http://twitter.com/search?q=Caparr%c3%b3s) | N/A |
+| 24 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 25 | [Islandia](http://twitter.com/search?q=Islandia) | N/A |
+| 26 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 27 | [Don Pelayo](http://twitter.com/search?q=Don+Pelayo) | N/A |
+| 28 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 29 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
 | 30 | [Luke Black](http://twitter.com/search?q=Luke+Black) | N/A |
-| 31 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 32 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 31 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
+| 32 | [Anduva](http://twitter.com/search?q=Anduva) | N/A |
 | 33 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
-| 34 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
-| 35 | [Don Pelayo](http://twitter.com/search?q=Don+Pelayo) | N/A |
-| 36 | [Anduva](http://twitter.com/search?q=Anduva) | N/A |
-| 37 | [Morientes](http://twitter.com/search?q=Morientes) | N/A |
-| 38 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
-| 39 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
-| 40 | [Casilda](http://twitter.com/search?q=Casilda) | N/A |
-| 41 | [Bolo](http://twitter.com/search?q=Bolo) | N/A |
-| 42 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 43 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 44 | [Baños](http://twitter.com/search?q=Ba%c3%b1os) | N/A |
-| 45 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
-| 46 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 47 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
-| 48 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 34 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
+| 35 | [Baños](http://twitter.com/search?q=Ba%c3%b1os) | N/A |
+| 36 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 37 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 38 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
+| 39 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 40 | [Luis Aragonés](http://twitter.com/search?q=Luis+Aragon%c3%a9s) | N/A |
+| 41 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 42 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 43 | [joao](http://twitter.com/search?q=joao) | N/A |
+| 44 | [Paridad](http://twitter.com/search?q=Paridad) | N/A |
+| 45 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 46 | [Julen](http://twitter.com/search?q=Julen) | N/A |
+| 47 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 48 | [Granada](http://twitter.com/search?q=Granada) | N/A |
 
 
 

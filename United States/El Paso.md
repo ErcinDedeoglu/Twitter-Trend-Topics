@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-05 00:32:13 UTC`
+📆 Last Updated: `2023-03-05 01:46:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 2 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
-| 3 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 4 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 7 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 9 | [#GigEm](http://twitter.com/search?q=%23GigEm) | N/A |
-| 10 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 11 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 13 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 14 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 15 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 16 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
-| 17 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 18 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 19 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 20 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 21 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
-| 22 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 23 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 24 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 25 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
-| 26 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 27 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 28 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 30 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
-| 31 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 32 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 33 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
-| 34 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 35 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 36 | [Penne](http://twitter.com/search?q=Penne) | N/A |
-| 37 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 38 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 39 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
-| 40 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 41 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
-| 42 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 43 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
-| 44 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 45 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
-| 46 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 47 | [Delon Wright](http://twitter.com/search?q=Delon+Wright) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 3 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 4 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
+| 5 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 6 | [Kari Lake](http://twitter.com/search?q=Kari+Lake) | N/A |
+| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 8 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 9 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 10 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
+| 11 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 13 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 14 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 15 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 16 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 17 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 18 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 19 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 21 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 22 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 23 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 24 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 25 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 26 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 27 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
+| 28 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 29 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 30 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 31 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 32 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 33 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 34 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 35 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
+| 36 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 37 | [David Quinn](http://twitter.com/search?q=David+Quinn) | N/A |
+| 38 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 39 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 40 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 41 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 42 | [Barkov](http://twitter.com/search?q=Barkov) | N/A |
+| 43 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 44 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 45 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 46 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 47 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
 
 
 

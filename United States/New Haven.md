@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-05 00:32:15 UTC`
+📆 Last Updated: `2023-03-05 01:46:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 6 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 7 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 8 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 9 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
-| 10 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 11 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 12 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 13 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 14 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
-| 15 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 16 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 17 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 18 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 3 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 4 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 5 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 6 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 7 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 8 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 9 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 10 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 11 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 12 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 13 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 14 | [#LAMDC](http://twitter.com/search?q=%23LAMDC) | N/A |
+| 15 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 16 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 17 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
+| 18 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
 | 19 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 21 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 22 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 23 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
-| 24 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 25 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 26 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
-| 27 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 28 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 29 | [Penne](http://twitter.com/search?q=Penne) | N/A |
-| 30 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 31 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 32 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
-| 33 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 34 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
-| 35 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 36 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
-| 37 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 38 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 39 | [Delon Wright](http://twitter.com/search?q=Delon+Wright) | N/A |
-| 40 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
-| 41 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 42 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 43 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
-| 44 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 45 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
-| 46 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
-| 47 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 48 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 20 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 21 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 22 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 23 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 24 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 25 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
+| 26 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 27 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 28 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 29 | [David Quinn](http://twitter.com/search?q=David+Quinn) | N/A |
+| 30 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 31 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 32 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 33 | [Barkov](http://twitter.com/search?q=Barkov) | N/A |
+| 34 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 35 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 36 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 37 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
+| 38 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 39 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 40 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 41 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 42 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 43 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
+| 44 | [Hinson](http://twitter.com/search?q=Hinson) | N/A |
+| 45 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 46 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 47 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
+| 48 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
 
 
 

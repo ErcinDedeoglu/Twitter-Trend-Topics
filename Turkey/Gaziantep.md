@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-05 00:32:10 UTC`
+📆 Last Updated: `2023-03-05 01:46:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
 | 2 | [Adayımız BanuAcar](http://twitter.com/search?q=Aday%c4%b1m%c4%b1z+BanuAcar) | N/A |
-| 3 | [#anket](http://twitter.com/search?q=%23anket) | N/A |
-| 4 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
+| 3 | [#meralaksaner](http://twitter.com/search?q=%23meralaksaner) | N/A |
+| 4 | [#anket](http://twitter.com/search?q=%23anket) | N/A |
 | 5 | [#Amedspor](http://twitter.com/search?q=%23Amedspor) | N/A |
 | 6 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
 | 7 | [Şener Şen](http://twitter.com/search?q=%c5%9eener+%c5%9een) | N/A |
 | 8 | [Özgür Demirtaş](http://twitter.com/search?q=%c3%96zg%c3%bcr+Demirta%c5%9f) | N/A |
-| 9 | [Kazanacak](http://twitter.com/search?q=Kazanacak) | N/A |
-| 10 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 11 | [Yılmaz Vural](http://twitter.com/search?q=Y%c4%b1lmaz+Vural) | N/A |
-| 12 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
-| 13 | [ERDOĞANI DURDURAMAZSINIZ](http://twitter.com/search?q=ERDO%c4%9eANI+DURDURAMAZSINIZ) | N/A |
-| 14 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
-| 15 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 16 | [Constantinople](http://twitter.com/search?q=Constantinople) | N/A |
-| 17 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
-| 18 | [Süleyman Aslan](http://twitter.com/search?q=S%c3%bcleyman+Aslan) | N/A |
-| 19 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 20 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 21 | [Masum Türker](http://twitter.com/search?q=Masum+T%c3%bcrker) | N/A |
-| 22 | [Milletvekilliğinden](http://twitter.com/search?q=Milletvekilli%c4%9finden) | N/A |
-| 23 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 24 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 9 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 10 | [Yılmaz Vural](http://twitter.com/search?q=Y%c4%b1lmaz+Vural) | N/A |
+| 11 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
+| 12 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
+| 13 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 14 | [Constantinople](http://twitter.com/search?q=Constantinople) | N/A |
+| 15 | [ERDOĞANI DURDURAMAZSINIZ](http://twitter.com/search?q=ERDO%c4%9eANI+DURDURAMAZSINIZ) | N/A |
+| 16 | [Süleyman Aslan](http://twitter.com/search?q=S%c3%bcleyman+Aslan) | N/A |
+| 17 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 18 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 19 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 20 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 21 | [Kırşehir](http://twitter.com/search?q=K%c4%b1r%c5%9fehir) | N/A |
+| 22 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
+| 23 | [Oyum](http://twitter.com/search?q=Oyum) | N/A |
+| 24 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
 | 25 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 26 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 27 | [Oyum](http://twitter.com/search?q=Oyum) | N/A |
-| 28 | [Komedi](http://twitter.com/search?q=Komedi) | N/A |
-| 29 | [REİS YİNE HAKLI ÇIKTI](http://twitter.com/search?q=RE%c4%b0S+Y%c4%b0NE+HAKLI+%c3%87IKTI) | N/A |
-| 30 | [Tuğba Danışmaz](http://twitter.com/search?q=Tu%c4%9fba+Dan%c4%b1%c5%9fmaz) | N/A |
-| 31 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 32 | [Tuvalete](http://twitter.com/search?q=Tuvalete) | N/A |
-| 33 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
-| 34 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 35 | [Tırnak](http://twitter.com/search?q=T%c4%b1rnak) | N/A |
-| 36 | [FAHRİLERE KADRO NEREDE](http://twitter.com/search?q=FAHR%c4%b0LERE+KADRO+NEREDE) | N/A |
-| 37 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
-| 38 | [Layık](http://twitter.com/search?q=Lay%c4%b1k) | N/A |
-| 39 | [Kaçırılanlara NeOldu](http://twitter.com/search?q=Ka%c3%a7%c4%b1r%c4%b1lanlara+NeOldu) | N/A |
-| 40 | [İttifak](http://twitter.com/search?q=%c4%b0ttifak) | N/A |
-| 41 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 42 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
-| 43 | [Yakışır](http://twitter.com/search?q=Yak%c4%b1%c5%9f%c4%b1r) | Yakışır is a Turkish word that means "it suits" or "it fits". It is used to express approval of something that looks good or appropriate. |
-| 44 | [TaşeronSeçimden ÖnceBitmeli](http://twitter.com/search?q=Ta%c5%9feronSe%c3%a7imden+%c3%96nceBitmeli) | N/A |
-| 45 | [Kayserililer](http://twitter.com/search?q=Kayserililer) | N/A |
-| 46 | [TARİH ERDOĞAN YAZACAK](http://twitter.com/search?q=TAR%c4%b0H+ERDO%c4%9eAN+YAZACAK) | N/A |
-| 47 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 48 | [Ferhat](http://twitter.com/search?q=Ferhat) | N/A |
-| 49 | [İnsanlığın](http://twitter.com/search?q=%c4%b0nsanl%c4%b1%c4%9f%c4%b1n) | N/A |
+| 26 | [Komedi](http://twitter.com/search?q=Komedi) | N/A |
+| 27 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
+| 28 | [REİS YİNE HAKLI ÇIKTI](http://twitter.com/search?q=RE%c4%b0S+Y%c4%b0NE+HAKLI+%c3%87IKTI) | N/A |
+| 29 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
+| 30 | [Tuvalete](http://twitter.com/search?q=Tuvalete) | N/A |
+| 31 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 32 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 33 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 34 | [TaşeronSeçimden ÖnceBitmeli](http://twitter.com/search?q=Ta%c5%9feronSe%c3%a7imden+%c3%96nceBitmeli) | N/A |
+| 35 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
+| 36 | [Sokağın](http://twitter.com/search?q=Soka%c4%9f%c4%b1n) | N/A |
+| 37 | [#MemleketKazanacak](http://twitter.com/search?q=%23MemleketKazanacak) | N/A |
+| 38 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 39 | [#NasihatimOlsun](http://twitter.com/search?q=%23NasihatimOlsun) | N/A |
+| 40 | [#tv100](http://twitter.com/search?q=%23tv100) | N/A |
+| 41 | [#Pencerende1MumYak](http://twitter.com/search?q=%23Pencerende1MumYak) | N/A |
+| 42 | [#StajyerBursadaTekYürek](http://twitter.com/search?q=%23StajyerBursadaTekY%c3%bcrek) | N/A |
+| 43 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
+| 44 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 45 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 46 | [#Diyanet](http://twitter.com/search?q=%23Diyanet) | N/A |
+| 47 | [#YarınKadıköyeGel](http://twitter.com/search?q=%23Yar%c4%b1nKad%c4%b1k%c3%b6yeGel) | N/A |
+| 48 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
+| 49 | [#BeyazLeke](http://twitter.com/search?q=%23BeyazLeke) | N/A |
 
 
 

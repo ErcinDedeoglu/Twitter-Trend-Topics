@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-05 00:32:17 UTC`
+📆 Last Updated: `2023-03-05 01:46:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 3 | [#GoHoos](http://twitter.com/search?q=%23GoHoos) | N/A |
-| 4 | [#ACC23](http://twitter.com/search?q=%23ACC23) | N/A |
-| 5 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 9 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 10 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 11 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 12 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
-| 13 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 14 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 15 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 16 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 17 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 18 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 19 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 21 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 1 | [#GoHoos](http://twitter.com/search?q=%23GoHoos) | N/A |
+| 2 | [#ACC23](http://twitter.com/search?q=%23ACC23) | N/A |
+| 3 | [Creed III](http://twitter.com/search?q=Creed+III) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 6 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 7 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 8 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 9 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 10 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 11 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 12 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 14 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 15 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 16 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 17 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 18 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 19 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 20 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
+| 21 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
 | 22 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 24 | [Blackshear](http://twitter.com/search?q=Blackshear) | N/A |
-| 25 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 26 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 27 | [Basharat](http://twitter.com/search?q=Basharat) | N/A |
-| 28 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 29 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 30 | [Penne](http://twitter.com/search?q=Penne) | N/A |
-| 31 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 32 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 33 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
-| 34 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 35 | [Ribovics](http://twitter.com/search?q=Ribovics) | N/A |
-| 36 | [Forte](http://twitter.com/search?q=Forte) | N/A |
-| 37 | [Boaster](http://twitter.com/search?q=Boaster) | N/A |
-| 38 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 39 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 40 | [Delon Wright](http://twitter.com/search?q=Delon+Wright) | N/A |
-| 41 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
-| 42 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 43 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 44 | [Radzhabov](http://twitter.com/search?q=Radzhabov) | N/A |
-| 45 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 46 | [Trey Palmer](http://twitter.com/search?q=Trey+Palmer) | N/A |
-| 47 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
-| 48 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 49 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
+| 23 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 24 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 25 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 26 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 27 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 28 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 29 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
+| 30 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
+| 31 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 32 | [David Quinn](http://twitter.com/search?q=David+Quinn) | N/A |
+| 33 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 34 | [Barkov](http://twitter.com/search?q=Barkov) | N/A |
+| 35 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 36 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 37 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 38 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
+| 39 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 40 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
+| 41 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 42 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 43 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 44 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 45 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
+| 46 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 47 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 48 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
+| 49 | [Hinson](http://twitter.com/search?q=Hinson) | N/A |
 
 
 

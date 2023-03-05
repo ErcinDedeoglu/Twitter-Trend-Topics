@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-05 00:32:26 UTC`
+📆 Last Updated: `2023-03-05 01:46:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 4 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 5 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 7 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 8 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 6 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 7 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 8 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 9 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 11 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 12 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 14 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 16 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 18 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 19 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 22 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 17 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 18 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 19 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 20 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 21 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 23 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 24 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
-| 25 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 26 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
+| 25 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 26 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
 | 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 28 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 29 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 30 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
-| 31 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 29 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
+| 30 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 31 | [California](http://twitter.com/search?q=California) | N/A |
 | 32 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 33 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 34 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 35 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 33 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 34 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 35 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
 | 36 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 37 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 38 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 39 | [PINK OCEAN](http://twitter.com/search?q=PINK+OCEAN) | N/A |
-| 40 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
-| 41 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 42 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 43 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 44 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 45 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 47 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 48 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 50 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 37 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 38 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
+| 39 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 40 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
+| 41 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 43 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 44 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 45 | [PINK OCEAN](http://twitter.com/search?q=PINK+OCEAN) | N/A |
+| 46 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 47 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 48 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 49 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 50 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
 
 
 

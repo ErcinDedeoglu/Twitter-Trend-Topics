@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-05 00:31:45 UTC`
+📆 Last Updated: `2023-03-05 01:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#GÓRLEG](http://twitter.com/search?q=%23G%c3%93RLEG) | N/A |
 | 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 4 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 5 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 6 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 5 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 6 | [Josue](http://twitter.com/search?q=Josue) | N/A |
 | 7 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
 | 8 | [#azjaexpress](http://twitter.com/search?q=%23azjaexpress) | N/A |
 | 9 | [#stopLexPilot](http://twitter.com/search?q=%23stopLexPilot) | N/A |
-| 10 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 11 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 12 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 10 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 11 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 12 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
 | 13 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 14 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 15 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 16 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 17 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 18 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 19 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 20 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 15 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 16 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 17 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 18 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 19 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 20 | [Matka](http://twitter.com/search?q=Matka) | N/A |
 | 21 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
 | 22 | [Augustyniaka](http://twitter.com/search?q=Augustyniaka) | N/A |
 | 23 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
 | 24 | [Olek](http://twitter.com/search?q=Olek) | N/A |
 | 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 27 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 29 | [Zniszczoł](http://twitter.com/search?q=Zniszczo%c5%82) | N/A |
-| 30 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 31 | [Tobiasz](http://twitter.com/search?q=Tobiasz) | N/A |
-| 32 | [Gaul](http://twitter.com/search?q=Gaul) | N/A |
-| 33 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
-| 34 | [Hurk](http://twitter.com/search?q=Hurk) | N/A |
-| 35 | [Fernandeza](http://twitter.com/search?q=Fernandeza) | N/A |
-| 36 | [Radia Szczecin](http://twitter.com/search?q=Radia+Szczecin) | N/A |
-| 37 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
-| 38 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 39 | [Anna Kiełbasińska](http://twitter.com/search?q=Anna+Kie%c5%82basi%c5%84ska) | N/A |
-| 40 | [Zabrza](http://twitter.com/search?q=Zabrza) | N/A |
-| 41 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
-| 42 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 43 | [Olka](http://twitter.com/search?q=Olka) | N/A |
-| 44 | [Pekharta](http://twitter.com/search?q=Pekharta) | N/A |
-| 45 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
-| 48 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
-| 49 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
-| 50 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
+| 26 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 27 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 28 | [Zniszczoł](http://twitter.com/search?q=Zniszczo%c5%82) | N/A |
+| 29 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 30 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 31 | [Gaul](http://twitter.com/search?q=Gaul) | N/A |
+| 32 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
+| 33 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
+| 34 | [fernandeza](http://twitter.com/search?q=fernandeza) | N/A |
+| 35 | [Radia Szczecin](http://twitter.com/search?q=Radia+Szczecin) | N/A |
+| 36 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 37 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 38 | [anna kiełbasińska](http://twitter.com/search?q=anna+kie%c5%82basi%c5%84ska) | N/A |
+| 39 | [Pekharta](http://twitter.com/search?q=Pekharta) | N/A |
+| 40 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Olka](http://twitter.com/search?q=Olka) | N/A |
+| 43 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 44 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
+| 45 | [Mvondo](http://twitter.com/search?q=Mvondo) | N/A |
+| 46 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
+| 47 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 48 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 49 | [Winny](http://twitter.com/search?q=Winny) | N/A |
+| 50 | [Sakiewicz](http://twitter.com/search?q=Sakiewicz) | N/A |
 
 
 
