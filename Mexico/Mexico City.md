@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-05 03:26:30 UTC`
+📆 Last Updated: `2023-03-05 04:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
-| 2 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 3 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
-| 4 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 5 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 6 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 7 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 8 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 9 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 10 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 11 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 12 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 13 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 14 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 15 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 16 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 17 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 18 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 19 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 20 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
-| 21 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
-| 22 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
-| 23 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 24 | [joao](http://twitter.com/search?q=joao) | N/A |
-| 25 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 26 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
-| 27 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
-| 28 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 29 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 30 | [Damm](http://twitter.com/search?q=Damm) | N/A |
-| 31 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 32 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
-| 33 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 34 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 35 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 36 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 37 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 38 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 39 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 40 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
-| 41 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 42 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 43 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 44 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 45 | [Portero](http://twitter.com/search?q=Portero) | N/A |
-| 46 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 47 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 48 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 49 | [Roberto de la Rosa](http://twitter.com/search?q=Roberto+de+la+Rosa) | N/A |
-| 50 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 1 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 2 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
+| 3 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 4 | [Turnstile](http://twitter.com/search?q=Turnstile) | N/A |
+| 5 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 6 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 7 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
+| 8 | [Euripides](http://twitter.com/search?q=Euripides) | N/A |
+| 9 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 10 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 11 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 12 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 13 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 14 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 15 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 16 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 17 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 18 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 19 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 20 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 21 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
+| 22 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 23 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 24 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 25 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 26 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 27 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 28 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 29 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
+| 30 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 31 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 32 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 33 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
+| 34 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 35 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 36 | [joao](http://twitter.com/search?q=joao) | N/A |
+| 37 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 38 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
+| 39 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 40 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 41 | [Damm](http://twitter.com/search?q=Damm) | N/A |
+| 42 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 43 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 44 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 45 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 46 | [Rebaño](http://twitter.com/search?q=Reba%c3%b1o) | N/A |
+| 47 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 48 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 49 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 50 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-05 03:26:52 UTC`
+📆 Last Updated: `2023-03-05 04:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
-| 2 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
-| 3 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 4 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 5 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 6 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 7 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 8 | [ASAP JAM WITH ANJI](http://twitter.com/search?q=ASAP+JAM+WITH+ANJI) | N/A |
-| 9 | [Go USTE](http://twitter.com/search?q=Go+USTE) | N/A |
-| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 11 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 12 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 13 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
-| 14 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
-| 15 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
-| 16 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 17 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
-| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 20 | [Sheena B HelloMarch](http://twitter.com/search?q=Sheena+B+HelloMarch) | N/A |
-| 21 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
-| 22 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 24 | [iKONICS](http://twitter.com/search?q=iKONICS) | N/A |
-| 25 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 26 | [MARCH MASAYA WITH REIVEN](http://twitter.com/search?q=MARCH+MASAYA+WITH+REIVEN) | N/A |
-| 27 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 28 | [MARCHottest SUNDAY WithKICE](http://twitter.com/search?q=MARCHottest+SUNDAY+WithKICE) | N/A |
-| 29 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 30 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 31 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 32 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 33 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 34 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 35 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 36 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 37 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 38 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
-| 39 | [toring](http://twitter.com/search?q=toring) | N/A |
-| 40 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 41 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 42 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 43 | [JIHOPE](http://twitter.com/search?q=JIHOPE) | N/A |
-| 44 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 45 | [pienagbenga with robxine](http://twitter.com/search?q=pienagbenga+with+robxine) | N/A |
-| 46 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 47 | [zacham cho5en barkada](http://twitter.com/search?q=zacham+cho5en+barkada) | N/A |
-| 48 | [bgyo live on gv991](http://twitter.com/search?q=bgyo+live+on+gv991) | N/A |
-| 49 | [Gula](http://twitter.com/search?q=Gula) | N/A |
+| 1 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
+| 2 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
+| 3 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 4 | [ASAPMarSoAmazing JONA](http://twitter.com/search?q=ASAPMarSoAmazing+JONA) | N/A |
+| 5 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 6 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 7 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
+| 8 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
+| 9 | [#HORI7ON_onASAP](http://twitter.com/search?q=%23HORI7ON_onASAP) | N/A |
+| 10 | [ASAP JAM WITH ANJI](http://twitter.com/search?q=ASAP+JAM+WITH+ANJI) | N/A |
+| 11 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 13 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
+| 14 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 15 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
+| 16 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
+| 17 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 18 | [Sara Duterte](http://twitter.com/search?q=Sara+Duterte) | N/A |
+| 19 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 20 | [Song Kang](http://twitter.com/search?q=Song+Kang) | N/A |
+| 21 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 23 | [iKONICS](http://twitter.com/search?q=iKONICS) | N/A |
+| 24 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 25 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 26 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 27 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 28 | [Wanderland](http://twitter.com/search?q=Wanderland) | N/A |
+| 29 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 30 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 31 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
+| 32 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 33 | [#TOKYOmarathANNEventure](http://twitter.com/search?q=%23TOKYOmarathANNEventure) | N/A |
+| 34 | [#SETMEFREE](http://twitter.com/search?q=%23SETMEFREE) | N/A |
+| 35 | [#READYTOBE](http://twitter.com/search?q=%23READYTOBE) | N/A |
+| 36 | [#BOYCOTTEBxGMA725](http://twitter.com/search?q=%23BOYCOTTEBxGMA725) | N/A |
+| 37 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 38 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
+| 39 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
+| 40 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
+| 41 | [#komiket2023](http://twitter.com/search?q=%23komiket2023) | N/A |
+| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 43 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
+| 44 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 45 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
+| 46 | [#밤하늘_빛나는별_명준아_생일축하해](http://twitter.com/search?q=%23%eb%b0%a4%ed%95%98%eb%8a%98_%eb%b9%9b%eb%82%98%eb%8a%94%eb%b3%84_%eb%aa%85%ec%a4%80%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

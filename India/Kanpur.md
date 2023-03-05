@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-05 03:26:59 UTC`
+📆 Last Updated: `2023-03-05 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
-| 2 | [#निज_स्वरूप_में_जाग](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%bf%e0%a4%9c_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%9c%e0%a4%be%e0%a4%97) | N/A |
-| 3 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 1 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 2 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
+| 3 | [#निज_स्वरूप_में_जाग](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%bf%e0%a4%9c_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%9c%e0%a4%be%e0%a4%97) | N/A |
 | 4 | [Nari Tu Narayani](http://twitter.com/search?q=Nari+Tu+Narayani) | N/A |
 | 5 | [Mahila Utthan Mandal](http://twitter.com/search?q=Mahila+Utthan+Mandal) | N/A |
-| 6 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 7 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 8 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 9 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 13 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 14 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 15 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 6 | [#Plant4Shivraj](http://twitter.com/search?q=%23Plant4Shivraj) | N/A |
+| 7 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 11 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 12 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 13 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 14 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 15 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 16 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
 | 17 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 | 18 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 19 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
-| 20 | [लोकप्रिय मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 22 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 23 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 24 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 25 | [गंगूबाई हंगल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a5%82%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b9%e0%a4%82%e0%a4%97%e0%a4%b2) | N/A |
-| 26 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 27 | [pathaan biggest grosser](http://twitter.com/search?q=pathaan+biggest+grosser) | N/A |
-| 28 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
-| 29 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
-| 30 | [scene changer emiway](http://twitter.com/search?q=scene+changer+emiway) | N/A |
-| 31 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 32 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 33 | [with palash flowers](http://twitter.com/search?q=with+palash+flowers) | N/A |
+| 19 | [लोकप्रिय मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 21 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 22 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 23 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 24 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 25 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 26 | [गंगूबाई हंगल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a5%82%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b9%e0%a4%82%e0%a4%97%e0%a4%b2) | N/A |
+| 27 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 28 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 29 | [hayley matthews](http://twitter.com/search?q=hayley+matthews) | N/A |
+| 30 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 31 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 32 | [scene changer emiway](http://twitter.com/search?q=scene+changer+emiway) | N/A |
+| 33 | [mama ji](http://twitter.com/search?q=mama+ji) | N/A |
 | 34 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
-| 35 | [1 year of mera suffer](http://twitter.com/search?q=1+year+of+mera+suffer) | N/A |
-| 36 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
-| 37 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [with palash flowers](http://twitter.com/search?q=with+palash+flowers) | N/A |
+| 36 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 37 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 38 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
 | 39 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 40 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 41 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 42 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 40 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 41 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 43 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Sushant TVDebut As Preet](http://twitter.com/search?q=Sushant+TVDebut+As+Preet) | N/A |
-| 46 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 47 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
-| 48 | [Tamil Nadu](http://twitter.com/search?q=Tamil+Nadu) | N/A |
-| 49 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [श्री राधे](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87) | N/A |
+| 46 | [PATHAAN BIGGEST GROSSER](http://twitter.com/search?q=PATHAAN+BIGGEST+GROSSER) | N/A |
+| 47 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 48 | [Sushant TVDebut As Preet](http://twitter.com/search?q=Sushant+TVDebut+As+Preet) | N/A |
+| 49 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
 
 
 

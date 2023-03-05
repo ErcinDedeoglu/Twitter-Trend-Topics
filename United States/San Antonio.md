@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-05 03:27:10 UTC`
+📆 Last Updated: `2023-03-05 04:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
+| 1 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
 | 2 | [Rigoni](http://twitter.com/search?q=Rigoni) | N/A |
-| 3 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
-| 4 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 5 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 6 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
-| 7 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 8 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 9 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
-| 10 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 11 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 12 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 13 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 14 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
-| 15 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
-| 16 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 17 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 18 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
-| 19 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 20 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 21 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 22 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
-| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 24 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 25 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 26 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 27 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 28 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
-| 29 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 30 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 31 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 32 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
-| 33 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 34 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 35 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 36 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 37 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 38 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
-| 39 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 40 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 41 | [Aquille Carr](http://twitter.com/search?q=Aquille+Carr) | N/A |
-| 42 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
-| 43 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
-| 44 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 45 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
-| 46 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 47 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 48 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 49 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
-| 50 | [Seventh Woods](http://twitter.com/search?q=Seventh+Woods) | N/A |
+| 3 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 4 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 5 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
+| 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 7 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 8 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 9 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 10 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 11 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 12 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 13 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 15 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 16 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 17 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 18 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 19 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 20 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 21 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 22 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 23 | [Suge Smith](http://twitter.com/search?q=Suge+Smith) | N/A |
+| 24 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 25 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 26 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 27 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 28 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 29 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 30 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
+| 31 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 32 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 33 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 34 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 35 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
+| 36 | [Jamie Pickett](http://twitter.com/search?q=Jamie+Pickett) | N/A |
+| 37 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 38 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 39 | [Khris](http://twitter.com/search?q=Khris) | N/A |
+| 40 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 41 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 42 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 43 | [Bill Walton](http://twitter.com/search?q=Bill+Walton) | N/A |
+| 44 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 45 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 46 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 47 | [Aquille Carr](http://twitter.com/search?q=Aquille+Carr) | N/A |
+| 48 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 49 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 50 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
 
 
 

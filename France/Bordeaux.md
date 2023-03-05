@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-05 03:26:38 UTC`
+📆 Last Updated: `2023-03-05 04:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,37 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 2 | [#FCGBASSE](http://twitter.com/search?q=%23FCGBASSE) | N/A |
-| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
-| 5 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 6 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 7 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 8 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 9 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 10 | [Bandal](http://twitter.com/search?q=Bandal) | N/A |
-| 11 | [Zoo de Kaaris](http://twitter.com/search?q=Zoo+de+Kaaris) | N/A |
-| 12 | [Khalis](http://twitter.com/search?q=Khalis) | N/A |
-| 13 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 14 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 15 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 17 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 18 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
-| 19 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 20 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 21 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 22 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 23 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 24 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 25 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 26 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 27 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 28 | [Donnaruma](http://twitter.com/search?q=Donnaruma) | N/A |
-| 29 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 30 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
-| 31 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
-| 32 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 33 | [#PSGFCN](http://twitter.com/search?q=%23PSGFCN) | N/A |
-| 34 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 35 | [#MMAGP](http://twitter.com/search?q=%23MMAGP) | N/A |
+| 2 | [#fcgbasse](http://twitter.com/search?q=%23fcgbasse) | N/A |
+| 3 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [#RMCMMA](http://twitter.com/search?q=%23RMCMMA) | N/A |
+| 6 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 7 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 8 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 9 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 10 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 11 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 12 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 13 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 14 | [Bandal](http://twitter.com/search?q=Bandal) | N/A |
+| 15 | [Zoo de Kaaris](http://twitter.com/search?q=Zoo+de+Kaaris) | N/A |
+| 16 | [Khalis](http://twitter.com/search?q=Khalis) | N/A |
+| 17 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 18 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 19 | [Bon Gamin](http://twitter.com/search?q=Bon+Gamin) | N/A |
+| 20 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 21 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 22 | [Étendoir](http://twitter.com/search?q=%c3%89tendoir) | N/A |
+| 23 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 24 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 25 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 26 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 27 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 28 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 29 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 30 | [#PSGFCN](http://twitter.com/search?q=%23PSGFCN) | N/A |
+| 31 | [#MMAGP](http://twitter.com/search?q=%23MMAGP) | N/A |
+| 32 | [#Mbappe](http://twitter.com/search?q=%23Mbappe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-05 03:26:54 UTC`
+📆 Last Updated: `2023-03-05 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Kenya](</Kenya>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [Kplc](http://twitter.com/search?q=Kplc) | N/A |
-| 4 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
 | 6 | [#betton1xbet](http://twitter.com/search?q=%23betton1xbet) | N/A |
 | 7 | [#MegaWonderOfRain](http://twitter.com/search?q=%23MegaWonderOfRain) | N/A |
 | 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
@@ -32,39 +32,39 @@ This is top 50 for [Kenya](</Kenya>)
 | 15 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 16 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
 | 17 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 18 | [mp geoffrey wandeto](http://twitter.com/search?q=mp+geoffrey+wandeto) | N/A |
-| 19 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 20 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 21 | [mens wear kenya](http://twitter.com/search?q=mens+wear+kenya) | N/A |
+| 18 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 19 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 20 | [mens wear kenya](http://twitter.com/search?q=mens+wear+kenya) | N/A |
+| 21 | [mp geoffrey wandeto](http://twitter.com/search?q=mp+geoffrey+wandeto) | N/A |
 | 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 24 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 25 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 24 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 26 | [naftali kinuthia](http://twitter.com/search?q=naftali+kinuthia) | N/A |
 | 27 | [churchillshow ruirutoday](http://twitter.com/search?q=churchillshow+ruirutoday) | N/A |
 | 28 | [digitallyfit na robisearch](http://twitter.com/search?q=digitallyfit+na+robisearch) | N/A |
-| 29 | [Naftali Kinuthia](http://twitter.com/search?q=Naftali+Kinuthia) | N/A |
-| 30 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 31 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 32 | [Monopoly](http://twitter.com/search?q=Monopoly) | N/A |
-| 33 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 34 | [pearl rice](http://twitter.com/search?q=pearl+rice) | N/A |
-| 35 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 36 | [the rough finale](http://twitter.com/search?q=the+rough+finale) | N/A |
+| 29 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 30 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 31 | [pearl rice](http://twitter.com/search?q=pearl+rice) | N/A |
+| 32 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 33 | [Monopoly](http://twitter.com/search?q=Monopoly) | N/A |
+| 34 | [BEN WHITE](http://twitter.com/search?q=BEN+WHITE) | N/A |
+| 35 | [the rough finale](http://twitter.com/search?q=the+rough+finale) | N/A |
+| 36 | [form nithe rough](http://twitter.com/search?q=form+nithe+rough) | N/A |
 | 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 38 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 39 | [form nithe rough](http://twitter.com/search?q=form+nithe+rough) | N/A |
+| 38 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 39 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 40 | [Quali](http://twitter.com/search?q=Quali) | N/A |
 | 41 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 42 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 43 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 44 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 45 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 42 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 43 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 45 | [Nationwide](http://twitter.com/search?q=Nationwide) | N/A |
 | 46 | [Ian Wright](http://twitter.com/search?q=Ian+Wright) | N/A |
-| 47 | [Nationwide](http://twitter.com/search?q=Nationwide) | N/A |
-| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 49 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 50 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 48 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 49 | [Grauchi](http://twitter.com/search?q=Grauchi) | N/A |
+| 50 | [Sunrise](http://twitter.com/search?q=Sunrise) | N/A |
 
 
 

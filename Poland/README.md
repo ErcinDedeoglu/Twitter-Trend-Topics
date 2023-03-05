@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-05 03:27:17 UTC`
+📆 Last Updated: `2023-03-05 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 2 | [#GÓRLEG](http://twitter.com/search?q=%23G%c3%93RLEG) | N/A |
-| 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 5 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 6 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [Gamer](http://twitter.com/search?q=Gamer) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [#GÓRLEG](http://twitter.com/search?q=%23G%c3%93RLEG) | N/A |
+| 5 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 6 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
 | 7 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 8 | [#azjaexpress](http://twitter.com/search?q=%23azjaexpress) | N/A |
+| 8 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
 | 9 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 10 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 11 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 12 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 13 | [rodado](http://twitter.com/search?q=rodado) | N/A |
-| 14 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 15 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 16 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
-| 17 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 18 | [olek](http://twitter.com/search?q=olek) | N/A |
-| 19 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 20 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 21 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 22 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [zniszczoł](http://twitter.com/search?q=zniszczo%c5%82) | N/A |
-| 25 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 26 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
-| 27 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 28 | [Najszczersze](http://twitter.com/search?q=Najszczersze) | N/A |
-| 29 | [fernandeza](http://twitter.com/search?q=fernandeza) | N/A |
-| 30 | [Radia Szczecin](http://twitter.com/search?q=Radia+Szczecin) | N/A |
-| 31 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 32 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
-| 33 | [Augustyniaka](http://twitter.com/search?q=Augustyniaka) | N/A |
-| 34 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 35 | [anna kiełbasińska](http://twitter.com/search?q=anna+kie%c5%82basi%c5%84ska) | N/A |
-| 36 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 37 | [Sekielski](http://twitter.com/search?q=Sekielski) | N/A |
-| 38 | [olka](http://twitter.com/search?q=olka) | N/A |
-| 39 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
-| 40 | [kolanko](http://twitter.com/search?q=kolanko) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Szafarowicz](http://twitter.com/search?q=Szafarowicz) | N/A |
-| 43 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 44 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
-| 45 | [Winny](http://twitter.com/search?q=Winny) | N/A |
-| 46 | [your type game](http://twitter.com/search?q=your+type+game) | N/A |
-| 47 | [hieny](http://twitter.com/search?q=hieny) | N/A |
-| 48 | [Ujawnił](http://twitter.com/search?q=Ujawni%c5%82) | N/A |
-| 49 | [mvondo](http://twitter.com/search?q=mvondo) | N/A |
-| 50 | [kubacki](http://twitter.com/search?q=kubacki) | N/A |
+| 10 | [#azjaexpress](http://twitter.com/search?q=%23azjaexpress) | N/A |
+| 11 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 12 | [Gamrot](http://twitter.com/search?q=Gamrot) | N/A |
+| 13 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 14 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
+| 15 | [adamowicza](http://twitter.com/search?q=adamowicza) | N/A |
+| 16 | [rodado](http://twitter.com/search?q=rodado) | N/A |
+| 17 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 18 | [mikołaja](http://twitter.com/search?q=miko%c5%82aja) | N/A |
+| 19 | [Matka](http://twitter.com/search?q=Matka) | N/A |
+| 20 | [Oskarek](http://twitter.com/search?q=Oskarek) | N/A |
+| 21 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 22 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 23 | [olek](http://twitter.com/search?q=olek) | N/A |
+| 24 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 25 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 26 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 27 | [zniszczoł](http://twitter.com/search?q=zniszczo%c5%82) | N/A |
+| 28 | [Szczecina](http://twitter.com/search?q=Szczecina) | N/A |
+| 29 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 30 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 31 | [najszczersze](http://twitter.com/search?q=najszczersze) | N/A |
+| 32 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
+| 33 | [górnika](http://twitter.com/search?q=g%c3%b3rnika) | N/A |
+| 34 | [fernandeza](http://twitter.com/search?q=fernandeza) | N/A |
+| 35 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 36 | [Radia Szczecin](http://twitter.com/search?q=Radia+Szczecin) | N/A |
+| 37 | [augustyniaka](http://twitter.com/search?q=augustyniaka) | N/A |
+| 38 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 39 | [anna kiełbasińska](http://twitter.com/search?q=anna+kie%c5%82basi%c5%84ska) | N/A |
+| 40 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
+| 41 | [sekielski](http://twitter.com/search?q=sekielski) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [olka](http://twitter.com/search?q=olka) | N/A |
+| 44 | [kolanko](http://twitter.com/search?q=kolanko) | N/A |
+| 45 | [szafarowicz](http://twitter.com/search?q=szafarowicz) | N/A |
+| 46 | [mvondo](http://twitter.com/search?q=mvondo) | N/A |
+| 47 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 48 | [ujawnił](http://twitter.com/search?q=ujawni%c5%82) | N/A |
+| 49 | [your type game](http://twitter.com/search?q=your+type+game) | N/A |
+| 50 | [hładun](http://twitter.com/search?q=h%c5%82adun) | N/A |
 
 
 
