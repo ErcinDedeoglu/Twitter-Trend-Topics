@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-05 18:16:39 UTC`
+📆 Last Updated: `2023-03-05 19:15:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,48 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 2 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 3 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
-| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 9 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 14 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 15 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 16 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 23 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 24 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 25 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 26 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 27 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 28 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 29 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 30 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 31 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 32 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 33 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 34 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
-| 35 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
-| 36 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
-| 37 | [#PREMIERxESPN](http://twitter.com/search?q=%23PREMIERxESPN) | N/A |
+| 2 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 3 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 4 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 5 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 6 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 11 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 12 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
+| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 15 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
+| 16 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 21 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 22 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 24 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 25 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 29 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 30 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 31 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 32 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 33 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 34 | [Chile Vamos](http://twitter.com/search?q=Chile+Vamos) | N/A |
+| 35 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 36 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 37 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 38 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 39 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 40 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 41 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 39 | [#PREMIERxESPN](http://twitter.com/search?q=%23PREMIERxESPN) | N/A |
+| 40 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 41 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
+| 42 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 43 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
 
 
 

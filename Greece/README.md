@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-05 18:17:32 UTC`
+📆 Last Updated: `2023-03-05 19:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Greece
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Συνταγμα](http://twitter.com/search?q=%23%ce%a3%cf%85%ce%bd%cf%84%ce%b1%ce%b3%ce%bc%ce%b1) | N/A |
-| 2 | [#τεμπη_εγκλημα](http://twitter.com/search?q=%23%cf%84%ce%b5%ce%bc%cf%80%ce%b7_%ce%b5%ce%b3%ce%ba%ce%bb%ce%b7%ce%bc%ce%b1) | N/A |
-| 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 3 | [#τεμπη_εγκλημα](http://twitter.com/search?q=%23%cf%84%ce%b5%ce%bc%cf%80%ce%b7_%ce%b5%ce%b3%ce%ba%ce%bb%ce%b7%ce%bc%ce%b1) | N/A |
 | 4 | [#Τεντογλου](http://twitter.com/search?q=%23%ce%a4%ce%b5%ce%bd%cf%84%ce%bf%ce%b3%ce%bb%ce%bf%cf%85) | N/A |
 | 5 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
-| 6 | [Τουλουπακη](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bb%ce%bf%cf%85%cf%80%ce%b1%ce%ba%ce%b7) | N/A |
-| 7 | [Ορθοδοξιας](http://twitter.com/search?q=%ce%9f%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%be%ce%b9%ce%b1%cf%82) | N/A |
-| 8 | [Ματι](http://twitter.com/search?q=%ce%9c%ce%b1%cf%84%ce%b9) | N/A |
-| 9 | [καλη κυριακη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
-| 10 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 11 | [Σταθη](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7) | N/A |
-| 12 | [Μανολο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%bf%ce%bb%ce%bf) | N/A |
-| 13 | [Κανος](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 14 | [Γιουναιτεντ](http://twitter.com/search?q=%ce%93%ce%b9%ce%bf%cf%85%ce%bd%ce%b1%ce%b9%cf%84%ce%b5%ce%bd%cf%84) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Γιαμαλη](http://twitter.com/search?q=%ce%93%ce%b9%ce%b1%ce%bc%ce%b1%ce%bb%ce%b7) | N/A |
-| 17 | [Αλονσο](http://twitter.com/search?q=%ce%91%ce%bb%ce%bf%ce%bd%cf%83%ce%bf) | N/A |
+| 6 | [Λιβερπουλ](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
+| 7 | [Τουλουπακη](http://twitter.com/search?q=%ce%a4%ce%bf%cf%85%ce%bb%ce%bf%cf%85%cf%80%ce%b1%ce%ba%ce%b7) | N/A |
+| 8 | [Ορθοδοξιας](http://twitter.com/search?q=%ce%9f%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%be%ce%b9%ce%b1%cf%82) | N/A |
+| 9 | [Γιουναιτεντ](http://twitter.com/search?q=%ce%93%ce%b9%ce%bf%cf%85%ce%bd%ce%b1%ce%b9%cf%84%ce%b5%ce%bd%cf%84) | N/A |
+| 10 | [καλη κυριακη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
+| 11 | [Ματι](http://twitter.com/search?q=%ce%9c%ce%b1%cf%84%ce%b9) | N/A |
+| 12 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 13 | [Σταθη](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7) | N/A |
+| 14 | [Ανφιλντ](http://twitter.com/search?q=%ce%91%ce%bd%cf%86%ce%b9%ce%bb%ce%bd%cf%84) | N/A |
+| 15 | [Μανολο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%bf%ce%bb%ce%bf) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Γιαμαλη](http://twitter.com/search?q=%ce%93%ce%b9%ce%b1%ce%bc%ce%b1%ce%bb%ce%b7) | N/A |
 | 18 | [Παπαγγελοπουλος](http://twitter.com/search?q=%ce%a0%ce%b1%cf%80%ce%b1%ce%b3%ce%b3%ce%b5%ce%bb%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 19 | [Novartis](http://twitter.com/search?q=Novartis) | N/A |
-| 20 | [Λιβερπουλ](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 23 | [Τεμπων](http://twitter.com/search?q=%ce%a4%ce%b5%ce%bc%cf%80%cf%89%ce%bd) | N/A |
-| 24 | [Μανεση](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
-| 25 | [Αυτια](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1) | N/A |
-| 26 | [Κολοσσο](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bb%ce%bf%cf%83%cf%83%ce%bf) | N/A |
-| 27 | [η κεφαλα](http://twitter.com/search?q=%ce%b7+%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1) | N/A |
-| 28 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
-| 29 | [Σασα](http://twitter.com/search?q=%ce%a3%ce%b1%cf%83%ce%b1) | N/A |
-| 30 | [Σχιζα](http://twitter.com/search?q=%ce%a3%cf%87%ce%b9%ce%b6%ce%b1) | N/A |
-| 31 | [Λευκο Πυργο](http://twitter.com/search?q=%ce%9b%ce%b5%cf%85%ce%ba%ce%bf+%ce%a0%cf%85%cf%81%ce%b3%ce%bf) | N/A |
-| 32 | [Βερυκιος](http://twitter.com/search?q=%ce%92%ce%b5%cf%81%cf%85%ce%ba%ce%b9%ce%bf%cf%82) | N/A |
-| 33 | [Πολυχρονη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%b7) | N/A |
-| 34 | [Σπιρτζης](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
-| 35 | [Ραικου](http://twitter.com/search?q=%ce%a1%ce%b1%ce%b9%ce%ba%ce%bf%cf%85) | N/A |
-| 36 | [σαμιου](http://twitter.com/search?q=%cf%83%ce%b1%ce%bc%ce%b9%ce%bf%cf%85) | N/A |
-| 37 | [καλημερα νικο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bd%ce%b9%ce%ba%ce%bf) | N/A |
-| 38 | [Χουανγκ](http://twitter.com/search?q=%ce%a7%ce%bf%cf%85%ce%b1%ce%bd%ce%b3%ce%ba) | N/A |
-| 39 | [Ελευθεριου](http://twitter.com/search?q=%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 40 | [Αντζυ](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%ce%b6%cf%85) | N/A |
-| 41 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [η κεφαλα](http://twitter.com/search?q=%ce%b7+%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1) | N/A |
+| 21 | [Μανεση](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
+| 22 | [Novartis](http://twitter.com/search?q=Novartis) | N/A |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Τεμπων](http://twitter.com/search?q=%ce%a4%ce%b5%ce%bc%cf%80%cf%89%ce%bd) | N/A |
+| 25 | [Μαντσεστερ](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%cf%84%cf%83%ce%b5%cf%83%cf%84%ce%b5%cf%81) | N/A |
+| 26 | [Αυτια](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1) | N/A |
+| 27 | [Σχιζα](http://twitter.com/search?q=%ce%a3%cf%87%ce%b9%ce%b6%ce%b1) | N/A |
+| 28 | [Βερυκιος](http://twitter.com/search?q=%ce%92%ce%b5%cf%81%cf%85%ce%ba%ce%b9%ce%bf%cf%82) | N/A |
+| 29 | [Λευκο Πυργο](http://twitter.com/search?q=%ce%9b%ce%b5%cf%85%ce%ba%ce%bf+%ce%a0%cf%85%cf%81%ce%b3%ce%bf) | N/A |
+| 30 | [ραικου](http://twitter.com/search?q=%cf%81%ce%b1%ce%b9%ce%ba%ce%bf%cf%85) | N/A |
+| 31 | [Κωνσταντινουπολη](http://twitter.com/search?q=%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85%cf%80%ce%bf%ce%bb%ce%b7) | N/A |
+| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 33 | [καλημερα νικο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%bd%ce%b9%ce%ba%ce%bf) | N/A |
+| 34 | [Ελευθεριου](http://twitter.com/search?q=%ce%95%ce%bb%ce%b5%cf%85%ce%b8%ce%b5%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 35 | [Πολυχρονη](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%b7) | N/A |
+| 36 | [Σπιρτζης](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7%cf%82) | N/A |
+| 37 | [Αντζυ](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%ce%b6%cf%85) | N/A |
+| 38 | [Κυριακης](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
+| 39 | [Σαμιου](http://twitter.com/search?q=%ce%a3%ce%b1%ce%bc%ce%b9%ce%bf%cf%85) | N/A |
+| 40 | [Κεραμεως](http://twitter.com/search?q=%ce%9a%ce%b5%cf%81%ce%b1%ce%bc%ce%b5%cf%89%cf%82) | N/A |
+| 41 | [Γκοτσης](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
 | 42 | [Μπιελ](http://twitter.com/search?q=%ce%9c%cf%80%ce%b9%ce%b5%ce%bb) | N/A |
-| 43 | [Κυριακης](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 44 | [Γκοτσης](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
-| 45 | [Κωνσταντινουπολη](http://twitter.com/search?q=%ce%9a%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%85%cf%80%ce%bf%ce%bb%ce%b7) | N/A |
+| 43 | [Χαντα](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
+| 44 | [Φεραρι](http://twitter.com/search?q=%ce%a6%ce%b5%cf%81%ce%b1%cf%81%ce%b9) | N/A |
+| 45 | [Θεοδωρικακος](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b9%ce%ba%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
 | 46 | [Λεβαδειακο](http://twitter.com/search?q=%ce%9b%ce%b5%ce%b2%ce%b1%ce%b4%ce%b5%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 47 | [ενοχος](http://twitter.com/search?q=%ce%b5%ce%bd%ce%bf%cf%87%ce%bf%cf%82) | N/A |
-| 48 | [Φεραρι](http://twitter.com/search?q=%ce%a6%ce%b5%cf%81%ce%b1%cf%81%ce%b9) | N/A |
-| 49 | [Φορτουνη](http://twitter.com/search?q=%ce%a6%ce%bf%cf%81%cf%84%ce%bf%cf%85%ce%bd%ce%b7) | N/A |
-| 50 | [Θεοδωρικακος](http://twitter.com/search?q=%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b9%ce%ba%ce%b1%ce%ba%ce%bf%cf%82) | N/A |
+| 47 | [Φορτουνη](http://twitter.com/search?q=%ce%a6%ce%bf%cf%81%cf%84%ce%bf%cf%85%ce%bd%ce%b7) | N/A |
+| 48 | [Μαιρη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%b9%cf%81%ce%b7) | N/A |
+| 49 | [Κολοσσο](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bb%ce%bf%cf%83%cf%83%ce%bf) | N/A |
+| 50 | [Καραισκακη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%b1%ce%b9%cf%83%ce%ba%ce%b1%ce%ba%ce%b7) | N/A |
 
 
 

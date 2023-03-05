@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-03-05 18:16:38 UTC`
+📆 Last Updated: `2023-03-05 19:15:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [#ParamountPlus](http://twitter.com/search?q=%23ParamountPlus) | N/A |
-| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 8 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
-| 9 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 10 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 12 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 13 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 16 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 17 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 18 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 19 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 20 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 22 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 23 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 24 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 25 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 26 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 28 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 29 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 30 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 31 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 32 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 33 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 36 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 37 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 38 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 39 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 40 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 41 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 42 | [El Plan](http://twitter.com/search?q=El+Plan) | N/A |
-| 43 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 44 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 45 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 46 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 47 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
-| 48 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 49 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [#ParamountPlus](http://twitter.com/search?q=%23ParamountPlus) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [#DíaDeLaFamilia](http://twitter.com/search?q=%23D%c3%adaDeLaFamilia) | N/A |
+| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 8 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 9 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 11 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 12 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 13 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 15 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 16 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 17 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 18 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 20 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 23 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
+| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 25 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 27 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 32 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 33 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 35 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 36 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 37 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
+| 38 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 39 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 40 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 42 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 44 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 45 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
+| 46 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 47 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 48 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 49 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
 
 
 
