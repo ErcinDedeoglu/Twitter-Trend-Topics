@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-05 12:16:53 UTC`
+📆 Last Updated: `2023-03-05 13:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 2 | [#NRLDolphinsRoosters](http://twitter.com/search?q=%23NRLDolphinsRoosters) | N/A |
+| 1 | [#NRLDolphinsRoosters](http://twitter.com/search?q=%23NRLDolphinsRoosters) | N/A |
+| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 6 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 7 | [#NRLTigersTitans](http://twitter.com/search?q=%23NRLTigersTitans) | N/A |
-| 8 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 4 | [#NRLTigersTitans](http://twitter.com/search?q=%23NRLTigersTitans) | N/A |
+| 5 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 6 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 7 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 8 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 9 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 10 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 11 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 12 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 13 | [wayne bennett](http://twitter.com/search?q=wayne+bennett) | N/A |
-| 14 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 15 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 11 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 12 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
+| 13 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 14 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 17 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
-| 18 | [King George](http://twitter.com/search?q=King+George) | N/A |
+| 18 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 19 | [Sydney Harbour Bridge](http://twitter.com/search?q=Sydney+Harbour+Bridge) | N/A |
-| 20 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 21 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 22 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 23 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
-| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 25 | [Hawke](http://twitter.com/search?q=Hawke) | N/A |
-| 26 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 27 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
-| 28 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 29 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 30 | [Kaufusi](http://twitter.com/search?q=Kaufusi) | N/A |
-| 31 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 32 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
-| 33 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 34 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 35 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 36 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 37 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 38 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
-| 39 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 40 | [Suncorp Stadium](http://twitter.com/search?q=Suncorp+Stadium) | N/A |
-| 41 | [daryl braithwaite](http://twitter.com/search?q=daryl+braithwaite) | N/A |
-| 42 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
-| 43 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 44 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 45 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 46 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 47 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 48 | [Deves](http://twitter.com/search?q=Deves) | N/A |
-| 49 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 50 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 20 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 21 | [Leichhardt](http://twitter.com/search?q=Leichhardt) | N/A |
+| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 23 | [Hawke](http://twitter.com/search?q=Hawke) | N/A |
+| 24 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
+| 25 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 26 | [Kaufusi](http://twitter.com/search?q=Kaufusi) | N/A |
+| 27 | [speers](http://twitter.com/search?q=speers) | N/A |
+| 28 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 29 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 30 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 31 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 32 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 33 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 34 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 35 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
+| 36 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 37 | [King George](http://twitter.com/search?q=King+George) | N/A |
+| 38 | [Suncorp Stadium](http://twitter.com/search?q=Suncorp+Stadium) | N/A |
+| 39 | [Norman Gunston](http://twitter.com/search?q=Norman+Gunston) | N/A |
+| 40 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 41 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 42 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 43 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 44 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 45 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
+| 46 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 47 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 48 | [Potato](http://twitter.com/search?q=Potato) | N/A |
+| 49 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 50 | [ethan brown](http://twitter.com/search?q=ethan+brown) | N/A |
 
 
 

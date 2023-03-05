@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-05 12:17:13 UTC`
+📆 Last Updated: `2023-03-05 13:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 4 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 5 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 1 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 3 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 8 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 9 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 10 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 11 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 12 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 13 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 14 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 15 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 16 | [VIVA MEXICO](http://twitter.com/search?q=VIVA+MEXICO) | N/A |
-| 17 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 18 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 19 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 20 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 21 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 7 | [#ALadiesMainDealbreaker](http://twitter.com/search?q=%23ALadiesMainDealbreaker) | N/A |
+| 8 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 9 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 10 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 11 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 12 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 13 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 14 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 15 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 16 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 17 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 18 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 19 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 20 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 21 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
 | 22 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 23 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 25 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 26 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 27 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 28 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 29 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 30 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 31 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 23 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 24 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 25 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 26 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 27 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 28 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 29 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 30 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 31 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
 | 32 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 33 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 33 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
 | 34 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 35 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 36 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
-| 37 | [james harden](http://twitter.com/search?q=james+harden) | N/A |
-| 38 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 39 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 40 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 41 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 42 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
-| 43 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 44 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 45 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
-| 46 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 47 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 48 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 35 | [josh gordon](http://twitter.com/search?q=josh+gordon) | N/A |
+| 36 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 37 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
+| 38 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 39 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 40 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 41 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 42 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 43 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 44 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 45 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 46 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 47 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 48 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 | 49 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 50 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 50 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-05 12:17:25 UTC`
+📆 Last Updated: `2023-03-05 13:19:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for New Zealand
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
 | 5 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 6 | [#BLUvBRU](http://twitter.com/search?q=%23BLUvBRU) | N/A |
-| 7 | [Paula Bennett](http://twitter.com/search?q=Paula+Bennett) | N/A |
+| 6 | [#bluvbru](http://twitter.com/search?q=%23bluvbru) | N/A |
+| 7 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
 | 8 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
 | 9 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
 | 10 | [#nbl23](http://twitter.com/search?q=%23nbl23) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for New Zealand
 | 25 | [Rodney Hide](http://twitter.com/search?q=Rodney+Hide) | N/A |
 | 26 | [Beach Haven](http://twitter.com/search?q=Beach+Haven) | N/A |
 | 27 | [Ethernet](http://twitter.com/search?q=Ethernet) | N/A |
-| 28 | [breakers](http://twitter.com/search?q=breakers) | N/A |
+| 28 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 29 | [chris luxon](http://twitter.com/search?q=chris+luxon) | N/A |
 | 30 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
 | 31 | [Brand](http://twitter.com/search?q=Brand) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for New Zealand
 | 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 43 | [Mātauranga Māori](http://twitter.com/search?q=M%c4%81tauranga+M%c4%81ori) | N/A |
 | 44 | [OECD](http://twitter.com/search?q=OECD) | N/A |
-| 45 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 46 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 47 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 48 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 49 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 50 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 45 | [southland](http://twitter.com/search?q=southland) | N/A |
+| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 47 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
+| 48 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 49 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 50 | [ardie](http://twitter.com/search?q=ardie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-05 12:17:26 UTC`
+📆 Last Updated: `2023-03-05 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheClashRambol](http://twitter.com/search?q=%23TheClashRambol) | N/A |
-| 2 | [#BINIFeelGoodMallShow](http://twitter.com/search?q=%23BINIFeelGoodMallShow) | N/A |
-| 3 | [#HappyToGetHerBarbie](http://twitter.com/search?q=%23HappyToGetHerBarbie) | N/A |
-| 4 | [#TVKPH5Royals](http://twitter.com/search?q=%23TVKPH5Royals) | N/A |
-| 5 | [BarbieForteza HappyToGetHer](http://twitter.com/search?q=BarbieForteza+HappyToGetHer) | N/A |
-| 6 | [#BGYOatTheDistrictMall](http://twitter.com/search?q=%23BGYOatTheDistrictMall) | N/A |
-| 7 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
-| 8 | [ROBDENIELxKARINA ANG PAG-IBIG](http://twitter.com/search?q=ROBDENIELxKARINA+ANG+PAG-IBIG) | N/A |
-| 9 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 10 | [VIVOREE MATAPANG SA CIRCUIT](http://twitter.com/search?q=VIVOREE+MATAPANG+SA+CIRCUIT) | N/A |
-| 11 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 12 | [Angel Canino](http://twitter.com/search?q=Angel+Canino) | N/A |
-| 13 | [DASMAke SOME NOISE FOR HORI7ON](http://twitter.com/search?q=DASMAke+SOME+NOISE+FOR+HORI7ON) | N/A |
-| 14 | [JOLINA](http://twitter.com/search?q=JOLINA) | N/A |
-| 15 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 16 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
-| 17 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
-| 18 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 20 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 21 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 23 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 24 | [WILD TONIGHT ON ASAP](http://twitter.com/search?q=WILD+TONIGHT+ON+ASAP) | N/A |
-| 25 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
-| 26 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 27 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 28 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 29 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 30 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 31 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
-| 32 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 33 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 34 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
-| 35 | [#BGYO_BeUs2ndAnnivMallTour](http://twitter.com/search?q=%23BGYO_BeUs2ndAnnivMallTour) | N/A |
-| 36 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
-| 37 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 38 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 39 | [#24OrasAngSagotNiDavid](http://twitter.com/search?q=%2324OrasAngSagotNiDavid) | N/A |
-| 40 | [#SteadfastDLSU](http://twitter.com/search?q=%23SteadfastDLSU) | N/A |
-| 41 | [#ONEW_NOTE_BeyondLive](http://twitter.com/search?q=%23ONEW_NOTE_BeyondLive) | N/A |
-| 42 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
-| 43 | [#DeoprocePHxSongKang](http://twitter.com/search?q=%23DeoprocePHxSongKang) | N/A |
-| 44 | [#THEBOYZ21stWin](http://twitter.com/search?q=%23THEBOYZ21stWin) | N/A |
+| 1 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 2 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
+| 3 | [#DarrenCanSeeYourVoice](http://twitter.com/search?q=%23DarrenCanSeeYourVoice) | N/A |
+| 4 | [#TheClashRambol](http://twitter.com/search?q=%23TheClashRambol) | N/A |
+| 5 | [#TVKPH5Royals](http://twitter.com/search?q=%23TVKPH5Royals) | N/A |
+| 6 | [DARREN ON ICSYV-Ep2](http://twitter.com/search?q=DARREN+ON+ICSYV-Ep2) | N/A |
+| 7 | [ClashMasters JULIEVER](http://twitter.com/search?q=ClashMasters+JULIEVER) | N/A |
+| 8 | [JulieAnne ClashMaster](http://twitter.com/search?q=JulieAnne+ClashMaster) | N/A |
+| 9 | [BINI LIVE AT CIRCUIT MAKATI](http://twitter.com/search?q=BINI+LIVE+AT+CIRCUIT+MAKATI) | N/A |
+| 10 | [ROBDENIELxKARINA ANG PAG-IBIG](http://twitter.com/search?q=ROBDENIELxKARINA+ANG+PAG-IBIG) | N/A |
+| 11 | [BarbieForteza HappyToGetHer](http://twitter.com/search?q=BarbieForteza+HappyToGetHer) | N/A |
+| 12 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
+| 13 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 14 | [VIVOREE MATAPANG SA CIRCUIT](http://twitter.com/search?q=VIVOREE+MATAPANG+SA+CIRCUIT) | N/A |
+| 15 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 16 | [James Reid](http://twitter.com/search?q=James+Reid) | N/A |
+| 17 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 18 | [DASMAke SOME NOISE FOR HORI7ON](http://twitter.com/search?q=DASMAke+SOME+NOISE+FOR+HORI7ON) | N/A |
+| 19 | [BLCK](http://twitter.com/search?q=BLCK) | BLCK is an acronym for Black Lives Matter. It is a movement that seeks to end systemic racism and violence against Black people. |
+| 20 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 21 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 22 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
+| 23 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 24 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 25 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 26 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 27 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 28 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 29 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 31 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 32 | [#HORI7ON_RobinsonsDasma](http://twitter.com/search?q=%23HORI7ON_RobinsonsDasma) | N/A |
+| 33 | [#BI_LOLTheHiddenStageinMNL](http://twitter.com/search?q=%23BI_LOLTheHiddenStageinMNL) | N/A |
+| 34 | [#HappyToGetHerBarbie](http://twitter.com/search?q=%23HappyToGetHerBarbie) | N/A |
+| 35 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 36 | [#BGYOatTheDistrictMall](http://twitter.com/search?q=%23BGYOatTheDistrictMall) | N/A |
+| 37 | [#BGYO_BeUs2ndAnnivMallTour](http://twitter.com/search?q=%23BGYO_BeUs2ndAnnivMallTour) | N/A |
+| 38 | [#24OrasAngSagotNiDavid](http://twitter.com/search?q=%2324OrasAngSagotNiDavid) | N/A |
+| 39 | [#SongkangFunMeetinManila](http://twitter.com/search?q=%23SongkangFunMeetinManila) | N/A |
+| 40 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 41 | [#steadfastdlsu](http://twitter.com/search?q=%23steadfastdlsu) | N/A |
+| 42 | [#TheHiddenStageMNLReveal](http://twitter.com/search?q=%23TheHiddenStageMNLReveal) | N/A |
+| 43 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
+| 44 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
 | 45 | [#STAYtion143atMOA](http://twitter.com/search?q=%23STAYtion143atMOA) | N/A |
-| 46 | [#HANBIN](http://twitter.com/search?q=%23HANBIN) | N/A |
-| 47 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 48 | [#BOYCOTTEBxGMA725](http://twitter.com/search?q=%23BOYCOTTEBxGMA725) | N/A |
-| 49 | [#HORI7ON_onASAP](http://twitter.com/search?q=%23HORI7ON_onASAP) | N/A |
+| 46 | [#CrashCourseInRomance](http://twitter.com/search?q=%23CrashCourseInRomance) | N/A |
+| 47 | [#BOYCOTTEBxGMA725](http://twitter.com/search?q=%23BOYCOTTEBxGMA725) | N/A |
 
 
 

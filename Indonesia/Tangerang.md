@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-05 12:16:53 UTC`
+📆 Last Updated: `2023-03-05 13:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
-| 2 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 3 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 4 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 5 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 6 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 10 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
+| 1 | [#MomennyaHeineken](http://twitter.com/search?q=%23MomennyaHeineken) | N/A |
+| 2 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 5 | [#EucerinKDermaXGeminiFourth](http://twitter.com/search?q=%23EucerinKDermaXGeminiFourth) | N/A |
+| 6 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 8 | [Beras](http://twitter.com/search?q=Beras) | N/A |
+| 9 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
+| 10 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 11 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
-| 12 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 13 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 15 | [Beras](http://twitter.com/search?q=Beras) | N/A |
-| 16 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 17 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 18 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 19 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 20 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 21 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
-| 22 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 23 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
-| 24 | [Best Visual](http://twitter.com/search?q=Best+Visual) | N/A |
-| 25 | [best dancer](http://twitter.com/search?q=best+dancer) | N/A |
-| 26 | [Best Variety](http://twitter.com/search?q=Best+Variety) | N/A |
-| 27 | [Best Rapper](http://twitter.com/search?q=Best+Rapper) | N/A |
-| 28 | [best vocal](http://twitter.com/search?q=best+vocal) | N/A |
-| 29 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 30 | [My SHINee](http://twitter.com/search?q=My+SHINee) | N/A |
-| 31 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 32 | [Kunyit](http://twitter.com/search?q=Kunyit) | N/A |
-| 33 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 34 | [So Long](http://twitter.com/search?q=So+Long) | N/A |
-| 35 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 36 | [Anies](http://twitter.com/search?q=Anies) | N/A |
-| 37 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 38 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
-| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 40 | [Kunir](http://twitter.com/search?q=Kunir) | N/A |
-| 41 | [Welcome to Indonesia](http://twitter.com/search?q=Welcome+to+Indonesia) | N/A |
-| 42 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 43 | [syariah peraturan hidup](http://twitter.com/search?q=syariah+peraturan+hidup) | N/A |
-| 44 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 45 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 46 | [berlomba dalam kebaikan](http://twitter.com/search?q=berlomba+dalam+kebaikan) | N/A |
-| 47 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 48 | [Sukinanda](http://twitter.com/search?q=Sukinanda) | N/A |
-| 49 | [Kamarku](http://twitter.com/search?q=Kamarku) | N/A |
+| 12 | [Afgan](http://twitter.com/search?q=Afgan) | N/A |
+| 13 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 14 | [NCT DREAM IN JAKARTA DAY2](http://twitter.com/search?q=NCT+DREAM+IN+JAKARTA+DAY2) | N/A |
+| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 16 | [B.A.P](http://twitter.com/search?q=B.A.P) | N/A |
+| 17 | [Sprei](http://twitter.com/search?q=Sprei) | N/A |
+| 18 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 19 | [Lontong](http://twitter.com/search?q=Lontong) | N/A |
+| 20 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
+| 21 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 22 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 23 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 24 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 25 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 26 | [Terang](http://twitter.com/search?q=Terang) | N/A |
+| 27 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
+| 28 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
+| 29 | [kamar](http://twitter.com/search?q=kamar) | N/A |
+| 30 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 31 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 32 | [Beban](http://twitter.com/search?q=Beban) | N/A |
+| 33 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 34 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
+| 35 | [Zhongli](http://twitter.com/search?q=Zhongli) | N/A |
+| 36 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 37 | [#OishiOnePieceXGulf](http://twitter.com/search?q=%23OishiOnePieceXGulf) | N/A |
+| 38 | [#OhmNanonFMHK2023](http://twitter.com/search?q=%23OhmNanonFMHK2023) | N/A |
+| 39 | [#TebakSkor](http://twitter.com/search?q=%23TebakSkor) | N/A |
+| 40 | [#GitaSemangat](http://twitter.com/search?q=%23GitaSemangat) | N/A |
+| 41 | [#VDKaTe](http://twitter.com/search?q=%23VDKaTe) | N/A |
+| 42 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 43 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 44 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 45 | [#EwakoPSM](http://twitter.com/search?q=%23EwakoPSM) | N/A |
+| 46 | [#ROAR4thWin](http://twitter.com/search?q=%23ROAR4thWin) | N/A |
+| 47 | [#THEBOYZ21stWin](http://twitter.com/search?q=%23THEBOYZ21stWin) | N/A |
+| 48 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 49 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-05 12:17:16 UTC`
+📆 Last Updated: `2023-03-05 13:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 3 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 5 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 | 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 7 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 9 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 10 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 11 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 12 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 13 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 15 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 16 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 17 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 18 | [VIVA MEXICO](http://twitter.com/search?q=VIVA+MEXICO) | N/A |
-| 19 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 20 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 21 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 22 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 23 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 10 | [#ALadiesMainDealbreaker](http://twitter.com/search?q=%23ALadiesMainDealbreaker) | N/A |
+| 11 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 12 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 14 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 16 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 17 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 18 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 20 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 22 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 23 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
 | 24 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 25 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 26 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 27 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 28 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 29 | [Jonny](http://twitter.com/search?q=Jonny) | N/A |
-| 30 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 31 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 32 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 33 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
-| 34 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 35 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
-| 36 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 37 | [Neal](http://twitter.com/search?q=Neal) | N/A |
-| 38 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
-| 39 | [james harden](http://twitter.com/search?q=james+harden) | N/A |
-| 40 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 41 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 42 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 43 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 44 | [Adam Sessler](http://twitter.com/search?q=Adam+Sessler) | N/A |
-| 45 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 46 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 47 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
-| 48 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 49 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 50 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
+| 25 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 26 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 27 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 28 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 29 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 30 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 31 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 32 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 33 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 34 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 35 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 36 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 37 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
+| 38 | [josh gordon](http://twitter.com/search?q=josh+gordon) | N/A |
+| 39 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 40 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
+| 41 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
+| 42 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 43 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
+| 44 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 45 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 46 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
+| 47 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 48 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
+| 49 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 50 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
 
 
 

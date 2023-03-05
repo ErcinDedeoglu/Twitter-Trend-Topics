@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-05 12:16:42 UTC`
+📆 Last Updated: `2023-03-05 13:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 3 | [#goloud](http://twitter.com/search?q=%23goloud) | N/A |
-| 4 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 5 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 6 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
-| 7 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 8 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 9 | [11x3](http://twitter.com/search?q=11x3) | N/A |
-| 10 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
+| 1 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 3 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
+| 4 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 5 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
+| 6 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 7 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 8 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 9 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 10 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
 | 11 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 13 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 14 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 15 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
-| 16 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
-| 17 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 18 | [ASPAS](http://twitter.com/search?q=ASPAS) | N/A |
-| 19 | [Paulo Caruso](http://twitter.com/search?q=Paulo+Caruso) | N/A |
-| 20 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 21 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 22 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
-| 23 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 24 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
-| 25 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 26 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
-| 27 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 28 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 29 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 30 | [Rubel](http://twitter.com/search?q=Rubel) | N/A |
-| 31 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 32 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 33 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 34 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 35 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 36 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 37 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 38 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 39 | [Attack on Titan](http://twitter.com/search?q=Attack+on+Titan) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 42 | [GANSO](http://twitter.com/search?q=GANSO) | N/A |
-| 43 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 44 | [EU SOU FICA KEY](http://twitter.com/search?q=EU+SOU+FICA+KEY) | N/A |
-| 45 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
-| 46 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 47 | [next in fashion](http://twitter.com/search?q=next+in+fashion) | N/A |
-| 48 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
-| 49 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 50 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 12 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
+| 13 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
+| 14 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 15 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
+| 16 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 17 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 18 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 19 | [RIVAIS SIM](http://twitter.com/search?q=RIVAIS+SIM) | N/A |
+| 20 | [INIMIGOS TAMBÉM](http://twitter.com/search?q=INIMIGOS+TAMB%c3%89M) | N/A |
+| 21 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
+| 22 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 23 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 24 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
+| 25 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 26 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 27 | [BaVi](http://twitter.com/search?q=BaVi) | N/A |
+| 28 | [Klara](http://twitter.com/search?q=Klara) | N/A |
+| 29 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 30 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
+| 31 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 32 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 33 | [Sandra Annenberg](http://twitter.com/search?q=Sandra+Annenberg) | N/A |
+| 34 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 35 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 36 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
+| 37 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 38 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 39 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 40 | [Michele](http://twitter.com/search?q=Michele) | N/A |
+| 41 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 42 | [#LulaReconstruindoOBrasil](http://twitter.com/search?q=%23LulaReconstruindoOBrasil) | N/A |
+| 43 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 44 | [Propina](http://twitter.com/search?q=Propina) | N/A |
 
 
 

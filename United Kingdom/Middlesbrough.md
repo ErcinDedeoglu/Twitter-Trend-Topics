@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-05 12:16:34 UTC`
+📆 Last Updated: `2023-03-05 13:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFCVegas285](http://twitter.com/search?q=%23UFCVegas285) | N/A |
-| 2 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 3 | [Sage](http://twitter.com/search?q=Sage) | N/A |
-| 4 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 5 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 8 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
-| 9 | [#classicalpop](http://twitter.com/search?q=%23classicalpop) | N/A |
-| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 11 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 12 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 13 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 14 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 15 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
-| 16 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
-| 17 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 18 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 19 | [Andrew Rawnsley](http://twitter.com/search?q=Andrew+Rawnsley) | N/A |
-| 20 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 21 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
-| 22 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
-| 23 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 24 | [Cornish](http://twitter.com/search?q=Cornish) | N/A |
-| 25 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 26 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
-| 27 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 28 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 29 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 30 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 31 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 32 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 33 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 34 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 35 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 36 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 37 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 38 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 39 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 40 | [whitty](http://twitter.com/search?q=whitty) | N/A |
-| 41 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 42 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 43 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 44 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 46 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 47 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 48 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 49 | [Midazolam](http://twitter.com/search?q=Midazolam) | N/A |
+| 1 | [England C](http://twitter.com/search?q=England+C) | N/A |
+| 2 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 3 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 4 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 5 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 7 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 8 | [The WHO](http://twitter.com/search?q=The+WHO) | N/A |
+| 9 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 10 | [Desperate](http://twitter.com/search?q=Desperate) | N/A |
+| 11 | [#COYR](http://twitter.com/search?q=%23COYR) | N/A |
+| 12 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 13 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 14 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 15 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 16 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
+| 17 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
+| 18 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
+| 19 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 20 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 21 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 22 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 23 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 24 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
+| 25 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
+| 26 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 27 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 28 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
+| 29 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
+| 30 | [Andrew Rawnsley](http://twitter.com/search?q=Andrew+Rawnsley) | N/A |
+| 31 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
+| 32 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 33 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Cornish](http://twitter.com/search?q=Cornish) | N/A |
+| 36 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 37 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
+| 38 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
+| 39 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 40 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 41 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
+| 42 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 43 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 44 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 45 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 48 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 49 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 
 
 

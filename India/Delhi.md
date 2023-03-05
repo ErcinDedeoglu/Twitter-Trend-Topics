@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-05 12:17:20 UTC`
+📆 Last Updated: `2023-03-05 13:19:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
-| 2 | [#ReelTokenIndia](http://twitter.com/search?q=%23ReelTokenIndia) | N/A |
-| 3 | [#DhoDalaRishavTiwary](http://twitter.com/search?q=%23DhoDalaRishavTiwary) | N/A |
-| 4 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
+| 2 | [#SethaPaambuRAJINI](http://twitter.com/search?q=%23SethaPaambuRAJINI) | N/A |
+| 3 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
+| 4 | [#reeltokenindia](http://twitter.com/search?q=%23reeltokenindia) | N/A |
 | 5 | [#NotFair](http://twitter.com/search?q=%23NotFair) | N/A |
-| 6 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 7 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 6 | [#HappyMadhyaPradeshDiwas](http://twitter.com/search?q=%23HappyMadhyaPradeshDiwas) | N/A |
+| 7 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
 | 8 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 9 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 10 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
-| 11 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 12 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 13 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 14 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 15 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 16 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
-| 17 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 18 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
-| 19 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 20 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 21 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
-| 22 | [Simmons](http://twitter.com/search?q=Simmons) | N/A |
-| 23 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
-| 24 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
-| 28 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 29 | [Hindu Rashtra Is Must](http://twitter.com/search?q=Hindu+Rashtra+Is+Must) | N/A |
-| 30 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
-| 31 | [#HappyMadhyaPradeshDay](http://twitter.com/search?q=%23HappyMadhyaPradeshDay) | N/A |
-| 32 | [#AmritpalMisleadingPunjab](http://twitter.com/search?q=%23AmritpalMisleadingPunjab) | N/A |
-| 33 | [#ShivrajKiLadliBehna](http://twitter.com/search?q=%23ShivrajKiLadliBehna) | N/A |
-| 34 | [#KabzaaMovieTrailerReleased](http://twitter.com/search?q=%23KabzaaMovieTrailerReleased) | N/A |
-| 35 | [#CGBudgetTomorrow](http://twitter.com/search?q=%23CGBudgetTomorrow) | N/A |
-| 36 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 37 | [#LadliBehnaYojanaMP](http://twitter.com/search?q=%23LadliBehnaYojanaMP) | N/A |
-| 38 | [#KD_CTR](http://twitter.com/search?q=%23KD_CTR) | N/A |
-| 39 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
-| 40 | [#Aptech](http://twitter.com/search?q=%23Aptech) | N/A |
-| 41 | [#JKSSB](http://twitter.com/search?q=%23JKSSB) | N/A |
-| 42 | [#IStandWithShubhamShukla](http://twitter.com/search?q=%23IStandWithShubhamShukla) | N/A |
-| 43 | [#Annamalai](http://twitter.com/search?q=%23Annamalai) | N/A |
-| 44 | [#BJPAgainstTN](http://twitter.com/search?q=%23BJPAgainstTN) | N/A |
-| 45 | [#सतगुरु_संग_खेलो_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%b8%e0%a4%82%e0%a4%97_%e0%a4%96%e0%a5%87%e0%a4%b2%e0%a5%8b_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
-| 46 | [#PurneaAirport](http://twitter.com/search?q=%23PurneaAirport) | N/A |
-| 47 | [#SaniaMirza](http://twitter.com/search?q=%23SaniaMirza) | N/A |
-| 48 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 49 | [#HoliFestival](http://twitter.com/search?q=%23HoliFestival) | N/A |
-| 50 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 9 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
+| 10 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 11 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 12 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 13 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
+| 14 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
+| 15 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 16 | [SHIV YT FAMILY RISING](http://twitter.com/search?q=SHIV+YT+FAMILY+RISING) | N/A |
+| 17 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
+| 18 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 19 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [इमरान खान](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 21 | [Holika](http://twitter.com/search?q=Holika) | N/A |
+| 22 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 23 | [Secularism](http://twitter.com/search?q=Secularism) | N/A |
+| 24 | [Shivraj Singh Chouhan](http://twitter.com/search?q=Shivraj+Singh+Chouhan) | N/A |
+| 25 | [TJMM ADVANCE BOOKING STARTS](http://twitter.com/search?q=TJMM+ADVANCE+BOOKING+STARTS) | N/A |
+| 26 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 28 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
+| 29 | [London](http://twitter.com/search?q=London) | N/A |
+| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 31 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 32 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
+| 33 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
+| 34 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 35 | [Abdul](http://twitter.com/search?q=Abdul) | N/A |
+| 36 | [Hindu Rashtra Is Must](http://twitter.com/search?q=Hindu+Rashtra+Is+Must) | N/A |
+| 37 | [#DhoDalaRishavTiwary](http://twitter.com/search?q=%23DhoDalaRishavTiwary) | N/A |
+| 38 | [#420மலை](http://twitter.com/search?q=%23420%e0%ae%ae%e0%ae%b2%e0%af%88) | N/A |
+| 39 | [#ABAconfIndia](http://twitter.com/search?q=%23ABAconfIndia) | N/A |
+| 40 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 41 | [#RcbwvsDcw](http://twitter.com/search?q=%23RcbwvsDcw) | N/A |
+| 42 | [#BrahMos](http://twitter.com/search?q=%23BrahMos) | N/A |
+| 43 | [#kd_ctr](http://twitter.com/search?q=%23kd_ctr) | N/A |
+| 44 | [#ShivrajKiLadliBehna](http://twitter.com/search?q=%23ShivrajKiLadliBehna) | N/A |
+| 45 | [#AmritpalMisleadingPunjab](http://twitter.com/search?q=%23AmritpalMisleadingPunjab) | N/A |
+| 46 | [#LadliBehnaYojanaMP](http://twitter.com/search?q=%23LadliBehnaYojanaMP) | N/A |
+| 47 | [#KabzaaMovieTrailerReleased](http://twitter.com/search?q=%23KabzaaMovieTrailerReleased) | N/A |
+| 48 | [#Aptech](http://twitter.com/search?q=%23Aptech) | N/A |
+| 49 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 50 | [#CGBudgetTomorrow](http://twitter.com/search?q=%23CGBudgetTomorrow) | N/A |
 
 
 

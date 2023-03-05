@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-05 12:17:27 UTC`
+📆 Last Updated: `2023-03-05 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Sweden
 | 1 | [Emil Persson](http://twitter.com/search?q=Emil+Persson) | N/A |
 | 2 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
 | 3 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 4 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 5 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
-| 6 | [Malm](http://twitter.com/search?q=Malm) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 9 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
-| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 12 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [Christer Lindarw](http://twitter.com/search?q=Christer+Lindarw) | N/A |
-| 15 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 16 | [Preem](http://twitter.com/search?q=Preem) | N/A |
-| 17 | [Challe](http://twitter.com/search?q=Challe) | N/A |
-| 18 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 19 | [oxie](http://twitter.com/search?q=oxie) | N/A |
-| 20 | [Victor Crone](http://twitter.com/search?q=Victor+Crone) | N/A |
-| 21 | [theoz](http://twitter.com/search?q=theoz) | N/A |
-| 22 | [henrik larsson](http://twitter.com/search?q=henrik+larsson) | N/A |
-| 23 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 24 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 25 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
-| 26 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
-| 27 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 28 | [Videll](http://twitter.com/search?q=Videll) | N/A |
-| 29 | [Honka](http://twitter.com/search?q=Honka) | N/A |
-| 30 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 31 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 32 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
-| 33 | [alperna](http://twitter.com/search?q=alperna) | N/A |
-| 34 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 35 | [Leif Östling](http://twitter.com/search?q=Leif+%c3%96stling) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 38 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 39 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
-| 40 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 41 | [Lotta Edholm](http://twitter.com/search?q=Lotta+Edholm) | N/A |
-| 42 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
-| 43 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 44 | [king of everything](http://twitter.com/search?q=king+of+everything) | N/A |
-| 45 | [linn svahn](http://twitter.com/search?q=linn+svahn) | N/A |
-| 46 | [lördag](http://twitter.com/search?q=l%c3%b6rdag) | N/A |
-| 47 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 4 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
+| 5 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 6 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
+| 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 12 | [Fredrik Malm](http://twitter.com/search?q=Fredrik+Malm) | N/A |
+| 13 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 14 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
+| 15 | [Preem](http://twitter.com/search?q=Preem) | N/A |
+| 16 | [Christer Lindarw](http://twitter.com/search?q=Christer+Lindarw) | N/A |
+| 17 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 18 | [Challe](http://twitter.com/search?q=Challe) | N/A |
+| 19 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 20 | [oxie](http://twitter.com/search?q=oxie) | N/A |
+| 21 | [Victor Crone](http://twitter.com/search?q=Victor+Crone) | N/A |
+| 22 | [Degerfors](http://twitter.com/search?q=Degerfors) | N/A |
+| 23 | [theoz](http://twitter.com/search?q=theoz) | N/A |
+| 24 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 25 | [henrik larsson](http://twitter.com/search?q=henrik+larsson) | N/A |
+| 26 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 27 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
+| 28 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
+| 29 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 30 | [Videll](http://twitter.com/search?q=Videll) | N/A |
+| 31 | [Honka](http://twitter.com/search?q=Honka) | N/A |
+| 32 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 33 | [Evertsberg](http://twitter.com/search?q=Evertsberg) | N/A |
+| 34 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 35 | [Frida Karlsson](http://twitter.com/search?q=Frida+Karlsson) | Frida Karlsson is a Swedish female given name. It is derived from the Old Norse name Fríða, which means "beautiful" or "beloved". |
+| 36 | [alperna](http://twitter.com/search?q=alperna) | N/A |
+| 37 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 38 | [Beklagar](http://twitter.com/search?q=Beklagar) | N/A |
+| 39 | [Leif Östling](http://twitter.com/search?q=Leif+%c3%96stling) | N/A |
+| 40 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 41 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 42 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 43 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 44 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
+| 45 | [pioli](http://twitter.com/search?q=pioli) | N/A |
+| 46 | [king of everything](http://twitter.com/search?q=king+of+everything) | N/A |
+| 47 | [lördag](http://twitter.com/search?q=l%c3%b6rdag) | N/A |
 | 48 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 49 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 50 | [tullinge](http://twitter.com/search?q=tullinge) | N/A |
+| 49 | [tullinge](http://twitter.com/search?q=tullinge) | N/A |
+| 50 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
 
 
 
