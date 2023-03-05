@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-05 02:45:41 UTC`
+📆 Last Updated: `2023-03-05 03:26:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Duki](http://twitter.com/search?q=Duki) | N/A |
+| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 3 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
 | 4 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 5 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 6 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 7 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 8 | [#XplicaBrecha](http://twitter.com/search?q=%23XplicaBrecha) | N/A |
-| 9 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
-| 10 | [#UFCEurosport](http://twitter.com/search?q=%23UFCEurosport) | N/A |
-| 11 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
-| 12 | [Sostres](http://twitter.com/search?q=Sostres) | N/A |
-| 13 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 14 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 15 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 16 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 17 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 18 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 19 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 20 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 21 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
-| 22 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 23 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 24 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 25 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 26 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 27 | [Caparrós](http://twitter.com/search?q=Caparr%c3%b3s) | N/A |
-| 28 | [Islandia](http://twitter.com/search?q=Islandia) | N/A |
-| 29 | [Don Pelayo](http://twitter.com/search?q=Don+Pelayo) | N/A |
-| 30 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 31 | [Luke Black](http://twitter.com/search?q=Luke+Black) | N/A |
-| 32 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
-| 33 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 34 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 35 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 36 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
-| 37 | [Anduva](http://twitter.com/search?q=Anduva) | N/A |
-| 38 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
-| 39 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
-| 40 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 41 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 42 | [joao](http://twitter.com/search?q=joao) | N/A |
-| 43 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 44 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 45 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 46 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 47 | [#APOYOROCIO5M](http://twitter.com/search?q=%23APOYOROCIO5M) | N/A |
-| 48 | [#pze23](http://twitter.com/search?q=%23pze23) | N/A |
+| 5 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 6 | [#Solos4M](http://twitter.com/search?q=%23Solos4M) | N/A |
+| 7 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 9 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 12 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 13 | [Shingeki](http://twitter.com/search?q=Shingeki) | Shingeki is a Japanese word that translates to "advancement" or "onslaught" in English. It is often used to refer to a sudden, large-scale attack or invasion. |
+| 14 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 15 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
+| 16 | [#dragqueenlpgc](http://twitter.com/search?q=%23dragqueenlpgc) | N/A |
+| 17 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 20 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 21 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 22 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 24 | [Sostres](http://twitter.com/search?q=Sostres) | N/A |
+| 25 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 26 | [Cody Garbrandt](http://twitter.com/search?q=Cody+Garbrandt) | N/A |
+| 27 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 28 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 30 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 31 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 32 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 33 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 34 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 35 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 36 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 37 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 38 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 39 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 40 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 41 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
+| 42 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 43 | [Carrero Blanco](http://twitter.com/search?q=Carrero+Blanco) | N/A |
+| 44 | [JORGE MOLINA](http://twitter.com/search?q=JORGE+MOLINA) | N/A |
+| 45 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 46 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 47 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 48 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 49 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 50 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-05 02:45:26 UTC`
+📆 Last Updated: `2023-03-05 03:26:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 3 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 4 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 5 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 6 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 7 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 8 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 9 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
-| 10 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 11 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 12 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 13 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 14 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 15 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
-| 16 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 17 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
-| 18 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 19 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 20 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
-| 21 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
-| 22 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
+| 2 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 3 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 4 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 5 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 6 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 7 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 8 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 9 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 10 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 11 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 12 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 13 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 14 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 15 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 16 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 17 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 18 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
+| 19 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
+| 20 | [valdés](http://twitter.com/search?q=vald%c3%a9s) | N/A |
+| 21 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 22 | [joao](http://twitter.com/search?q=joao) | N/A |
 | 23 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 24 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 25 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 26 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 27 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
-| 28 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 29 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 30 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
-| 31 | [Portero](http://twitter.com/search?q=Portero) | N/A |
-| 32 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
-| 33 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 36 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 37 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 38 | [Víctor Guzmán](http://twitter.com/search?q=V%c3%adctor+Guzm%c3%a1n) | N/A |
-| 39 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 40 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 41 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 42 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 43 | [Vaca](http://twitter.com/search?q=Vaca) | N/A |
-| 44 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 45 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
-| 46 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 24 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 25 | [Ustari](http://twitter.com/search?q=Ustari) | N/A |
+| 26 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
+| 27 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 28 | [#LigaMX](http://twitter.com/search?q=%23LigaMX) | N/A |
+| 29 | [Damm](http://twitter.com/search?q=Damm) | N/A |
+| 30 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 31 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 32 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 33 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 34 | [Salvador Reyes](http://twitter.com/search?q=Salvador+Reyes) | N/A |
+| 35 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 36 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 37 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 38 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 39 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
+| 40 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 41 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
+| 42 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 43 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 44 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 45 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 46 | [Portero](http://twitter.com/search?q=Portero) | N/A |
+| 47 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
 
 
 

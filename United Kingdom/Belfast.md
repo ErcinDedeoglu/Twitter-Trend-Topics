@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-05 02:45:25 UTC`
+📆 Last Updated: `2023-03-05 03:26:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
 | 2 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 5 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 6 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 8 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 9 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 10 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
-| 11 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 12 | [Nich](http://twitter.com/search?q=Nich) | N/A |
-| 13 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 14 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 15 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 16 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 17 | [Dionne Warwick](http://twitter.com/search?q=Dionne+Warwick) | N/A |
-| 18 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
-| 19 | [Ritson](http://twitter.com/search?q=Ritson) | N/A |
-| 20 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 21 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 22 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 23 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 24 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 25 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 26 | [Richie Burnett](http://twitter.com/search?q=Richie+Burnett) | N/A |
-| 27 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 28 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 29 | [Ernest](http://twitter.com/search?q=Ernest) | N/A |
-| 30 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 31 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 32 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 33 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 34 | [Reiss](http://twitter.com/search?q=Reiss) | N/A |
-| 35 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 36 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 37 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 38 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 39 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 40 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 41 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 42 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 43 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 45 | [Brendan](http://twitter.com/search?q=Brendan) | Brendan is an Irish name derived from the Gaelic Breandán, meaning "prince". It is also used as a surname. |
-| 46 | [#FNCWIN](http://twitter.com/search?q=%23FNCWIN) | N/A |
-| 47 | [#pze23](http://twitter.com/search?q=%23pze23) | N/A |
-| 48 | [#moyesout](http://twitter.com/search?q=%23moyesout) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 6 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 8 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 9 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 10 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 11 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 12 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 13 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
+| 14 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 15 | [#Misfits005](http://twitter.com/search?q=%23Misfits005) | N/A |
+| 16 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 17 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 19 | [Pat Butcher](http://twitter.com/search?q=Pat+Butcher) | N/A |
+| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 21 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 22 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 23 | [Lascelles](http://twitter.com/search?q=Lascelles) | Lascelles is a surname of French origin. It is derived from the Old French phrase "de la celles," which means "of the cells." The name is thought to have been given to someone who lived near a monastery or church, as it was common for such places to have cells for monks and priests. |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
+| 27 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 28 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 29 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 30 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
+| 31 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 32 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 33 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 34 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 35 | [Dwight Gayle](http://twitter.com/search?q=Dwight+Gayle) | N/A |
+| 36 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 38 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 39 | [Cathy Newman](http://twitter.com/search?q=Cathy+Newman) | N/A |
+| 40 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 41 | [Partygate](http://twitter.com/search?q=Partygate) | N/A |
+| 42 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 43 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 44 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
+| 45 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 46 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 47 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 48 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 49 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 50 | [Darren Till](http://twitter.com/search?q=Darren+Till) | N/A |
 
 
 

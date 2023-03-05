@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-05 02:46:25 UTC`
+📆 Last Updated: `2023-03-05 03:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,20 +20,20 @@ This is top 50 for Sweden
 | 3 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
 | 4 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 | 5 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 6 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
-| 7 | [christer lindarw](http://twitter.com/search?q=christer+lindarw) | N/A |
+| 6 | [christer lindarw](http://twitter.com/search?q=christer+lindarw) | N/A |
+| 7 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
 | 8 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 9 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 11 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
-| 12 | [Videll](http://twitter.com/search?q=Videll) | N/A |
-| 13 | [Oxie](http://twitter.com/search?q=Oxie) | N/A |
+| 12 | [videll](http://twitter.com/search?q=videll) | N/A |
+| 13 | [oxie](http://twitter.com/search?q=oxie) | N/A |
 | 14 | [Ebba Andersson](http://twitter.com/search?q=Ebba+Andersson) | N/A |
 | 15 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 16 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
-| 17 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
-| 18 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
-| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 16 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 17 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 18 | [Drag Race Sverige](http://twitter.com/search?q=Drag+Race+Sverige) | N/A |
+| 19 | [Mariette](http://twitter.com/search?q=Mariette) | N/A |
 | 20 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
 | 21 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
 | 22 | [victor crone](http://twitter.com/search?q=victor+crone) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Sweden
 | 27 | [Henrik Larsson](http://twitter.com/search?q=Henrik+Larsson) | N/A |
 | 28 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 29 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
-| 30 | [Skröder](http://twitter.com/search?q=Skr%c3%b6der) | N/A |
+| 30 | [skröder](http://twitter.com/search?q=skr%c3%b6der) | N/A |
 | 31 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 | 32 | [Alby](http://twitter.com/search?q=Alby) | N/A |
 | 33 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
@@ -52,12 +52,12 @@ This is top 50 for Sweden
 | 35 | [honka](http://twitter.com/search?q=honka) | N/A |
 | 36 | [baudin](http://twitter.com/search?q=baudin) | N/A |
 | 37 | [frida karlsson](http://twitter.com/search?q=frida+karlsson) | N/A |
-| 38 | [tennessee tears](http://twitter.com/search?q=tennessee+tears) | N/A |
+| 38 | [Tennessee Tears](http://twitter.com/search?q=Tennessee+Tears) | N/A |
 | 39 | [alperna](http://twitter.com/search?q=alperna) | N/A |
 | 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 41 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 42 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 43 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 43 | [sisto](http://twitter.com/search?q=sisto) | N/A |
 | 44 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
 | 45 | [varberg](http://twitter.com/search?q=varberg) | N/A |
 | 46 | [katrineholm](http://twitter.com/search?q=katrineholm) | N/A |

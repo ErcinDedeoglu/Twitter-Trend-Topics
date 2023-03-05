@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-05 02:46:18 UTC`
+📆 Last Updated: `2023-03-05 03:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Denmark
 | 4 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
 | 5 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
 | 6 | [#fodboldtroejefredag](http://twitter.com/search?q=%23fodboldtroejefredag) | N/A |
-| 7 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [#agfach](http://twitter.com/search?q=%23agfach) | N/A |
-| 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 8 | [#agfach](http://twitter.com/search?q=%23agfach) | N/A |
+| 9 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 10 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
 | 11 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
 | 12 | [dansk folkeparti](http://twitter.com/search?q=dansk+folkeparti) | N/A |
 | 13 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Denmark
 | 38 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
 | 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 40 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 41 | [Schwartau](http://twitter.com/search?q=Schwartau) | N/A |
+| 41 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
 | 42 | [irma](http://twitter.com/search?q=irma) | N/A |
 | 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |

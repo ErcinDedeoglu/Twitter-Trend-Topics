@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-05 02:46:25 UTC`
+📆 Last Updated: `2023-03-05 03:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Turkey
 | 4 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
 | 5 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
 | 6 | [#KYSvFB](http://twitter.com/search?q=%23KYSvFB) | N/A |
-| 7 | [#anket](http://twitter.com/search?q=%23anket) | N/A |
+| 7 | [#Anket](http://twitter.com/search?q=%23Anket) | N/A |
 | 8 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
 | 9 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
 | 10 | [Tarih](http://twitter.com/search?q=Tarih) | N/A |
@@ -34,8 +34,8 @@ This is top 50 for Turkey
 | 17 | [Şener Şen](http://twitter.com/search?q=%c5%9eener+%c5%9een) | N/A |
 | 18 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
 | 19 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 20 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 21 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 20 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 21 | [hatay valiliği](http://twitter.com/search?q=hatay+valili%c4%9fi) | N/A |
 | 22 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
 | 23 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
 | 24 | [Özgür Demirtaş](http://twitter.com/search?q=%c3%96zg%c3%bcr+Demirta%c5%9f) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Turkey
 | 33 | [Tevfik Göksu](http://twitter.com/search?q=Tevfik+G%c3%b6ksu) | N/A |
 | 34 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
 | 35 | [Yılmaz Vural](http://twitter.com/search?q=Y%c4%b1lmaz+Vural) | N/A |
-| 36 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
+| 36 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
 | 37 | [Constantinople](http://twitter.com/search?q=Constantinople) | N/A |
-| 38 | [İstifasını](http://twitter.com/search?q=%c4%b0stifas%c4%b1n%c4%b1) | N/A |
-| 39 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
-| 40 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
-| 41 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 42 | [Süleyman Aslan](http://twitter.com/search?q=S%c3%bcleyman+Aslan) | N/A |
-| 43 | [Ciddiyseniz](http://twitter.com/search?q=Ciddiyseniz) | N/A |
-| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 45 | [Şaka](http://twitter.com/search?q=%c5%9eaka) | N/A |
-| 46 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
-| 47 | [Reza Zarrab](http://twitter.com/search?q=Reza+Zarrab) | N/A |
-| 48 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 49 | [Deniz Feneri](http://twitter.com/search?q=Deniz+Feneri) | N/A |
-| 50 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 38 | [Ayhan Altıntaş](http://twitter.com/search?q=Ayhan+Alt%c4%b1nta%c5%9f) | N/A |
+| 39 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
+| 40 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 41 | [Süleyman Aslan](http://twitter.com/search?q=S%c3%bcleyman+Aslan) | N/A |
+| 42 | [Faruk Aksoy](http://twitter.com/search?q=Faruk+Aksoy) | N/A |
+| 43 | [Şaka](http://twitter.com/search?q=%c5%9eaka) | N/A |
+| 44 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 45 | [Deniz Feneri](http://twitter.com/search?q=Deniz+Feneri) | N/A |
+| 46 | [Zeljko Bojanic](http://twitter.com/search?q=Zeljko+Bojanic) | N/A |
+| 47 | [İstişare](http://twitter.com/search?q=%c4%b0sti%c5%9fare) | N/A |
+| 48 | [Ciddiyseniz](http://twitter.com/search?q=Ciddiyseniz) | N/A |
+| 49 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 50 | [Masum Türker](http://twitter.com/search?q=Masum+T%c3%bcrker) | N/A |
 
 
 

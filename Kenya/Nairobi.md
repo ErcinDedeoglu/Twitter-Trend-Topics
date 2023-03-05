@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-05 02:45:56 UTC`
+📆 Last Updated: `2023-03-05 03:26:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,27 +17,27 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 | 2 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 3 | [KPLC](http://twitter.com/search?q=KPLC) | N/A |
+| 3 | [Kplc](http://twitter.com/search?q=Kplc) | N/A |
 | 4 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
-| 5 | [#betton1xbet](http://twitter.com/search?q=%23betton1xbet) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 6 | [#betton1xbet](http://twitter.com/search?q=%23betton1xbet) | N/A |
 | 7 | [#MegaWonderOfRain](http://twitter.com/search?q=%23MegaWonderOfRain) | N/A |
 | 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 9 | [Kenya Power](http://twitter.com/search?q=Kenya+Power) | N/A |
-| 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 11 | [Ronoh](http://twitter.com/search?q=Ronoh) | N/A |
 | 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 16 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 17 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 18 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 19 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 20 | [mp geoffrey wandeto](http://twitter.com/search?q=mp+geoffrey+wandeto) | N/A |
-| 21 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 22 | [mens wear kenya](http://twitter.com/search?q=mens+wear+kenya) | N/A |
-| 23 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 15 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 16 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 17 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 18 | [mp geoffrey wandeto](http://twitter.com/search?q=mp+geoffrey+wandeto) | N/A |
+| 19 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 20 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 21 | [mens wear kenya](http://twitter.com/search?q=mens+wear+kenya) | N/A |
+| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 24 | [Malala](http://twitter.com/search?q=Malala) | N/A |
 | 25 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |

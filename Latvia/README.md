@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-05 02:46:21 UTC`
+📆 Last Updated: `2023-03-05 03:27:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Latvia
 | 6 | [ziedoni](http://twitter.com/search?q=ziedoni) | N/A |
 | 7 | [sūnu](http://twitter.com/search?q=s%c5%abnu) | N/A |
 | 8 | [Runa](http://twitter.com/search?q=Runa) | N/A |
-| 9 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 9 | [latviju](http://twitter.com/search?q=latviju) | N/A |
 | 10 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
 | 11 | [dieva](http://twitter.com/search?q=dieva) | N/A |
 | 12 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for Latvia
 | 22 | [Depo](http://twitter.com/search?q=Depo) | N/A |
 | 23 | [Mums](http://twitter.com/search?q=Mums) | N/A |
 | 24 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 25 | [viss](http://twitter.com/search?q=viss) | N/A |
+| 25 | [Viss](http://twitter.com/search?q=Viss) | N/A |
 | 26 | [Forši](http://twitter.com/search?q=For%c5%a1i) | N/A |
 | 27 | [STARP](http://twitter.com/search?q=STARP) | N/A |
 | 28 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Latvia
 | 39 | [Azov](http://twitter.com/search?q=Azov) | N/A |
 | 40 | [cēsīs](http://twitter.com/search?q=c%c4%93s%c4%abs) | N/A |
 | 41 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
-| 42 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
+| 42 | [tavs](http://twitter.com/search?q=tavs) | N/A |
 | 43 | [gandrīz](http://twitter.com/search?q=gandr%c4%abz) | N/A |
 | 44 | [liepāju](http://twitter.com/search?q=liep%c4%81ju) | N/A |
 | 45 | [Taisnība](http://twitter.com/search?q=Taisn%c4%abba) | N/A |

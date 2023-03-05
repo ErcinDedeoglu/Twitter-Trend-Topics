@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-05 02:46:26 UTC`
+📆 Last Updated: `2023-03-05 03:27:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
-| 2 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 3 | [#Prem25thBDayInVN](http://twitter.com/search?q=%23Prem25thBDayInVN) | N/A |
-| 4 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
-| 5 | [#ShootingStarInVietnam](http://twitter.com/search?q=%23ShootingStarInVietnam) | N/A |
-| 6 | [#EnglotAns11month](http://twitter.com/search?q=%23EnglotAns11month) | N/A |
-| 7 | [PRIVATE FIRST CLASS JIN](http://twitter.com/search?q=PRIVATE+FIRST+CLASS+JIN) | N/A |
+| 1 | [#มีนานี้จะโอบกอดบิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%88%e0%b8%b0%e0%b9%82%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%ad%e0%b8%94%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 2 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
+| 3 | [#2yrsBYLxBuild](http://twitter.com/search?q=%232yrsBYLxBuild) | N/A |
+| 4 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 5 | [#Prem25thBDayInVN](http://twitter.com/search?q=%23Prem25thBDayInVN) | N/A |
+| 6 | [#2ndAnvBsumxBible](http://twitter.com/search?q=%232ndAnvBsumxBible) | N/A |
+| 7 | [#ShootingStarInVietnam](http://twitter.com/search?q=%23ShootingStarInVietnam) | N/A |
 | 8 | [Liuyu Paris Fashion Week](http://twitter.com/search?q=Liuyu+Paris+Fashion+Week) | N/A |
-| 9 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [beyourluve](http://twitter.com/search?q=beyourluve) | N/A |
-| 12 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
-| 13 | [byls](http://twitter.com/search?q=byls) | N/A |
-| 14 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 9 | [PRIVATE FIRST CLASS JIN](http://twitter.com/search?q=PRIVATE+FIRST+CLASS+JIN) | N/A |
+| 10 | [LALISA GEGAR MALAYSIA](http://twitter.com/search?q=LALISA+GEGAR+MALAYSIA) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [Incentivized](http://twitter.com/search?q=Incentivized) | N/A |
+| 13 | [Beyourluve](http://twitter.com/search?q=Beyourluve) | N/A |
+| 14 | [ROSÉ BERSINAR DI MALAYSIA](http://twitter.com/search?q=ROS%c3%89+BERSINAR+DI+MALAYSIA) | N/A |
 | 15 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 16 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 17 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 19 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 20 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 21 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 22 | [Dump](http://twitter.com/search?q=Dump) | N/A |
-| 23 | [LQTY](http://twitter.com/search?q=LQTY) | N/A |
-| 24 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
-| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 26 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
-| 27 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 28 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 29 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 30 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
-| 31 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
-| 34 | [kiếm](http://twitter.com/search?q=ki%e1%ba%bfm) | N/A |
-| 35 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 36 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 39 | [Thưởng](http://twitter.com/search?q=Th%c6%b0%e1%bb%9fng) | N/A |
-| 40 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 41 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 42 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 43 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
-| 44 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 45 | [Cùng](http://twitter.com/search?q=C%c3%b9ng) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
-| 48 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 17 | [Byls](http://twitter.com/search?q=Byls) | N/A |
+| 18 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 20 | [dáng](http://twitter.com/search?q=d%c3%a1ng) | N/A |
+| 21 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 22 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 23 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 24 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 25 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 26 | [Dump](http://twitter.com/search?q=Dump) | N/A |
+| 27 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 28 | [lqty](http://twitter.com/search?q=lqty) | N/A |
+| 29 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
+| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 31 | [PATRICK BALMAIN PFW](http://twitter.com/search?q=PATRICK+BALMAIN+PFW) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 34 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
+| 35 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 37 | [hải minh](http://twitter.com/search?q=h%e1%ba%a3i+minh) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [kiếm](http://twitter.com/search?q=ki%e1%ba%bfm) | N/A |
+| 40 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 41 | [DIOR WITH NATTAWIN](http://twitter.com/search?q=DIOR+WITH+NATTAWIN) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 44 | [thưởng](http://twitter.com/search?q=th%c6%b0%e1%bb%9fng) | N/A |
+| 45 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 46 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 47 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 49 | [Ngồi](http://twitter.com/search?q=Ng%e1%bb%93i) | N/A |
-| 50 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 50 | [Tình](http://twitter.com/search?q=T%c3%acnh) | N/A |
 
 
 

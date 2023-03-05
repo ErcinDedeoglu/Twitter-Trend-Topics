@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-05 02:46:18 UTC`
+📆 Last Updated: `2023-03-05 03:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 4 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 3 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 4 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
 | 5 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 6 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 8 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 9 | [#TORvsVAN](http://twitter.com/search?q=%23TORvsVAN) | N/A |
-| 10 | [Sean Johnson](http://twitter.com/search?q=Sean+Johnson) | N/A |
-| 11 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 12 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
-| 13 | [#WWEToronto](http://twitter.com/search?q=%23WWEToronto) | N/A |
-| 14 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 15 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 16 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 17 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 18 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 19 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 20 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 21 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 22 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
-| 23 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 24 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 25 | [Woodcroft](http://twitter.com/search?q=Woodcroft) | N/A |
-| 26 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 27 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
-| 28 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 29 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 30 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 31 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 32 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
-| 33 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 34 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
-| 35 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 36 | [Hamonic](http://twitter.com/search?q=Hamonic) | N/A |
-| 37 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 38 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 39 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 40 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 41 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 43 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 44 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 45 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 46 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 47 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 48 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 49 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 50 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
+| 6 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 7 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 8 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 9 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 10 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 11 | [#TORvsVAN](http://twitter.com/search?q=%23TORvsVAN) | N/A |
+| 12 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 13 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 14 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 15 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 16 | [Sean Johnson](http://twitter.com/search?q=Sean+Johnson) | N/A |
+| 17 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 18 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 19 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 20 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 21 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 22 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 23 | [Woodcroft](http://twitter.com/search?q=Woodcroft) | N/A |
+| 24 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 25 | [Mike Smith](http://twitter.com/search?q=Mike+Smith) | N/A |
+| 26 | [Reilly](http://twitter.com/search?q=Reilly) | N/A |
+| 27 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 28 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 29 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 30 | [Rogers Arena](http://twitter.com/search?q=Rogers+Arena) | N/A |
+| 31 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 32 | [Soup](http://twitter.com/search?q=Soup) | N/A |
+| 33 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 34 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 35 | [John Candy](http://twitter.com/search?q=John+Candy) | N/A |
+| 36 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 37 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
+| 38 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 39 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
+| 40 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 41 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 42 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 43 | [Hamonic](http://twitter.com/search?q=Hamonic) | N/A |
+| 44 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 45 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 46 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 49 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 50 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
 
 
 

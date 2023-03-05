@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-05 02:46:11 UTC`
+📆 Last Updated: `2023-03-05 03:27:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
-| 2 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 3 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 4 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 5 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 11 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 12 | [#NFLCombine](http://twitter.com/search?q=%23NFLCombine) | N/A |
-| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 14 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 15 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 16 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 17 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 18 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 19 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 20 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 21 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 22 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 23 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 24 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 25 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 26 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
-| 27 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 28 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
-| 29 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 30 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 31 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
-| 32 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 33 | [Leaky](http://twitter.com/search?q=Leaky) | N/A |
-| 34 | [Cody Garbrandt](http://twitter.com/search?q=Cody+Garbrandt) | N/A |
-| 35 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 36 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 37 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 38 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
-| 39 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 40 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 1 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 2 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 3 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 4 | [#SpiritAwards](http://twitter.com/search?q=%23SpiritAwards) | N/A |
+| 5 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 6 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 7 | [Levis](http://twitter.com/search?q=Levis) | N/A |
+| 8 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 9 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 10 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 12 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 13 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 14 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 15 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 16 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 17 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 18 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 19 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 20 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 21 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 22 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
+| 23 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 24 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 25 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 26 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 27 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 28 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
+| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 30 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 31 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 32 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 33 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 34 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
+| 35 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 36 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 37 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 38 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 39 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 40 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
 | 41 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 42 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
-| 43 | [Copetti](http://twitter.com/search?q=Copetti) | N/A |
-| 44 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 45 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 46 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 47 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 48 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 49 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 42 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 43 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
+| 44 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
+| 45 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 46 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 47 | [Aquille Carr](http://twitter.com/search?q=Aquille+Carr) | N/A |
+| 48 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
+| 49 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
 
 
 

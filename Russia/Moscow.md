@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-03-05 02:45:59 UTC`
+📆 Last Updated: `2023-03-05 03:26:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,28 +33,29 @@ This is top 50 for [Russia](</Russia>)
 | 16 | [Ваще](http://twitter.com/search?q=%d0%92%d0%b0%d1%89%d0%b5) | N/A |
 | 17 | [пасиба](http://twitter.com/search?q=%d0%bf%d0%b0%d1%81%d0%b8%d0%b1%d0%b0) | N/A |
 | 18 | [Сайно](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
-| 19 | [альбедо](http://twitter.com/search?q=%d0%b0%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
+| 19 | [Альбедо](http://twitter.com/search?q=%d0%90%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
 | 20 | [лучший](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
 | 21 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
-| 22 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
-| 23 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
-| 24 | [Аналогично](http://twitter.com/search?q=%d0%90%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 25 | [красивый](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9) | N/A |
-| 26 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 27 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
-| 28 | [Хорошие](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b8%d0%b5) | N/A |
+| 22 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
+| 23 | [Аналогично](http://twitter.com/search?q=%d0%90%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 24 | [красивый](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d1%8b%d0%b9) | N/A |
+| 25 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 26 | [тбилиси](http://twitter.com/search?q=%d1%82%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 27 | [Хорошие](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b8%d0%b5) | N/A |
+| 28 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 29 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
 | 30 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 31 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
-| 32 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 33 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
-| 34 | [на украине](http://twitter.com/search?q=%d0%bd%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 35 | [фото](http://twitter.com/search?q=%d1%84%d0%be%d1%82%d0%be) | N/A |
-| 36 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
-| 37 | [рада](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
-| 38 | [антон](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd) | N/A |
-| 39 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 40 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
+| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 32 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
+| 33 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 34 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
+| 35 | [на украине](http://twitter.com/search?q=%d0%bd%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 36 | [фото](http://twitter.com/search?q=%d1%84%d0%be%d1%82%d0%be) | N/A |
+| 37 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
+| 38 | [рада](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
+| 39 | [антон](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd) | N/A |
+| 40 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 41 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-05 02:46:25 UTC`
+📆 Last Updated: `2023-03-05 03:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,16 +19,16 @@ This is top 50 for Switzerland
 | 2 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 | 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 4 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
-| 5 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
+| 5 | [vaud](http://twitter.com/search?q=vaud) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Rapperswil](http://twitter.com/search?q=Rapperswil) | N/A |
-| 8 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 9 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
-| 10 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
-| 11 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 12 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 13 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 14 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 7 | [rapperswil](http://twitter.com/search?q=rapperswil) | N/A |
+| 8 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
+| 9 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 10 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 11 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 12 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 13 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 14 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
 | 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 16 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 17 | [mme dittli](http://twitter.com/search?q=mme+dittli) | N/A |
@@ -44,17 +44,17 @@ This is top 50 for Switzerland
 | 27 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 29 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 30 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 31 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 32 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 33 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
-| 34 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
-| 35 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 36 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
-| 37 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 38 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 39 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
-| 40 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 30 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 31 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 32 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 33 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 34 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
+| 35 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 36 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 37 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
+| 38 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 39 | [Mond](http://twitter.com/search?q=Mond) | N/A |
+| 40 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
 | 41 | [enteignung](http://twitter.com/search?q=enteignung) | N/A |
 | 42 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 43 | [Verteidigung](http://twitter.com/search?q=Verteidigung) | N/A |

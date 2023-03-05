@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-05 02:46:24 UTC`
+📆 Last Updated: `2023-03-05 03:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,10 +30,10 @@ This is top 50 for Saudi Arabia
 | 13 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
 | 14 | [علي القرني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
 | 15 | [١٣ شعبان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 16 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
-| 17 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 18 | [متعب الحربي](http://twitter.com/search?q=%d9%85%d8%aa%d8%b9%d8%a8+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | متعب الحربي is an Arabic phrase that translates to "war-weary" in English. It is used to describe someone who is exhausted from the hardships of war. |
-| 19 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 16 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 17 | [متعب الحربي](http://twitter.com/search?q=%d9%85%d8%aa%d8%b9%d8%a8+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | متعب الحربي is an Arabic phrase that translates to "war-weary" in English. It is used to describe someone who is exhausted from the hardships of war. |
+| 18 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 19 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
 | 20 | [نيلسون](http://twitter.com/search?q=%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
 | 21 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 22 | [الوعد الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
@@ -42,23 +42,23 @@ This is top 50 for Saudi Arabia
 | 25 | [فييرا](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%b1%d8%a7) | N/A |
 | 26 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
 | 27 | [رييس نادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 28 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 29 | [ديباي](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%8a) | N/A |
-| 30 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
-| 31 | [نيتو](http://twitter.com/search?q=%d9%86%d9%8a%d8%aa%d9%88) | N/A |
+| 28 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
+| 29 | [نيتو](http://twitter.com/search?q=%d9%86%d9%8a%d8%aa%d9%88) | N/A |
+| 30 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 31 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 32 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 33 | [الوقت المحتسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b3%d8%a8) | N/A |
-| 34 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 35 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 36 | [التحكيم الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 37 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
-| 38 | [الهويدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
-| 39 | [خليف القحطاني](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 40 | [سمير عثمان](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
-| 41 | [قلب الاسد](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 33 | [الهويدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%88%d9%8a%d8%af%d9%8a) | N/A |
+| 34 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
+| 35 | [خليف القحطاني](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 36 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 37 | [سمير عثمان](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
+| 38 | [قلب الاسد](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 39 | [لونا ساكون](http://twitter.com/search?q=%d9%84%d9%88%d9%86%d8%a7+%d8%b3%d8%a7%d9%83%d9%88%d9%86) | N/A |
+| 40 | [الوقت المحتسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b3%d8%a8) | N/A |
+| 41 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 42 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 43 | [لونا ساكون](http://twitter.com/search?q=%d9%84%d9%88%d9%86%d8%a7+%d8%b3%d8%a7%d9%83%d9%88%d9%86) | N/A |
-| 44 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
+| 43 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
+| 44 | [ديباي](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%8a) | N/A |
 | 45 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
 | 46 | [ارون](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86) | ارون is an Arabic name meaning "light". |
 | 47 | [علم الاثار](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d8%a7%d8%b1) | N/A |

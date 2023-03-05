@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-05 02:45:42 UTC`
+📆 Last Updated: `2023-03-05 03:26:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
 | 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 4 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
-| 5 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
+| 5 | [vaud](http://twitter.com/search?q=vaud) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Rapperswil](http://twitter.com/search?q=Rapperswil) | N/A |
-| 8 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 9 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
-| 10 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
-| 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 12 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 7 | [rapperswil](http://twitter.com/search?q=rapperswil) | N/A |
+| 8 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
+| 9 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 10 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 11 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 12 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
 | 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 14 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 15 | [mme dittli](http://twitter.com/search?q=mme+dittli) | N/A |
@@ -42,17 +42,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 25 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 27 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 28 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 29 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 30 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 31 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
-| 32 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
-| 33 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 34 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
-| 35 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 36 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 37 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
-| 38 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 28 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 29 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 30 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 31 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 32 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
+| 33 | [Leopard](http://twitter.com/search?q=Leopard) | N/A |
+| 34 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 35 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
+| 36 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 37 | [Mond](http://twitter.com/search?q=Mond) | N/A |
+| 38 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
 | 39 | [enteignung](http://twitter.com/search?q=enteignung) | N/A |
 | 40 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 41 | [Verteidigung](http://twitter.com/search?q=Verteidigung) | N/A |

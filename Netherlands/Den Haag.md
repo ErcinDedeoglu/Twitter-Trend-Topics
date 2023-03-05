@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-05 02:45:40 UTC`
+📆 Last Updated: `2023-03-05 03:26:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,36 +26,36 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Danny](http://twitter.com/search?q=Danny) | N/A |
 | 10 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
 | 11 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
-| 15 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
-| 16 | [Vollering](http://twitter.com/search?q=Vollering) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Vollering](http://twitter.com/search?q=Vollering) | N/A |
+| 16 | [Lubach](http://twitter.com/search?q=Lubach) | N/A |
 | 17 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
 | 18 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
 | 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 21 | [Robbin](http://twitter.com/search?q=Robbin) | N/A |
-| 22 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 23 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
-| 24 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
-| 25 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 26 | [Oostvaardersplassen](http://twitter.com/search?q=Oostvaardersplassen) | N/A |
-| 27 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
-| 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 29 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 30 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 21 | [robbin](http://twitter.com/search?q=robbin) | N/A |
+| 22 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
+| 23 | [kopecky](http://twitter.com/search?q=kopecky) | N/A |
+| 24 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 25 | [Oostvaardersplassen](http://twitter.com/search?q=Oostvaardersplassen) | N/A |
+| 26 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 27 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 28 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 29 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 30 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
 | 31 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 32 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 33 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 34 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
-| 35 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 32 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 33 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
+| 34 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 35 | [Määttä](http://twitter.com/search?q=M%c3%a4%c3%a4tt%c3%a4) | N/A |
 | 36 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
-| 37 | [Määttä](http://twitter.com/search?q=M%c3%a4%c3%a4tt%c3%a4) | N/A |
-| 38 | [binnenhof](http://twitter.com/search?q=binnenhof) | N/A |
-| 39 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
-| 40 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
-| 41 | [Valter](http://twitter.com/search?q=Valter) | N/A |
+| 37 | [Binnenhof](http://twitter.com/search?q=Binnenhof) | N/A |
+| 38 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
+| 39 | [Faulkner](http://twitter.com/search?q=Faulkner) | N/A |
+| 40 | [Valter](http://twitter.com/search?q=Valter) | N/A |
+| 41 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 42 | [sporza](http://twitter.com/search?q=sporza) | N/A |
 | 43 | [pakhuis de zwijger](http://twitter.com/search?q=pakhuis+de+zwijger) | N/A |
 | 44 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 47 | [slager](http://twitter.com/search?q=slager) | N/A |
 | 48 | [Rookworst](http://twitter.com/search?q=Rookworst) | N/A |
 | 49 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 50 | [Johan Cruijff](http://twitter.com/search?q=Johan+Cruijff) | N/A |
+| 50 | [johan cruijff](http://twitter.com/search?q=johan+cruijff) | N/A |
 
 
 

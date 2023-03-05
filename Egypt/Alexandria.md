@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-03-05 02:45:56 UTC`
+📆 Last Updated: `2023-03-05 03:26:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,8 +29,8 @@ This is top 50 for [Egypt](</Egypt>)
 | 12 | [احمد سليمان](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
 | 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 14 | [احمد القندوسي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d9%86%d8%af%d9%88%d8%b3%d9%8a) | N/A |
-| 15 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 16 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 15 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 16 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 17 | [رأفت خليل](http://twitter.com/search?q=%d8%b1%d8%a3%d9%81%d8%aa+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 18 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 | 19 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
@@ -46,9 +46,9 @@ This is top 50 for [Egypt](</Egypt>)
 | 29 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
 | 30 | [ماك اليستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
 | 31 | [الدقيقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%82%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 32 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 33 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 34 | [١٣ شعبان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 32 | [١٣ شعبان](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 33 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 34 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
 | 35 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 36 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
 | 37 | [ايس كوفي](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3+%d9%83%d9%88%d9%81%d9%8a) | N/A |

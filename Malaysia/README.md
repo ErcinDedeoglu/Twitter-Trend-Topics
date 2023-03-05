@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-05 02:46:22 UTC`
+📆 Last Updated: `2023-03-05 03:27:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Malaysia
 | 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 9 | [#ToFOUReverlandWithTXT](http://twitter.com/search?q=%23ToFOUReverlandWithTXT) | N/A |
-| 10 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 11 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 16 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 17 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 18 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 19 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 10 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 12 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 13 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 14 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 15 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 16 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 19 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 20 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
 | 21 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 24 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
+| 22 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 23 | [Bukit Jalil](http://twitter.com/search?q=Bukit+Jalil) | N/A |
+| 24 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
 | 25 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 26 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
 | 27 | [SMITH ROWE](http://twitter.com/search?q=SMITH+ROWE) | N/A |
-| 28 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 29 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 30 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 31 | [California](http://twitter.com/search?q=California) | N/A |
-| 32 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 33 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 34 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
-| 35 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
-| 36 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 37 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 38 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 39 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
-| 40 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
-| 41 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 42 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 43 | [Pink Ocean](http://twitter.com/search?q=Pink+Ocean) | N/A |
-| 44 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
-| 45 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 46 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 47 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
-| 50 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 28 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 29 | [California](http://twitter.com/search?q=California) | N/A |
+| 30 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 31 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 32 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 33 | [8 iKON](http://twitter.com/search?q=8+iKON) | N/A |
+| 34 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 35 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 36 | [WHAT A COMEBACK](http://twitter.com/search?q=WHAT+A+COMEBACK) | N/A |
+| 37 | [ALWAYS BESIDE BUILD](http://twitter.com/search?q=ALWAYS+BESIDE+BUILD) | N/A |
+| 38 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 39 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 40 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 41 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 42 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 43 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 44 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 45 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 46 | [Pink Ocean](http://twitter.com/search?q=Pink+Ocean) | N/A |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 49 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 50 | [Mentega Terbang](http://twitter.com/search?q=Mentega+Terbang) | N/A |
 
 
 

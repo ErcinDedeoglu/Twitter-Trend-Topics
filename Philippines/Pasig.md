@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-05 02:45:52 UTC`
+📆 Last Updated: `2023-03-05 03:26:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
-| 2 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 3 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
-| 4 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
-| 5 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 6 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 7 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 8 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 10 | [Go USTE](http://twitter.com/search?q=Go+USTE) | N/A |
-| 11 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
-| 12 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
-| 13 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
-| 14 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
-| 15 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 16 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
-| 17 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 18 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
-| 19 | [lipare you ready for hori7on](http://twitter.com/search?q=lipare+you+ready+for+hori7on) | N/A |
-| 20 | [Sheena B HelloMarch](http://twitter.com/search?q=Sheena+B+HelloMarch) | N/A |
-| 21 | [iKONICS](http://twitter.com/search?q=iKONICS) | N/A |
-| 22 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
-| 23 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
-| 24 | [MARCH MASAYA WITH REIVEN](http://twitter.com/search?q=MARCH+MASAYA+WITH+REIVEN) | N/A |
-| 25 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 26 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
-| 27 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 1 | [ASAPCelebrate ALEXA DAY](http://twitter.com/search?q=ASAPCelebrate+ALEXA+DAY) | N/A |
+| 2 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 3 | [#OurFairyYeriDay](http://twitter.com/search?q=%23OurFairyYeriDay) | N/A |
+| 4 | [#예리의_스물다섯에게](http://twitter.com/search?q=%23%ec%98%88%eb%a6%ac%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%8b%a4%ec%84%af%ec%97%90%ea%b2%8c) | N/A |
+| 5 | [WALANG ARAY x STARMAGIC](http://twitter.com/search?q=WALANG+ARAY+x+STARMAGIC) | N/A |
+| 6 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 7 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 8 | [ASAP JAM WITH ANJI](http://twitter.com/search?q=ASAP+JAM+WITH+ANJI) | N/A |
+| 9 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
+| 10 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
+| 11 | [Go USTE](http://twitter.com/search?q=Go+USTE) | N/A |
+| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 13 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 14 | [BINGO NIGHT WITH JOSHCULLEN](http://twitter.com/search?q=BINGO+NIGHT+WITH+JOSHCULLEN) | N/A |
+| 15 | [MAYMAY BigWinnerANIMversary](http://twitter.com/search?q=MAYMAY+BigWinnerANIMversary) | N/A |
+| 16 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 17 | [iWantASAPerfect Match ALJAY](http://twitter.com/search?q=iWantASAPerfect+Match+ALJAY) | N/A |
+| 18 | [4 YEARS WITH TXT](http://twitter.com/search?q=4+YEARS+WITH+TXT) | N/A |
+| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 20 | [KINJI PA RIN SA ASAP](http://twitter.com/search?q=KINJI+PA+RIN+SA+ASAP) | N/A |
+| 21 | [Sheena B HelloMarch](http://twitter.com/search?q=Sheena+B+HelloMarch) | N/A |
+| 22 | [BGYO GOES TO PAMPANGA](http://twitter.com/search?q=BGYO+GOES+TO+PAMPANGA) | N/A |
+| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 24 | [iKONICS](http://twitter.com/search?q=iKONICS) | N/A |
+| 25 | [MARCHottest SUNDAY WithKICE](http://twitter.com/search?q=MARCHottest+SUNDAY+WithKICE) | N/A |
+| 26 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 27 | [MARCH MASAYA WITH REIVEN](http://twitter.com/search?q=MARCH+MASAYA+WITH+REIVEN) | N/A |
 | 28 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 29 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 30 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 31 | [Sara Duterte](http://twitter.com/search?q=Sara+Duterte) | N/A |
-| 32 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 33 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
-| 34 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 35 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
-| 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 37 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 38 | [toring](http://twitter.com/search?q=toring) | N/A |
+| 29 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 30 | [First Bias](http://twitter.com/search?q=First+Bias) | N/A |
+| 31 | [Ultimate Bias](http://twitter.com/search?q=Ultimate+Bias) | N/A |
+| 32 | [8 SVT](http://twitter.com/search?q=8+SVT) | N/A |
+| 33 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 34 | [Pepito](http://twitter.com/search?q=Pepito) | N/A |
+| 35 | [Negros Oriental](http://twitter.com/search?q=Negros+Oriental) | N/A |
+| 36 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 37 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 38 | [LIPAre YOU READY FOR HORI7ON](http://twitter.com/search?q=LIPAre+YOU+READY+FOR+HORI7ON) | N/A |
 | 39 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 40 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
-| 41 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
-| 42 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 43 | [pienagbenga with robxine](http://twitter.com/search?q=pienagbenga+with+robxine) | N/A |
-| 44 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
-| 45 | [zacham cho5en barkada](http://twitter.com/search?q=zacham+cho5en+barkada) | N/A |
-| 46 | [bgyo live on gv991](http://twitter.com/search?q=bgyo+live+on+gv991) | N/A |
-| 47 | [Gula](http://twitter.com/search?q=Gula) | N/A |
-| 48 | [Grabe UST](http://twitter.com/search?q=Grabe+UST) | N/A |
-| 49 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 40 | [toring](http://twitter.com/search?q=toring) | N/A |
+| 41 | [8 IU](http://twitter.com/search?q=8+IU) | N/A |
+| 42 | [WHO IN SEVENTEEN](http://twitter.com/search?q=WHO+IN+SEVENTEEN) | N/A |
+| 43 | [JIHOPE](http://twitter.com/search?q=JIHOPE) | N/A |
+| 44 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 45 | [pienagbenga with robxine](http://twitter.com/search?q=pienagbenga+with+robxine) | N/A |
+| 46 | [TREASURE ROCKS TAIPEI](http://twitter.com/search?q=TREASURE+ROCKS+TAIPEI) | N/A |
+| 47 | [zacham cho5en barkada](http://twitter.com/search?q=zacham+cho5en+barkada) | N/A |
+| 48 | [bgyo live on gv991](http://twitter.com/search?q=bgyo+live+on+gv991) | N/A |
+| 49 | [Gula](http://twitter.com/search?q=Gula) | N/A |
 
 
 

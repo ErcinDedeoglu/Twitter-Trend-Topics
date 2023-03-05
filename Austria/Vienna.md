@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-05 02:45:35 UTC`
+📆 Last Updated: `2023-03-05 03:26:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,12 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [waldhäusl](http://twitter.com/search?q=waldh%c3%a4usl) | N/A |
 | 18 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 19 | [altenrhein](http://twitter.com/search?q=altenrhein) | N/A |
-| 20 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 21 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 22 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 23 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 25 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 20 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 21 | [doskozil](http://twitter.com/search?q=doskozil) | N/A |
+| 22 | [Boulevard](http://twitter.com/search?q=Boulevard) | N/A |
+| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 24 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 25 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
 | 26 | [Neid](http://twitter.com/search?q=Neid) | N/A |
 | 27 | [Bart](http://twitter.com/search?q=Bart) | N/A |
 | 28 | [Heuchelei](http://twitter.com/search?q=Heuchelei) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Austria](</Austria>)
 | 33 | [Meister](http://twitter.com/search?q=Meister) | N/A |
 | 34 | [Ausnahmen](http://twitter.com/search?q=Ausnahmen) | N/A |
 | 35 | [Faschismus](http://twitter.com/search?q=Faschismus) | N/A |
-| 36 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 36 | [insekten](http://twitter.com/search?q=insekten) | N/A |
 | 37 | [Leser](http://twitter.com/search?q=Leser) | N/A |
 | 38 | [Glashaus](http://twitter.com/search?q=Glashaus) | N/A |
 | 39 | [Nachwuchs](http://twitter.com/search?q=Nachwuchs) | N/A |

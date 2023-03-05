@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-05 02:45:43 UTC`
+📆 Last Updated: `2023-03-05 03:26:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for [Norway](</Norway>)
 | 17 | [flytoget](http://twitter.com/search?q=flytoget) | N/A |
 | 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 19 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 20 | [bjørn](http://twitter.com/search?q=bj%c3%b8rn) | N/A |
+| 20 | [Bjørn](http://twitter.com/search?q=Bj%c3%b8rn) | N/A |
 | 21 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 22 | [Faen](http://twitter.com/search?q=Faen) | N/A |
 | 23 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |

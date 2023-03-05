@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-05 02:46:17 UTC`
+📆 Last Updated: `2023-03-05 03:27:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,11 +60,11 @@ This is top 50 for United Arab Emirates
 | 43 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 44 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 45 | [الجوله القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 46 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 47 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 48 | [علي اليوتيوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 49 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
-| 50 | [المتربصين الحاقدين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%a8%d8%b5%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d9%82%d8%af%d9%8a%d9%86) | N/A |
+| 46 | [علي اليوتيوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 47 | [Super Saturday](http://twitter.com/search?q=Super+Saturday) | N/A |
+| 48 | [المتربصين الحاقدين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%a8%d8%b5%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d9%82%d8%af%d9%8a%d9%86) | N/A |
+| 49 | [الايام المقبله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d9%87) | N/A |
+| 50 | [فوز العين](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
 
 
 

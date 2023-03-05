@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-05 02:45:33 UTC`
+📆 Last Updated: `2023-03-05 03:26:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 2 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 3 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 4 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
-| 5 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 2 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 3 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
+| 4 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 5 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
 | 6 | [Ibirapuera](http://twitter.com/search?q=Ibirapuera) | N/A |
-| 7 | [Tutu](http://twitter.com/search?q=Tutu) | N/A |
-| 8 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
-| 9 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 10 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
-| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 12 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 13 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
-| 14 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 7 | [CARLOS MIGUEL](http://twitter.com/search?q=CARLOS+MIGUEL) | N/A |
+| 8 | [tutu](http://twitter.com/search?q=tutu) | N/A |
+| 9 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
+| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 11 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 12 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
+| 13 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 14 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 15 | [11x3](http://twitter.com/search?q=11x3) | N/A |
-| 16 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 17 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 18 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 19 | [Sandra Annenberg](http://twitter.com/search?q=Sandra+Annenberg) | N/A |
-| 20 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 21 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
-| 22 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 23 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 24 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 25 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
-| 26 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 27 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
-| 28 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 31 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 32 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 33 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 34 | [COM VOCÊ DOMI](http://twitter.com/search?q=COM+VOC%c3%8a+DOMI) | N/A |
-| 35 | [Judson](http://twitter.com/search?q=Judson) | N/A |
-| 36 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 37 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 38 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 39 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
-| 40 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 41 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
-| 42 | [11x4](http://twitter.com/search?q=11x4) | N/A |
-| 43 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 44 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
+| 16 | [Sandra Annenberg](http://twitter.com/search?q=Sandra+Annenberg) | N/A |
+| 17 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 18 | [Roberta Miranda](http://twitter.com/search?q=Roberta+Miranda) | N/A |
+| 19 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 20 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
+| 21 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 22 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 23 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
+| 24 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
+| 25 | [DIA DE GREnal](http://twitter.com/search?q=DIA+DE+GREnal) | N/A |
+| 26 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
+| 27 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 28 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 29 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
+| 30 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
+| 31 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 32 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 33 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 34 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 35 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 36 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 37 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 38 | [Sonia Guajajara](http://twitter.com/search?q=Sonia+Guajajara) | N/A |
+| 39 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 40 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 41 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
+| 42 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 43 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 44 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
 | 45 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 46 | [Matheus Araújo](http://twitter.com/search?q=Matheus+Ara%c3%bajo) | N/A |
-| 47 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 48 | [Dias Antes](http://twitter.com/search?q=Dias+Antes) | N/A |
-| 49 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 50 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 46 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 47 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 48 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
+| 49 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 50 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
 
 
 

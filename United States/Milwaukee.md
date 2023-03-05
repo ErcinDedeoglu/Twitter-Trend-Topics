@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-05 02:46:12 UTC`
+📆 Last Updated: `2023-03-05 03:27:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 4 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
 | 5 | [#wisbb](http://twitter.com/search?q=%23wisbb) | N/A |
-| 6 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 8 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 9 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 10 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
-| 11 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 12 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 13 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 14 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 15 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 16 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
-| 19 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 20 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
-| 21 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 22 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
-| 23 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 24 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
-| 25 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 26 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
-| 27 | [Leaky](http://twitter.com/search?q=Leaky) | N/A |
-| 28 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 29 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 30 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 31 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 32 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
-| 33 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 34 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 35 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
-| 36 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 37 | [Copetti](http://twitter.com/search?q=Copetti) | N/A |
-| 38 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 39 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 40 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 41 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 42 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 43 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 44 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 45 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 46 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
-| 47 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
-| 48 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 49 | [Cody Garbrandt](http://twitter.com/search?q=Cody+Garbrandt) | N/A |
-| 50 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 6 | [#ChrisRock](http://twitter.com/search?q=%23ChrisRock) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 9 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 10 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 11 | [Hurd](http://twitter.com/search?q=Hurd) | N/A |
+| 12 | [#Myth3Dkitaaa](http://twitter.com/search?q=%23Myth3Dkitaaa) | N/A |
+| 13 | [Garbrandt](http://twitter.com/search?q=Garbrandt) | N/A |
+| 14 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 15 | [Tennessee Tech](http://twitter.com/search?q=Tennessee+Tech) | N/A |
+| 16 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 17 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 18 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 19 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 20 | [Trevin Jones](http://twitter.com/search?q=Trevin+Jones) | N/A |
+| 21 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 22 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 23 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 24 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 25 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 26 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
+| 27 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 28 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 29 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 30 | [SEMO](http://twitter.com/search?q=SEMO) | N/A |
+| 31 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 32 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 33 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 34 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 35 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
+| 36 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
+| 37 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 38 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 39 | [Aquille Carr](http://twitter.com/search?q=Aquille+Carr) | N/A |
+| 40 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
+| 41 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
+| 42 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 43 | [John Wall](http://twitter.com/search?q=John+Wall) | John Wall is the nickname of Johnathan Hildred Wall Jr., an American professional basketball player who currently plays for the Washington Wizards of the National Basketball Association (NBA). He is a five-time NBA All-Star and was selected first overall in the 2010 NBA draft. |
+| 44 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 45 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 47 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
+| 48 | [Seventh Woods](http://twitter.com/search?q=Seventh+Woods) | N/A |
+| 49 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 50 | [Copetti](http://twitter.com/search?q=Copetti) | N/A |
 
 
 

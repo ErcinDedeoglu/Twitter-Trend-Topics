@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-05 02:46:19 UTC`
+📆 Last Updated: `2023-03-05 03:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,28 +26,28 @@ This is top 50 for Ireland
 | 9 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
 | 11 | [#DRAvCON](http://twitter.com/search?q=%23DRAvCON) | N/A |
-| 12 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 12 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 | 13 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
 | 14 | [Boots](http://twitter.com/search?q=Boots) | Boots is a term used to describe a type of footwear that covers the foot and ankle, and sometimes even the lower leg. They are typically made of leather or rubber, and can be either heeled or flat. Boots are often worn for protection in certain activities, such as hiking or horseback riding, as well as for fashion. |
 | 15 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 16 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 17 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 18 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 16 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 17 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
+| 18 | [Philip](http://twitter.com/search?q=Philip) | N/A |
 | 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 20 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 21 | [tolka park](http://twitter.com/search?q=tolka+park) | N/A |
 | 22 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
 | 23 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
-| 24 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
-| 25 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 26 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 27 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 28 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 30 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 31 | [michael o'leary](http://twitter.com/search?q=michael+o%27leary) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 24 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 25 | [Brendan Rodgers](http://twitter.com/search?q=Brendan+Rodgers) | N/A |
+| 26 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 27 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 28 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 29 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 30 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 32 | [michael o'leary](http://twitter.com/search?q=michael+o%27leary) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 34 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
 | 35 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 36 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |

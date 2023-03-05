@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-05 02:46:21 UTC`
+📆 Last Updated: `2023-03-05 03:27:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for Lebanon
 | 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 3 | [علي الاكبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
 | 4 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 5 | [#الكيان_الموقت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
-| 6 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
-| 7 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 5 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
+| 6 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 7 | [#الكيان_الموقت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
 | 8 | [#thestage](http://twitter.com/search?q=%23thestage) | N/A |
 | 9 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
 | 10 | [وديع عقل](http://twitter.com/search?q=%d9%88%d8%af%d9%8a%d8%b9+%d8%b9%d9%82%d9%84) | N/A |

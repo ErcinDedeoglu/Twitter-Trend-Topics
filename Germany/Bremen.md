@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-05 02:45:38 UTC`
+📆 Last Updated: `2023-03-05 03:26:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#VfBFCB](http://twitter.com/search?q=%23VfBFCB) | N/A |
 | 2 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 3 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 4 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
-| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 5 | [#BOCS04](http://twitter.com/search?q=%23BOCS04) | N/A |
 | 6 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 7 | [#ESC2023](http://twitter.com/search?q=%23ESC2023) | N/A |
 | 8 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
@@ -31,10 +31,10 @@ This is top 50 for [Germany](</Germany>)
 | 14 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 15 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 16 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 17 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 18 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 19 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 20 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 17 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 18 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 19 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 20 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 21 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
 | 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 23 | [Protest](http://twitter.com/search?q=Protest) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [Germany](</Germany>)
 | 32 | [Ikke Hüftgold](http://twitter.com/search?q=Ikke+H%c3%bcftgold) | N/A |
 | 33 | [Drinks](http://twitter.com/search?q=Drinks) | N/A |
 | 34 | [Kuriose Bilder](http://twitter.com/search?q=Kuriose+Bilder) | N/A |
-| 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 36 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 35 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
+| 36 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 37 | [bochumer](http://twitter.com/search?q=bochumer) | N/A |
 | 38 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 39 | [Künstlers](http://twitter.com/search?q=K%c3%bcnstlers) | N/A |
+| 39 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
 | 40 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
 | 41 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 42 | [Mitbürger](http://twitter.com/search?q=Mitb%c3%bcrger) | N/A |
-| 43 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 44 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
-| 45 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 46 | [Adler](http://twitter.com/search?q=Adler) | N/A |
-| 47 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 48 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 49 | [Dani Karavan](http://twitter.com/search?q=Dani+Karavan) | N/A |
-| 50 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 42 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 43 | [Patty Gurdy](http://twitter.com/search?q=Patty+Gurdy) | N/A |
+| 44 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 45 | [Adler](http://twitter.com/search?q=Adler) | N/A |
+| 46 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 47 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 48 | [Dani Karavan](http://twitter.com/search?q=Dani+Karavan) | N/A |
+| 49 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 50 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
 
 
 
