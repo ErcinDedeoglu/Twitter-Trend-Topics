@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-05 13:18:42 UTC`
+📆 Last Updated: `2023-03-05 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 2 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 3 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
-| 4 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 5 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 6 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
+| 3 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 4 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 5 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 6 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
 | 7 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
-| 8 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
-| 9 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 8 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 9 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
 | 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 11 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 13 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 14 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 15 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
-| 16 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 17 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
-| 18 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
-| 19 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 20 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 21 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 22 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
-| 23 | [Andrew Rawnsley](http://twitter.com/search?q=Andrew+Rawnsley) | N/A |
-| 24 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
-| 25 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 26 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 27 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 28 | [Cornish](http://twitter.com/search?q=Cornish) | N/A |
-| 29 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 30 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 31 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 32 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
-| 33 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
-| 34 | [The North](http://twitter.com/search?q=The+North) | N/A |
-| 35 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 36 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
-| 37 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 38 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 39 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 40 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 42 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 43 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 44 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 45 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 46 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 47 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 48 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 49 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 12 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 13 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 14 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 15 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 16 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 17 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 19 | [Colback](http://twitter.com/search?q=Colback) | N/A |
+| 20 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 21 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 22 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
+| 23 | [Alistair Johnston](http://twitter.com/search?q=Alistair+Johnston) | N/A |
+| 24 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 25 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 26 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 27 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 28 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 29 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
+| 30 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 31 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
+| 32 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
+| 33 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
+| 34 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
+| 35 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 36 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
+| 37 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 38 | [andrew rawnsley](http://twitter.com/search?q=andrew+rawnsley) | N/A |
+| 39 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 40 | [City Ground](http://twitter.com/search?q=City+Ground) | N/A |
+| 41 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
+| 42 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 43 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 44 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 45 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
+| 46 | [Ashworth](http://twitter.com/search?q=Ashworth) | N/A |
+| 47 | [England C](http://twitter.com/search?q=England+C) | N/A |
+| 48 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 49 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 
 
 

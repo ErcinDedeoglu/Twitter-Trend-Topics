@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-05 13:18:39 UTC`
+📆 Last Updated: `2023-03-05 14:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 2 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
-| 3 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 4 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 5 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 6 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 7 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 8 | [The WHO](http://twitter.com/search?q=The+WHO) | N/A |
-| 9 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
-| 10 | [Desperate](http://twitter.com/search?q=Desperate) | N/A |
-| 11 | [#COYR](http://twitter.com/search?q=%23COYR) | N/A |
-| 12 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 13 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
-| 14 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 15 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 16 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
-| 17 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
-| 18 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
-| 19 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 20 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 21 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 22 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 23 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
-| 24 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
-| 25 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 26 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 27 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
-| 28 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
-| 29 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 30 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 31 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
-| 32 | [Andrew Rawnsley](http://twitter.com/search?q=Andrew+Rawnsley) | N/A |
-| 33 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
-| 34 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 35 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 36 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 37 | [Cornish](http://twitter.com/search?q=Cornish) | N/A |
-| 38 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 39 | [Jonathan Ashworth](http://twitter.com/search?q=Jonathan+Ashworth) | N/A |
-| 40 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
-| 41 | [The North](http://twitter.com/search?q=The+North) | N/A |
-| 42 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 43 | [The Clash](http://twitter.com/search?q=The+Clash) | N/A |
-| 44 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 45 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 46 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 47 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 49 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 50 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 1 | [RACE DAY](http://twitter.com/search?q=RACE+DAY) | N/A |
+| 2 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 3 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 4 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 5 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 6 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 7 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 8 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 9 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 10 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 11 | [Civil Service](http://twitter.com/search?q=Civil+Service) | N/A |
+| 12 | [The WHO](http://twitter.com/search?q=The+WHO) | N/A |
+| 13 | [Desperate](http://twitter.com/search?q=Desperate) | N/A |
+| 14 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 15 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 16 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 17 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 18 | [Andy Walker](http://twitter.com/search?q=Andy+Walker) | Andy Walker is a British slang term used to describe someone who is very slow or lazy. It is derived from the phrase "and he walks," which implies that the person in question moves at a very slow pace. |
+| 19 | [#STMCEL](http://twitter.com/search?q=%23STMCEL) | N/A |
+| 20 | [Kris Boyd](http://twitter.com/search?q=Kris+Boyd) | N/A |
+| 21 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 22 | [Andrew Dallas](http://twitter.com/search?q=Andrew+Dallas) | N/A |
+| 23 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 24 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 25 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 26 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 27 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 28 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 29 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 30 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 31 | [Colback](http://twitter.com/search?q=Colback) | N/A |
+| 32 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 33 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 34 | [Ledley](http://twitter.com/search?q=Ledley) | N/A |
+| 35 | [Alistair Johnston](http://twitter.com/search?q=Alistair+Johnston) | N/A |
+| 36 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 37 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 38 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 39 | [Chris Heaton](http://twitter.com/search?q=Chris+Heaton) | N/A |
+| 40 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 41 | [Dunne](http://twitter.com/search?q=Dunne) | N/A |
+| 42 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 43 | [Joe Hart](http://twitter.com/search?q=Joe+Hart) | Joe Hart is a British professional footballer who plays as a goalkeeper for Premier League club Burnley and the England national team. He is known for his reflexes, shot-stopping ability, and command of his area. |
+| 44 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
+| 45 | [Dan Hodges](http://twitter.com/search?q=Dan+Hodges) | N/A |
+| 46 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 47 | [Rhodes](http://twitter.com/search?q=Rhodes) | Rhodes is a Greek island located in the Aegean Sea. It is the largest of the Dodecanese islands and is known for its rich history, beautiful beaches, and vibrant culture. In English, Rhodes means "rose-colored." |
+| 48 | [Steve Cooper](http://twitter.com/search?q=Steve+Cooper) | N/A |
+| 49 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 50 | [andrew rawnsley](http://twitter.com/search?q=andrew+rawnsley) | N/A |
 
 
 

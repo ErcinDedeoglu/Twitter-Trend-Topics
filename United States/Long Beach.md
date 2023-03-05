@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-05 13:19:22 UTC`
+📆 Last Updated: `2023-03-05 14:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 2 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 3 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 2 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 3 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 4 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
 | 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 10 | [#ALadiesMainDealbreaker](http://twitter.com/search?q=%23ALadiesMainDealbreaker) | N/A |
-| 11 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
-| 12 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 13 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 14 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 15 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 16 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 8 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 9 | [#MurderousMoviesAndShows](http://twitter.com/search?q=%23MurderousMoviesAndShows) | N/A |
+| 10 | [Daily Quordle 405](http://twitter.com/search?q=Daily+Quordle+405) | N/A |
+| 11 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 12 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 13 | [Larry Hogan](http://twitter.com/search?q=Larry+Hogan) | N/A |
+| 14 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 15 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 16 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
 | 17 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 18 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 19 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
-| 20 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 21 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
-| 22 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 23 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 24 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 25 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 26 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 27 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 18 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 19 | [Coamo](http://twitter.com/search?q=Coamo) | N/A |
+| 20 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
+| 21 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 22 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 23 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 24 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 25 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 26 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 27 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
 | 28 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 29 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 30 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 31 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
-| 32 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 33 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 34 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 35 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
-| 36 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 37 | [Heavyweight](http://twitter.com/search?q=Heavyweight) | N/A |
-| 38 | [josh gordon](http://twitter.com/search?q=josh+gordon) | N/A |
-| 39 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 40 | [Rakhmonov](http://twitter.com/search?q=Rakhmonov) | N/A |
-| 41 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 42 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
-| 43 | [Shavkat](http://twitter.com/search?q=Shavkat) | N/A |
-| 44 | [#ไบเบิ้ลบิว](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 45 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 46 | [#Wordle624](http://twitter.com/search?q=%23Wordle624) | N/A |
-| 47 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
-| 48 | [#BibleBuild](http://twitter.com/search?q=%23BibleBuild) | #BibleBuild is a hashtag used to promote Bible literacy and encourage people to read the Bible. It is often used in conjunction with Bible study groups, church events, and other activities that promote the reading of Scripture. The hashtag is meant to encourage people to build their knowledge of the Bible and deepen their understanding of its teachings. |
-| 49 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 50 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 29 | [Viva Mexico](http://twitter.com/search?q=Viva+Mexico) | "Viva Mexico" is a phrase used to express pride and patriotism for Mexico. It translates to "Long live Mexico" in English. |
+| 30 | [Judaism](http://twitter.com/search?q=Judaism) | N/A |
+| 31 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 32 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 33 | [Thank Me Later](http://twitter.com/search?q=Thank+Me+Later) | N/A |
+| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 35 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 36 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 37 | [Kush](http://twitter.com/search?q=Kush) | N/A |
+| 38 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 39 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 40 | [Notifications](http://twitter.com/search?q=Notifications) | Notifications are messages that alert a user to an event or activity. They can be used to inform users of new emails, updates, or other activities that require their attention. Notifications can also be used to remind users of upcoming events or tasks. |
+| 41 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 42 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 43 | [Shevchenko](http://twitter.com/search?q=Shevchenko) | N/A |
+| 44 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 45 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 46 | [X-Play](http://twitter.com/search?q=X-Play) | N/A |
+| 47 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 48 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 49 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 50 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
 
 
 

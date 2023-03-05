@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-05 13:19:18 UTC`
+📆 Last Updated: `2023-03-05 14:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Amedsporyalnızdeğildir](http://twitter.com/search?q=%23Amedsporyaln%c4%b1zde%c4%9fildir) | N/A |
-| 2 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 3 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
-| 4 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
-| 5 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 6 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
-| 7 | [Yeşil](http://twitter.com/search?q=Ye%c5%9fil) | N/A |
-| 8 | [Bir Olma Vakti](http://twitter.com/search?q=Bir+Olma+Vakti) | N/A |
-| 9 | [NeGüzel AllahVar](http://twitter.com/search?q=NeG%c3%bczel+AllahVar) | N/A |
-| 10 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 11 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
-| 12 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 13 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
-| 14 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 2 | [#Bursaspor](http://twitter.com/search?q=%23Bursaspor) | N/A |
+| 3 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 4 | [Beyaz Toros](http://twitter.com/search?q=Beyaz+Toros) | N/A |
+| 5 | [#Seçimi100BinBelirleyecek](http://twitter.com/search?q=%23Se%c3%a7imi100BinBelirleyecek) | N/A |
+| 6 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
+| 7 | [#Teksas](http://twitter.com/search?q=%23Teksas) | N/A |
+| 8 | [Enver Cenk Şahin](http://twitter.com/search?q=Enver+Cenk+%c5%9eahin) | N/A |
+| 9 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 10 | [Yeşil](http://twitter.com/search?q=Ye%c5%9fil) | N/A |
+| 11 | [bir olma vakti](http://twitter.com/search?q=bir+olma+vakti) | N/A |
+| 12 | [negüzel allahvar](http://twitter.com/search?q=neg%c3%bczel+allahvar) | N/A |
+| 13 | [NE MUTLU TÜRKÜM DİYENE](http://twitter.com/search?q=NE+MUTLU+T%c3%9cRK%c3%9cM+D%c4%b0YENE) | N/A |
+| 14 | [SmaMetine UmutOl](http://twitter.com/search?q=SmaMetine+UmutOl) | N/A |
 | 15 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
-| 16 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 17 | [Ruhat Mengi](http://twitter.com/search?q=Ruhat+Mengi) | N/A |
-| 18 | [Profilimize KimlerBakıyor](http://twitter.com/search?q=Profilimize+KimlerBak%c4%b1yor) | N/A |
-| 19 | [Çağatay](http://twitter.com/search?q=%c3%87a%c4%9fatay) | N/A |
-| 20 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
-| 21 | [İstiklal Marşı](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1) | N/A |
+| 16 | [Mahmut Yıldırım](http://twitter.com/search?q=Mahmut+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 17 | [İstiklal](http://twitter.com/search?q=%c4%b0stiklal) | N/A |
+| 18 | [Sezgin](http://twitter.com/search?q=Sezgin) | N/A |
+| 19 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 20 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 21 | [Ruhat Mengi](http://twitter.com/search?q=Ruhat+Mengi) | N/A |
 | 22 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
 | 23 | [Jitem](http://twitter.com/search?q=Jitem) | N/A |
-| 24 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 25 | [Türküm](http://twitter.com/search?q=T%c3%bcrk%c3%bcm) | N/A |
-| 26 | [Polis](http://twitter.com/search?q=Polis) | N/A |
-| 27 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
-| 28 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
-| 29 | [Fuchs](http://twitter.com/search?q=Fuchs) | N/A |
-| 30 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
-| 31 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
-| 32 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 33 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
-| 34 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 35 | [Maçı](http://twitter.com/search?q=Ma%c3%a7%c4%b1) | N/A |
-| 36 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
-| 37 | [Kısasa](http://twitter.com/search?q=K%c4%b1sasa) | N/A |
-| 38 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
-| 39 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 40 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 41 | [Barbar](http://twitter.com/search?q=Barbar) | N/A |
-| 42 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 43 | [Terör](http://twitter.com/search?q=Ter%c3%b6r) | N/A |
-| 44 | [Beşli Çete](http://twitter.com/search?q=Be%c5%9fli+%c3%87ete) | N/A |
-| 45 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 46 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
-| 47 | [TFF 2](http://twitter.com/search?q=TFF+2) | N/A |
-| 48 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
-| 49 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 24 | [Çağatay](http://twitter.com/search?q=%c3%87a%c4%9fatay) | N/A |
+| 25 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
+| 26 | [Faşizm](http://twitter.com/search?q=Fa%c5%9fizm) | N/A |
+| 27 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 28 | [Polis](http://twitter.com/search?q=Polis) | N/A |
+| 29 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
+| 30 | [Pişi](http://twitter.com/search?q=Pi%c5%9fi) | N/A |
+| 31 | [Oruspu](http://twitter.com/search?q=Oruspu) | N/A |
+| 32 | [TFF 2](http://twitter.com/search?q=TFF+2) | N/A |
+| 33 | [Burası Türkiye](http://twitter.com/search?q=Buras%c4%b1+T%c3%bcrkiye) | N/A |
+| 34 | [Fuchs](http://twitter.com/search?q=Fuchs) | N/A |
+| 35 | [Aponun](http://twitter.com/search?q=Aponun) | N/A |
+| 36 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 37 | [Mehmet Cengiz](http://twitter.com/search?q=Mehmet+Cengiz) | N/A |
+| 38 | [koyduk](http://twitter.com/search?q=koyduk) | N/A |
+| 39 | [Kısasa](http://twitter.com/search?q=K%c4%b1sasa) | N/A |
+| 40 | [Köşem](http://twitter.com/search?q=K%c3%b6%c5%9fem) | N/A |
+| 41 | [Beşli Çete](http://twitter.com/search?q=Be%c5%9fli+%c3%87ete) | N/A |
+| 42 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
+| 43 | [Maçı](http://twitter.com/search?q=Ma%c3%a7%c4%b1) | N/A |
+| 44 | [Barbar](http://twitter.com/search?q=Barbar) | N/A |
+| 45 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 46 | [Lokma](http://twitter.com/search?q=Lokma) | N/A |
+| 47 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 48 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
 
 
 

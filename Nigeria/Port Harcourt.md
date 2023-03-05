@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-05 13:19:08 UTC`
+📆 Last Updated: `2023-03-05 14:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#TheLagosIslandBoy](http://twitter.com/search?q=%23TheLagosIslandBoy) | N/A |
-| 3 | [#PrimalIEO](http://twitter.com/search?q=%23PrimalIEO) | N/A |
-| 4 | [#PeterGoWork](http://twitter.com/search?q=%23PeterGoWork) | N/A |
+| 2 | [#PeterGoWork](http://twitter.com/search?q=%23PeterGoWork) | N/A |
+| 3 | [#TheLagosIslandBoy](http://twitter.com/search?q=%23TheLagosIslandBoy) | N/A |
+| 4 | [#PrimallEO](http://twitter.com/search?q=%23PrimallEO) | N/A |
 | 5 | [20 SANs](http://twitter.com/search?q=20+SANs) | N/A |
 | 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 7 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 8 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 9 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 8 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 9 | [NBA President](http://twitter.com/search?q=NBA+President) | N/A |
 | 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 12 | [Kwam 1](http://twitter.com/search?q=Kwam+1) | N/A |
-| 13 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 14 | [NBA President](http://twitter.com/search?q=NBA+President) | N/A |
-| 15 | [2baba](http://twitter.com/search?q=2baba) | N/A |
-| 16 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
-| 17 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 18 | [Uzodinma](http://twitter.com/search?q=Uzodinma) | N/A |
-| 19 | [Eluu P](http://twitter.com/search?q=Eluu+P) | N/A |
-| 20 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
-| 21 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
-| 22 | [Festus](http://twitter.com/search?q=Festus) | N/A |
-| 23 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
-| 24 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 25 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
-| 26 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
-| 27 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 28 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
-| 29 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 30 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 31 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 32 | [Awolowo](http://twitter.com/search?q=Awolowo) | N/A |
+| 11 | [Rapunzel](http://twitter.com/search?q=Rapunzel) | N/A |
+| 12 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 13 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 14 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 15 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 16 | [Festus](http://twitter.com/search?q=Festus) | N/A |
+| 17 | [Kwam 1](http://twitter.com/search?q=Kwam+1) | N/A |
+| 18 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
+| 19 | [Uzodinma](http://twitter.com/search?q=Uzodinma) | N/A |
+| 20 | [2baba](http://twitter.com/search?q=2baba) | N/A |
+| 21 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 22 | [Eluu P](http://twitter.com/search?q=Eluu+P) | N/A |
+| 23 | [Lagosian](http://twitter.com/search?q=Lagosian) | N/A |
+| 24 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 25 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
+| 26 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
+| 27 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 28 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
+| 29 | [Return](http://twitter.com/search?q=Return) | N/A |
+| 30 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 31 | [Thanksgiving](http://twitter.com/search?q=Thanksgiving) | N/A |
+| 32 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
 | 33 | [Sanwo-Olu](http://twitter.com/search?q=Sanwo-Olu) | N/A |
-| 34 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 35 | [Hippo](http://twitter.com/search?q=Hippo) | N/A |
-| 36 | [Sanwolu](http://twitter.com/search?q=Sanwolu) | N/A |
-| 37 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
-| 38 | [Nupe](http://twitter.com/search?q=Nupe) | N/A |
-| 39 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 40 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 41 | [#PastorKumuyiSaid](http://twitter.com/search?q=%23PastorKumuyiSaid) | N/A |
-| 42 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 43 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
-| 44 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 45 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
-| 46 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
-| 47 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
-| 48 | [#BLACKPINK_BORNPINKENCORE](http://twitter.com/search?q=%23BLACKPINK_BORNPINKENCORE) | N/A |
+| 34 | [Hippo](http://twitter.com/search?q=Hippo) | N/A |
+| 35 | [Sanwolu](http://twitter.com/search?q=Sanwolu) | N/A |
+| 36 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
+| 37 | [#PastorKumuyiSaid](http://twitter.com/search?q=%23PastorKumuyiSaid) | N/A |
+| 38 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 39 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 40 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 41 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
+| 42 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
+| 43 | [#sexlife](http://twitter.com/search?q=%23sexlife) | N/A |
+| 44 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
+| 45 | [#BinaniIsComing](http://twitter.com/search?q=%23BinaniIsComing) | N/A |
 
 
 

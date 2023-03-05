@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-05 13:18:50 UTC`
+📆 Last Updated: `2023-03-05 14:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,52 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 2 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 3 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 4 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
-| 5 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 6 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
-| 7 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 8 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
-| 9 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 10 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 11 | [#F2noBandSports](http://twitter.com/search?q=%23F2noBandSports) | N/A |
-| 12 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
-| 13 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
-| 14 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
-| 15 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 2 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 3 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 4 | [Scarpa](http://twitter.com/search?q=Scarpa) | Scarpa is an Italian word meaning "shoe". It is also the name of a popular Italian footwear brand. |
+| 5 | [KEY MERECE RESPEITO](http://twitter.com/search?q=KEY+MERECE+RESPEITO) | N/A |
+| 6 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 7 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 8 | [Flamengo x Vasco](http://twitter.com/search?q=Flamengo+x+Vasco) | N/A |
+| 9 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 10 | [BOM DIA É O CARALHO](http://twitter.com/search?q=BOM+DIA+%c3%89+O+CARALHO) | N/A |
+| 11 | [#MISTINExFreenBecky](http://twitter.com/search?q=%23MISTINExFreenBecky) | N/A |
+| 12 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
+| 13 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
+| 14 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 15 | [HOJE É GUERRA](http://twitter.com/search?q=HOJE+%c3%89+GUERRA) | N/A |
 | 16 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 17 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 18 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 19 | [VAI TOMAR NO CU FLAMENGO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+FLAMENGO) | N/A |
-| 20 | [RIVAIS SIM](http://twitter.com/search?q=RIVAIS+SIM) | N/A |
-| 21 | [INIMIGOS TAMBÉM](http://twitter.com/search?q=INIMIGOS+TAMB%c3%89M) | N/A |
-| 22 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 24 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 25 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
-| 26 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 27 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 28 | [BaVi](http://twitter.com/search?q=BaVi) | N/A |
-| 29 | [Klara](http://twitter.com/search?q=Klara) | N/A |
-| 30 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 31 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
-| 32 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 33 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
-| 34 | [Sandra Annenberg](http://twitter.com/search?q=Sandra+Annenberg) | N/A |
-| 35 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 36 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 37 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 38 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 39 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 40 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 41 | [Michele](http://twitter.com/search?q=Michele) | N/A |
-| 42 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 43 | [#LulaReconstruindoOBrasil](http://twitter.com/search?q=%23LulaReconstruindoOBrasil) | N/A |
-| 44 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 45 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 17 | [José Rainha](http://twitter.com/search?q=Jos%c3%a9+Rainha) | N/A |
+| 18 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 19 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 20 | [Maloney](http://twitter.com/search?q=Maloney) | N/A |
+| 21 | [RIVAIS SIM](http://twitter.com/search?q=RIVAIS+SIM) | N/A |
+| 22 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 23 | [INIMIGOS TAMBÉM](http://twitter.com/search?q=INIMIGOS+TAMB%c3%89M) | N/A |
+| 24 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
+| 25 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 26 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
+| 27 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 28 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 29 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 30 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 31 | [BaVi](http://twitter.com/search?q=BaVi) | N/A |
+| 32 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 33 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 34 | [BOM DIAAAA](http://twitter.com/search?q=BOM+DIAAAA) | N/A |
+| 35 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 36 | [DIA DE GUERRA](http://twitter.com/search?q=DIA+DE+GUERRA) | N/A |
+| 37 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 38 | [Dark Souls 2](http://twitter.com/search?q=Dark+Souls+2) | N/A |
+| 39 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
+| 40 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 42 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 43 | [Clássico](http://twitter.com/search?q=Cl%c3%a1ssico) | N/A |
+| 44 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 45 | [Klara](http://twitter.com/search?q=Klara) | N/A |
+| 46 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
+| 47 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
 
 
 

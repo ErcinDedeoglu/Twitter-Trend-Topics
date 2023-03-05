@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-05 13:18:55 UTC`
+📆 Last Updated: `2023-03-05 14:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CePostaPerTe](http://twitter.com/search?q=%23CePostaPerTe) | #CePostaPerTe is an Italian hashtag that translates to "This Post Is For You". It is often used on social media to share content with a specific person or group of people. |
-| 2 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 3 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
-| 4 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 5 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 6 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 9 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 10 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 12 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
-| 13 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 14 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 15 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
-| 16 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 17 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 18 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 20 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 21 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 22 | [giacomo giorgio](http://twitter.com/search?q=giacomo+giorgio) | N/A |
-| 23 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
-| 24 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 25 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 26 | [Bologna](http://twitter.com/search?q=Bologna) | N/A |
-| 27 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 28 | [Pier Paolo Pasolini](http://twitter.com/search?q=Pier+Paolo+Pasolini) | N/A |
-| 29 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 30 | [Dario Argento](http://twitter.com/search?q=Dario+Argento) | N/A |
-| 31 | [Ikone](http://twitter.com/search?q=Ikone) | N/A |
-| 32 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 33 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
-| 34 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 35 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
-| 36 | [Dico](http://twitter.com/search?q=Dico) | N/A |
-| 37 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 38 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 39 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
-| 40 | [Meloni e Valditara](http://twitter.com/search?q=Meloni+e+Valditara) | N/A |
-| 41 | [sarri](http://twitter.com/search?q=sarri) | N/A |
-| 42 | [Ritorno](http://twitter.com/search?q=Ritorno) | N/A |
-| 43 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
-| 44 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
-| 45 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 46 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 47 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 48 | [Gelmini](http://twitter.com/search?q=Gelmini) | N/A |
+| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 3 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 4 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
+| 5 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 6 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 7 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 8 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 9 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 10 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 11 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 12 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 13 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 14 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 15 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 16 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 17 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 18 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 19 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 21 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 22 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 23 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 24 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
+| 25 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
+| 26 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 27 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 28 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
+| 29 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 30 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 31 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 32 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 33 | [Dario Argento](http://twitter.com/search?q=Dario+Argento) | N/A |
+| 34 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 35 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 36 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 37 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 38 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 39 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 40 | [giacomo giorgio](http://twitter.com/search?q=giacomo+giorgio) | N/A |
+| 41 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 44 | [Bologna](http://twitter.com/search?q=Bologna) | N/A |
+| 45 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [Pier Paolo Pasolini](http://twitter.com/search?q=Pier+Paolo+Pasolini) | N/A |
+| 48 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
 
 
 
