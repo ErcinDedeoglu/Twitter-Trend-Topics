@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-05 01:46:13 UTC`
+📆 Last Updated: `2023-03-05 02:46:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
-| 2 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
-| 3 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [#KabzaaTrailer](http://twitter.com/search?q=%23KabzaaTrailer) | N/A |
-| 7 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 8 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 9 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 10 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 11 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 12 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
-| 13 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 14 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 15 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
-| 16 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 17 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 18 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 19 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 20 | [pathaan biggest grosser](http://twitter.com/search?q=pathaan+biggest+grosser) | N/A |
-| 21 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
-| 24 | [scene changer emiway](http://twitter.com/search?q=scene+changer+emiway) | N/A |
-| 25 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 26 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
-| 27 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 28 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
-| 29 | [with palash flowers](http://twitter.com/search?q=with+palash+flowers) | N/A |
-| 30 | [1 year of mera suffer](http://twitter.com/search?q=1+year+of+mera+suffer) | N/A |
-| 31 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
-| 32 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 33 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 34 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
-| 37 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
-| 38 | [AP Dhillon](http://twitter.com/search?q=AP+Dhillon) | N/A |
-| 39 | [Tamil Nadu](http://twitter.com/search?q=Tamil+Nadu) | N/A |
-| 40 | [लोकप्रिय मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [Angela](http://twitter.com/search?q=Angela) | N/A |
-| 42 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Suprabhatam](http://twitter.com/search?q=Suprabhatam) | N/A |
-| 48 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 49 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 1 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
+| 2 | [#WPL2023](http://twitter.com/search?q=%23WPL2023) | N/A |
+| 3 | [#निज_स्वरूप_में_जाग](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%bf%e0%a4%9c_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%9c%e0%a4%be%e0%a4%97) | N/A |
+| 4 | [Mahila Utthan Mandal](http://twitter.com/search?q=Mahila+Utthan+Mandal) | N/A |
+| 5 | [Nari Tu Narayani](http://twitter.com/search?q=Nari+Tu+Narayani) | N/A |
+| 6 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
+| 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 8 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 13 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 14 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 15 | [राष्ट्रीय सुरक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 16 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 17 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 18 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 19 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 20 | [Special Program](http://twitter.com/search?q=Special+Program) | N/A |
+| 21 | [श्री सूर्य](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 22 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 23 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 24 | [गंगूबाई हंगल](http://twitter.com/search?q=%e0%a4%97%e0%a4%82%e0%a4%97%e0%a5%82%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b9%e0%a4%82%e0%a4%97%e0%a4%b2) | N/A |
+| 25 | [Harmanpreet K](http://twitter.com/search?q=Harmanpreet+K) | N/A |
+| 26 | [लोकप्रिय मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 28 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 29 | [pathaan biggest grosser](http://twitter.com/search?q=pathaan+biggest+grosser) | N/A |
+| 30 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 31 | [scene changer emiway](http://twitter.com/search?q=scene+changer+emiway) | N/A |
+| 32 | [Union of States](http://twitter.com/search?q=Union+of+States) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 35 | [with palash flowers](http://twitter.com/search?q=with+palash+flowers) | N/A |
+| 36 | [Amelia Kerr](http://twitter.com/search?q=Amelia+Kerr) | N/A |
+| 37 | [1 year of mera suffer](http://twitter.com/search?q=1+year+of+mera+suffer) | N/A |
+| 38 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 39 | [LackOf PoliticalWill 4SSRCs](http://twitter.com/search?q=LackOf+PoliticalWill+4SSRCs) | N/A |
+| 40 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 41 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 42 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 43 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 44 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 46 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 47 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 48 | [Sushant TVDebut As Preet](http://twitter.com/search?q=Sushant+TVDebut+As+Preet) | N/A |
+| 49 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-03-05 01:45:43 UTC`
+📆 Last Updated: `2023-03-05 02:45:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 2 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 3 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 4 | [Oscar Jiménez](http://twitter.com/search?q=Oscar+Jim%c3%a9nez) | N/A |
-| 5 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 4 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 5 | [Layun](http://twitter.com/search?q=Layun) | N/A |
 | 6 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 7 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 8 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
-| 9 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
-| 10 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 11 | [Papo](http://twitter.com/search?q=Papo) | N/A |
-| 12 | [Combate](http://twitter.com/search?q=Combate) | N/A |
-| 13 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
-| 14 | [#LaliStarPlusLive](http://twitter.com/search?q=%23LaliStarPlusLive) | N/A |
-| 15 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 16 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
-| 17 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 18 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 19 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 20 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 22 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 23 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
-| 24 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 25 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
-| 26 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 27 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 28 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 29 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
-| 30 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 31 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 32 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 33 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 34 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 35 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 36 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 37 | [Lorenzo Córdoba](http://twitter.com/search?q=Lorenzo+C%c3%b3rdoba) | N/A |
-| 38 | [#TheWorldIsAVampire](http://twitter.com/search?q=%23TheWorldIsAVampire) | N/A |
-| 39 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 40 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
-| 41 | [#JuntosEnAcción](http://twitter.com/search?q=%23JuntosEnAcci%c3%b3n) | N/A |
-| 42 | [#kimetsuworldtour](http://twitter.com/search?q=%23kimetsuworldtour) | N/A |
-| 43 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 44 | [#ArribaElMonterrey](http://twitter.com/search?q=%23ArribaElMonterrey) | N/A |
-| 45 | [#dne라틴아메리카콘서트](http://twitter.com/search?q=%23dne%eb%9d%bc%ed%8b%b4%ec%95%84%eb%a9%94%eb%a6%ac%ec%b9%b4%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
-| 46 | [#ASOT2023](http://twitter.com/search?q=%23ASOT2023) | N/A |
-| 47 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 48 | [#DemonSlayerWorldTour](http://twitter.com/search?q=%23DemonSlayerWorldTour) | N/A |
-| 49 | [#obesidad](http://twitter.com/search?q=%23obesidad) | N/A |
-| 50 | [#DnETourInLATAM](http://twitter.com/search?q=%23DnETourInLATAM) | N/A |
+| 7 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 8 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 9 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 10 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 11 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 12 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 13 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 14 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 15 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 16 | [ANIVERSARIO DREAM TOUR](http://twitter.com/search?q=ANIVERSARIO+DREAM+TOUR) | N/A |
+| 17 | [Papo](http://twitter.com/search?q=Papo) | N/A |
+| 18 | [#FMSArgentina](http://twitter.com/search?q=%23FMSArgentina) | N/A |
+| 19 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 20 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 21 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 22 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
+| 23 | [#94AñosPRI](http://twitter.com/search?q=%2394A%c3%b1osPRI) | N/A |
+| 24 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 25 | [Larrix](http://twitter.com/search?q=Larrix) | N/A |
+| 26 | [Combate](http://twitter.com/search?q=Combate) | N/A |
+| 27 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 28 | [Barovero](http://twitter.com/search?q=Barovero) | N/A |
+| 29 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 30 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 31 | [Coapa](http://twitter.com/search?q=Coapa) | N/A |
+| 32 | [Portero](http://twitter.com/search?q=Portero) | N/A |
+| 33 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
+| 34 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 35 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 36 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 37 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 38 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 39 | [Víctor Guzmán](http://twitter.com/search?q=V%c3%adctor+Guzm%c3%a1n) | N/A |
+| 40 | [Botín](http://twitter.com/search?q=Bot%c3%adn) | N/A |
+| 41 | [Eurípides](http://twitter.com/search?q=Eur%c3%adpides) | N/A |
+| 42 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 43 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 44 | [Vaca](http://twitter.com/search?q=Vaca) | N/A |
+| 45 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 46 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
+| 47 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 49 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 50 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-05 01:46:19 UTC`
+📆 Last Updated: `2023-03-05 02:46:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#stlcitysc](http://twitter.com/search?q=%23stlcitysc) | N/A |
-| 2 | [Mizzou](http://twitter.com/search?q=Mizzou) | Mizzou is the nickname for the University of Missouri. It is a combination of the words "Missouri" and "zou," which is a reference to the school's mascot, the Tiger. |
+| 1 | [CITYPARK](http://twitter.com/search?q=CITYPARK) | N/A |
+| 2 | [#Mizzou](http://twitter.com/search?q=%23Mizzou) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 5 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 8 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
-| 9 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 10 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 11 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 12 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 13 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 14 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 6 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 7 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 8 | [Herb Dean](http://twitter.com/search?q=Herb+Dean) | N/A |
+| 9 | [Ian Garry](http://twitter.com/search?q=Ian+Garry) | N/A |
+| 10 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 11 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 12 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 13 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 14 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
 | 15 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 16 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 17 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 18 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 19 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 20 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 21 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 22 | [Saaiman](http://twitter.com/search?q=Saaiman) | N/A |
-| 23 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 24 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
-| 25 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 26 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 27 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 28 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
-| 29 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 30 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
-| 31 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
-| 32 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
-| 33 | [Filipowski](http://twitter.com/search?q=Filipowski) | N/A |
-| 34 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 35 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 36 | [David Quinn](http://twitter.com/search?q=David+Quinn) | N/A |
-| 37 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
-| 38 | [Barkov](http://twitter.com/search?q=Barkov) | N/A |
-| 39 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 40 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 41 | [Chandler Smith](http://twitter.com/search?q=Chandler+Smith) | N/A |
-| 42 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 43 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
-| 44 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 45 | [Levis](http://twitter.com/search?q=Levis) | N/A |
-| 46 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
-| 47 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 48 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 49 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 16 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
+| 17 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 18 | [Darnell Washington](http://twitter.com/search?q=Darnell+Washington) | N/A |
+| 19 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 20 | [Ribas](http://twitter.com/search?q=Ribas) | N/A |
+| 21 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 22 | [Elijah Garcia](http://twitter.com/search?q=Elijah+Garcia) | N/A |
+| 23 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 24 | [Jackie Chan](http://twitter.com/search?q=Jackie+Chan) | N/A |
+| 25 | [Leaky](http://twitter.com/search?q=Leaky) | N/A |
+| 26 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 27 | [Springfield](http://twitter.com/search?q=Springfield) | N/A |
+| 28 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 29 | [Foghorn Leghorn](http://twitter.com/search?q=Foghorn+Leghorn) | N/A |
+| 30 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
+| 31 | [Stroud](http://twitter.com/search?q=Stroud) | N/A |
+| 32 | [Judy Heumann](http://twitter.com/search?q=Judy+Heumann) | N/A |
+| 33 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 34 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 35 | [Copetti](http://twitter.com/search?q=Copetti) | N/A |
+| 36 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 38 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 39 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 40 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 41 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 42 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 43 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
+| 44 | [Charlotte FC](http://twitter.com/search?q=Charlotte+FC) | N/A |
+| 45 | [Barriault](http://twitter.com/search?q=Barriault) | N/A |
+| 46 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 47 | [Cody Garbrandt](http://twitter.com/search?q=Cody+Garbrandt) | N/A |
+| 48 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 49 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
 
 
 

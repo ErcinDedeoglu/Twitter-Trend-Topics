@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-05 01:46:28 UTC`
+📆 Last Updated: `2023-03-05 02:46:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
 | 2 | [#FiorentinaMilan](http://twitter.com/search?q=%23FiorentinaMilan) | N/A |
-| 3 | [#TheVoiceKidsIt](http://twitter.com/search?q=%23TheVoiceKidsIt) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 5 | [#GfGameNight](http://twitter.com/search?q=%23GfGameNight) | N/A |
-| 6 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 7 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 6 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 7 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
 | 8 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 9 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 10 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
-| 11 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 9 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 10 | [Nikita e Davide](http://twitter.com/search?q=Nikita+e+Davide) | N/A |
+| 11 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
 | 12 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 13 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 14 | [Tiziano Ferro](http://twitter.com/search?q=Tiziano+Ferro) | N/A |
-| 15 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 16 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 17 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 18 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
-| 19 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 20 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 21 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 22 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 23 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 24 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
-| 25 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 26 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 14 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 15 | [Vecino](http://twitter.com/search?q=Vecino) | N/A |
+| 16 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 17 | [Tiziano](http://twitter.com/search?q=Tiziano) | N/A |
+| 18 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 19 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 20 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 21 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
+| 22 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 23 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 24 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 25 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 26 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
 | 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 28 | [Italiano](http://twitter.com/search?q=Italiano) | N/A |
-| 29 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 31 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 32 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
-| 33 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 34 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
-| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 36 | [Londra](http://twitter.com/search?q=Londra) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 39 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 40 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 41 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 42 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 43 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 29 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 30 | [Guardia Costiera](http://twitter.com/search?q=Guardia+Costiera) | N/A |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
+| 33 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 34 | [Londra](http://twitter.com/search?q=Londra) | N/A |
+| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 36 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 37 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 38 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 39 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 40 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
+| 41 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 42 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 43 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 44 | [Frontex](http://twitter.com/search?q=Frontex) | N/A |
-| 45 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 46 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 47 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
+| 45 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 46 | [Anna e Marco](http://twitter.com/search?q=Anna+e+Marco) | N/A |
+| 47 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
 | 48 | [Bonaventura](http://twitter.com/search?q=Bonaventura) | N/A |
-| 49 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
+| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 50 | [Crotone](http://twitter.com/search?q=Crotone) | N/A |
 
 

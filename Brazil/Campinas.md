@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-05 01:45:47 UTC`
+📆 Last Updated: `2023-03-05 02:45:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 2 | [Patatá](http://twitter.com/search?q=Patat%c3%a1) | N/A |
-| 3 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 4 | [tutu](http://twitter.com/search?q=tutu) | N/A |
-| 5 | [#XoudaXuxanoVIVA](http://twitter.com/search?q=%23XoudaXuxanoVIVA) | N/A |
-| 6 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
-| 7 | [Faça o L](http://twitter.com/search?q=Fa%c3%a7a+o+L) | N/A |
-| 8 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 9 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 10 | [11x3](http://twitter.com/search?q=11x3) | N/A |
-| 11 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 12 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 13 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 14 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 15 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
-| 16 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 17 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 18 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 19 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 20 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 21 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 22 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 23 | [11x4](http://twitter.com/search?q=11x4) | N/A |
-| 24 | [COM VOCÊ DOMI](http://twitter.com/search?q=COM+VOC%c3%8a+DOMI) | N/A |
-| 25 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 26 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
-| 27 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 28 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 29 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 30 | [Matheus Araújo](http://twitter.com/search?q=Matheus+Ara%c3%bajo) | N/A |
-| 31 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 32 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 33 | [Judson](http://twitter.com/search?q=Judson) | N/A |
-| 34 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 35 | [Derke](http://twitter.com/search?q=Derke) | N/A |
-| 36 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 37 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 38 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
-| 39 | [Faltava 2](http://twitter.com/search?q=Faltava+2) | N/A |
-| 40 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
-| 41 | [Dias Antes](http://twitter.com/search?q=Dias+Antes) | N/A |
-| 42 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 43 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 44 | [Biro](http://twitter.com/search?q=Biro) | N/A |
-| 45 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 46 | [Jogaram](http://twitter.com/search?q=Jogaram) | N/A |
-| 47 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
-| 48 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 49 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 2 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 3 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
+| 4 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 5 | [Ibirapuera](http://twitter.com/search?q=Ibirapuera) | N/A |
+| 6 | [Tutu](http://twitter.com/search?q=Tutu) | N/A |
+| 7 | [Toguro](http://twitter.com/search?q=Toguro) | N/A |
+| 8 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
+| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 10 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 11 | [Klara Castanho](http://twitter.com/search?q=Klara+Castanho) | N/A |
+| 12 | [Maria Rita](http://twitter.com/search?q=Maria+Rita) | N/A |
+| 13 | [11x3](http://twitter.com/search?q=11x3) | N/A |
+| 14 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 15 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 16 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 17 | [Sandra Annenberg](http://twitter.com/search?q=Sandra+Annenberg) | N/A |
+| 18 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
+| 19 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
+| 20 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 21 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 22 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 23 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 24 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 25 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 26 | [Klarinha](http://twitter.com/search?q=Klarinha) | N/A |
+| 27 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 28 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 29 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 32 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 33 | [COM VOCÊ DOMI](http://twitter.com/search?q=COM+VOC%c3%8a+DOMI) | N/A |
+| 34 | [Judson](http://twitter.com/search?q=Judson) | N/A |
+| 35 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 36 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 37 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 38 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
+| 39 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
+| 40 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
+| 41 | [11x4](http://twitter.com/search?q=11x4) | N/A |
+| 42 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 43 | [Outro Rolê](http://twitter.com/search?q=Outro+Rol%c3%aa) | N/A |
+| 44 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
+| 45 | [Matheus Araújo](http://twitter.com/search?q=Matheus+Ara%c3%bajo) | N/A |
+| 46 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 47 | [Dias Antes](http://twitter.com/search?q=Dias+Antes) | N/A |
+| 48 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 49 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 
 
 

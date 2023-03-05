@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-05 01:46:26 UTC`
+📆 Last Updated: `2023-03-05 02:46:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,22 +17,22 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
 | 2 | [#ARSBOU](http://twitter.com/search?q=%23ARSBOU) | N/A |
-| 3 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 3 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 4 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
 | 5 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 6 | [#StradeBianche](http://twitter.com/search?q=%23StradeBianche) | N/A |
-| 7 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
-| 8 | [#fodboldtroejefredag](http://twitter.com/search?q=%23fodboldtroejefredag) | N/A |
-| 9 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 12 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
+| 6 | [#fodboldtroejefredag](http://twitter.com/search?q=%23fodboldtroejefredag) | N/A |
+| 7 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [#agfach](http://twitter.com/search?q=%23agfach) | N/A |
+| 10 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 11 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
+| 12 | [dansk folkeparti](http://twitter.com/search?q=dansk+folkeparti) | N/A |
 | 13 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
-| 14 | [dansk folkeparti](http://twitter.com/search?q=dansk+folkeparti) | N/A |
+| 14 | [FNATIC](http://twitter.com/search?q=FNATIC) | N/A |
 | 15 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 16 | [søren](http://twitter.com/search?q=s%c3%b8ren) | N/A |
-| 17 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
-| 18 | [Danske](http://twitter.com/search?q=Danske) | N/A |
+| 16 | [Søren](http://twitter.com/search?q=S%c3%b8ren) | N/A |
+| 17 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 18 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
 | 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 20 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 21 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Denmark
 | 32 | [københavns](http://twitter.com/search?q=k%c3%b8benhavns) | N/A |
 | 33 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 34 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 37 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
-| 38 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 39 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 40 | [Schwartau](http://twitter.com/search?q=Schwartau) | N/A |
-| 41 | [irma](http://twitter.com/search?q=irma) | N/A |
-| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 43 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 46 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 47 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 48 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
-| 49 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 50 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 38 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 41 | [Schwartau](http://twitter.com/search?q=Schwartau) | N/A |
+| 42 | [irma](http://twitter.com/search?q=irma) | N/A |
+| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 46 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [ægte](http://twitter.com/search?q=%c3%a6gte) | N/A |
 
 
 
