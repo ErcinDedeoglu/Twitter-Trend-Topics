@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-05 21:16:38 UTC`
+📆 Last Updated: `2023-03-05 22:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 2 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
-| 3 | [#AğaoğluYeniden](http://twitter.com/search?q=%23A%c4%9fao%c4%9fluYeniden) | N/A |
-| 4 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
-| 5 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 6 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 7 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 10 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 11 | [Mehmet Emin Ekmen](http://twitter.com/search?q=Mehmet+Emin+Ekmen) | N/A |
-| 12 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
-| 13 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 15 | [ManU](http://twitter.com/search?q=ManU) | N/A |
-| 16 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 17 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 18 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 19 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
-| 20 | [Ümit Dikbayır](http://twitter.com/search?q=%c3%9cmit+Dikbay%c4%b1r) | N/A |
-| 21 | [DenklikHakkımızı Veriniz](http://twitter.com/search?q=DenklikHakk%c4%b1m%c4%b1z%c4%b1+Veriniz) | N/A |
-| 22 | [ZULMÜN 300](http://twitter.com/search?q=ZULM%c3%9cN+300) | N/A |
-| 23 | [ADAY BELLİ KARAR NET](http://twitter.com/search?q=ADAY+BELL%c4%b0+KARAR+NET) | N/A |
-| 24 | [Tayfur](http://twitter.com/search?q=Tayfur) | Tayfur is a Turkish name derived from the Arabic name Tayfoor, which means “one who is blessed”. In English, it can be translated to mean “blessed one”. |
-| 25 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
-| 26 | [Ramazan-ı Şerif](http://twitter.com/search?q=Ramazan-%c4%b1+%c5%9eerif) | N/A |
-| 27 | [Toros](http://twitter.com/search?q=Toros) | N/A |
-| 28 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 29 | [Aysu](http://twitter.com/search?q=Aysu) | N/A |
-| 30 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
-| 31 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
-| 32 | [Rezan](http://twitter.com/search?q=Rezan) | N/A |
+| 2 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 3 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
+| 4 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
+| 5 | [#AğaoğluYeniden](http://twitter.com/search?q=%23A%c4%9fao%c4%9fluYeniden) | N/A |
+| 6 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
+| 7 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 8 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
+| 9 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 10 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 11 | [Yakarsa](http://twitter.com/search?q=Yakarsa) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Ramazan-ı Şerif](http://twitter.com/search?q=Ramazan-%c4%b1+%c5%9eerif) | N/A |
+| 14 | [Rezan](http://twitter.com/search?q=Rezan) | N/A |
+| 15 | [Mehmet Emin Ekmen](http://twitter.com/search?q=Mehmet+Emin+Ekmen) | N/A |
+| 16 | [Türk Kürt](http://twitter.com/search?q=T%c3%bcrk+K%c3%bcrt) | N/A |
+| 17 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 18 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
+| 19 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 20 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
+| 21 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
+| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 23 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 24 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
+| 25 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 26 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 27 | [Tayfur](http://twitter.com/search?q=Tayfur) | Tayfur is a Turkish name derived from the Arabic name Tayfoor, which means “one who is blessed”. In English, it can be translated to mean “blessed one”. |
+| 28 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
+| 29 | [Toros](http://twitter.com/search?q=Toros) | N/A |
+| 30 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
+| 31 | [ADAY BELLİ KARAR NET](http://twitter.com/search?q=ADAY+BELL%c4%b0+KARAR+NET) | N/A |
+| 32 | [Aysu](http://twitter.com/search?q=Aysu) | N/A |
 | 33 | [Dönmesin](http://twitter.com/search?q=D%c3%b6nmesin) | N/A |
-| 34 | [SensizOlmaz ErhanSaffar](http://twitter.com/search?q=SensizOlmaz+ErhanSaffar) | N/A |
-| 35 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
-| 36 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
-| 37 | [Gene 8](http://twitter.com/search?q=Gene+8) | N/A |
-| 38 | [Dönerse](http://twitter.com/search?q=D%c3%b6nerse) | N/A |
-| 39 | [Kandilin](http://twitter.com/search?q=Kandilin) | N/A |
-| 40 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 41 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 44 | [Beşiktaşlılar](http://twitter.com/search?q=Be%c5%9fikta%c5%9fl%c4%b1lar) | N/A |
-| 45 | [Türk Kürt](http://twitter.com/search?q=T%c3%bcrk+K%c3%bcrt) | N/A |
-| 46 | [Colley](http://twitter.com/search?q=Colley) | N/A |
-| 47 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 49 | [Tayyip Talha](http://twitter.com/search?q=Tayyip+Talha) | N/A |
-| 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 34 | [Ümit Dikbayır](http://twitter.com/search?q=%c3%9cmit+Dikbay%c4%b1r) | N/A |
+| 35 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 36 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 37 | [ZULMÜN 300](http://twitter.com/search?q=ZULM%c3%9cN+300) | N/A |
+| 38 | [Gene 8](http://twitter.com/search?q=Gene+8) | N/A |
+| 39 | [Dönerse](http://twitter.com/search?q=D%c3%b6nerse) | N/A |
+| 40 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 41 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
+| 42 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 43 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
+| 44 | [#NeOluyor](http://twitter.com/search?q=%23NeOluyor) | N/A |
+| 45 | [#CerrahpasadaDeprem](http://twitter.com/search?q=%23CerrahpasadaDeprem) | N/A |
+| 46 | [#beyazfutbol](http://twitter.com/search?q=%23beyazfutbol) | N/A |
+| 47 | [#İntikam](http://twitter.com/search?q=%23%c4%b0ntikam) | N/A |
+| 48 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
+| 49 | [#TazminatHELALvermemekVEBAL](http://twitter.com/search?q=%23TazminatHELALvermemekVEBAL) | N/A |
+| 50 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 
 
 

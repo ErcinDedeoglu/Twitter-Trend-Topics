@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-05 21:16:17 UTC`
+📆 Last Updated: `2023-03-05 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 1 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
 | 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 5 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
 | 6 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 7 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 12 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 10 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 12 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 13 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 14 | [Ciryl](http://twitter.com/search?q=Ciryl) | N/A |
 | 15 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
@@ -42,26 +42,26 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 25 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
 | 26 | [bienne](http://twitter.com/search?q=bienne) | N/A |
 | 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 28 | [Mme Dittli](http://twitter.com/search?q=Mme+Dittli) | N/A |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 33 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Original](http://twitter.com/search?q=Original) | N/A |
-| 36 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
-| 37 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 38 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
-| 39 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 40 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [tagi](http://twitter.com/search?q=tagi) | N/A |
+| 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 29 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 30 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
+| 31 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
+| 32 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 33 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
+| 34 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 35 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 36 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
+| 37 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 38 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 42 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
 | 43 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 44 | [Pläne](http://twitter.com/search?q=Pl%c3%a4ne) | N/A |
-| 45 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
-| 46 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
-| 47 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 44 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 45 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Servette](http://twitter.com/search?q=Servette) | N/A |
 
 
 

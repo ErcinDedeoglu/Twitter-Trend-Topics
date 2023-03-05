@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-05 21:16:28 UTC`
+📆 Last Updated: `2023-03-05 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [LOVE BABY BUILD](http://twitter.com/search?q=LOVE+BABY+BUILD) | N/A |
 | 7 | [#2yrsbylxbuild](http://twitter.com/search?q=%232yrsbylxbuild) | N/A |
 | 8 | [always beside build](http://twitter.com/search?q=always+beside+build) | N/A |
-| 9 | [LiuYu in Paris](http://twitter.com/search?q=LiuYu+in+Paris) | N/A |
+| 9 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
 | 10 | [Oishi X Gulf](http://twitter.com/search?q=Oishi+X+Gulf) | N/A |
 | 11 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
 | 12 | [nnine starbox magazine](http://twitter.com/search?q=nnine+starbox+magazine) | N/A |
@@ -38,31 +38,32 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 | 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Beyourluve](http://twitter.com/search?q=Beyourluve) | N/A |
-| 24 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 25 | [đáng](http://twitter.com/search?q=%c4%91%c3%a1ng) | N/A |
-| 26 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 27 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
-| 28 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 29 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
-| 30 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 31 | [Dump](http://twitter.com/search?q=Dump) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 33 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 34 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 35 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [byls](http://twitter.com/search?q=byls) | N/A |
-| 39 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 40 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 41 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
-| 42 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 43 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 44 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 45 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 46 | [HO CHI MINH CITY](http://twitter.com/search?q=HO+CHI+MINH+CITY) | N/A |
-| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 48 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
+| 24 | [đáng](http://twitter.com/search?q=%c4%91%c3%a1ng) | N/A |
+| 25 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 26 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
+| 27 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 28 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
+| 29 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 30 | [Dump](http://twitter.com/search?q=Dump) | N/A |
+| 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 32 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 33 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 34 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 35 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 37 | [byls](http://twitter.com/search?q=byls) | N/A |
+| 38 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 39 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 40 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
+| 41 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
+| 42 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 43 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 44 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
+| 45 | [HO CHI MINH CITY](http://twitter.com/search?q=HO+CHI+MINH+CITY) | N/A |
+| 46 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 47 | [chết](http://twitter.com/search?q=ch%e1%ba%bft) | N/A |
+| 48 | [#OhmNanonFMHK2023](http://twitter.com/search?q=%23OhmNanonFMHK2023) | N/A |
+| 49 | [#LưuVũ](http://twitter.com/search?q=%23L%c6%b0uV%c5%a9) | N/A |
 
 
 
