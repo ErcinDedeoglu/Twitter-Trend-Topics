@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-05 17:16:48 UTC`
+📆 Last Updated: `2023-03-05 18:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 7 | [#OLFCL](http://twitter.com/search?q=%23OLFCL) | N/A |
-| 8 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 10 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 12 | [#66minutes](http://twitter.com/search?q=%2366minutes) | N/A |
-| 13 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 14 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 15 | [Valence](http://twitter.com/search?q=Valence) | N/A |
-| 16 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 17 | [#RCSASB29](http://twitter.com/search?q=%23RCSASB29) | N/A |
-| 18 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 19 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 20 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 21 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 22 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 23 | [Piastri](http://twitter.com/search?q=Piastri) | N/A |
-| 24 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 25 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 26 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 27 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 28 | [1er GP](http://twitter.com/search?q=1er+GP) | N/A |
-| 29 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
-| 30 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 31 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 32 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 33 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
-| 34 | [Zhou](http://twitter.com/search?q=Zhou) | N/A |
-| 35 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 36 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 37 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 38 | [Boadu](http://twitter.com/search?q=Boadu) | N/A |
-| 39 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 40 | [La F1](http://twitter.com/search?q=La+F1) | N/A |
-| 41 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 42 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
-| 43 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 44 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 45 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 46 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 47 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 48 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
-| 49 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 50 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 3 | [#LGBTQIASoonsunny](http://twitter.com/search?q=%23LGBTQIASoonsunny) | N/A |
+| 4 | [#OLFCL](http://twitter.com/search?q=%23OLFCL) | N/A |
+| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 6 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 9 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 12 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 13 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 17 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
+| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 20 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 25 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 26 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 27 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 28 | [Valence](http://twitter.com/search?q=Valence) | N/A |
+| 29 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 31 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 32 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 34 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 35 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 36 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 37 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 38 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 39 | [Mohamed Salah](http://twitter.com/search?q=Mohamed+Salah) | N/A |
+| 40 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 43 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 44 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 45 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 46 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 47 | [Kumbedi](http://twitter.com/search?q=Kumbedi) | N/A |
+| 48 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 49 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 50 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 
 
 

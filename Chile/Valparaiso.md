@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-05 17:16:05 UTC`
+📆 Last Updated: `2023-03-05 18:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,47 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
-| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 3 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 7 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
-| 8 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 9 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 10 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 11 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 15 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 16 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 17 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 18 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 21 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 22 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 27 | [Munar](http://twitter.com/search?q=Munar) | N/A |
-| 28 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 30 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 31 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 32 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 33 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 35 | [Warnken](http://twitter.com/search?q=Warnken) | N/A |
-| 36 | [Qualy](http://twitter.com/search?q=Qualy) | N/A |
-| 37 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
-| 38 | [Dávalos](http://twitter.com/search?q=D%c3%a1valos) | N/A |
-| 39 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 40 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 41 | [6-Choclo](http://twitter.com/search?q=6-Choclo) | N/A |
-| 42 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 43 | [Vejar](http://twitter.com/search?q=Vejar) | N/A |
-| 44 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 45 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 46 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 47 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 48 | [Ana Lya Uriarte](http://twitter.com/search?q=Ana+Lya+Uriarte) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 6 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 11 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 12 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 13 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 14 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 18 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 21 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 22 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 23 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 24 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 25 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 26 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 27 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 28 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 29 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 30 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 31 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 32 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
+| 33 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 34 | [#GPBahrein](http://twitter.com/search?q=%23GPBahrein) | N/A |
+| 35 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
+| 36 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
+| 37 | [#PREMIERxESPN](http://twitter.com/search?q=%23PREMIERxESPN) | N/A |
+| 38 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 39 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 40 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 41 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 
 
 

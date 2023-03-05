@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-05 17:16:35 UTC`
+📆 Last Updated: `2023-03-05 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 2 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 5 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [#KollywoodPrideRAJINI](http://twitter.com/search?q=%23KollywoodPrideRAJINI) | N/A |
-| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 9 | [PROUD OF YOU DARSHAN RAVAL](http://twitter.com/search?q=PROUD+OF+YOU+DARSHAN+RAVAL) | N/A |
-| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 13 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 18 | [Kim Garth](http://twitter.com/search?q=Kim+Garth) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 21 | [Update Tomorrow](http://twitter.com/search?q=Update+Tomorrow) | N/A |
-| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 23 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 24 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 26 | [BHOLAA TRAILER TOMORROW](http://twitter.com/search?q=BHOLAA+TRAILER+TOMORROW) | N/A |
-| 27 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 28 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
-| 29 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 31 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 32 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
-| 33 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 34 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 35 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 37 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 38 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 39 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 40 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 41 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 42 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 43 | [ABHIRA HITS 450](http://twitter.com/search?q=ABHIRA+HITS+450) | N/A |
-| 44 | [Lyn F](http://twitter.com/search?q=Lyn+F) | N/A |
-| 45 | [Arabian Sea](http://twitter.com/search?q=Arabian+Sea) | N/A |
-| 46 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 47 | [ASPIRING AYESHA](http://twitter.com/search?q=ASPIRING+AYESHA) | N/A |
-| 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 49 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
-| 50 | [Himalaya](http://twitter.com/search?q=Himalaya) | N/A |
+| 3 | [#LadliBehnaYojanaMP](http://twitter.com/search?q=%23LadliBehnaYojanaMP) | N/A |
+| 4 | [#ShivrajKiLadliBehna](http://twitter.com/search?q=%23ShivrajKiLadliBehna) | N/A |
+| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 8 | [#UPWvsGG](http://twitter.com/search?q=%23UPWvsGG) | N/A |
+| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 12 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 19 | [PROUD OF YOU DARSHAN RAVAL](http://twitter.com/search?q=PROUD+OF+YOU+DARSHAN+RAVAL) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 22 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 24 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 25 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 26 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 28 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 29 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 35 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 36 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 37 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 38 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 39 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 43 | [Kim Garth](http://twitter.com/search?q=Kim+Garth) | N/A |
+| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 45 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 46 | [Update Tomorrow](http://twitter.com/search?q=Update+Tomorrow) | N/A |
+| 47 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 48 | [Ecclestone](http://twitter.com/search?q=Ecclestone) | N/A |
+| 49 | [भारतीय नौसेना](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%a8%e0%a5%8c%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be) | N/A |
+| 50 | [शुभम शुक्ला](http://twitter.com/search?q=%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be) | N/A |
 
 
 

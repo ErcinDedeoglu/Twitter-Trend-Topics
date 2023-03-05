@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-05 17:16:13 UTC`
+📆 Last Updated: `2023-03-05 18:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 3 | [#WOBSGE](http://twitter.com/search?q=%23WOBSGE) | N/A |
-| 4 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 7 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 8 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
-| 9 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 10 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 11 | [Podium](http://twitter.com/search?q=Podium) | N/A |
-| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 14 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 15 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 16 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 17 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 18 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 19 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 20 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 21 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 22 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 23 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#B04BSC](http://twitter.com/search?q=%23B04BSC) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 10 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 11 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 13 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 14 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 15 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 16 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 18 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 19 | [Podium](http://twitter.com/search?q=Podium) | N/A |
+| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 21 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 22 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 23 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 | 24 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 25 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
-| 26 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 27 | [Reaktionen](http://twitter.com/search?q=Reaktionen) | N/A |
-| 28 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 25 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 26 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 28 | [Abwehr](http://twitter.com/search?q=Abwehr) | N/A |
 | 29 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 30 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
+| 30 | [Reaktionen](http://twitter.com/search?q=Reaktionen) | N/A |
 | 31 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 32 | [Fratze](http://twitter.com/search?q=Fratze) | N/A |
-| 33 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 34 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
-| 35 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 36 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 37 | [Vergleiche](http://twitter.com/search?q=Vergleiche) | N/A |
+| 32 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 33 | [Fratze](http://twitter.com/search?q=Fratze) | N/A |
+| 34 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
+| 35 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 36 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
+| 37 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
 | 38 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 39 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 40 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
+| 39 | [#SkyF1](http://twitter.com/search?q=%23SkyF1) | N/A |
+| 40 | [#SailorMoon](http://twitter.com/search?q=%23SailorMoon) | N/A |
 | 41 | [#Formel1](http://twitter.com/search?q=%23Formel1) | N/A |
-| 42 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 43 | [#SailorMoon](http://twitter.com/search?q=%23SailorMoon) | N/A |
-| 44 | [#SVWFCB](http://twitter.com/search?q=%23SVWFCB) | N/A |
-| 45 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
-| 46 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 47 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
-| 48 | [#Bramsche](http://twitter.com/search?q=%23Bramsche) | N/A |
-| 49 | [#VFBMSV](http://twitter.com/search?q=%23VFBMSV) | N/A |
+| 42 | [#EBSDSC](http://twitter.com/search?q=%23EBSDSC) | N/A |
+| 43 | [#SVWFCB](http://twitter.com/search?q=%23SVWFCB) | N/A |
+| 44 | [#Arminia](http://twitter.com/search?q=%23Arminia) | N/A |
+| 45 | [#OBWahlFfm](http://twitter.com/search?q=%23OBWahlFfm) | N/A |
+| 46 | [#Bramsche](http://twitter.com/search?q=%23Bramsche) | N/A |
+| 47 | [#SGFH96](http://twitter.com/search?q=%23SGFH96) | N/A |
+| 48 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 49 | [#FCHKSC](http://twitter.com/search?q=%23FCHKSC) | N/A |
 
 
 
