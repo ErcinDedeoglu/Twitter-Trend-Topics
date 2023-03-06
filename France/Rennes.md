@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-06 02:42:55 UTC`
+📆 Last Updated: `2023-03-06 03:21:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [France](</France>)
 | 15 | [Wade](http://twitter.com/search?q=Wade) | N/A |
 | 16 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
 | 17 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 19 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 20 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 21 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 22 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 23 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 18 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 19 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 20 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 21 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 22 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 23 | [Doku](http://twitter.com/search?q=Doku) | N/A |
 | 24 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 25 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 27 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 27 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
 | 28 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 30 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 29 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 30 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
 | 31 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
 | 32 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 33 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 34 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 33 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 34 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
 | 35 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
 | 36 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 37 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 38 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 40 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [PRENEZ MON ARGENT](http://twitter.com/search?q=PRENEZ+MON+ARGENT) | N/A |
+| 38 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 39 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 40 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 41 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 42 | [BON DIMANCHE](http://twitter.com/search?q=BON+DIMANCHE) | N/A |
+| 42 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
 | 43 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 44 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 45 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
-| 46 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 47 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 49 | [Xenoverse 3](http://twitter.com/search?q=Xenoverse+3) | N/A |
-| 50 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 44 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 45 | [Ben yedder](http://twitter.com/search?q=Ben+yedder) | N/A |
+| 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 48 | [Xenoverse 3](http://twitter.com/search?q=Xenoverse+3) | N/A |
+| 49 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 50 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
 
 
 

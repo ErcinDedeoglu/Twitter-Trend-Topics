@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-06 02:43:03 UTC`
+📆 Last Updated: `2023-03-06 03:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [Senin](http://twitter.com/search?q=Senin) | N/A |
 | 2 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
 | 3 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
-| 6 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
-| 7 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
-| 8 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 9 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 10 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
-| 11 | [Berdakwah Karena Allah](http://twitter.com/search?q=Berdakwah+Karena+Allah) | N/A |
-| 12 | [Wujudkan Persatuan Umat](http://twitter.com/search?q=Wujudkan+Persatuan+Umat) | N/A |
-| 13 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
-| 14 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 15 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
-| 16 | [Kalah](http://twitter.com/search?q=Kalah) | N/A |
-| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 18 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [MUnyuk](http://twitter.com/search?q=MUnyuk) | N/A |
-| 21 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 22 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 25 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 26 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 27 | [Login](http://twitter.com/search?q=Login) | N/A |
-| 28 | [Menang](http://twitter.com/search?q=Menang) | N/A |
-| 29 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 30 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 31 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 32 | [#FerragamoSS23xJENO](http://twitter.com/search?q=%23FerragamoSS23xJENO) | N/A |
-| 33 | [#PajakDikebiriPejabat](http://twitter.com/search?q=%23PajakDikebiriPejabat) | N/A |
-| 34 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 35 | [#DakwahIslamKaffah](http://twitter.com/search?q=%23DakwahIslamKaffah) | N/A |
-| 36 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 37 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
-| 38 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 39 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 40 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 41 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 42 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 43 | [#THEDREAMSHOW2_In_A_DREAM](http://twitter.com/search?q=%23THEDREAMSHOW2_In_A_DREAM) | N/A |
-| 44 | [#Vindes](http://twitter.com/search?q=%23Vindes) | N/A |
+| 4 | [RENJUN YOUR NAME OST COVER](http://twitter.com/search?q=RENJUN+YOUR+NAME+OST+COVER) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
+| 7 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 8 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 9 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
+| 10 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 11 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 12 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 13 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 14 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
+| 15 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 16 | [Wujudkan Persatuan Umat](http://twitter.com/search?q=Wujudkan+Persatuan+Umat) | N/A |
+| 17 | [Berdakwah Karena Allah](http://twitter.com/search?q=Berdakwah+Karena+Allah) | N/A |
+| 18 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
+| 19 | [Kalah](http://twitter.com/search?q=Kalah) | N/A |
+| 20 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [MUnyuk](http://twitter.com/search?q=MUnyuk) | N/A |
+| 24 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 25 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 26 | [Mampus](http://twitter.com/search?q=Mampus) | N/A |
+| 27 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 30 | [Login](http://twitter.com/search?q=Login) | N/A |
+| 31 | [Menang](http://twitter.com/search?q=Menang) | N/A |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
+| 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 35 | [#なんでもないや](http://twitter.com/search?q=%23%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%82%84) | N/A |
+| 36 | [#FerragamoSS23xJENO](http://twitter.com/search?q=%23FerragamoSS23xJENO) | N/A |
+| 37 | [#PajakDikebiriPejabat](http://twitter.com/search?q=%23PajakDikebiriPejabat) | N/A |
+| 38 | [#RENJUN_NandemonaiyaCover](http://twitter.com/search?q=%23RENJUN_NandemonaiyaCover) | N/A |
+| 39 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 40 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 41 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 42 | [#DakwahIslamKaffah](http://twitter.com/search?q=%23DakwahIslamKaffah) | N/A |
+| 43 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 44 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
 
 
 

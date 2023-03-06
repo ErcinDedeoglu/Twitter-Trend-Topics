@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-06 02:43:00 UTC`
+📆 Last Updated: `2023-03-06 03:21:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [#ConexiónHonduras1](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras1) | N/A |
-| 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 5 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 3 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 4 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 6 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 7 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
 | 8 | [Patricia Donoso](http://twitter.com/search?q=Patricia+Donoso) | N/A |
-| 9 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 9 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 10 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 | 11 | [#ChiringuitoBarcelona](http://twitter.com/search?q=%23ChiringuitoBarcelona) | N/A |
-| 12 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 13 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
+| 12 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
+| 13 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
 | 14 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 15 | [#SecretosFamilia5Mar](http://twitter.com/search?q=%23SecretosFamilia5Mar) | N/A |
-| 16 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 17 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 18 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
-| 19 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 21 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 22 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 23 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 24 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 28 | [Carolina Sobe](http://twitter.com/search?q=Carolina+Sobe) | N/A |
-| 29 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
-| 30 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 31 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 32 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 33 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
-| 34 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 36 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 37 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 38 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 39 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 41 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 42 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
-| 43 | [Hande](http://twitter.com/search?q=Hande) | N/A |
-| 44 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 45 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 46 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 47 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 48 | [Penalti](http://twitter.com/search?q=Penalti) | N/A |
-| 49 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 15 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
+| 16 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 17 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 19 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
+| 20 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 21 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 22 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
+| 23 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 24 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 25 | [Soto Grado](http://twitter.com/search?q=Soto+Grado) | Soto Grado is a Spanish phrase that translates to "outside grade" or "out of grade." It is used to describe something that is not up to the expected standard or quality. |
+| 26 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 27 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 28 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 29 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 30 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 32 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 33 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 34 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 35 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 36 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 37 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 38 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
+| 39 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 40 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 43 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
+| 44 | [Aitor](http://twitter.com/search?q=Aitor) | N/A |
+| 45 | [Ponfe](http://twitter.com/search?q=Ponfe) | N/A |
+| 46 | [#CrisPorta5M](http://twitter.com/search?q=%23CrisPorta5M) | N/A |
+| 47 | [VARsa](http://twitter.com/search?q=VARsa) | N/A |
+| 48 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
 
 
 

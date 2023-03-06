@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-06 02:42:40 UTC`
+📆 Last Updated: `2023-03-06 03:21:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 2 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 3 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 4 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
-| 5 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 6 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 7 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
-| 8 | [#UKOpenDarts](http://twitter.com/search?q=%23UKOpenDarts) | N/A |
-| 9 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
-| 10 | [#loveislandaftersun](http://twitter.com/search?q=%23loveislandaftersun) | N/A |
-| 11 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 12 | [#Endeavour](http://twitter.com/search?q=%23Endeavour) | N/A |
-| 13 | [The Elite](http://twitter.com/search?q=The+Elite) | The Elite is a term used to refer to a group of people who are considered to be the most powerful, influential, or successful in a particular field or society. It can also refer to those who have achieved the highest level of social or economic status. |
-| 14 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 15 | [Kai and Sanam](http://twitter.com/search?q=Kai+and+Sanam) | N/A |
-| 16 | [Starks](http://twitter.com/search?q=Starks) | N/A |
-| 17 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 18 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 19 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 20 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 21 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 24 | [Morse](http://twitter.com/search?q=Morse) | N/A |
+| 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 8 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 9 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 10 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 12 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 15 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 16 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
+| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 18 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 19 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 20 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 21 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 24 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
 | 25 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 26 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 27 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 28 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 29 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 31 | [The Vivienne](http://twitter.com/search?q=The+Vivienne) | N/A |
-| 32 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 33 | [Siva](http://twitter.com/search?q=Siva) | N/A |
-| 34 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 35 | [Indycar](http://twitter.com/search?q=Indycar) | N/A |
-| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 37 | [Mancs](http://twitter.com/search?q=Mancs) | N/A |
-| 38 | [Aged](http://twitter.com/search?q=Aged) | N/A |
-| 39 | [Harvey Elliott](http://twitter.com/search?q=Harvey+Elliott) | Harvey Elliott is a British professional footballer who plays as a winger for Liverpool. He is the youngest ever player to appear in the Premier League, having made his debut at the age of 16 years and 30 days. The name Harvey Elliott is derived from the English surname "Elliott", which means "son of Elias". |
-| 40 | [Butcher](http://twitter.com/search?q=Butcher) | N/A |
-| 41 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 42 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 43 | [#LiverpoolFC](http://twitter.com/search?q=%23LiverpoolFC) | N/A |
-| 44 | [#LIVMNU](http://twitter.com/search?q=%23LIVMNU) | N/A |
-| 45 | [#ManchesterUnited](http://twitter.com/search?q=%23ManchesterUnited) | N/A |
-| 46 | [#ArnoldPalmerInvitational](http://twitter.com/search?q=%23ArnoldPalmerInvitational) | N/A |
+| 26 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 30 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 33 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 36 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 37 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 38 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 39 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 40 | [Brennan Johnson](http://twitter.com/search?q=Brennan+Johnson) | Brennan Johnson is a name of Irish origin, derived from the Gaelic surname O'Brennan. It is derived from the personal name "Brennan", which means "descendant of Bran". |
+| 41 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [Christian Cage](http://twitter.com/search?q=Christian+Cage) | N/A |
+| 44 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 45 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 46 | [The Butcher](http://twitter.com/search?q=The+Butcher) | The Butcher is a slang term used to refer to someone who is particularly violent or ruthless. It is often used to describe someone who has committed a particularly heinous act of violence or cruelty. |
+| 47 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 48 | [Gool Peran Lowen](http://twitter.com/search?q=Gool+Peran+Lowen) | N/A |
+| 49 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 50 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
 
 
 

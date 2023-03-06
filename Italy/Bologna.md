@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-06 02:42:58 UTC`
+📆 Last Updated: `2023-03-06 03:21:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#RomaJuve](http://twitter.com/search?q=%23RomaJuve) | N/A |
 | 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 3 | [#Amici22](http://twitter.com/search?q=%23Amici22) | N/A |
 | 4 | [#InterLecce](http://twitter.com/search?q=%23InterLecce) | N/A |
 | 5 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
 | 6 | [Kean](http://twitter.com/search?q=Kean) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for [Italy](</Italy>)
 | 14 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
 | 15 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
 | 16 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 17 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 18 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 18 | [ALESSIO](http://twitter.com/search?q=ALESSIO) | N/A |
 | 19 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 20 | [ALESSIO](http://twitter.com/search?q=ALESSIO) | N/A |
-| 21 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 22 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 23 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 24 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 25 | [paky](http://twitter.com/search?q=paky) | N/A |
-| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 27 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 20 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 21 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 22 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 23 | [paky](http://twitter.com/search?q=paky) | N/A |
+| 24 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 26 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 28 | [Binotto](http://twitter.com/search?q=Binotto) | N/A |
-| 29 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 30 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 31 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 32 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 33 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
-| 34 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 36 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 37 | [di bello](http://twitter.com/search?q=di+bello) | N/A |
-| 38 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 40 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 41 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 42 | [ZIA MARA](http://twitter.com/search?q=ZIA+MARA) | N/A |
-| 43 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 44 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 46 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 47 | [BAKAYOKO](http://twitter.com/search?q=BAKAYOKO) | N/A |
-| 48 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 49 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
-| 50 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
+| 29 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 30 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 31 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
+| 32 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 33 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 34 | [di bello](http://twitter.com/search?q=di+bello) | N/A |
+| 35 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 37 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
+| 38 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 39 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 40 | [ZIA MARA](http://twitter.com/search?q=ZIA+MARA) | N/A |
+| 41 | [cricca](http://twitter.com/search?q=cricca) | N/A |
+| 42 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 43 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 44 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 45 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 46 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 47 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
+| 48 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
+| 49 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

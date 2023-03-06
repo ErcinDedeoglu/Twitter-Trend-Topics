@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-06 02:42:53 UTC`
+📆 Last Updated: `2023-03-06 03:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Austria](</Austria>)
 | 9 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 10 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
 | 11 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 12 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 12 | [landtag](http://twitter.com/search?q=landtag) | N/A |
 | 13 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
 | 14 | [köfer](http://twitter.com/search?q=k%c3%b6fer) | N/A |
-| 15 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 16 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 17 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 20 | [sieger](http://twitter.com/search?q=sieger) | N/A |
-| 21 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
-| 22 | [Grüne und Neos](http://twitter.com/search?q=Gr%c3%bcne+und+Neos) | N/A |
-| 23 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 24 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
-| 25 | [Sessel](http://twitter.com/search?q=Sessel) | N/A |
-| 26 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
+| 15 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 16 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 19 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
+| 20 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 21 | [Grüne und Neos](http://twitter.com/search?q=Gr%c3%bcne+und+Neos) | N/A |
+| 22 | [sieger](http://twitter.com/search?q=sieger) | N/A |
+| 23 | [maurer](http://twitter.com/search?q=maurer) | N/A |
+| 24 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 25 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
+| 26 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
 | 27 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 28 | [Tomaselli](http://twitter.com/search?q=Tomaselli) | N/A |
-| 29 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 30 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
-| 31 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 28 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
+| 29 | [gewinner](http://twitter.com/search?q=gewinner) | N/A |
+| 30 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 31 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
 | 32 | [Salzburg](http://twitter.com/search?q=Salzburg) | N/A |
 | 33 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
-| 34 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 35 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 36 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 37 | [klagenfurt](http://twitter.com/search?q=klagenfurt) | N/A |
-| 38 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 36 | [klagenfurt](http://twitter.com/search?q=klagenfurt) | N/A |
+| 37 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 38 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
 | 39 | [Landeshauptmann](http://twitter.com/search?q=Landeshauptmann) | N/A |
-| 40 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
-| 41 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
+| 40 | [Flüge](http://twitter.com/search?q=Fl%c3%bcge) | N/A |
+| 41 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
 | 42 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 43 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 44 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
+| 43 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 44 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
 | 45 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
 | 46 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
 | 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
-| 49 | [duell](http://twitter.com/search?q=duell) | N/A |
-| 50 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
+| 48 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
+| 49 | [Delfin](http://twitter.com/search?q=Delfin) | N/A |
+| 50 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
 
 
 
