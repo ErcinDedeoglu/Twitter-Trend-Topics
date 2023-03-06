@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-06 01:44:53 UTC`
+📆 Last Updated: `2023-03-06 02:42:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RomaJuve](http://twitter.com/search?q=%23RomaJuve) | N/A |
-| 2 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 3 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 4 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 5 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 6 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 7 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 8 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
-| 9 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 10 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
-| 11 | [Moise](http://twitter.com/search?q=Moise) | N/A |
-| 12 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 13 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
-| 14 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 15 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 16 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 17 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
-| 18 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 19 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 20 | [Mancio](http://twitter.com/search?q=Mancio) | N/A |
-| 21 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 22 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 23 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 24 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 25 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 26 | [Daje Roma](http://twitter.com/search?q=Daje+Roma) | N/A |
-| 27 | [Cremona](http://twitter.com/search?q=Cremona) | N/A |
-| 28 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 29 | [Partita](http://twitter.com/search?q=Partita) | N/A |
-| 30 | [Doveva](http://twitter.com/search?q=Doveva) | N/A |
+| 2 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 4 | [#InterLecce](http://twitter.com/search?q=%23InterLecce) | N/A |
+| 5 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 6 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 7 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 8 | [BUONA DOMENICA](http://twitter.com/search?q=BUONA+DOMENICA) | N/A |
+| 9 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 10 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 11 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 12 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 15 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 16 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 17 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 18 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 19 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
+| 20 | [ALESSIO](http://twitter.com/search?q=ALESSIO) | N/A |
+| 21 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 22 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 23 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 24 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 25 | [paky](http://twitter.com/search?q=paky) | N/A |
+| 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 27 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 28 | [Binotto](http://twitter.com/search?q=Binotto) | N/A |
+| 29 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 30 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
 | 31 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 32 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 33 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 36 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 37 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
-| 38 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 39 | [#fuoridonnamaria](http://twitter.com/search?q=%23fuoridonnamaria) | N/A |
-| 40 | [#siOstinava](http://twitter.com/search?q=%23siOstinava) | N/A |
-| 41 | [#InterLecce](http://twitter.com/search?q=%23InterLecce) | N/A |
-| 42 | [#fumo](http://twitter.com/search?q=%23fumo) | N/A |
-| 43 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
-| 44 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 32 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 33 | [Profondo](http://twitter.com/search?q=Profondo) | N/A |
+| 34 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 36 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 37 | [di bello](http://twitter.com/search?q=di+bello) | N/A |
+| 38 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 40 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
+| 41 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 42 | [ZIA MARA](http://twitter.com/search?q=ZIA+MARA) | N/A |
+| 43 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 44 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 46 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 47 | [BAKAYOKO](http://twitter.com/search?q=BAKAYOKO) | N/A |
+| 48 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 49 | [Balotelli](http://twitter.com/search?q=Balotelli) | N/A |
+| 50 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
 
 
 

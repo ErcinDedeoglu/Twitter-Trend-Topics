@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-06 01:45:29 UTC`
+📆 Last Updated: `2023-03-06 02:43:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#fckob](http://twitter.com/search?q=%23fckob) | N/A |
-| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 3 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 2 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 4 | [#lbkbif](http://twitter.com/search?q=%23lbkbif) | N/A |
 | 5 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
 | 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -31,40 +31,40 @@ This is top 50 for Denmark
 | 14 | [Morten Krogh](http://twitter.com/search?q=Morten+Krogh) | N/A |
 | 15 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 16 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 17 | [Neestrup](http://twitter.com/search?q=Neestrup) | N/A |
+| 17 | [neestrup](http://twitter.com/search?q=neestrup) | N/A |
 | 18 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 20 | [ivancevic](http://twitter.com/search?q=ivancevic) | N/A |
+| 19 | [ivancevic](http://twitter.com/search?q=ivancevic) | N/A |
+| 20 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 21 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
 | 22 | [gytkjær](http://twitter.com/search?q=gytkj%c3%a6r) | N/A |
 | 23 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 24 | [Putros](http://twitter.com/search?q=Putros) | N/A |
-| 25 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 28 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 30 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
+| 24 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 25 | [Putros](http://twitter.com/search?q=Putros) | N/A |
+| 26 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 29 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 31 | [Randers](http://twitter.com/search?q=Randers) | N/A |
 | 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 33 | [danske](http://twitter.com/search?q=danske) | N/A |
-| 34 | [Henrik Dahl](http://twitter.com/search?q=Henrik+Dahl) | N/A |
-| 35 | [WWII](http://twitter.com/search?q=WWII) | N/A |
+| 34 | [WWII](http://twitter.com/search?q=WWII) | N/A |
+| 35 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |
 | 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 37 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 38 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
-| 39 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 42 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 37 | [schwartau](http://twitter.com/search?q=schwartau) | N/A |
+| 38 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 41 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 42 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
 | 43 | [malmø](http://twitter.com/search?q=malm%c3%b8) | N/A |
 | 44 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 45 | [Paris-Nice](http://twitter.com/search?q=Paris-Nice) | N/A |
-| 46 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 47 | [Vrøvl](http://twitter.com/search?q=Vr%c3%b8vl) | N/A |
-| 48 | [modtaget](http://twitter.com/search?q=modtaget) | N/A |
-| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 50 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [modtaget](http://twitter.com/search?q=modtaget) | N/A |
+| 48 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 49 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
+| 50 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
 
 
 

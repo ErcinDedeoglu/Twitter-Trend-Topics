@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-06 01:45:34 UTC`
+📆 Last Updated: `2023-03-06 02:43:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 3 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
 | 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 7 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
 | 8 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 9 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 10 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 11 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 14 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 11 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 12 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 13 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 14 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 15 | [Ciryl](http://twitter.com/search?q=Ciryl) | N/A |
 | 16 | [zoug](http://twitter.com/search?q=zoug) | N/A |
-| 17 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 18 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 17 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 18 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
 | 19 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 20 | [rapperswil](http://twitter.com/search?q=rapperswil) | N/A |
+| 20 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
 | 21 | [Skala](http://twitter.com/search?q=Skala) | N/A |
 | 22 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 23 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
-| 24 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 25 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 26 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 27 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 29 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
-| 30 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 31 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
-| 32 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
-| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 34 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
-| 35 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
-| 36 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
-| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 39 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 40 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 41 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 45 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
-| 46 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 49 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 50 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 23 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
+| 24 | [rapperswil](http://twitter.com/search?q=rapperswil) | N/A |
+| 25 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 26 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 27 | [bienne](http://twitter.com/search?q=bienne) | N/A |
+| 28 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 31 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 32 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
+| 33 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [herr köppel](http://twitter.com/search?q=herr+k%c3%b6ppel) | N/A |
+| 36 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 37 | [vaud](http://twitter.com/search?q=vaud) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 44 | [bettwäsche](http://twitter.com/search?q=bettw%c3%a4sche) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 47 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
+| 48 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 50 | [Boom](http://twitter.com/search?q=Boom) | N/A |
 
 
 

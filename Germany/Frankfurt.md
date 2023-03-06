@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-06 01:44:52 UTC`
+📆 Last Updated: `2023-03-06 02:42:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 4 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 3 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 6 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 7 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 9 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 10 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
 | 14 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
 | 15 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 16 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 17 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 18 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 19 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 17 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 18 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 19 | [kunstwerk](http://twitter.com/search?q=kunstwerk) | N/A |
 | 20 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 21 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 22 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 26 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 27 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 28 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 29 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 30 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 31 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 21 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 25 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 26 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 27 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 28 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 29 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 30 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 31 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
 | 32 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 33 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 34 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 36 | [Münster](http://twitter.com/search?q=M%c3%bcnster) | N/A |
-| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 38 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 39 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
-| 40 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
-| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 42 | [heizkosten und strompreise](http://twitter.com/search?q=heizkosten+und+strompreise) | N/A |
-| 43 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 45 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 46 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 47 | [Boerne](http://twitter.com/search?q=Boerne) | N/A |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 49 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 50 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
+| 33 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 34 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 36 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 37 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
+| 38 | [Münster](http://twitter.com/search?q=M%c3%bcnster) | N/A |
+| 39 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
+| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 41 | [heizkosten und strompreise](http://twitter.com/search?q=heizkosten+und+strompreise) | N/A |
+| 42 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 43 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 44 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
+| 49 | [Boerne](http://twitter.com/search?q=Boerne) | N/A |
+| 50 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
 
 
 
