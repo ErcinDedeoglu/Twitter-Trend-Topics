@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-06 00:28:54 UTC`
+📆 Last Updated: `2023-03-06 01:44:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 3 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
 | 4 | [#TDS2inJAKARTA_DAY2](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY2) | N/A |
-| 5 | [#KamiMauLiga2Baru](http://twitter.com/search?q=%23KamiMauLiga2Baru) | N/A |
+| 5 | [#FerragamoSS23xJENO](http://twitter.com/search?q=%23FerragamoSS23xJENO) | N/A |
 | 6 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 7 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 7 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
 | 8 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 9 | [Berdakwah Karena Allah](http://twitter.com/search?q=Berdakwah+Karena+Allah) | N/A |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 12 | [Wujudkan Persatuan Umat](http://twitter.com/search?q=Wujudkan+Persatuan+Umat) | N/A |
-| 13 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
-| 14 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 16 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 18 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 23 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 24 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
-| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 26 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 27 | [Kalah 7-0](http://twitter.com/search?q=Kalah+7-0) | N/A |
-| 28 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 29 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 30 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
-| 31 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
-| 32 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 34 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 35 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 36 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 37 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 38 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
-| 39 | [HAPPY BIRTHDAY WANG ZIHAO](http://twitter.com/search?q=HAPPY+BIRTHDAY+WANG+ZIHAO) | N/A |
-| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 11 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 12 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 13 | [Berdakwah Karena Allah](http://twitter.com/search?q=Berdakwah+Karena+Allah) | N/A |
+| 14 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 15 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
+| 16 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 17 | [Wujudkan Persatuan Umat](http://twitter.com/search?q=Wujudkan+Persatuan+Umat) | N/A |
+| 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 19 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 20 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 21 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 26 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
+| 27 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 28 | [Kalah](http://twitter.com/search?q=Kalah) | N/A |
+| 29 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 30 | [7 DAYS TO ROVER](http://twitter.com/search?q=7+DAYS+TO+ROVER) | N/A |
+| 31 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
+| 32 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 34 | [Gen 2](http://twitter.com/search?q=Gen+2) | N/A |
+| 35 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [HAPPY BIRTHDAY WANG ZIHAO](http://twitter.com/search?q=HAPPY+BIRTHDAY+WANG+ZIHAO) | N/A |
+| 39 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 40 | [EXO-Ls WILL ALWAYS WITH EXO](http://twitter.com/search?q=EXO-Ls+WILL+ALWAYS+WITH+EXO) | N/A |
 | 41 | [Munyuk](http://twitter.com/search?q=Munyuk) | N/A |
-| 42 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 43 | [Anjir 7-0](http://twitter.com/search?q=Anjir+7-0) | N/A |
-| 44 | [sprei](http://twitter.com/search?q=sprei) | N/A |
-| 45 | [Login](http://twitter.com/search?q=Login) | N/A |
-| 46 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 47 | [Bang](http://twitter.com/search?q=Bang) | N/A |
-| 48 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
-| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 43 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 44 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 45 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 46 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 47 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
+| 48 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 49 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 
 
 

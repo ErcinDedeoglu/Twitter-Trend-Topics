@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-06 00:29:34 UTC`
+📆 Last Updated: `2023-03-06 01:45:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
-| 2 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 3 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
-| 4 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 5 | [#BEFIRST](http://twitter.com/search?q=%23BEFIRST) | N/A |
-| 6 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 7 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 8 | [#Tポイントで何食べたいこれ食べたい](http://twitter.com/search?q=%23T%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%81%a7%e4%bd%95%e9%a3%9f%e3%81%b9%e3%81%9f%e3%81%84%e3%81%93%e3%82%8c%e9%a3%9f%e3%81%b9%e3%81%9f%e3%81%84) | N/A |
-| 9 | [ヤジマリー](http://twitter.com/search?q=%e3%83%a4%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%bc) | N/A |
-| 10 | [リーボック](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%83%9c%e3%83%83%e3%82%af) | N/A |
-| 11 | [スパーキング](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 12 | [御園さん](http://twitter.com/search?q=%e5%be%a1%e5%9c%92%e3%81%95%e3%82%93) | N/A |
-| 13 | [裁縫セット](http://twitter.com/search?q=%e8%a3%81%e7%b8%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 14 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
-| 15 | [BBBの衣装](http://twitter.com/search?q=BBB%e3%81%ae%e8%a1%a3%e8%a3%85) | N/A |
-| 16 | [ユナイテッド](http://twitter.com/search?q=%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89) | ユナイテッド is the Japanese word for "United". It is used to refer to something that is unified or joined together. |
-| 17 | [モクロー](http://twitter.com/search?q=%e3%83%a2%e3%82%af%e3%83%ad%e3%83%bc) | モクロー (mokurō) is a type of Japanese traditional confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually round in shape and covered with kinako (soybean flour). The name comes from the Japanese words for "mochi" and "round". In English, it can be translated as "rice cake ball". |
-| 18 | [HIPPYさん](http://twitter.com/search?q=HIPPY%e3%81%95%e3%82%93) | N/A |
-| 19 | [CSGO2](http://twitter.com/search?q=CSGO2) | N/A |
-| 20 | [辰巳くん](http://twitter.com/search?q=%e8%be%b0%e5%b7%b3%e3%81%8f%e3%82%93) | N/A |
-| 21 | [感情論抜き](http://twitter.com/search?q=%e6%84%9f%e6%83%85%e8%ab%96%e6%8a%9c%e3%81%8d) | N/A |
-| 22 | [我妻さん](http://twitter.com/search?q=%e6%88%91%e5%a6%bb%e3%81%95%e3%82%93) | N/A |
-| 23 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 24 | [Spring Kicks篇](http://twitter.com/search?q=Spring+Kicks%e7%af%87) | N/A |
-| 25 | [最幸の1週間](http://twitter.com/search?q=%e6%9c%80%e5%b9%b8%e3%81%ae1%e9%80%b1%e9%96%93) | N/A |
-| 26 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
-| 27 | [リバプール](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%97%e3%83%bc%e3%83%ab) | リバプール (Ribapuru) is the Japanese name for the English city of Liverpool. It is a port city in northwest England, located on the eastern side of the Mersey Estuary. The city is known for its rich musical and cultural heritage, as well as its football team, Liverpool FC. |
-| 28 | [TAGさん](http://twitter.com/search?q=TAG%e3%81%95%e3%82%93) | N/A |
-| 29 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 30 | [牛の処分](http://twitter.com/search?q=%e7%89%9b%e3%81%ae%e5%87%a6%e5%88%86) | N/A |
-| 31 | [スプレー合唱団](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc%e5%90%88%e5%94%b1%e5%9b%a3) | N/A |
-| 32 | [アルバロ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ad) | N/A |
-| 33 | [あなたの武器タイプ](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%ad%a6%e5%99%a8%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 34 | [西森さん](http://twitter.com/search?q=%e8%a5%bf%e6%a3%ae%e3%81%95%e3%82%93) | N/A |
-| 35 | [大昇くん](http://twitter.com/search?q=%e5%a4%a7%e6%98%87%e3%81%8f%e3%82%93) | N/A |
-| 36 | [辰巳雄大](http://twitter.com/search?q=%e8%be%b0%e5%b7%b3%e9%9b%84%e5%a4%a7) | N/A |
-| 37 | [武器タイプの人](http://twitter.com/search?q=%e6%ad%a6%e5%99%a8%e3%82%bf%e3%82%a4%e3%83%97%e3%81%ae%e4%ba%ba) | N/A |
-| 38 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
-| 39 | [第26話](http://twitter.com/search?q=%e7%ac%ac26%e8%a9%b1) | N/A |
-| 40 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
-| 41 | [女子風呂](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e9%a2%a8%e5%91%82) | N/A |
-| 42 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
-| 43 | [冬ごもり](http://twitter.com/search?q=%e5%86%ac%e3%81%94%e3%82%82%e3%82%8a) | N/A |
-| 44 | [世間の声](http://twitter.com/search?q=%e4%b8%96%e9%96%93%e3%81%ae%e5%a3%b0) | N/A |
-| 45 | [僕らの千年と－](http://twitter.com/search?q=%e5%83%95%e3%82%89%e3%81%ae%e5%8d%83%e5%b9%b4%e3%81%a8%ef%bc%8d) | N/A |
-| 46 | [フロリダディズニー](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc) | N/A |
-| 47 | [パンチングメタル](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%83%81%e3%83%b3%e3%82%b0%e3%83%a1%e3%82%bf%e3%83%ab) | N/A |
-| 48 | [キティさん](http://twitter.com/search?q=%e3%82%ad%e3%83%86%e3%82%a3%e3%81%95%e3%82%93) | N/A |
-| 49 | [KUMAMONday](http://twitter.com/search?q=KUMAMONday) | N/A |
-| 50 | [ポンプフューリー](http://twitter.com/search?q=%e3%83%9d%e3%83%b3%e3%83%97%e3%83%95%e3%83%a5%e3%83%bc%e3%83%aa%e3%83%bc) | N/A |
+| 1 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 2 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 3 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 4 | [モクロー](http://twitter.com/search?q=%e3%83%a2%e3%82%af%e3%83%ad%e3%83%bc) | モクロー (mokurō) is a type of Japanese traditional confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually round in shape and covered with kinako (soybean flour). The name comes from the Japanese words for "mochi" and "round". In English, it can be translated as "rice cake ball". |
+| 5 | [#明しっかりしなさい](http://twitter.com/search?q=%23%e6%98%8e%e3%81%97%e3%81%a3%e3%81%8b%e3%82%8a%e3%81%97%e3%81%aa%e3%81%95%e3%81%84) | N/A |
+| 6 | [加藤さん](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 7 | [#ShiningOne](http://twitter.com/search?q=%23ShiningOne) | N/A |
+| 8 | [スパーキング](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 9 | [#ByeGoodBye](http://twitter.com/search?q=%23ByeGoodBye) | N/A |
+| 10 | [裁縫セット](http://twitter.com/search?q=%e8%a3%81%e7%b8%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 11 | [ビーファ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%95%e3%82%a1) | N/A |
+| 12 | [リーボック](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%83%9c%e3%83%83%e3%82%af) | N/A |
+| 13 | [CSGO2](http://twitter.com/search?q=CSGO2) | N/A |
+| 14 | [ヤジマリー](http://twitter.com/search?q=%e3%83%a4%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%bc) | N/A |
+| 15 | [ハラバリー](http://twitter.com/search?q=%e3%83%8f%e3%83%a9%e3%83%90%e3%83%aa%e3%83%bc) | ハラバリー (harabarī) is a Japanese term for a type of party or gathering where people exchange small gifts. It is similar to a Secret Santa or White Elephant gift exchange. The term comes from the Japanese words "hara" (stomach) and "barai" (to sweep away), which together mean to give something away in order to make someone else happy. |
+| 16 | [感情論抜き](http://twitter.com/search?q=%e6%84%9f%e6%83%85%e8%ab%96%e6%8a%9c%e3%81%8d) | N/A |
+| 17 | [BBBの衣装](http://twitter.com/search?q=BBB%e3%81%ae%e8%a1%a3%e8%a3%85) | N/A |
+| 18 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 19 | [最幸の1週間](http://twitter.com/search?q=%e6%9c%80%e5%b9%b8%e3%81%ae1%e9%80%b1%e9%96%93) | N/A |
+| 20 | [御園さん](http://twitter.com/search?q=%e5%be%a1%e5%9c%92%e3%81%95%e3%82%93) | N/A |
+| 21 | [川島さん](http://twitter.com/search?q=%e5%b7%9d%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
+| 22 | [辰巳くん](http://twitter.com/search?q=%e8%be%b0%e5%b7%b3%e3%81%8f%e3%82%93) | N/A |
+| 23 | [世間の声](http://twitter.com/search?q=%e4%b8%96%e9%96%93%e3%81%ae%e5%a3%b0) | N/A |
+| 24 | [女子風呂](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e9%a2%a8%e5%91%82) | N/A |
+| 25 | [牛の処分](http://twitter.com/search?q=%e7%89%9b%e3%81%ae%e5%87%a6%e5%88%86) | N/A |
+| 26 | [ユナイテッド](http://twitter.com/search?q=%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89) | ユナイテッド is the Japanese word for "United". It is used to refer to something that is unified or joined together. |
+| 27 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
+| 28 | [アンバサダー就任](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%90%e3%82%b5%e3%83%80%e3%83%bc%e5%b0%b1%e4%bb%bb) | N/A |
+| 29 | [ザストの映像](http://twitter.com/search?q=%e3%82%b6%e3%82%b9%e3%83%88%e3%81%ae%e6%98%a0%e5%83%8f) | N/A |
+| 30 | [飛行テラス](http://twitter.com/search?q=%e9%a3%9b%e8%a1%8c%e3%83%86%e3%83%a9%e3%82%b9) | N/A |
+| 31 | [擁護の声](http://twitter.com/search?q=%e6%93%81%e8%ad%b7%e3%81%ae%e5%a3%b0) | N/A |
+| 32 | [シャニワン](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%af%e3%83%b3) | N/A |
+| 33 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
+| 34 | [TAGさん](http://twitter.com/search?q=TAG%e3%81%95%e3%82%93) | N/A |
+| 35 | [橋本愛さん](http://twitter.com/search?q=%e6%a9%8b%e6%9c%ac%e6%84%9b%e3%81%95%e3%82%93) | N/A |
+| 36 | [キャラ数](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a9%e6%95%b0) | N/A |
+| 37 | [第409回](http://twitter.com/search?q=%e7%ac%ac409%e5%9b%9e) | N/A |
+| 38 | [HIPPYさん](http://twitter.com/search?q=HIPPY%e3%81%95%e3%82%93) | N/A |
+| 39 | [ドッジ弾子](http://twitter.com/search?q=%e3%83%89%e3%83%83%e3%82%b8%e5%bc%be%e5%ad%90) | N/A |
+| 40 | [Spring Kicks篇](http://twitter.com/search?q=Spring+Kicks%e7%af%87) | N/A |
+| 41 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 42 | [冬ごもり](http://twitter.com/search?q=%e5%86%ac%e3%81%94%e3%82%82%e3%82%8a) | N/A |
+| 43 | [プンポロドイハ](http://twitter.com/search?q=%e3%83%97%e3%83%b3%e3%83%9d%e3%83%ad%e3%83%89%e3%82%a4%e3%83%8f) | N/A |
+| 44 | [我妻さん](http://twitter.com/search?q=%e6%88%91%e5%a6%bb%e3%81%95%e3%82%93) | N/A |
+| 45 | [えぺ診断](http://twitter.com/search?q=%e3%81%88%e3%81%ba%e8%a8%ba%e6%96%ad) | N/A |
+| 46 | [大昇くん](http://twitter.com/search?q=%e5%a4%a7%e6%98%87%e3%81%8f%e3%82%93) | N/A |
+| 47 | [西森さん](http://twitter.com/search?q=%e8%a5%bf%e6%a3%ae%e3%81%95%e3%82%93) | N/A |
+| 48 | [スプレー合唱団](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc%e5%90%88%e5%94%b1%e5%9b%a3) | N/A |
+| 49 | [チャンミン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-06 00:29:32 UTC`
+📆 Last Updated: `2023-03-06 01:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Singapore
 | 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 8 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 11 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 13 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 14 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 15 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 9 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 10 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 12 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 16 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [Neyo](http://twitter.com/search?q=Neyo) | N/A |
-| 19 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
-| 20 | [MondayVibes KIANOs](http://twitter.com/search?q=MondayVibes+KIANOs) | N/A |
-| 21 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 22 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 23 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 24 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 17 | [NEYO](http://twitter.com/search?q=NEYO) | N/A |
+| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 21 | [MondayVibes KIANOs](http://twitter.com/search?q=MondayVibes+KIANOs) | N/A |
+| 22 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 24 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 25 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 27 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 29 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 32 | [Anirudh](http://twitter.com/search?q=Anirudh) | N/A |
-| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 34 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
-| 35 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 37 | [Reiss](http://twitter.com/search?q=Reiss) | N/A |
-| 38 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 39 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 40 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 41 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 42 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 43 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 44 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 45 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 26 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 28 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 30 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 31 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
+| 32 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
+| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 34 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 35 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 36 | [Anirudh](http://twitter.com/search?q=Anirudh) | N/A |
+| 37 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 38 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 41 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 42 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 43 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 44 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 45 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 46 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
-| 47 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 48 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 49 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 50 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 47 | [Bless](http://twitter.com/search?q=Bless) | N/A |
+| 48 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 50 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 
 
 

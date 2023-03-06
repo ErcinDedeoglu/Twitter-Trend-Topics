@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-06 00:28:40 UTC`
+📆 Last Updated: `2023-03-06 01:44:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jackson Rodríguez](http://twitter.com/search?q=Jackson+Rodr%c3%adguez) | N/A |
-| 2 | [Richard Calderón](http://twitter.com/search?q=Richard+Calder%c3%b3n) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#Emelec](http://twitter.com/search?q=%23Emelec) | N/A |
-| 5 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 6 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
-| 7 | [#Orense](http://twitter.com/search?q=%23Orense) | N/A |
-| 8 | [#GuayaquilCity](http://twitter.com/search?q=%23GuayaquilCity) | N/A |
-| 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 11 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 14 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 18 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 21 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 22 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 25 | [Lele](http://twitter.com/search?q=Lele) | N/A |
-| 26 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 28 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 29 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 31 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 32 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
-| 33 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 34 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
-| 35 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 36 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 37 | [Banisi](http://twitter.com/search?q=Banisi) | N/A |
-| 38 | [FEUE](http://twitter.com/search?q=FEUE) | N/A |
-| 39 | [DULCES 31 MACA](http://twitter.com/search?q=DULCES+31+MACA) | N/A |
-| 40 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 41 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 42 | [Naranja](http://twitter.com/search?q=Naranja) | N/A |
-| 43 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
-| 44 | [Con 104](http://twitter.com/search?q=Con+104) | N/A |
-| 45 | [Chicaiza](http://twitter.com/search?q=Chicaiza) | N/A |
-| 46 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 48 | [De a 5](http://twitter.com/search?q=De+a+5) | N/A |
-| 49 | [Echaleche](http://twitter.com/search?q=Echaleche) | N/A |
-| 50 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 2 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 3 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 4 | [Orense](http://twitter.com/search?q=Orense) | N/A |
+| 5 | [Richard Calderón](http://twitter.com/search?q=Richard+Calder%c3%b3n) | N/A |
+| 6 | [Achilier](http://twitter.com/search?q=Achilier) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 9 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 10 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 11 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
+| 12 | [Machala](http://twitter.com/search?q=Machala) | N/A |
+| 13 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Guayaquil City](http://twitter.com/search?q=Guayaquil+City) | N/A |
+| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 17 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 18 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 21 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 22 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 23 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 24 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 25 | [#LassoAJuicio](http://twitter.com/search?q=%23LassoAJuicio) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 27 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
+| 28 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 29 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 30 | [Lele](http://twitter.com/search?q=Lele) | N/A |
+| 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 33 | [#MushucRuna](http://twitter.com/search?q=%23MushucRuna) | N/A |
+| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 35 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 36 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 37 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 38 | [Banisi](http://twitter.com/search?q=Banisi) | N/A |
+| 39 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 40 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 41 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 42 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 43 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
+| 44 | [Roja](http://twitter.com/search?q=Roja) | N/A |
+| 45 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 46 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 47 | [Con 104](http://twitter.com/search?q=Con+104) | N/A |
+| 48 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
+| 49 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 50 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 
 
 
