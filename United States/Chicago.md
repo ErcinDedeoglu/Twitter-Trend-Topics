@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-06 15:16:38 UTC`
+📆 Last Updated: `2023-03-06 16:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 3 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 8 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 10 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 4 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 5 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 6 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 7 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 8 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
 | 11 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 12 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 13 | [Allen Robinson](http://twitter.com/search?q=Allen+Robinson) | N/A |
-| 14 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 15 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 16 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 17 | [National School Breakfast Week](http://twitter.com/search?q=National+School+Breakfast+Week) | N/A |
-| 18 | [Remember the Alamo](http://twitter.com/search?q=Remember+the+Alamo) | N/A |
-| 19 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
-| 20 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 21 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 22 | [School Social Workers](http://twitter.com/search?q=School+Social+Workers) | N/A |
-| 23 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 24 | [Lynyrd Skynyrd](http://twitter.com/search?q=Lynyrd+Skynyrd) | N/A |
-| 25 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 26 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
-| 27 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
-| 28 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 29 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 30 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 31 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 32 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 33 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 34 | [David Gilmour](http://twitter.com/search?q=David+Gilmour) | N/A |
+| 12 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 13 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 14 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 15 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 16 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
+| 17 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 18 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
+| 19 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
+| 20 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
+| 21 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 22 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
+| 23 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 24 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
+| 25 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 26 | [Sam Bradford](http://twitter.com/search?q=Sam+Bradford) | N/A |
+| 27 | [Leonard Floyd](http://twitter.com/search?q=Leonard+Floyd) | N/A |
+| 28 | [Allen Robinson](http://twitter.com/search?q=Allen+Robinson) | N/A |
+| 29 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 30 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
+| 31 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 32 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
+| 33 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 34 | [Women in Construction Week](http://twitter.com/search?q=Women+in+Construction+Week) | N/A |
 | 35 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 36 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 37 | [The Big Lebowski](http://twitter.com/search?q=The+Big+Lebowski) | N/A |
-| 38 | [Splinter](http://twitter.com/search?q=Splinter) | N/A |
-| 39 | [Cop City](http://twitter.com/search?q=Cop+City) | N/A |
-| 40 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 41 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 42 | [PEMDAS](http://twitter.com/search?q=PEMDAS) | N/A |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
-| 45 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 46 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
-| 47 | [Trading Places](http://twitter.com/search?q=Trading+Places) | N/A |
-| 48 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 49 | [SEIZED](http://twitter.com/search?q=SEIZED) | N/A |
-| 50 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 36 | [Callaway](http://twitter.com/search?q=Callaway) | N/A |
+| 37 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
+| 38 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 39 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 40 | [The Big Lebowski](http://twitter.com/search?q=The+Big+Lebowski) | N/A |
+| 41 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 42 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 43 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 44 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 45 | [National School Breakfast Week](http://twitter.com/search?q=National+School+Breakfast+Week) | N/A |
+| 46 | [Taysom Hill](http://twitter.com/search?q=Taysom+Hill) | Taysom Hill is an American football quarterback for the New Orleans Saints of the National Football League (NFL). He is known for his versatility, having played multiple positions on offense and special teams. The name "Taysom Hill" is derived from his given name, Tayson, and his middle name, Hill. |
+| 47 | [School Social Workers](http://twitter.com/search?q=School+Social+Workers) | N/A |
+| 48 | [Casimir Pulaski](http://twitter.com/search?q=Casimir+Pulaski) | N/A |
+| 49 | [Harrington](http://twitter.com/search?q=Harrington) | N/A |
+| 50 | [Donatello](http://twitter.com/search?q=Donatello) | N/A |
 
 
 

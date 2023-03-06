@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-06 15:16:32 UTC`
+📆 Last Updated: `2023-03-06 16:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#QaviKhan](http://twitter.com/search?q=%23QaviKhan) | N/A |
 | 3 | [#عمران_خان_ہماری_ریڈ_لائن](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%db%81%d9%85%d8%a7%d8%b1%db%8c_%d8%b1%db%8c%da%88_%d9%84%d8%a7%d8%a6%d9%86) | #عمران_خان_ہماری_ریڈ_لائن is a hashtag used by Imran Khan, the Prime Minister of Pakistan, to promote his vision for a new Pakistan. The phrase translates to "Imran Khan: Our Red Line" and is meant to signify the line that should not be crossed in order to achieve progress and development in the country. |
 | 4 | [#عمران_نہ_صادق_نہ_امین](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d9%86%db%81_%d8%b5%d8%a7%d8%af%d9%82_%d9%86%db%81_%d8%a7%d9%85%db%8c%d9%86) | N/A |
-| 5 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 6 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [umar akmal](http://twitter.com/search?q=umar+akmal) | N/A |
-| 9 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 10 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 11 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 12 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 13 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 14 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 17 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 5 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 8 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 9 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 10 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 11 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 12 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
+| 13 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 14 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 15 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 16 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 17 | [London](http://twitter.com/search?q=London) | N/A |
 | 18 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
 | 19 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
 | 20 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 21 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
-| 22 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
-| 23 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 24 | [Bolan](http://twitter.com/search?q=Bolan) | N/A |
-| 25 | [Altaf](http://twitter.com/search?q=Altaf) | N/A |
-| 26 | [Sibi](http://twitter.com/search?q=Sibi) | N/A |
-| 27 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
-| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 29 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 30 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Hamza Shahbaz](http://twitter.com/search?q=Hamza+Shahbaz) | N/A |
-| 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 35 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
-| 36 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 37 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 38 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 39 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 40 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 21 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
+| 22 | [bolan](http://twitter.com/search?q=bolan) | N/A |
+| 23 | [Altaf](http://twitter.com/search?q=Altaf) | N/A |
+| 24 | [Sibi](http://twitter.com/search?q=Sibi) | N/A |
+| 25 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 27 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 28 | [LIFAFA](http://twitter.com/search?q=LIFAFA) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [hamza shahbaz](http://twitter.com/search?q=hamza+shahbaz) | N/A |
+| 31 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
+| 32 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 33 | [Qasim](http://twitter.com/search?q=Qasim) | N/A |
+| 34 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 35 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 36 | [Fear](http://twitter.com/search?q=Fear) | N/A |
+| 37 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 38 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 39 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 40 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
 | 41 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 42 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 43 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 44 | [England](http://twitter.com/search?q=England) | N/A |
-| 45 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 42 | [Saifi](http://twitter.com/search?q=Saifi) | Saifi is an Arabic name that means "one who is pure". It is also used as a surname. |
+| 43 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 44 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 45 | [Burger](http://twitter.com/search?q=Burger) | N/A |
 | 46 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 47 | [America](http://twitter.com/search?q=America) | N/A |
-| 48 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
-| 49 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 47 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
+| 48 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 49 | [Post Prime Minister](http://twitter.com/search?q=Post+Prime+Minister) | N/A |
 
 
 

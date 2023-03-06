@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-06 15:15:57 UTC`
+📆 Last Updated: `2023-03-06 16:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 8 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 9 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 8 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 9 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 10 | [Gilles Courteau](http://twitter.com/search?q=Gilles+Courteau) | N/A |
-| 11 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 13 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [M. Houde](http://twitter.com/search?q=M.+Houde) | N/A |
-| 16 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 11 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 12 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 15 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 16 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 18 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 19 | [Gord](http://twitter.com/search?q=Gord) | N/A |
-| 20 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 21 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 22 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 25 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 26 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 27 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 28 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 31 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 32 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 33 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 34 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 35 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 38 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 39 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
-| 40 | [Take Back Alberta](http://twitter.com/search?q=Take+Back+Alberta) | N/A |
-| 41 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 44 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 45 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 46 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 47 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 48 | [jose bautista](http://twitter.com/search?q=jose+bautista) | N/A |
+| 18 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 20 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 21 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 22 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 25 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 26 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [Turtles](http://twitter.com/search?q=Turtles) | N/A |
+| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 30 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 31 | [Gord](http://twitter.com/search?q=Gord) | N/A |
+| 32 | [M. Houde](http://twitter.com/search?q=M.+Houde) | N/A |
+| 33 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 34 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 35 | [Queen's Park](http://twitter.com/search?q=Queen%27s+Park) | N/A |
+| 36 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 37 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 38 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 39 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 40 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 41 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 42 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 43 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 44 | [Take Back Alberta](http://twitter.com/search?q=Take+Back+Alberta) | N/A |
+| 45 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
+| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 47 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 48 | [Katie](http://twitter.com/search?q=Katie) | N/A |
 
 
 
