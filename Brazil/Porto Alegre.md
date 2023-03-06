@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-06 14:16:27 UTC`
+📆 Last Updated: `2023-03-06 15:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 2 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 1 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 2 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
 | 3 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
-| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 6 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
-| 7 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 8 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 9 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 4 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
+| 5 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
+| 6 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 7 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 8 | [#encontro](http://twitter.com/search?q=%23encontro) | N/A |
+| 9 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
 | 10 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
-| 11 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
-| 12 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 13 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 14 | [Revolução Pernambucana](http://twitter.com/search?q=Revolu%c3%a7%c3%a3o+Pernambucana) | N/A |
-| 15 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 16 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 17 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
-| 18 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 19 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 21 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 22 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 23 | [Tropeçou](http://twitter.com/search?q=Trope%c3%a7ou) | N/A |
-| 24 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 25 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
-| 26 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 27 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 28 | [Alfacer](http://twitter.com/search?q=Alfacer) | N/A |
-| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 30 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
-| 31 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 32 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 33 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 34 | [Charlie Brown Jr](http://twitter.com/search?q=Charlie+Brown+Jr) | N/A |
-| 35 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 36 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 37 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
-| 38 | [Ricardo Alface](http://twitter.com/search?q=Ricardo+Alface) | N/A |
-| 39 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 40 | [bandai](http://twitter.com/search?q=bandai) | N/A |
-| 41 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 42 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
-| 43 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 44 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
-| 45 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 46 | [Bocoió](http://twitter.com/search?q=Bocoi%c3%b3) | N/A |
-| 47 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 48 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 49 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 50 | [#TeamAlface](http://twitter.com/search?q=%23TeamAlface) | N/A |
+| 11 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 12 | [#PernambucoMeuPaís](http://twitter.com/search?q=%23PernambucoMeuPa%c3%ads) | N/A |
+| 13 | [Spiderverse](http://twitter.com/search?q=Spiderverse) | N/A |
+| 14 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 15 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
+| 16 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
+| 17 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
+| 18 | [Revolução Pernambucana](http://twitter.com/search?q=Revolu%c3%a7%c3%a3o+Pernambucana) | N/A |
+| 19 | [CBJR](http://twitter.com/search?q=CBJR) | N/A |
+| 20 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 21 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 22 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 24 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 25 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 26 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 27 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 28 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 29 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 30 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 31 | [Tropeçou](http://twitter.com/search?q=Trope%c3%a7ou) | N/A |
+| 32 | [Charlie Brown Jr](http://twitter.com/search?q=Charlie+Brown+Jr) | N/A |
+| 33 | [Alfacer](http://twitter.com/search?q=Alfacer) | N/A |
+| 34 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 35 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
+| 36 | [Reforço](http://twitter.com/search?q=Refor%c3%a7o) | N/A |
+| 37 | [Se a Sarah](http://twitter.com/search?q=Se+a+Sarah) | N/A |
+| 38 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 39 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 40 | [chata pra caralho](http://twitter.com/search?q=chata+pra+caralho) | N/A |
+| 41 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 42 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
+| 43 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 44 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 45 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 46 | [Ricardo Alface](http://twitter.com/search?q=Ricardo+Alface) | N/A |
+| 47 | [Bandai](http://twitter.com/search?q=Bandai) | N/A |
+| 48 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
+| 49 | [Saboneteiro](http://twitter.com/search?q=Saboneteiro) | N/A |
+| 50 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
 
 
 

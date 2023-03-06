@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-06 14:16:31 UTC`
+📆 Last Updated: `2023-03-06 15:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [#ECFG16](http://twitter.com/search?q=%23ECFG16) | N/A |
 | 7 | [#SCRRBS](http://twitter.com/search?q=%23SCRRBS) | N/A |
 | 8 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 9 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 10 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 11 | [peter kaiser](http://twitter.com/search?q=peter+kaiser) | N/A |
-| 12 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
-| 13 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 14 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 9 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 10 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 11 | [Peter Kaiser](http://twitter.com/search?q=Peter+Kaiser) | N/A |
+| 12 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 13 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 14 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
 | 15 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
 | 16 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 17 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
-| 18 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 19 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 20 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Köfer](http://twitter.com/search?q=K%c3%b6fer) | N/A |
+| 17 | [nationalratswahl](http://twitter.com/search?q=nationalratswahl) | N/A |
+| 18 | [Hochrechnungen](http://twitter.com/search?q=Hochrechnungen) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 21 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 22 | [köfer](http://twitter.com/search?q=k%c3%b6fer) | N/A |
 | 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 24 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
-| 25 | [Sessel](http://twitter.com/search?q=Sessel) | N/A |
+| 25 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
 | 26 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 27 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
-| 28 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 29 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 30 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
-| 31 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 32 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 33 | [fleischlaberl](http://twitter.com/search?q=fleischlaberl) | N/A |
-| 34 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 35 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 36 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
-| 39 | [NR-Wahl](http://twitter.com/search?q=NR-Wahl) | N/A |
-| 40 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 41 | [Zugewinn](http://twitter.com/search?q=Zugewinn) | N/A |
-| 42 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 43 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 44 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 45 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 46 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 47 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 48 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
-| 49 | [Duell](http://twitter.com/search?q=Duell) | N/A |
-| 50 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
+| 27 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 28 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 29 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 30 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 31 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 32 | [fleischlaberl](http://twitter.com/search?q=fleischlaberl) | N/A |
+| 33 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
+| 36 | [NR-Wahl](http://twitter.com/search?q=NR-Wahl) | N/A |
+| 37 | [Zugewinn](http://twitter.com/search?q=Zugewinn) | N/A |
+| 38 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 39 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 40 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
+| 41 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 42 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 43 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
+| 44 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
+| 45 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 46 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 47 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 48 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 49 | [Abgang](http://twitter.com/search?q=Abgang) | N/A |
+| 50 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
 
 
 

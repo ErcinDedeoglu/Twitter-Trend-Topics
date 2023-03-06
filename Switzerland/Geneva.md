@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-06 14:16:37 UTC`
+📆 Last Updated: `2023-03-06 15:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 | 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 6 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 7 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 8 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 10 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 11 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 14 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 15 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
-| 16 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
-| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 19 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 20 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 21 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 23 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 24 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
-| 25 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 29 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 30 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 31 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 32 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 33 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 34 | [dittli](http://twitter.com/search?q=dittli) | N/A |
+| 5 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 6 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 7 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 9 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 10 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 13 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
+| 14 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 15 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 18 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [herr köppel](http://twitter.com/search?q=herr+k%c3%b6ppel) | N/A |
+| 21 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 25 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 26 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 27 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 28 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 29 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
+| 30 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 31 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 32 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 33 | [dittli](http://twitter.com/search?q=dittli) | N/A |
+| 34 | [Boom](http://twitter.com/search?q=Boom) | N/A |
 | 35 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 36 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 37 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 36 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 37 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
 | 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 39 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 40 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 41 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 42 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 43 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
-| 44 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 45 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 46 | [gruyère](http://twitter.com/search?q=gruy%c3%a8re) | N/A |
-| 47 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 39 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 40 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
+| 41 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 43 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 46 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 47 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
+| 48 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
 
 
 

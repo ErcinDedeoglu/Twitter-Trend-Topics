@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-06 14:17:23 UTC`
+📆 Last Updated: `2023-03-06 15:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#100KForBuildFam](http://twitter.com/search?q=%23100KForBuildFam) | N/A |
-| 2 | [THANKS FOR LUVING BUILD](http://twitter.com/search?q=THANKS+FOR+LUVING+BUILD) | N/A |
-| 3 | [LiuYu in Paris](http://twitter.com/search?q=LiuYu+in+Paris) | N/A |
+| 1 | [LiuYu in Paris](http://twitter.com/search?q=LiuYu+in+Paris) | N/A |
+| 2 | [#100KForBuildFam](http://twitter.com/search?q=%23100KForBuildFam) | N/A |
+| 3 | [THANKS FOR LUVING BUILD](http://twitter.com/search?q=THANKS+FOR+LUVING+BUILD) | N/A |
 | 4 | [#มีนานี้จะโอบกอดบิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%88%e0%b8%b0%e0%b9%82%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%ad%e0%b8%94%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
 | 5 | [love baby build](http://twitter.com/search?q=love+baby+build) | N/A |
 | 6 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
 | 7 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 8 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 9 | [#gptminer](http://twitter.com/search?q=%23gptminer) | N/A |
+| 8 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
+| 9 | [#CHANELFallWinter](http://twitter.com/search?q=%23CHANELFallWinter) | N/A |
 | 10 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
-| 11 | [NNINE STARBOX MAGAZINE](http://twitter.com/search?q=NNINE+STARBOX+MAGAZINE) | N/A |
-| 12 | [Lee Young Ji](http://twitter.com/search?q=Lee+Young+Ji) | N/A |
+| 11 | [Biu Fam](http://twitter.com/search?q=Biu+Fam) | N/A |
+| 12 | [lee young ji](http://twitter.com/search?q=lee+young+ji) | N/A |
 | 13 | [$TRU](http://twitter.com/search?q=%24TRU) | N/A |
-| 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 15 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 16 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 17 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 15 | [Wild](http://twitter.com/search?q=Wild) | N/A |
+| 16 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 17 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 18 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 19 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 20 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 21 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 22 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 23 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 24 | [Wild](http://twitter.com/search?q=Wild) | N/A |
-| 25 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 26 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
-| 27 | [byls](http://twitter.com/search?q=byls) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Jubail](http://twitter.com/search?q=Jubail) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 22 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 23 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [byls](http://twitter.com/search?q=byls) | N/A |
+| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 27 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 31 | [Nghe](http://twitter.com/search?q=Nghe) | N/A |
-| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 33 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 32 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 33 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 34 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 35 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 36 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 37 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 36 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 38 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Tháng 3](http://twitter.com/search?q=Th%c3%a1ng+3) | N/A |
-| 41 | [đáng](http://twitter.com/search?q=%c4%91%c3%a1ng) | N/A |
-| 42 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 39 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 40 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 41 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 42 | [Trời](http://twitter.com/search?q=Tr%e1%bb%9di) | N/A |
 | 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 45 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
-| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 44 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
+| 45 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 47 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 48 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
-| 49 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 50 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 48 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 49 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 50 | [nhìn](http://twitter.com/search?q=nh%c3%acn) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-06 14:16:49 UTC`
+📆 Last Updated: `2023-03-06 15:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [BGYO TWITTER COMEBACK](http://twitter.com/search?q=BGYO+TWITTER+COMEBACK) | N/A |
-| 2 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 3 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 4 | [#DLFoolingAround](http://twitter.com/search?q=%23DLFoolingAround) | N/A |
-| 5 | [#BingBingMine](http://twitter.com/search?q=%23BingBingMine) | N/A |
-| 6 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
-| 7 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
-| 8 | [Prince Ang PIEgbabalik](http://twitter.com/search?q=Prince+Ang+PIEgbabalik) | N/A |
-| 9 | [HYEIN AT PARIS FASHION WEEK](http://twitter.com/search?q=HYEIN+AT+PARIS+FASHION+WEEK) | N/A |
-| 10 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 11 | [JOSH AT MANDY TEENadhana](http://twitter.com/search?q=JOSH+AT+MANDY+TEENadhana) | N/A |
-| 12 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 14 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 15 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 16 | [DAVID AtKawayanFestival](http://twitter.com/search?q=DAVID+AtKawayanFestival) | N/A |
-| 17 | [NO TO JEEPNEY PHASEOUT](http://twitter.com/search?q=NO+TO+JEEPNEY+PHASEOUT) | N/A |
-| 18 | [Kasalanan](http://twitter.com/search?q=Kasalanan) | N/A |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 21 | [K-POP](http://twitter.com/search?q=K-POP) | N/A |
-| 22 | [Kath](http://twitter.com/search?q=Kath) | N/A |
-| 23 | [Quen](http://twitter.com/search?q=Quen) | N/A |
-| 24 | [PISTON](http://twitter.com/search?q=PISTON) | N/A |
-| 25 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 26 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
-| 27 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
-| 28 | [#UrdujaPagsabog](http://twitter.com/search?q=%23UrdujaPagsabog) | N/A |
-| 29 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 30 | [#DreamChasersTagumPIE](http://twitter.com/search?q=%23DreamChasersTagumPIE) | N/A |
-| 31 | [#LVFW23](http://twitter.com/search?q=%23LVFW23) | N/A |
-| 32 | [#HYEINxLV](http://twitter.com/search?q=%23HYEINxLV) | N/A |
-| 33 | [#puredoctrinesofchrist](http://twitter.com/search?q=%23puredoctrinesofchrist) | N/A |
-| 34 | [#PreorderJISOOsoloNOW](http://twitter.com/search?q=%23PreorderJISOOsoloNOW) | N/A |
-| 35 | [#PRINCEbratatatataToPIE](http://twitter.com/search?q=%23PRINCEbratatatataToPIE) | N/A |
-| 36 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 37 | [#FPJBQPagtanggap](http://twitter.com/search?q=%23FPJBQPagtanggap) | N/A |
-| 38 | [#BingoPlus](http://twitter.com/search?q=%23BingoPlus) | N/A |
-| 39 | [#ArcticMonkeysManila](http://twitter.com/search?q=%23ArcticMonkeysManila) | N/A |
-| 40 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 41 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 42 | [#DavidForScout](http://twitter.com/search?q=%23DavidForScout) | N/A |
-| 43 | [#SB19_PABLO](http://twitter.com/search?q=%23SB19_PABLO) | N/A |
-| 44 | [#DAVIDxCongressNightAbra](http://twitter.com/search?q=%23DAVIDxCongressNightAbra) | N/A |
-| 45 | [#JAYRMyDreamIdol](http://twitter.com/search?q=%23JAYRMyDreamIdol) | N/A |
-| 46 | [#JayrAlbino](http://twitter.com/search?q=%23JayrAlbino) | N/A |
-| 47 | [#enhypen_jake](http://twitter.com/search?q=%23enhypen_jake) | N/A |
-| 48 | [#yestobbmsaraphaseout](http://twitter.com/search?q=%23yestobbmsaraphaseout) | N/A |
-| 49 | [#NoToChaCha](http://twitter.com/search?q=%23NoToChaCha) | N/A |
+| 2 | [#멜로디의_우주_현식이의_생일날](http://twitter.com/search?q=%23%eb%a9%9c%eb%a1%9c%eb%94%94%ec%9d%98_%ec%9a%b0%ec%a3%bc_%ed%98%84%ec%8b%9d%ec%9d%b4%ec%9d%98_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 3 | [#BrightestStarHyunsikDay](http://twitter.com/search?q=%23BrightestStarHyunsikDay) | N/A |
+| 4 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 5 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 6 | [#ROVER_TeaserImage3](http://twitter.com/search?q=%23ROVER_TeaserImage3) | N/A |
+| 7 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 8 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 9 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 10 | [EUNBI](http://twitter.com/search?q=EUNBI) | N/A |
+| 11 | [Luda](http://twitter.com/search?q=Luda) | N/A |
+| 12 | [YOON JEONGHAN](http://twitter.com/search?q=YOON+JEONGHAN) | N/A |
+| 13 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
+| 14 | [Prince Ang PIEgbabalik](http://twitter.com/search?q=Prince+Ang+PIEgbabalik) | N/A |
+| 15 | [HYEIN AT PARIS FASHION WEEK](http://twitter.com/search?q=HYEIN+AT+PARIS+FASHION+WEEK) | N/A |
+| 16 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 17 | [DOST](http://twitter.com/search?q=DOST) | N/A |
+| 18 | [JOSH AT MANDY TEENadhana](http://twitter.com/search?q=JOSH+AT+MANDY+TEENadhana) | N/A |
+| 19 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 21 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 23 | [NO TO JEEPNEY PHASEOUT](http://twitter.com/search?q=NO+TO+JEEPNEY+PHASEOUT) | N/A |
+| 24 | [Kasalanan](http://twitter.com/search?q=Kasalanan) | N/A |
+| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 26 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 27 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 28 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 29 | [Kath](http://twitter.com/search?q=Kath) | N/A |
+| 30 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
+| 31 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
+| 32 | [#DLFoolingAround](http://twitter.com/search?q=%23DLFoolingAround) | N/A |
+| 33 | [#BingBingMine](http://twitter.com/search?q=%23BingBingMine) | N/A |
+| 34 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
+| 35 | [#PreorderJISOOsoloNOW](http://twitter.com/search?q=%23PreorderJISOOsoloNOW) | N/A |
+| 36 | [#UrdujaPagsabog](http://twitter.com/search?q=%23UrdujaPagsabog) | N/A |
+| 37 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 38 | [#LVFW23](http://twitter.com/search?q=%23LVFW23) | N/A |
+| 39 | [#HYEINxLV](http://twitter.com/search?q=%23HYEINxLV) | N/A |
+| 40 | [#ArcticMonkeysManila](http://twitter.com/search?q=%23ArcticMonkeysManila) | N/A |
+| 41 | [#MarchWithBingoPlus](http://twitter.com/search?q=%23MarchWithBingoPlus) | N/A |
+| 42 | [#DreamChasersTagumPIE](http://twitter.com/search?q=%23DreamChasersTagumPIE) | N/A |
+| 43 | [#7YearsWithTheRidleys](http://twitter.com/search?q=%237YearsWithTheRidleys) | N/A |
+| 44 | [#fpjbqpagtanggap](http://twitter.com/search?q=%23fpjbqpagtanggap) | N/A |
+| 45 | [#PRINCEbratatatataToPIE](http://twitter.com/search?q=%23PRINCEbratatatataToPIE) | N/A |
+| 46 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 47 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
+| 48 | [#davidforscout](http://twitter.com/search?q=%23davidforscout) | N/A |
+| 49 | [#enhypen_jake](http://twitter.com/search?q=%23enhypen_jake) | N/A |
 
 
 

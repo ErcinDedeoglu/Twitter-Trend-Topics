@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jerusalem
 
-📆 Last Updated: `2023-03-06 14:16:53 UTC`
+📆 Last Updated: `2023-03-06 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
