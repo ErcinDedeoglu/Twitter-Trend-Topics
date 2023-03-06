@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-05 23:17:15 UTC`
+📆 Last Updated: `2023-03-06 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 2 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 3 | [Fernando Alonso](http://twitter.com/search?q=Fernando+Alonso) | N/A |
-| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 6 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 7 | [#ConexiónHonduras1](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras1) | N/A |
-| 8 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 11 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 13 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 1 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 2 | [#ConexiónHonduras1](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras1) | N/A |
+| 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 6 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 7 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 8 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 9 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 10 | [Patricia Donoso](http://twitter.com/search?q=Patricia+Donoso) | N/A |
+| 11 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
+| 12 | [#SecretosFamilia5Mar](http://twitter.com/search?q=%23SecretosFamilia5Mar) | N/A |
+| 13 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 14 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 15 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 16 | [Patricia Donoso](http://twitter.com/search?q=Patricia+Donoso) | N/A |
-| 17 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
+| 16 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 18 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
 | 19 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
 | 20 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
-| 21 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 21 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 24 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
-| 25 | [Soto Grado](http://twitter.com/search?q=Soto+Grado) | Soto Grado is a Spanish phrase that translates to "outside grade" or "out of grade." It is used to describe something that is not up to the expected standard or quality. |
-| 26 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 27 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 28 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
-| 29 | [#SecretosFamilia5Mar](http://twitter.com/search?q=%23SecretosFamilia5Mar) | N/A |
-| 30 | [#LodeUnzue](http://twitter.com/search?q=%23LodeUnzue) | N/A |
+| 24 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 25 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 26 | [Luiz Henrique](http://twitter.com/search?q=Luiz+Henrique) | Luiz Henrique is a Portuguese name, derived from the Latin name "Ludovicus Henricus". It is composed of two elements: "Ludovicus", which means "famous warrior" and "Henricus", which means "ruler of the home". In English, it can be translated to mean "Famous Warrior Ruler of the Home". |
+| 27 | [Soto Grado](http://twitter.com/search?q=Soto+Grado) | Soto Grado is a Spanish phrase that translates to "outside grade" or "out of grade." It is used to describe something that is not up to the expected standard or quality. |
+| 28 | [#chiringuitotitular](http://twitter.com/search?q=%23chiringuitotitular) | N/A |
+| 29 | [Carolina Sobe](http://twitter.com/search?q=Carolina+Sobe) | N/A |
+| 30 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
 | 31 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 32 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 33 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 34 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 36 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 37 | [#RBBRMA](http://twitter.com/search?q=%23RBBRMA) | N/A |
-| 38 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 39 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 40 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 41 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 32 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 33 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 34 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 35 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
+| 36 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 37 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
+| 38 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 39 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
+| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 41 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
 | 42 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 43 | [Pocholo](http://twitter.com/search?q=Pocholo) | N/A |
-| 44 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 45 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
-| 46 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 47 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
-| 48 | [Lo de Vinicius](http://twitter.com/search?q=Lo+de+Vinicius) | N/A |
-| 49 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
-| 50 | [Edu Aguirre](http://twitter.com/search?q=Edu+Aguirre) | N/A |
+| 43 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 44 | [Pocholo](http://twitter.com/search?q=Pocholo) | N/A |
+| 45 | [Yekta](http://twitter.com/search?q=Yekta) | N/A |
+| 46 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
+| 47 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 48 | [Edu Aguirre](http://twitter.com/search?q=Edu+Aguirre) | N/A |
+| 49 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 50 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
 
 
 

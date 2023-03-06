@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-05 23:17:18 UTC`
+📆 Last Updated: `2023-03-06 00:28:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 28 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 32 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 31 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 37 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 38 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
-| 39 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 40 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 41 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 42 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 43 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 45 | [Beste](http://twitter.com/search?q=Beste) | N/A |
-| 46 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 47 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
+| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 41 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 42 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 45 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 46 | [Beste](http://twitter.com/search?q=Beste) | N/A |
+| 47 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 49 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 50 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-05 23:17:13 UTC`
+📆 Last Updated: `2023-03-06 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 2 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
-| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 4 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 2 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 3 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
+| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 6 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 7 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
@@ -33,37 +33,37 @@ This is top 50 for [Germany](</Germany>)
 | 16 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
 | 17 | [Svenrik](http://twitter.com/search?q=Svenrik) | N/A |
 | 18 | [Münster](http://twitter.com/search?q=M%c3%bcnster) | N/A |
-| 19 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 20 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 19 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Boerne](http://twitter.com/search?q=Boerne) | N/A |
-| 25 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 26 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 27 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 28 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 31 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 32 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 22 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 23 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 24 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 25 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 26 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 27 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 29 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 30 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 31 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 32 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 33 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 34 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 35 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 36 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 39 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 34 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 35 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 36 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 37 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 39 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 40 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
 | 41 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 43 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 44 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 45 | [Klamauk](http://twitter.com/search?q=Klamauk) | N/A |
-| 46 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
-| 47 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 48 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 49 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
+| 42 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 43 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 44 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
+| 45 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 46 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
+| 47 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 48 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 49 | [heizkosten und strompreise](http://twitter.com/search?q=heizkosten+und+strompreise) | N/A |
 
 
 

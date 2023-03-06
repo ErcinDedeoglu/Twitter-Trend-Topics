@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-05 23:17:21 UTC`
+📆 Last Updated: `2023-03-06 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#NRLTigersTitans](http://twitter.com/search?q=%23NRLTigersTitans) | N/A |
-| 7 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 8 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 10 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 11 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 12 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 13 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 16 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
+| 5 | [#NRLTigersTitans](http://twitter.com/search?q=%23NRLTigersTitans) | N/A |
+| 6 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 9 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 10 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 17 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 19 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 20 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 21 | [ASIC](http://twitter.com/search?q=ASIC) | N/A |
-| 22 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 24 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 25 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 26 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 27 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
-| 28 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 29 | [Xavier Cooks](http://twitter.com/search?q=Xavier+Cooks) | N/A |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [leichhardt](http://twitter.com/search?q=leichhardt) | N/A |
-| 32 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 34 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 36 | [kaufusi](http://twitter.com/search?q=kaufusi) | N/A |
-| 37 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 38 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 39 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 40 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
-| 41 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 18 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 19 | [ASIC](http://twitter.com/search?q=ASIC) | N/A |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 21 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 22 | [Julie Bishop](http://twitter.com/search?q=Julie+Bishop) | N/A |
+| 23 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
+| 24 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 25 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 27 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 28 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 29 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 30 | [Du Plessis](http://twitter.com/search?q=Du+Plessis) | N/A |
+| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 32 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 33 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 34 | [Suncorp Stadium](http://twitter.com/search?q=Suncorp+Stadium) | N/A |
+| 35 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 36 | [Sydney Harbour Bridge](http://twitter.com/search?q=Sydney+Harbour+Bridge) | N/A |
+| 37 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 39 | [Xavier Cooks](http://twitter.com/search?q=Xavier+Cooks) | N/A |
+| 40 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 41 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 43 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 44 | [Sydney Harbour Bridge](http://twitter.com/search?q=Sydney+Harbour+Bridge) | N/A |
-| 45 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 46 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 47 | [King George](http://twitter.com/search?q=King+George) | N/A |
-| 48 | [Suncorp Stadium](http://twitter.com/search?q=Suncorp+Stadium) | N/A |
-| 49 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 50 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 43 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 44 | [Hawke](http://twitter.com/search?q=Hawke) | N/A |
+| 45 | [leichhardt oval](http://twitter.com/search?q=leichhardt+oval) | N/A |
+| 46 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 47 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 49 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 50 | [Deves](http://twitter.com/search?q=Deves) | N/A |
 
 
 
