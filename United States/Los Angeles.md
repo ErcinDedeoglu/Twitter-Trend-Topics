@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-06 19:16:31 UTC`
+📆 Last Updated: `2023-03-06 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 2 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 3 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 4 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
-| 5 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 6 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 7 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 11 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 12 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 13 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 14 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 15 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 16 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 17 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
-| 18 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 19 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 20 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 21 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 22 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 23 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 24 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 25 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 26 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 27 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 28 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 29 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 30 | [North](http://twitter.com/search?q=North) | N/A |
-| 31 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 32 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 33 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 34 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 37 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 38 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
-| 39 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 40 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 41 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
-| 42 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
-| 43 | [MASN](http://twitter.com/search?q=MASN) | N/A |
-| 44 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 45 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
-| 46 | [Tannehill](http://twitter.com/search?q=Tannehill) | Tannehill is a surname of English origin. It is derived from the Old English words tann meaning "tanner" and hyll meaning "hill". The name was originally given to someone who lived near or worked in a tannery. |
-| 47 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 48 | [Spiderverse](http://twitter.com/search?q=Spiderverse) | N/A |
-| 49 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
-| 50 | [PEMDAS](http://twitter.com/search?q=PEMDAS) | N/A |
+| 1 | [New Orleans](http://twitter.com/search?q=New+Orleans) | N/A |
+| 2 | [#RaiderNation](http://twitter.com/search?q=%23RaiderNation) | #RaiderNation is a term used to refer to the passionate fan base of the Oakland Raiders, an American football team based in Oakland, California. The term is used to show support for the team and its players. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 5 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
+| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 7 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
+| 8 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 9 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 10 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 13 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 14 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
+| 15 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 16 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 17 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 18 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 19 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 20 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 21 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 22 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 23 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
+| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 25 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 26 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 27 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 28 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 29 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
+| 30 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 31 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 32 | [Chosen Anderson](http://twitter.com/search?q=Chosen+Anderson) | N/A |
+| 33 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 34 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 35 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 36 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 37 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 38 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 39 | [All-SEC](http://twitter.com/search?q=All-SEC) | N/A |
+| 40 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 41 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
+| 42 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 45 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 46 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 47 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 48 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 49 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 50 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
 
 
 

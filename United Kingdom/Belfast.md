@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-06 19:15:51 UTC`
+📆 Last Updated: `2023-03-06 20:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 1 | [#mastermind](http://twitter.com/search?q=%23mastermind) | N/A |
+| 2 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
 | 3 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 4 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 5 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 6 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 7 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 8 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 9 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
-| 10 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 11 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 12 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 13 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 15 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 16 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 17 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 18 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 19 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 20 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 4 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 7 | [Karen Carney](http://twitter.com/search?q=Karen+Carney) | N/A |
+| 8 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 11 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 12 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 13 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 14 | [Jonathan Gullis](http://twitter.com/search?q=Jonathan+Gullis) | N/A |
+| 15 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 16 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 17 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 18 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 19 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 20 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
 | 21 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 22 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 23 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 24 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 25 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 26 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 27 | [APIs](http://twitter.com/search?q=APIs) | N/A |
-| 28 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 29 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 30 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 31 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 32 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
-| 33 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 34 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 35 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 36 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
-| 37 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 22 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 23 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
+| 24 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 25 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 26 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 27 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 28 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 29 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 30 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 31 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 32 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 33 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 34 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 35 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 36 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 37 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
 | 38 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 39 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 40 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 41 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 43 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
-| 44 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 45 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 46 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 47 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 48 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 39 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 40 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
+| 41 | [APIs](http://twitter.com/search?q=APIs) | N/A |
+| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 43 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 44 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 45 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
+| 46 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 47 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
+| 48 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
 
 
 

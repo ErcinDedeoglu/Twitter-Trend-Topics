@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-06 19:15:53 UTC`
+📆 Last Updated: `2023-03-06 20:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
 | 4 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
-| 5 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
-| 6 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 7 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 8 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 9 | [#ClasicosCodere](http://twitter.com/search?q=%23ClasicosCodere) | N/A |
-| 10 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 11 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 12 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 13 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 14 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 15 | [Mallor](http://twitter.com/search?q=Mallor) | N/A |
-| 16 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 17 | [Tortugas Ninja](http://twitter.com/search?q=Tortugas+Ninja) | N/A |
-| 18 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 19 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 20 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 21 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 22 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 23 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
-| 24 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 25 | [El FBI](http://twitter.com/search?q=El+FBI) | N/A |
-| 26 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 27 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 28 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 29 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
-| 30 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 31 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 32 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 33 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
-| 34 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 35 | [#PoderosoLuchón](http://twitter.com/search?q=%23PoderosoLuch%c3%b3n) | N/A |
-| 36 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 37 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 38 | [#CaosMutante](http://twitter.com/search?q=%23CaosMutante) | N/A |
-| 39 | [#MutantMayhem](http://twitter.com/search?q=%23MutantMayhem) | N/A |
-| 40 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 41 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 42 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 43 | [#AMLOEsUnPeligroParaMexico](http://twitter.com/search?q=%23AMLOEsUnPeligroParaMexico) | N/A |
-| 44 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 5 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 6 | [#EliminaciónColosal](http://twitter.com/search?q=%23Eliminaci%c3%b3nColosal) | N/A |
+| 7 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 8 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 9 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 10 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 11 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 12 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 13 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 18 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 19 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 20 | [Mallor](http://twitter.com/search?q=Mallor) | N/A |
+| 21 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 22 | [feliz cumple mario b](http://twitter.com/search?q=feliz+cumple+mario+b) | N/A |
+| 23 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
+| 24 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 27 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 28 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 29 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 30 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 31 | [ROIER](http://twitter.com/search?q=ROIER) | N/A |
+| 32 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 33 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 34 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 35 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 37 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 40 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 42 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 43 | [Alexa Grasso](http://twitter.com/search?q=Alexa+Grasso) | N/A |
+| 44 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 45 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
+| 46 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 47 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 48 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 49 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 50 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
 
 
 

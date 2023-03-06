@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-06 19:16:41 UTC`
+📆 Last Updated: `2023-03-06 20:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 2 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Christiansen](http://twitter.com/search?q=Christiansen) | N/A |
-| 6 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 11 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 5 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 7 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 10 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 11 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 12 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 13 | [Escuela República de Italia](http://twitter.com/search?q=Escuela+Rep%c3%bablica+de+Italia) | N/A |
-| 14 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 16 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 17 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 18 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 24 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
+| 13 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 14 | [Escuela República de Italia](http://twitter.com/search?q=Escuela+Rep%c3%bablica+de+Italia) | N/A |
+| 15 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 16 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 19 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 20 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 21 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 22 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
+| 23 | [3-porotos](http://twitter.com/search?q=3-porotos) | N/A |
+| 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 25 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 26 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 27 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 28 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 29 | [3-Porotos](http://twitter.com/search?q=3-Porotos) | N/A |
-| 30 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 31 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 32 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 33 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
-| 34 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
+| 26 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
+| 27 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 28 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 29 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 30 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 31 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
+| 32 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
+| 33 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 34 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
 | 35 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 36 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
 | 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 39 | [metromall](http://twitter.com/search?q=metromall) | N/A |
-| 40 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |
-| 41 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 42 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 43 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 44 | [Santiago de Veraguas](http://twitter.com/search?q=Santiago+de+Veraguas) | N/A |
-| 45 | [Ricardo Martinelli](http://twitter.com/search?q=Ricardo+Martinelli) | N/A |
+| 38 | [6-Gallina](http://twitter.com/search?q=6-Gallina) | N/A |
+| 39 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 40 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 41 | [metromall](http://twitter.com/search?q=metromall) | N/A |
+| 42 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |
+| 43 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
+| 44 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 45 | [Santiago de Veraguas](http://twitter.com/search?q=Santiago+de+Veraguas) | N/A |
 | 46 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 47 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 49 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
-| 50 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 47 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 48 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 49 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-06 19:16:01 UTC`
+📆 Last Updated: `2023-03-06 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 4 | [Swan](http://twitter.com/search?q=Swan) | N/A |
+| 1 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 2 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 3 | [Tenkaichi 4](http://twitter.com/search?q=Tenkaichi+4) | N/A |
+| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 5 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 6 | [#CaVous](http://twitter.com/search?q=%23CaVous) | N/A |
-| 7 | [#VHive2023](http://twitter.com/search?q=%23VHive2023) | N/A |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
-| 10 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 11 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 12 | [Thorfinn](http://twitter.com/search?q=Thorfinn) | N/A |
-| 13 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 14 | [#ChangeUneIdentité](http://twitter.com/search?q=%23ChangeUneIdentit%c3%a9) | N/A |
-| 15 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
-| 16 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
-| 17 | [Valérie Pécresse](http://twitter.com/search?q=Val%c3%a9rie+P%c3%a9cresse) | N/A |
+| 6 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 7 | [Swan](http://twitter.com/search?q=Swan) | N/A |
+| 8 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 9 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 10 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 11 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 12 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
+| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 14 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 15 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 16 | [Thorfinn](http://twitter.com/search?q=Thorfinn) | N/A |
+| 17 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
 | 18 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 19 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 20 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
-| 21 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 22 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
-| 23 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
-| 24 | [Tenkaichi](http://twitter.com/search?q=Tenkaichi) | N/A |
-| 25 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 26 | [Mardi 7](http://twitter.com/search?q=Mardi+7) | N/A |
-| 27 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 28 | [Bakhmout](http://twitter.com/search?q=Bakhmout) | N/A |
-| 29 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
-| 30 | [#GreveReconductible](http://twitter.com/search?q=%23GreveReconductible) | N/A |
-| 31 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 32 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
-| 33 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 34 | [#7mars2023](http://twitter.com/search?q=%237mars2023) | N/A |
-| 35 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
-| 36 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 37 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 38 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 39 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 40 | [#SemaineDesMaths](http://twitter.com/search?q=%23SemaineDesMaths) | N/A |
-| 41 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
-| 42 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
-| 43 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
-| 44 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 45 | [#FreeMortaza](http://twitter.com/search?q=%23FreeMortaza) | N/A |
+| 19 | [Valérie](http://twitter.com/search?q=Val%c3%a9rie) | N/A |
+| 20 | [Elisabeth Borne](http://twitter.com/search?q=Elisabeth+Borne) | N/A |
+| 21 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
+| 22 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
+| 25 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 26 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 27 | [Guide Michelin](http://twitter.com/search?q=Guide+Michelin) | N/A |
+| 28 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 29 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 30 | [Mardi 7](http://twitter.com/search?q=Mardi+7) | N/A |
+| 31 | [#CaVous](http://twitter.com/search?q=%23CaVous) | N/A |
+| 32 | [#VHive2023](http://twitter.com/search?q=%23VHive2023) | N/A |
+| 33 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 34 | [#GreveReconductible](http://twitter.com/search?q=%23GreveReconductible) | N/A |
+| 35 | [#ChangeUneIdentité](http://twitter.com/search?q=%23ChangeUneIdentit%c3%a9) | N/A |
+| 36 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 37 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
+| 38 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
+| 39 | [#7mars2023](http://twitter.com/search?q=%237mars2023) | N/A |
+| 40 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
+| 41 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 42 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 43 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 44 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 45 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 46 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
 
 
 

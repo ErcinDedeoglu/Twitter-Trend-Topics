@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-06 19:15:59 UTC`
+📆 Last Updated: `2023-03-06 20:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
-| 2 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
-| 3 | [#RADZAG](http://twitter.com/search?q=%23RADZAG) | N/A |
-| 4 | [#ApelDoTVP](http://twitter.com/search?q=%23ApelDoTVP) | N/A |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 7 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 1 | [#RADZAG](http://twitter.com/search?q=%23RADZAG) | N/A |
+| 2 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
+| 3 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
+| 4 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
+| 5 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 6 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 7 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
 | 8 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
-| 9 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 10 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 11 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 14 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 15 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
-| 16 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 17 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 18 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
-| 19 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 20 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 21 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 22 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 23 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 24 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
-| 25 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 26 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
-| 27 | [Kurzępa](http://twitter.com/search?q=Kurz%c4%99pa) | N/A |
-| 28 | [Podpisane](http://twitter.com/search?q=Podpisane) | N/A |
+| 9 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 10 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 11 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 12 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 13 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 14 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 15 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 16 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
+| 17 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
+| 18 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
+| 19 | [Ścigaj](http://twitter.com/search?q=%c5%9acigaj) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 22 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
+| 23 | [Kurzępa](http://twitter.com/search?q=Kurz%c4%99pa) | N/A |
+| 24 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 25 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
+| 26 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 27 | [Podpisane](http://twitter.com/search?q=Podpisane) | N/A |
+| 28 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
 | 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 30 | [leclerca](http://twitter.com/search?q=leclerca) | N/A |
-| 31 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 32 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [Ścigaj](http://twitter.com/search?q=%c5%9acigaj) | N/A |
-| 35 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 31 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 32 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 33 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 34 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
+| 35 | [Matka](http://twitter.com/search?q=Matka) | N/A |
 | 36 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
-| 37 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 38 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 37 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 38 | [mi-24](http://twitter.com/search?q=mi-24) | N/A |
 | 39 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 40 | [Mi-24](http://twitter.com/search?q=Mi-24) | N/A |
-| 41 | [NaTemat](http://twitter.com/search?q=NaTemat) | N/A |
-| 42 | [Chwała Ukrainie](http://twitter.com/search?q=Chwa%c5%82a+Ukrainie) | N/A |
-| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 44 | [Motorze](http://twitter.com/search?q=Motorze) | N/A |
-| 45 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
-| 46 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 47 | [Graczak](http://twitter.com/search?q=Graczak) | N/A |
-| 48 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 49 | [Valencii](http://twitter.com/search?q=Valencii) | N/A |
-| 50 | [piaseckiego](http://twitter.com/search?q=piaseckiego) | N/A |
+| 40 | [NaTemat](http://twitter.com/search?q=NaTemat) | N/A |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 43 | [Motorze](http://twitter.com/search?q=Motorze) | N/A |
+| 44 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
+| 45 | [Graczak](http://twitter.com/search?q=Graczak) | N/A |
+| 46 | [Tag 7](http://twitter.com/search?q=Tag+7) | N/A |
+| 47 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
+| 48 | [valencii](http://twitter.com/search?q=valencii) | N/A |
+| 49 | [piaseckiego](http://twitter.com/search?q=piaseckiego) | N/A |
 
 
 

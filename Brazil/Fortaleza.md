@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-06 19:15:58 UTC`
+📆 Last Updated: `2023-03-06 20:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,51 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 6 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 7 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 8 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
-| 9 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 10 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
-| 11 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 12 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 3 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 4 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 5 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
+| 6 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 7 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
+| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 9 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
+| 10 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 11 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
+| 12 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
 | 13 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
 | 14 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 15 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
-| 16 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 17 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 18 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 19 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 20 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 21 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 22 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 23 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 24 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 26 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
-| 27 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
-| 28 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 29 | [Samuel Venâncio](http://twitter.com/search?q=Samuel+Ven%c3%a2ncio) | N/A |
-| 30 | [Suape](http://twitter.com/search?q=Suape) | N/A |
-| 31 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 32 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
-| 33 | [Felipe Silva](http://twitter.com/search?q=Felipe+Silva) | N/A |
-| 34 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 35 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 36 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 37 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
-| 38 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
-| 39 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 40 | [Lima Duarte](http://twitter.com/search?q=Lima+Duarte) | N/A |
-| 41 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
-| 42 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 43 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
-| 44 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 45 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
-| 46 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 47 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 48 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
-| 49 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 15 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
+| 16 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
+| 17 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 18 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 19 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 20 | [#bailedajapa](http://twitter.com/search?q=%23bailedajapa) | N/A |
+| 21 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 22 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 23 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 24 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 25 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
+| 26 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 27 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 28 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 30 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
+| 31 | [Vasco x Bangu](http://twitter.com/search?q=Vasco+x+Bangu) | N/A |
+| 32 | [Samuel Venâncio](http://twitter.com/search?q=Samuel+Ven%c3%a2ncio) | N/A |
+| 33 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 34 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 35 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 36 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
+| 37 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 38 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 39 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 40 | [renata celi](http://twitter.com/search?q=renata+celi) | N/A |
+| 41 | [Suape](http://twitter.com/search?q=Suape) | N/A |
+| 42 | [Palmeiras x São Bernardo](http://twitter.com/search?q=Palmeiras+x+S%c3%a3o+Bernardo) | N/A |
+| 43 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
+| 44 | [Felipe Silva](http://twitter.com/search?q=Felipe+Silva) | N/A |
+| 45 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 46 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 47 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
 
 
 

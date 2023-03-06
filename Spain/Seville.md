@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-06 19:16:05 UTC`
+📆 Last Updated: `2023-03-06 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CyACartuja](http://twitter.com/search?q=%23CyACartuja) | N/A |
-| 2 | [#PcAniversario](http://twitter.com/search?q=%23PcAniversario) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 5 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [Bernarda Alba](http://twitter.com/search?q=Bernarda+Alba) | N/A |
-| 8 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 9 | [#FiestaPrimavera23](http://twitter.com/search?q=%23FiestaPrimavera23) | N/A |
-| 10 | [#CanalRed](http://twitter.com/search?q=%23CanalRed) | N/A |
-| 11 | [Joana](http://twitter.com/search?q=Joana) | N/A |
-| 12 | [#PecadoOriginal6Mar](http://twitter.com/search?q=%23PecadoOriginal6Mar) | N/A |
-| 13 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
-| 14 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 15 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 16 | [Lorca](http://twitter.com/search?q=Lorca) | N/A |
-| 17 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 18 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 19 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
-| 20 | [García Castellón](http://twitter.com/search?q=Garc%c3%ada+Castell%c3%b3n) | N/A |
-| 21 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 22 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 23 | [Pedro Antonio Sánchez](http://twitter.com/search?q=Pedro+Antonio+S%c3%a1nchez) | N/A |
-| 24 | [Futre](http://twitter.com/search?q=Futre) | N/A |
-| 25 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 26 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 27 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 28 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 29 | [Tortugas Ninja](http://twitter.com/search?q=Tortugas+Ninja) | N/A |
-| 30 | [Rango 2](http://twitter.com/search?q=Rango+2) | N/A |
-| 31 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 32 | [Yulen](http://twitter.com/search?q=Yulen) | N/A |
-| 33 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 34 | [Balón](http://twitter.com/search?q=Bal%c3%b3n) | N/A |
-| 35 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 36 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 1 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
+| 2 | [#CyACartuja](http://twitter.com/search?q=%23CyACartuja) | N/A |
+| 3 | [#PcAniversario](http://twitter.com/search?q=%23PcAniversario) | N/A |
+| 4 | [#Pasapalabra718](http://twitter.com/search?q=%23Pasapalabra718) | N/A |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 7 | [#OsasunaCelta](http://twitter.com/search?q=%23OsasunaCelta) | N/A |
+| 8 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 10 | [Bernarda Alba](http://twitter.com/search?q=Bernarda+Alba) | N/A |
+| 11 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 12 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 13 | [#FiestaPrimavera23](http://twitter.com/search?q=%23FiestaPrimavera23) | N/A |
+| 14 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 15 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 16 | [García Castellón](http://twitter.com/search?q=Garc%c3%ada+Castell%c3%b3n) | N/A |
+| 17 | [Lorca](http://twitter.com/search?q=Lorca) | N/A |
+| 18 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
+| 19 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 20 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 21 | [Aprovechando](http://twitter.com/search?q=Aprovechando) | N/A |
+| 22 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
+| 23 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
+| 24 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 25 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 26 | [Pedro Antonio Sánchez](http://twitter.com/search?q=Pedro+Antonio+S%c3%a1nchez) | N/A |
+| 27 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 28 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 29 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
+| 30 | [Futre](http://twitter.com/search?q=Futre) | N/A |
+| 31 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 32 | [Tortugas Ninja](http://twitter.com/search?q=Tortugas+Ninja) | N/A |
+| 33 | [Rango 2](http://twitter.com/search?q=Rango+2) | N/A |
+| 34 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 35 | [Fuengirola](http://twitter.com/search?q=Fuengirola) | N/A |
+| 36 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
 | 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 38 | [Tenkaichi](http://twitter.com/search?q=Tenkaichi) | N/A |
-| 39 | [Martes 7](http://twitter.com/search?q=Martes+7) | N/A |
-| 40 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
-| 41 | [Fuengirola](http://twitter.com/search?q=Fuengirola) | N/A |
-| 42 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 43 | [Capi](http://twitter.com/search?q=Capi) | N/A |
-| 44 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
-| 45 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 46 | [#OsasunaCelta](http://twitter.com/search?q=%23OsasunaCelta) | N/A |
-| 47 | [#APOYOROCI06M](http://twitter.com/search?q=%23APOYOROCI06M) | N/A |
-| 48 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
-| 49 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 50 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 38 | [Balón](http://twitter.com/search?q=Bal%c3%b3n) | N/A |
+| 39 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 40 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 41 | [Yulen](http://twitter.com/search?q=Yulen) | N/A |
+| 42 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 43 | [Tenkaichi](http://twitter.com/search?q=Tenkaichi) | N/A |
+| 44 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 45 | [Capi](http://twitter.com/search?q=Capi) | N/A |
+| 46 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
+| 47 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 48 | [#CanalRed](http://twitter.com/search?q=%23CanalRed) | N/A |
+| 49 | [#APOYOROCI06M](http://twitter.com/search?q=%23APOYOROCI06M) | N/A |
+| 50 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 
 
 
