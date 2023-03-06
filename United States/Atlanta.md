@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-06 16:17:19 UTC`
+📆 Last Updated: `2023-03-06 17:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 2 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 5 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 8 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 9 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 11 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 4 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 5 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 6 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 7 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 11 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
 | 12 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 13 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 14 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
-| 15 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 16 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
-| 17 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
-| 18 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 19 | [Jost](http://twitter.com/search?q=Jost) | N/A |
-| 20 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
-| 21 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 22 | [Sam Bradford](http://twitter.com/search?q=Sam+Bradford) | N/A |
-| 23 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 24 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
-| 25 | [Leonard Floyd](http://twitter.com/search?q=Leonard+Floyd) | N/A |
-| 26 | [Allen Robinson](http://twitter.com/search?q=Allen+Robinson) | N/A |
-| 27 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 28 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
-| 29 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
-| 30 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 31 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 32 | [Women in Construction Week](http://twitter.com/search?q=Women+in+Construction+Week) | N/A |
-| 33 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 34 | [Callaway](http://twitter.com/search?q=Callaway) | N/A |
-| 35 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 36 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 37 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 38 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
-| 39 | [The Big Lebowski](http://twitter.com/search?q=The+Big+Lebowski) | N/A |
-| 40 | [National School Breakfast Week](http://twitter.com/search?q=National+School+Breakfast+Week) | N/A |
-| 41 | [Taysom Hill](http://twitter.com/search?q=Taysom+Hill) | Taysom Hill is an American football quarterback for the New Orleans Saints of the National Football League (NFL). He is known for his versatility, having played multiple positions on offense and special teams. The name "Taysom Hill" is derived from his given name, Tayson, and his middle name, Hill. |
-| 42 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 43 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 44 | [School Social Workers](http://twitter.com/search?q=School+Social+Workers) | N/A |
-| 45 | [Casimir Pulaski](http://twitter.com/search?q=Casimir+Pulaski) | N/A |
-| 46 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 47 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 48 | [Harrington](http://twitter.com/search?q=Harrington) | N/A |
-| 49 | [Donatello](http://twitter.com/search?q=Donatello) | N/A |
-| 50 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 13 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 14 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
+| 15 | [#WhoDat](http://twitter.com/search?q=%23WhoDat) | N/A |
+| 16 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 17 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 18 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
+| 19 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
+| 20 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 21 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 22 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
+| 23 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
+| 24 | [Rise](http://twitter.com/search?q=Rise) | N/A |
+| 25 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 26 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 27 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
+| 28 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 29 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 30 | [North](http://twitter.com/search?q=North) | N/A |
+| 31 | [Turtles](http://twitter.com/search?q=Turtles) | N/A |
+| 32 | [Sam Bradford](http://twitter.com/search?q=Sam+Bradford) | N/A |
+| 33 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 34 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 35 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 36 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
+| 37 | [Tannehill](http://twitter.com/search?q=Tannehill) | Tannehill is a surname of English origin. It is derived from the Old English words tann meaning "tanner" and hyll meaning "hill". The name was originally given to someone who lived near or worked in a tannery. |
+| 38 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
+| 39 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 40 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
+| 41 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
+| 42 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 43 | [Jenny Lewis](http://twitter.com/search?q=Jenny+Lewis) | N/A |
+| 44 | [Leonard Floyd](http://twitter.com/search?q=Leonard+Floyd) | N/A |
+| 45 | [Taysom Hill](http://twitter.com/search?q=Taysom+Hill) | Taysom Hill is an American football quarterback for the New Orleans Saints of the National Football League (NFL). He is known for his versatility, having played multiple positions on offense and special teams. The name "Taysom Hill" is derived from his given name, Tayson, and his middle name, Hill. |
+| 46 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 47 | [Cop City](http://twitter.com/search?q=Cop+City) | N/A |
+| 48 | [PEMDAS](http://twitter.com/search?q=PEMDAS) | N/A |
+| 49 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 50 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
 
 
 

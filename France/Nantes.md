@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-06 16:16:49 UTC`
+📆 Last Updated: `2023-03-06 17:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
-| 2 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 3 | [#rmcmma](http://twitter.com/search?q=%23rmcmma) | N/A |
-| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 3 | [#VHive2023](http://twitter.com/search?q=%23VHive2023) | N/A |
+| 4 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
 | 5 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
-| 6 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
+| 7 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 8 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 10 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 11 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 12 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
-| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 14 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 15 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 16 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 17 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 12 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 13 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
+| 14 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
+| 18 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
 | 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 20 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 21 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
-| 22 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
-| 23 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 24 | [Mads Pedersen](http://twitter.com/search?q=Mads+Pedersen) | N/A |
-| 25 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 26 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 29 | [Serge Halimi](http://twitter.com/search?q=Serge+Halimi) | N/A |
-| 30 | [Christophe Dugarry](http://twitter.com/search?q=Christophe+Dugarry) | N/A |
-| 31 | [McFly](http://twitter.com/search?q=McFly) | N/A |
-| 32 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 33 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
-| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 35 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
-| 36 | [Ciryl](http://twitter.com/search?q=Ciryl) | N/A |
-| 37 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 38 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 39 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
-| 40 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 41 | [Teenage Years](http://twitter.com/search?q=Teenage+Years) | N/A |
-| 42 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 43 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
-| 44 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 21 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 22 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
+| 23 | [Christophe Dugarry](http://twitter.com/search?q=Christophe+Dugarry) | N/A |
+| 24 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 25 | [Le Sénégal](http://twitter.com/search?q=Le+S%c3%a9n%c3%a9gal) | N/A |
+| 26 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 27 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
+| 28 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 29 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 30 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 31 | [Serge Halimi](http://twitter.com/search?q=Serge+Halimi) | N/A |
+| 32 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 33 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 34 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 37 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
+| 38 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 39 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 40 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 41 | [Valoche](http://twitter.com/search?q=Valoche) | N/A |
+| 42 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
+| 43 | [Mads Pedersen](http://twitter.com/search?q=Mads+Pedersen) | N/A |
+| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 45 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 46 | [BAHL](http://twitter.com/search?q=BAHL) | N/A |
-| 47 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 48 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 49 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 46 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 47 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 48 | [Geoffroy](http://twitter.com/search?q=Geoffroy) | N/A |
+| 49 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
 
 
 

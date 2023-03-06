@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-06 16:16:46 UTC`
+📆 Last Updated: `2023-03-06 17:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
 | 3 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
-| 4 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 5 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
-| 6 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 7 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 8 | [#PernambucoMeuPaís](http://twitter.com/search?q=%23PernambucoMeuPa%c3%ads) | N/A |
-| 9 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 10 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 11 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
-| 12 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
-| 13 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 14 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
-| 15 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
-| 16 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 17 | [Spiderverse](http://twitter.com/search?q=Spiderverse) | N/A |
-| 18 | [aline peixoto](http://twitter.com/search?q=aline+peixoto) | N/A |
-| 19 | [CBJR](http://twitter.com/search?q=CBJR) | N/A |
-| 20 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 21 | [Revolução Pernambucana](http://twitter.com/search?q=Revolu%c3%a7%c3%a3o+Pernambucana) | N/A |
-| 22 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 23 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 24 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
-| 25 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 26 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 27 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 28 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 29 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
-| 30 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 31 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 32 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
-| 33 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 34 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 35 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 36 | [Charlie Brown Jr.](http://twitter.com/search?q=Charlie+Brown+Jr.) | N/A |
-| 37 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 38 | [Misheik](http://twitter.com/search?q=Misheik) | N/A |
-| 39 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
-| 40 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 42 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 43 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 44 | [dragon ball budokai](http://twitter.com/search?q=dragon+ball+budokai) | N/A |
-| 45 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 46 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
-| 47 | [Reforço](http://twitter.com/search?q=Refor%c3%a7o) | N/A |
-| 48 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
-| 49 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 4 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 5 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 6 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 7 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
+| 8 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 9 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
+| 10 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
+| 11 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
+| 12 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 13 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 14 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 15 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 16 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
+| 17 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
+| 18 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 19 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
+| 20 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
+| 21 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
+| 22 | [Carne](http://twitter.com/search?q=Carne) | N/A |
+| 23 | [CBJR](http://twitter.com/search?q=CBJR) | N/A |
+| 24 | [PREORDER JISOO SOLO](http://twitter.com/search?q=PREORDER+JISOO+SOLO) | N/A |
+| 25 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 26 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 27 | [Aline Peixoto](http://twitter.com/search?q=Aline+Peixoto) | N/A |
+| 28 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 29 | [Spiderverse](http://twitter.com/search?q=Spiderverse) | N/A |
+| 30 | [Grão](http://twitter.com/search?q=Gr%c3%a3o) | N/A |
+| 31 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
+| 32 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 33 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 34 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 35 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 36 | [Segundou](http://twitter.com/search?q=Segundou) | N/A |
+| 37 | [Ninho do Urubu](http://twitter.com/search?q=Ninho+do+Urubu) | N/A |
+| 38 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 39 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 40 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 41 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
+| 42 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 43 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 44 | [Revolução Pernambucana](http://twitter.com/search?q=Revolu%c3%a7%c3%a3o+Pernambucana) | N/A |
+| 45 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
+| 46 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 47 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 48 | [Carly](http://twitter.com/search?q=Carly) | N/A |
+| 49 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
 
 
 
