@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-06 10:16:33 UTC`
+📆 Last Updated: `2023-03-06 11:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#srfcom](http://twitter.com/search?q=%23srfcom) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 4 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 2 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 5 | [Gane](http://twitter.com/search?q=Gane) | N/A |
 | 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 7 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 10 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
 | 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 12 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 13 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 14 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 13 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 14 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
 | 15 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 16 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 17 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
-| 18 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 16 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 17 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 18 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
 | 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 20 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 21 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 22 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 23 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 24 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 25 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 20 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 21 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
+| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 23 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 25 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
 | 26 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 29 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 30 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 31 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
-| 32 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 33 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 34 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 35 | [Geoffroy](http://twitter.com/search?q=Geoffroy) | N/A |
-| 36 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 37 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 38 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 39 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 41 | [McFly](http://twitter.com/search?q=McFly) | N/A |
-| 42 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 43 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 44 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 45 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 46 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 47 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 48 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 49 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 50 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
+| 27 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 28 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
+| 29 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 30 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 31 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
+| 32 | [Kaouther](http://twitter.com/search?q=Kaouther) | N/A |
+| 33 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 37 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 38 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
+| 39 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
+| 40 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 41 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 42 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 43 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 44 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 45 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 46 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 47 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
+| 48 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
+| 49 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 50 | [Serge Halimi](http://twitter.com/search?q=Serge+Halimi) | N/A |
 
 
 

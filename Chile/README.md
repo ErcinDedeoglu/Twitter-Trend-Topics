@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-06 10:17:09 UTC`
+📆 Last Updated: `2023-03-06 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,29 +15,29 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#SuperLunes](http://twitter.com/search?q=%23SuperLunes) | N/A |
-| 3 | [#DespiertaConCHV](http://twitter.com/search?q=%23DespiertaConCHV) | N/A |
-| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [#CasoMatuteTVN](http://twitter.com/search?q=%23CasoMatuteTVN) | N/A |
+| 1 | [#SuperLunes](http://twitter.com/search?q=%23SuperLunes) | N/A |
+| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#DespiertaConCHV](http://twitter.com/search?q=%23DespiertaConCHV) | N/A |
+| 5 | [#casomatutetvn](http://twitter.com/search?q=%23casomatutetvn) | N/A |
 | 6 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 9 | [nico jarry](http://twitter.com/search?q=nico+jarry) | N/A |
-| 10 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 7 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
+| 10 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
 | 11 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
 | 12 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 13 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 13 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 14 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 15 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 15 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 16 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 19 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 19 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
 | 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 21 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
-| 22 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 22 | [bolados](http://twitter.com/search?q=bolados) | N/A |
+| 23 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 24 | [de los santos](http://twitter.com/search?q=de+los+santos) | N/A |
 | 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 26 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Chile
 | 30 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 | 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 32 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 33 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 36 | [Ewoks](http://twitter.com/search?q=Ewoks) | N/A |
+| 33 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 35 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
+| 36 | [Palma](http://twitter.com/search?q=Palma) | N/A |
 | 37 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 40 | [chupones](http://twitter.com/search?q=chupones) | N/A |
-| 41 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 42 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 43 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
-| 44 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 45 | [Iván Valenzuela](http://twitter.com/search?q=Iv%c3%a1n+Valenzuela) | N/A |
-| 46 | [dani gutiérrez](http://twitter.com/search?q=dani+guti%c3%a9rrez) | N/A |
+| 38 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 39 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 40 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 41 | [El United](http://twitter.com/search?q=El+United) | El United is a nickname for Manchester United Football Club, a professional soccer team based in Manchester, England. The name is derived from the club's official name, Manchester United Football Club. In English, it means "The United". |
+| 42 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 43 | [Ewoks](http://twitter.com/search?q=Ewoks) | N/A |
+| 44 | [iván valenzuela](http://twitter.com/search?q=iv%c3%a1n+valenzuela) | N/A |
+| 45 | [dani gutiérrez](http://twitter.com/search?q=dani+guti%c3%a9rrez) | N/A |
+| 46 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
 | 47 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 48 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 49 | [Last Hope](http://twitter.com/search?q=Last+Hope) | N/A |
-| 50 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 48 | [Last Hope](http://twitter.com/search?q=Last+Hope) | N/A |
+| 49 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 50 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 
 
 

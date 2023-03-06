@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-06 10:16:19 UTC`
+📆 Last Updated: `2023-03-06 11:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Canada](</Canada>)
 | 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 8 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
 | 9 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 10 | [BELLA RAMSEY](http://twitter.com/search?q=BELLA+RAMSEY) | N/A |
-| 11 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 10 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 11 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 12 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 13 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Gilles Courteau](http://twitter.com/search?q=Gilles+Courteau) | N/A |
-| 16 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 17 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 13 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 14 | [Gilles Courteau](http://twitter.com/search?q=Gilles+Courteau) | N/A |
+| 15 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 16 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 19 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 20 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 22 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 25 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 26 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 27 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 28 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 29 | [15 eth](http://twitter.com/search?q=15+eth) | N/A |
-| 30 | [mevs](http://twitter.com/search?q=mevs) | N/A |
-| 31 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 32 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 33 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 37 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 39 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 40 | [pickard](http://twitter.com/search?q=pickard) | N/A |
-| 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 42 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 43 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 44 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 45 | [Jose Bautista](http://twitter.com/search?q=Jose+Bautista) | N/A |
-| 46 | [level of excellence](http://twitter.com/search?q=level+of+excellence) | N/A |
-| 47 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 48 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 50 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 24 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 25 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 26 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 27 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
+| 28 | [15 eth](http://twitter.com/search?q=15+eth) | N/A |
+| 29 | [mevs](http://twitter.com/search?q=mevs) | N/A |
+| 30 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 31 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 32 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 34 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 35 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 36 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 37 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 38 | [pickard](http://twitter.com/search?q=pickard) | N/A |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 40 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 41 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 42 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 43 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 44 | [Jose Bautista](http://twitter.com/search?q=Jose+Bautista) | N/A |
+| 45 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 47 | [Michael Knowles](http://twitter.com/search?q=Michael+Knowles) | N/A |
+| 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 49 | [Take Back Alberta](http://twitter.com/search?q=Take+Back+Alberta) | N/A |
+| 50 | [Lougheed](http://twitter.com/search?q=Lougheed) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-06 10:16:58 UTC`
+📆 Last Updated: `2023-03-06 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 2 | [GidiyorsunCHP](http://twitter.com/search?q=GidiyorsunCHP) | N/A |
-| 3 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 1 | [GidiyorsunCHP](http://twitter.com/search?q=GidiyorsunCHP) | N/A |
+| 2 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 3 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
 | 4 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
 | 5 | [#Kabineden100BinÖğretmen](http://twitter.com/search?q=%23Kabineden100Bin%c3%96%c4%9fretmen) | N/A |
-| 6 | [#EYTtastamamOlmadı](http://twitter.com/search?q=%23EYTtastamamOlmad%c4%b1) | N/A |
-| 7 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 8 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 9 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 10 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 11 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 12 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 13 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 14 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
-| 15 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
-| 16 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 17 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 18 | [Milletimize](http://twitter.com/search?q=Milletimize) | N/A |
-| 19 | [Muhammed'e](http://twitter.com/search?q=Muhammed%27e) | N/A |
-| 20 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
-| 21 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 22 | [GÖNÜLLÜLER ERDOĞAN DİYOR](http://twitter.com/search?q=G%c3%96N%c3%9cLL%c3%9cLER+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 23 | [Dönmesin](http://twitter.com/search?q=D%c3%b6nmesin) | N/A |
-| 24 | [Bursa'daki](http://twitter.com/search?q=Bursa%27daki) | N/A |
-| 25 | [Kahrolsun](http://twitter.com/search?q=Kahrolsun) | N/A |
-| 26 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
-| 27 | [#cbunikarari](http://twitter.com/search?q=%23cbunikarari) | N/A |
-| 28 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
-| 29 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 30 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
-| 31 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 32 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
-| 33 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 34 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
-| 35 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
-| 36 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
-| 37 | [#olmazolmazDeme](http://twitter.com/search?q=%23olmazolmazDeme) | N/A |
-| 38 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
-| 39 | [#5000VeKısmiTorbaya](http://twitter.com/search?q=%235000VeK%c4%b1smiTorbaya) | N/A |
-| 40 | [#ÖmerSeyfettin](http://twitter.com/search?q=%23%c3%96merSeyfettin) | N/A |
-| 41 | [#TarihBunuNotEtti](http://twitter.com/search?q=%23TarihBunuNotEtti) | N/A |
-| 42 | [#6Mart](http://twitter.com/search?q=%236Mart) | N/A |
-| 43 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 44 | [#marticinegitimkararı](http://twitter.com/search?q=%23marticinegitimkarar%c4%b1) | N/A |
-| 45 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 46 | [#AmedsporHalktır](http://twitter.com/search?q=%23AmedsporHalkt%c4%b1r) | N/A |
-| 47 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
-| 48 | [#İntikam](http://twitter.com/search?q=%23%c4%b0ntikam) | N/A |
+| 6 | [Telegram Maçkolik](http://twitter.com/search?q=Telegram+Ma%c3%a7kolik) | N/A |
+| 7 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
+| 8 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 9 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 10 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
+| 11 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 12 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
+| 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 14 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 15 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 16 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 17 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
+| 18 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 19 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
+| 20 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 21 | [Sayın Akşener](http://twitter.com/search?q=Say%c4%b1n+Ak%c5%9fener) | N/A |
+| 22 | [Belediyeleri](http://twitter.com/search?q=Belediyeleri) | N/A |
+| 23 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 24 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
+| 25 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 26 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 27 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 28 | [Milletimize](http://twitter.com/search?q=Milletimize) | N/A |
+| 29 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
+| 30 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
+| 31 | [Muhammed'e](http://twitter.com/search?q=Muhammed%27e) | N/A |
+| 32 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
+| 33 | [Ülkemize](http://twitter.com/search?q=%c3%9clkemize) | N/A |
+| 34 | [GÖNÜLLÜLER ERDOĞAN DİYOR](http://twitter.com/search?q=G%c3%96N%c3%9cLL%c3%9cLER+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
+| 35 | [şeriat](http://twitter.com/search?q=%c5%9feriat) | N/A |
+| 36 | [Dönmesin](http://twitter.com/search?q=D%c3%b6nmesin) | N/A |
+| 37 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 38 | [Bursa'daki](http://twitter.com/search?q=Bursa%27daki) | N/A |
+| 39 | [#cbunikarari](http://twitter.com/search?q=%23cbunikarari) | N/A |
+| 40 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
+| 41 | [#EYTtastamamOlmadı](http://twitter.com/search?q=%23EYTtastamamOlmad%c4%b1) | N/A |
+| 42 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
+| 43 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 44 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 45 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
+| 46 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
+| 47 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
+| 48 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
+| 49 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
 
 
 

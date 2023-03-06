@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-06 10:16:22 UTC`
+📆 Last Updated: `2023-03-06 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 2 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 3 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 4 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 8 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 9 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 10 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 11 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 12 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 13 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 14 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 15 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 16 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 17 | [Honours](http://twitter.com/search?q=Honours) | N/A |
-| 18 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 19 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 20 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 21 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 22 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 24 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 25 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 26 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 27 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 28 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 29 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 30 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 31 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
-| 32 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 33 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
-| 34 | [#ASongOrMovieForAnythingCold](http://twitter.com/search?q=%23ASongOrMovieForAnythingCold) | N/A |
-| 35 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 36 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
-| 37 | [#UnlockingPotential](http://twitter.com/search?q=%23UnlockingPotential) | N/A |
-| 38 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 39 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
-| 40 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 41 | [#ToriesOut242](http://twitter.com/search?q=%23ToriesOut242) | N/A |
-| 42 | [#whisper](http://twitter.com/search?q=%23whisper) | N/A |
-| 43 | [#kayburley](http://twitter.com/search?q=%23kayburley) | N/A |
-| 44 | [#JohnsonTheCorruptPM](http://twitter.com/search?q=%23JohnsonTheCorruptPM) | N/A |
+| 3 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
+| 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 5 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 6 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 7 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 10 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 11 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 12 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 13 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 14 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 15 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 16 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 17 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
+| 18 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 20 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 21 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 22 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 23 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 24 | [Honours](http://twitter.com/search?q=Honours) | N/A |
+| 25 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 26 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 27 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 28 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 29 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 30 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 31 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 32 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
+| 33 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 34 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 35 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 36 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 37 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 38 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 39 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 40 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
+| 41 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 42 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 43 | [#10tothetop](http://twitter.com/search?q=%2310tothetop) | N/A |
+| 44 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
 
 
 

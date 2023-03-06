@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-06 10:16:23 UTC`
+📆 Last Updated: `2023-03-06 11:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
 | 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 4 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 6 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 7 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 8 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 9 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 10 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 11 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 12 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 13 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 14 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 15 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 16 | [Honours](http://twitter.com/search?q=Honours) | N/A |
-| 17 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 18 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 19 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 20 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 21 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 22 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 24 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 25 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 26 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 27 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
-| 28 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 29 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
-| 30 | [#ASongOrMovieForAnythingCold](http://twitter.com/search?q=%23ASongOrMovieForAnythingCold) | N/A |
-| 31 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 32 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
-| 33 | [#UnlockingPotential](http://twitter.com/search?q=%23UnlockingPotential) | N/A |
-| 34 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 35 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
-| 36 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 37 | [#ToriesOut242](http://twitter.com/search?q=%23ToriesOut242) | N/A |
-| 38 | [#whisper](http://twitter.com/search?q=%23whisper) | N/A |
-| 39 | [#kayburley](http://twitter.com/search?q=%23kayburley) | N/A |
-| 40 | [#JohnsonTheCorruptPM](http://twitter.com/search?q=%23JohnsonTheCorruptPM) | N/A |
-| 41 | [#Wordle625](http://twitter.com/search?q=%23Wordle625) | N/A |
-| 42 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
-| 43 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 44 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 45 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 46 | [#HarryandMeghan](http://twitter.com/search?q=%23HarryandMeghan) | N/A |
-| 47 | [#33Thirds](http://twitter.com/search?q=%2333Thirds) | N/A |
+| 5 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 7 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 8 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 9 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 10 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 11 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 12 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 13 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
+| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 16 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 17 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 18 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 19 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 20 | [Honours](http://twitter.com/search?q=Honours) | N/A |
+| 21 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 22 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 23 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 24 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 25 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 26 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 27 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 28 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
+| 29 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 30 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 31 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 32 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
+| 33 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 34 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 35 | [#10tothetop](http://twitter.com/search?q=%2310tothetop) | N/A |
+| 36 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
+| 37 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
+| 38 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 39 | [#ASongOrMovieForAnythingCold](http://twitter.com/search?q=%23ASongOrMovieForAnythingCold) | N/A |
+| 40 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 41 | [#UnlockingPotential](http://twitter.com/search?q=%23UnlockingPotential) | N/A |
+| 42 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 43 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 44 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 46 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
+| 47 | [#RHOPReunion](http://twitter.com/search?q=%23RHOPReunion) | N/A |
+| 48 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 49 | [#whisper](http://twitter.com/search?q=%23whisper) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-06 10:16:21 UTC`
+📆 Last Updated: `2023-03-06 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 2 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 3 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 9 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 10 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 11 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 12 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 13 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 14 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 15 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 16 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 17 | [Honours](http://twitter.com/search?q=Honours) | N/A |
-| 18 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 19 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 20 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 21 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 22 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 24 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 25 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 26 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 27 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 28 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 29 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 30 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
-| 31 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 32 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
-| 33 | [#ASongOrMovieForAnythingCold](http://twitter.com/search?q=%23ASongOrMovieForAnythingCold) | N/A |
-| 34 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 35 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
-| 36 | [#UnlockingPotential](http://twitter.com/search?q=%23UnlockingPotential) | N/A |
-| 37 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 38 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
-| 39 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 40 | [#ToriesOut242](http://twitter.com/search?q=%23ToriesOut242) | N/A |
-| 41 | [#whisper](http://twitter.com/search?q=%23whisper) | N/A |
-| 42 | [#kayburley](http://twitter.com/search?q=%23kayburley) | N/A |
-| 43 | [#JohnsonTheCorruptPM](http://twitter.com/search?q=%23JohnsonTheCorruptPM) | N/A |
-| 44 | [#Wordle625](http://twitter.com/search?q=%23Wordle625) | N/A |
+| 2 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
+| 3 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 4 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 5 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 6 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 9 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 10 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 11 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 12 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 13 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 14 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 15 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 16 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
+| 17 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 18 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 19 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 20 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 21 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 22 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 23 | [Honours](http://twitter.com/search?q=Honours) | N/A |
+| 24 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 25 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 26 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 27 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 28 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 30 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 31 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
+| 32 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 33 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 34 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 35 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 36 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 37 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 38 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 39 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
+| 40 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 41 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 42 | [#10tothetop](http://twitter.com/search?q=%2310tothetop) | N/A |
+| 43 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
+| 44 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
 
 
 
