@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-06 20:16:32 UTC`
+📆 Last Updated: `2023-03-06 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 2 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 3 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 4 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 5 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 6 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 7 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
-| 8 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 9 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
-| 10 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 11 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
-| 12 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 13 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 14 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 15 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 16 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 17 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 18 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 19 | [#bailedajapa](http://twitter.com/search?q=%23bailedajapa) | N/A |
-| 20 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 21 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 22 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 23 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 24 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 25 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
-| 26 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 27 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 28 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 30 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
-| 31 | [Vasco x Bangu](http://twitter.com/search?q=Vasco+x+Bangu) | N/A |
-| 32 | [Samuel Venâncio](http://twitter.com/search?q=Samuel+Ven%c3%a2ncio) | N/A |
-| 33 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 34 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 35 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 2 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 3 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
+| 4 | [#Kitsunenacdanjos](http://twitter.com/search?q=%23Kitsunenacdanjos) | N/A |
+| 5 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
+| 6 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 7 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 8 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 9 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 10 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
+| 11 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 12 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
+| 13 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
+| 14 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 15 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 16 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 17 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 18 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
+| 19 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 20 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 21 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 22 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 23 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
+| 24 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
+| 25 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
+| 26 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 27 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
+| 28 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
+| 29 | [#bailedajapa](http://twitter.com/search?q=%23bailedajapa) | N/A |
+| 30 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
+| 31 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
+| 32 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 33 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 35 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
 | 36 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 37 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
-| 38 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 39 | [Suape](http://twitter.com/search?q=Suape) | N/A |
-| 40 | [Palmeiras x São Bernardo](http://twitter.com/search?q=Palmeiras+x+S%c3%a3o+Bernardo) | N/A |
-| 41 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 42 | [Tartarugas Ninja](http://twitter.com/search?q=Tartarugas+Ninja) | N/A |
-| 43 | [renata celi](http://twitter.com/search?q=renata+celi) | N/A |
-| 44 | [Felipe Silva](http://twitter.com/search?q=Felipe+Silva) | N/A |
-| 45 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
-| 46 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 47 | [Caos Mutante](http://twitter.com/search?q=Caos+Mutante) | N/A |
-| 48 | [Gatito](http://twitter.com/search?q=Gatito) | N/A |
-| 49 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
-| 50 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 38 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
+| 39 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 40 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 41 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 42 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 43 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 44 | [renata celi](http://twitter.com/search?q=renata+celi) | N/A |
+| 45 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
+| 46 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
+| 47 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 48 | [Vasco x Bangu](http://twitter.com/search?q=Vasco+x+Bangu) | N/A |
+| 49 | [Samuel Venâncio](http://twitter.com/search?q=Samuel+Ven%c3%a2ncio) | N/A |
+| 50 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
 
 
 

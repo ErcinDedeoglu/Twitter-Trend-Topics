@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-06 20:16:42 UTC`
+📆 Last Updated: `2023-03-06 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PcAniversario](http://twitter.com/search?q=%23PcAniversario) | N/A |
-| 2 | [#Pasapalabra718](http://twitter.com/search?q=%23Pasapalabra718) | N/A |
-| 3 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 5 | [#OsasunaCelta](http://twitter.com/search?q=%23OsasunaCelta) | N/A |
-| 6 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 8 | [Bernarda Alba](http://twitter.com/search?q=Bernarda+Alba) | N/A |
-| 9 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 10 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 11 | [#FiestaPrimavera23](http://twitter.com/search?q=%23FiestaPrimavera23) | N/A |
-| 12 | [Joana](http://twitter.com/search?q=Joana) | N/A |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 14 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 15 | [García Castellón](http://twitter.com/search?q=Garc%c3%ada+Castell%c3%b3n) | N/A |
-| 16 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
-| 17 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 18 | [Lorca](http://twitter.com/search?q=Lorca) | N/A |
-| 19 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 20 | [Aprovechando](http://twitter.com/search?q=Aprovechando) | N/A |
-| 21 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 22 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
-| 23 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 1 | [#firstdates6m](http://twitter.com/search?q=%23firstdates6m) | N/A |
+| 2 | [#PcAniversario](http://twitter.com/search?q=%23PcAniversario) | N/A |
+| 3 | [#OsasunaCelta](http://twitter.com/search?q=%23OsasunaCelta) | N/A |
+| 4 | [#DocuTQSPM](http://twitter.com/search?q=%23DocuTQSPM) | N/A |
+| 5 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 6 | [#Pasapalabra718](http://twitter.com/search?q=%23Pasapalabra718) | N/A |
+| 7 | [Bernarda Alba](http://twitter.com/search?q=Bernarda+Alba) | N/A |
+| 8 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 9 | [Carvalhal](http://twitter.com/search?q=Carvalhal) | N/A |
+| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 13 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 14 | [Lorca](http://twitter.com/search?q=Lorca) | N/A |
+| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 16 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 17 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
+| 18 | [Chimy](http://twitter.com/search?q=Chimy) | N/A |
+| 19 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 20 | [Joana](http://twitter.com/search?q=Joana) | N/A |
+| 21 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
+| 22 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 23 | [García Castellón](http://twitter.com/search?q=Garc%c3%ada+Castell%c3%b3n) | N/A |
 | 24 | [Del Nido](http://twitter.com/search?q=Del+Nido) | N/A |
-| 25 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 26 | [Pedro Antonio Sánchez](http://twitter.com/search?q=Pedro+Antonio+S%c3%a1nchez) | N/A |
-| 27 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 28 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 29 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
-| 30 | [Futre](http://twitter.com/search?q=Futre) | N/A |
-| 31 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 32 | [Tortugas Ninja](http://twitter.com/search?q=Tortugas+Ninja) | N/A |
-| 33 | [Rango 2](http://twitter.com/search?q=Rango+2) | N/A |
-| 34 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
-| 35 | [Fuengirola](http://twitter.com/search?q=Fuengirola) | N/A |
-| 36 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 38 | [Balón](http://twitter.com/search?q=Bal%c3%b3n) | N/A |
-| 39 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 40 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 41 | [Yulen](http://twitter.com/search?q=Yulen) | N/A |
-| 42 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Tenkaichi](http://twitter.com/search?q=Tenkaichi) | N/A |
-| 45 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 46 | [Capi](http://twitter.com/search?q=Capi) | N/A |
-| 47 | [Ana Pastor](http://twitter.com/search?q=Ana+Pastor) | N/A |
-| 48 | [#CanalRed](http://twitter.com/search?q=%23CanalRed) | N/A |
-| 49 | [#APOYOROCI06M](http://twitter.com/search?q=%23APOYOROCI06M) | N/A |
-| 50 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 25 | [Roures](http://twitter.com/search?q=Roures) | N/A |
+| 26 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 27 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
+| 28 | [Aprovechando](http://twitter.com/search?q=Aprovechando) | N/A |
+| 29 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
+| 30 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 31 | [Maestre](http://twitter.com/search?q=Maestre) | N/A |
+| 32 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 33 | [Pedro Antonio Sánchez](http://twitter.com/search?q=Pedro+Antonio+S%c3%a1nchez) | N/A |
+| 34 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 35 | [Futre](http://twitter.com/search?q=Futre) | N/A |
+| 36 | [Rango 2](http://twitter.com/search?q=Rango+2) | N/A |
+| 37 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 38 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
+| 39 | [Tortugas Ninja](http://twitter.com/search?q=Tortugas+Ninja) | N/A |
+| 40 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 41 | [Jenna Ortega](http://twitter.com/search?q=Jenna+Ortega) | N/A |
+| 42 | [DLCs](http://twitter.com/search?q=DLCs) | N/A |
+| 43 | [Balón](http://twitter.com/search?q=Bal%c3%b3n) | N/A |
+| 44 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 45 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 47 | [Fuengirola](http://twitter.com/search?q=Fuengirola) | N/A |
+| 48 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
+| 49 | [Yulen](http://twitter.com/search?q=Yulen) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

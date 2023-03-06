@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-03-06 20:17:16 UTC`
+📆 Last Updated: `2023-03-06 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 3 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 1 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 2 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
 | 4 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 6 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 7 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 8 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 9 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 10 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 11 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 12 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 13 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 15 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 16 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 17 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 18 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
-| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 20 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 21 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 22 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 23 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 24 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 25 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 26 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 27 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 28 | [Chosen Anderson](http://twitter.com/search?q=Chosen+Anderson) | N/A |
-| 29 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
-| 30 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 31 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 32 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 33 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 34 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 35 | [All-SEC](http://twitter.com/search?q=All-SEC) | N/A |
-| 36 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 37 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 38 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 40 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 41 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 5 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 7 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 9 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
+| 10 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 11 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 12 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 13 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 14 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 15 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 16 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 17 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 18 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 19 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 20 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
+| 21 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 23 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 24 | [Veach](http://twitter.com/search?q=Veach) | N/A |
+| 25 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 26 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 27 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
+| 28 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 29 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 30 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 31 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 32 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
+| 33 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 34 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
+| 35 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 36 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 37 | [Chosen Anderson](http://twitter.com/search?q=Chosen+Anderson) | N/A |
+| 38 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 39 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
+| 40 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 41 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
 | 42 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 43 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 44 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 45 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 46 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 47 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
-| 48 | [Tannehill](http://twitter.com/search?q=Tannehill) | Tannehill is a surname of English origin. It is derived from the Old English words tann meaning "tanner" and hyll meaning "hill". The name was originally given to someone who lived near or worked in a tannery. |
-| 49 | [North](http://twitter.com/search?q=North) | N/A |
+| 43 | [Robbie Anderson](http://twitter.com/search?q=Robbie+Anderson) | N/A |
+| 44 | [Howard Hughes](http://twitter.com/search?q=Howard+Hughes) | N/A |
+| 45 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 46 | [North](http://twitter.com/search?q=North) | N/A |
+| 47 | [All-SEC](http://twitter.com/search?q=All-SEC) | N/A |
+| 48 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
 
 
 

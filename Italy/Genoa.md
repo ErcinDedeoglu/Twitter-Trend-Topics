@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-06 20:16:40 UTC`
+📆 Last Updated: `2023-03-06 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 2 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 3 | [#RomaJuve](http://twitter.com/search?q=%23RomaJuve) | N/A |
-| 4 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 5 | [#6marzo](http://twitter.com/search?q=%236marzo) | N/A |
-| 6 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 7 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 8 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 10 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 11 | [Caprarica](http://twitter.com/search?q=Caprarica) | N/A |
-| 12 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 13 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 14 | [SOCIOS Italia](http://twitter.com/search?q=SOCIOS+Italia) | N/A |
-| 15 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 16 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 17 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 18 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 19 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 20 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 21 | [Dessers](http://twitter.com/search?q=Dessers) | N/A |
-| 22 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 23 | [Gobetti](http://twitter.com/search?q=Gobetti) | N/A |
-| 24 | [Stazione Centrale](http://twitter.com/search?q=Stazione+Centrale) | N/A |
-| 25 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 26 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 27 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 28 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
-| 29 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 30 | [Prontissima](http://twitter.com/search?q=Prontissima) | N/A |
-| 31 | [Hande](http://twitter.com/search?q=Hande) | N/A |
-| 32 | [Cuperlo](http://twitter.com/search?q=Cuperlo) | N/A |
-| 33 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 34 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 35 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 36 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 37 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
-| 38 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 39 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 40 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 41 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 42 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 43 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 44 | [Profondo Rosso](http://twitter.com/search?q=Profondo+Rosso) | N/A |
-| 45 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 46 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 47 | [Elonio](http://twitter.com/search?q=Elonio) | N/A |
-| 48 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 49 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 50 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 1 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 2 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 3 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 5 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 6 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 7 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 8 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
+| 9 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 10 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 11 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 12 | [Centrale](http://twitter.com/search?q=Centrale) | N/A |
+| 13 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 14 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
+| 15 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 16 | [Piero](http://twitter.com/search?q=Piero) | N/A |
+| 17 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 20 | [De Laurentiis](http://twitter.com/search?q=De+Laurentiis) | N/A |
+| 21 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 22 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 23 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 24 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 25 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 26 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 27 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 28 | [#infiniteVolte](http://twitter.com/search?q=%23infiniteVolte) | N/A |
+| 29 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
+| 30 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 31 | [#TorinoBologna](http://twitter.com/search?q=%23TorinoBologna) | N/A |
+| 32 | [#Milano](http://twitter.com/search?q=%23Milano) | N/A |
+| 33 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 34 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 35 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 37 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 38 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 39 | [#SassuoloCremonese](http://twitter.com/search?q=%23SassuoloCremonese) | N/A |
+| 40 | [#GenoaCosenza](http://twitter.com/search?q=%23GenoaCosenza) | N/A |
+| 41 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
+| 42 | [#sigarette](http://twitter.com/search?q=%23sigarette) | N/A |
+| 43 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 44 | [#fuoridonnamaria](http://twitter.com/search?q=%23fuoridonnamaria) | N/A |
+| 45 | [#redditodicittadinanza](http://twitter.com/search?q=%23redditodicittadinanza) | N/A |
+| 46 | [#Mediaset](http://twitter.com/search?q=%23Mediaset) | N/A |
+| 47 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
+| 48 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 49 | [#RenziFaiSchifo](http://twitter.com/search?q=%23RenziFaiSchifo) | N/A |
 
 
 

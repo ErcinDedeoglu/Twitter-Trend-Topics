@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-06 20:17:28 UTC`
+📆 Last Updated: `2023-03-06 21:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,27 +25,27 @@ This is top 50 for Singapore
 | 8 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
 | 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 11 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 12 | [mondayvibes kianos](http://twitter.com/search?q=mondayvibes+kianos) | N/A |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 11 | [mondayvibes kianos](http://twitter.com/search?q=mondayvibes+kianos) | N/A |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 14 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
 | 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 16 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 19 | [luda](http://twitter.com/search?q=luda) | N/A |
-| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 21 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
-| 22 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
+| 19 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
+| 20 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
+| 21 | [luda](http://twitter.com/search?q=luda) | N/A |
+| 22 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 23 | [dayoung](http://twitter.com/search?q=dayoung) | N/A |
 | 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 25 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 27 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 28 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
-| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 31 | [Romanceable NPC](http://twitter.com/search?q=Romanceable+NPC) | N/A |
+| 28 | [Romanceable NPC](http://twitter.com/search?q=Romanceable+NPC) | N/A |
+| 29 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 32 | [Oops](http://twitter.com/search?q=Oops) | N/A |
 | 33 | [Luna](http://twitter.com/search?q=Luna) | N/A |
 | 34 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
@@ -64,7 +64,7 @@ This is top 50 for Singapore
 | 47 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 48 | [Jail](http://twitter.com/search?q=Jail) | N/A |
 | 49 | [Filipino](http://twitter.com/search?q=Filipino) | N/A |
-| 50 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 50 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 
 
 

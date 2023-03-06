@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-06 20:16:25 UTC`
+📆 Last Updated: `2023-03-06 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mastermind](http://twitter.com/search?q=%23mastermind) | N/A |
-| 2 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
-| 3 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 4 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
-| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 7 | [Karen Carney](http://twitter.com/search?q=Karen+Carney) | N/A |
-| 8 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 11 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 12 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 13 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 14 | [Jonathan Gullis](http://twitter.com/search?q=Jonathan+Gullis) | N/A |
-| 15 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 16 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 17 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 18 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 19 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 20 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 21 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 22 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 23 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
-| 24 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 25 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 26 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 27 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 28 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 29 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 30 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 31 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 32 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 33 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 34 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 35 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 36 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 37 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 38 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 39 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 40 | [APIs](http://twitter.com/search?q=APIs) | N/A |
-| 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 42 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 43 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 44 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 45 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
-| 46 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 47 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
-| 48 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 49 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 1 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 2 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 3 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 4 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
+| 5 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
+| 6 | [#onlyconnect](http://twitter.com/search?q=%23onlyconnect) | #onlyconnect is a hashtag used to express the idea of connecting with others, either through social media or in real life. It is often used to encourage people to reach out and build relationships with those around them. |
+| 7 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 9 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 10 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 11 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 14 | [Karen Carney](http://twitter.com/search?q=Karen+Carney) | N/A |
+| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 18 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 19 | [Jonathan Gullis](http://twitter.com/search?q=Jonathan+Gullis) | N/A |
+| 20 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 21 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 22 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 23 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
+| 24 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 25 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 26 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 27 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 28 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 29 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 30 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 31 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
+| 32 | [Reed](http://twitter.com/search?q=Reed) | N/A |
+| 33 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 34 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 35 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 36 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
+| 37 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 38 | [Chag Purim Sameach](http://twitter.com/search?q=Chag+Purim+Sameach) | N/A |
+| 39 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 41 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 44 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 45 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
+| 46 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 47 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 48 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 49 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
 
 
 
