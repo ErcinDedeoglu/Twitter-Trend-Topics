@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-06 06:17:38 UTC`
+📆 Last Updated: `2023-03-06 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [United States](</United States>)
 | 3 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
 | 4 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 5 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 6 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 7 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 8 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 9 | [Tyus Jones](http://twitter.com/search?q=Tyus+Jones) | N/A |
-| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 11 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 12 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 13 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 14 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 15 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
-| 16 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 17 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
-| 18 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 10 | [Tyus Jones](http://twitter.com/search?q=Tyus+Jones) | N/A |
+| 11 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 12 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 13 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
+| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 16 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 17 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 18 | [Al Horford](http://twitter.com/search?q=Al+Horford) | Al Horford is a professional basketball player from the Dominican Republic who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a four-time NBA All-Star and has won two NBA championships with the Boston Celtics. The meaning of Al Horford in English is "a talented basketball player". |
 | 19 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 20 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 21 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 22 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 23 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 24 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 25 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 26 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
-| 27 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 20 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 21 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 22 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
+| 23 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 24 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 25 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 26 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 27 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
 | 28 | [Lynyrd Skynyrd](http://twitter.com/search?q=Lynyrd+Skynyrd) | N/A |
-| 29 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 30 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
-| 31 | [Ricky Davis](http://twitter.com/search?q=Ricky+Davis) | N/A |
-| 32 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 33 | [BABY GIRL](http://twitter.com/search?q=BABY+GIRL) | N/A |
-| 34 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 35 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 36 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 37 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 38 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 39 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
+| 29 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
+| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 31 | [BABY GIRL](http://twitter.com/search?q=BABY+GIRL) | N/A |
+| 32 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 33 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 34 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 35 | [Ricky Davis](http://twitter.com/search?q=Ricky+Davis) | N/A |
+| 36 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 37 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 38 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 39 | [SUDDEN DEATH](http://twitter.com/search?q=SUDDEN+DEATH) | N/A |
 | 40 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
 | 41 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 42 | [SUDDEN DEATH](http://twitter.com/search?q=SUDDEN+DEATH) | N/A |
-| 43 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 44 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 42 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 43 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 44 | [Kawhi and PG](http://twitter.com/search?q=Kawhi+and+PG) | N/A |
 | 45 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 46 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 47 | [David Carr](http://twitter.com/search?q=David+Carr) | N/A |
-| 48 | [9 IN A ROW](http://twitter.com/search?q=9+IN+A+ROW) | N/A |
+| 46 | [David Carr](http://twitter.com/search?q=David+Carr) | N/A |
+| 47 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
+| 48 | [PG and Kawhi](http://twitter.com/search?q=PG+and+Kawhi) | N/A |
 
 
 

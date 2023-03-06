@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-06 06:17:32 UTC`
+📆 Last Updated: `2023-03-06 07:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,31 +17,36 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#AmedsporunYanındayız](http://twitter.com/search?q=%23AmedsporunYan%c4%b1nday%c4%b1z) | N/A |
 | 2 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 3 | [EnUygunFiyatlı TTHizmeti](http://twitter.com/search?q=EnUygunFiyatl%c4%b1+TTHizmeti) | N/A |
-| 4 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 5 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
-| 6 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 3 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 4 | [EnUygunFiyatlı TTHizmeti](http://twitter.com/search?q=EnUygunFiyatl%c4%b1+TTHizmeti) | N/A |
+| 5 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 6 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
 | 7 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 8 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
-| 9 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 10 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 11 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 12 | [Diyarbakır'daki](http://twitter.com/search?q=Diyarbak%c4%b1r%27daki) | N/A |
-| 13 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
-| 14 | [#TarihBunuNotEtti](http://twitter.com/search?q=%23TarihBunuNotEtti) | N/A |
-| 15 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 8 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 9 | [İslam Alemine](http://twitter.com/search?q=%c4%b0slam+Alemine) | N/A |
+| 10 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 11 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 12 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 13 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 14 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
+| 15 | [Diyarbakır'daki](http://twitter.com/search?q=Diyarbak%c4%b1r%27daki) | N/A |
 | 16 | [#OlmazOlmazDeme](http://twitter.com/search?q=%23OlmazOlmazDeme) | N/A |
-| 17 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 18 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
-| 19 | [#2000lerTobaYasaya](http://twitter.com/search?q=%232000lerTobaYasaya) | N/A |
-| 20 | [#BursaSporKapatilsin](http://twitter.com/search?q=%23BursaSporKapatilsin) | N/A |
-| 21 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
-| 22 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
-| 23 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
-| 24 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
-| 25 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
-| 26 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
-| 27 | [#TeroeristBursaSpor](http://twitter.com/search?q=%23TeroeristBursaSpor) | N/A |
+| 17 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
+| 18 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
+| 19 | [#TarihBunuNotEtti](http://twitter.com/search?q=%23TarihBunuNotEtti) | N/A |
+| 20 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 21 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 22 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
+| 23 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
+| 24 | [#6Mart](http://twitter.com/search?q=%236Mart) | N/A |
+| 25 | [#2000lerTobaYasaya](http://twitter.com/search?q=%232000lerTobaYasaya) | N/A |
+| 26 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
+| 27 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
+| 28 | [#BursaSporKapatilsin](http://twitter.com/search?q=%23BursaSporKapatilsin) | N/A |
+| 29 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
+| 30 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
+| 31 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
+| 32 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
 
 
 

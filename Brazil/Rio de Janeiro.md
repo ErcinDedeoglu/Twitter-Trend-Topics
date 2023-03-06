@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-06 06:17:00 UTC`
+📆 Last Updated: `2023-03-06 07:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jogou](http://twitter.com/search?q=Jogou) | N/A |
-| 2 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 3 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 4 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 5 | [Pumita](http://twitter.com/search?q=Pumita) | N/A |
-| 6 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 7 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 8 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 9 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 10 | [#ficaVP](http://twitter.com/search?q=%23ficaVP) | N/A |
-| 11 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 12 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 13 | [Big Time Rush](http://twitter.com/search?q=Big+Time+Rush) | N/A |
-| 14 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
-| 15 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 16 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 17 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 18 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 19 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 23 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 24 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 25 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 26 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 27 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 28 | [David](http://twitter.com/search?q=David) | N/A |
-| 29 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
-| 30 | [Burra](http://twitter.com/search?q=Burra) | N/A |
-| 31 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 33 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 34 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 35 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 36 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 37 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 38 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 39 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 40 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 41 | [Key e Guimê](http://twitter.com/search?q=Key+e+Guim%c3%aa) | N/A |
-| 42 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
-| 43 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
-| 44 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 45 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 46 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 47 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
-| 48 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 49 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 50 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 1 | [Pumita](http://twitter.com/search?q=Pumita) | N/A |
+| 2 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 7 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 9 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 10 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 11 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 12 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 13 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 14 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 15 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
+| 16 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 17 | [David](http://twitter.com/search?q=David) | N/A |
+| 18 | [BURRA](http://twitter.com/search?q=BURRA) | N/A |
+| 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 20 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 21 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 22 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 23 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
+| 24 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 25 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 26 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 27 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
+| 28 | [Key e Guimê](http://twitter.com/search?q=Key+e+Guim%c3%aa) | N/A |
+| 29 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
+| 30 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 31 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 32 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
+| 33 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 34 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 35 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 36 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 37 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 38 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 39 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 40 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 41 | [Ranço](http://twitter.com/search?q=Ran%c3%a7o) | N/A |
+| 42 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 43 | [Burrice](http://twitter.com/search?q=Burrice) | N/A |
+| 44 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 45 | [Saboneteiro](http://twitter.com/search?q=Saboneteiro) | N/A |
+| 46 | [acamado](http://twitter.com/search?q=acamado) | N/A |
+| 47 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 48 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
 
 
 

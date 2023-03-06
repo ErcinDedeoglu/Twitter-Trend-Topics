@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-06 06:17:04 UTC`
+📆 Last Updated: `2023-03-06 07:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 2 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 5 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 7 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [#LGBTQIASoonsunny](http://twitter.com/search?q=%23LGBTQIASoonsunny) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 4 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 7 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 8 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 13 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 14 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 15 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 16 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 17 | [doumbe](http://twitter.com/search?q=doumbe) | N/A |
-| 18 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 19 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 16 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
+| 17 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 18 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 19 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 20 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 21 | [donnarumma](http://twitter.com/search?q=donnarumma) | N/A |
-| 22 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 23 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 21 | [DOUMBE](http://twitter.com/search?q=DOUMBE) | N/A |
+| 22 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 24 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 26 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 27 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 26 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 27 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
 | 28 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 29 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 29 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
 | 30 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 31 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 32 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 33 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 34 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 35 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 36 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 37 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 38 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 39 | [BEN YEDDER](http://twitter.com/search?q=BEN+YEDDER) | N/A |
-| 40 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 41 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 31 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 32 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 33 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
+| 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 35 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 37 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 38 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
+| 39 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 40 | [Ben yedder](http://twitter.com/search?q=Ben+yedder) | N/A |
+| 41 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 42 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
 | 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 44 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 46 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 47 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 48 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 49 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 50 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 45 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
+| 46 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 47 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 49 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 50 | [Kean](http://twitter.com/search?q=Kean) | N/A |
 
 
 

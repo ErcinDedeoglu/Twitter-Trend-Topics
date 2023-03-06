@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-06 06:17:43 UTC`
+📆 Last Updated: `2023-03-06 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
 | 2 | [#ltwkaernten](http://twitter.com/search?q=%23ltwkaernten) | N/A |
-| 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
+| 3 | [#imZentrum](http://twitter.com/search?q=%23imZentrum) | N/A |
 | 4 | [#scrrbs](http://twitter.com/search?q=%23scrrbs) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 7 | [Bine](http://twitter.com/search?q=Bine) | N/A |
-| 8 | [Peter Kaiser](http://twitter.com/search?q=Peter+Kaiser) | N/A |
+| 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 6 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 7 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 8 | [Christine](http://twitter.com/search?q=Christine) | N/A |
 | 9 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 12 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 13 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
-| 14 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 15 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 16 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 17 | [roten](http://twitter.com/search?q=roten) | N/A |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [Köfer](http://twitter.com/search?q=K%c3%b6fer) | N/A |
-| 20 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 21 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
-| 22 | [grüne und neos](http://twitter.com/search?q=gr%c3%bcne+und+neos) | N/A |
-| 23 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 24 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 25 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 26 | [maurer](http://twitter.com/search?q=maurer) | N/A |
-| 27 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
-| 28 | [sessel](http://twitter.com/search?q=sessel) | N/A |
+| 10 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 11 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 12 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 13 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 14 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 15 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 16 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 17 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 18 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [roten](http://twitter.com/search?q=roten) | N/A |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 23 | [Köfer](http://twitter.com/search?q=K%c3%b6fer) | N/A |
+| 24 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 25 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
+| 26 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
+| 27 | [grüne und neos](http://twitter.com/search?q=gr%c3%bcne+und+neos) | N/A |
+| 28 | [maurer](http://twitter.com/search?q=maurer) | N/A |
 | 29 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
-| 30 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
-| 31 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
+| 30 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 31 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
 | 32 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 33 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
-| 34 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
-| 35 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 36 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 33 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
+| 34 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
+| 35 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
+| 36 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 37 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 39 | [klagenfurt](http://twitter.com/search?q=klagenfurt) | N/A |
-| 40 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
-| 41 | [formel 1](http://twitter.com/search?q=formel+1) | N/A |
-| 42 | [flüge](http://twitter.com/search?q=fl%c3%bcge) | N/A |
-| 43 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 44 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 45 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 46 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 47 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
-| 50 | [Duell](http://twitter.com/search?q=Duell) | N/A |
+| 38 | [klagenfurt](http://twitter.com/search?q=klagenfurt) | N/A |
+| 39 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 40 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 41 | [Landeshauptmann](http://twitter.com/search?q=Landeshauptmann) | N/A |
+| 42 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
+| 43 | [NR-Wahl](http://twitter.com/search?q=NR-Wahl) | N/A |
+| 44 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 45 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 46 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 47 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 48 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 49 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

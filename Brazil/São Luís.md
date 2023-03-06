@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-06 06:17:01 UTC`
+📆 Last Updated: `2023-03-06 07:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,39 @@ This is top 50 for [Brazil](</Brazil>)
 | 12 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
 | 13 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
 | 14 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 15 | [David](http://twitter.com/search?q=David) | N/A |
-| 16 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
-| 17 | [Burra](http://twitter.com/search?q=Burra) | N/A |
-| 18 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 20 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 21 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 22 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 23 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 24 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 25 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 26 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 27 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 28 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 29 | [Key e Guimê](http://twitter.com/search?q=Key+e+Guim%c3%aa) | N/A |
-| 30 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
-| 31 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
-| 32 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 35 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
-| 36 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 38 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 39 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 40 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
-| 41 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 42 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
-| 43 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 44 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 45 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 46 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 47 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 48 | [Ranço](http://twitter.com/search?q=Ran%c3%a7o) | N/A |
-| 49 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 50 | [Burrice](http://twitter.com/search?q=Burrice) | N/A |
+| 15 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 16 | [David](http://twitter.com/search?q=David) | N/A |
+| 17 | [BURRA](http://twitter.com/search?q=BURRA) | N/A |
+| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 19 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 20 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 21 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 22 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
+| 23 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 24 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 25 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 26 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
+| 27 | [Key e Guimê](http://twitter.com/search?q=Key+e+Guim%c3%aa) | N/A |
+| 28 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
+| 29 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 30 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 31 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
+| 32 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 33 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 34 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
+| 35 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 36 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 37 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 38 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 39 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 40 | [Ranço](http://twitter.com/search?q=Ran%c3%a7o) | N/A |
+| 41 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 42 | [Burrice](http://twitter.com/search?q=Burrice) | N/A |
+| 43 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 44 | [Saboneteiro](http://twitter.com/search?q=Saboneteiro) | N/A |
+| 45 | [acamado](http://twitter.com/search?q=acamado) | N/A |
+| 46 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 47 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
 
 
 
