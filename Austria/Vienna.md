@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-06 05:16:11 UTC`
+📆 Last Updated: `2023-03-06 06:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Austria](</Austria>)
 | 7 | [Peter Kaiser](http://twitter.com/search?q=Peter+Kaiser) | N/A |
 | 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 9 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 10 | [wahlergebnis](http://twitter.com/search?q=wahlergebnis) | N/A |
-| 11 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 12 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 13 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
-| 14 | [roten](http://twitter.com/search?q=roten) | N/A |
-| 15 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 10 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 11 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 12 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 13 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 14 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 15 | [roten](http://twitter.com/search?q=roten) | N/A |
 | 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 18 | [Köfer](http://twitter.com/search?q=K%c3%b6fer) | N/A |
+| 17 | [Köfer](http://twitter.com/search?q=K%c3%b6fer) | N/A |
+| 18 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
 | 19 | [hochrechnungen](http://twitter.com/search?q=hochrechnungen) | N/A |
-| 20 | [Grüne und Neos](http://twitter.com/search?q=Gr%c3%bcne+und+Neos) | N/A |
-| 21 | [maurer](http://twitter.com/search?q=maurer) | N/A |
-| 22 | [rendi-wagner](http://twitter.com/search?q=rendi-wagner) | N/A |
-| 23 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 20 | [grüne und neos](http://twitter.com/search?q=gr%c3%bcne+und+neos) | N/A |
+| 21 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 22 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 23 | [maurer](http://twitter.com/search?q=maurer) | N/A |
 | 24 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
-| 25 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
-| 26 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
-| 27 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
-| 28 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
-| 29 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
-| 30 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
-| 31 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 32 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 33 | [Salzburg](http://twitter.com/search?q=Salzburg) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 25 | [sessel](http://twitter.com/search?q=sessel) | N/A |
+| 26 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
+| 27 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
+| 28 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
+| 29 | [Suppe](http://twitter.com/search?q=Suppe) | N/A |
+| 30 | [Gewinner](http://twitter.com/search?q=Gewinner) | N/A |
+| 31 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
+| 32 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 33 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
+| 34 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 36 | [klagenfurt](http://twitter.com/search?q=klagenfurt) | N/A |
 | 37 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 38 | [formel 1](http://twitter.com/search?q=formel+1) | N/A |
-| 39 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 38 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 39 | [formel 1](http://twitter.com/search?q=formel+1) | N/A |
 | 40 | [flüge](http://twitter.com/search?q=fl%c3%bcge) | N/A |
-| 41 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
-| 42 | [mannschaft](http://twitter.com/search?q=mannschaft) | N/A |
+| 41 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 42 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 43 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
 | 44 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 45 | [kommunisten](http://twitter.com/search?q=kommunisten) | N/A |
+| 45 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
 | 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [plätze](http://twitter.com/search?q=pl%c3%a4tze) | N/A |
-| 48 | [Delfin](http://twitter.com/search?q=Delfin) | N/A |
-| 49 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 50 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 47 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
+| 48 | [Duell](http://twitter.com/search?q=Duell) | N/A |
+| 49 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
+| 50 | [DELFIN](http://twitter.com/search?q=DELFIN) | N/A |
 
 
 

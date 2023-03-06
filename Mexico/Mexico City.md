@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-06 05:16:03 UTC`
+📆 Last Updated: `2023-03-06 06:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 2 | [Pura](http://twitter.com/search?q=Pura) | N/A |
 | 3 | [#diadelafamilia](http://twitter.com/search?q=%23diadelafamilia) | N/A |
-| 4 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#EliminaciónColosal](http://twitter.com/search?q=%23Eliminaci%c3%b3nColosal) | N/A |
-| 7 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 8 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 9 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 6 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 7 | [#EliminaciónColosal](http://twitter.com/search?q=%23Eliminaci%c3%b3nColosal) | N/A |
+| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 9 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
 | 10 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
 | 11 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 13 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 14 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 15 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 16 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 17 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 18 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 19 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 21 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
-| 22 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 23 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 24 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 25 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 26 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 27 | [JORGE EN MQB](http://twitter.com/search?q=JORGE+EN+MQB) | N/A |
-| 28 | [FELIZ CUMPLE MARIO B](http://twitter.com/search?q=FELIZ+CUMPLE+MARIO+B) | N/A |
-| 29 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 30 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
-| 31 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 32 | [Vamos PRI](http://twitter.com/search?q=Vamos+PRI) | N/A |
-| 33 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 34 | [Contreras](http://twitter.com/search?q=Contreras) | N/A |
+| 12 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 13 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 14 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 15 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 16 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 17 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 19 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 20 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 21 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 22 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 23 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 24 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 25 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 26 | [JORGE EN MQB](http://twitter.com/search?q=JORGE+EN+MQB) | N/A |
+| 27 | [FELIZ CUMPLE MARIO B](http://twitter.com/search?q=FELIZ+CUMPLE+MARIO+B) | N/A |
+| 28 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 29 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 30 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 31 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 32 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 33 | [Vamos PRI](http://twitter.com/search?q=Vamos+PRI) | N/A |
+| 34 | [DULCES 31 MACA](http://twitter.com/search?q=DULCES+31+MACA) | N/A |
 | 35 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 36 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 37 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 38 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 39 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
-| 40 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 36 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 37 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
+| 38 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 39 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 40 | [Creed](http://twitter.com/search?q=Creed) | N/A |
 | 41 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 42 | [Creed 3](http://twitter.com/search?q=Creed+3) | N/A |
-| 43 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 42 | [Kimberly Loaiza](http://twitter.com/search?q=Kimberly+Loaiza) | N/A |
+| 43 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
 | 44 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
-| 45 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 46 | [Guaynaa](http://twitter.com/search?q=Guaynaa) | N/A |
-| 47 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 48 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 49 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 50 | [#TodosSomosManzanas](http://twitter.com/search?q=%23TodosSomosManzanas) | N/A |
+| 45 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 46 | [#ThankYouJimin](http://twitter.com/search?q=%23ThankYouJimin) | #ThankYouJimin is a hashtag used by fans of the South Korean pop group BTS to show their appreciation for member Jimin. It is used to express gratitude for his hard work and dedication to the group. |
+| 47 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 48 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 49 | [#TodosSomosManzanas](http://twitter.com/search?q=%23TodosSomosManzanas) | N/A |
+| 50 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
 
 
 

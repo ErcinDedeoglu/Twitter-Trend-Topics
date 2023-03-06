@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-06 05:16:14 UTC`
+📆 Last Updated: `2023-03-06 06:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 3 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 3 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 6 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 7 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 8 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 5 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 6 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 7 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 8 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 9 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 13 | [grundrechte](http://twitter.com/search?q=grundrechte) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 16 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 17 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 18 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
-| 19 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 20 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 23 | [toast hawaii](http://twitter.com/search?q=toast+hawaii) | N/A |
-| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 27 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 28 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 29 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 30 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 31 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 32 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 33 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 34 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 35 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
-| 36 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 37 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 38 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 41 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 42 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 44 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
-| 45 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 46 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
-| 47 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 48 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
-| 49 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 50 | [heizkosten und strompreise](http://twitter.com/search?q=heizkosten+und+strompreise) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 12 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 13 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 15 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 19 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 20 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 21 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 22 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 23 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 24 | [Guten Morgen Kate](http://twitter.com/search?q=Guten+Morgen+Kate) | N/A |
+| 25 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 26 | [toast hawaii](http://twitter.com/search?q=toast+hawaii) | N/A |
+| 27 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 28 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 32 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 33 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 34 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 35 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 36 | [Lasst Euch](http://twitter.com/search?q=Lasst+Euch) | N/A |
+| 37 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 38 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 39 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 40 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 41 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 42 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 43 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 44 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 45 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 46 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 47 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 48 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 50 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 
 
 
