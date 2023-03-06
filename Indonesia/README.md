@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-06 09:17:18 UTC`
+📆 Last Updated: `2023-03-06 10:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
 | 2 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 3 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
-| 4 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
-| 5 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 6 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 7 | [#GROOVY_MV_OutNow](http://twitter.com/search?q=%23GROOVY_MV_OutNow) | N/A |
-| 8 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 9 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
-| 10 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
+| 3 | [#TSMedia](http://twitter.com/search?q=%23TSMedia) | N/A |
+| 4 | [#ThanksGodItsFriendstivity](http://twitter.com/search?q=%23ThanksGodItsFriendstivity) | N/A |
+| 5 | [#TSX2023](http://twitter.com/search?q=%23TSX2023) | N/A |
+| 6 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
+| 7 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
+| 8 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 9 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
 | 11 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 12 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 13 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 12 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 13 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
 | 14 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
 | 15 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 16 | [Quality](http://twitter.com/search?q=Quality) | N/A |
-| 17 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 18 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
-| 19 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 20 | [Acts](http://twitter.com/search?q=Acts) | N/A |
-| 21 | [Physical](http://twitter.com/search?q=Physical) | N/A |
-| 22 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
-| 26 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
+| 16 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
+| 17 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
+| 18 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 19 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 20 | [Physical](http://twitter.com/search?q=Physical) | N/A |
+| 21 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 22 | [Acts](http://twitter.com/search?q=Acts) | N/A |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
+| 25 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 26 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
 | 27 | [JENO DAZED KOREA COVER](http://twitter.com/search?q=JENO+DAZED+KOREA+COVER) | N/A |
-| 28 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 29 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 30 | [Dewe](http://twitter.com/search?q=Dewe) | N/A |
-| 31 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
-| 32 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 33 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 34 | [RENJUN YOUR NAME OST COVER](http://twitter.com/search?q=RENJUN+YOUR+NAME+OST+COVER) | N/A |
-| 35 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 36 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 37 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 38 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 39 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
-| 40 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
-| 41 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 42 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
-| 43 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 28 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 29 | [Dewe](http://twitter.com/search?q=Dewe) | N/A |
+| 30 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
+| 31 | [tempe](http://twitter.com/search?q=tempe) | N/A |
+| 32 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
+| 33 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 34 | [suzume](http://twitter.com/search?q=suzume) | N/A |
+| 35 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 36 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
+| 37 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 38 | [#GROOVY_MV_OutNow](http://twitter.com/search?q=%23GROOVY_MV_OutNow) | N/A |
+| 39 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
+| 40 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
+| 41 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
+| 42 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 43 | [#ThankYouJimin](http://twitter.com/search?q=%23ThankYouJimin) | #ThankYouJimin is a hashtag used by fans of the South Korean pop group BTS to show their appreciation for member Jimin. It is used to express gratitude for his hard work and dedication to the group. |
 | 44 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
-| 45 | [#cynin](http://twitter.com/search?q=%23cynin) | N/A |
-| 46 | [#WinwithUltimune](http://twitter.com/search?q=%23WinwithUltimune) | N/A |
-| 47 | [#달콤한_1억뷰_슈가러쉬라이드](http://twitter.com/search?q=%23%eb%8b%ac%ec%bd%a4%ed%95%9c_1%ec%96%b5%eb%b7%b0_%ec%8a%88%ea%b0%80%eb%9f%ac%ec%89%ac%eb%9d%bc%ec%9d%b4%eb%93%9c) | N/A |
-| 48 | [#ShiseidoThailand](http://twitter.com/search?q=%23ShiseidoThailand) | N/A |
+| 45 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 46 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 47 | [#THEDREAMSHOW2_In_A_DREAM](http://twitter.com/search?q=%23THEDREAMSHOW2_In_A_DREAM) | N/A |
+| 48 | [#ONEW](http://twitter.com/search?q=%23ONEW) | N/A |
 | 49 | [#FerragamoSS23xJENO](http://twitter.com/search?q=%23FerragamoSS23xJENO) | N/A |
 | 50 | [#TerimakasihFreya](http://twitter.com/search?q=%23TerimakasihFreya) | N/A |
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-06 09:16:27 UTC`
+📆 Last Updated: `2023-03-06 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 2 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
-| 3 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 4 | [アンプリチュード](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%97%e3%83%aa%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#全く存在しない二文字](http://twitter.com/search?q=%23%e5%85%a8%e3%81%8f%e5%ad%98%e5%9c%a8%e3%81%97%e3%81%aa%e3%81%84%e4%ba%8c%e6%96%87%e5%ad%97) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [ゾイド再放送](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%86%8d%e6%94%be%e9%80%81) | N/A |
-| 9 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 10 | [ヒソカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
-| 11 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
-| 12 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
-| 13 | [ヒソカのカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%81%ae%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
-| 14 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 15 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 16 | [Lemino](http://twitter.com/search?q=Lemino) | N/A |
-| 17 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 18 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 19 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 20 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 21 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 22 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 23 | [福田光輝](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e5%85%89%e8%bc%9d) | N/A |
-| 24 | [裁縫セット](http://twitter.com/search?q=%e8%a3%81%e7%b8%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 25 | [オリジナルグッズ](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%82%b0%e3%83%83%e3%82%ba) | N/A |
-| 26 | [モンストメンテ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 27 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 28 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 29 | [ゾイド展](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%b1%95) | N/A |
-| 30 | [果林の謎解き成功](http://twitter.com/search?q=%e6%9e%9c%e6%9e%97%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 31 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 32 | [ZOIDS](http://twitter.com/search?q=ZOIDS) | N/A |
-| 33 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 34 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 35 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
-| 36 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 37 | [モスバーガー](http://twitter.com/search?q=%e3%83%a2%e3%82%b9%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
-| 38 | [アーバイン](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%90%e3%82%a4%e3%83%b3) | N/A |
-| 39 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 40 | [ディスフェス](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 41 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 42 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 43 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 44 | [옛날 사람 테스트](http://twitter.com/search?q=%ec%98%9b%eb%82%a0+%ec%82%ac%eb%9e%8c+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 45 | [ブランド終了](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e3%83%89%e7%b5%82%e4%ba%86) | N/A |
-| 46 | [九州しょうゆ](http://twitter.com/search?q=%e4%b9%9d%e5%b7%9e%e3%81%97%e3%82%87%e3%81%86%e3%82%86) | N/A |
-| 47 | [CHRISTMAS LOVE BY JIMIN](http://twitter.com/search?q=CHRISTMAS+LOVE+BY+JIMIN) | N/A |
-| 48 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 49 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 50 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 1 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 2 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 3 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 4 | [センターフライ](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 5 | [バックスクリーン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%af%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3) | バックスクリーン (bakkusukuriin) is a Japanese term for a rear projection screen. It is used to project images or videos onto a large surface, such as a wall or stage. In English, it is also known as a rear projection screen. |
+| 6 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 7 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 8 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 9 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 10 | [#CDTVライブライブ](http://twitter.com/search?q=%23CDTV%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | #CDTVライブライブ is a hashtag used on Twitter to refer to the Japanese music program "Countdown TV Live Live". It is a weekly music show that airs on the Japanese television network TBS. The show features live performances from popular Japanese artists and bands. |
+| 11 | [#侍JAPAN](http://twitter.com/search?q=%23%e4%be%8dJAPAN) | N/A |
+| 12 | [メジャーリーガー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%aa%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
+| 13 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
+| 14 | [アンプリチュード](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%97%e3%83%aa%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
+| 15 | [大谷バケモン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%90%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 16 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 17 | [大谷の応援歌](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e5%bf%9c%e6%8f%b4%e6%ad%8c) | N/A |
+| 18 | [ゾイド再放送](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 19 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 20 | [GidiyorsunCHP](http://twitter.com/search?q=GidiyorsunCHP) | N/A |
+| 21 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 22 | [大谷あれ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%82%e3%82%8c) | N/A |
+| 23 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 24 | [大谷やばすぎ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%84%e3%81%b0%e3%81%99%e3%81%8e) | N/A |
+| 25 | [スタンドイン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%82%a4%e3%83%b3) | N/A |
+| 26 | [情報のフェスティバル](http://twitter.com/search?q=%e6%83%85%e5%a0%b1%e3%81%ae%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab) | N/A |
+| 27 | [メジャー組](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e7%b5%84) | N/A |
+| 28 | [スイング](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
+| 29 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 30 | [阪神ファン](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 31 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 32 | [才木投手](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e6%8a%95%e6%89%8b) | N/A |
+| 33 | [Hayırlı Kandiller](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Kandiller) | Hayırlı Kandiller is a Turkish phrase that translates to "Happy Holidays" or "Blessed Holidays". It is typically used to wish someone a happy holiday season, such as during Ramadan or other religious holidays. |
+| 34 | [空振り三振](http://twitter.com/search?q=%e7%a9%ba%e6%8c%af%e3%82%8a%e4%b8%89%e6%8c%af) | N/A |
+| 35 | [大谷カメラ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 36 | [ビッグフライ](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 37 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 38 | [ヒソカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 39 | [ヒソカのカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%81%ae%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 40 | [大谷マジ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9e%e3%82%b8) | N/A |
+| 41 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 42 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 43 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 44 | [モスバーガー](http://twitter.com/search?q=%e3%83%a2%e3%82%b9%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
+| 45 | [大谷まじ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%be%e3%81%98) | N/A |
+| 46 | [京セラドーム](http://twitter.com/search?q=%e4%ba%ac%e3%82%bb%e3%83%a9%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
+| 47 | [夢の向こう側](http://twitter.com/search?q=%e5%a4%a2%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e5%81%b4) | N/A |
+| 48 | [大谷サン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%b5%e3%83%b3) | N/A |
+| 49 | [大谷三振](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e4%b8%89%e6%8c%af) | N/A |
+| 50 | [源田の守備](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%ae%e5%ae%88%e5%82%99) | N/A |
 
 
 

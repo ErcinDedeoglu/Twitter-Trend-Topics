@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-06 09:17:11 UTC`
+📆 Last Updated: `2023-03-06 10:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [United States](</United States>)
 | 13 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 15 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 16 | [Tyus Jones](http://twitter.com/search?q=Tyus+Jones) | N/A |
+| 16 | [Lynyrd Skynyrd](http://twitter.com/search?q=Lynyrd+Skynyrd) | N/A |
 | 17 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 18 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 19 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 20 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 21 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 22 | [Lynyrd Skynyrd](http://twitter.com/search?q=Lynyrd+Skynyrd) | N/A |
-| 23 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 24 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 25 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 26 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
-| 27 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 28 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 29 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 30 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 31 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 32 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
-| 33 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
-| 34 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 18 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 19 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 20 | [Tyus Jones](http://twitter.com/search?q=Tyus+Jones) | N/A |
+| 21 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 22 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 23 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 24 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 25 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 26 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 27 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 28 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 29 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 30 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 31 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
+| 32 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
+| 33 | [SUDDEN DEATH](http://twitter.com/search?q=SUDDEN+DEATH) | N/A |
+| 34 | [The Clippers](http://twitter.com/search?q=The+Clippers) | N/A |
 | 35 | [BABY GIRL](http://twitter.com/search?q=BABY+GIRL) | N/A |
-| 36 | [SUDDEN DEATH](http://twitter.com/search?q=SUDDEN+DEATH) | N/A |
+| 36 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
 | 37 | [Ricky Davis](http://twitter.com/search?q=Ricky+Davis) | N/A |
-| 38 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 39 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 40 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 41 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 42 | [JAYLEN BROWN](http://twitter.com/search?q=JAYLEN+BROWN) | N/A |
-| 43 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
-| 44 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 45 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 46 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 47 | [troye](http://twitter.com/search?q=troye) | N/A |
-| 48 | [PG and Kawhi](http://twitter.com/search?q=PG+and+Kawhi) | N/A |
-| 49 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 50 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 38 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 39 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 40 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 41 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 42 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
+| 43 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 44 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 45 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 46 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
+| 47 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 48 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 49 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 50 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
 
 
 

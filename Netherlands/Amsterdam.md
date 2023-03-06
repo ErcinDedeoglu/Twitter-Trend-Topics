@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-06 09:16:44 UTC`
+📆 Last Updated: `2023-03-06 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#ajanec](http://twitter.com/search?q=%23ajanec) | N/A |
-| 3 | [#feygro](http://twitter.com/search?q=%23feygro) | N/A |
-| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 6 | [#RKCPSV](http://twitter.com/search?q=%23RKCPSV) | N/A |
-| 7 | [Sytse](http://twitter.com/search?q=Sytse) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [#ajanec](http://twitter.com/search?q=%23ajanec) | N/A |
+| 4 | [#feygro](http://twitter.com/search?q=%23feygro) | N/A |
+| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 7 | [#RKCPSV](http://twitter.com/search?q=%23RKCPSV) | N/A |
+| 8 | [Sytse](http://twitter.com/search?q=Sytse) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 12 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
-| 13 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 14 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
-| 15 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 11 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
+| 12 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 13 | [FC Den Bosch](http://twitter.com/search?q=FC+Den+Bosch) | N/A |
+| 14 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 15 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
 | 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [Joey Kooij](http://twitter.com/search?q=Joey+Kooij) | N/A |
-| 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 17 | [Kooij](http://twitter.com/search?q=Kooij) | N/A |
+| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 19 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 20 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 21 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 22 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
-| 23 | [ajacieden](http://twitter.com/search?q=ajacieden) | N/A |
-| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 21 | [Tannane](http://twitter.com/search?q=Tannane) | Tannane is a Hebrew word meaning “answer” or “response.” It is often used in religious contexts to refer to a response to a prayer or request. |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 24 | [waalwijk](http://twitter.com/search?q=waalwijk) | N/A |
 | 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 26 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 27 | [waalwijk](http://twitter.com/search?q=waalwijk) | N/A |
-| 28 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 29 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 30 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 31 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 32 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 33 | [grillitsch](http://twitter.com/search?q=grillitsch) | N/A |
-| 34 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 37 | [Van Rij](http://twitter.com/search?q=Van+Rij) | N/A |
-| 38 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 39 | [Oostvaardersplassen](http://twitter.com/search?q=Oostvaardersplassen) | N/A |
-| 40 | [Gilding](http://twitter.com/search?q=Gilding) | N/A |
-| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 42 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 43 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 44 | [Marijnissen](http://twitter.com/search?q=Marijnissen) | N/A |
-| 45 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 46 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 47 | [WOZ-bezwaarbureaus](http://twitter.com/search?q=WOZ-bezwaarbureaus) | N/A |
-| 48 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 50 | [Irene Schouten](http://twitter.com/search?q=Irene+Schouten) | N/A |
+| 26 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 27 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 29 | [grillitsch](http://twitter.com/search?q=grillitsch) | N/A |
+| 30 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 31 | [Van Rij](http://twitter.com/search?q=Van+Rij) | N/A |
+| 32 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 34 | [Oostvaardersplassen](http://twitter.com/search?q=Oostvaardersplassen) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 38 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 39 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 40 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 41 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 42 | [ANDREW GILDING](http://twitter.com/search?q=ANDREW+GILDING) | N/A |
+| 43 | [WOZ-bezwaarbureaus](http://twitter.com/search?q=WOZ-bezwaarbureaus) | N/A |
+| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 45 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 46 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 47 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 48 | [Irene Schouten](http://twitter.com/search?q=Irene+Schouten) | N/A |
+| 49 | [Nachtwacht](http://twitter.com/search?q=Nachtwacht) | N/A |
+| 50 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 
 
 

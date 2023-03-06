@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-03-06 09:16:51 UTC`
+📆 Last Updated: `2023-03-06 10:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 2 | [#BEFIRST](http://twitter.com/search?q=%23BEFIRST) | N/A |
-| 3 | [アンプリチュード](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%97%e3%83%aa%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
-| 4 | [#全く存在しない二文字](http://twitter.com/search?q=%23%e5%85%a8%e3%81%8f%e5%ad%98%e5%9c%a8%e3%81%97%e3%81%aa%e3%81%84%e4%ba%8c%e6%96%87%e5%ad%97) | N/A |
-| 5 | [ゾイド再放送](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%86%8d%e6%94%be%e9%80%81) | N/A |
-| 6 | [#ポケモン赤緑BGMの思い出](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e8%b5%a4%e7%b7%91BGM%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba) | N/A |
-| 7 | [ヒソカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
-| 8 | [ヒソカのカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%81%ae%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
-| 9 | [Lemino](http://twitter.com/search?q=Lemino) | N/A |
-| 10 | [#ポルノ歌詞好きなフレーズ](http://twitter.com/search?q=%23%e3%83%9d%e3%83%ab%e3%83%8e%e6%ad%8c%e8%a9%9e%e5%a5%bd%e3%81%8d%e3%81%aa%e3%83%95%e3%83%ac%e3%83%bc%e3%82%ba) | N/A |
-| 11 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 12 | [ZOIDS](http://twitter.com/search?q=ZOIDS) | N/A |
-| 13 | [モンストメンテ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 14 | [福田光輝](http://twitter.com/search?q=%e7%a6%8f%e7%94%b0%e5%85%89%e8%bc%9d) | N/A |
-| 15 | [ゾイド展](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%b1%95) | N/A |
-| 16 | [裁縫セット](http://twitter.com/search?q=%e8%a3%81%e7%b8%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 17 | [果林の謎解き成功](http://twitter.com/search?q=%e6%9e%9c%e6%9e%97%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 18 | [オリジナルグッズ](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%82%b0%e3%83%83%e3%82%ba) | N/A |
-| 19 | [アーバイン](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%90%e3%82%a4%e3%83%b3) | N/A |
-| 20 | [モスバーガー](http://twitter.com/search?q=%e3%83%a2%e3%82%b9%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
-| 21 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
-| 22 | [ディスフェス](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 23 | [初代ゾイド](http://twitter.com/search?q=%e5%88%9d%e4%bb%a3%e3%82%be%e3%82%a4%e3%83%89) | N/A |
-| 24 | [メジャー組](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e7%b5%84) | N/A |
-| 25 | [九州しょうゆ](http://twitter.com/search?q=%e4%b9%9d%e5%b7%9e%e3%81%97%e3%82%87%e3%81%86%e3%82%86) | N/A |
-| 26 | [阪神タイガース](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9) | N/A |
-| 27 | [シオンタウン](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
-| 28 | [肩代わり](http://twitter.com/search?q=%e8%82%a9%e4%bb%a3%e3%82%8f%e3%82%8a) | N/A |
-| 29 | [イトリン](http://twitter.com/search?q=%e3%82%a4%e3%83%88%e3%83%aa%e3%83%b3) | N/A |
-| 30 | [ジュナイパー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 31 | [バニラズ](http://twitter.com/search?q=%e3%83%90%e3%83%8b%e3%83%a9%e3%82%ba) | N/A |
-| 32 | [スプラエリア](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%82%a8%e3%83%aa%e3%82%a2) | N/A |
-| 33 | [フルトン](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
-| 34 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 35 | [中央林間](http://twitter.com/search?q=%e4%b8%ad%e5%a4%ae%e6%9e%97%e9%96%93) | N/A |
-| 36 | [結婚診断](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%ba%e6%96%ad) | N/A |
-| 37 | [Wild Flowers](http://twitter.com/search?q=Wild+Flowers) | N/A |
-| 38 | [緊急降板](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%99%8d%e6%9d%bf) | N/A |
-| 39 | [Amplitude](http://twitter.com/search?q=Amplitude) | N/A |
-| 40 | [結婚占い](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e5%8d%a0%e3%81%84) | N/A |
-| 41 | [京セラドーム](http://twitter.com/search?q=%e4%ba%ac%e3%82%bb%e3%83%a9%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
-| 42 | [邪神ちゃん](http://twitter.com/search?q=%e9%82%aa%e7%a5%9e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [ひかりTV](http://twitter.com/search?q=%e3%81%b2%e3%81%8b%e3%82%8aTV) | N/A |
-| 44 | [阪神応援](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%bf%9c%e6%8f%b4) | N/A |
-| 45 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 46 | [無印ゾイド](http://twitter.com/search?q=%e7%84%a1%e5%8d%b0%e3%82%be%e3%82%a4%e3%83%89) | N/A |
-| 47 | [再放送告知PV](http://twitter.com/search?q=%e5%86%8d%e6%94%be%e9%80%81%e5%91%8a%e7%9f%a5PV) | N/A |
-| 48 | [ボーダー](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 1 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 2 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 3 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 4 | [センターフライ](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 5 | [#CDTVライブライブ](http://twitter.com/search?q=%23CDTV%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96) | #CDTVライブライブ is a hashtag used on Twitter to refer to the Japanese music program "Countdown TV Live Live". It is a weekly music show that airs on the Japanese television network TBS. The show features live performances from popular Japanese artists and bands. |
+| 6 | [バックスクリーン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%af%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3) | バックスクリーン (bakkusukuriin) is a Japanese term for a rear projection screen. It is used to project images or videos onto a large surface, such as a wall or stage. In English, it is also known as a rear projection screen. |
+| 7 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 8 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 9 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 10 | [メジャーリーガー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%aa%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
+| 11 | [#侍JAPAN](http://twitter.com/search?q=%23%e4%be%8dJAPAN) | N/A |
+| 12 | [アンプリチュード](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%97%e3%83%aa%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
+| 13 | [大谷バケモン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%90%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 14 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 15 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 16 | [#全く存在しない二文字](http://twitter.com/search?q=%23%e5%85%a8%e3%81%8f%e5%ad%98%e5%9c%a8%e3%81%97%e3%81%aa%e3%81%84%e4%ba%8c%e6%96%87%e5%ad%97) | N/A |
+| 17 | [大谷の応援歌](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e5%bf%9c%e6%8f%b4%e6%ad%8c) | N/A |
+| 18 | [ゾイド再放送](http://twitter.com/search?q=%e3%82%be%e3%82%a4%e3%83%89%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 19 | [スタンドイン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e3%82%a4%e3%83%b3) | N/A |
+| 20 | [大谷あれ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%82%e3%82%8c) | N/A |
+| 21 | [大谷やばすぎ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%84%e3%81%b0%e3%81%99%e3%81%8e) | N/A |
+| 22 | [情報のフェスティバル](http://twitter.com/search?q=%e6%83%85%e5%a0%b1%e3%81%ae%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab) | N/A |
+| 23 | [メジャー組](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e7%b5%84) | N/A |
+| 24 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 25 | [スイング](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [阪神ファン](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 27 | [才木投手](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e6%8a%95%e6%89%8b) | N/A |
+| 28 | [空振り三振](http://twitter.com/search?q=%e7%a9%ba%e6%8c%af%e3%82%8a%e4%b8%89%e6%8c%af) | N/A |
+| 29 | [ハピサプ](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%82%b5%e3%83%97) | N/A |
+| 30 | [ビッグフライ](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 31 | [ビヨンド](http://twitter.com/search?q=%e3%83%93%e3%83%a8%e3%83%b3%e3%83%89) | N/A |
+| 32 | [大谷カメラ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 33 | [大谷まじ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%be%e3%81%98) | N/A |
+| 34 | [大谷マジ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9e%e3%82%b8) | N/A |
+| 35 | [ヒソカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 36 | [京セラドーム](http://twitter.com/search?q=%e4%ba%ac%e3%82%bb%e3%83%a9%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
+| 37 | [大谷サン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%82%b5%e3%83%b3) | N/A |
+| 38 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 39 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 40 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 41 | [ヒソカのカフェ](http://twitter.com/search?q=%e3%83%92%e3%82%bd%e3%82%ab%e3%81%ae%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 42 | [夢の向こう側](http://twitter.com/search?q=%e5%a4%a2%e3%81%ae%e5%90%91%e3%81%93%e3%81%86%e5%81%b4) | N/A |
+| 43 | [モスバーガー](http://twitter.com/search?q=%e3%83%a2%e3%82%b9%e3%83%90%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
+| 44 | [大谷意味](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e6%84%8f%e5%91%b3) | N/A |
+| 45 | [大谷三振](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e4%b8%89%e6%8c%af) | N/A |
+| 46 | [大谷えぐすぎ](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%88%e3%81%90%e3%81%99%e3%81%8e) | N/A |
+| 47 | [近本さん](http://twitter.com/search?q=%e8%bf%91%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 48 | [源田の守備](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%ae%e5%ae%88%e5%82%99) | N/A |
+| 49 | [阪神応援](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e5%bf%9c%e6%8f%b4) | N/A |
+| 50 | [大谷化け物](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e5%8c%96%e3%81%91%e7%89%a9) | N/A |
 
 
 

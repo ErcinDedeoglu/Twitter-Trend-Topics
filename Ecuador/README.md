@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-06 09:17:17 UTC`
+📆 Last Updated: `2023-03-06 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for Ecuador
 | 1 | [jackson rodríguez](http://twitter.com/search?q=jackson+rodr%c3%adguez) | N/A |
 | 2 | [Orense](http://twitter.com/search?q=Orense) | N/A |
 | 3 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
-| 8 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
-| 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 10 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 11 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 4 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [rescalvo](http://twitter.com/search?q=rescalvo) | N/A |
+| 7 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 8 | [calderón](http://twitter.com/search?q=calder%c3%b3n) | N/A |
+| 9 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
+| 10 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 12 | [achilier](http://twitter.com/search?q=achilier) | N/A |
 | 13 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
 | 14 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
@@ -37,8 +37,8 @@ This is top 50 for Ecuador
 | 20 | [Solano](http://twitter.com/search?q=Solano) | N/A |
 | 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 22 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 23 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 24 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 23 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 24 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
 | 25 | [#lassoajuiciopolítico](http://twitter.com/search?q=%23lassoajuiciopol%c3%adtico) | N/A |
 | 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 27 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Ecuador
 | 47 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
 | 48 | [alejandro cabeza](http://twitter.com/search?q=alejandro+cabeza) | N/A |
 | 49 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 50 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 50 | [mejía](http://twitter.com/search?q=mej%c3%ada) | N/A |
 
 
 

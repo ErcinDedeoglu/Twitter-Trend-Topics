@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-06 09:16:46 UTC`
+📆 Last Updated: `2023-03-06 10:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 3 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 6 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 7 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 8 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 11 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 5 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 6 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 11 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
 | 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 13 | [Zoug](http://twitter.com/search?q=Zoug) | N/A |
 | 14 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 15 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 16 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 17 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 15 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 16 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 17 | [Berset](http://twitter.com/search?q=Berset) | N/A |
 | 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 19 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
-| 20 | [rapperswil](http://twitter.com/search?q=rapperswil) | N/A |
-| 21 | [Skala](http://twitter.com/search?q=Skala) | N/A |
-| 22 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 25 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
-| 26 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 27 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 29 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
-| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 31 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
-| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 33 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 34 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 35 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 36 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
-| 39 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
-| 42 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 43 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 44 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 20 | [Skala](http://twitter.com/search?q=Skala) | N/A |
+| 21 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 23 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 24 | [Gruyère](http://twitter.com/search?q=Gruy%c3%a8re) | N/A |
+| 25 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 28 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 30 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 33 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 34 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 35 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 38 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Diskurs](http://twitter.com/search?q=Diskurs) | N/A |
+| 41 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 42 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 43 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 44 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 46 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 47 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
+| 47 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 48 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
 | 49 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 50 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 50 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 
 
 
