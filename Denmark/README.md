@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-06 03:21:57 UTC`
+📆 Last Updated: `2023-03-06 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,8 +44,8 @@ This is top 50 for Denmark
 | 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 28 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 30 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
-| 31 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 30 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 31 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 33 | [danske](http://twitter.com/search?q=danske) | N/A |
 | 34 | [henrik dahl](http://twitter.com/search?q=henrik+dahl) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-06 03:22:00 UTC`
+📆 Last Updated: `2023-03-06 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,7 +54,7 @@ This is top 50 for Norway
 | 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 38 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
 | 39 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 40 | [Beste](http://twitter.com/search?q=Beste) | N/A |
+| 40 | [beste](http://twitter.com/search?q=beste) | N/A |
 | 41 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 42 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 49 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 50 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
+| 50 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
 
 
 

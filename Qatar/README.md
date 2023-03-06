@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-06 03:22:01 UTC`
+📆 Last Updated: `2023-03-06 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Qatar
 | 3 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [least developed countries](http://twitter.com/search?q=least+developed+countries) | N/A |
+| 6 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
 | 7 | [الامم المتحده الخامس المعني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3+%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a) | N/A |
 | 8 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
 | 9 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
@@ -37,9 +37,9 @@ This is top 50 for Qatar
 | 20 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
 | 21 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 22 | [برنامج عمل الدوحه](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%ad%d9%87) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [تميم بن حمد آل ثاني](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84+%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 25 | [doha programme of action](http://twitter.com/search?q=doha+programme+of+action) | N/A |
+| 23 | [تميم بن حمد آل ثاني](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84+%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [Doha Programme of Action](http://twitter.com/search?q=Doha+Programme+of+Action) | N/A |
 | 26 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
 | 27 | [شارع الاصمخ](http://twitter.com/search?q=%d8%b4%d8%a7%d8%b1%d8%b9+%d8%a7%d9%84%d8%a7%d8%b5%d9%85%d8%ae) | N/A |
 | 28 | [جامعة قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d9%82%d8%b7%d8%b1) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-06 03:22:01 UTC`
+📆 Last Updated: `2023-03-06 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Panama
 | 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 16 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 18 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 19 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 20 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 21 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
-| 22 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 23 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 24 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 25 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
-| 26 | [Pedro Miguel González](http://twitter.com/search?q=Pedro+Miguel+Gonz%c3%a1lez) | N/A |
-| 27 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 28 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 29 | [3-Porotos](http://twitter.com/search?q=3-Porotos) | N/A |
-| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 31 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 32 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 33 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 36 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 37 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 17 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 18 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 20 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 21 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 22 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 23 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
+| 24 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 25 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 26 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
+| 27 | [Pedro Miguel González](http://twitter.com/search?q=Pedro+Miguel+Gonz%c3%a1lez) | N/A |
+| 28 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 29 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 30 | [3-Porotos](http://twitter.com/search?q=3-Porotos) | N/A |
+| 31 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 32 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 33 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 34 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 35 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |
+| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 37 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 38 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 39 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
-| 40 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 39 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 40 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
 | 41 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
 | 42 | [6-Gallina](http://twitter.com/search?q=6-Gallina) | N/A |
-| 43 | [4-Frijoles](http://twitter.com/search?q=4-Frijoles) | N/A |
-| 44 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 45 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
-| 46 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 47 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
+| 43 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
+| 44 | [4-Frijoles](http://twitter.com/search?q=4-Frijoles) | N/A |
+| 45 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 46 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
+| 47 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 48 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 49 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 50 | [Sabonge](http://twitter.com/search?q=Sabonge) | N/A |
+| 49 | [Sabonge](http://twitter.com/search?q=Sabonge) | N/A |
+| 50 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 
 
 

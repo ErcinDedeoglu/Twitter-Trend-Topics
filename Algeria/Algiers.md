@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-06 03:21:35 UTC`
+📆 Last Updated: `2023-03-06 04:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,8 +63,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 46 | [حقول الفراوله](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%84+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%88%d9%84%d9%87) | N/A |
 | 47 | [الصحراء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 48 | [هشام](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85) | N/A |
-| 49 | [راك كبير](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 50 | [19 مارس](http://twitter.com/search?q=19+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 49 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 50 | [راك كبير](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
 
 
 

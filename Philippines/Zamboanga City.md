@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-06 03:21:34 UTC`
+📆 Last Updated: `2023-03-06 04:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
 | 2 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 3 | [#SupportTransportStrike](http://twitter.com/search?q=%23SupportTransportStrike) | N/A |
+| 3 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
 | 4 | [wild tonight on asap](http://twitter.com/search?q=wild+tonight+on+asap) | N/A |
-| 5 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 6 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 7 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 8 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
-| 9 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 10 | [walang aray x starmagic](http://twitter.com/search?q=walang+aray+x+starmagic) | N/A |
-| 11 | [asapcelebrate alexa day](http://twitter.com/search?q=asapcelebrate+alexa+day) | N/A |
+| 5 | [#SupportTransportStrike](http://twitter.com/search?q=%23SupportTransportStrike) | N/A |
+| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 7 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 8 | [walang aray x starmagic](http://twitter.com/search?q=walang+aray+x+starmagic) | N/A |
+| 9 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 10 | [asapcelebrate alexa day](http://twitter.com/search?q=asapcelebrate+alexa+day) | N/A |
+| 11 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
 | 12 | [Philcoa](http://twitter.com/search?q=Philcoa) | N/A |
-| 13 | [Donghyun](http://twitter.com/search?q=Donghyun) | N/A |
-| 14 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
-| 15 | [asap jam with anji](http://twitter.com/search?q=asap+jam+with+anji) | N/A |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
-| 18 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 19 | [barbieforteza happytogether](http://twitter.com/search?q=barbieforteza+happytogether) | N/A |
-| 20 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 21 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 22 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
-| 23 | [kinji pa rin sa asap](http://twitter.com/search?q=kinji+pa+rin+sa+asap) | N/A |
-| 24 | [asapmarsoamazing jona](http://twitter.com/search?q=asapmarsoamazing+jona) | N/A |
-| 25 | [Quen](http://twitter.com/search?q=Quen) | N/A |
+| 13 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 14 | [asap jam with anji](http://twitter.com/search?q=asap+jam+with+anji) | N/A |
+| 15 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 16 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
+| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 18 | [barbieforteza happytogether](http://twitter.com/search?q=barbieforteza+happytogether) | N/A |
+| 19 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 20 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 21 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 22 | [Donghyun](http://twitter.com/search?q=Donghyun) | N/A |
+| 23 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 24 | [kinji pa rin sa asap](http://twitter.com/search?q=kinji+pa+rin+sa+asap) | N/A |
+| 25 | [asapmarsoamazing jona](http://twitter.com/search?q=asapmarsoamazing+jona) | N/A |
 | 26 | [bingo night with joshcullen](http://twitter.com/search?q=bingo+night+with+joshcullen) | N/A |
 | 27 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 28 | [Piston](http://twitter.com/search?q=Piston) | N/A |
-| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 28 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 29 | [Quen](http://twitter.com/search?q=Quen) | N/A |
 | 30 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
-| 31 | [dasmake some noise for hori7on](http://twitter.com/search?q=dasmake+some+noise+for+hori7on) | N/A |
-| 32 | [iwantasaperfect match aljay](http://twitter.com/search?q=iwantasaperfect+match+aljay) | N/A |
-| 33 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 34 | [bgyo goes to pampanga](http://twitter.com/search?q=bgyo+goes+to+pampanga) | N/A |
-| 35 | [Monumento](http://twitter.com/search?q=Monumento) | N/A |
-| 36 | [Joy Marie Fabregas](http://twitter.com/search?q=Joy+Marie+Fabregas) | N/A |
-| 37 | [SARAH GERONIMO DAY](http://twitter.com/search?q=SARAH+GERONIMO+DAY) | N/A |
-| 38 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 39 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 40 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 41 | [LEGENDS MEET ROYALTY](http://twitter.com/search?q=LEGENDS+MEET+ROYALTY) | N/A |
-| 42 | [robdenielxkarina ang pag-ibig](http://twitter.com/search?q=robdenielxkarina+ang+pag-ibig) | N/A |
-| 43 | [20M FOR ENHYPEN PRIDE](http://twitter.com/search?q=20M+FOR+ENHYPEN+PRIDE) | N/A |
-| 44 | [clashmasters juliever](http://twitter.com/search?q=clashmasters+juliever) | N/A |
-| 45 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 46 | [Hange](http://twitter.com/search?q=Hange) | N/A |
-| 47 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 48 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 49 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 31 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
+| 32 | [dasmake some noise for hori7on](http://twitter.com/search?q=dasmake+some+noise+for+hori7on) | N/A |
+| 33 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
+| 34 | [iwantasaperfect match aljay](http://twitter.com/search?q=iwantasaperfect+match+aljay) | N/A |
+| 35 | [bgyo goes to pampanga](http://twitter.com/search?q=bgyo+goes+to+pampanga) | N/A |
+| 36 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
+| 37 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 38 | [Marie Fabregas](http://twitter.com/search?q=Marie+Fabregas) | N/A |
+| 39 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 40 | [sarah geronimo day](http://twitter.com/search?q=sarah+geronimo+day) | N/A |
+| 41 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 42 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 43 | [legends meet royalty](http://twitter.com/search?q=legends+meet+royalty) | N/A |
+| 44 | [Hello Love Goodbye](http://twitter.com/search?q=Hello+Love+Goodbye) | N/A |
+| 45 | [robdenielxkarina ang pag-ibig](http://twitter.com/search?q=robdenielxkarina+ang+pag-ibig) | N/A |
+| 46 | [20M FOR ENHYPEN PRIDE](http://twitter.com/search?q=20M+FOR+ENHYPEN+PRIDE) | N/A |
+| 47 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 48 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 49 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 
 
 

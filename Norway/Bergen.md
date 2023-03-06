@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-06 03:21:25 UTC`
+📆 Last Updated: `2023-03-06 04:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,7 +54,7 @@ This is top 50 for [Norway](</Norway>)
 | 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 38 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
 | 39 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 40 | [Beste](http://twitter.com/search?q=Beste) | N/A |
+| 40 | [beste](http://twitter.com/search?q=beste) | N/A |
 | 41 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 | 42 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |

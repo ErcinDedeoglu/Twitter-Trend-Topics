@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-06 03:22:02 UTC`
+📆 Last Updated: `2023-03-06 04:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for Sweden
 | 7 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 | 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 10 | [Sundsvall](http://twitter.com/search?q=Sundsvall) | N/A |
-| 11 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 12 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 10 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 11 | [tegnell](http://twitter.com/search?q=tegnell) | N/A |
+| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 13 | [Sundsvall](http://twitter.com/search?q=Sundsvall) | N/A |
 | 14 | [Mild](http://twitter.com/search?q=Mild) | N/A |
 | 15 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
 | 16 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
@@ -44,10 +44,10 @@ This is top 50 for Sweden
 | 27 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 28 | [Moise Kean](http://twitter.com/search?q=Moise+Kean) | N/A |
 | 29 | [Marcus Ericsson](http://twitter.com/search?q=Marcus+Ericsson) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 32 | [Challe](http://twitter.com/search?q=Challe) | N/A |
-| 33 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 30 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 31 | [Challe](http://twitter.com/search?q=Challe) | N/A |
+| 32 | [Theoz](http://twitter.com/search?q=Theoz) | N/A |
+| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 34 | [superettan](http://twitter.com/search?q=superettan) | N/A |
 | 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 36 | [Peking](http://twitter.com/search?q=Peking) | N/A |

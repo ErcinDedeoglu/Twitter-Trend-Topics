@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-06 03:21:43 UTC`
+📆 Last Updated: `2023-03-06 04:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RayOfHope](http://twitter.com/search?q=%23RayOfHope) | N/A |
-| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#RayOfHope](http://twitter.com/search?q=%23RayOfHope) | N/A |
 | 3 | [New Light Of Hope](http://twitter.com/search?q=New+Light+Of+Hope) | N/A |
 | 4 | [#होली_हुई_तब_जानिये](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80_%e0%a4%b9%e0%a5%81%e0%a4%88_%e0%a4%a4%e0%a4%ac_%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a5%87) | N/A |
-| 5 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Spiritual Awakening](http://twitter.com/search?q=Spiritual+Awakening) | N/A |
-| 8 | [RATRI JAGRAN](http://twitter.com/search?q=RATRI+JAGRAN) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [उस्मान चौधरी](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 11 | [विजय चौधरी](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 12 | [CBI Disappoints InSSRCase](http://twitter.com/search?q=CBI+Disappoints+InSSRCase) | N/A |
-| 13 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 14 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 15 | [उस्मान पुलिस](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 16 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 18 | [संदीप निषाद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%a8%e0%a4%bf%e0%a4%b7%e0%a4%be%e0%a4%a6) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 21 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 22 | [Real Hero Sushant Singh Rajput](http://twitter.com/search?q=Real+Hero+Sushant+Singh+Rajput) | N/A |
-| 23 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 24 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 25 | [विजय कुमार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [उस्मान मारा](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [Har Har Mahadev](http://twitter.com/search?q=Har+Har+Mahadev) | N/A |
-| 29 | [bholaa trailer tomorrow](http://twitter.com/search?q=bholaa+trailer+tomorrow) | N/A |
-| 30 | [कपिल सिब्बल](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%ac%e0%a5%8d%e0%a4%ac%e0%a4%b2) | N/A |
-| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 32 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 33 | [nari tu narayani](http://twitter.com/search?q=nari+tu+narayani) | N/A |
-| 34 | [mahila utthan mandal](http://twitter.com/search?q=mahila+utthan+mandal) | N/A |
-| 35 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 36 | [मोटूरि सत्यनारायण](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%9f%e0%a5%82%e0%a4%b0%e0%a4%bf+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 37 | [श्री शिवराज सिंह चौहान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%9a%e0%a5%8c%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 38 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Tara Norris](http://twitter.com/search?q=Tara+Norris) | N/A |
-| 41 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 42 | [proud of you darshan raval](http://twitter.com/search?q=proud+of+you+darshan+raval) | N/A |
-| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 44 | [लोकप्रिय मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 45 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 46 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 47 | [hindu rashtra is must](http://twitter.com/search?q=hindu+rashtra+is+must) | N/A |
-| 48 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 49 | [Mithali R](http://twitter.com/search?q=Mithali+R) | N/A |
+| 5 | [RATRI JAGRAN](http://twitter.com/search?q=RATRI+JAGRAN) | N/A |
+| 6 | [Spiritual Awakening](http://twitter.com/search?q=Spiritual+Awakening) | N/A |
+| 7 | [उस्मान चौधरी](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 8 | [#Encounter](http://twitter.com/search?q=%23Encounter) | N/A |
+| 9 | [CBI Disappoints InSSRCase](http://twitter.com/search?q=CBI+Disappoints+InSSRCase) | N/A |
+| 10 | [विजय चौधरी](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [संदीप निषाद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%a8%e0%a4%bf%e0%a4%b7%e0%a4%be%e0%a4%a6) | N/A |
+| 12 | [उस्मान पुलिस](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 13 | [विजय कुमार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 14 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 15 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 18 | [Manusmriti](http://twitter.com/search?q=Manusmriti) | N/A |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [Annamalai](http://twitter.com/search?q=Annamalai) | N/A |
+| 21 | [#HalalFreeHoli](http://twitter.com/search?q=%23HalalFreeHoli) | N/A |
+| 22 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 23 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
+| 24 | [#GodMorningMonday](http://twitter.com/search?q=%23GodMorningMonday) | N/A |
+| 25 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 26 | [#umeshpalhatyakand](http://twitter.com/search?q=%23umeshpalhatyakand) | N/A |
+| 27 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 28 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 29 | [#उमेशपाल_हत्याकांड](http://twitter.com/search?q=%23%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a4%aa%e0%a4%be%e0%a4%b2_%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a1) | N/A |
+| 30 | [#Sharwa35](http://twitter.com/search?q=%23Sharwa35) | N/A |
+| 31 | [#OPS_लागू_करो](http://twitter.com/search?q=%23OPS_%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a5%82_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 32 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 33 | [#HBDSharwanand](http://twitter.com/search?q=%23HBDSharwanand) | N/A |
+| 34 | [#HappyBirthdayJanhviKapoor](http://twitter.com/search?q=%23HappyBirthdayJanhviKapoor) | N/A |
+| 35 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 36 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
+| 37 | [#SaintRampalJiQuotes](http://twitter.com/search?q=%23SaintRampalJiQuotes) | N/A |
+| 38 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 39 | [#ManOfMassesNTR](http://twitter.com/search?q=%23ManOfMassesNTR) | N/A |
+| 40 | [#ॐ_नमः_शिवाय](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a4%83_%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%af) | N/A |
+| 41 | [#RavanasuraTeaser](http://twitter.com/search?q=%23RavanasuraTeaser) | N/A |
+| 42 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
+| 43 | [#सत_भक्ति_संदेश](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4_%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%b8%e0%a4%82%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 44 | [#KD_CTR](http://twitter.com/search?q=%23KD_CTR) | N/A |
+| 45 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 46 | [#ManchesterUnited](http://twitter.com/search?q=%23ManchesterUnited) | N/A |
 
 
 

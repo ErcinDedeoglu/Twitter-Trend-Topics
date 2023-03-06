@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-06 03:21:26 UTC`
+📆 Last Updated: `2023-03-06 04:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,16 +24,16 @@ This is top 50 for [Sweden](</Sweden>)
 | 7 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 | 8 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 10 | [Sundsvall](http://twitter.com/search?q=Sundsvall) | N/A |
-| 11 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 12 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 13 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 10 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 11 | [tegnell](http://twitter.com/search?q=tegnell) | N/A |
+| 12 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 13 | [Sundsvall](http://twitter.com/search?q=Sundsvall) | N/A |
 | 14 | [Mild](http://twitter.com/search?q=Mild) | N/A |
 | 15 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
 | 16 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
 | 17 | [giffarna](http://twitter.com/search?q=giffarna) | N/A |
 | 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 19 | [Madjed](http://twitter.com/search?q=Madjed) | N/A |
+| 19 | [madjed](http://twitter.com/search?q=madjed) | N/A |
 | 20 | [bravida](http://twitter.com/search?q=bravida) | N/A |
 | 21 | [william poromaa](http://twitter.com/search?q=william+poromaa) | N/A |
 | 22 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
@@ -62,7 +62,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 45 | [nordman](http://twitter.com/search?q=nordman) | N/A |
 | 46 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 47 | [hausner](http://twitter.com/search?q=hausner) | N/A |
-| 48 | [Degerfors](http://twitter.com/search?q=Degerfors) | N/A |
+| 48 | [degerfors](http://twitter.com/search?q=degerfors) | N/A |
 | 49 | [christer lindarw](http://twitter.com/search?q=christer+lindarw) | N/A |
 | 50 | [preem](http://twitter.com/search?q=preem) | N/A |
 

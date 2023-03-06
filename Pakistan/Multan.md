@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-06 03:21:42 UTC`
+📆 Last Updated: `2023-03-06 04:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
 | 7 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
 | 8 | [London](http://twitter.com/search?q=London) | N/A |
-| 9 | [least developed countries](http://twitter.com/search?q=least+developed+countries) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 12 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 14 | [5th un conference](http://twitter.com/search?q=5th+un+conference) | N/A |
-| 15 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 16 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 17 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 21 | [sindh government](http://twitter.com/search?q=sindh+government) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 9 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 10 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 12 | [5th un conference](http://twitter.com/search?q=5th+un+conference) | N/A |
+| 13 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 14 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 19 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 20 | [sindh government](http://twitter.com/search?q=sindh+government) | N/A |
+| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 22 | [Munro](http://twitter.com/search?q=Munro) | N/A |
 | 23 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 24 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 25 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 26 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
-| 27 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 28 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 30 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 25 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
+| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 27 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 28 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 29 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 30 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
 | 31 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
 | 32 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
 | 33 | [Not Available](http://twitter.com/search?q=Not+Available) | N/A |
-| 34 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 35 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
-| 36 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 37 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
+| 34 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
+| 35 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 36 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 37 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
 | 38 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 39 | [Andhera Ujala](http://twitter.com/search?q=Andhera+Ujala) | N/A |
+| 39 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
 | 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 44 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
-| 45 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
+| 41 | [Andhera Ujala](http://twitter.com/search?q=Andhera+Ujala) | N/A |
+| 42 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
+| 43 | [Altaf Hussain](http://twitter.com/search?q=Altaf+Hussain) | N/A |
+| 44 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 45 | [Pride of Performance](http://twitter.com/search?q=Pride+of+Performance) | N/A |
 | 46 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 49 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 47 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 48 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 
