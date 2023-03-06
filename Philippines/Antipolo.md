@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-06 11:16:34 UTC`
+📆 Last Updated: `2023-03-06 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 2 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 3 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
-| 4 | [#DAVIDxCongressNightAbra](http://twitter.com/search?q=%23DAVIDxCongressNightAbra) | N/A |
-| 5 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
-| 6 | [#NoToJeepneyPhaseOut](http://twitter.com/search?q=%23NoToJeepneyPhaseOut) | N/A |
-| 7 | [D-15 BOBBY COMEBACK](http://twitter.com/search?q=D-15+BOBBY+COMEBACK) | N/A |
-| 8 | [DAVID AtKawayanFestival](http://twitter.com/search?q=DAVID+AtKawayanFestival) | N/A |
-| 9 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 2 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 3 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
+| 4 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
+| 5 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 6 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
+| 7 | [#SB19_PABLO](http://twitter.com/search?q=%23SB19_PABLO) | N/A |
+| 8 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 9 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 10 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 11 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
-| 12 | [House of Representatives](http://twitter.com/search?q=House+of+Representatives) | The House of Representatives is the lower house of the United States Congress, and is composed of 435 members who are elected from districts across the country. The primary purpose of the House of Representatives is to pass laws that affect the nation as a whole. |
-| 13 | [1987 Constitution](http://twitter.com/search?q=1987+Constitution) | N/A |
-| 14 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 15 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
-| 16 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 17 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 11 | [D-15 BOBBY COMEBACK](http://twitter.com/search?q=D-15+BOBBY+COMEBACK) | N/A |
+| 12 | [DAVID AtKawayanFestival](http://twitter.com/search?q=DAVID+AtKawayanFestival) | N/A |
+| 13 | [House of Representatives](http://twitter.com/search?q=House+of+Representatives) | The House of Representatives is the lower house of the United States Congress, and is composed of 435 members who are elected from districts across the country. The primary purpose of the House of Representatives is to pass laws that affect the nation as a whole. |
+| 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 15 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
+| 16 | [jinki](http://twitter.com/search?q=jinki) | N/A |
+| 17 | [1987 Constitution](http://twitter.com/search?q=1987+Constitution) | N/A |
 | 18 | [Quen](http://twitter.com/search?q=Quen) | N/A |
-| 19 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 20 | [Alden](http://twitter.com/search?q=Alden) | N/A |
-| 21 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 22 | [PISTON](http://twitter.com/search?q=PISTON) | N/A |
-| 23 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
-| 24 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 25 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
-| 26 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
-| 27 | [#DavidLicaucoAbra](http://twitter.com/search?q=%23DavidLicaucoAbra) | N/A |
-| 28 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 29 | [#TeenClash](http://twitter.com/search?q=%23TeenClash) | N/A |
-| 30 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 31 | [#BOBBYSOLOSINGLE_D15](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D15) | N/A |
-| 32 | [#NoToPUVPhaseout](http://twitter.com/search?q=%23NoToPUVPhaseout) | N/A |
-| 33 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
-| 34 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
-| 35 | [#ArcticMonkeysManila](http://twitter.com/search?q=%23ArcticMonkeysManila) | N/A |
-| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 37 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
-| 38 | [#ThankYouJimin](http://twitter.com/search?q=%23ThankYouJimin) | #ThankYouJimin is a hashtag used by fans of the South Korean pop group BTS to show their appreciation for member Jimin. It is used to express gratitude for his hard work and dedication to the group. |
-| 39 | [#SupportTransportStrike](http://twitter.com/search?q=%23SupportTransportStrike) | N/A |
-| 40 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 41 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
-| 42 | [#BOYCOTTEBxGMA726](http://twitter.com/search?q=%23BOYCOTTEBxGMA726) | N/A |
+| 19 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 20 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 21 | [Jeepney](http://twitter.com/search?q=Jeepney) | N/A |
+| 22 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 23 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 24 | [Alden](http://twitter.com/search?q=Alden) | N/A |
+| 25 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
+| 26 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
+| 27 | [#UrdujaPagsabog](http://twitter.com/search?q=%23UrdujaPagsabog) | N/A |
+| 28 | [#DAVIDxCongressNightAbra](http://twitter.com/search?q=%23DAVIDxCongressNightAbra) | N/A |
+| 29 | [#DavidForScout](http://twitter.com/search?q=%23DavidForScout) | N/A |
+| 30 | [#DreamChasersTagumPIE](http://twitter.com/search?q=%23DreamChasersTagumPIE) | N/A |
+| 31 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
+| 32 | [#DavidLicaucoAbra](http://twitter.com/search?q=%23DavidLicaucoAbra) | N/A |
+| 33 | [#enhypen_jake](http://twitter.com/search?q=%23enhypen_jake) | N/A |
+| 34 | [#NoToChaCha](http://twitter.com/search?q=%23NoToChaCha) | N/A |
+| 35 | [#NoToPUVPhaseout](http://twitter.com/search?q=%23NoToPUVPhaseout) | N/A |
+| 36 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
+| 37 | [#TeenClash](http://twitter.com/search?q=%23TeenClash) | N/A |
+| 38 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
+| 39 | [#BOBBYSOLOSINGLE_D15](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D15) | N/A |
+| 40 | [#ArcticMonkeysManila](http://twitter.com/search?q=%23ArcticMonkeysManila) | N/A |
+| 41 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 42 | [#Groovy](http://twitter.com/search?q=%23Groovy) | N/A |
+| 43 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
+| 44 | [#ChristmasLoveOutNow](http://twitter.com/search?q=%23ChristmasLoveOutNow) | N/A |
+| 45 | [#SupportTransportStrike](http://twitter.com/search?q=%23SupportTransportStrike) | N/A |
+| 46 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 47 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 48 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 49 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 50 | [#BOYCOTTEBxGMA726](http://twitter.com/search?q=%23BOYCOTTEBxGMA726) | N/A |
 
 
 

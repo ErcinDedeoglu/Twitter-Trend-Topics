@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-06 11:16:27 UTC`
+📆 Last Updated: `2023-03-06 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
-| 2 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 1 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
+| 2 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
 | 3 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
-| 4 | [#TSMedia](http://twitter.com/search?q=%23TSMedia) | N/A |
-| 5 | [#ThanksGodItsFriendstivity](http://twitter.com/search?q=%23ThanksGodItsFriendstivity) | N/A |
-| 6 | [#TSX2023](http://twitter.com/search?q=%23TSX2023) | N/A |
-| 7 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 8 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
-| 9 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
-| 10 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
-| 11 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
-| 12 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
-| 13 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
-| 14 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 15 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 16 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 17 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 18 | [Dari SD](http://twitter.com/search?q=Dari+SD) | N/A |
-| 19 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 20 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 21 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 22 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
-| 23 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
-| 24 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 25 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
-| 26 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 27 | [Pesilat](http://twitter.com/search?q=Pesilat) | N/A |
-| 28 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 29 | [Physical](http://twitter.com/search?q=Physical) | N/A |
-| 30 | [Acts](http://twitter.com/search?q=Acts) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 32 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
-| 33 | [Quality](http://twitter.com/search?q=Quality) | N/A |
-| 34 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 35 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 36 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 37 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 38 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
-| 39 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 40 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
-| 41 | [JENO DAZED KOREA COVER](http://twitter.com/search?q=JENO+DAZED+KOREA+COVER) | N/A |
-| 42 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
-| 43 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 44 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 45 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 46 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 47 | [#GROOVY_MV_OutNow](http://twitter.com/search?q=%23GROOVY_MV_OutNow) | N/A |
-| 48 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
-| 49 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
+| 4 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 5 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
+| 6 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 7 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
+| 8 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 9 | [#TSMedia](http://twitter.com/search?q=%23TSMedia) | N/A |
+| 10 | [#ThanksGodItsFriendstivity](http://twitter.com/search?q=%23ThanksGodItsFriendstivity) | N/A |
+| 11 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
+| 12 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 13 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
+| 14 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 15 | [Firts](http://twitter.com/search?q=Firts) | N/A |
+| 16 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
+| 17 | [Satisfying](http://twitter.com/search?q=Satisfying) | N/A |
+| 18 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 19 | [Sebulan](http://twitter.com/search?q=Sebulan) | N/A |
+| 20 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 21 | [Dari SD](http://twitter.com/search?q=Dari+SD) | N/A |
+| 22 | [Modar](http://twitter.com/search?q=Modar) | N/A |
+| 23 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 24 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
+| 25 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 26 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 27 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 28 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 29 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 30 | [Pesilat](http://twitter.com/search?q=Pesilat) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 33 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 34 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
+| 35 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 36 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
+| 37 | [JENO DAZED KOREA COVER](http://twitter.com/search?q=JENO+DAZED+KOREA+COVER) | N/A |
+| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 39 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 40 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 41 | [Physical](http://twitter.com/search?q=Physical) | N/A |
+| 42 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 43 | [#TSX2023](http://twitter.com/search?q=%23TSX2023) | N/A |
+| 44 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 45 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 46 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
+| 47 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
+| 48 | [#Groovy](http://twitter.com/search?q=%23Groovy) | N/A |
+| 49 | [#NielBalesNiel](http://twitter.com/search?q=%23NielBalesNiel) | N/A |
 | 50 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
 
 

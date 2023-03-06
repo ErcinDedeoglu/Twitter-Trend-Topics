@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-06 11:16:25 UTC`
+📆 Last Updated: `2023-03-06 12:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,29 +16,29 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 4 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 | 5 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
 | 6 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 7 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 11 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 7 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 8 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 11 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
 | 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 14 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 15 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 16 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 16 | [berne](http://twitter.com/search?q=berne) | N/A |
 | 17 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 19 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
+| 19 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
 | 20 | [Skala](http://twitter.com/search?q=Skala) | N/A |
-| 21 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 22 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 23 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 22 | [alpine](http://twitter.com/search?q=alpine) | N/A |
+| 23 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 24 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
 | 25 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
 | 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 | 27 | [Herr Köppel](http://twitter.com/search?q=Herr+K%c3%b6ppel) | N/A |
@@ -46,22 +46,22 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 30 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 31 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 33 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 34 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 37 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 38 | [Dittli](http://twitter.com/search?q=Dittli) | N/A |
-| 39 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 42 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 43 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 45 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 46 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 47 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 32 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 35 | [Dittli](http://twitter.com/search?q=Dittli) | N/A |
+| 36 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 37 | [Doha](http://twitter.com/search?q=Doha) | N/A |
+| 38 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 39 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 40 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 41 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 44 | [Vorstellung](http://twitter.com/search?q=Vorstellung) | N/A |
+| 45 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 46 | [zoug](http://twitter.com/search?q=zoug) | N/A |
+| 47 | [Schrott](http://twitter.com/search?q=Schrott) | N/A |
 
 
 

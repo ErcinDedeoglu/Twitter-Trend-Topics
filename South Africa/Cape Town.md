@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-06 11:16:38 UTC`
+📆 Last Updated: `2023-03-06 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
 | 4 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
 | 5 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 6 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
-| 7 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [#RIPMarkPilgrim](http://twitter.com/search?q=%23RIPMarkPilgrim) | N/A |
-| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 11 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
-| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 13 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
+| 6 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 7 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
+| 8 | [#samesamebutdifferent](http://twitter.com/search?q=%23samesamebutdifferent) | N/A |
+| 9 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [#RIPMarkPilgrim](http://twitter.com/search?q=%23RIPMarkPilgrim) | N/A |
+| 12 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
+| 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 14 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
 | 15 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 17 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 18 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 19 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
-| 20 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 21 | [yelisa](http://twitter.com/search?q=yelisa) | N/A |
-| 22 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 23 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 24 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 25 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 26 | [speedeeqr](http://twitter.com/search?q=speedeeqr) | N/A |
-| 27 | [Pabi Cooper](http://twitter.com/search?q=Pabi+Cooper) | N/A |
-| 28 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 29 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 30 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 31 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 33 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
-| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 35 | [Stellies](http://twitter.com/search?q=Stellies) | N/A |
-| 36 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 37 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 38 | [DEAR NELISA](http://twitter.com/search?q=DEAR+NELISA) | N/A |
-| 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 20 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 23 | [Pabi Cooper](http://twitter.com/search?q=Pabi+Cooper) | N/A |
+| 24 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 25 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 26 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 27 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [Stellies](http://twitter.com/search?q=Stellies) | N/A |
+| 31 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 32 | [Sudanese](http://twitter.com/search?q=Sudanese) | N/A |
+| 33 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 34 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 35 | [Boiled](http://twitter.com/search?q=Boiled) | N/A |
+| 36 | [Vusi Nova](http://twitter.com/search?q=Vusi+Nova) | N/A |
+| 37 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 38 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 39 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 40 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 41 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 42 | [Vusi Nova](http://twitter.com/search?q=Vusi+Nova) | N/A |
-| 43 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 44 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
-| 45 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 46 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
-| 49 | [Boiled](http://twitter.com/search?q=Boiled) | N/A |
-| 50 | [Durban](http://twitter.com/search?q=Durban) | N/A |
+| 41 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 44 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 45 | [Juvonne](http://twitter.com/search?q=Juvonne) | N/A |
+| 46 | [FNB SpeedeeQR](http://twitter.com/search?q=FNB+SpeedeeQR) | N/A |
+| 47 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 48 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 49 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 50 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
 
 
 

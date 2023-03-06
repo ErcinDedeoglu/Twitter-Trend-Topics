@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-06 11:16:35 UTC`
+📆 Last Updated: `2023-03-06 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 2 | [#HappySaturDay](http://twitter.com/search?q=%23HappySaturDay) | N/A |
-| 3 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
-| 4 | [#TARAxYLSPartyConcert](http://twitter.com/search?q=%23TARAxYLSPartyConcert) | N/A |
-| 5 | [#Billkin_ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23Billkin_%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
+| 2 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 3 | [#HappySaturDay](http://twitter.com/search?q=%23HappySaturDay) | N/A |
+| 4 | [#ErrrDay](http://twitter.com/search?q=%23ErrrDay) | N/A |
+| 5 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
 | 6 | [Samsung x Bright](http://twitter.com/search?q=Samsung+x+Bright) | N/A |
-| 7 | [bvlparfums asia pacific](http://twitter.com/search?q=bvlparfums+asia+pacific) | N/A |
+| 7 | [LiuYu in Paris](http://twitter.com/search?q=LiuYu+in+Paris) | N/A |
 | 8 | [Jorin Tears](http://twitter.com/search?q=Jorin+Tears) | N/A |
-| 9 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 10 | [#100kweiboloveNoeul](http://twitter.com/search?q=%23100kweiboloveNoeul) | N/A |
-| 11 | [#GalaxyA235GxBright](http://twitter.com/search?q=%23GalaxyA235GxBright) | N/A |
-| 12 | [#Silverbrightday](http://twitter.com/search?q=%23Silverbrightday) | N/A |
-| 13 | [#JeffHappySatursDay](http://twitter.com/search?q=%23JeffHappySatursDay) | N/A |
-| 14 | [#LAZADA11DAYxLAZ1](http://twitter.com/search?q=%23LAZADA11DAYxLAZ1) | N/A |
-| 15 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 16 | [#ทัชมายบอดี้](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89) | N/A |
-| 17 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 18 | [#ลัทธิน้องสี่](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b5%e0%b9%88) | N/A |
-| 19 | [#ErrrDay](http://twitter.com/search?q=%23ErrrDay) | N/A |
-| 20 | [#TouchMyBody](http://twitter.com/search?q=%23TouchMyBody) | N/A |
-| 21 | [#ลัทธิพี่สี่](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b5%e0%b9%88) | N/A |
-| 22 | [#YOUNGJAE](http://twitter.com/search?q=%23YOUNGJAE) | N/A |
-| 23 | [#หยดน้ําตาJorin4EVE](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2Jorin4EVE) | N/A |
-| 24 | [#Groovy](http://twitter.com/search?q=%23Groovy) | N/A |
-| 25 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
-| 26 | [#โฟร์ทณัฐวรรธน์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%93%e0%b8%b1%e0%b8%90%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%98%e0%b8%99%e0%b9%8c) | N/A |
-| 27 | [#크래비티](http://twitter.com/search?q=%23%ed%81%ac%eb%9e%98%eb%b9%84%ed%8b%b0) | N/A |
-| 28 | [#saveG](http://twitter.com/search?q=%23saveG) | N/A |
-| 29 | [#MASTER_PIECE](http://twitter.com/search?q=%23MASTER_PIECE) | N/A |
-| 30 | [#YANGYANGBvlPourHomme](http://twitter.com/search?q=%23YANGYANGBvlPourHomme) | N/A |
-| 31 | [#Fourthnattawat](http://twitter.com/search?q=%23Fourthnattawat) | N/A |
-| 32 | [#ซนซนขอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%99%e0%b8%8b%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | #ซนซนขอแลกฟอล is a hashtag used on social media in Thailand. It translates to "Let's exchange gifts" and is used to encourage people to exchange gifts with each other. |
-| 33 | [#BALMAIN](http://twitter.com/search?q=%23BALMAIN) | N/A |
-| 34 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 35 | [#นุ๊กปายไปบุกUniversalDay2](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%9b%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%9b%e0%b8%9a%e0%b8%b8%e0%b8%81UniversalDay2) | N/A |
-| 36 | [#GeminiForth](http://twitter.com/search?q=%23GeminiForth) | N/A |
-| 37 | [#Bomixmookda](http://twitter.com/search?q=%23Bomixmookda) | N/A |
-| 38 | [#WinwithUltimune](http://twitter.com/search?q=%23WinwithUltimune) | N/A |
-| 39 | [#ShiseidoThailand](http://twitter.com/search?q=%23ShiseidoThailand) | N/A |
-| 40 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
-| 41 | [#โหนกระแส](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ab%e0%b8%99%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%aa) | N/A |
-| 42 | [#1M100ktoFortFTSwithLove](http://twitter.com/search?q=%231M100ktoFortFTSwithLove) | N/A |
-| 43 | [#GunAtthaphan](http://twitter.com/search?q=%23GunAtthaphan) | N/A |
-| 44 | [#วันมาฆบูชา](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b8%86%e0%b8%9a%e0%b8%b9%e0%b8%8a%e0%b8%b2) | N/A |
-| 45 | [#หมากปริญ](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b4%e0%b8%8d) | N/A |
-| 46 | [#100KForBuildFam](http://twitter.com/search?q=%23100KForBuildFam) | N/A |
-| 47 | [#ยื้อหมากโบว์_ใต้เงาตะวัน](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%82%e0%b8%9a%e0%b8%a7%e0%b9%8c_%e0%b9%83%e0%b8%95%e0%b9%89%e0%b9%80%e0%b8%87%e0%b8%b2%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99) | N/A |
+| 9 | [#Billkin_ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23Billkin_%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
+| 10 | [#TARAxYLSPartyConcert](http://twitter.com/search?q=%23TARAxYLSPartyConcert) | N/A |
+| 11 | [#JeffHappySatursDay](http://twitter.com/search?q=%23JeffHappySatursDay) | N/A |
+| 12 | [#WayV_Phantom_in_BANGKOK](http://twitter.com/search?q=%23WayV_Phantom_in_BANGKOK) | N/A |
+| 13 | [#LAZADA11DAYxLAZ1](http://twitter.com/search?q=%23LAZADA11DAYxLAZ1) | N/A |
+| 14 | [#ทัชมายบอดี้](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89) | N/A |
+| 15 | [#TouchMyBody](http://twitter.com/search?q=%23TouchMyBody) | N/A |
+| 16 | [#GalaxyA235GxBright](http://twitter.com/search?q=%23GalaxyA235GxBright) | N/A |
+| 17 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 18 | [#100kweiboloveNoeul](http://twitter.com/search?q=%23100kweiboloveNoeul) | N/A |
+| 19 | [#KAZZTalKxGF](http://twitter.com/search?q=%23KAZZTalKxGF) | N/A |
+| 20 | [#ScentioxFortPeat](http://twitter.com/search?q=%23ScentioxFortPeat) | N/A |
+| 21 | [#Newsingle](http://twitter.com/search?q=%23Newsingle) | N/A |
+| 22 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 23 | [#YWPBFanmeetingInVietNam](http://twitter.com/search?q=%23YWPBFanmeetingInVietNam) | N/A |
+| 24 | [#JAYBforHommesTH](http://twitter.com/search?q=%23JAYBforHommesTH) | N/A |
+| 25 | [#WhiteMusicRecord](http://twitter.com/search?q=%23WhiteMusicRecord) | N/A |
+| 26 | [#ลัทธิน้องสี่](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b5%e0%b9%88) | N/A |
+| 27 | [#LOfficielHommesThailand](http://twitter.com/search?q=%23LOfficielHommesThailand) | N/A |
+| 28 | [#LoveTU4Million](http://twitter.com/search?q=%23LoveTU4Million) | N/A |
+| 29 | [#หยดน้ําตาjorin4eve](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2jorin4eve) | N/A |
+| 30 | [#ลัทธิพี่สี่](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b5%e0%b9%88) | N/A |
+| 31 | [#YOUNGJAE](http://twitter.com/search?q=%23YOUNGJAE) | N/A |
+| 32 | [#นาราเครปกะเทย](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%9b%e0%b8%81%e0%b8%b0%e0%b9%80%e0%b8%97%e0%b8%a2) | N/A |
+| 33 | [#ซนซนขอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%99%e0%b8%8b%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | #ซนซนขอแลกฟอล is a hashtag used on social media in Thailand. It translates to "Let's exchange gifts" and is used to encourage people to exchange gifts with each other. |
+| 34 | [#BillkinEntertainment](http://twitter.com/search?q=%23BillkinEntertainment) | N/A |
+| 35 | [#โฟร์ทณัฐวรรธน์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%93%e0%b8%b1%e0%b8%90%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%98%e0%b8%99%e0%b9%8c) | N/A |
+| 36 | [#PERSES_CatchtheNight](http://twitter.com/search?q=%23PERSES_CatchtheNight) | N/A |
+| 37 | [#CRAVITY](http://twitter.com/search?q=%23CRAVITY) | N/A |
+| 38 | [#saveG](http://twitter.com/search?q=%23saveG) | N/A |
+| 39 | [#Groovy](http://twitter.com/search?q=%23Groovy) | N/A |
+| 40 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
+| 41 | [#นุ๊กปายไปบุกUniversalDay2](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b9%8a%e0%b8%81%e0%b8%9b%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%9b%e0%b8%9a%e0%b8%b8%e0%b8%81UniversalDay2) | N/A |
+| 42 | [#Fourthnattawat](http://twitter.com/search?q=%23Fourthnattawat) | N/A |
+| 43 | [#รักแรกของเฟริสท์](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%9f%e0%b8%a3%e0%b8%b4%e0%b8%aa%e0%b8%97%e0%b9%8c) | N/A |
+| 44 | [#หยดน้ําตา4EVE](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE) | N/A |
+| 45 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
+| 46 | [#GeminiForth](http://twitter.com/search?q=%23GeminiForth) | N/A |
+| 47 | [#YANGYANGBvlPourHomme](http://twitter.com/search?q=%23YANGYANGBvlPourHomme) | N/A |
+| 48 | [#ตลาดนัดบิวกิ้นพีพี](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b8%b1%e0%b8%94%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%81%e0%b8%b4%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5) | N/A |
+| 49 | [#BALMAIN](http://twitter.com/search?q=%23BALMAIN) | N/A |
+| 50 | [#MOBYe](http://twitter.com/search?q=%23MOBYe) | N/A |
 
 
 

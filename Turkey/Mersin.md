@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-06 11:16:45 UTC`
+📆 Last Updated: `2023-03-06 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GidiyorsunCHP](http://twitter.com/search?q=GidiyorsunCHP) | N/A |
-| 2 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 3 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
+| 1 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
+| 2 | [#MilletinSesiAkşener](http://twitter.com/search?q=%23MilletinSesiAk%c5%9fener) | N/A |
+| 3 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
 | 4 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
-| 5 | [#Kabineden100BinÖğretmen](http://twitter.com/search?q=%23Kabineden100Bin%c3%96%c4%9fretmen) | N/A |
-| 6 | [Telegram Maçkolik](http://twitter.com/search?q=Telegram+Ma%c3%a7kolik) | N/A |
-| 7 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
-| 8 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
-| 9 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 10 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 11 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
-| 12 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
-| 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 14 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 15 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 16 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 17 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
-| 18 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 19 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
-| 20 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 21 | [Belediyeleri](http://twitter.com/search?q=Belediyeleri) | N/A |
-| 22 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 23 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
-| 24 | [Sayın Akşener](http://twitter.com/search?q=Say%c4%b1n+Ak%c5%9fener) | N/A |
-| 25 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 26 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 27 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 28 | [Milletimize](http://twitter.com/search?q=Milletimize) | N/A |
-| 29 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 30 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
-| 31 | [Muhammed'e](http://twitter.com/search?q=Muhammed%27e) | N/A |
-| 32 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 33 | [Ülkemize](http://twitter.com/search?q=%c3%9clkemize) | N/A |
-| 34 | [GÖNÜLLÜLER ERDOĞAN DİYOR](http://twitter.com/search?q=G%c3%96N%c3%9cLL%c3%9cLER+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 35 | [şeriat](http://twitter.com/search?q=%c5%9feriat) | N/A |
-| 36 | [Hande](http://twitter.com/search?q=Hande) | N/A |
-| 37 | [Dönmesin](http://twitter.com/search?q=D%c3%b6nmesin) | N/A |
-| 38 | [Bursa'daki](http://twitter.com/search?q=Bursa%27daki) | N/A |
-| 39 | [#cbunikarari](http://twitter.com/search?q=%23cbunikarari) | N/A |
-| 40 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
-| 41 | [#EYTtastamamOlmadı](http://twitter.com/search?q=%23EYTtastamamOlmad%c4%b1) | N/A |
-| 42 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
-| 43 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 44 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 45 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 46 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
-| 47 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
-| 48 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
-| 49 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
+| 5 | [ReisKaderMahkumunaAF](http://twitter.com/search?q=ReisKaderMahkumunaAF) | N/A |
+| 6 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
+| 7 | [Telegram Maçkolik](http://twitter.com/search?q=Telegram+Ma%c3%a7kolik) | N/A |
+| 8 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
+| 9 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 10 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 11 | [Olan Ersan Şen](http://twitter.com/search?q=Olan+Ersan+%c5%9een) | N/A |
+| 12 | [Demir Leydi](http://twitter.com/search?q=Demir+Leydi) | N/A |
+| 13 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
+| 14 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 15 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
+| 16 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
+| 17 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 18 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
+| 19 | [Noter](http://twitter.com/search?q=Noter) | N/A |
+| 20 | [Belediyeler](http://twitter.com/search?q=Belediyeler) | N/A |
+| 21 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [Sıtma](http://twitter.com/search?q=S%c4%b1tma) | N/A |
+| 24 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 25 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 26 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 27 | [Burnunu](http://twitter.com/search?q=Burnunu) | N/A |
+| 28 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 29 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 30 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 31 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
+| 32 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 33 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
+| 34 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
+| 35 | [Masaya](http://twitter.com/search?q=Masaya) | N/A |
+| 36 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
+| 37 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 38 | [Deva](http://twitter.com/search?q=Deva) | N/A |
+| 39 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 40 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 41 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
+| 42 | [Kılıçdaroğlu Cumhurbaşkanı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 43 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 44 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 45 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
+| 46 | [İyi Parti'ye](http://twitter.com/search?q=%c4%b0yi+Parti%27ye) | N/A |
+| 47 | [Parlamenter](http://twitter.com/search?q=Parlamenter) | N/A |
+| 48 | [İslam Alemine](http://twitter.com/search?q=%c4%b0slam+Alemine) | N/A |
+| 49 | [Nejat](http://twitter.com/search?q=Nejat) | N/A |
 
 
 

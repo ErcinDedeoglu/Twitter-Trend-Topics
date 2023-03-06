@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-06 11:16:15 UTC`
+📆 Last Updated: `2023-03-06 12:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 2 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 3 | [#6Mar](http://twitter.com/search?q=%236Mar) | N/A |
+| 1 | [#6Mar](http://twitter.com/search?q=%236Mar) | N/A |
+| 2 | [#SomosLosDeChávez](http://twitter.com/search?q=%23SomosLosDeCh%c3%a1vez) | N/A |
+| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 4 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 7 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 8 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 9 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
-| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 7 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 8 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
+| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 12 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 13 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
+| 12 | [#68años](http://twitter.com/search?q=%2368a%c3%b1os) | N/A |
+| 13 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 14 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
-| 15 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 16 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 18 | [feliz 5](http://twitter.com/search?q=feliz+5) | N/A |
-| 19 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
-| 20 | [Maracayeros](http://twitter.com/search?q=Maracayeros) | N/A |
-| 21 | [Raúl Castro](http://twitter.com/search?q=Ra%c3%bal+Castro) | N/A |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 24 | [día del campesino](http://twitter.com/search?q=d%c3%ada+del+campesino) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 27 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 28 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 29 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 30 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [Mortadelo](http://twitter.com/search?q=Mortadelo) | N/A |
-| 33 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 34 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 35 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 36 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 37 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 38 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 39 | [siembra](http://twitter.com/search?q=siembra) | N/A |
-| 40 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 41 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 42 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 43 | [ciudad jardín](http://twitter.com/search?q=ciudad+jard%c3%adn) | N/A |
-| 44 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
-| 45 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 46 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 47 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 48 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
-| 49 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [Maracayeros](http://twitter.com/search?q=Maracayeros) | N/A |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 17 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 18 | [día del campesino](http://twitter.com/search?q=d%c3%ada+del+campesino) | N/A |
+| 19 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 20 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 21 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 23 | [Raúl Castro](http://twitter.com/search?q=Ra%c3%bal+Castro) | N/A |
+| 24 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Mortadelo](http://twitter.com/search?q=Mortadelo) | N/A |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
+| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 30 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 31 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 32 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 33 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 34 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 35 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 36 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 37 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 38 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 39 | [linda carter](http://twitter.com/search?q=linda+carter) | N/A |
+| 40 | [Ciudad Jardín](http://twitter.com/search?q=Ciudad+Jard%c3%adn) | N/A |
+| 41 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 42 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 44 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 45 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
+| 46 | [3-Cilantro](http://twitter.com/search?q=3-Cilantro) | N/A |
+| 47 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 50 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
 
 
 

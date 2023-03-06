@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-06 11:16:17 UTC`
+📆 Last Updated: `2023-03-06 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,43 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
-| 4 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
-| 5 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 6 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 1 | [Bom Vasco](http://twitter.com/search?q=Bom+Vasco) | N/A |
+| 2 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
+| 3 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 4 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 5 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 6 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 7 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 8 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 9 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 10 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 11 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 12 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 13 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 14 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 15 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 16 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 17 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 18 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 19 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 20 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 21 | [David](http://twitter.com/search?q=David) | N/A |
-| 22 | [nicarágua](http://twitter.com/search?q=nicar%c3%a1gua) | N/A |
-| 23 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
-| 24 | [Burra](http://twitter.com/search?q=Burra) | N/A |
-| 25 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 26 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 27 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 8 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 9 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 11 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 13 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 14 | [Tropeçou](http://twitter.com/search?q=Trope%c3%a7ou) | N/A |
+| 15 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 16 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 17 | [Onew](http://twitter.com/search?q=Onew) | Onew is a South Korean singer, songwriter, and actor. He is best known as the leader of the South Korean boy group SHINee. The name Onew is derived from the phrase "One World," which reflects his desire to become a global star. |
+| 18 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 19 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 20 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 21 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
+| 22 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 23 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 24 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 25 | [Larissa e Bruna](http://twitter.com/search?q=Larissa+e+Bruna) | Larissa e Bruna is a Brazilian telenovela that aired on Rede Globo from April to October 2019. The show follows the story of two sisters, Larissa and Bruna, who are separated at birth and later reunited as adults. In English, the title translates to "Larissa and Bruna". |
+| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 27 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
 | 28 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 29 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 29 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
 | 30 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 31 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 31 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
 | 32 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 35 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 36 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 37 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
-| 38 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
-| 39 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 40 | [Burrice](http://twitter.com/search?q=Burrice) | N/A |
-| 41 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 42 | [#ARMYselcaday](http://twitter.com/search?q=%23ARMYselcaday) | N/A |
+| 33 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
+| 34 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
+| 35 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 36 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 37 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
 
 
 
