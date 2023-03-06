@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-06 07:15:54 UTC`
+📆 Last Updated: `2023-03-06 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 3 | [#1MillonDeAmigosConAbel](http://twitter.com/search?q=%231MillonDeAmigosConAbel) | N/A |
 | 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
-| 6 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
-| 7 | [Jeimer Candelario](http://twitter.com/search?q=Jeimer+Candelario) | N/A |
+| 5 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
+| 6 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
+| 7 | [jeimer candelario](http://twitter.com/search?q=jeimer+candelario) | N/A |
 | 8 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
-| 9 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
+| 9 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
 | 10 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
 | 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 12 | [Roberto Fulcar](http://twitter.com/search?q=Roberto+Fulcar) | N/A |
@@ -33,17 +33,17 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 16 | [#fppuertoplata](http://twitter.com/search?q=%23fppuertoplata) | N/A |
 | 17 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
 | 18 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 22 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
-| 23 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 24 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 25 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 27 | [sabana iglesia](http://twitter.com/search?q=sabana+iglesia) | N/A |
-| 28 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 29 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
+| 19 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
+| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
+| 22 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 24 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 26 | [sabana iglesia](http://twitter.com/search?q=sabana+iglesia) | N/A |
+| 27 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 28 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
+| 29 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
 | 30 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
 | 31 | [caribe express](http://twitter.com/search?q=caribe+express) | N/A |
 | 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |

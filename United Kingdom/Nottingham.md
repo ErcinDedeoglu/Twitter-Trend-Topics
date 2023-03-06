@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-06 07:15:53 UTC`
+📆 Last Updated: `2023-03-06 08:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 7 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 8 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 9 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 8 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 9 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 10 | [Neville](http://twitter.com/search?q=Neville) | N/A |
 | 11 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 12 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 17 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 18 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 19 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 20 | [ANDREW GILDING](http://twitter.com/search?q=ANDREW+GILDING) | N/A |
-| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 12 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
+| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 17 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 18 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 19 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 20 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 21 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
 | 22 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 23 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 24 | [ANDREW GILDING](http://twitter.com/search?q=ANDREW+GILDING) | N/A |
+| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 26 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 28 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 29 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 31 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 32 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 33 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 34 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 37 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 38 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 39 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 42 | [gool peran lowen](http://twitter.com/search?q=gool+peran+lowen) | N/A |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [Wordle 625 X](http://twitter.com/search?q=Wordle+625+X) | N/A |
-| 45 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
-| 46 | [The Butcher](http://twitter.com/search?q=The+Butcher) | The Butcher is a slang term used to refer to someone who is particularly violent or ruthless. It is often used to describe someone who has committed a particularly heinous act of violence or cruelty. |
-| 47 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 48 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 49 | [Reiss Nelson](http://twitter.com/search?q=Reiss+Nelson) | N/A |
-| 50 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 33 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 34 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 35 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 36 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 37 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 38 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 39 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 40 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 41 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 42 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
+| 43 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 45 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 46 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 47 | [Wordle 625 X](http://twitter.com/search?q=Wordle+625+X) | N/A |
+| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 49 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
+| 50 | [The Butcher](http://twitter.com/search?q=The+Butcher) | The Butcher is a slang term used to refer to someone who is particularly violent or ruthless. It is often used to describe someone who has committed a particularly heinous act of violence or cruelty. |
 
 
 

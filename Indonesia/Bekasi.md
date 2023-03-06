@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-06 07:16:11 UTC`
+📆 Last Updated: `2023-03-06 08:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 2 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 3 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
-| 4 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
-| 5 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 6 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 1 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 2 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
+| 3 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 4 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
+| 5 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
+| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
 | 7 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 8 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 8 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
 | 9 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
 | 10 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 11 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 12 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 13 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 14 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
-| 15 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 16 | [Quality](http://twitter.com/search?q=Quality) | N/A |
-| 17 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
-| 18 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 19 | [Act of Service](http://twitter.com/search?q=Act+of+Service) | N/A |
-| 20 | [Acts](http://twitter.com/search?q=Acts) | N/A |
-| 21 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 22 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
-| 23 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
-| 24 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 25 | [Physical](http://twitter.com/search?q=Physical) | N/A |
-| 26 | [RENJUN YOUR NAME OST COVER](http://twitter.com/search?q=RENJUN+YOUR+NAME+OST+COVER) | N/A |
-| 27 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 28 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 29 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
-| 30 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
-| 31 | [Dewe](http://twitter.com/search?q=Dewe) | N/A |
-| 32 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 33 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 34 | [MASIH PAGI](http://twitter.com/search?q=MASIH+PAGI) | N/A |
-| 35 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 36 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 11 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 12 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 13 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 14 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 15 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 16 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
+| 17 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 18 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 19 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 20 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 21 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 22 | [Act of Service](http://twitter.com/search?q=Act+of+Service) | N/A |
+| 23 | [JENO DAZED KOREA COVER](http://twitter.com/search?q=JENO+DAZED+KOREA+COVER) | N/A |
+| 24 | [Acts](http://twitter.com/search?q=Acts) | N/A |
+| 25 | [Ikan](http://twitter.com/search?q=Ikan) | N/A |
+| 26 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 27 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 28 | [JISUNG FOR Y MAGAZINE](http://twitter.com/search?q=JISUNG+FOR+Y+MAGAZINE) | N/A |
+| 29 | [Physical](http://twitter.com/search?q=Physical) | N/A |
+| 30 | [Dicintai Rakyat](http://twitter.com/search?q=Dicintai+Rakyat) | N/A |
+| 31 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 32 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 33 | [RENJUN YOUR NAME OST COVER](http://twitter.com/search?q=RENJUN+YOUR+NAME+OST+COVER) | N/A |
+| 34 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 35 | [Dewe](http://twitter.com/search?q=Dewe) | N/A |
+| 36 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
 | 37 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 38 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
-| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 40 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 41 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 42 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 43 | [#PromiseByJiminOutNow](http://twitter.com/search?q=%23PromiseByJiminOutNow) | N/A |
-| 44 | [#cynin](http://twitter.com/search?q=%23cynin) | N/A |
-| 45 | [#WinwithUltimune](http://twitter.com/search?q=%23WinwithUltimune) | N/A |
-| 46 | [#ShiseidoThailand](http://twitter.com/search?q=%23ShiseidoThailand) | N/A |
-| 47 | [#달콤한_1억뷰_슈가러쉬라이드](http://twitter.com/search?q=%23%eb%8b%ac%ec%bd%a4%ed%95%9c_1%ec%96%b5%eb%b7%b0_%ec%8a%88%ea%b0%80%eb%9f%ac%ec%89%ac%eb%9d%bc%ec%9d%b4%eb%93%9c) | N/A |
+| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 39 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 40 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 41 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 42 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
+| 43 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 46 | [#cynin](http://twitter.com/search?q=%23cynin) | N/A |
+| 47 | [#ChristmasLoveOutNow](http://twitter.com/search?q=%23ChristmasLoveOutNow) | N/A |
 | 48 | [#GanjarPranowoPalembang](http://twitter.com/search?q=%23GanjarPranowoPalembang) | N/A |
-| 49 | [#FerragamoSS23xJENO](http://twitter.com/search?q=%23FerragamoSS23xJENO) | N/A |
+| 49 | [#WinwithUltimune](http://twitter.com/search?q=%23WinwithUltimune) | N/A |
 
 
 

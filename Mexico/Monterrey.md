@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-06 07:15:56 UTC`
+📆 Last Updated: `2023-03-06 08:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,31 @@ This is top 50 for [Mexico](</Mexico>)
 | 9 | [#ThankYouJimin](http://twitter.com/search?q=%23ThankYouJimin) | #ThankYouJimin is a hashtag used by fans of the South Korean pop group BTS to show their appreciation for member Jimin. It is used to express gratitude for his hard work and dedication to the group. |
 | 10 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
 | 11 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 12 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 13 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 12 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 13 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
 | 14 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 15 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
 | 16 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
 | 17 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 18 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
-| 19 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 18 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 19 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
 | 20 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 21 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 22 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 24 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 25 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 26 | [JORGE EN MQB](http://twitter.com/search?q=JORGE+EN+MQB) | N/A |
-| 27 | [FELIZ CUMPLE MARIO B](http://twitter.com/search?q=FELIZ+CUMPLE+MARIO+B) | N/A |
-| 28 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 31 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 32 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 33 | [DULCES 31 MACA](http://twitter.com/search?q=DULCES+31+MACA) | N/A |
-| 34 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 35 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
-| 36 | [Creed](http://twitter.com/search?q=Creed) | N/A |
-| 37 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 38 | [Kimberly Loaiza](http://twitter.com/search?q=Kimberly+Loaiza) | N/A |
-| 39 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 40 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
-| 41 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
-| 42 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 43 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 44 | [#TodosSomosManzanas](http://twitter.com/search?q=%23TodosSomosManzanas) | N/A |
-| 45 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 46 | [#PoderMutante](http://twitter.com/search?q=%23PoderMutante) | N/A |
-| 47 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 48 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 49 | [#AMLOEsUnPeligroParaMexico](http://twitter.com/search?q=%23AMLOEsUnPeligroParaMexico) | N/A |
-| 50 | [#MujeresHaciendoHistoria](http://twitter.com/search?q=%23MujeresHaciendoHistoria) | N/A |
+| 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 22 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 23 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 25 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 26 | [Creed](http://twitter.com/search?q=Creed) | N/A |
+| 27 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 28 | [Kimberly Loaiza](http://twitter.com/search?q=Kimberly+Loaiza) | N/A |
+| 29 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 30 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 31 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 32 | [#TodosSomosManzanas](http://twitter.com/search?q=%23TodosSomosManzanas) | N/A |
+| 33 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 34 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
+| 35 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 36 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 
 
 

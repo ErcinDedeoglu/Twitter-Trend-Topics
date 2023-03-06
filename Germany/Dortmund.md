@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-06 07:16:05 UTC`
+📆 Last Updated: `2023-03-06 08:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 4 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 6 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 5 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
+| 6 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 7 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 8 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 8 | [#WOBSGE](http://twitter.com/search?q=%23WOBSGE) | N/A |
 | 9 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 13 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 14 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 15 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 19 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 20 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 21 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 22 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 23 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 24 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 25 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 26 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 27 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 28 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 29 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 32 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 33 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 34 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 35 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 36 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 37 | [Lasst Euch](http://twitter.com/search?q=Lasst+Euch) | N/A |
-| 38 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 39 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 40 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 41 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 43 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 44 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 45 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 46 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 47 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
-| 48 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 49 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 16 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 17 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 18 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 19 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 20 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 21 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 22 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 23 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 26 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 27 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 28 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 29 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
+| 30 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 31 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 32 | [Lasst Euch](http://twitter.com/search?q=Lasst+Euch) | N/A |
+| 33 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 34 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 35 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 36 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 37 | [Ampelkoalition](http://twitter.com/search?q=Ampelkoalition) | N/A |
+| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 39 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 40 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 41 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
+| 42 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 43 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
+| 44 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 45 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 46 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 47 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 49 | [Moin](http://twitter.com/search?q=Moin) | N/A |
 
 
 
