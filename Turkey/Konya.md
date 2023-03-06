@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-06 12:18:29 UTC`
+📆 Last Updated: `2023-03-06 13:21:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
-| 2 | [#MilletinSesiAkşener](http://twitter.com/search?q=%23MilletinSesiAk%c5%9fener) | N/A |
-| 3 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 4 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
-| 5 | [ReisKaderMahkumunaAF](http://twitter.com/search?q=ReisKaderMahkumunaAF) | N/A |
-| 6 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
-| 7 | [Telegram Maçkolik](http://twitter.com/search?q=Telegram+Ma%c3%a7kolik) | N/A |
-| 8 | [#Kabineden100BinÖğretmen](http://twitter.com/search?q=%23Kabineden100Bin%c3%96%c4%9fretmen) | N/A |
-| 9 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
-| 10 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 11 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 12 | [Olan Ersan Şen](http://twitter.com/search?q=Olan+Ersan+%c5%9een) | N/A |
-| 13 | [Demir Leydi](http://twitter.com/search?q=Demir+Leydi) | N/A |
-| 14 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
-| 15 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
-| 16 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
-| 17 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
-| 18 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
-| 19 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
-| 20 | [Noter](http://twitter.com/search?q=Noter) | N/A |
-| 21 | [Belediyeler](http://twitter.com/search?q=Belediyeler) | N/A |
-| 22 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [Sıtma](http://twitter.com/search?q=S%c4%b1tma) | N/A |
-| 25 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 26 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
-| 27 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 28 | [Burnunu](http://twitter.com/search?q=Burnunu) | N/A |
-| 29 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 30 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 31 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
-| 32 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 33 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 34 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
-| 35 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
-| 36 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
-| 37 | [Masaya](http://twitter.com/search?q=Masaya) | N/A |
-| 38 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 39 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 40 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 41 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 42 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 43 | [Kılıçdaroğlu Cumhurbaşkanı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 44 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 45 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 46 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
-| 47 | [İyi Parti'ye](http://twitter.com/search?q=%c4%b0yi+Parti%27ye) | N/A |
-| 48 | [Parlamenter](http://twitter.com/search?q=Parlamenter) | N/A |
-| 49 | [İslam Alemine](http://twitter.com/search?q=%c4%b0slam+Alemine) | N/A |
-| 50 | [Nejat](http://twitter.com/search?q=Nejat) | N/A |
+| 2 | [Namussuz Siyaset](http://twitter.com/search?q=Namussuz+Siyaset) | N/A |
+| 3 | [#MilletinSesiAkşener](http://twitter.com/search?q=%23MilletinSesiAk%c5%9fener) | N/A |
+| 4 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 5 | [Fetö Aklı](http://twitter.com/search?q=Fet%c3%b6+Akl%c4%b1) | N/A |
+| 6 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
+| 7 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
+| 8 | [ReisKaderMahkumunaAF](http://twitter.com/search?q=ReisKaderMahkumunaAF) | N/A |
+| 9 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 10 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 11 | [Kılıçdaroğlu Cumhurbaşkanı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 12 | [Demir Leydi](http://twitter.com/search?q=Demir+Leydi) | N/A |
+| 13 | [Olan Ersan Şen](http://twitter.com/search?q=Olan+Ersan+%c5%9een) | N/A |
+| 14 | [#Kabineden100BinÖğretmen](http://twitter.com/search?q=%23Kabineden100Bin%c3%96%c4%9fretmen) | N/A |
+| 15 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
+| 16 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 17 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 18 | [Noter](http://twitter.com/search?q=Noter) | N/A |
+| 19 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
+| 20 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
+| 21 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
+| 22 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 23 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
+| 24 | [Meral Hanım](http://twitter.com/search?q=Meral+Han%c4%b1m) | N/A |
+| 25 | [Güneş Motel](http://twitter.com/search?q=G%c3%bcne%c5%9f+Motel) | N/A |
+| 26 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
+| 27 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 28 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 29 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 30 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
+| 31 | [Burnunu](http://twitter.com/search?q=Burnunu) | N/A |
+| 32 | [Belediyeler](http://twitter.com/search?q=Belediyeler) | N/A |
+| 33 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
+| 34 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 35 | [CB Yardımcısı](http://twitter.com/search?q=CB+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
+| 36 | [Anayasaya](http://twitter.com/search?q=Anayasaya) | N/A |
+| 37 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 38 | [Sıtmaya](http://twitter.com/search?q=S%c4%b1tmaya) | N/A |
+| 39 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
+| 40 | [İYİ Parti Sözcüsü Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+Zorlu) | N/A |
+| 41 | [Fırıldak](http://twitter.com/search?q=F%c4%b1r%c4%b1ldak) | N/A |
+| 42 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 43 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
+| 44 | [Güntekin Onay](http://twitter.com/search?q=G%c3%bcntekin+Onay) | N/A |
+| 45 | [HER ŞEY ÇOK GÜZEL OLACAK](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+G%c3%9cZEL+OLACAK) | N/A |
+| 46 | [Birbirinize](http://twitter.com/search?q=Birbirinize) | N/A |
+| 47 | [Yasal](http://twitter.com/search?q=Yasal) | N/A |
+| 48 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 49 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 50 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
 
 
 

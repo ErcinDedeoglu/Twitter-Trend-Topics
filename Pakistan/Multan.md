@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-06 12:18:24 UTC`
+📆 Last Updated: `2023-03-06 13:21:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
 | 8 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
 | 9 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 10 | [London](http://twitter.com/search?q=London) | N/A |
-| 11 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 12 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 13 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 14 | [toshakhana](http://twitter.com/search?q=toshakhana) | N/A |
-| 15 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 19 | [sarfaraz](http://twitter.com/search?q=sarfaraz) | N/A |
-| 20 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 21 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 22 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
+| 10 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 11 | [London](http://twitter.com/search?q=London) | N/A |
+| 12 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
+| 13 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 16 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
+| 17 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 18 | [Fear](http://twitter.com/search?q=Fear) | N/A |
+| 19 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 20 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
+| 21 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 22 | [Munro](http://twitter.com/search?q=Munro) | N/A |
 | 23 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
 | 24 | [Bolan](http://twitter.com/search?q=Bolan) | N/A |
-| 25 | [SECP](http://twitter.com/search?q=SECP) | N/A |
-| 26 | [faheem ashraf](http://twitter.com/search?q=faheem+ashraf) | N/A |
-| 27 | [State Bank of Pakistan](http://twitter.com/search?q=State+Bank+of+Pakistan) | N/A |
-| 28 | [altaf](http://twitter.com/search?q=altaf) | N/A |
-| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 33 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 25 | [Altaf](http://twitter.com/search?q=Altaf) | N/A |
+| 26 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 28 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 31 | [hamza](http://twitter.com/search?q=hamza) | N/A |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [State Bank of Pakistan](http://twitter.com/search?q=State+Bank+of+Pakistan) | N/A |
 | 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 35 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
-| 36 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
-| 37 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 38 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 39 | [Post Prime Minister](http://twitter.com/search?q=Post+Prime+Minister) | N/A |
+| 36 | [SECP](http://twitter.com/search?q=SECP) | N/A |
+| 37 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 38 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 41 | [Hadiqa](http://twitter.com/search?q=Hadiqa) | N/A |
-| 42 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
-| 43 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
-| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 45 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 46 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 47 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 48 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 49 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 41 | [hadiqa](http://twitter.com/search?q=hadiqa) | N/A |
+| 42 | [Women's League](http://twitter.com/search?q=Women%27s+League) | N/A |
+| 43 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 44 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
+| 45 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 46 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 47 | [Nazar](http://twitter.com/search?q=Nazar) | N/A |
+| 48 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 49 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
 
 
 

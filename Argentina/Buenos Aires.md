@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-06 12:18:01 UTC`
+📆 Last Updated: `2023-03-06 13:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Argentina](</Argentina>)
 | 4 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 6 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 7 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
-| 8 | [Tobio](http://twitter.com/search?q=Tobio) | N/A |
-| 9 | [LUCILA](http://twitter.com/search?q=LUCILA) | N/A |
-| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [#CumpleGranix](http://twitter.com/search?q=%23CumpleGranix) | N/A |
+| 8 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
+| 9 | [Tobio](http://twitter.com/search?q=Tobio) | N/A |
+| 10 | [LUCILA](http://twitter.com/search?q=LUCILA) | N/A |
 | 11 | [GRAN ARMADO](http://twitter.com/search?q=GRAN+ARMADO) | N/A |
-| 12 | [Roberto piazza](http://twitter.com/search?q=Roberto+piazza) | N/A |
-| 13 | [davo](http://twitter.com/search?q=davo) | N/A |
+| 12 | [Roberto Piazza](http://twitter.com/search?q=Roberto+Piazza) | N/A |
+| 13 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 14 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
 | 15 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
 | 16 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
 | 17 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
 | 18 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 19 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Dady](http://twitter.com/search?q=Dady) | N/A |
-| 22 | [Niki](http://twitter.com/search?q=Niki) | N/A |
-| 23 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 24 | [Merlos](http://twitter.com/search?q=Merlos) | N/A |
-| 25 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 19 | [Axel Kicillof](http://twitter.com/search?q=Axel+Kicillof) | N/A |
+| 20 | [Dady](http://twitter.com/search?q=Dady) | N/A |
+| 21 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 22 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 23 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
 | 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 28 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 29 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 30 | [gracias valen ginocchio](http://twitter.com/search?q=gracias+valen+ginocchio) | N/A |
-| 31 | [buen domingo](http://twitter.com/search?q=buen+domingo) | N/A |
-| 32 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 33 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 34 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 36 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
-| 37 | [bruno fernández](http://twitter.com/search?q=bruno+fern%c3%a1ndez) | N/A |
-| 38 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
-| 39 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 40 | [Laucha Acosta](http://twitter.com/search?q=Laucha+Acosta) | N/A |
-| 41 | [CERUTTI](http://twitter.com/search?q=CERUTTI) | N/A |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Merlos](http://twitter.com/search?q=Merlos) | N/A |
+| 28 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 29 | [Legislatura](http://twitter.com/search?q=Legislatura) | N/A |
+| 30 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 31 | [gracias valen ginocchio](http://twitter.com/search?q=gracias+valen+ginocchio) | N/A |
+| 32 | [buen domingo](http://twitter.com/search?q=buen+domingo) | N/A |
+| 33 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 34 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
+| 35 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 36 | [bruno fernández](http://twitter.com/search?q=bruno+fern%c3%a1ndez) | N/A |
+| 37 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 38 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
+| 39 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 40 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
+| 41 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 42 | [Garro](http://twitter.com/search?q=Garro) | N/A |
 | 43 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 44 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 45 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 46 | [Garro](http://twitter.com/search?q=Garro) | N/A |
+| 44 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 45 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 46 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 47 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 48 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
-| 49 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 50 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 50 | [laucha acosta](http://twitter.com/search?q=laucha+acosta) | N/A |
 
 
 

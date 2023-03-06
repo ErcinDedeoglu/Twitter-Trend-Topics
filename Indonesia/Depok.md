@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-06 12:18:09 UTC`
+📆 Last Updated: `2023-03-06 13:21:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 2 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
-| 3 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
-| 4 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 5 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
-| 6 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 7 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
-| 8 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
-| 9 | [#TSMedia](http://twitter.com/search?q=%23TSMedia) | N/A |
-| 10 | [#ThanksGodItsFriendstivity](http://twitter.com/search?q=%23ThanksGodItsFriendstivity) | N/A |
-| 11 | [#TSX2023](http://twitter.com/search?q=%23TSX2023) | N/A |
-| 12 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
-| 13 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 2 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
+| 3 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 4 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
+| 5 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 6 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
+| 7 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
+| 8 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
+| 9 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 10 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
+| 11 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 12 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 13 | [THANK YOU MISS E](http://twitter.com/search?q=THANK+YOU+MISS+E) | N/A |
 | 14 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 15 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
-| 16 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 17 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 18 | [Satisfying](http://twitter.com/search?q=Satisfying) | N/A |
-| 19 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 20 | [Sebulan](http://twitter.com/search?q=Sebulan) | N/A |
-| 21 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 22 | [Dari SD](http://twitter.com/search?q=Dari+SD) | N/A |
-| 23 | [Modar](http://twitter.com/search?q=Modar) | N/A |
-| 24 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
-| 25 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
-| 26 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
-| 27 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 28 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 29 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 30 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 31 | [Pesilat](http://twitter.com/search?q=Pesilat) | N/A |
-| 32 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 33 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 34 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 35 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
-| 36 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 37 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
-| 38 | [JENO DAZED KOREA COVER](http://twitter.com/search?q=JENO+DAZED+KOREA+COVER) | N/A |
-| 39 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 40 | [Quality](http://twitter.com/search?q=Quality) | N/A |
-| 41 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 15 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
+| 16 | [TO DO](http://twitter.com/search?q=TO+DO) | N/A |
+| 17 | [Satisfying](http://twitter.com/search?q=Satisfying) | N/A |
+| 18 | [Firts](http://twitter.com/search?q=Firts) | N/A |
+| 19 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 20 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 21 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
+| 22 | [YO DREAM](http://twitter.com/search?q=YO+DREAM) | N/A |
+| 23 | [Lampu](http://twitter.com/search?q=Lampu) | N/A |
+| 24 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 25 | [Sebulan](http://twitter.com/search?q=Sebulan) | N/A |
+| 26 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 27 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 28 | [Modar](http://twitter.com/search?q=Modar) | N/A |
+| 29 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 30 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 31 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 32 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 33 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 34 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 35 | [Pesilat](http://twitter.com/search?q=Pesilat) | N/A |
+| 36 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 37 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 38 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
+| 39 | [respect taehyung](http://twitter.com/search?q=respect+taehyung) | N/A |
+| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 41 | [Quality](http://twitter.com/search?q=Quality) | N/A |
 | 42 | [Physical](http://twitter.com/search?q=Physical) | N/A |
 | 43 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 44 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 45 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 46 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 47 | [#O_NEW_Circle](http://twitter.com/search?q=%23O_NEW_Circle) | N/A |
-| 48 | [#나의_사계절_온유의_써클](http://twitter.com/search?q=%23%eb%82%98%ec%9d%98_%ec%82%ac%ea%b3%84%ec%a0%88_%ec%98%a8%ec%9c%a0%ec%9d%98_%ec%8d%a8%ed%81%b4) | N/A |
-| 49 | [#Groovy](http://twitter.com/search?q=%23Groovy) | N/A |
+| 44 | [#TSMedia](http://twitter.com/search?q=%23TSMedia) | N/A |
+| 45 | [#ThanksGodItsFriendstivity](http://twitter.com/search?q=%23ThanksGodItsFriendstivity) | N/A |
+| 46 | [#TSX2023](http://twitter.com/search?q=%23TSX2023) | N/A |
+| 47 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 48 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 49 | [#HYEINxLV](http://twitter.com/search?q=%23HYEINxLV) | N/A |
 
 
 

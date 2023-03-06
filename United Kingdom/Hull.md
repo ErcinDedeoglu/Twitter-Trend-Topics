@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-03-06 12:17:52 UTC`
+📆 Last Updated: `2023-03-06 13:21:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
 | 2 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 3 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 4 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 5 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 6 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 7 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 8 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 9 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
-| 10 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 11 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 12 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 13 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 14 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 15 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 16 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 17 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
-| 18 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 19 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 20 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 21 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 22 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 23 | [Scottish Apprenticeship Week](http://twitter.com/search?q=Scottish+Apprenticeship+Week) | N/A |
-| 24 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 25 | [Michelle Donelan](http://twitter.com/search?q=Michelle+Donelan) | N/A |
-| 26 | [Honours](http://twitter.com/search?q=Honours) | N/A |
-| 27 | [The Jam](http://twitter.com/search?q=The+Jam) | N/A |
-| 28 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 29 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 30 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 31 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 32 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 33 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 34 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 35 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
-| 36 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 37 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 38 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 40 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 41 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
-| 42 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 43 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 44 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 45 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 46 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
-| 47 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
-| 48 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 4 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 5 | [#SwanFlashGiveaway](http://twitter.com/search?q=%23SwanFlashGiveaway) | N/A |
+| 6 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 7 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 8 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 9 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 10 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 11 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 12 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
+| 13 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 14 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 15 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 16 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 17 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 18 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 19 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 20 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 21 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
+| 22 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 23 | [Booths](http://twitter.com/search?q=Booths) | N/A |
+| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 25 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 26 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 27 | [Scottish Apprenticeship Week](http://twitter.com/search?q=Scottish+Apprenticeship+Week) | N/A |
+| 28 | [Honours](http://twitter.com/search?q=Honours) | N/A |
+| 29 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 30 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 31 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 32 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 33 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 34 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 35 | [The Jam](http://twitter.com/search?q=The+Jam) | N/A |
+| 36 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 37 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
+| 38 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 39 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 40 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 41 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
+| 42 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 45 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 46 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 47 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 48 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
 
 
 

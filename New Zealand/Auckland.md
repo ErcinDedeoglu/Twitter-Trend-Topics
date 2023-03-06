@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-06 12:18:30 UTC`
+📆 Last Updated: `2023-03-06 13:21:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,13 +20,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
 | 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 8 | [paul henry](http://twitter.com/search?q=paul+henry) | N/A |
-| 9 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 10 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 11 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 12 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 6 | [paul henry](http://twitter.com/search?q=paul+henry) | N/A |
+| 7 | [michael wood](http://twitter.com/search?q=michael+wood) | N/A |
+| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 9 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 10 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 11 | [mclaren](http://twitter.com/search?q=mclaren) | N/A |
+| 12 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 14 | [Carterton](http://twitter.com/search?q=Carterton) | N/A |
 | 15 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 22 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
 | 23 | [best start](http://twitter.com/search?q=best+start) | N/A |
-| 24 | [beach haven](http://twitter.com/search?q=beach+haven) | N/A |
-| 25 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
-| 26 | [ncea](http://twitter.com/search?q=ncea) | N/A |
-| 27 | [Palmerston North](http://twitter.com/search?q=Palmerston+North) | N/A |
-| 28 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
+| 24 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
+| 25 | [ncea](http://twitter.com/search?q=ncea) | N/A |
+| 26 | [Palmerston North](http://twitter.com/search?q=Palmerston+North) | N/A |
+| 27 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
+| 28 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 30 | [Grasso](http://twitter.com/search?q=Grasso) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 32 | [eces](http://twitter.com/search?q=eces) | N/A |
-| 33 | [Republican](http://twitter.com/search?q=Republican) | N/A |
-| 34 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 36 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 37 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 38 | [peter williams](http://twitter.com/search?q=peter+williams) | N/A |
-| 39 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
-| 40 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
-| 41 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 42 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
-| 43 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
-| 44 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 45 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
-| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 47 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 48 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 31 | [eces](http://twitter.com/search?q=eces) | N/A |
+| 32 | [Republican](http://twitter.com/search?q=Republican) | N/A |
+| 33 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 34 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 35 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 36 | [peter williams](http://twitter.com/search?q=peter+williams) | N/A |
+| 37 | [nicola willis](http://twitter.com/search?q=nicola+willis) | N/A |
+| 38 | [paula bennett](http://twitter.com/search?q=paula+bennett) | N/A |
+| 39 | [Beach Haven](http://twitter.com/search?q=Beach+Haven) | N/A |
+| 40 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 41 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 42 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
+| 43 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 44 | [NIWA](http://twitter.com/search?q=NIWA) | N/A |
+| 45 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 46 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 47 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 48 | [Captain Cook](http://twitter.com/search?q=Captain+Cook) | N/A |
 | 49 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 50 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 50 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 
 
 

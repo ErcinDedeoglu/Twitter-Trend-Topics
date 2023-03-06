@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-06 12:18:11 UTC`
+📆 Last Updated: `2023-03-06 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 3 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 4 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 5 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 6 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 7 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 8 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 9 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 11 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 12 | [Andrew Bragg](http://twitter.com/search?q=Andrew+Bragg) | N/A |
-| 13 | [melinda](http://twitter.com/search?q=melinda) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
-| 16 | [David Hare](http://twitter.com/search?q=David+Hare) | N/A |
-| 17 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 18 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
-| 19 | [bree](http://twitter.com/search?q=bree) | N/A |
-| 20 | [perth mint](http://twitter.com/search?q=perth+mint) | N/A |
-| 21 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 22 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 3 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 6 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 7 | [#nrldolphinsroosters](http://twitter.com/search?q=%23nrldolphinsroosters) | N/A |
+| 8 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 9 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 10 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 11 | [Perth Mint](http://twitter.com/search?q=Perth+Mint) | N/A |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Cotchin](http://twitter.com/search?q=Cotchin) | N/A |
+| 14 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 15 | [Turnbull](http://twitter.com/search?q=Turnbull) | N/A |
+| 16 | [Andrew Bragg](http://twitter.com/search?q=Andrew+Bragg) | N/A |
+| 17 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 18 | [melinda](http://twitter.com/search?q=melinda) | N/A |
+| 19 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 20 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 21 | [David Hare](http://twitter.com/search?q=David+Hare) | N/A |
+| 22 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 23 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 24 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
-| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
-| 27 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 28 | [Jason McNamara](http://twitter.com/search?q=Jason+McNamara) | N/A |
-| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 24 | [Shiz](http://twitter.com/search?q=Shiz) | N/A |
+| 25 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 26 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 27 | [jason mcnamara](http://twitter.com/search?q=jason+mcnamara) | N/A |
+| 28 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 29 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 30 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 31 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 31 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
 | 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 33 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
-| 34 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 36 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 37 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 38 | [Adam Lambert](http://twitter.com/search?q=Adam+Lambert) | N/A |
-| 39 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 40 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 41 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 44 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 45 | [Redcliffe](http://twitter.com/search?q=Redcliffe) | N/A |
-| 46 | [King George](http://twitter.com/search?q=King+George) | N/A |
-| 47 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 48 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
-| 49 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
+| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 35 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 36 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 37 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 38 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 39 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 40 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 41 | [King George](http://twitter.com/search?q=King+George) | N/A |
+| 42 | [Russell Brand](http://twitter.com/search?q=Russell+Brand) | N/A |
+| 43 | [wayne bennett](http://twitter.com/search?q=wayne+bennett) | N/A |
+| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 45 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 46 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 47 | [xavier cooks](http://twitter.com/search?q=xavier+cooks) | N/A |
+| 48 | [Potato](http://twitter.com/search?q=Potato) | N/A |
+| 49 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
 
 
 

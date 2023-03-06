@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-06 12:18:29 UTC`
+📆 Last Updated: `2023-03-06 13:21:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
-| 2 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 3 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 4 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 5 | [Aminn](http://twitter.com/search?q=Aminn) | N/A |
-| 6 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
-| 7 | [#MilletinSesiAkşener](http://twitter.com/search?q=%23MilletinSesiAk%c5%9fener) | N/A |
-| 8 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 9 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 10 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
-| 11 | [ReisKaderMahkumunaAF](http://twitter.com/search?q=ReisKaderMahkumunaAF) | N/A |
-| 12 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
-| 13 | [Telegram Maçkolik](http://twitter.com/search?q=Telegram+Ma%c3%a7kolik) | N/A |
-| 14 | [Cumhurbaşkanı Yardımcısı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
-| 15 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 16 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 17 | [Olan Ersan Şen](http://twitter.com/search?q=Olan+Ersan+%c5%9een) | N/A |
-| 18 | [Demir Leydi](http://twitter.com/search?q=Demir+Leydi) | N/A |
-| 19 | [Yavaş](http://twitter.com/search?q=Yava%c5%9f) | N/A |
-| 20 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 1 | [Fetö Aklı](http://twitter.com/search?q=Fet%c3%b6+Akl%c4%b1) | N/A |
+| 2 | [Ankara](http://twitter.com/search?q=Ankara) | Ankara is the capital city of Turkey. It is located in the central part of the country and is home to over 5 million people. The name Ankara comes from the Hittite word Ankuwash, which means "anchor." In English, Ankara can be translated to mean "anchor city." |
+| 3 | [AKP'ye](http://twitter.com/search?q=AKP%27ye) | N/A |
+| 4 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 5 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 6 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
+| 7 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
+| 8 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
+| 9 | [Dönme](http://twitter.com/search?q=D%c3%b6nme) | N/A |
+| 10 | [İyi Parti'ye](http://twitter.com/search?q=%c4%b0yi+Parti%27ye) | N/A |
+| 11 | [Enver](http://twitter.com/search?q=Enver) | N/A |
+| 12 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
+| 13 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
+| 14 | [Ağla](http://twitter.com/search?q=A%c4%9fla) | N/A |
+| 15 | [Komedi](http://twitter.com/search?q=Komedi) | N/A |
+| 16 | [Aminn](http://twitter.com/search?q=Aminn) | N/A |
+| 17 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
+| 18 | [Namussuz Siyaset](http://twitter.com/search?q=Namussuz+Siyaset) | N/A |
+| 19 | [#MilletinSesiAkşener](http://twitter.com/search?q=%23MilletinSesiAk%c5%9fener) | N/A |
+| 20 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
 | 21 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
-| 22 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
-| 23 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
-| 24 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
-| 25 | [Noter](http://twitter.com/search?q=Noter) | N/A |
-| 26 | [Belediyeler](http://twitter.com/search?q=Belediyeler) | N/A |
-| 27 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 28 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 29 | [Sıtma](http://twitter.com/search?q=S%c4%b1tma) | N/A |
-| 30 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 31 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
-| 32 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 33 | [Burnunu](http://twitter.com/search?q=Burnunu) | N/A |
-| 34 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
-| 35 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 36 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
-| 37 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 38 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
-| 39 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
-| 40 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
-| 41 | [Masaya](http://twitter.com/search?q=Masaya) | N/A |
-| 42 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 43 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 44 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 45 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 46 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 47 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 48 | [Kılıçdaroğlu Cumhurbaşkanı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 49 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 50 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
+| 22 | [ReisKaderMahkumunaAF](http://twitter.com/search?q=ReisKaderMahkumunaAF) | N/A |
+| 23 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 24 | [Kılıçdaroğlu Cumhurbaşkanı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 25 | [Demir Leydi](http://twitter.com/search?q=Demir+Leydi) | N/A |
+| 26 | [Olan Ersan Şen](http://twitter.com/search?q=Olan+Ersan+%c5%9een) | N/A |
+| 27 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 28 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 29 | [Noter](http://twitter.com/search?q=Noter) | N/A |
+| 30 | [Yüreklerimiz Bir](http://twitter.com/search?q=Y%c3%bcreklerimiz+Bir) | N/A |
+| 31 | [İYİ Parti Sözcüsü Kürşad Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+K%c3%bcr%c5%9fad+Zorlu) | N/A |
+| 32 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 33 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
+| 34 | [Meral Hanım](http://twitter.com/search?q=Meral+Han%c4%b1m) | N/A |
+| 35 | [Güneş Motel](http://twitter.com/search?q=G%c3%bcne%c5%9f+Motel) | N/A |
+| 36 | [İsmail Küçükkaya](http://twitter.com/search?q=%c4%b0smail+K%c3%bc%c3%a7%c3%bckkaya) | N/A |
+| 37 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 38 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 39 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 40 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
+| 41 | [Burnunu](http://twitter.com/search?q=Burnunu) | N/A |
+| 42 | [Belediyeler](http://twitter.com/search?q=Belediyeler) | N/A |
+| 43 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
+| 44 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 45 | [CB Yardımcısı](http://twitter.com/search?q=CB+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
+| 46 | [Anayasaya](http://twitter.com/search?q=Anayasaya) | N/A |
+| 47 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 48 | [Sıtmaya](http://twitter.com/search?q=S%c4%b1tmaya) | N/A |
+| 49 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
+| 50 | [İYİ Parti Sözcüsü Zorlu](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti+S%c3%b6zc%c3%bcs%c3%bc+Zorlu) | N/A |
 
 
 
