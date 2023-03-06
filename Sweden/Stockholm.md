@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-06 21:16:51 UTC`
+📆 Last Updated: `2023-03-06 23:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 2 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
-| 3 | [Rydahl](http://twitter.com/search?q=Rydahl) | N/A |
-| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 5 | [Gnaget](http://twitter.com/search?q=Gnaget) | N/A |
-| 6 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 7 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 8 | [Tingsryd](http://twitter.com/search?q=Tingsryd) | N/A |
+| 2 | [Rydahl](http://twitter.com/search?q=Rydahl) | N/A |
+| 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 4 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 5 | [Kungsholmen](http://twitter.com/search?q=Kungsholmen) | N/A |
+| 6 | [Kalmar](http://twitter.com/search?q=Kalmar) | N/A |
+| 7 | [Hesa Fredrik](http://twitter.com/search?q=Hesa+Fredrik) | N/A |
+| 8 | [Alex Schulman](http://twitter.com/search?q=Alex+Schulman) | N/A |
 | 9 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
-| 10 | [Alex Schulman](http://twitter.com/search?q=Alex+Schulman) | N/A |
-| 11 | [Hesa Fredrik](http://twitter.com/search?q=Hesa+Fredrik) | N/A |
-| 12 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
-| 13 | [Varberg](http://twitter.com/search?q=Varberg) | N/A |
-| 14 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 15 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 16 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
-| 17 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 18 | [Måndag](http://twitter.com/search?q=M%c3%a5ndag) | N/A |
-| 19 | [Bodström](http://twitter.com/search?q=Bodstr%c3%b6m) | N/A |
-| 20 | [Skytteholm](http://twitter.com/search?q=Skytteholm) | N/A |
-| 21 | [emil persson](http://twitter.com/search?q=emil+persson) | N/A |
-| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 23 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [#IndyCar](http://twitter.com/search?q=%23IndyCar) | N/A |
-| 26 | [giffarna](http://twitter.com/search?q=giffarna) | N/A |
-| 27 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 28 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 29 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
-| 30 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 31 | [Telia](http://twitter.com/search?q=Telia) | N/A |
-| 32 | [Kärnkraft](http://twitter.com/search?q=K%c3%a4rnkraft) | N/A |
-| 33 | [Mild](http://twitter.com/search?q=Mild) | N/A |
-| 34 | [Moise Kean](http://twitter.com/search?q=Moise+Kean) | N/A |
-| 35 | [Sundsvall](http://twitter.com/search?q=Sundsvall) | N/A |
-| 36 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
-| 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 39 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 40 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
-| 41 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 42 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 43 | [Bollnäs](http://twitter.com/search?q=Bolln%c3%a4s) | N/A |
-| 44 | [bångsbo](http://twitter.com/search?q=b%c3%a5ngsbo) | N/A |
-| 45 | [hausner](http://twitter.com/search?q=hausner) | N/A |
-| 46 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | N/A |
-| 47 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
-| 48 | [Söndag](http://twitter.com/search?q=S%c3%b6ndag) | N/A |
-| 49 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 50 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
+| 10 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
+| 11 | [Tingsryd](http://twitter.com/search?q=Tingsryd) | N/A |
+| 12 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
+| 13 | [Gnaget](http://twitter.com/search?q=Gnaget) | N/A |
+| 14 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
+| 15 | [Varberg](http://twitter.com/search?q=Varberg) | N/A |
+| 16 | [emil persson](http://twitter.com/search?q=emil+persson) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 19 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
+| 20 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 21 | [Jetmir Haliti](http://twitter.com/search?q=Jetmir+Haliti) | N/A |
+| 22 | [giffarna](http://twitter.com/search?q=giffarna) | N/A |
+| 23 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 24 | [Skytteholm](http://twitter.com/search?q=Skytteholm) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Söndag](http://twitter.com/search?q=S%c3%b6ndag) | N/A |
+| 27 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 28 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 29 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 30 | [Kärnkraft](http://twitter.com/search?q=K%c3%a4rnkraft) | N/A |
+| 31 | [Bodström](http://twitter.com/search?q=Bodstr%c3%b6m) | N/A |
+| 32 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 33 | [Moise Kean](http://twitter.com/search?q=Moise+Kean) | N/A |
+| 34 | [fredrik malm](http://twitter.com/search?q=fredrik+malm) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Telia](http://twitter.com/search?q=Telia) | N/A |
+| 37 | [Lördag](http://twitter.com/search?q=L%c3%b6rdag) | N/A |
+| 38 | [Måndag](http://twitter.com/search?q=M%c3%a5ndag) | N/A |
+| 39 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 40 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
+| 41 | [Axfood](http://twitter.com/search?q=Axfood) | N/A |
+| 42 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
+| 43 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 44 | [Mild](http://twitter.com/search?q=Mild) | N/A |
+| 45 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 46 | [bångsbo](http://twitter.com/search?q=b%c3%a5ngsbo) | N/A |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 48 | [hausner](http://twitter.com/search?q=hausner) | N/A |
+| 49 | [Hjorthagen](http://twitter.com/search?q=Hjorthagen) | N/A |
+| 50 | [#ATEEZinCopenhagen](http://twitter.com/search?q=%23ATEEZinCopenhagen) | N/A |
 
 
 

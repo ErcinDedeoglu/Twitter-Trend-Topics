@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-06 21:17:27 UTC`
+📆 Last Updated: `2023-03-06 23:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 3 | [#Avenir](http://twitter.com/search?q=%23Avenir) | N/A |
-| 4 | [Swan](http://twitter.com/search?q=Swan) | N/A |
-| 5 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 6 | [#SMCFCSM](http://twitter.com/search?q=%23SMCFCSM) | N/A |
-| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 8 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 9 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 10 | [Thorfinn](http://twitter.com/search?q=Thorfinn) | N/A |
-| 11 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 12 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 13 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 14 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 15 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 18 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 19 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 20 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
-| 21 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
-| 22 | [Elisabeth Borne](http://twitter.com/search?q=Elisabeth+Borne) | N/A |
-| 23 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 24 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
-| 25 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
-| 26 | [Valérie](http://twitter.com/search?q=Val%c3%a9rie) | N/A |
-| 27 | [Pecresse](http://twitter.com/search?q=Pecresse) | N/A |
-| 28 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 29 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 30 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 31 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 32 | [Florent Pagny](http://twitter.com/search?q=Florent+Pagny) | N/A |
-| 33 | [#raom](http://twitter.com/search?q=%23raom) | N/A |
-| 34 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 35 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
-| 36 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
-| 37 | [#CaVous](http://twitter.com/search?q=%23CaVous) | N/A |
-| 38 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 39 | [#VHive2023](http://twitter.com/search?q=%23VHive2023) | N/A |
-| 40 | [#GreveReconductible](http://twitter.com/search?q=%23GreveReconductible) | N/A |
-| 41 | [#7mars2023](http://twitter.com/search?q=%237mars2023) | N/A |
-| 42 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
-| 43 | [#ChangeUneIdentité](http://twitter.com/search?q=%23ChangeUneIdentit%c3%a9) | N/A |
-| 44 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 45 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
-| 46 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
-| 47 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
-| 48 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 49 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 50 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
+| 2 | [#Avenir](http://twitter.com/search?q=%23Avenir) | N/A |
+| 3 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
+| 4 | [#SRFCOM](http://twitter.com/search?q=%23SRFCOM) | N/A |
+| 5 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 6 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 7 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 9 | [Swan](http://twitter.com/search?q=Swan) | N/A |
+| 10 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 11 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 12 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 13 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 14 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
+| 15 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 16 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Maxime Biaggi](http://twitter.com/search?q=Maxime+Biaggi) | N/A |
+| 19 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
+| 20 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 21 | [Guide Michelin](http://twitter.com/search?q=Guide+Michelin) | N/A |
+| 22 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
+| 23 | [Grévin](http://twitter.com/search?q=Gr%c3%a9vin) | N/A |
+| 24 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 25 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 27 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 28 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
+| 29 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
+| 30 | [Thorfinn](http://twitter.com/search?q=Thorfinn) | N/A |
+| 31 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 32 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
+| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 34 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
+| 35 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 36 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 37 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 38 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 39 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
+| 40 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 41 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 42 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
+| 43 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 44 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 45 | [Fernand](http://twitter.com/search?q=Fernand) | N/A |
+| 46 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
+| 47 | [Pierre Palmade](http://twitter.com/search?q=Pierre+Palmade) | N/A |
+| 48 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 49 | [Serge Halimi](http://twitter.com/search?q=Serge+Halimi) | N/A |
+| 50 | [Dragibus](http://twitter.com/search?q=Dragibus) | N/A |
 
 
 

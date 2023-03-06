@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-06 21:16:40 UTC`
+📆 Last Updated: `2023-03-06 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,48 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 2 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
-| 3 | [#Kitsunenacdanjos](http://twitter.com/search?q=%23Kitsunenacdanjos) | N/A |
-| 4 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 5 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 6 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 7 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 8 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 9 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
-| 12 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
-| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 14 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 15 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 16 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 17 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
-| 18 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 19 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 20 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 21 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 22 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 23 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
-| 24 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 25 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 26 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 27 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 28 | [#bailedajapa](http://twitter.com/search?q=%23bailedajapa) | N/A |
-| 29 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
-| 30 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 31 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 32 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 34 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 35 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
-| 38 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 39 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 41 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 42 | [renata celi](http://twitter.com/search?q=renata+celi) | N/A |
-| 43 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 44 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 45 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 46 | [Vasco x Bangu](http://twitter.com/search?q=Vasco+x+Bangu) | N/A |
+| 1 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 2 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 3 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 4 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 5 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 6 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 7 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 8 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 9 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 10 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 11 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
+| 12 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 13 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
+| 14 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 15 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 16 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 17 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 18 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 19 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 20 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 21 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
+| 22 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 23 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 24 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 25 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
+| 26 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
+| 27 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 28 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
+| 29 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 30 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 31 | [aegyo](http://twitter.com/search?q=aegyo) | N/A |
+| 32 | [Capitão Hipoglós](http://twitter.com/search?q=Capit%c3%a3o+Hipogl%c3%b3s) | N/A |
+| 33 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 34 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
+| 35 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 36 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
+| 37 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 38 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 39 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 40 | [Carnaval de Porto Alegre](http://twitter.com/search?q=Carnaval+de+Porto+Alegre) | N/A |
+| 41 | [Cody Fern](http://twitter.com/search?q=Cody+Fern) | N/A |
+| 42 | [Ikki](http://twitter.com/search?q=Ikki) | N/A |
 
 
 

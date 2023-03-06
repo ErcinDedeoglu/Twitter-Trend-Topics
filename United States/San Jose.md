@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-06 21:17:22 UTC`
+📆 Last Updated: `2023-03-06 23:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 2 | [New Orleans](http://twitter.com/search?q=New+Orleans) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 5 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 6 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 7 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 10 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 12 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [#MutantMayhem](http://twitter.com/search?q=%23MutantMayhem) | N/A |
+| 3 | [New Orleans](http://twitter.com/search?q=New+Orleans) | N/A |
+| 4 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 5 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 6 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 7 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 8 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 9 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 10 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 11 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 12 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
 | 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 14 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 14 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 15 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 18 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 19 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 20 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 21 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 22 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 23 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 24 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
-| 25 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 26 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 28 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
-| 29 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 30 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 31 | [Veach](http://twitter.com/search?q=Veach) | N/A |
-| 32 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 33 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 34 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 35 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
-| 36 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 37 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 38 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
-| 39 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 40 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 41 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 42 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 43 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 44 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 45 | [Chosen Anderson](http://twitter.com/search?q=Chosen+Anderson) | N/A |
-| 46 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 47 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 48 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 49 | [All-SEC](http://twitter.com/search?q=All-SEC) | N/A |
+| 16 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 17 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
+| 18 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 19 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 20 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 21 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
+| 22 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 23 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 25 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 28 | [All-ACC](http://twitter.com/search?q=All-ACC) | N/A |
+| 29 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
+| 30 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
+| 31 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 32 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 33 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
+| 34 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
+| 35 | [Veach](http://twitter.com/search?q=Veach) | N/A |
+| 36 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 37 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 38 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 39 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
+| 40 | [Congrats Claire](http://twitter.com/search?q=Congrats+Claire) | N/A |
+| 41 | [Bob Ross](http://twitter.com/search?q=Bob+Ross) | N/A |
+| 42 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
+| 43 | [Arch](http://twitter.com/search?q=Arch) | N/A |
+| 44 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 45 | [Tony Granato](http://twitter.com/search?q=Tony+Granato) | N/A |
+| 46 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 47 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 48 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 49 | [Jeff Capel](http://twitter.com/search?q=Jeff+Capel) | N/A |
 
 
 

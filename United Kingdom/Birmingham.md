@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-06 21:16:29 UTC`
+📆 Last Updated: `2023-03-06 23:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 2 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 3 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
-| 4 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 5 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 6 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 7 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
-| 8 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 9 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
-| 10 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
-| 11 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 12 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 13 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 14 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 15 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Karen Carney](http://twitter.com/search?q=Karen+Carney) | N/A |
-| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 19 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 20 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 21 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 22 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 23 | [Jonathan Gullis](http://twitter.com/search?q=Jonathan+Gullis) | N/A |
-| 24 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 25 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 26 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 27 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 28 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 29 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 31 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 32 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 33 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 34 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
-| 35 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 36 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 37 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 38 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
-| 39 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 40 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 41 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 42 | [Chag Purim Sameach](http://twitter.com/search?q=Chag+Purim+Sameach) | N/A |
-| 43 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 44 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 45 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
+| 1 | [Priscilla](http://twitter.com/search?q=Priscilla) | Priscilla is a female given name of Latin origin, derived from the word "priscus" meaning "ancient". It is often associated with the biblical character Priscilla, a woman who helped spread Christianity in the first century. |
+| 2 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 3 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 4 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 5 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
+| 6 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 7 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 8 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 9 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 10 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 11 | [#InternationalWomensDay2023](http://twitter.com/search?q=%23InternationalWomensDay2023) | N/A |
+| 12 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 13 | [#BritishPieWeek](http://twitter.com/search?q=%23BritishPieWeek) | N/A |
+| 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 15 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 16 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 17 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 18 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 19 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 20 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
+| 21 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 22 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 23 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 24 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 25 | [Rubik’s cube](http://twitter.com/search?q=Rubik%e2%80%99s+cube) | N/A |
+| 26 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 27 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
+| 28 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 29 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
+| 30 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
+| 31 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 32 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 33 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 34 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 36 | [Damsgaard](http://twitter.com/search?q=Damsgaard) | N/A |
+| 37 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 38 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 39 | [Diop](http://twitter.com/search?q=Diop) | N/A |
+| 40 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 41 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 42 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 45 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 46 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
 
 
 

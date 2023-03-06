@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-06 21:16:41 UTC`
+📆 Last Updated: `2023-03-06 23:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 2 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 3 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
-| 4 | [#Kitsunenacdanjos](http://twitter.com/search?q=%23Kitsunenacdanjos) | N/A |
-| 5 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 6 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 7 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 8 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 1 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
+| 2 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 3 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 4 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 5 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 6 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 7 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 8 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
 | 9 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 10 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 11 | [Jaboatão](http://twitter.com/search?q=Jaboat%c3%a3o) | N/A |
-| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 13 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
-| 14 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 15 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 16 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 17 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 18 | [CAOS PERFEITO](http://twitter.com/search?q=CAOS+PERFEITO) | N/A |
-| 19 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 20 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 21 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 22 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 23 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 24 | [Sinceridade](http://twitter.com/search?q=Sinceridade) | N/A |
-| 25 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 26 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 27 | [Aranhaverso](http://twitter.com/search?q=Aranhaverso) | N/A |
-| 28 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 29 | [#bailedajapa](http://twitter.com/search?q=%23bailedajapa) | N/A |
-| 30 | [Boa Viagem](http://twitter.com/search?q=Boa+Viagem) | N/A |
-| 31 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 32 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 33 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 35 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 36 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 38 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
-| 39 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 40 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 41 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 42 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 43 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 44 | [renata celi](http://twitter.com/search?q=renata+celi) | N/A |
-| 45 | [flora matos](http://twitter.com/search?q=flora+matos) | N/A |
-| 46 | [kayblack](http://twitter.com/search?q=kayblack) | N/A |
-| 47 | [Vasco x Bangu](http://twitter.com/search?q=Vasco+x+Bangu) | N/A |
-| 48 | [Samuel Venâncio](http://twitter.com/search?q=Samuel+Ven%c3%a2ncio) | N/A |
+| 10 | [#kitsunenacdanjos](http://twitter.com/search?q=%23kitsunenacdanjos) | N/A |
+| 11 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 12 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 13 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 14 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 15 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
+| 16 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 17 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
+| 18 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 19 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 20 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 21 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 22 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 23 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 24 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 25 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
+| 26 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 27 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 28 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
+| 29 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 30 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
+| 31 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 32 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
+| 33 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 34 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 35 | [aegyo](http://twitter.com/search?q=aegyo) | N/A |
+| 36 | [Capitão Hipoglós](http://twitter.com/search?q=Capit%c3%a3o+Hipogl%c3%b3s) | N/A |
+| 37 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 38 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
+| 39 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 40 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
+| 41 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 42 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
+| 43 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
+| 44 | [Carnaval de Porto Alegre](http://twitter.com/search?q=Carnaval+de+Porto+Alegre) | N/A |
+| 45 | [Cody Fern](http://twitter.com/search?q=Cody+Fern) | N/A |
+| 46 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 47 | [Ikki](http://twitter.com/search?q=Ikki) | N/A |
+| 48 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
 
 
 

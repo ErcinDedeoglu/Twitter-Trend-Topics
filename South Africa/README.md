@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-06 21:17:31 UTC`
+📆 Last Updated: `2023-03-06 23:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,55 @@ This is top 50 for South Africa
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
-| 2 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 3 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 4 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 5 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 6 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 7 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
-| 8 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 9 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
-| 10 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
-| 11 | [#umkhokha](http://twitter.com/search?q=%23umkhokha) | N/A |
-| 12 | [#ReaTsotellaMonday](http://twitter.com/search?q=%23ReaTsotellaMonday) | N/A |
-| 13 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 14 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
-| 15 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
-| 16 | [Youth](http://twitter.com/search?q=Youth) | N/A |
-| 17 | [#MTVLHHSA](http://twitter.com/search?q=%23MTVLHHSA) | N/A |
-| 18 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 19 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 20 | [Presidency](http://twitter.com/search?q=Presidency) | N/A |
-| 21 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
-| 22 | [Sports](http://twitter.com/search?q=Sports) | N/A |
-| 23 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
-| 24 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
-| 25 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
-| 26 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 27 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 28 | [The President](http://twitter.com/search?q=The+President) | N/A |
-| 29 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 30 | [Dali](http://twitter.com/search?q=Dali) | N/A |
-| 31 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
-| 32 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 33 | [Cassper](http://twitter.com/search?q=Cassper) | N/A |
-| 34 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 35 | [KHOSI MVP TWALA](http://twitter.com/search?q=KHOSI+MVP+TWALA) | N/A |
-| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 37 | [#UltraSAxStorm](http://twitter.com/search?q=%23UltraSAxStorm) | N/A |
-| 38 | [#PhalaPhalaFarm](http://twitter.com/search?q=%23PhalaPhalaFarm) | N/A |
+| 2 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
+| 3 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
+| 7 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 8 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 9 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
+| 10 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 11 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
+| 12 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
+| 13 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 14 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 15 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 16 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 17 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 18 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
+| 19 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 20 | [#umkhokha](http://twitter.com/search?q=%23umkhokha) | N/A |
+| 21 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 22 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 23 | [#mccafemotivationalmonday](http://twitter.com/search?q=%23mccafemotivationalmonday) | N/A |
+| 24 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
+| 25 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 28 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 29 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 30 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 33 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 34 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 35 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 36 | [Kgosientsho Ramokgopa](http://twitter.com/search?q=Kgosientsho+Ramokgopa) | N/A |
+| 37 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 38 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 39 | [Ministry](http://twitter.com/search?q=Ministry) | N/A |
+| 40 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 41 | [pabi cooper](http://twitter.com/search?q=pabi+cooper) | N/A |
+| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 43 | [load a buddy](http://twitter.com/search?q=load+a+buddy) | N/A |
+| 44 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 45 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
+| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 48 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 49 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 50 | [Public Protector](http://twitter.com/search?q=Public+Protector) | N/A |
 
 
 

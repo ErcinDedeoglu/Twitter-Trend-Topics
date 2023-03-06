@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-06 21:16:47 UTC`
+📆 Last Updated: `2023-03-06 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fedez](http://twitter.com/search?q=%23fedez) | N/A |
-| 2 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 3 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 4 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 5 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 3 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 4 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 5 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
 | 6 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 7 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 8 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 9 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 10 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 11 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 12 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 13 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 14 | [Centrale](http://twitter.com/search?q=Centrale) | N/A |
-| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 16 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
-| 17 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 18 | [Piero](http://twitter.com/search?q=Piero) | N/A |
-| 19 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 22 | [De Laurentiis](http://twitter.com/search?q=De+Laurentiis) | N/A |
-| 23 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 24 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 25 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 26 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 27 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 28 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 29 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 30 | [#infiniteVolte](http://twitter.com/search?q=%23infiniteVolte) | N/A |
-| 31 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
-| 32 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
-| 33 | [#TorinoBologna](http://twitter.com/search?q=%23TorinoBologna) | N/A |
-| 34 | [#Milano](http://twitter.com/search?q=%23Milano) | N/A |
-| 35 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 36 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 37 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 38 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 39 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
-| 40 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 41 | [#SassuoloCremonese](http://twitter.com/search?q=%23SassuoloCremonese) | N/A |
-| 42 | [#GenoaCosenza](http://twitter.com/search?q=%23GenoaCosenza) | N/A |
-| 43 | [#sigarette](http://twitter.com/search?q=%23sigarette) | N/A |
-| 44 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
-| 45 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 46 | [#fuoridonnamaria](http://twitter.com/search?q=%23fuoridonnamaria) | N/A |
-| 47 | [#redditodicittadinanza](http://twitter.com/search?q=%23redditodicittadinanza) | N/A |
-| 48 | [#Mediaset](http://twitter.com/search?q=%23Mediaset) | N/A |
-| 49 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 50 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 7 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 8 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 9 | [Oriana e Antonella](http://twitter.com/search?q=Oriana+e+Antonella) | N/A |
+| 10 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 11 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 12 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 13 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 14 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 15 | [Luigi Alfredo](http://twitter.com/search?q=Luigi+Alfredo) | N/A |
+| 16 | [Maria Antonietta](http://twitter.com/search?q=Maria+Antonietta) | N/A |
+| 17 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
+| 18 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
+| 19 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
+| 20 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 21 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 22 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 23 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 24 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 25 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 26 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 27 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 28 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 29 | [#TorinoBologna](http://twitter.com/search?q=%23TorinoBologna) | N/A |
+| 30 | [#fedez](http://twitter.com/search?q=%23fedez) | N/A |
+| 31 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 32 | [#infiniteVolte](http://twitter.com/search?q=%23infiniteVolte) | N/A |
+| 33 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
+| 34 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
+| 35 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 36 | [#Karamoh](http://twitter.com/search?q=%23Karamoh) | N/A |
+| 37 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
+| 38 | [#grandefratellovip7](http://twitter.com/search?q=%23grandefratellovip7) | N/A |
+| 39 | [#Serracchiani](http://twitter.com/search?q=%23Serracchiani) | N/A |
+| 40 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 41 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
+| 42 | [#stazioneCentrale](http://twitter.com/search?q=%23stazioneCentrale) | N/A |
+| 43 | [#GenoaCosenza](http://twitter.com/search?q=%23GenoaCosenza) | N/A |
+| 44 | [#Milano](http://twitter.com/search?q=%23Milano) | N/A |
+| 45 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
+| 46 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 47 | [#fuoridonnamaria](http://twitter.com/search?q=%23fuoridonnamaria) | N/A |
+| 48 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 49 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 50 | [#sigarette](http://twitter.com/search?q=%23sigarette) | N/A |
 
 
 

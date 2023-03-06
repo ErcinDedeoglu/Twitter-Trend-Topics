@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-06 21:17:13 UTC`
+📆 Last Updated: `2023-03-06 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yunus Emre](http://twitter.com/search?q=Yunus+Emre) | N/A |
-| 2 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
-| 3 | [#BeraatGecesi](http://twitter.com/search?q=%23BeraatGecesi) | N/A |
-| 4 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
-| 5 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 6 | [#cbunikarari](http://twitter.com/search?q=%23cbunikarari) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [Ağla](http://twitter.com/search?q=A%c4%9fla) | N/A |
-| 9 | [Meralin](http://twitter.com/search?q=Meralin) | N/A |
-| 10 | [Yolumuz](http://twitter.com/search?q=Yolumuz) | N/A |
-| 11 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 12 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 13 | [#BirlikteBasaracağız](http://twitter.com/search?q=%23BirlikteBasaraca%c4%9f%c4%b1z) | N/A |
-| 14 | [Sıtma](http://twitter.com/search?q=S%c4%b1tma) | N/A |
-| 15 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 16 | [Hayırlı Olsun](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Olsun) | "Hayırlı Olsun" is a phrase used in Turkish to wish someone good luck or to congratulate them on something. It can be translated to English as "good luck" or "blessings". |
-| 17 | [Meral Mommy](http://twitter.com/search?q=Meral+Mommy) | N/A |
-| 18 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 19 | [Türkiye'nin 13](http://twitter.com/search?q=T%c3%bcrkiye%27nin+13) | N/A |
-| 20 | [Şimdiden](http://twitter.com/search?q=%c5%9eimdiden) | N/A |
-| 21 | [Kudurun](http://twitter.com/search?q=Kudurun) | N/A |
-| 22 | [#MilletinSesi](http://twitter.com/search?q=%23MilletinSesi) | N/A |
-| 23 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 24 | [Üniversite](http://twitter.com/search?q=%c3%9cniversite) | N/A |
-| 25 | [Seçimi](http://twitter.com/search?q=Se%c3%a7imi) | N/A |
-| 26 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
-| 27 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
-| 28 | [Pudra](http://twitter.com/search?q=Pudra) | N/A |
-| 29 | [Meral Akşenerin](http://twitter.com/search?q=Meral+Ak%c5%9fenerin) | N/A |
-| 30 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
-| 31 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 32 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 33 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 34 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 35 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
-| 36 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 37 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
-| 38 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 39 | [Temel Karamollaoğlu](http://twitter.com/search?q=Temel+Karamollao%c4%9flu) | N/A |
-| 40 | [GeçiciTaşeron AynıYasaya](http://twitter.com/search?q=Ge%c3%a7iciTa%c5%9feron+Ayn%c4%b1Yasaya) | N/A |
-| 41 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 42 | [Seçilirse](http://twitter.com/search?q=Se%c3%a7ilirse) | N/A |
-| 43 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
-| 44 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
-| 45 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
-| 46 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 47 | [Dilek Özçelik](http://twitter.com/search?q=Dilek+%c3%96z%c3%a7elik) | N/A |
-| 48 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
-| 49 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
-| 50 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
+| 1 | [Emir](http://twitter.com/search?q=Emir) | N/A |
+| 2 | [#MilletinSesiAksener](http://twitter.com/search?q=%23MilletinSesiAksener) | N/A |
+| 3 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 4 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
+| 5 | [#BirlikteBasaracağız](http://twitter.com/search?q=%23BirlikteBasaraca%c4%9f%c4%b1z) | N/A |
+| 6 | [#FBmaçıTV8de](http://twitter.com/search?q=%23FBma%c3%a7%c4%b1TV8de) | N/A |
+| 7 | [#TeşekkürlerKılıçdaroğlu](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 8 | [Pensilvanya](http://twitter.com/search?q=Pensilvanya) | N/A |
+| 9 | [Kudurun](http://twitter.com/search?q=Kudurun) | N/A |
+| 10 | [Pudra](http://twitter.com/search?q=Pudra) | N/A |
+| 11 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
+| 12 | [#AliBabacan](http://twitter.com/search?q=%23AliBabacan) | N/A |
+| 13 | [Üniversite](http://twitter.com/search?q=%c3%9cniversite) | N/A |
+| 14 | [Seçimi](http://twitter.com/search?q=Se%c3%a7imi) | N/A |
+| 15 | [Türkiye'nin 13](http://twitter.com/search?q=T%c3%bcrkiye%27nin+13) | N/A |
+| 16 | [Döndü](http://twitter.com/search?q=D%c3%b6nd%c3%bc) | N/A |
+| 17 | [Meral Akşenerin](http://twitter.com/search?q=Meral+Ak%c5%9fenerin) | N/A |
+| 18 | [Genel Başkanım](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m) | Genel Başkanım is a Turkish phrase that translates to "My General President" in English. It is a title of respect used to refer to the leader of an organization or political party. |
+| 19 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 20 | [Hdpkk](http://twitter.com/search?q=Hdpkk) | N/A |
+| 21 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 22 | [Hasan Öztürk](http://twitter.com/search?q=Hasan+%c3%96zt%c3%bcrk) | N/A |
+| 23 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 24 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 25 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 26 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
+| 27 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 28 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
+| 29 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 30 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
+| 31 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
+| 32 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 33 | [Seçilirse](http://twitter.com/search?q=Se%c3%a7ilirse) | N/A |
+| 34 | [GeçiciTaşeron AynıYasaya](http://twitter.com/search?q=Ge%c3%a7iciTa%c5%9feron+Ayn%c4%b1Yasaya) | N/A |
+| 35 | [Temel Karamollaoğlu](http://twitter.com/search?q=Temel+Karamollao%c4%9flu) | N/A |
+| 36 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
+| 37 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 38 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
+| 39 | [Milli](http://twitter.com/search?q=Milli) | N/A |
+| 40 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 41 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
+| 42 | [Türkiye İşçi Partisine](http://twitter.com/search?q=T%c3%bcrkiye+%c4%b0%c5%9f%c3%a7i+Partisine) | N/A |
+| 43 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 44 | [Kandil](http://twitter.com/search?q=Kandil) | N/A |
+| 45 | [Dilek Özçelik](http://twitter.com/search?q=Dilek+%c3%96z%c3%a7elik) | N/A |
+| 46 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 47 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 48 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 49 | [YEDİ DÜVEL GELSEDE](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVEL+GELSEDE) | N/A |
+| 50 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
 
 
 

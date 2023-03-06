@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-06 21:17:04 UTC`
+📆 Last Updated: `2023-03-06 23:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
-| 2 | [الموسم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 3 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
-| 4 | [علي المرمي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%85%d9%8a) | N/A |
-| 5 | [#تويتر](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 6 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
-| 7 | [وسط الهلال](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 1 | [علي اللاعبين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86) | N/A |
+| 2 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 3 | [الموسم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 4 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
+| 5 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
+| 6 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
+| 7 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
 | 8 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 9 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 10 | [الفرق الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 11 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 12 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 13 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
-| 14 | [#البزنس90](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b390) | N/A |
-| 15 | [رصيف العالم](http://twitter.com/search?q=%d8%b1%d8%b5%d9%8a%d9%81+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 16 | [#دايما_مسعود_الاول](http://twitter.com/search?q=%23%d8%af%d8%a7%d9%8a%d9%85%d8%a7_%d9%85%d8%b3%d8%b9%d9%88%d8%af_%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 17 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
-| 18 | [#البليهي_جاينكم_جاينكم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a_%d8%ac%d8%a7%d9%8a%d9%86%d9%83%d9%85_%d8%ac%d8%a7%d9%8a%d9%86%d9%83%d9%85) | N/A |
+| 9 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
+| 10 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 11 | [#البزنس90](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b390) | N/A |
+| 12 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 13 | [#تخبيب_المجتمع](http://twitter.com/search?q=%23%d8%aa%d8%ae%d8%a8%d9%8a%d8%a8_%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 14 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
+| 15 | [#زد_رصيدك42](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8342) | N/A |
+| 16 | [رصيف العالم](http://twitter.com/search?q=%d8%b1%d8%b5%d9%8a%d9%81+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 17 | [صوت عمر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%b9%d9%85%d8%b1) | N/A |
+| 18 | [فتح الهلال](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
 | 19 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
-| 20 | [فتح الهلال](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 21 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 22 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
-| 23 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 24 | [لاعبي الهلال](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 25 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 26 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
-| 27 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 28 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
+| 20 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 21 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
+| 22 | [محمد منصور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 23 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
+| 24 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 25 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 26 | [فريق دعم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%af%d8%b9%d9%85) | N/A |
+| 27 | [لاعبي الهلال](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 28 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
 | 29 | [مدير منزل](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%85%d9%86%d8%b2%d9%84) | N/A |
-| 30 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
-| 31 | [ابو ديد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%af%d9%8a%d8%af) | N/A |
-| 32 | [محمد منصور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 33 | [مروان سعدان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b3%d8%b9%d8%af%d8%a7%d9%86) | N/A |
-| 34 | [المقهوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d9%87%d9%88%d9%8a) | N/A |
-| 35 | [فريق دعم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%af%d8%b9%d9%85) | N/A |
-| 36 | [كوزمين كونترا](http://twitter.com/search?q=%d9%83%d9%88%d8%b2%d9%85%d9%8a%d9%86+%d9%83%d9%88%d9%86%d8%aa%d8%b1%d8%a7) | N/A |
-| 37 | [بدي الدحيل](http://twitter.com/search?q=%d8%a8%d8%af%d9%8a+%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
-| 38 | [نبي اسيا](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 39 | [النهايي الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
-| 40 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
-| 41 | [دفاع الهلال](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 42 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
-| 43 | [ابو الغنايم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%8a%d9%85) | N/A |
-| 44 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
-| 45 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 46 | [علي اللاعبين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86) | N/A |
-| 47 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 48 | [يشيل السفره](http://twitter.com/search?q=%d9%8a%d8%b4%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%81%d8%b1%d9%87) | N/A |
-| 49 | [الترجي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
-| 50 | [الشرطه العراقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a) | N/A |
+| 30 | [علي الخلوق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
+| 31 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 32 | [علي الغامدي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
+| 33 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 34 | [كوزمين كونترا](http://twitter.com/search?q=%d9%83%d9%88%d8%b2%d9%85%d9%8a%d9%86+%d9%83%d9%88%d9%86%d8%aa%d8%b1%d8%a7) | N/A |
+| 35 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
+| 36 | [يشيل السفره](http://twitter.com/search?q=%d9%8a%d8%b4%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%81%d8%b1%d9%87) | N/A |
+| 37 | [جماهير الهلال](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 38 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [دفاع الهلال](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 40 | [نبي اسيا](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 41 | [ابو ديد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%af%d9%8a%d8%af) | N/A |
+| 42 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
+| 43 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 44 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
+| 45 | [النهايي الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
+| 46 | [البطولات المحليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%87) | N/A |
+| 47 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
+| 48 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
+| 49 | [فهد الروقي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b1%d9%88%d9%82%d9%8a) | N/A |
+| 50 | [كريري](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
 
 
 
