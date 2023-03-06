@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-06 18:16:45 UTC`
+📆 Last Updated: `2023-03-06 19:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 3 | [Razor](http://twitter.com/search?q=Razor) | N/A |
 | 4 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 5 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 6 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 5 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 6 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
 | 7 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 8 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 9 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 10 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 11 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 9 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 10 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 11 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
 | 12 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 13 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 14 | [#JohnsInFilmsOrSongs](http://twitter.com/search?q=%23JohnsInFilmsOrSongs) | N/A |
-| 15 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 16 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 17 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 18 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 19 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 20 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 21 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 22 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 23 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 24 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 25 | [APIs](http://twitter.com/search?q=APIs) | N/A |
-| 26 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 27 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 28 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 13 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 15 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 16 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 17 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 18 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 19 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 20 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 21 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 22 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 23 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 24 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 25 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 26 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 27 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 28 | [APIs](http://twitter.com/search?q=APIs) | N/A |
 | 29 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 30 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 30 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
 | 31 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 32 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 33 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
-| 34 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
-| 35 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 36 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 37 | [Adobe](http://twitter.com/search?q=Adobe) | N/A |
-| 38 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 39 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 40 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 41 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 42 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 43 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 44 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
-| 45 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 46 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 47 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 48 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 49 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 32 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 33 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
+| 34 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 35 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 36 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 37 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 38 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 39 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 40 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 41 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 42 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
+| 43 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 44 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
+| 45 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 46 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 47 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 48 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 49 | [Grey](http://twitter.com/search?q=Grey) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-06 18:17:23 UTC`
+📆 Last Updated: `2023-03-06 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 2 | [خالد البدر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
-| 3 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 4 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 5 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
-| 6 | [#البزنس90](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b390) | N/A |
-| 7 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
-| 8 | [خليفه الدوسري](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 9 | [علي بيتروس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%8a%d8%aa%d8%b1%d9%88%d8%b3) | N/A |
-| 10 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
-| 11 | [#قرعه_كاس_الملك_سلمان_للانديه](http://twitter.com/search?q=%23%d9%82%d8%b1%d8%b9%d9%87_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 12 | [#الهلال_يفاوض_العبود](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%8a%d9%81%d8%a7%d9%88%d8%b6_%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | N/A |
-| 13 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 14 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 15 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 16 | [نجران](http://twitter.com/search?q=%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
-| 17 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 18 | [الحزم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85) | N/A |
-| 19 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 20 | [راؤول](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a4%d9%88%d9%84) | N/A |
-| 21 | [عبدالرحمن الانصاري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1%d9%8a) | N/A |
-| 22 | [جسر الملك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 23 | [الانديه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 24 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 25 | [الاتحاد العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 26 | [محمد نور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d9%88%d8%b1) | N/A |
-| 27 | [فهد الروقي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b1%d9%88%d9%82%d9%8a) | N/A |
-| 28 | [الجاكيت البني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%83%d9%8a%d8%aa+%d8%a7%d9%84%d8%a8%d9%86%d9%8a) | N/A |
-| 29 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
-| 30 | [ابو نوران](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d8%a7%d9%86) | N/A |
-| 31 | [#دار_الافتاء_المصريه](http://twitter.com/search?q=%23%d8%af%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d9%81%d8%aa%d8%a7%d8%a1_%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 32 | [#مساء_الخيرᅠ](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | N/A |
-| 33 | [#جسر_الملك_فهد](http://twitter.com/search?q=%23%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d9%81%d9%87%d8%af) | N/A |
-| 34 | [#الميراث](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%8a%d8%b1%d8%a7%d8%ab) | N/A |
-| 35 | [#رساله_اليوم](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 36 | [#زد_رصيدك42](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8342) | N/A |
-| 37 | [#ام_توفيق_تنخاكم11](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%aa%d9%88%d9%81%d9%8a%d9%82_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%8511) | N/A |
-| 38 | [#البكيري_يثير_التعصب_الرياضي3](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a_%d9%8a%d8%ab%d9%8a%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a3) | N/A |
-| 39 | [#جديدك_نديمك](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%8a%d8%af%d9%83_%d9%86%d8%af%d9%8a%d9%85%d9%83) | N/A |
-| 40 | [#حايل_الان](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 41 | [#بنات_مجد](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%a7%d8%aa_%d9%85%d8%ac%d8%af) | N/A |
-| 42 | [#الرياض_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 43 | [#رمضان_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_2023) | N/A |
-| 44 | [#وظايف_نساييه](http://twitter.com/search?q=%23%d9%88%d8%b8%d8%a7%d9%8a%d9%81_%d9%86%d8%b3%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 45 | [#مسلسل_رفاق17](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%b1%d9%81%d8%a7%d9%8217) | N/A |
-| 46 | [#السعوديه_الصين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 47 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 48 | [#افتتاح_البيت_الرومانسي_الشفاء](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad_%d8%a7%d9%84%d8%a8%d9%8a%d8%aa_%d8%a7%d9%84%d8%b1%d9%88%d9%85%d8%a7%d9%86%d8%b3%d9%8a_%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1) | N/A |
-| 49 | [#الموتمر_lلعدلي_الدولي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1_l%d9%84%d8%b9%d8%af%d9%84%d9%8a_%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 50 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
+| 2 | [#البكيري_يثير_التعصب_الرياضي3](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%83%d9%8a%d8%b1%d9%8a_%d9%8a%d8%ab%d9%8a%d8%b1_%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a3) | N/A |
+| 3 | [#تويتر](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
+| 4 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 5 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
+| 6 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 7 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
+| 8 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 9 | [#سله_رمضان_لايتام_بناء](http://twitter.com/search?q=%23%d8%b3%d9%84%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%84%d8%a7%d9%8a%d8%aa%d8%a7%d9%85_%d8%a8%d9%86%d8%a7%d8%a1) | N/A |
+| 10 | [#stcplay](http://twitter.com/search?q=%23stcplay) | N/A |
+| 11 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
+| 12 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
+| 13 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 14 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
+| 15 | [علي بيتروس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%8a%d8%aa%d8%b1%d9%88%d8%b3) | N/A |
+| 16 | [لاعبي الهلال](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 17 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
+| 18 | [مدير منزل](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%85%d9%86%d8%b2%d9%84) | N/A |
+| 19 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
+| 20 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 21 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
+| 22 | [وسط الهلال](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 23 | [الترجي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
+| 24 | [المقهوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d9%87%d9%88%d9%8a) | N/A |
+| 25 | [الشرطه العراقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a) | N/A |
+| 26 | [بن دبكه](http://twitter.com/search?q=%d8%a8%d9%86+%d8%af%d8%a8%d9%83%d9%87) | بن دبكه is an Arabic phrase that translates to "son of a donkey" and is used as an insult. |
+| 27 | [فتح الهلال](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 28 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 29 | [الورقه الرابحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d9%82%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%ad%d9%87) | N/A |
+| 30 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 31 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 32 | [حمد اليامي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%8a%d8%a7%d9%85%d9%8a) | حمد اليامي is an Arabic phrase meaning "Praise be to Allah". It is a common expression of gratitude and appreciation for the blessings of Allah. |
+| 33 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 34 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
+| 35 | [راؤول](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a4%d9%88%d9%84) | N/A |
+| 36 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 37 | [سلمان وسعود](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 38 | [الحزم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85) | N/A |
+| 39 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 40 | [الانديه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 41 | [ابن الحرام](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
+| 42 | [القوه الزرقاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d8%b2%d8%b1%d9%82%d8%a7%d8%a1) | N/A |
+| 43 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 44 | [عبدالرحمن الانصاري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d8%a7%d9%86%d8%b5%d8%a7%d8%b1%d9%8a) | N/A |
+| 45 | [جسر الملك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 46 | [محمد نور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d9%88%d8%b1) | N/A |
+| 47 | [الاتحاد العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 48 | [فهد الروقي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b1%d9%88%d9%82%d9%8a) | N/A |
+| 49 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
+| 50 | [خالد البدر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
 
 
 

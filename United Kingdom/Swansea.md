@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-06 18:16:47 UTC`
+📆 Last Updated: `2023-03-06 19:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 3 | [Razor](http://twitter.com/search?q=Razor) | N/A |
 | 4 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 5 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 6 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 5 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 6 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
 | 7 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 8 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 9 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 10 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 11 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 9 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 10 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 11 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
 | 12 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 13 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 14 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 15 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 16 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 17 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 18 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
-| 19 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 20 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 21 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 22 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 23 | [APIs](http://twitter.com/search?q=APIs) | N/A |
-| 24 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 25 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 26 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 27 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 28 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 29 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 30 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 31 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
-| 32 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
-| 33 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 34 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 35 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 36 | [Adobe](http://twitter.com/search?q=Adobe) | N/A |
-| 37 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 38 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 39 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 40 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 41 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 42 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
-| 43 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 44 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 45 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 46 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 47 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 48 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 49 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 13 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 15 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 16 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
+| 17 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 18 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 19 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 20 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 21 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 22 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 23 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 24 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 25 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 26 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
+| 27 | [APIs](http://twitter.com/search?q=APIs) | N/A |
+| 28 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 29 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
+| 30 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 31 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 32 | [National Careers Week](http://twitter.com/search?q=National+Careers+Week) | N/A |
+| 33 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 34 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 35 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 36 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 37 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 38 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 39 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 40 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 41 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
+| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 43 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 44 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 45 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 46 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 47 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 49 | [Albania](http://twitter.com/search?q=Albania) | N/A |
 
 
 
