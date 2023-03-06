@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-06 17:16:35 UTC`
+📆 Last Updated: `2023-03-06 18:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
-| 2 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 3 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 4 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 5 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 6 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 7 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 8 | [#JohnsInFilmsOrSongs](http://twitter.com/search?q=%23JohnsInFilmsOrSongs) | N/A |
-| 9 | [#SwanFlashGiveaway](http://twitter.com/search?q=%23SwanFlashGiveaway) | N/A |
-| 10 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 11 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 12 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 13 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
-| 14 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 15 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 16 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
-| 17 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
-| 18 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 19 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 20 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 21 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
-| 22 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 2 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 3 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 4 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 6 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 9 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 10 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 11 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 12 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 13 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 14 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 15 | [#JohnsInFilmsOrSongs](http://twitter.com/search?q=%23JohnsInFilmsOrSongs) | N/A |
+| 16 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 17 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 18 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 19 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 20 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 21 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 22 | [Nikki](http://twitter.com/search?q=Nikki) | N/A |
 | 23 | [Waterstones](http://twitter.com/search?q=Waterstones) | N/A |
-| 24 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
-| 25 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 26 | [The Met Office](http://twitter.com/search?q=The+Met+Office) | N/A |
-| 27 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 28 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
-| 29 | [Adobe](http://twitter.com/search?q=Adobe) | N/A |
-| 30 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 31 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 32 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
-| 33 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 34 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 35 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 36 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 37 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 38 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 39 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 40 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 41 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 42 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 43 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 44 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 45 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 46 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 47 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 48 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 49 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 24 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 25 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 26 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
+| 27 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
+| 28 | [APIs](http://twitter.com/search?q=APIs) | N/A |
+| 29 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 30 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 31 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 32 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 33 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 34 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 35 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 36 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
+| 37 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 38 | [Adobe](http://twitter.com/search?q=Adobe) | N/A |
+| 39 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 40 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 41 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 42 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 43 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 44 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 45 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
+| 46 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 47 | [The FA](http://twitter.com/search?q=The+FA) | N/A |
+| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 49 | [Albania](http://twitter.com/search?q=Albania) | N/A |
 
 
 

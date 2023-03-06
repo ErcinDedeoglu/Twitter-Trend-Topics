@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-06 17:17:07 UTC`
+📆 Last Updated: `2023-03-06 18:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
-| 2 | [#멜로디의_우주_현식이의_생일날](http://twitter.com/search?q=%23%eb%a9%9c%eb%a1%9c%eb%94%94%ec%9d%98_%ec%9a%b0%ec%a3%bc_%ed%98%84%ec%8b%9d%ec%9d%b4%ec%9d%98_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 3 | [#BrightestStarHyunsikDay](http://twitter.com/search?q=%23BrightestStarHyunsikDay) | N/A |
-| 4 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 5 | [BGYO TWITTER COMEBACK](http://twitter.com/search?q=BGYO+TWITTER+COMEBACK) | N/A |
-| 6 | [#ROVER_TeaserImage3](http://twitter.com/search?q=%23ROVER_TeaserImage3) | N/A |
+| 1 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 3 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 4 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
+| 5 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
+| 6 | [BGYO TWITTER COMEBACK](http://twitter.com/search?q=BGYO+TWITTER+COMEBACK) | N/A |
 | 7 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 8 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 9 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 10 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
-| 11 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
-| 12 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 13 | [eunbi](http://twitter.com/search?q=eunbi) | N/A |
-| 14 | [YOON JEONGHAN](http://twitter.com/search?q=YOON+JEONGHAN) | N/A |
-| 15 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
-| 16 | [Dost](http://twitter.com/search?q=Dost) | N/A |
-| 17 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
-| 18 | [HYEIN AT PARIS FASHION WEEK](http://twitter.com/search?q=HYEIN+AT+PARIS+FASHION+WEEK) | N/A |
-| 19 | [luda](http://twitter.com/search?q=luda) | N/A |
-| 20 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 21 | [TO DO IS BACK](http://twitter.com/search?q=TO+DO+IS+BACK) | N/A |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 24 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 27 | [#PreorderJISOOsoloNOW](http://twitter.com/search?q=%23PreorderJISOOsoloNOW) | N/A |
-| 28 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
-| 29 | [#ArcticMonkeysManila](http://twitter.com/search?q=%23ArcticMonkeysManila) | N/A |
-| 30 | [#BingBingMine](http://twitter.com/search?q=%23BingBingMine) | N/A |
-| 31 | [#DLFoolingAround](http://twitter.com/search?q=%23DLFoolingAround) | N/A |
-| 32 | [#LVFW23](http://twitter.com/search?q=%23LVFW23) | N/A |
-| 33 | [#UrdujaPagsabog](http://twitter.com/search?q=%23UrdujaPagsabog) | N/A |
-| 34 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 35 | [#HYEINxLV](http://twitter.com/search?q=%23HYEINxLV) | N/A |
-| 36 | [#7YearsWithTheRidleys](http://twitter.com/search?q=%237YearsWithTheRidleys) | N/A |
-| 37 | [#enhypen_jake](http://twitter.com/search?q=%23enhypen_jake) | N/A |
-| 38 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
-| 39 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 40 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 41 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 42 | [#DavidLicaucoAbra](http://twitter.com/search?q=%23DavidLicaucoAbra) | N/A |
-| 43 | [#DAVIDxCongressNightAbra](http://twitter.com/search?q=%23DAVIDxCongressNightAbra) | N/A |
+| 8 | [#NoToPUVPhaseout](http://twitter.com/search?q=%23NoToPUVPhaseout) | N/A |
+| 9 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 10 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 11 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 12 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 13 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
+| 14 | [LEE HEESEUNG](http://twitter.com/search?q=LEE+HEESEUNG) | Lee Heeseung is a South Korean singer, songwriter, and actor. He debuted as a member of the boy group N.Flying in 2013 and has since released several solo albums. The name Lee Heeseung translates to "shining star" in English. |
+| 15 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
+| 16 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
+| 17 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
+| 18 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 19 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 20 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
+| 23 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 24 | [The Why of Praying](http://twitter.com/search?q=The+Why+of+Praying) | N/A |
+| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 26 | [angel canino](http://twitter.com/search?q=angel+canino) | N/A |
+| 27 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
+| 28 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 29 | [READY FOR MASTERPIECE](http://twitter.com/search?q=READY+FOR+MASTERPIECE) | N/A |
+| 30 | [PISTON](http://twitter.com/search?q=PISTON) | N/A |
+| 31 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 32 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
+| 33 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
+| 34 | [eunbi](http://twitter.com/search?q=eunbi) | N/A |
+| 35 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 36 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 37 | [TO DO IS BACK](http://twitter.com/search?q=TO+DO+IS+BACK) | N/A |
+| 38 | [JOSH AT MANDY TEENadhana](http://twitter.com/search?q=JOSH+AT+MANDY+TEENadhana) | N/A |
+| 39 | [DAVID AtKawayanFestival](http://twitter.com/search?q=DAVID+AtKawayanFestival) | N/A |
+| 40 | [Quen](http://twitter.com/search?q=Quen) | N/A |
+| 41 | [Prince Ang PIEgbabalik](http://twitter.com/search?q=Prince+Ang+PIEgbabalik) | N/A |
+| 42 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 43 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
+| 44 | [D-15 BOBBY COMEBACK](http://twitter.com/search?q=D-15+BOBBY+COMEBACK) | N/A |
+| 45 | [Song Kang](http://twitter.com/search?q=Song+Kang) | N/A |
+| 46 | [Hello Love Goodbye](http://twitter.com/search?q=Hello+Love+Goodbye) | N/A |
+| 47 | [HYEIN AT PARIS FASHION WEEK](http://twitter.com/search?q=HYEIN+AT+PARIS+FASHION+WEEK) | N/A |
 
 
 

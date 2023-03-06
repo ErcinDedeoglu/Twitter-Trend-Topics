@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-06 17:16:52 UTC`
+📆 Last Updated: `2023-03-06 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 2 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 4 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 6 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 7 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 8 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 9 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 10 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 11 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 13 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 15 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 16 | [Fehlermeldung](http://twitter.com/search?q=Fehlermeldung) | N/A |
-| 17 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 18 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 21 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 22 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 23 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 24 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 25 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 26 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 27 | [erdöl](http://twitter.com/search?q=erd%c3%b6l) | N/A |
-| 28 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 29 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
-| 30 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 31 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 32 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 33 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 34 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 35 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 36 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 37 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 38 | [Frau Künast](http://twitter.com/search?q=Frau+K%c3%bcnast) | N/A |
-| 39 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 40 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
-| 41 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 42 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 43 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
-| 44 | [Nominate 6](http://twitter.com/search?q=Nominate+6) | N/A |
-| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 46 | [die mehrzahl der deutschen](http://twitter.com/search?q=die+mehrzahl+der+deutschen) | N/A |
-| 47 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
-| 48 | [Fleischküchle](http://twitter.com/search?q=Fleischk%c3%bcchle) | N/A |
+| 1 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 7 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 9 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 10 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 11 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 12 | [Fehlermeldung](http://twitter.com/search?q=Fehlermeldung) | N/A |
+| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 15 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 16 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 17 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 18 | [Rinaldo](http://twitter.com/search?q=Rinaldo) | N/A |
+| 19 | [Browser](http://twitter.com/search?q=Browser) | N/A |
+| 20 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 21 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 22 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 23 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
+| 24 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Urteil der Geschichte](http://twitter.com/search?q=Urteil+der+Geschichte) | N/A |
+| 27 | [Bilder und Videos](http://twitter.com/search?q=Bilder+und+Videos) | N/A |
+| 28 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
+| 29 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 30 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 31 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 32 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 33 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
+| 34 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 35 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 36 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
+| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 38 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 39 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 40 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 41 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 42 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 43 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
+| 44 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 45 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 46 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
+| 47 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
+| 48 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
 | 49 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 50 | [Daniel Günther](http://twitter.com/search?q=Daniel+G%c3%bcnther) | N/A |
+| 50 | [Nominate 6](http://twitter.com/search?q=Nominate+6) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-06 17:16:57 UTC`
+📆 Last Updated: `2023-03-06 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 2 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
-| 3 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 4 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 5 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
-| 6 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 7 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
-| 8 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 1 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
+| 2 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 3 | [#THEDREAMSHOW2_in_JAKARTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_JAKARTA) | N/A |
+| 4 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
+| 5 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 6 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 7 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 9 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
-| 10 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 11 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 12 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
-| 13 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 10 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 11 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 12 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 13 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
 | 14 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
-| 15 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 16 | [THANK YOU MISS E](http://twitter.com/search?q=THANK+YOU+MISS+E) | N/A |
-| 17 | [Lampu](http://twitter.com/search?q=Lampu) | N/A |
-| 18 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 19 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 20 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 21 | [Modyar](http://twitter.com/search?q=Modyar) | N/A |
-| 22 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 23 | [Satisfying](http://twitter.com/search?q=Satisfying) | N/A |
-| 24 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
-| 25 | [Sebulan](http://twitter.com/search?q=Sebulan) | N/A |
+| 15 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 16 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 17 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 18 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 19 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 20 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 21 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 22 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
+| 23 | [Firts](http://twitter.com/search?q=Firts) | N/A |
+| 24 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 26 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 27 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 28 | [Matur](http://twitter.com/search?q=Matur) | N/A |
-| 29 | [luda](http://twitter.com/search?q=luda) | N/A |
-| 30 | [Soft](http://twitter.com/search?q=Soft) | N/A |
-| 31 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 33 | [Dewe](http://twitter.com/search?q=Dewe) | N/A |
-| 34 | [#BrightestStarHyunsikDay](http://twitter.com/search?q=%23BrightestStarHyunsikDay) | N/A |
-| 35 | [#ROVER_TeaserImage3](http://twitter.com/search?q=%23ROVER_TeaserImage3) | N/A |
-| 36 | [#멜로디의_우주_현식이의_생일날](http://twitter.com/search?q=%23%eb%a9%9c%eb%a1%9c%eb%94%94%ec%9d%98_%ec%9a%b0%ec%a3%bc_%ed%98%84%ec%8b%9d%ec%9d%b4%ec%9d%98_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 37 | [#MidnightMuseumEP1](http://twitter.com/search?q=%23MidnightMuseumEP1) | N/A |
-| 38 | [#V1RSTPestaria](http://twitter.com/search?q=%23V1RSTPestaria) | N/A |
-| 39 | [#최고의_최배우님_18주년축하해](http://twitter.com/search?q=%23%ec%b5%9c%ea%b3%a0%ec%9d%98_%ec%b5%9c%eb%b0%b0%ec%9a%b0%eb%8b%98_18%ec%a3%bc%eb%85%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 40 | [#THEDREAMSHOW2_In_A_DREAM](http://twitter.com/search?q=%23THEDREAMSHOW2_In_A_DREAM) | N/A |
-| 41 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 42 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
-| 43 | [#HYEINxLV](http://twitter.com/search?q=%23HYEINxLV) | N/A |
-| 44 | [#ASAHI](http://twitter.com/search?q=%23ASAHI) | N/A |
-| 45 | [#withGalaxy](http://twitter.com/search?q=%23withGalaxy) | N/A |
-| 46 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 47 | [#23EpicNightShot](http://twitter.com/search?q=%2323EpicNightShot) | N/A |
-| 48 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
+| 27 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 28 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 29 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 30 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 31 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 32 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 33 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 34 | [Mending WO](http://twitter.com/search?q=Mending+WO) | N/A |
+| 35 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 36 | [THANK YOU MISS E](http://twitter.com/search?q=THANK+YOU+MISS+E) | N/A |
+| 37 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 38 | [MU 7-0](http://twitter.com/search?q=MU+7-0) | N/A |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 40 | [Acts](http://twitter.com/search?q=Acts) | N/A |
+| 41 | [Satisfying](http://twitter.com/search?q=Satisfying) | N/A |
+| 42 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
+| 43 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 44 | [Kurnia](http://twitter.com/search?q=Kurnia) | N/A |
+| 45 | [Banghan](http://twitter.com/search?q=Banghan) | Banghan is a Korean term that refers to a gathering of friends or family for a meal. It is often used to describe a casual get-together, such as a potluck or barbecue. The literal translation of Banghan in English is "meal gathering". |
+| 46 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
+| 47 | [RESPECT TAEHYUNG](http://twitter.com/search?q=RESPECT+TAEHYUNG) | N/A |
+| 48 | [ARMY APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JUNGKOOK) | N/A |
 
 
 

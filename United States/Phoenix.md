@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-06 17:17:29 UTC`
+📆 Last Updated: `2023-03-06 18:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 3 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 4 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 7 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 8 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 9 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
-| 10 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 11 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 12 | [#WhoDat](http://twitter.com/search?q=%23WhoDat) | N/A |
-| 13 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
-| 14 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 15 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
-| 16 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 17 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
-| 18 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
-| 19 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
-| 20 | [Rise](http://twitter.com/search?q=Rise) | N/A |
-| 21 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
-| 22 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 23 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
-| 24 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
-| 25 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 26 | [North](http://twitter.com/search?q=North) | N/A |
-| 27 | [Turtles](http://twitter.com/search?q=Turtles) | N/A |
-| 28 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 29 | [Sam Bradford](http://twitter.com/search?q=Sam+Bradford) | N/A |
-| 30 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 31 | [Jost](http://twitter.com/search?q=Jost) | N/A |
-| 32 | [John Oliver](http://twitter.com/search?q=John+Oliver) | N/A |
-| 33 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 34 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 35 | [Tannehill](http://twitter.com/search?q=Tannehill) | Tannehill is a surname of English origin. It is derived from the Old English words tann meaning "tanner" and hyll meaning "hill". The name was originally given to someone who lived near or worked in a tannery. |
-| 36 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 37 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
-| 38 | [Shaheed](http://twitter.com/search?q=Shaheed) | N/A |
-| 39 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
-| 40 | [Jenny Lewis](http://twitter.com/search?q=Jenny+Lewis) | N/A |
-| 41 | [Taysom Hill](http://twitter.com/search?q=Taysom+Hill) | Taysom Hill is an American football quarterback for the New Orleans Saints of the National Football League (NFL). He is known for his versatility, having played multiple positions on offense and special teams. The name "Taysom Hill" is derived from his given name, Tayson, and his middle name, Hill. |
-| 42 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 43 | [Leonard Floyd](http://twitter.com/search?q=Leonard+Floyd) | N/A |
-| 44 | [Cop City](http://twitter.com/search?q=Cop+City) | N/A |
-| 45 | [PEMDAS](http://twitter.com/search?q=PEMDAS) | N/A |
-| 46 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 47 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 48 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 49 | [Donatello](http://twitter.com/search?q=Donatello) | N/A |
-| 50 | [Allen Robinson](http://twitter.com/search?q=Allen+Robinson) | N/A |
+| 2 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 4 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 5 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 6 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 7 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 8 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 9 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 10 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
+| 11 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 12 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 13 | [Jameis](http://twitter.com/search?q=Jameis) | N/A |
+| 14 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
+| 15 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 16 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 17 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 18 | [Twitter HQ](http://twitter.com/search?q=Twitter+HQ) | N/A |
+| 19 | [Andy Dalton](http://twitter.com/search?q=Andy+Dalton) | Andy Dalton is the name of an American football player who currently plays for the Dallas Cowboys. He is a quarterback and has been in the NFL since 2011. The meaning of his name in English is "strong defender". |
+| 20 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 21 | [Did Twitter](http://twitter.com/search?q=Did+Twitter) | N/A |
+| 22 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 23 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 24 | [North](http://twitter.com/search?q=North) | N/A |
+| 25 | [Dennis Allen](http://twitter.com/search?q=Dennis+Allen) | Dennis Allen is a name. It does not have a specific meaning in English. |
+| 26 | [Olave](http://twitter.com/search?q=Olave) | Olave is a Scandinavian female given name derived from the Old Norse name Áleifr, which means "ancestor's descendant". In English, Olave is sometimes translated as "descendant of the ancestors". |
+| 27 | [Oh Twitter](http://twitter.com/search?q=Oh+Twitter) | N/A |
+| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 29 | [Michael Thomas](http://twitter.com/search?q=Michael+Thomas) | N/A |
+| 30 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 31 | [Tannehill](http://twitter.com/search?q=Tannehill) | Tannehill is a surname of English origin. It is derived from the Old English words tann meaning "tanner" and hyll meaning "hill". The name was originally given to someone who lived near or worked in a tannery. |
+| 32 | [Rise](http://twitter.com/search?q=Rise) | N/A |
+| 33 | [Since Twitter](http://twitter.com/search?q=Since+Twitter) | N/A |
+| 34 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 35 | [Bud Dupree](http://twitter.com/search?q=Bud+Dupree) | N/A |
+| 36 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 37 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 38 | [Turtles](http://twitter.com/search?q=Turtles) | N/A |
+| 39 | [Sam Bradford](http://twitter.com/search?q=Sam+Bradford) | N/A |
+| 40 | [ASCII](http://twitter.com/search?q=ASCII) | N/A |
+| 41 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 42 | [Eric Kendricks](http://twitter.com/search?q=Eric+Kendricks) | N/A |
+| 43 | [Did Elon](http://twitter.com/search?q=Did+Elon) | N/A |
+| 44 | [Spider-Verse](http://twitter.com/search?q=Spider-Verse) | N/A |
+| 45 | [So Twitter](http://twitter.com/search?q=So+Twitter) | N/A |
+| 46 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 47 | [Seth Rogen](http://twitter.com/search?q=Seth+Rogen) | N/A |
+| 48 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 49 | [The API](http://twitter.com/search?q=The+API) | N/A |
 
 
 
