@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-06 04:16:43 UTC`
+📆 Last Updated: `2023-03-06 05:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Dominican Republic
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
-| 3 | [#1MillonDeAmigosConAbel](http://twitter.com/search?q=%231MillonDeAmigosConAbel) | N/A |
-| 4 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
+| 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 5 | [#1MillonDeAmigosConAbel](http://twitter.com/search?q=%231MillonDeAmigosConAbel) | N/A |
 | 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 7 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
 | 8 | [Jeimer Candelario](http://twitter.com/search?q=Jeimer+Candelario) | N/A |
@@ -32,12 +32,12 @@ This is top 50 for Dominican Republic
 | 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 16 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
 | 17 | [Carlos Santana](http://twitter.com/search?q=Carlos+Santana) | N/A |
-| 18 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 19 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
-| 20 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
-| 21 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
-| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 18 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
+| 19 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 21 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
+| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 23 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
 | 24 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
 | 25 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Dominican Republic
 | 31 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
 | 32 | [Caribe Express](http://twitter.com/search?q=Caribe+Express) | N/A |
 | 33 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
-| 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 35 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 38 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 34 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
+| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 36 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 37 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 38 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
 | 39 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 | 40 | [Lele](http://twitter.com/search?q=Lele) | N/A |
-| 41 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
-| 42 | [autovía del este](http://twitter.com/search?q=autov%c3%ada+del+este) | N/A |
-| 43 | [Operación La Ruta](http://twitter.com/search?q=Operaci%c3%b3n+La+Ruta) | N/A |
-| 44 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 45 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
-| 46 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 41 | [autovía del este](http://twitter.com/search?q=autov%c3%ada+del+este) | N/A |
+| 42 | [operación la ruta](http://twitter.com/search?q=operaci%c3%b3n+la+ruta) | N/A |
+| 43 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 44 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
+| 45 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 46 | [INFOTEP](http://twitter.com/search?q=INFOTEP) | N/A |
 | 47 | [yamaico](http://twitter.com/search?q=yamaico) | N/A |
 | 48 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 49 | [waze](http://twitter.com/search?q=waze) | N/A |
-| 50 | [Hipólito Mejía](http://twitter.com/search?q=Hip%c3%b3lito+Mej%c3%ada) | N/A |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 50 | [Waze](http://twitter.com/search?q=Waze) | N/A |
 
 
 

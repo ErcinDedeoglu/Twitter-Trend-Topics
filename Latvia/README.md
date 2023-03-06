@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-06 04:16:46 UTC`
+📆 Last Updated: `2023-03-06 05:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,28 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | N/A |
-| 2 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | N/A |
-| 3 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
-| 4 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 5 | [upīti](http://twitter.com/search?q=up%c4%abti) | N/A |
+| 2 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 3 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
+| 4 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
+| 5 | [upīts](http://twitter.com/search?q=up%c4%abts) | N/A |
 | 6 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
 | 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 8 | [sakses](http://twitter.com/search?q=sakses) | N/A |
 | 9 | [staļina](http://twitter.com/search?q=sta%c4%bcina) | N/A |
-| 10 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 11 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 12 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
-| 13 | [latviju](http://twitter.com/search?q=latviju) | N/A |
-| 14 | [rainis](http://twitter.com/search?q=rainis) | N/A |
-| 15 | [raiņa](http://twitter.com/search?q=rai%c5%86a) | N/A |
-| 16 | [ulmaņa](http://twitter.com/search?q=ulma%c5%86a) | N/A |
-| 17 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
-| 18 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 19 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 20 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
-| 21 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
+| 10 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 11 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
+| 12 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 13 | [rainis](http://twitter.com/search?q=rainis) | N/A |
+| 14 | [raiņa](http://twitter.com/search?q=rai%c5%86a) | N/A |
+| 15 | [ulmaņa](http://twitter.com/search?q=ulma%c5%86a) | N/A |
+| 16 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
+| 17 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 18 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 19 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
+| 20 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
+| 21 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
 | 22 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
-| 23 | [rīgā](http://twitter.com/search?q=r%c4%abg%c4%81) | N/A |
+| 23 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
 | 24 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 25 | [ulmanis](http://twitter.com/search?q=ulmanis) | N/A |
 | 26 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Latvia
 | 46 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
 | 47 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 48 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 49 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 49 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
 | 50 | [dīvaini](http://twitter.com/search?q=d%c4%abvaini) | N/A |
 
 

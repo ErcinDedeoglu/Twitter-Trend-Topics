@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-06 04:16:07 UTC`
+📆 Last Updated: `2023-03-06 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
 | 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 7 | [Neville](http://twitter.com/search?q=Neville) | N/A |
 | 8 | [Souness](http://twitter.com/search?q=Souness) | N/A |

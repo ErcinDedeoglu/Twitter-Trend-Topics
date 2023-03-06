@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-06 04:16:22 UTC`
+📆 Last Updated: `2023-03-06 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Algeria](</Algeria>)
 | 19 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
 | 20 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
 | 21 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 22 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 23 | [الاصبع الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d8%a8%d8%b9+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
-| 24 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 25 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 26 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 27 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 30 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
-| 31 | [بن مهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d9%87%d9%8a%d8%af%d9%8a) | N/A |
-| 32 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [ملكه البوب](http://twitter.com/search?q=%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%a8%d9%88%d8%a8) | N/A |
-| 35 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 36 | [طارق](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
-| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 38 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 39 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 40 | [محمد الخامس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 41 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 44 | [فؤاد](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 45 | [السلف الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 46 | [حقول الفراوله](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%84+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%88%d9%84%d9%87) | N/A |
-| 47 | [الصحراء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 48 | [هشام](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85) | N/A |
+| 22 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 23 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 24 | [الاصبع الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d8%a8%d8%b9+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
+| 25 | [الاقلام الملونه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 26 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 27 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 28 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 30 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 31 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 32 | [#ShingekiNoKyojin](http://twitter.com/search?q=%23ShingekiNoKyojin) | N/A |
+| 33 | [بن مهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d9%87%d9%8a%d8%af%d9%8a) | N/A |
+| 34 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [ملكه البوب](http://twitter.com/search?q=%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%a8%d9%88%d8%a8) | N/A |
+| 37 | [عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 38 | [طارق](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
+| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 40 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 41 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 42 | [محمد الخامس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 43 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
+| 46 | [فؤاد](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af) | N/A |
+| 47 | [السلف الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 48 | [حقول الفراوله](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%84+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d9%88%d9%84%d9%87) | N/A |
 | 49 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 50 | [راك كبير](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 50 | [الصحراء الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

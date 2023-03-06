@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-06 04:16:44 UTC`
+📆 Last Updated: `2023-03-06 05:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for Ireland
 | 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 5 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 5 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
 | 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 7 | [Neville](http://twitter.com/search?q=Neville) | N/A |
 | 8 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 9 | [#dwtsirl](http://twitter.com/search?q=%23dwtsirl) | N/A |
+| 9 | [#DWTSIRL](http://twitter.com/search?q=%23DWTSIRL) | N/A |
 | 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 11 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 12 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |

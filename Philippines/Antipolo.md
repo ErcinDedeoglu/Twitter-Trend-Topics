@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-06 04:16:21 UTC`
+📆 Last Updated: `2023-03-06 05:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
 | 2 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 3 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
-| 4 | [wild tonight on asap](http://twitter.com/search?q=wild+tonight+on+asap) | N/A |
-| 5 | [#SupportTransportStrike](http://twitter.com/search?q=%23SupportTransportStrike) | N/A |
-| 6 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 7 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 8 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
-| 9 | [walang aray x starmagic](http://twitter.com/search?q=walang+aray+x+starmagic) | N/A |
-| 10 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 11 | [asapcelebrate alexa day](http://twitter.com/search?q=asapcelebrate+alexa+day) | N/A |
-| 12 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
-| 13 | [Philcoa](http://twitter.com/search?q=Philcoa) | N/A |
-| 14 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 15 | [asap jam with anji](http://twitter.com/search?q=asap+jam+with+anji) | N/A |
-| 16 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 17 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 18 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
-| 19 | [barbieforteza happytogether](http://twitter.com/search?q=barbieforteza+happytogether) | N/A |
-| 20 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 21 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 22 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
-| 23 | [Donghyun](http://twitter.com/search?q=Donghyun) | N/A |
-| 24 | [kinji pa rin sa asap](http://twitter.com/search?q=kinji+pa+rin+sa+asap) | N/A |
-| 25 | [asapmarsoamazing jona](http://twitter.com/search?q=asapmarsoamazing+jona) | N/A |
-| 26 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 27 | [bingo night with joshcullen](http://twitter.com/search?q=bingo+night+with+joshcullen) | N/A |
-| 28 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 29 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 30 | [Quen](http://twitter.com/search?q=Quen) | N/A |
-| 31 | [go uste](http://twitter.com/search?q=go+uste) | N/A |
-| 32 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
-| 33 | [dasmake some noise for hori7on](http://twitter.com/search?q=dasmake+some+noise+for+hori7on) | N/A |
-| 34 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
-| 35 | [iwantasaperfect match aljay](http://twitter.com/search?q=iwantasaperfect+match+aljay) | N/A |
-| 36 | [bgyo goes to pampanga](http://twitter.com/search?q=bgyo+goes+to+pampanga) | N/A |
-| 37 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
-| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 39 | [Marie Fabregas](http://twitter.com/search?q=Marie+Fabregas) | N/A |
-| 40 | [Piston](http://twitter.com/search?q=Piston) | N/A |
-| 41 | [sarah geronimo day](http://twitter.com/search?q=sarah+geronimo+day) | N/A |
-| 42 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 43 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 44 | [legends meet royalty](http://twitter.com/search?q=legends+meet+royalty) | N/A |
-| 45 | [Hello Love Goodbye](http://twitter.com/search?q=Hello+Love+Goodbye) | N/A |
-| 46 | [robdenielxkarina ang pag-ibig](http://twitter.com/search?q=robdenielxkarina+ang+pag-ibig) | N/A |
-| 47 | [clashmasters juliever](http://twitter.com/search?q=clashmasters+juliever) | N/A |
+| 3 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 4 | [#YesToBBMPhaseOut](http://twitter.com/search?q=%23YesToBBMPhaseOut) | N/A |
+| 5 | [#SugarRushRide_100M_on_YouTube](http://twitter.com/search?q=%23SugarRushRide_100M_on_YouTube) | N/A |
+| 6 | [wild tonight on asap](http://twitter.com/search?q=wild+tonight+on+asap) | N/A |
+| 7 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 8 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 10 | [SET ME FREE TONIGHT](http://twitter.com/search?q=SET+ME+FREE+TONIGHT) | N/A |
+| 11 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 12 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 13 | [asapcelebrate alexa day](http://twitter.com/search?q=asapcelebrate+alexa+day) | N/A |
+| 14 | [DOTr](http://twitter.com/search?q=DOTr) | N/A |
+| 15 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 16 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
+| 17 | [asap jam with anji](http://twitter.com/search?q=asap+jam+with+anji) | N/A |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [BGYO BYAHENG CAVITE](http://twitter.com/search?q=BGYO+BYAHENG+CAVITE) | N/A |
+| 20 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 21 | [barbieforteza happytogether](http://twitter.com/search?q=barbieforteza+happytogether) | N/A |
+| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 23 | [9 EXO](http://twitter.com/search?q=9+EXO) | N/A |
+| 24 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 25 | [Donghyun](http://twitter.com/search?q=Donghyun) | N/A |
+| 26 | [kinji pa rin sa asap](http://twitter.com/search?q=kinji+pa+rin+sa+asap) | N/A |
+| 27 | [asapmarsoamazing jona](http://twitter.com/search?q=asapmarsoamazing+jona) | N/A |
+| 28 | [bingo night with joshcullen](http://twitter.com/search?q=bingo+night+with+joshcullen) | N/A |
+| 29 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 30 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 31 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 32 | [dasmake some noise for hori7on](http://twitter.com/search?q=dasmake+some+noise+for+hori7on) | N/A |
+| 33 | [iwantasaperfect match aljay](http://twitter.com/search?q=iwantasaperfect+match+aljay) | N/A |
+| 34 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 35 | [T-TALK](http://twitter.com/search?q=T-TALK) | N/A |
+| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 37 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 38 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
+| 39 | [sarah geronimo day](http://twitter.com/search?q=sarah+geronimo+day) | N/A |
+| 40 | [Hello Love Goodbye](http://twitter.com/search?q=Hello+Love+Goodbye) | N/A |
+| 41 | [LTFRB](http://twitter.com/search?q=LTFRB) | N/A |
+| 42 | [legends meet royalty](http://twitter.com/search?q=legends+meet+royalty) | N/A |
+| 43 | [robdenielxkarina ang pag-ibig](http://twitter.com/search?q=robdenielxkarina+ang+pag-ibig) | N/A |
+| 44 | [READY FOR MASTERPIECE](http://twitter.com/search?q=READY+FOR+MASTERPIECE) | N/A |
+| 45 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
+| 46 | [Philcoa](http://twitter.com/search?q=Philcoa) | N/A |
+| 47 | [Quen](http://twitter.com/search?q=Quen) | N/A |
 | 48 | [20M FOR ENHYPEN PRIDE](http://twitter.com/search?q=20M+FOR+ENHYPEN+PRIDE) | N/A |
-| 49 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 50 | [Hange](http://twitter.com/search?q=Hange) | N/A |
+| 49 | [Digital Code](http://twitter.com/search?q=Digital+Code) | N/A |
+| 50 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 
 
 

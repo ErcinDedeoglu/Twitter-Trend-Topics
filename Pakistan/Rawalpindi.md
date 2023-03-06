@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-06 04:16:29 UTC`
+📆 Last Updated: `2023-03-06 05:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#IUvQG](http://twitter.com/search?q=%23IUvQG) | N/A |
 | 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 7 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 8 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 9 | [London](http://twitter.com/search?q=London) | N/A |
-| 10 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 11 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 12 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 13 | [5th un conference](http://twitter.com/search?q=5th+un+conference) | N/A |
-| 14 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 8 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 9 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
+| 10 | [London](http://twitter.com/search?q=London) | N/A |
+| 11 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 12 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 14 | [5th UN Conference](http://twitter.com/search?q=5th+UN+Conference) | N/A |
 | 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 16 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 21 | [sindh government](http://twitter.com/search?q=sindh+government) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 19 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 20 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 21 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 22 | [sindh government](http://twitter.com/search?q=sindh+government) | N/A |
 | 23 | [Munro](http://twitter.com/search?q=Munro) | N/A |
-| 24 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 25 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 26 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
-| 27 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 28 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 29 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 30 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 24 | [Altaf](http://twitter.com/search?q=Altaf) | N/A |
+| 25 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 26 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 27 | [Faheem ashraf](http://twitter.com/search?q=Faheem+ashraf) | N/A |
+| 28 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
 | 31 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 32 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
-| 33 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 34 | [Not Available](http://twitter.com/search?q=Not+Available) | N/A |
-| 35 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
-| 36 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 37 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 38 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 39 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Andhera Ujala](http://twitter.com/search?q=Andhera+Ujala) | N/A |
-| 42 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
-| 43 | [Altaf Hussain](http://twitter.com/search?q=Altaf+Hussain) | N/A |
-| 44 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 45 | [Pride of Performance](http://twitter.com/search?q=Pride+of+Performance) | N/A |
-| 46 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 47 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 49 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 50 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 32 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 33 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
+| 34 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 35 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
+| 36 | [Lifafa](http://twitter.com/search?q=Lifafa) | N/A |
+| 37 | [Not Available](http://twitter.com/search?q=Not+Available) | N/A |
+| 38 | [Gladiators](http://twitter.com/search?q=Gladiators) | N/A |
+| 39 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 40 | [Pride of Performance](http://twitter.com/search?q=Pride+of+Performance) | N/A |
+| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 42 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 45 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 46 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 47 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 48 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 49 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 
