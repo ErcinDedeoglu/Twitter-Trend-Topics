@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-06 13:21:49 UTC`
+📆 Last Updated: `2023-03-06 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Portugal
 | 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 6 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 | 7 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 8 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 9 | [Lara Li](http://twitter.com/search?q=Lara+Li) | N/A |
 | 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 12 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
+| 11 | [#f1nasportv](http://twitter.com/search?q=%23f1nasportv) | N/A |
+| 12 | [inácia](http://twitter.com/search?q=in%c3%a1cia) | N/A |
 | 13 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 14 | [Lara Li](http://twitter.com/search?q=Lara+Li) | N/A |
-| 15 | [#f1nasportv](http://twitter.com/search?q=%23f1nasportv) | N/A |
-| 16 | [inácia](http://twitter.com/search?q=in%c3%a1cia) | N/A |
-| 17 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 18 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 19 | [#festivaldacancao2023](http://twitter.com/search?q=%23festivaldacancao2023) | N/A |
-| 20 | [mclaren](http://twitter.com/search?q=mclaren) | N/A |
-| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 22 | [O United](http://twitter.com/search?q=O+United) | N/A |
-| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 24 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 25 | [bom domingo](http://twitter.com/search?q=bom+domingo) | N/A |
-| 26 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 30 | [o arsenal](http://twitter.com/search?q=o+arsenal) | N/A |
-| 31 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 32 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 33 | [Dário](http://twitter.com/search?q=D%c3%a1rio) | N/A |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [Gastão](http://twitter.com/search?q=Gast%c3%a3o) | N/A |
-| 36 | [Ricciardo](http://twitter.com/search?q=Ricciardo) | N/A |
-| 37 | [chiquinho](http://twitter.com/search?q=chiquinho) | N/A |
-| 38 | [Gonçalo](http://twitter.com/search?q=Gon%c3%a7alo) | N/A |
+| 14 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
+| 15 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 16 | [#festivaldacancao2023](http://twitter.com/search?q=%23festivaldacancao2023) | N/A |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [O United](http://twitter.com/search?q=O+United) | N/A |
+| 19 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 21 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 23 | [bom domingo](http://twitter.com/search?q=bom+domingo) | N/A |
+| 24 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 25 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 26 | [Antunes](http://twitter.com/search?q=Antunes) | N/A |
+| 27 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 28 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 30 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 31 | [Dário](http://twitter.com/search?q=D%c3%a1rio) | N/A |
+| 32 | [Gastão](http://twitter.com/search?q=Gast%c3%a3o) | N/A |
+| 33 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 34 | [Ricciardo](http://twitter.com/search?q=Ricciardo) | N/A |
+| 35 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 36 | [Bandeira](http://twitter.com/search?q=Bandeira) | N/A |
+| 37 | [Gonçalo](http://twitter.com/search?q=Gon%c3%a7alo) | N/A |
+| 38 | [Perez](http://twitter.com/search?q=Perez) | N/A |
 | 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 40 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 41 | [Bandeira](http://twitter.com/search?q=Bandeira) | N/A |
-| 42 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 43 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 44 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 45 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
-| 46 | [Paulo Gonçalves](http://twitter.com/search?q=Paulo+Gon%c3%a7alves) | N/A |
-| 47 | [O Max](http://twitter.com/search?q=O+Max) | N/A |
-| 48 | [Lívia](http://twitter.com/search?q=L%c3%advia) | N/A |
-| 49 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 50 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 40 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 41 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 42 | [Gasly](http://twitter.com/search?q=Gasly) | N/A |
+| 43 | [o max](http://twitter.com/search?q=o+max) | N/A |
+| 44 | [Roger Schmidt](http://twitter.com/search?q=Roger+Schmidt) | Roger Schmidt is a German football manager and former player. He is currently the manager of Chinese Super League club Beijing Sinobo Guoan. His name is associated with an attacking, high-pressing style of football that he has implemented at various clubs throughout his career. |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Lívia](http://twitter.com/search?q=L%c3%advia) | N/A |
+| 47 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 48 | [inês apenas](http://twitter.com/search?q=in%c3%aas+apenas) | N/A |
+| 49 | [júlia palha](http://twitter.com/search?q=j%c3%balia+palha) | N/A |
+| 50 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
 
 
 

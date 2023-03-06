@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-06 13:21:13 UTC`
+📆 Last Updated: `2023-03-06 14:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 4 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 5 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 6 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 6 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
 | 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 8 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 9 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 10 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 9 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 12 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 15 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 16 | [Daniel Günther](http://twitter.com/search?q=Daniel+G%c3%bcnther) | N/A |
-| 17 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
-| 18 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 19 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
-| 20 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 21 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 22 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
-| 23 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 24 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 25 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 26 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 27 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
-| 28 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 13 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [grundrechte](http://twitter.com/search?q=grundrechte) | N/A |
+| 16 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 17 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 18 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 21 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 22 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 23 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
+| 24 | [Paxlovid](http://twitter.com/search?q=Paxlovid) | N/A |
+| 25 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 26 | [Mortalitätsrate](http://twitter.com/search?q=Mortalit%c3%a4tsrate) | N/A |
+| 27 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
+| 28 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
 | 29 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 30 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 31 | [Mittagspause](http://twitter.com/search?q=Mittagspause) | N/A |
-| 32 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 33 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 34 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 35 | [Frau Künast](http://twitter.com/search?q=Frau+K%c3%bcnast) | N/A |
-| 36 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
-| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 38 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 39 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 40 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 41 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 42 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 43 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 44 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
+| 31 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 32 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 33 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 34 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 35 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 36 | [Daniel Günther](http://twitter.com/search?q=Daniel+G%c3%bcnther) | N/A |
+| 37 | [Frau Künast](http://twitter.com/search?q=Frau+K%c3%bcnast) | N/A |
+| 38 | [die mehrzahl der deutschen](http://twitter.com/search?q=die+mehrzahl+der+deutschen) | N/A |
+| 39 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 40 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 41 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
+| 42 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [Carbonara](http://twitter.com/search?q=Carbonara) | N/A |
+| 45 | [Nominate 6](http://twitter.com/search?q=Nominate+6) | N/A |
 | 46 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 47 | [Carbonara](http://twitter.com/search?q=Carbonara) | N/A |
-| 48 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Tino](http://twitter.com/search?q=Tino) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-06 13:21:12 UTC`
+📆 Last Updated: `2023-03-06 14:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfcom](http://twitter.com/search?q=%23srfcom) | N/A |
-| 2 | [#UFC285](http://twitter.com/search?q=%23UFC285) | N/A |
-| 3 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 4 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 5 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [#rmcmma](http://twitter.com/search?q=%23rmcmma) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 11 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
-| 12 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 13 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 14 | [La Marine](http://twitter.com/search?q=La+Marine) | N/A |
-| 15 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 16 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 17 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 18 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 19 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
-| 20 | [Bo Nickal](http://twitter.com/search?q=Bo+Nickal) | N/A |
-| 21 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 22 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
-| 23 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 25 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 26 | [noirmoutier](http://twitter.com/search?q=noirmoutier) | N/A |
-| 27 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 28 | [Kaaris](http://twitter.com/search?q=Kaaris) | N/A |
-| 29 | [dreux](http://twitter.com/search?q=dreux) | N/A |
-| 30 | [McFly](http://twitter.com/search?q=McFly) | N/A |
-| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 32 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 33 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 34 | [Serge Halimi](http://twitter.com/search?q=Serge+Halimi) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Doumbe](http://twitter.com/search?q=Doumbe) | N/A |
-| 37 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 38 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 39 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 40 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
-| 41 | [Tancarville](http://twitter.com/search?q=Tancarville) | N/A |
-| 42 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 43 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 44 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 45 | [Francis](http://twitter.com/search?q=Francis) | Francis is a masculine given name of Latin origin, derived from the Latin Franciscus, meaning "Frenchman" or "free one". It is the name of several saints and four popes. |
-| 46 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
-| 47 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 48 | [Fernand Lopez](http://twitter.com/search?q=Fernand+Lopez) | N/A |
-| 49 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 50 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 1 | [#r92st](http://twitter.com/search?q=%23r92st) | N/A |
+| 2 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 3 | [#estellemidi](http://twitter.com/search?q=%23estellemidi) | N/A |
+| 4 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
+| 5 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 6 | [Guide Michelin 2023](http://twitter.com/search?q=Guide+Michelin+2023) | N/A |
+| 7 | [dreux](http://twitter.com/search?q=dreux) | N/A |
+| 8 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
+| 9 | [Mortaza Behboudi](http://twitter.com/search?q=Mortaza+Behboudi) | N/A |
+| 10 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 11 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 12 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
+| 13 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 14 | [Bruno Le Maire](http://twitter.com/search?q=Bruno+Le+Maire) | N/A |
+| 15 | [League of Legends](http://twitter.com/search?q=League+of+Legends) | N/A |
+| 16 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
+| 17 | [Mardi 7](http://twitter.com/search?q=Mardi+7) | N/A |
+| 18 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 19 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
+| 20 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 21 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 22 | [Bakhmout](http://twitter.com/search?q=Bakhmout) | N/A |
+| 23 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
+| 24 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 25 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 26 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 27 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
+| 28 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 29 | [#FreeMortaza](http://twitter.com/search?q=%23FreeMortaza) | N/A |
+| 30 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 31 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 32 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 33 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 34 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
+| 35 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
+| 36 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 37 | [#GreveGeneraleIllimitee](http://twitter.com/search?q=%23GreveGeneraleIllimitee) | N/A |
+| 38 | [#lockdownfiles](http://twitter.com/search?q=%23lockdownfiles) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-06 13:21:00 UTC`
+📆 Last Updated: `2023-03-06 14:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#SwanFlashGiveaway](http://twitter.com/search?q=%23SwanFlashGiveaway) | N/A |
 | 2 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
 | 3 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 6 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 7 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 4 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 7 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
 | 8 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 9 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 10 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 11 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
-| 12 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 13 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 15 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 16 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 17 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 18 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 19 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
-| 20 | [Gary Davies](http://twitter.com/search?q=Gary+Davies) | N/A |
-| 21 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 22 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 23 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 24 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 25 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 26 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 27 | [Scottish Apprenticeship Week](http://twitter.com/search?q=Scottish+Apprenticeship+Week) | N/A |
-| 28 | [Honours](http://twitter.com/search?q=Honours) | N/A |
-| 29 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
-| 30 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 31 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 32 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 33 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
-| 34 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
-| 35 | [The Jam](http://twitter.com/search?q=The+Jam) | N/A |
-| 36 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 37 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 38 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 39 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 40 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 41 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
-| 42 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 45 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 46 | [#NationalCareersWeek](http://twitter.com/search?q=%23NationalCareersWeek) | N/A |
-| 47 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 48 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 49 | [#FoodWasteActionWeek](http://twitter.com/search?q=%23FoodWasteActionWeek) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 11 | [Laura Woods](http://twitter.com/search?q=Laura+Woods) | N/A |
+| 12 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 13 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 14 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 15 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 16 | [Clarence Seedorf](http://twitter.com/search?q=Clarence+Seedorf) | N/A |
+| 17 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 18 | [Innovation](http://twitter.com/search?q=Innovation) | N/A |
+| 19 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 20 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 21 | [The Met Office](http://twitter.com/search?q=The+Met+Office) | N/A |
+| 22 | [Mark Steyn](http://twitter.com/search?q=Mark+Steyn) | N/A |
+| 23 | [Gary Rossington](http://twitter.com/search?q=Gary+Rossington) | N/A |
+| 24 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 25 | [Honours](http://twitter.com/search?q=Honours) | N/A |
+| 26 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 27 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 28 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 29 | [Scottish Apprenticeship Week](http://twitter.com/search?q=Scottish+Apprenticeship+Week) | N/A |
+| 30 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 31 | [Booths](http://twitter.com/search?q=Booths) | N/A |
+| 32 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 33 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 34 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 35 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 36 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 37 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 38 | [The Jam](http://twitter.com/search?q=The+Jam) | N/A |
+| 39 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 40 | [Daily Quordle 406](http://twitter.com/search?q=Daily+Quordle+406) | N/A |
+| 41 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 42 | [Johnsons](http://twitter.com/search?q=Johnsons) | N/A |
+| 43 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 44 | [Weds](http://twitter.com/search?q=Weds) | N/A |
+| 45 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
+| 46 | [Matterhorn](http://twitter.com/search?q=Matterhorn) | N/A |
+| 47 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 48 | [ILLEGAL](http://twitter.com/search?q=ILLEGAL) | N/A |
+| 49 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
 
 
 
