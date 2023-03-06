@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-06 08:16:41 UTC`
+📆 Last Updated: `2023-03-06 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nicolás Petro](http://twitter.com/search?q=Nicol%c3%a1s+Petro) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 5 | [#GobiernoDeBandidos](http://twitter.com/search?q=%23GobiernoDeBandidos) | N/A |
 | 6 | [Prada](http://twitter.com/search?q=Prada) | N/A |
 | 7 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Colombia](</Colombia>)
 | 13 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 14 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
 | 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 17 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
-| 18 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
-| 21 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 22 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
-| 23 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 24 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 25 | [CERCO HUMANITARIO](http://twitter.com/search?q=CERCO+HUMANITARIO) | N/A |
-| 26 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 27 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 29 | [Lisandro Martínez](http://twitter.com/search?q=Lisandro+Mart%c3%adnez) | N/A |
-| 30 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 16 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
+| 17 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
+| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 19 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
+| 20 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 21 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 22 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 23 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
+| 24 | [CERCO HUMANITARIO](http://twitter.com/search?q=CERCO+HUMANITARIO) | N/A |
+| 25 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 26 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 28 | [lisandro martínez](http://twitter.com/search?q=lisandro+mart%c3%adnez) | N/A |
+| 29 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 30 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
 | 31 | [Mindo](http://twitter.com/search?q=Mindo) | N/A |
-| 32 | [Remolacho](http://twitter.com/search?q=Remolacho) | N/A |
-| 33 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 34 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 35 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 36 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 38 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 39 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 41 | [chipi chipi](http://twitter.com/search?q=chipi+chipi) | N/A |
-| 42 | [Limpiamente](http://twitter.com/search?q=Limpiamente) | N/A |
-| 43 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 44 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 45 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 46 | [Samper](http://twitter.com/search?q=Samper) | N/A |
-| 47 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 48 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 49 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 50 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 32 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 34 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 35 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
+| 36 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 39 | [chipi chipi](http://twitter.com/search?q=chipi+chipi) | N/A |
+| 40 | [limpiamente](http://twitter.com/search?q=limpiamente) | N/A |
+| 41 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 42 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 43 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 44 | [Samper](http://twitter.com/search?q=Samper) | N/A |
+| 45 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 46 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 47 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 48 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 49 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 50 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 
 
 

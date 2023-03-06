@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-06 08:17:12 UTC`
+📆 Last Updated: `2023-03-06 09:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,52 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
 | 2 | [Diyarbakır'da](http://twitter.com/search?q=Diyarbak%c4%b1r%27da) | N/A |
-| 3 | [Irkçılık](http://twitter.com/search?q=Irk%c3%a7%c4%b1l%c4%b1k) | N/A |
-| 4 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 5 | [EnUygunFiyatlı TTHizmeti](http://twitter.com/search?q=EnUygunFiyatl%c4%b1+TTHizmeti) | N/A |
-| 6 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 7 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
-| 8 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 3 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 4 | [MİT Başkanı](http://twitter.com/search?q=M%c4%b0T+Ba%c5%9fkan%c4%b1) | N/A |
+| 5 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 6 | [#EYTtastamamOlmadı](http://twitter.com/search?q=%23EYTtastamamOlmad%c4%b1) | N/A |
+| 7 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 8 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
 | 9 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 10 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 11 | [#depremiunutma](http://twitter.com/search?q=%23depremiunutma) | N/A |
-| 12 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 13 | [İslam Alemine](http://twitter.com/search?q=%c4%b0slam+Alemine) | N/A |
-| 14 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
-| 15 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 10 | [#BenimFikrim](http://twitter.com/search?q=%23BenimFikrim) | N/A |
+| 11 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 13 | [Rabbimden](http://twitter.com/search?q=Rabbimden) | N/A |
+| 14 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 15 | [Efendiler](http://twitter.com/search?q=Efendiler) | Efendiler is a Turkish word that translates to "gentlemen" in English. It is used as a polite form of address for men. |
 | 16 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
-| 17 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
-| 18 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 19 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
-| 20 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
-| 21 | [#OlmazOlmazDeme](http://twitter.com/search?q=%23OlmazOlmazDeme) | N/A |
-| 22 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
-| 23 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
-| 24 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
-| 25 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
-| 26 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
-| 27 | [#TarihBunuNotEtti](http://twitter.com/search?q=%23TarihBunuNotEtti) | N/A |
-| 28 | [#6Mart](http://twitter.com/search?q=%236Mart) | N/A |
-| 29 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 30 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 31 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
-| 32 | [#BursaSporKapatilsin](http://twitter.com/search?q=%23BursaSporKapatilsin) | N/A |
-| 33 | [#TOPunuzTarihOlacak](http://twitter.com/search?q=%23TOPunuzTarihOlacak) | N/A |
-| 34 | [#marticinegitimkararı](http://twitter.com/search?q=%23marticinegitimkarar%c4%b1) | N/A |
-| 35 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
-| 36 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
-| 37 | [#5000VeKısmiTorbaya](http://twitter.com/search?q=%235000VeK%c4%b1smiTorbaya) | N/A |
+| 17 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
+| 18 | [Sizinde](http://twitter.com/search?q=Sizinde) | N/A |
+| 19 | [Milletimize](http://twitter.com/search?q=Milletimize) | N/A |
+| 20 | [Lüks](http://twitter.com/search?q=L%c3%bcks) | N/A |
+| 21 | [Muhammed'e](http://twitter.com/search?q=Muhammed%27e) | N/A |
+| 22 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 23 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 24 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
+| 25 | [Kahrolsun](http://twitter.com/search?q=Kahrolsun) | N/A |
+| 26 | [#merthakanyandas](http://twitter.com/search?q=%23merthakanyandas) | N/A |
+| 27 | [#cbunikarari](http://twitter.com/search?q=%23cbunikarari) | N/A |
+| 28 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
+| 29 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
+| 30 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
+| 31 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
+| 32 | [#BursasporYalnızDeğildir](http://twitter.com/search?q=%23BursasporYaln%c4%b1zDe%c4%9fildir) | N/A |
+| 33 | [#iskenderun](http://twitter.com/search?q=%23iskenderun) | #Iskenderun is a city in southern Turkey, located on the Mediterranean coast. It is the administrative center of Iskenderun district in Hatay Province. The name Iskenderun is derived from Alexander the Great, who founded the city in 333 BC. In English, it means "Alexander's Town". |
+| 34 | [#StajyerCevapBekliyor](http://twitter.com/search?q=%23StajyerCevapBekliyor) | N/A |
+| 35 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
+| 36 | [#olmazolmazDeme](http://twitter.com/search?q=%23olmazolmazDeme) | N/A |
+| 37 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 38 | [#ÖmerSeyfettin](http://twitter.com/search?q=%23%c3%96merSeyfettin) | N/A |
+| 39 | [#TarihBunuNotEtti](http://twitter.com/search?q=%23TarihBunuNotEtti) | N/A |
+| 40 | [#5000VeKısmiTorbaya](http://twitter.com/search?q=%235000VeK%c4%b1smiTorbaya) | N/A |
+| 41 | [#AmedSporYalnızDeğil](http://twitter.com/search?q=%23AmedSporYaln%c4%b1zDe%c4%9fil) | N/A |
+| 42 | [#6Mart](http://twitter.com/search?q=%236Mart) | N/A |
+| 43 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 44 | [#marticinegitimkararı](http://twitter.com/search?q=%23marticinegitimkarar%c4%b1) | N/A |
+| 45 | [#AmedsporHalktır](http://twitter.com/search?q=%23AmedsporHalkt%c4%b1r) | N/A |
+| 46 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
+| 47 | [#TOPunuzTarihOlacak](http://twitter.com/search?q=%23TOPunuzTarihOlacak) | N/A |
+| 48 | [#İntikam](http://twitter.com/search?q=%23%c4%b0ntikam) | N/A |
 
 
 

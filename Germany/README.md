@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-06 08:17:24 UTC`
+📆 Last Updated: `2023-03-06 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Germany
 | 4 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 6 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 7 | [#WOBSGE](http://twitter.com/search?q=%23WOBSGE) | N/A |
-| 8 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 9 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 11 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 7 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 9 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 10 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 11 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 15 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
-| 18 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 19 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 20 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
-| 21 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 22 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 23 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 24 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 27 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 28 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 29 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 30 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 31 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 32 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
-| 33 | [Lasst Euch](http://twitter.com/search?q=Lasst+Euch) | N/A |
-| 34 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 35 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
-| 36 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 37 | [Ampelkoalition](http://twitter.com/search?q=Ampelkoalition) | N/A |
-| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 39 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 40 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 41 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 42 | [Milliarden Euro](http://twitter.com/search?q=Milliarden+Euro) | N/A |
-| 43 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 44 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
-| 45 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
-| 46 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
-| 47 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 49 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
-| 50 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Grundrechte](http://twitter.com/search?q=Grundrechte) | N/A |
+| 16 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 17 | [Erdöl](http://twitter.com/search?q=Erd%c3%b6l) | N/A |
+| 18 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 21 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 22 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 23 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 24 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 25 | [Die Mehrzahl der Deutschen](http://twitter.com/search?q=Die+Mehrzahl+der+Deutschen) | N/A |
+| 26 | [Denkmal](http://twitter.com/search?q=Denkmal) | N/A |
+| 27 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 28 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 29 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 30 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 31 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
+| 32 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 33 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 34 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 35 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 36 | [Thiel](http://twitter.com/search?q=Thiel) | N/A |
+| 37 | [Toast Hawaii](http://twitter.com/search?q=Toast+Hawaii) | N/A |
+| 38 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 39 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 40 | [Kunstwerk](http://twitter.com/search?q=Kunstwerk) | N/A |
+| 41 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 42 | [Verhältnis](http://twitter.com/search?q=Verh%c3%a4ltnis) | N/A |
+| 43 | [Frau Künast](http://twitter.com/search?q=Frau+K%c3%bcnast) | N/A |
+| 44 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
+| 45 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 46 | [Glasscheiben](http://twitter.com/search?q=Glasscheiben) | N/A |
+| 47 | [SHOOTING STARZ WITH WN](http://twitter.com/search?q=SHOOTING+STARZ+WITH+WN) | N/A |
+| 48 | [Fleischpflanzerl](http://twitter.com/search?q=Fleischpflanzerl) | N/A |
+| 49 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 50 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 
 
 

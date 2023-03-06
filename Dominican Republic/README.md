@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-06 08:17:23 UTC`
+📆 Last Updated: `2023-03-06 09:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 3 | [#1MillonDeAmigosConAbel](http://twitter.com/search?q=%231MillonDeAmigosConAbel) | N/A |
-| 4 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 5 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
-| 6 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
-| 7 | [jeimer candelario](http://twitter.com/search?q=jeimer+candelario) | N/A |
-| 8 | [valle nuevo](http://twitter.com/search?q=valle+nuevo) | N/A |
+| 1 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 2 | [#1millondeamigosconabel](http://twitter.com/search?q=%231millondeamigosconabel) | N/A |
+| 3 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 4 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
+| 5 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
+| 6 | [jeimer candelario](http://twitter.com/search?q=jeimer+candelario) | N/A |
+| 7 | [valle nuevo](http://twitter.com/search?q=valle+nuevo) | N/A |
+| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 9 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
 | 10 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
 | 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
@@ -33,7 +33,7 @@ This is top 50 for Dominican Republic
 | 16 | [#fppuertoplata](http://twitter.com/search?q=%23fppuertoplata) | N/A |
 | 17 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
 | 18 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 19 | [VI Reunión de la Alianza](http://twitter.com/search?q=VI+Reuni%c3%b3n+de+la+Alianza) | N/A |
+| 19 | [vi reunión de la alianza](http://twitter.com/search?q=vi+reuni%c3%b3n+de+la+alianza) | N/A |
 | 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 21 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
 | 22 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
@@ -51,20 +51,20 @@ This is top 50 for Dominican Republic
 | 34 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 | 35 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 36 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 37 | [Higüey](http://twitter.com/search?q=Hig%c3%bcey) | N/A |
+| 37 | [higüey](http://twitter.com/search?q=hig%c3%bcey) | N/A |
 | 38 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 39 | [Furcal](http://twitter.com/search?q=Furcal) | N/A |
+| 39 | [furcal](http://twitter.com/search?q=furcal) | N/A |
 | 40 | [Lele](http://twitter.com/search?q=Lele) | N/A |
 | 41 | [autovía del este](http://twitter.com/search?q=autov%c3%ada+del+este) | N/A |
 | 42 | [operación la ruta](http://twitter.com/search?q=operaci%c3%b3n+la+ruta) | N/A |
 | 43 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 44 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
-| 45 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
-| 46 | [Miches](http://twitter.com/search?q=Miches) | N/A |
-| 47 | [INFOTEP](http://twitter.com/search?q=INFOTEP) | N/A |
-| 48 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
-| 49 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 50 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 44 | [San Juan](http://twitter.com/search?q=San+Juan) | N/A |
+| 45 | [Miches](http://twitter.com/search?q=Miches) | N/A |
+| 46 | [INFOTEP](http://twitter.com/search?q=INFOTEP) | N/A |
+| 47 | [Yamaico](http://twitter.com/search?q=Yamaico) | N/A |
+| 48 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 50 | [Waze](http://twitter.com/search?q=Waze) | N/A |
 
 
 

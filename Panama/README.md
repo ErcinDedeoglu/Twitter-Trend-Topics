@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-06 08:17:27 UTC`
+📆 Last Updated: `2023-03-06 09:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,7 +58,7 @@ This is top 50 for Panama
 | 41 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
 | 42 | [4-Frijoles](http://twitter.com/search?q=4-Frijoles) | N/A |
 | 43 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 44 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 44 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 45 | [1-Mostaza](http://twitter.com/search?q=1-Mostaza) | N/A |
 | 46 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 47 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |

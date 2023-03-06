@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-06 08:16:44 UTC`
+📆 Last Updated: `2023-03-06 09:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
 | 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 5 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
 | 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
@@ -27,39 +27,36 @@ This is top 50 for [Brazil](</Brazil>)
 | 10 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 11 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 12 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 13 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 14 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
+| 13 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
+| 14 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
 | 15 | [David](http://twitter.com/search?q=David) | N/A |
-| 16 | [Burra](http://twitter.com/search?q=Burra) | N/A |
-| 17 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 18 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 16 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 17 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
+| 18 | [Burra](http://twitter.com/search?q=Burra) | N/A |
 | 19 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 20 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 21 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 22 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 23 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 24 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
-| 25 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 26 | [Key e Domitila](http://twitter.com/search?q=Key+e+Domitila) | N/A |
-| 27 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 28 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
-| 29 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 30 | [tinashe](http://twitter.com/search?q=tinashe) | N/A |
-| 31 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 32 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 33 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 34 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 35 | [Ranço](http://twitter.com/search?q=Ran%c3%a7o) | N/A |
-| 36 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
-| 37 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 38 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 39 | [Saboneteiro](http://twitter.com/search?q=Saboneteiro) | N/A |
-| 40 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 41 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
-| 42 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 43 | [Ortobom](http://twitter.com/search?q=Ortobom) | N/A |
-| 44 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 45 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 20 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 21 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 22 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 23 | [CHATA PRA CARALHO](http://twitter.com/search?q=CHATA+PRA+CARALHO) | N/A |
+| 24 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
+| 25 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 26 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 27 | [Troy Baker](http://twitter.com/search?q=Troy+Baker) | N/A |
+| 28 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 29 | [CARBALLO](http://twitter.com/search?q=CARBALLO) | N/A |
+| 30 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 31 | [O Grêmio](http://twitter.com/search?q=O+Gr%c3%aamio) | N/A |
+| 32 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 33 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 34 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
+| 35 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
+| 36 | [Burrice](http://twitter.com/search?q=Burrice) | N/A |
+| 37 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 38 | [Ortobom](http://twitter.com/search?q=Ortobom) | N/A |
+| 39 | [Tiago Santos](http://twitter.com/search?q=Tiago+Santos) | N/A |
+| 40 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 41 | [#ARMYSelcaDay](http://twitter.com/search?q=%23ARMYSelcaDay) | N/A |
+| 42 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
 
 
 
