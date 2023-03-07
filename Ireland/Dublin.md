@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-07 15:16:37 UTC`
+📆 Last Updated: `2023-03-07 16:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [Eamon Ryan](http://twitter.com/search?q=Eamon+Ryan) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#RTEInvestigates](http://twitter.com/search?q=%23RTEInvestigates) | N/A |
-| 4 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
-| 5 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 3 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 4 | [#RTEInvestigates](http://twitter.com/search?q=%23RTEInvestigates) | N/A |
+| 5 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
 | 6 | [#liveline](http://twitter.com/search?q=%23liveline) | N/A |
-| 7 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 8 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 9 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 10 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 7 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 8 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 9 | [#WomenInSportIRE](http://twitter.com/search?q=%23WomenInSportIRE) | N/A |
+| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 13 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 14 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 15 | [Luas](http://twitter.com/search?q=Luas) | N/A |
-| 16 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 17 | [Aaron Bolger](http://twitter.com/search?q=Aaron+Bolger) | N/A |
-| 18 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 19 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 20 | [rod liddle](http://twitter.com/search?q=rod+liddle) | N/A |
-| 21 | [Neasa](http://twitter.com/search?q=Neasa) | N/A |
-| 22 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 23 | [unnecessary](http://twitter.com/search?q=unnecessary) | N/A |
-| 24 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 25 | [martin tyler](http://twitter.com/search?q=martin+tyler) | N/A |
-| 26 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
-| 27 | [Simon Harris](http://twitter.com/search?q=Simon+Harris) | N/A |
+| 12 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 13 | [Luas](http://twitter.com/search?q=Luas) | N/A |
+| 14 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 15 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 16 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 17 | [Neasa](http://twitter.com/search?q=Neasa) | N/A |
+| 18 | [Rod Liddle](http://twitter.com/search?q=Rod+Liddle) | N/A |
+| 19 | [Aaron Bolger](http://twitter.com/search?q=Aaron+Bolger) | N/A |
+| 20 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 21 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 23 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 24 | [Unnecessary](http://twitter.com/search?q=Unnecessary) | N/A |
+| 25 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 26 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 27 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
 | 28 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 29 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 30 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 31 | [CPSMA](http://twitter.com/search?q=CPSMA) | N/A |
-| 32 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 33 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
-| 34 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 30 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
+| 31 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
+| 32 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 33 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 34 | [CPSMA](http://twitter.com/search?q=CPSMA) | N/A |
 | 35 | [Dublin Bus](http://twitter.com/search?q=Dublin+Bus) | N/A |
-| 36 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 36 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 37 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 38 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 38 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 39 | [Congratulations Brian](http://twitter.com/search?q=Congratulations+Brian) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [duff](http://twitter.com/search?q=duff) | N/A |
-| 42 | [Shatter](http://twitter.com/search?q=Shatter) | N/A |
-| 43 | [drogheda united](http://twitter.com/search?q=drogheda+united) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 46 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 40 | [Duff](http://twitter.com/search?q=Duff) | N/A |
+| 41 | [Simon Harris](http://twitter.com/search?q=Simon+Harris) | N/A |
+| 42 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 43 | [Shatter](http://twitter.com/search?q=Shatter) | N/A |
+| 44 | [Drogheda United](http://twitter.com/search?q=Drogheda+United) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 47 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 48 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 49 | [Darragh Crowley](http://twitter.com/search?q=Darragh+Crowley) | N/A |
-| 50 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 48 | [Darragh Crowley](http://twitter.com/search?q=Darragh+Crowley) | N/A |
+| 49 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 50 | [Coru](http://twitter.com/search?q=Coru) | N/A |
 
 
 

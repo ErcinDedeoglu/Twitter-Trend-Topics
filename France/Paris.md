@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-07 15:16:38 UTC`
+📆 Last Updated: `2023-03-07 16:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 2 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 3 | [#angers](http://twitter.com/search?q=%23angers) | N/A |
-| 4 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
-| 5 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 6 | [Raspail](http://twitter.com/search?q=Raspail) | N/A |
-| 7 | [Abdel Bouhazama](http://twitter.com/search?q=Abdel+Bouhazama) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
-| 10 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
-| 11 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
-| 12 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 13 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 14 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
-| 15 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 16 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 17 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
-| 18 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 19 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 20 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
-| 21 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 22 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
-| 23 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
-| 24 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 25 | [#blocage7mars](http://twitter.com/search?q=%23blocage7mars) | N/A |
-| 26 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
-| 27 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
-| 28 | [#Lyon](http://twitter.com/search?q=%23Lyon) | N/A |
-| 29 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 30 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 31 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
-| 32 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 33 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 34 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
-| 35 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
-| 36 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 37 | [#Stop64ans](http://twitter.com/search?q=%23Stop64ans) | N/A |
-| 38 | [#KCDFrance](http://twitter.com/search?q=%23KCDFrance) | N/A |
-| 39 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 40 | [#Grenoble](http://twitter.com/search?q=%23Grenoble) | N/A |
-| 41 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
-| 42 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
-| 43 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
-| 44 | [#ATEEZinEUROPE](http://twitter.com/search?q=%23ATEEZinEUROPE) | N/A |
+| 1 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 2 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 3 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 4 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 5 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 6 | [#ATEEZinEUROPE](http://twitter.com/search?q=%23ATEEZinEUROPE) | N/A |
+| 7 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
+| 8 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 9 | [Abdel Bouhazama](http://twitter.com/search?q=Abdel+Bouhazama) | N/A |
+| 10 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Raspail](http://twitter.com/search?q=Raspail) | N/A |
+| 13 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
+| 14 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 15 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 16 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 17 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 18 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 19 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 20 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 21 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 22 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
+| 23 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
+| 24 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
+| 25 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
+| 26 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 27 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 28 | [#kingdom750](http://twitter.com/search?q=%23kingdom750) | N/A |
+| 29 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
+| 30 | [#Blocage7mars](http://twitter.com/search?q=%23Blocage7mars) | N/A |
+| 31 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 32 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
+| 33 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 34 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 35 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 36 | [#Lyon](http://twitter.com/search?q=%23Lyon) | N/A |
+| 37 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
+| 38 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 39 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 40 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
+| 41 | [#Angers](http://twitter.com/search?q=%23Angers) | N/A |
+| 42 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 43 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 44 | [#Stop64ans](http://twitter.com/search?q=%23Stop64ans) | N/A |
+| 45 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 46 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
+| 47 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 48 | [#Grenoble](http://twitter.com/search?q=%23Grenoble) | N/A |
 
 
 

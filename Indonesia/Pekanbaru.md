@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-07 15:16:44 UTC`
+📆 Last Updated: `2023-03-07 16:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 2 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 3 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
-| 4 | [jungkookie](http://twitter.com/search?q=jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
-| 5 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 6 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
-| 7 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
-| 8 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 9 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 10 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 11 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 12 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
-| 13 | [Loid](http://twitter.com/search?q=Loid) | N/A |
-| 14 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 15 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 16 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
-| 17 | [Hapus](http://twitter.com/search?q=Hapus) | N/A |
-| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 19 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
-| 20 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 21 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 1 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 2 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 3 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 4 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
+| 5 | [5 DAYS TO ROVER](http://twitter.com/search?q=5+DAYS+TO+ROVER) | N/A |
+| 6 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 7 | [DAYS OF ROVER IMAGES](http://twitter.com/search?q=DAYS+OF+ROVER+IMAGES) | N/A |
+| 8 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 9 | [jungkookie](http://twitter.com/search?q=jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
+| 10 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
+| 11 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 12 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 13 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 14 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
+| 15 | [Seseorang](http://twitter.com/search?q=Seseorang) | N/A |
+| 16 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 17 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 18 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
+| 19 | [Hapus](http://twitter.com/search?q=Hapus) | N/A |
+| 20 | [NCT Dream](http://twitter.com/search?q=NCT+Dream) | N/A |
+| 21 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
 | 22 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
-| 23 | [SNSD](http://twitter.com/search?q=SNSD) | N/A |
-| 24 | [Jinan](http://twitter.com/search?q=Jinan) | N/A |
-| 25 | [Luhut](http://twitter.com/search?q=Luhut) | N/A |
-| 26 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 27 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 28 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 29 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 30 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 31 | [Langit](http://twitter.com/search?q=Langit) | N/A |
-| 32 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 33 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 34 | [#PerindoPeduliPerempuan](http://twitter.com/search?q=%23PerindoPeduliPerempuan) | N/A |
-| 35 | [#EXOLSelcaDay](http://twitter.com/search?q=%23EXOLSelcaDay) | N/A |
+| 23 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 24 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 25 | [SNSD](http://twitter.com/search?q=SNSD) | N/A |
+| 26 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
+| 27 | [luhut](http://twitter.com/search?q=luhut) | N/A |
+| 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 29 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 30 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 31 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 32 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 33 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 34 | [Salting](http://twitter.com/search?q=Salting) | N/A |
+| 35 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
 | 36 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
-| 37 | [#VichyRetinolxFourth](http://twitter.com/search?q=%23VichyRetinolxFourth) | N/A |
-| 38 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 39 | [#GalaPremiereหุ่นพยนต์](http://twitter.com/search?q=%23GalaPremiere%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
-| 40 | [#PercumaLaporPolisi](http://twitter.com/search?q=%23PercumaLaporPolisi) | N/A |
-| 41 | [#SalamToTheMoon](http://twitter.com/search?q=%23SalamToTheMoon) | N/A |
-| 42 | [#SiapLebihCuan](http://twitter.com/search?q=%23SiapLebihCuan) | N/A |
-| 43 | [#ROVER_TeaserImage3](http://twitter.com/search?q=%23ROVER_TeaserImage3) | N/A |
-| 44 | [#Tokocrypto](http://twitter.com/search?q=%23Tokocrypto) | N/A |
+| 37 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 38 | [#ROVER_TeaserImage3](http://twitter.com/search?q=%23ROVER_TeaserImage3) | N/A |
+| 39 | [#perindopeduliperempuan](http://twitter.com/search?q=%23perindopeduliperempuan) | N/A |
+| 40 | [#MidnightMuseumEP2](http://twitter.com/search?q=%23MidnightMuseumEP2) | N/A |
+| 41 | [#LockeySelcaDay](http://twitter.com/search?q=%23LockeySelcaDay) | N/A |
+| 42 | [#EXOLSelcaDay](http://twitter.com/search?q=%23EXOLSelcaDay) | N/A |
+| 43 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
+| 44 | [#VichyRetinolxFourth](http://twitter.com/search?q=%23VichyRetinolxFourth) | N/A |
+| 45 | [#PercumaLaporPolisi](http://twitter.com/search?q=%23PercumaLaporPolisi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-07 15:17:07 UTC`
+📆 Last Updated: `2023-03-07 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 2 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 3 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 1 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 2 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 5 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 10 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
-| 11 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 12 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 14 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 15 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 16 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 17 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 18 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 19 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 20 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 21 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
-| 22 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 23 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 24 | [Misled](http://twitter.com/search?q=Misled) | N/A |
-| 25 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 26 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 27 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
-| 28 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 29 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 30 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 31 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 32 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 33 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 34 | [Tiffany AF1s](http://twitter.com/search?q=Tiffany+AF1s) | N/A |
-| 35 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 36 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
-| 37 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 38 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
-| 39 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 40 | [NBC News](http://twitter.com/search?q=NBC+News) | N/A |
-| 41 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 42 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
-| 43 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 44 | [JPOW](http://twitter.com/search?q=JPOW) | N/A |
-| 45 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 46 | [$TRKA](http://twitter.com/search?q=%24TRKA) | N/A |
-| 47 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 48 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 49 | [LIED](http://twitter.com/search?q=LIED) | N/A |
-| 50 | [Grand Rising](http://twitter.com/search?q=Grand+Rising) | N/A |
+| 5 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 6 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 7 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
+| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 11 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 12 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
+| 13 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 14 | [Pro-Ukrainian](http://twitter.com/search?q=Pro-Ukrainian) | N/A |
+| 15 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 16 | [JJ Reddick](http://twitter.com/search?q=JJ+Reddick) | N/A |
+| 17 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
+| 18 | [#chainsawman122](http://twitter.com/search?q=%23chainsawman122) | N/A |
+| 19 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 20 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 21 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 23 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 24 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 25 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 26 | [SNKRS app](http://twitter.com/search?q=SNKRS+app) | N/A |
+| 27 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 28 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
+| 29 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 30 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 31 | [Two Americans](http://twitter.com/search?q=Two+Americans) | N/A |
+| 32 | [Debra Lee](http://twitter.com/search?q=Debra+Lee) | N/A |
+| 33 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 34 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 35 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 36 | [Tiffany AF1](http://twitter.com/search?q=Tiffany+AF1) | N/A |
+| 37 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 38 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 39 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 40 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 41 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 42 | [Miu Miu](http://twitter.com/search?q=Miu+Miu) | N/A |
+| 43 | [Misled](http://twitter.com/search?q=Misled) | N/A |
+| 44 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 45 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 46 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 47 | [Devin Brown](http://twitter.com/search?q=Devin+Brown) | N/A |
+| 48 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 49 | [JetBlue](http://twitter.com/search?q=JetBlue) | N/A |
+| 50 | [Liars](http://twitter.com/search?q=Liars) | N/A |
 
 
 

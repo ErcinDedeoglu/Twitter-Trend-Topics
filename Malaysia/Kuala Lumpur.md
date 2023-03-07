@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-07 15:16:50 UTC`
+📆 Last Updated: `2023-03-07 16:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 1 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
 | 2 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 3 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 4 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 5 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 6 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 7 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
-| 8 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
+| 3 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 4 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
+| 5 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 6 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 7 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 8 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
 | 9 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 10 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 11 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 12 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 13 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 14 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 17 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 18 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 19 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 10 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
+| 11 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 12 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
+| 13 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 14 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 15 | [Salam Nisfu Syaaban](http://twitter.com/search?q=Salam+Nisfu+Syaaban) | N/A |
+| 16 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 17 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 18 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 19 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
 | 20 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 22 | [Knights of Cydonia](http://twitter.com/search?q=Knights+of+Cydonia) | N/A |
-| 23 | [shawn mendes](http://twitter.com/search?q=shawn+mendes) | Shawn Mendes is a Canadian singer and songwriter. He is best known for his hit singles "Stitches", "Treat You Better", and "In My Blood". He has released three studio albums, Handwritten (2015), Illuminate (2016), and Shawn Mendes (2018). His music has been described as pop, pop rock, and folk-pop. |
-| 24 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 25 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 26 | [Baek Yerin](http://twitter.com/search?q=Baek+Yerin) | N/A |
-| 27 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 21 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 25 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 26 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 28 | [Olivia Rodrigo](http://twitter.com/search?q=Olivia+Rodrigo) | N/A |
-| 29 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 30 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 31 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 34 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 36 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 29 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 30 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 31 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 32 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 35 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 36 | [riki](http://twitter.com/search?q=riki) | N/A |
 | 37 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 | 38 | [One Ok Rock](http://twitter.com/search?q=One+Ok+Rock) | N/A |
-| 39 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
-| 40 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 41 | [Minhee](http://twitter.com/search?q=Minhee) | N/A |
-| 42 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 43 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 44 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
-| 47 | [Niki](http://twitter.com/search?q=Niki) | N/A |
-| 48 | [hcws](http://twitter.com/search?q=hcws) | N/A |
-| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 50 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
+| 39 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 40 | [Minhee](http://twitter.com/search?q=Minhee) | N/A |
+| 41 | [umno](http://twitter.com/search?q=umno) | N/A |
+| 42 | [difflam](http://twitter.com/search?q=difflam) | N/A |
+| 43 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 44 | [HCWs](http://twitter.com/search?q=HCWs) | N/A |
+| 45 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 46 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 47 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
+| 48 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
+| 49 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 50 | [Sasaeng](http://twitter.com/search?q=Sasaeng) | N/A |
 
 
 

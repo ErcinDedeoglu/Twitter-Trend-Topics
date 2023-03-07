@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-07 15:17:14 UTC`
+📆 Last Updated: `2023-03-07 16:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Guatemala
 | 1 | [Laje](http://twitter.com/search?q=Laje) | N/A |
 | 2 | [#CNCOENGUATEMALA](http://twitter.com/search?q=%23CNCOENGUATEMALA) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 5 | [Los de la UVG](http://twitter.com/search?q=Los+de+la+UVG) | N/A |
+| 4 | [Los de la UVG](http://twitter.com/search?q=Los+de+la+UVG) | N/A |
+| 5 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
 | 6 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
 | 7 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 8 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
-| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 10 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
-| 11 | [Vanita](http://twitter.com/search?q=Vanita) | N/A |
-| 12 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 14 | [#girapresidencial2023](http://twitter.com/search?q=%23girapresidencial2023) | N/A |
-| 15 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 16 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 17 | [la usac](http://twitter.com/search?q=la+usac) | N/A |
-| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 19 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
-| 20 | [#PromiseChristmasLove](http://twitter.com/search?q=%23PromiseChristmasLove) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 23 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 24 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 26 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 27 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 29 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 30 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 31 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 32 | [Jajaa](http://twitter.com/search?q=Jajaa) | N/A |
-| 33 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 35 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 38 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 39 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
-| 40 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 41 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 42 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
-| 43 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 44 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 45 | [Merced](http://twitter.com/search?q=Merced) | N/A |
-| 46 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 47 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 48 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 49 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 50 | [segundo domingo de cuaresma](http://twitter.com/search?q=segundo+domingo+de+cuaresma) | N/A |
+| 8 | [Vanita](http://twitter.com/search?q=Vanita) | N/A |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
+| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 12 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 13 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
+| 14 | [Cacif](http://twitter.com/search?q=Cacif) | N/A |
+| 15 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 16 | [#girapresidencial2023](http://twitter.com/search?q=%23girapresidencial2023) | N/A |
+| 17 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 18 | [la usac](http://twitter.com/search?q=la+usac) | N/A |
+| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 20 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
+| 21 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 22 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 23 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 24 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 25 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 26 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 27 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 28 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 30 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 31 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 32 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 33 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 34 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 35 | [Jajaa](http://twitter.com/search?q=Jajaa) | N/A |
+| 36 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 37 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 38 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 40 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 41 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 42 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
+| 43 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 44 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
+| 45 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 46 | [Merced](http://twitter.com/search?q=Merced) | N/A |
+| 47 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 48 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 49 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 50 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 
 
 
