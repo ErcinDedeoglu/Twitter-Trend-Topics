@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-07 10:17:00 UTC`
+📆 Last Updated: `2023-03-07 11:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 4 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
-| 5 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 7 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
-| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 10 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 11 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 12 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 15 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 16 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 17 | [Schiggy](http://twitter.com/search?q=Schiggy) | N/A |
-| 18 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 20 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 21 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 22 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
-| 23 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 24 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 25 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 26 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 27 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 28 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 29 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 30 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 31 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 32 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
-| 33 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 34 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 35 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 37 | [Klimaleugner](http://twitter.com/search?q=Klimaleugner) | N/A |
-| 38 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
-| 41 | [Scan](http://twitter.com/search?q=Scan) | N/A |
-| 42 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 43 | [Ambulanz](http://twitter.com/search?q=Ambulanz) | N/A |
-| 44 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 2 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 3 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 4 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
+| 5 | [#SSCSGE](http://twitter.com/search?q=%23SSCSGE) | N/A |
+| 6 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
+| 7 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 8 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 11 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 12 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 13 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 14 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
+| 15 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 16 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 17 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 18 | [Lebensaufgabe](http://twitter.com/search?q=Lebensaufgabe) | N/A |
+| 19 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 22 | [Schiggy](http://twitter.com/search?q=Schiggy) | N/A |
+| 23 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 24 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 25 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 26 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 27 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 28 | [salvatore](http://twitter.com/search?q=salvatore) | N/A |
+| 29 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 30 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
+| 31 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 32 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
+| 33 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 34 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 35 | [Gaspreis](http://twitter.com/search?q=Gaspreis) | N/A |
+| 36 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
+| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 38 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 39 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 40 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 41 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 42 | [Klimaleugner](http://twitter.com/search?q=Klimaleugner) | N/A |
+| 43 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 44 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
 | 45 | [Berufe](http://twitter.com/search?q=Berufe) | N/A |
-| 46 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 47 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 48 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 46 | [Scan](http://twitter.com/search?q=Scan) | N/A |
+| 47 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
+| 48 | [Moleküle](http://twitter.com/search?q=Molek%c3%bcle) | N/A |
 
 
 

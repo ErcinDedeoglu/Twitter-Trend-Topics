@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-07 10:16:57 UTC`
+📆 Last Updated: `2023-03-07 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 2 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 3 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 4 | [#ECFG16](http://twitter.com/search?q=%23ECFG16) | N/A |
-| 5 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 6 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 4 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 5 | [#ECFG16](http://twitter.com/search?q=%23ECFG16) | N/A |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 7 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
-| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [#scrrbs](http://twitter.com/search?q=%23scrrbs) | N/A |
-| 10 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
-| 11 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 12 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 14 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
-| 15 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
-| 16 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 17 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 18 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 19 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
-| 20 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 21 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 22 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 23 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Zugewinn](http://twitter.com/search?q=Zugewinn) | N/A |
-| 26 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
-| 27 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 28 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 29 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
-| 30 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 31 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 32 | [Tatsachen](http://twitter.com/search?q=Tatsachen) | N/A |
-| 33 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
-| 34 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 35 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 36 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 37 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
-| 38 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
-| 39 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
-| 40 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
-| 41 | [Parteichefin](http://twitter.com/search?q=Parteichefin) | N/A |
-| 42 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 43 | [köfer](http://twitter.com/search?q=k%c3%b6fer) | N/A |
-| 44 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 45 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
-| 46 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
-| 47 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 48 | [Nationalratswahl](http://twitter.com/search?q=Nationalratswahl) | N/A |
-| 49 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 50 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 8 | [#scrrbs](http://twitter.com/search?q=%23scrrbs) | N/A |
+| 9 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 10 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 11 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 12 | [Kärnten](http://twitter.com/search?q=K%c3%a4rnten) | N/A |
+| 13 | [Kärntner](http://twitter.com/search?q=K%c3%a4rntner) | N/A |
+| 14 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 15 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 16 | [Kampfabstimmung](http://twitter.com/search?q=Kampfabstimmung) | N/A |
+| 17 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 18 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 21 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 22 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
+| 23 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 24 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 25 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
+| 26 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
+| 27 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 28 | [Zugewinn](http://twitter.com/search?q=Zugewinn) | N/A |
+| 29 | [sieger](http://twitter.com/search?q=sieger) | N/A |
+| 30 | [TY WN TAG TEAM](http://twitter.com/search?q=TY+WN+TAG+TEAM) | N/A |
+| 31 | [Tatsachen](http://twitter.com/search?q=Tatsachen) | N/A |
+| 32 | [Guten Morgen Peter](http://twitter.com/search?q=Guten+Morgen+Peter) | N/A |
+| 33 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
+| 34 | [Parteichefin](http://twitter.com/search?q=Parteichefin) | N/A |
+| 35 | [köfer](http://twitter.com/search?q=k%c3%b6fer) | N/A |
+| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 37 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 38 | [nationalratswahl](http://twitter.com/search?q=nationalratswahl) | N/A |
+| 39 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 40 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 41 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 42 | [wahlergebnis](http://twitter.com/search?q=wahlergebnis) | N/A |
+| 43 | [Guten Morgen Leo](http://twitter.com/search?q=Guten+Morgen+Leo) | N/A |
+| 44 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 45 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
+| 46 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 47 | [Faymann](http://twitter.com/search?q=Faymann) | N/A |
+| 48 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 49 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 50 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
 
 
 

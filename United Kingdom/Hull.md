@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-03-07 10:16:44 UTC`
+📆 Last Updated: `2023-03-07 11:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 2 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
-| 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 3 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 5 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
 | 6 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 7 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 8 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 7 | [Gapes](http://twitter.com/search?q=Gapes) | N/A |
+| 8 | [Razor](http://twitter.com/search?q=Razor) | N/A |
 | 9 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
-| 10 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 12 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 13 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 10 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 12 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
 | 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 16 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 17 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 18 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 19 | [Northumberland](http://twitter.com/search?q=Northumberland) | N/A |
-| 20 | [Albanian](http://twitter.com/search?q=Albanian) | N/A |
-| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 22 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 17 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 18 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 19 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 21 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 22 | [Channel](http://twitter.com/search?q=Channel) | N/A |
 | 23 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 24 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 25 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 26 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 27 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 28 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 29 | [#ASongOrMovingForHearing](http://twitter.com/search?q=%23ASongOrMovingForHearing) | N/A |
-| 30 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 31 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 32 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 33 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
-| 34 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 35 | [#caress](http://twitter.com/search?q=%23caress) | N/A |
-| 36 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 37 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
-| 38 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 39 | [#pink](http://twitter.com/search?q=%23pink) | N/A |
-| 40 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
-| 41 | [#bbcgms](http://twitter.com/search?q=%23bbcgms) | N/A |
-| 42 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 43 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 44 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 45 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 46 | [#Aberdeen](http://twitter.com/search?q=%23Aberdeen) | N/A |
+| 24 | [Northumberland](http://twitter.com/search?q=Northumberland) | N/A |
+| 25 | [Albanian](http://twitter.com/search?q=Albanian) | N/A |
+| 26 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 27 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 28 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 29 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 30 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 31 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 32 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
+| 33 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 34 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 35 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 36 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 37 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 38 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
+| 39 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 40 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 41 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 42 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 43 | [#ASongOrMovingForHearing](http://twitter.com/search?q=%23ASongOrMovingForHearing) | N/A |
+| 44 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
+| 45 | [#tongueouttuesday](http://twitter.com/search?q=%23tongueouttuesday) | N/A |
 
 
 
