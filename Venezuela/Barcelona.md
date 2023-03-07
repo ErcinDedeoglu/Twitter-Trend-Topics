@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-07 05:16:21 UTC`
+📆 Last Updated: `2023-03-07 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,43 +23,43 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
 | 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 8 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
-| 9 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 10 | [El Coronel](http://twitter.com/search?q=El+Coronel) | N/A |
+| 9 | [El Coronel](http://twitter.com/search?q=El+Coronel) | N/A |
+| 10 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
 | 11 | [Los Naranjos](http://twitter.com/search?q=Los+Naranjos) | N/A |
 | 12 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 13 | [Fina Rojas](http://twitter.com/search?q=Fina+Rojas) | N/A |
-| 14 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 15 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
-| 16 | [ÚLTIMA CITA TOUR VENEZUELA](http://twitter.com/search?q=%c3%9aLTIMA+CITA+TOUR+VENEZUELA) | N/A |
-| 17 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 18 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 19 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 20 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 21 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
-| 22 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 23 | [El Liverpool](http://twitter.com/search?q=El+Liverpool) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
-| 26 | [El General](http://twitter.com/search?q=El+General) | N/A |
-| 27 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 28 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 29 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 30 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 31 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 32 | [Cien](http://twitter.com/search?q=Cien) | N/A |
+| 14 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
+| 15 | [ÚLTIMA CITA TOUR VENEZUELA](http://twitter.com/search?q=%c3%9aLTIMA+CITA+TOUR+VENEZUELA) | N/A |
+| 16 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 17 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 18 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 19 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
+| 20 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
+| 21 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
+| 22 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 23 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
+| 24 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 25 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 26 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
+| 27 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
+| 28 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 29 | [Cien](http://twitter.com/search?q=Cien) | N/A |
+| 30 | [El General](http://twitter.com/search?q=El+General) | N/A |
+| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 32 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
 | 33 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 34 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 35 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 37 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 35 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
+| 36 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
+| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 38 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 39 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
-| 40 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 41 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 42 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
-| 43 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
-| 44 | [maracayeros](http://twitter.com/search?q=maracayeros) | N/A |
-| 45 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 39 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 40 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
+| 41 | [maracayeros](http://twitter.com/search?q=maracayeros) | N/A |
+| 42 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
+| 43 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 44 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
+| 45 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
 | 46 | [Rosneft](http://twitter.com/search?q=Rosneft) | N/A |
 
 

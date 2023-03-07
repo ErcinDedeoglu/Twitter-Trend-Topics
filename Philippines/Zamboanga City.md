@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-07 05:16:44 UTC`
+📆 Last Updated: `2023-03-07 06:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
 | 2 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 3 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
-| 4 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 3 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 4 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
 | 5 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 6 | [#NoToPUVPhaseout](http://twitter.com/search?q=%23NoToPUVPhaseout) | N/A |
-| 7 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
-| 8 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
-| 9 | [Diokno](http://twitter.com/search?q=Diokno) | N/A |
-| 10 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 11 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
-| 12 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 13 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 16 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
-| 17 | [GAYUMA MV Teaser 1](http://twitter.com/search?q=GAYUMA+MV+Teaser+1) | N/A |
-| 18 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 19 | [D-14 BOBBY COMEBACK](http://twitter.com/search?q=D-14+BOBBY+COMEBACK) | N/A |
-| 20 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 21 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
-| 22 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 23 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
-| 24 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
-| 25 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 26 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
-| 27 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 28 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
-| 29 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
-| 30 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 31 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
-| 32 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 33 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 34 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
-| 35 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
-| 36 | [MINGLE WITH JIMIN](http://twitter.com/search?q=MINGLE+WITH+JIMIN) | N/A |
-| 37 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 38 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
-| 39 | [MOM NOW SHOWING](http://twitter.com/search?q=MOM+NOW+SHOWING) | N/A |
-| 40 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
-| 41 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
-| 42 | [prince ang piegbabalik](http://twitter.com/search?q=prince+ang+piegbabalik) | N/A |
-| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 44 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 45 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
-| 46 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 47 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
-| 48 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
-| 49 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 6 | [#BOBBYSOLOSINGLE_D14](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D14) | N/A |
+| 7 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 8 | [Mahae](http://twitter.com/search?q=Mahae) | N/A |
+| 9 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
+| 10 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 11 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
+| 12 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
+| 13 | [GAYUMA MV Teaser 1](http://twitter.com/search?q=GAYUMA+MV+Teaser+1) | N/A |
+| 14 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 15 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
+| 16 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 17 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
+| 20 | [felip is coming back](http://twitter.com/search?q=felip+is+coming+back) | N/A |
+| 21 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 22 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 23 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
+| 24 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
+| 25 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 26 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 27 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
+| 28 | [Taeyang sunbaenim](http://twitter.com/search?q=Taeyang+sunbaenim) | N/A |
+| 29 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
+| 30 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 31 | [Benjamin Diokno](http://twitter.com/search?q=Benjamin+Diokno) | N/A |
+| 32 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 33 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
+| 34 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
+| 35 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
+| 36 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 37 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
+| 38 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
+| 39 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 40 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 41 | [Tau Gamma Phi](http://twitter.com/search?q=Tau+Gamma+Phi) | N/A |
+| 42 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
+| 43 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
+| 44 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
+| 45 | [Quen](http://twitter.com/search?q=Quen) | N/A |
+| 46 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
+| 47 | [MOM NOW SHOWING](http://twitter.com/search?q=MOM+NOW+SHOWING) | N/A |
+| 48 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 49 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
 
 
 

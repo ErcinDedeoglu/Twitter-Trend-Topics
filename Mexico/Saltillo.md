@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-07 05:16:18 UTC`
+📆 Last Updated: `2023-03-07 06:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 2 | [#PorLaVilla360](http://twitter.com/search?q=%23PorLaVilla360) | N/A |
-| 3 | [#Formula1WorksWhitNarcos](http://twitter.com/search?q=%23Formula1WorksWhitNarcos) | N/A |
-| 4 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 5 | [MILLION DOUBLE GOLDEN](http://twitter.com/search?q=MILLION+DOUBLE+GOLDEN) | N/A |
-| 6 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 7 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 8 | [STARTED CWT](http://twitter.com/search?q=STARTED+CWT) | N/A |
-| 9 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 1 | [#Formula1WorksWhitNarcos](http://twitter.com/search?q=%23Formula1WorksWhitNarcos) | N/A |
+| 2 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 3 | [#PorLaVilla360](http://twitter.com/search?q=%23PorLaVilla360) | N/A |
+| 4 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 5 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 6 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 7 | [MILLION DOUBLE GOLDEN](http://twitter.com/search?q=MILLION+DOUBLE+GOLDEN) | N/A |
+| 8 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 9 | [STARTED CWT](http://twitter.com/search?q=STARTED+CWT) | N/A |
 | 10 | [Mar Castro](http://twitter.com/search?q=Mar+Castro) | N/A |
-| 11 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
-| 12 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 13 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [Mario Aburto](http://twitter.com/search?q=Mario+Aburto) | N/A |
-| 16 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 17 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 18 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 19 | [Jinwoo](http://twitter.com/search?q=Jinwoo) | N/A |
-| 20 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 21 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
-| 22 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 23 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 24 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 25 | [Asier](http://twitter.com/search?q=Asier) | N/A |
-| 26 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 27 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
-| 28 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 29 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
-| 30 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 31 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
-| 32 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 12 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 13 | [Mario Aburto](http://twitter.com/search?q=Mario+Aburto) | N/A |
+| 14 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
+| 15 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 16 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 17 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
+| 18 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 19 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 22 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 23 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
+| 24 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 25 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
+| 26 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 27 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 28 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 29 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 30 | [Asier](http://twitter.com/search?q=Asier) | N/A |
+| 31 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
+| 32 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 33 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 34 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
 | 35 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
 | 36 | [Robar](http://twitter.com/search?q=Robar) | N/A |
-| 37 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 38 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 39 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 37 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 38 | [#lamesareñoñaenvivo](http://twitter.com/search?q=%23lamesare%c3%b1o%c3%b1aenvivo) | N/A |
+| 39 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
 | 40 | [#진진_드림하이](http://twitter.com/search?q=%23%ec%a7%84%ec%a7%84_%eb%93%9c%eb%a6%bc%ed%95%98%ec%9d%b4) | N/A |
 | 41 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
-| 42 | [#LaMesaReñoñaEnVivo](http://twitter.com/search?q=%23LaMesaRe%c3%b1o%c3%b1aEnVivo) | N/A |
-| 43 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
-| 44 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
-| 45 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
-| 46 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
-| 47 | [#TeamNiall](http://twitter.com/search?q=%23TeamNiall) | N/A |
+| 42 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
+| 43 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
+| 44 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
+| 45 | [#CalderonSiSabia](http://twitter.com/search?q=%23CalderonSiSabia) | N/A |
+| 46 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-07 05:17:12 UTC`
+📆 Last Updated: `2023-03-07 06:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 1 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
 | 2 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 4 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 5 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 7 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
-| 8 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 9 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 10 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 11 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 12 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 5 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 6 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 7 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 9 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
+| 10 | [#montagslaecheln](http://twitter.com/search?q=%23montagslaecheln) | N/A |
+| 11 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 12 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
 | 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 14 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 15 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 16 | [klitschkos](http://twitter.com/search?q=klitschkos) | N/A |
-| 17 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 18 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 20 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 21 | [aken](http://twitter.com/search?q=aken) | N/A |
-| 22 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 23 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 24 | [Conni](http://twitter.com/search?q=Conni) | N/A |
-| 25 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 26 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 27 | [lehramt](http://twitter.com/search?q=lehramt) | N/A |
-| 28 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 29 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
-| 30 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 31 | [Scan](http://twitter.com/search?q=Scan) | N/A |
-| 32 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 33 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 34 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 35 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 36 | [speiseöl](http://twitter.com/search?q=speise%c3%b6l) | N/A |
-| 37 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 38 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 39 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 40 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 41 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
-| 42 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 43 | [urteil der geschichte](http://twitter.com/search?q=urteil+der+geschichte) | N/A |
-| 44 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 45 | [fehlermeldung](http://twitter.com/search?q=fehlermeldung) | N/A |
-| 46 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 49 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
-| 50 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
+| 14 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 15 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 17 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 18 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 19 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 20 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 21 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 22 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 23 | [klitschkos](http://twitter.com/search?q=klitschkos) | N/A |
+| 24 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 25 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 26 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 27 | [Guten Morgen Daniel](http://twitter.com/search?q=Guten+Morgen+Daniel) | N/A |
+| 28 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 29 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 30 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 31 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 32 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 33 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 34 | [Scan](http://twitter.com/search?q=Scan) | N/A |
+| 35 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 36 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 37 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 38 | [Ambulanz](http://twitter.com/search?q=Ambulanz) | N/A |
+| 39 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
+| 40 | [lehramt](http://twitter.com/search?q=lehramt) | N/A |
+| 41 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 42 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 43 | [dammbruch](http://twitter.com/search?q=dammbruch) | N/A |
+| 44 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 45 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 46 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 47 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
+| 48 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 49 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 50 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
 
 
 

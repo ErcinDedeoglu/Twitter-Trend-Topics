@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-07 05:16:22 UTC`
+📆 Last Updated: `2023-03-07 06:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 2 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 3 | [Pampulha](http://twitter.com/search?q=Pampulha) | N/A |
-| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 5 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 6 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
-| 7 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 8 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 9 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
-| 10 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 11 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 12 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 13 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 14 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
-| 15 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 16 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 17 | [Mayara](http://twitter.com/search?q=Mayara) | N/A |
-| 18 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 19 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 20 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 21 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 22 | [Isabel Teixeira](http://twitter.com/search?q=Isabel+Teixeira) | N/A |
-| 23 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 24 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 25 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 26 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 27 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
-| 28 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 29 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 30 | [Poze](http://twitter.com/search?q=Poze) | N/A |
-| 31 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 33 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 34 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 35 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 36 | [POPTIME](http://twitter.com/search?q=POPTIME) | N/A |
-| 37 | [Bruna e Key](http://twitter.com/search?q=Bruna+e+Key) | N/A |
-| 38 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 39 | [Arregona](http://twitter.com/search?q=Arregona) | N/A |
-| 40 | [Fred Dove](http://twitter.com/search?q=Fred+Dove) | N/A |
-| 41 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 42 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 43 | [Vade](http://twitter.com/search?q=Vade) | N/A |
-| 44 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 45 | [#HistoriasImpossiveis](http://twitter.com/search?q=%23HistoriasImpossiveis) | N/A |
-| 46 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 47 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 48 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 4 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
+| 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 6 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 7 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 8 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 9 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 10 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 11 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 12 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 13 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 14 | [Mayara](http://twitter.com/search?q=Mayara) | N/A |
+| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 16 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 18 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 19 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 20 | [Isabel Teixeira](http://twitter.com/search?q=Isabel+Teixeira) | N/A |
+| 21 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 22 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
+| 23 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 24 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
+| 25 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 26 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 27 | [Poze](http://twitter.com/search?q=Poze) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 30 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 31 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 32 | [POPTIME](http://twitter.com/search?q=POPTIME) | N/A |
+| 33 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 34 | [Bruna e Key](http://twitter.com/search?q=Bruna+e+Key) | N/A |
+| 35 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 36 | [Arregona](http://twitter.com/search?q=Arregona) | N/A |
+| 37 | [Fred Dove](http://twitter.com/search?q=Fred+Dove) | N/A |
+| 38 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 39 | [Vade](http://twitter.com/search?q=Vade) | N/A |
+| 40 | [Ranço](http://twitter.com/search?q=Ran%c3%a7o) | N/A |
+| 41 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 42 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 43 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 44 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 45 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 46 | [#HistoriasImpossiveis](http://twitter.com/search?q=%23HistoriasImpossiveis) | N/A |
+| 47 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 48 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
 | 49 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 50 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 50 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
 
 
 

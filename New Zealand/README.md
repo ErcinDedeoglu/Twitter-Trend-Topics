@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-07 05:17:15 UTC`
+📆 Last Updated: `2023-03-07 06:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
-| 2 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 3 | [Maharey](http://twitter.com/search?q=Maharey) | N/A |
-| 4 | [Census](http://twitter.com/search?q=Census) | N/A |
-| 5 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 2 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
+| 3 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 4 | [#Census2023](http://twitter.com/search?q=%23Census2023) | N/A |
+| 5 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 6 | [Maharey](http://twitter.com/search?q=Maharey) | N/A |
 | 7 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 8 | [Waka Kotahi](http://twitter.com/search?q=Waka+Kotahi) | N/A |
-| 9 | [Simeon Brown](http://twitter.com/search?q=Simeon+Brown) | N/A |
-| 10 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 8 | [waka kotahi](http://twitter.com/search?q=waka+kotahi) | N/A |
+| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 11 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 12 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 13 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 14 | [#LoveOnTourAuckland](http://twitter.com/search?q=%23LoveOnTourAuckland) | N/A |
-| 15 | [Waikato](http://twitter.com/search?q=Waikato) | N/A |
+| 12 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 13 | [#LoveOnTourAuckland](http://twitter.com/search?q=%23LoveOnTourAuckland) | N/A |
+| 14 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 15 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
 | 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 18 | [paul henry](http://twitter.com/search?q=paul+henry) | N/A |
-| 19 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 17 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 19 | [paul henry](http://twitter.com/search?q=paul+henry) | N/A |
 | 20 | [eces](http://twitter.com/search?q=eces) | N/A |
-| 21 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
+| 21 | [Lloyd](http://twitter.com/search?q=Lloyd) | N/A |
 | 22 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
 | 23 | [Tara](http://twitter.com/search?q=Tara) | Tara is a female name of Irish origin, derived from the Gaelic word “tor” meaning “hill” or “rocky hill.” It is also associated with the Hindu goddess Tara, who is a representation of divine energy and compassion. In English, Tara can mean “star” or “rocky hill.” |
-| 24 | [Carterton](http://twitter.com/search?q=Carterton) | N/A |
+| 24 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
 | 25 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 26 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 27 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 27 | [Carterton](http://twitter.com/search?q=Carterton) | N/A |
 | 28 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
-| 29 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
-| 30 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 31 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
-| 32 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 29 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
+| 30 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
+| 31 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
+| 32 | [Waikato](http://twitter.com/search?q=Waikato) | N/A |
 | 33 | [Palmerston North](http://twitter.com/search?q=Palmerston+North) | N/A |
-| 34 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 35 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 36 | [Labours](http://twitter.com/search?q=Labours) | N/A |
-| 37 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 38 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
-| 39 | [beach haven](http://twitter.com/search?q=beach+haven) | N/A |
-| 40 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 41 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
-| 42 | [Captain Cook](http://twitter.com/search?q=Captain+Cook) | N/A |
-| 43 | [Wright](http://twitter.com/search?q=Wright) | N/A |
-| 44 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 45 | [newtown festival](http://twitter.com/search?q=newtown+festival) | N/A |
-| 46 | [ncea](http://twitter.com/search?q=ncea) | N/A |
-| 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 48 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 49 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 50 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 36 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
+| 37 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 38 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 39 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 40 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 41 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 42 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 43 | [Captain Cook](http://twitter.com/search?q=Captain+Cook) | N/A |
+| 44 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 45 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 46 | [beach haven](http://twitter.com/search?q=beach+haven) | N/A |
+| 47 | [Hang](http://twitter.com/search?q=Hang) | N/A |
+| 48 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 49 | [Labours](http://twitter.com/search?q=Labours) | N/A |
+| 50 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
 
 
 
