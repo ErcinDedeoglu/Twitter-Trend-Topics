@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-07 21:16:38 UTC`
+📆 Last Updated: `2023-03-07 22:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
 | 2 | [Smiles for Build](http://twitter.com/search?q=Smiles+for+Build) | N/A |
-| 3 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
-| 4 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
-| 5 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 3 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
+| 4 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 5 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 6 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
 | 7 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 8 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
 | 9 | [Peer](http://twitter.com/search?q=Peer) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 45 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 | 46 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 47 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 48 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 48 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 49 | [Dump](http://twitter.com/search?q=Dump) | N/A |
 | 50 | [Dùng](http://twitter.com/search?q=D%c3%b9ng) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-07 21:16:21 UTC`
+📆 Last Updated: `2023-03-07 22:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 3 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
+| 5 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
 | 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 7 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 8 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 9 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 10 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 7 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
+| 8 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 9 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 10 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
 | 11 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 12 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 13 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 14 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 15 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 16 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
-| 17 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 19 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
-| 20 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 21 | [Justiceiro](http://twitter.com/search?q=Justiceiro) | N/A |
-| 22 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 24 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 25 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 26 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 27 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
-| 28 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 29 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 30 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 31 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
-| 32 | [Demolidor](http://twitter.com/search?q=Demolidor) | N/A |
-| 33 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 34 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
-| 35 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
-| 36 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 37 | [#ChampionsNoSBT](http://twitter.com/search?q=%23ChampionsNoSBT) | N/A |
-| 38 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
-| 39 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 40 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 43 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 44 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 46 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 47 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
-| 48 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 49 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 12 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 13 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 14 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 15 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 16 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 19 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 20 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 21 | [Brugge](http://twitter.com/search?q=Brugge) | N/A |
+| 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 23 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 24 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 25 | [Justiceiro](http://twitter.com/search?q=Justiceiro) | N/A |
+| 26 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 28 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 29 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 30 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 31 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 32 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
+| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 34 | [#ChampionsNoSBT](http://twitter.com/search?q=%23ChampionsNoSBT) | N/A |
+| 35 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 36 | [Demolidor](http://twitter.com/search?q=Demolidor) | N/A |
+| 37 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 38 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
+| 39 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 40 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 41 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
+| 42 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 43 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
+| 44 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 45 | [Cbum](http://twitter.com/search?q=Cbum) | N/A |
+| 46 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 47 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 48 | [Borrusia](http://twitter.com/search?q=Borrusia) | N/A |
+| 49 | [João Henrique Catan](http://twitter.com/search?q=Jo%c3%a3o+Henrique+Catan) | N/A |
 
 
 

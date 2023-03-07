@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-07 21:16:41 UTC`
+📆 Last Updated: `2023-03-07 22:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#جسر_الملك_فهد](http://twitter.com/search?q=%23%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d9%81%d9%87%d8%af) | N/A |
-| 2 | [#تخبيب_المجتمع](http://twitter.com/search?q=%23%d8%aa%d8%ae%d8%a8%d9%8a%d8%a8_%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 3 | [#بيبان23](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%a8%d8%a7%d9%8623) | N/A |
-| 4 | [سعيد الغامدي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%ba%d8%a7%d9%85%d8%af%d9%8a) | N/A |
-| 5 | [#علاج_ايقاف_الخدمات](http://twitter.com/search?q=%23%d8%b9%d9%84%d8%a7%d8%ac_%d8%a7%d9%8a%d9%82%d8%a7%d9%81_%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa) | N/A |
-| 6 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 7 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
+| 1 | [#تخبيب_المجتمع](http://twitter.com/search?q=%23%d8%aa%d8%ae%d8%a8%d9%8a%d8%a8_%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 2 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 4 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
+| 5 | [مهند الشنقيطي](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d9%82%d9%8a%d8%b7%d9%8a) | N/A |
+| 6 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 7 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
 | 8 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 9 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 10 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 11 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 9 | [#البزنس91](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b391) | N/A |
+| 10 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 11 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
 | 12 | [بروسيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 13 | [قول رحيم](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 16 | [كوفاسيتش](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7%d8%b3%d9%8a%d8%aa%d8%b4) | N/A |
-| 17 | [ماير](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a%d8%b1) | N/A |
-| 18 | [البلوز](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b2) | N/A |
-| 19 | [ايمري](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d9%8a) | N/A |
-| 20 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 21 | [تشيك](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%83) | N/A |
-| 22 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
-| 23 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
-| 24 | [بريدج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%af%d8%ac) | N/A |
-| 25 | [بروج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d8%ac) | N/A |
-| 26 | [مراد خضري](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%ae%d8%b6%d8%b1%d9%8a) | مراد خضري is an Arabic name meaning "Desired Green". |
-| 27 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 13 | [#زد_رصيدك43](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8343) | N/A |
+| 14 | [البلوز](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b2) | N/A |
+| 15 | [قول رحيم](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
+| 16 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 19 | [بروج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d8%ac) | N/A |
+| 20 | [ايمري](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d9%8a) | N/A |
+| 21 | [عصام الشوالي](http://twitter.com/search?q=%d8%b9%d8%b5%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 22 | [ماير](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a%d8%b1) | N/A |
+| 23 | [تشيك](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%83) | N/A |
+| 24 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 25 | [بريدج](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%af%d8%ac) | N/A |
+| 26 | [بيرلو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%84%d9%88) | N/A |
+| 27 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
 | 28 | [جاسم النبهان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d9%86%d8%a8%d9%87%d8%a7%d9%86) | N/A |
-| 29 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
-| 30 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
-| 31 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 32 | [عبدالله البقمي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a8%d9%82%d9%85%d9%8a) | N/A |
-| 33 | [الشكر الجزيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%83%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d9%84) | N/A |
-| 34 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 35 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
+| 29 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 30 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
+| 31 | [مراد خضري](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%ae%d8%b6%d8%b1%d9%8a) | مراد خضري is an Arabic name meaning "Desired Green". |
+| 32 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 33 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 34 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
+| 35 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
 | 36 | [اللون الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
-| 37 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
-| 38 | [الزبيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
-| 39 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 40 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 41 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 42 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 43 | [ابو لارا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d8%a7%d8%b1%d8%a7) | N/A |
-| 44 | [احمد حجازي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | N/A |
-| 45 | [زحل الحوت](http://twitter.com/search?q=%d8%b2%d8%ad%d9%84+%d8%a7%d9%84%d8%ad%d9%88%d8%aa) | N/A |
-| 46 | [#الاهلي_نجران](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
-| 47 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 48 | [#البزنس91](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b391) | N/A |
-| 49 | [#زد_رصيدك43](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8343) | N/A |
-| 50 | [#الزمالك_الترجي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83_%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a) | N/A |
+| 37 | [الشكر الجزيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%83%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d9%84) | N/A |
+| 38 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
+| 39 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
+| 40 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 41 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 42 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
+| 43 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
+| 44 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 45 | [#الاهلي_نجران](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
+| 46 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 47 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 48 | [#كادي_الجريسي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%af%d9%8a_%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%b3%d9%8a) | N/A |
+| 49 | [#الزمالك_الترجي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83_%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a) | N/A |
+| 50 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
 
 
 

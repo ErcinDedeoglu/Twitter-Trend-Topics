@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-03-07 21:16:34 UTC`
+📆 Last Updated: `2023-03-07 22:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [スターリング](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 1 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
 | 2 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
 | 3 | [ハヴァーツ](http://twitter.com/search?q=%e3%83%8f%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%84) | ハヴァーツ (Havarts) is a Japanese brand of clothing and accessories. The name is derived from the English word "heart" and is meant to represent the idea of expressing one's feelings through fashion. In English, Havarts can be translated to mean "expressing your heart through fashion". |
-| 4 | [ククレジャ](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ac%e3%82%b8%e3%83%a3) | N/A |
-| 5 | [ドルトムント](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
+| 4 | [スターリング](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 5 | [チェルシー](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%ab%e3%82%b7%e3%83%bc) | N/A |
 | 6 | [#影山優佳1st写真集](http://twitter.com/search?q=%23%e5%bd%b1%e5%b1%b1%e5%84%aa%e4%bd%b31st%e5%86%99%e7%9c%9f%e9%9b%86) | N/A |
-| 7 | [#髙地優吾誕生祭2023](http://twitter.com/search?q=%23%e9%ab%99%e5%9c%b0%e5%84%aa%e5%90%be%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 8 | [クリバリ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%90%e3%83%aa) | N/A |
-| 9 | [ブラント](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e3%83%88) | N/A |
-| 10 | [#メンテの日なのでssを貼る](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e3%81%ae%e6%97%a5%e3%81%aa%e3%81%ae%e3%81%a7ss%e3%82%92%e8%b2%bc%e3%82%8b) | "#メンテの日なのでssを貼る" is a hashtag used on social media in Japan. It translates to "It's maintenance day, so let's post screenshots". It is used to encourage people to post screenshots of their work or activities on maintenance days. |
-| 11 | [#おは戦50308ms](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650308ms) | N/A |
+| 7 | [ドルトムント](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
+| 8 | [#髙地優吾誕生祭2023](http://twitter.com/search?q=%23%e9%ab%99%e5%9c%b0%e5%84%aa%e5%90%be%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 9 | [#春は短し恋せよ男子](http://twitter.com/search?q=%23%e6%98%a5%e3%81%af%e7%9f%ad%e3%81%97%e6%81%8b%e3%81%9b%e3%82%88%e7%94%b7%e5%ad%90) | N/A |
+| 10 | [ギャラガー](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%a9%e3%82%ac%e3%83%bc) | ギャラガー is a Japanese arcade game released in 1988 by Namco. It is a vertical scrolling shooter game in which the player controls a spaceship to battle against aliens. In English, the title translates to "Galaga". |
+| 11 | [ククレジャ](http://twitter.com/search?q=%e3%82%af%e3%82%af%e3%83%ac%e3%82%b8%e3%83%a3) | N/A |
 | 12 | [チルウェル](http://twitter.com/search?q=%e3%83%81%e3%83%ab%e3%82%a6%e3%82%a7%e3%83%ab) | チルウェル is a Japanese word that means "chill well". It is used to express the idea of taking time to relax and enjoy life. |
-| 13 | [死の悪魔](http://twitter.com/search?q=%e6%ad%bb%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 14 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 15 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 16 | [ノストラダムスの大予言](http://twitter.com/search?q=%e3%83%8e%e3%82%b9%e3%83%88%e3%83%a9%e3%83%80%e3%83%a0%e3%82%b9%e3%81%ae%e5%a4%a7%e4%ba%88%e8%a8%80) | N/A |
-| 17 | [チェンソーマン](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3) | チェンソーマン (Chenso-man) is a Japanese term for a person who is good at making decisions and taking action. It is derived from the words "chenso" (decision) and "man" (person). In English, it can be translated as "decision maker". |
-| 18 | [第411回](http://twitter.com/search?q=%e7%ac%ac411%e5%9b%9e) | N/A |
-| 19 | [キガちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [ベリンガム](http://twitter.com/search?q=%e3%83%99%e3%83%aa%e3%83%b3%e3%82%ac%e3%83%a0) | N/A |
-| 21 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
-| 22 | [久保さん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%95%e3%82%93) | 久保さん (Kubo-san) is a Japanese honorific used to refer to someone with the surname Kubo. It is similar to the English honorific "Mr." or "Mrs." |
-| 23 | [オルトエウレカ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%88%e3%82%a8%e3%82%a6%e3%83%ac%e3%82%ab) | N/A |
-| 24 | [n-bunaさん](http://twitter.com/search?q=n-buna%e3%81%95%e3%82%93) | N/A |
-| 25 | [新キラー](http://twitter.com/search?q=%e6%96%b0%e3%82%ad%e3%83%a9%e3%83%bc) | N/A |
-| 26 | [自殺の悪魔](http://twitter.com/search?q=%e8%87%aa%e6%ae%ba%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 27 | [週の真ん中水曜日](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad%e6%b0%b4%e6%9b%9c%e6%97%a5) | N/A |
-| 28 | [桜井さん](http://twitter.com/search?q=%e6%a1%9c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 29 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
-| 30 | [根源的恐怖](http://twitter.com/search?q=%e6%a0%b9%e6%ba%90%e7%9a%84%e6%81%90%e6%80%96) | N/A |
-| 31 | [日々笑顔](http://twitter.com/search?q=%e6%97%a5%e3%80%85%e7%ac%91%e9%a1%94) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [吉田ヒロフミ](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e3%83%92%e3%83%ad%e3%83%95%e3%83%9f) | N/A |
-| 34 | [蓮見さん](http://twitter.com/search?q=%e8%93%ae%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
-| 35 | [ベンフィカ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%83%95%e3%82%a3%e3%82%ab) | N/A |
-| 36 | [Wordle 627](http://twitter.com/search?q=Wordle+627) | N/A |
-| 37 | [コーベル](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%99%e3%83%ab) | N/A |
-| 38 | [パウエル](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab) | N/A |
-| 39 | [モーエンツール](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%82%a8%e3%83%b3%e3%83%84%e3%83%bc%e3%83%ab) | N/A |
-| 40 | [フィルムRED](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0RED) | N/A |
-| 41 | [小松菜奈](http://twitter.com/search?q=%e5%b0%8f%e6%9d%be%e8%8f%9c%e5%a5%88) | N/A |
-| 42 | [ボブ女子化](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
-| 43 | [ボブカット女子化診断](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e3%82%ab%e3%83%83%e3%83%88%e5%a5%b3%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
-| 44 | [国際女性デー](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a5%b3%e6%80%a7%e3%83%87%e3%83%bc) | N/A |
-| 45 | [ナブナさん](http://twitter.com/search?q=%e3%83%8a%e3%83%96%e3%83%8a%e3%81%95%e3%82%93) | N/A |
-| 46 | [こーち誕生日](http://twitter.com/search?q=%e3%81%93%e3%83%bc%e3%81%a1%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 47 | [なこちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [生の悪魔](http://twitter.com/search?q=%e7%94%9f%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 49 | [文書の正確性の精査中止](http://twitter.com/search?q=%e6%96%87%e6%9b%b8%e3%81%ae%e6%ad%a3%e7%a2%ba%e6%80%a7%e3%81%ae%e7%b2%be%e6%9f%bb%e4%b8%ad%e6%ad%a2) | N/A |
+| 13 | [フェリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 14 | [プリシッチ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b7%e3%83%83%e3%83%81) | N/A |
+| 15 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 16 | [ベリンガム](http://twitter.com/search?q=%e3%83%99%e3%83%aa%e3%83%b3%e3%82%ac%e3%83%a0) | N/A |
+| 17 | [ザカリア](http://twitter.com/search?q=%e3%82%b6%e3%82%ab%e3%83%aa%e3%82%a2) | N/A |
+| 18 | [週の真ん中水曜日](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad%e6%b0%b4%e6%9b%9c%e6%97%a5) | N/A |
+| 19 | [ムドリク](http://twitter.com/search?q=%e3%83%a0%e3%83%89%e3%83%aa%e3%82%af) | ムドリク is a Japanese word that means "to be lost in thought". It is used to describe someone who is daydreaming or lost in their own thoughts. |
+| 20 | [クリバリ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%90%e3%83%aa) | N/A |
+| 21 | [第411回](http://twitter.com/search?q=%e7%ac%ac411%e5%9b%9e) | N/A |
+| 22 | [餃子の日](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
+| 23 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
+| 24 | [ノストラダムスの大予言](http://twitter.com/search?q=%e3%83%8e%e3%82%b9%e3%83%88%e3%83%a9%e3%83%80%e3%83%a0%e3%82%b9%e3%81%ae%e5%a4%a7%e4%ba%88%e8%a8%80) | N/A |
+| 25 | [ベンフィカ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%83%95%e3%82%a3%e3%82%ab) | N/A |
+| 26 | [ブラント](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e3%83%88) | N/A |
+| 27 | [国際女性デー](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a5%b3%e6%80%a7%e3%83%87%e3%83%bc) | N/A |
+| 28 | [蹴り直し](http://twitter.com/search?q=%e8%b9%b4%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 29 | [ギョーザの日](http://twitter.com/search?q=%e3%82%ae%e3%83%a7%e3%83%bc%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
+| 30 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
+| 31 | [石井亮次](http://twitter.com/search?q=%e7%9f%b3%e4%ba%95%e4%ba%ae%e6%ac%a1) | N/A |
+| 32 | [死の悪魔](http://twitter.com/search?q=%e6%ad%bb%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
+| 33 | [日々笑顔](http://twitter.com/search?q=%e6%97%a5%e3%80%85%e7%ac%91%e9%a1%94) | N/A |
+| 34 | [チェンソーマン](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3) | チェンソーマン (Chenso-man) is a Japanese term for a person who is good at making decisions and taking action. It is derived from the words "chenso" (decision) and "man" (person). In English, it can be translated as "decision maker". |
+| 35 | [エスカレーターの日](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 36 | [桜井さん](http://twitter.com/search?q=%e6%a1%9c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 37 | [久保さん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%95%e3%82%93) | 久保さん (Kubo-san) is a Japanese honorific used to refer to someone with the surname Kubo. It is similar to the English honorific "Mr." or "Mrs." |
+| 38 | [シンドラ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%89%e3%83%a9) | N/A |
+| 39 | [キガちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [すいようび](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 41 | [エズジャン](http://twitter.com/search?q=%e3%82%a8%e3%82%ba%e3%82%b8%e3%83%a3%e3%83%b3) | N/A |
+| 42 | [行政文書](http://twitter.com/search?q=%e8%a1%8c%e6%94%bf%e6%96%87%e6%9b%b8) | N/A |
+| 43 | [ヴォルフ](http://twitter.com/search?q=%e3%83%b4%e3%82%a9%e3%83%ab%e3%83%95) | N/A |
+| 44 | [エース官僚](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%b9%e5%ae%98%e5%83%9a) | N/A |
+| 45 | [藤井直樹](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%9b%b4%e6%a8%b9) | N/A |
+| 46 | [ミツバチの日](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%83%90%e3%83%81%e3%81%ae%e6%97%a5) | N/A |
+| 47 | [自殺の悪魔](http://twitter.com/search?q=%e8%87%aa%e6%ae%ba%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
+| 48 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
+| 49 | [髙地くん](http://twitter.com/search?q=%e9%ab%99%e5%9c%b0%e3%81%8f%e3%82%93) | N/A |
 
 
 

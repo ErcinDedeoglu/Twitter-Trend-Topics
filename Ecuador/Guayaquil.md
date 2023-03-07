@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-07 21:16:18 UTC`
+📆 Last Updated: `2023-03-07 22:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 3 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 4 | [Chone](http://twitter.com/search?q=Chone) | N/A |
-| 5 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
-| 6 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 7 | [#LassoAJuicioPolitico](http://twitter.com/search?q=%23LassoAJuicioPolitico) | N/A |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 9 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 5 | [Chone](http://twitter.com/search?q=Chone) | N/A |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 8 | [#LassoTeVas](http://twitter.com/search?q=%23LassoTeVas) | N/A |
+| 9 | [#LassoAJuicioPolitico](http://twitter.com/search?q=%23LassoAJuicioPolitico) | N/A |
 | 10 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 11 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 12 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
-| 13 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 14 | [#FBRadioConLaU](http://twitter.com/search?q=%23FBRadioConLaU) | N/A |
-| 15 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 11 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
+| 12 | [#FeriadoBancario](http://twitter.com/search?q=%23FeriadoBancario) | N/A |
+| 13 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 14 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 16 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 17 | [Cerecita](http://twitter.com/search?q=Cerecita) | N/A |
-| 18 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 19 | [Carlos Rodríguez](http://twitter.com/search?q=Carlos+Rodr%c3%adguez) | N/A |
-| 20 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 21 | [Carlos Vera](http://twitter.com/search?q=Carlos+Vera) | N/A |
-| 22 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [Carlos Vera](http://twitter.com/search?q=Carlos+Vera) | N/A |
+| 19 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 20 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 21 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 22 | [Cerecita](http://twitter.com/search?q=Cerecita) | N/A |
 | 23 | [Jackson Rodríguez](http://twitter.com/search?q=Jackson+Rodr%c3%adguez) | N/A |
-| 24 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
-| 25 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 26 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 27 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 28 | [Orense](http://twitter.com/search?q=Orense) | N/A |
-| 29 | [La ID](http://twitter.com/search?q=La+ID) | N/A |
-| 30 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
-| 31 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 32 | [leonel nazareno](http://twitter.com/search?q=leonel+nazareno) | N/A |
+| 24 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 25 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
+| 26 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 27 | [Carlos Rodríguez](http://twitter.com/search?q=Carlos+Rodr%c3%adguez) | N/A |
+| 28 | [La ID](http://twitter.com/search?q=La+ID) | N/A |
+| 29 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
+| 30 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 31 | [leonel nazareno](http://twitter.com/search?q=leonel+nazareno) | N/A |
+| 32 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
 | 33 | [Lele](http://twitter.com/search?q=Lele) | N/A |
-| 34 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 34 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
 | 35 | [luis eduardo cordero díaz](http://twitter.com/search?q=luis+eduardo+cordero+d%c3%adaz) | N/A |
-| 36 | ["Banisi"](http://twitter.com/search?q=%22Banisi%22) | N/A |
-| 37 | [la oea](http://twitter.com/search?q=la+oea) | N/A |
-| 38 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 39 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
-| 40 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 41 | [Almagro](http://twitter.com/search?q=Almagro) | N/A |
-| 42 | [Tranquilidad](http://twitter.com/search?q=Tranquilidad) | N/A |
-| 43 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 44 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
-| 45 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 46 | [agustín maziero](http://twitter.com/search?q=agust%c3%adn+maziero) | N/A |
-| 47 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 48 | [bertha minchala](http://twitter.com/search?q=bertha+minchala) | N/A |
-| 49 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 50 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 36 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 37 | ["Banisi"](http://twitter.com/search?q=%22Banisi%22) | N/A |
+| 38 | [la oea](http://twitter.com/search?q=la+oea) | N/A |
+| 39 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 40 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
+| 41 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 42 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 43 | [Tranquilidad](http://twitter.com/search?q=Tranquilidad) | N/A |
+| 44 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 45 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
+| 46 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 47 | [Miércoles 8](http://twitter.com/search?q=Mi%c3%a9rcoles+8) | N/A |
+| 48 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
+| 49 | [agustín maziero](http://twitter.com/search?q=agust%c3%adn+maziero) | N/A |
+| 50 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
 
 
 

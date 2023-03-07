@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-07 21:16:30 UTC`
+📆 Last Updated: `2023-03-07 22:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 2 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 3 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
-| 4 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 5 | [#satsetsahabatsetiaet](http://twitter.com/search?q=%23satsetsahabatsetiaet) | N/A |
-| 6 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 7 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 11 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 12 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
-| 13 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
-| 14 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
-| 15 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
-| 16 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 17 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 18 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 19 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
-| 20 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
-| 21 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 22 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 23 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
-| 24 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
-| 25 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 26 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
-| 27 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 28 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 29 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 30 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 31 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 32 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
-| 33 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
-| 34 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 35 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 36 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
-| 37 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
-| 38 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
-| 39 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 40 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 41 | [Kebangun](http://twitter.com/search?q=Kebangun) | N/A |
-| 42 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
-| 43 | [jungkookie](http://twitter.com/search?q=jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
-| 44 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 45 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
-| 46 | [5 DAYS TO ROVER](http://twitter.com/search?q=5+DAYS+TO+ROVER) | N/A |
-| 47 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 48 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 4 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 5 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [#satsetsahabatsetiaet](http://twitter.com/search?q=%23satsetsahabatsetiaet) | N/A |
+| 9 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 10 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 11 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
+| 12 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 13 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 15 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 16 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
+| 17 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
+| 18 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
+| 19 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 20 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 21 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 22 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 23 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 24 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
+| 25 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 26 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 28 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 29 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
+| 30 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 31 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 32 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
+| 33 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 34 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 35 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 36 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 37 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 38 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
+| 39 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
+| 40 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 41 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 42 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
+| 43 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 44 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
+| 45 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
+| 46 | [Kebangun](http://twitter.com/search?q=Kebangun) | N/A |
+| 47 | [Jungkookie](http://twitter.com/search?q=Jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
+| 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 
 
 

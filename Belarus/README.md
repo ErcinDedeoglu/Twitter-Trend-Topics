@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-07 21:16:58 UTC`
+📆 Last Updated: `2023-03-07 22:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,20 +24,20 @@ This is top 50 for Belarus
 | 7 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 8 | [itf tennis tour](http://twitter.com/search?q=itf+tennis+tour) | N/A |
 | 9 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 11 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 12 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 13 | [В Минске](http://twitter.com/search?q=%d0%92+%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
+| 10 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 11 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 12 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
+| 13 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 14 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | N/A |
 | 15 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 16 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
 | 17 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 18 | [#Metaverse](http://twitter.com/search?q=%23Metaverse) | N/A |
-| 19 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 20 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 21 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 22 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
-| 23 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 18 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 19 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 20 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 21 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
+| 22 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 23 | [#Metaverse](http://twitter.com/search?q=%23Metaverse) | N/A |
 
 
 

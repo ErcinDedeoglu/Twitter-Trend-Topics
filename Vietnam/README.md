@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-07 21:17:05 UTC`
+📆 Last Updated: `2023-03-07 22:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for Vietnam
 | ------- | ------------ | ------------ |
 | 1 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
 | 2 | [Smiles for Build](http://twitter.com/search?q=Smiles+for+Build) | N/A |
-| 3 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
-| 4 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
-| 5 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 3 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
+| 4 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 5 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 6 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
 | 7 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 8 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
 | 9 | [Peer](http://twitter.com/search?q=Peer) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Vietnam
 | 17 | [Scroll](http://twitter.com/search?q=Scroll) | N/A |
 | 18 | [J-HOPE'S BOYFRIEND MODE](http://twitter.com/search?q=J-HOPE%27S+BOYFRIEND+MODE) | N/A |
 | 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 20 | [Seop](http://twitter.com/search?q=Seop) | N/A |
+| 20 | [seop](http://twitter.com/search?q=seop) | N/A |
 | 21 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 22 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
 | 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
@@ -62,7 +62,7 @@ This is top 50 for Vietnam
 | 45 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 | 46 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 47 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 48 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 48 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 49 | [Dump](http://twitter.com/search?q=Dump) | N/A |
 | 50 | [Dùng](http://twitter.com/search?q=D%c3%b9ng) | N/A |
 

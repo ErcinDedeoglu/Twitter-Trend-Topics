@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-07 21:16:47 UTC`
+📆 Last Updated: `2023-03-07 22:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 2 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
-| 3 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
+| 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 2 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
+| 3 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
 | 4 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 5 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 6 | [Müstakil Ev](http://twitter.com/search?q=M%c3%bcstakil+Ev) | N/A |
-| 7 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
-| 8 | [Bedri Baykam](http://twitter.com/search?q=Bedri+Baykam) | N/A |
-| 9 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 10 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 12 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 13 | [CumhurunTaşerona Sözüvar](http://twitter.com/search?q=CumhurunTa%c5%9ferona+S%c3%b6z%c3%bcvar) | N/A |
-| 14 | [HukukDevleti İstiyoruz](http://twitter.com/search?q=HukukDevleti+%c4%b0stiyoruz) | N/A |
-| 15 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 16 | [Buse](http://twitter.com/search?q=Buse) | N/A |
-| 17 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [Gandalf](http://twitter.com/search?q=Gandalf) | N/A |
-| 20 | [Özcan Özel](http://twitter.com/search?q=%c3%96zcan+%c3%96zel) | N/A |
-| 21 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 22 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 23 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
-| 24 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
-| 25 | [Osman Öcalan](http://twitter.com/search?q=Osman+%c3%96calan) | N/A |
-| 26 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 27 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 5 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 6 | [Kutlu](http://twitter.com/search?q=Kutlu) | N/A |
+| 7 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 8 | [Müstakil Ev](http://twitter.com/search?q=M%c3%bcstakil+Ev) | N/A |
+| 9 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 10 | [Bedri Baykam](http://twitter.com/search?q=Bedri+Baykam) | N/A |
+| 11 | [Günümüz](http://twitter.com/search?q=G%c3%bcn%c3%bcm%c3%bcz) | N/A |
+| 12 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 13 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [CumhurunTaşerona Sözüvar](http://twitter.com/search?q=CumhurunTa%c5%9ferona+S%c3%b6z%c3%bcvar) | N/A |
+| 19 | [HukukDevleti İstiyoruz](http://twitter.com/search?q=HukukDevleti+%c4%b0stiyoruz) | N/A |
+| 20 | [Gandalf](http://twitter.com/search?q=Gandalf) | N/A |
+| 21 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 22 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 23 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 24 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 25 | [Kuzey Tekinoğlu](http://twitter.com/search?q=Kuzey+Tekino%c4%9flu) | N/A |
+| 26 | [Özcan Özel](http://twitter.com/search?q=%c3%96zcan+%c3%96zel) | N/A |
+| 27 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
 | 28 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
-| 29 | [GÜÇLÜYÜZ YENECEĞİZ](http://twitter.com/search?q=G%c3%9c%c3%87L%c3%9cY%c3%9cZ+YENECE%c4%9e%c4%b0Z) | N/A |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
-| 32 | [Kutlu Olsun](http://twitter.com/search?q=Kutlu+Olsun) | N/A |
-| 33 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
-| 34 | [Milli Eğitim Bakanı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakan%c4%b1) | N/A |
-| 35 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 36 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 37 | [Nejat İşler](http://twitter.com/search?q=Nejat+%c4%b0%c5%9fler) | N/A |
-| 38 | [Şampiyon](http://twitter.com/search?q=%c5%9eampiyon) | N/A |
-| 39 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
-| 40 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 41 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
-| 42 | [Satürn](http://twitter.com/search?q=Sat%c3%bcrn) | N/A |
-| 43 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
-| 44 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 45 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 46 | [Neşe](http://twitter.com/search?q=Ne%c5%9fe) | N/A |
-| 47 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 48 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
+| 29 | [Osman Öcalan](http://twitter.com/search?q=Osman+%c3%96calan) | N/A |
+| 30 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
+| 31 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 32 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 33 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 34 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
+| 35 | [GÜÇLÜYÜZ YENECEĞİZ](http://twitter.com/search?q=G%c3%9c%c3%87L%c3%9cY%c3%9cZ+YENECE%c4%9e%c4%b0Z) | N/A |
+| 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 37 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 38 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 39 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 40 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
+| 41 | [Milli Eğitim Bakanı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakan%c4%b1) | N/A |
+| 42 | [Nejat İşler](http://twitter.com/search?q=Nejat+%c4%b0%c5%9fler) | N/A |
+| 43 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 44 | [Şampiyon](http://twitter.com/search?q=%c5%9eampiyon) | N/A |
+| 45 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 46 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
+| 47 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 48 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
 
 
 
