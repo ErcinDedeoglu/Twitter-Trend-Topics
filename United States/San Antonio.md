@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-07 18:18:05 UTC`
+📆 Last Updated: `2023-03-07 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SXSWEDU](http://twitter.com/search?q=%23SXSWEDU) | N/A |
-| 2 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 3 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
-| 4 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 6 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 7 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
+| 2 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 3 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 4 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 5 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
+| 6 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
+| 7 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
 | 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 9 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 10 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
+| 10 | [Perk](http://twitter.com/search?q=Perk) | N/A |
 | 11 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 13 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 14 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 15 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 16 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 19 | [UMass](http://twitter.com/search?q=UMass) | N/A |
-| 20 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
-| 21 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 22 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
-| 23 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 12 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 13 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 16 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 17 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 18 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
+| 21 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
+| 22 | [UMass](http://twitter.com/search?q=UMass) | N/A |
+| 23 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
 | 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 25 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
-| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 27 | [Pro Ukrainian](http://twitter.com/search?q=Pro+Ukrainian) | N/A |
-| 28 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 29 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 30 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 31 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 32 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 33 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 34 | [All-Big Ten](http://twitter.com/search?q=All-Big+Ten) | N/A |
-| 35 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 36 | [NBA MVP](http://twitter.com/search?q=NBA+MVP) | N/A |
-| 37 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 38 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 39 | [Good for JJ](http://twitter.com/search?q=Good+for+JJ) | N/A |
-| 40 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 41 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 42 | [Tyler Burton](http://twitter.com/search?q=Tyler+Burton) | N/A |
-| 43 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 44 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 45 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
-| 46 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 25 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
+| 26 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 27 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 28 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 29 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 30 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 31 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 33 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 34 | [Pro-Ukrainian](http://twitter.com/search?q=Pro-Ukrainian) | N/A |
+| 35 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 36 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 37 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 38 | [NBA MVP](http://twitter.com/search?q=NBA+MVP) | N/A |
+| 39 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 40 | [Outside Lands](http://twitter.com/search?q=Outside+Lands) | N/A |
+| 41 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 42 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 43 | [Anila](http://twitter.com/search?q=Anila) | N/A |
+| 44 | [The Finals](http://twitter.com/search?q=The+Finals) | N/A |
+| 45 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 46 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
 | 47 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 48 | [Ezreal](http://twitter.com/search?q=Ezreal) | N/A |
-| 49 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
-| 50 | [GoodRx](http://twitter.com/search?q=GoodRx) | N/A |
+| 48 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 49 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 50 | [All-Big Ten](http://twitter.com/search?q=All-Big+Ten) | N/A |
 
 
 

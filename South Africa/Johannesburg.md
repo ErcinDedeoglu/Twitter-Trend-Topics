@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-07 18:17:49 UTC`
+📆 Last Updated: `2023-03-07 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
-| 2 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 3 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
-| 4 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 5 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
-| 6 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 7 | [#DoThingsBigWithTelkom](http://twitter.com/search?q=%23DoThingsBigWithTelkom) | N/A |
-| 8 | [#MadeOfAllNetData](http://twitter.com/search?q=%23MadeOfAllNetData) | N/A |
-| 9 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
+| 1 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 2 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
+| 3 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 4 | [#UmkhokhaMzansi](http://twitter.com/search?q=%23UmkhokhaMzansi) | N/A |
+| 5 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
+| 6 | [#face2face](http://twitter.com/search?q=%23face2face) | N/A |
+| 7 | [#MadeOfAllNetData](http://twitter.com/search?q=%23MadeOfAllNetData) | N/A |
+| 8 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 9 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
 | 10 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
-| 11 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 12 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 13 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
-| 14 | [Ernst Middendorp](http://twitter.com/search?q=Ernst+Middendorp) | N/A |
-| 15 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 16 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
-| 17 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 18 | [Aquafina](http://twitter.com/search?q=Aquafina) | N/A |
-| 19 | [Katlego Danke](http://twitter.com/search?q=Katlego+Danke) | N/A |
-| 20 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 21 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 22 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
-| 23 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
-| 24 | [PRAYER FOR THABANG](http://twitter.com/search?q=PRAYER+FOR+THABANG) | N/A |
-| 25 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 12 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
+| 13 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
+| 14 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 15 | [Aquafina](http://twitter.com/search?q=Aquafina) | N/A |
+| 16 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
+| 17 | [Katlego Danke](http://twitter.com/search?q=Katlego+Danke) | N/A |
+| 18 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 19 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 20 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 22 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 23 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 24 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [PRAYER FOR THABANG](http://twitter.com/search?q=PRAYER+FOR+THABANG) | N/A |
 | 27 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 28 | [Westbury](http://twitter.com/search?q=Westbury) | N/A |
-| 29 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 31 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
-| 32 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 33 | [Siphamandla Mtolo](http://twitter.com/search?q=Siphamandla+Mtolo) | N/A |
-| 34 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
-| 35 | [Riky](http://twitter.com/search?q=Riky) | N/A |
-| 36 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 37 | [Kiernan Forbes](http://twitter.com/search?q=Kiernan+Forbes) | N/A |
-| 38 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 39 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 29 | [Westbury](http://twitter.com/search?q=Westbury) | N/A |
+| 30 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
+| 31 | [Siphamandla Mtolo](http://twitter.com/search?q=Siphamandla+Mtolo) | N/A |
+| 32 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Riky](http://twitter.com/search?q=Riky) | N/A |
+| 35 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
+| 36 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
+| 37 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 38 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 39 | [Kiernan Forbes](http://twitter.com/search?q=Kiernan+Forbes) | N/A |
 | 40 | [OPERATION SAVE TSATSII](http://twitter.com/search?q=OPERATION+SAVE+TSATSII) | N/A |
-| 41 | [Kgosientsho Ramokgopa](http://twitter.com/search?q=Kgosientsho+Ramokgopa) | N/A |
-| 42 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 41 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 42 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
 | 43 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 44 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 45 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 46 | [ANC in 2024](http://twitter.com/search?q=ANC+in+2024) | N/A |
-| 47 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
-| 48 | [Killarney](http://twitter.com/search?q=Killarney) | N/A |
-| 49 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 50 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 44 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 45 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 46 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 47 | [Fourways](http://twitter.com/search?q=Fourways) | N/A |
+| 48 | [Ernst Middendorp](http://twitter.com/search?q=Ernst+Middendorp) | N/A |
+| 49 | [ANC in 2024](http://twitter.com/search?q=ANC+in+2024) | N/A |
+| 50 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
 
 
 

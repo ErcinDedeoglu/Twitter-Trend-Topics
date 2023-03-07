@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-07 18:17:53 UTC`
+📆 Last Updated: `2023-03-07 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IUvMS](http://twitter.com/search?q=%23IUvMS) | N/A |
-| 2 | [#شب_برات](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d8%a8%d8%b1%d8%a7%d8%aa) | N/A |
-| 3 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
-| 4 | [#MSvsIU](http://twitter.com/search?q=%23MSvsIU) | N/A |
-| 5 | [#ShabeBarat](http://twitter.com/search?q=%23ShabeBarat) | N/A |
+| 1 | [#ShabeBarat](http://twitter.com/search?q=%23ShabeBarat) | N/A |
+| 2 | [#IUvMS](http://twitter.com/search?q=%23IUvMS) | N/A |
+| 3 | [#شب_برات](http://twitter.com/search?q=%23%d8%b4%d8%a8_%d8%a8%d8%b1%d8%a7%d8%aa) | N/A |
+| 4 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
+| 5 | [#MSvsIU](http://twitter.com/search?q=%23MSvsIU) | N/A |
 | 6 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
-| 7 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 8 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 9 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 10 | [Yousuf e Zahra](http://twitter.com/search?q=Yousuf+e+Zahra) | N/A |
-| 11 | [The Night of Forgiveness](http://twitter.com/search?q=The+Night+of+Forgiveness) | N/A |
-| 12 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 13 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 14 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 15 | [Jamiat](http://twitter.com/search?q=Jamiat) | N/A |
-| 16 | [May Allah SWT](http://twitter.com/search?q=May+Allah+SWT) | N/A |
-| 17 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 18 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 19 | [#HBLPSL2023](http://twitter.com/search?q=%23HBLPSL2023) | N/A |
-| 20 | [#IslamabadUnited](http://twitter.com/search?q=%23IslamabadUnited) | N/A |
-| 21 | [#شبِ_برآت_مبارک](http://twitter.com/search?q=%23%d8%b4%d8%a8%d9%90_%d8%a8%d8%b1%d8%a2%d8%aa_%d9%85%d8%a8%d8%a7%d8%b1%da%a9) | N/A |
-| 22 | [#شیخوپورہ_میں_امید_سحر](http://twitter.com/search?q=%23%d8%b4%db%8c%d8%ae%d9%88%d9%be%d9%88%d8%b1%db%81_%d9%85%db%8c%da%ba_%d8%a7%d9%85%db%8c%d8%af_%d8%b3%d8%ad%d8%b1) | N/A |
-| 23 | [#unitedispink](http://twitter.com/search?q=%23unitedispink) | N/A |
-| 24 | [#WiladatImamAlAsr](http://twitter.com/search?q=%23WiladatImamAlAsr) | N/A |
-| 25 | [#PervaizElahi](http://twitter.com/search?q=%23PervaizElahi) | N/A |
-| 26 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
-| 27 | [#AsifAliZardari](http://twitter.com/search?q=%23AsifAliZardari) | N/A |
-| 28 | [#PZvLQ](http://twitter.com/search?q=%23PZvLQ) | N/A |
-| 29 | [#WomensDay2023](http://twitter.com/search?q=%23WomensDay2023) | N/A |
-| 30 | [#ShaheenShahAfridi](http://twitter.com/search?q=%23ShaheenShahAfridi) | N/A |
-| 31 | [#LQvPZ](http://twitter.com/search?q=%23LQvPZ) | N/A |
-| 32 | [#saimayub](http://twitter.com/search?q=%23saimayub) | N/A |
-| 33 | [#PeshawarZalmi](http://twitter.com/search?q=%23PeshawarZalmi) | N/A |
+| 7 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 8 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 9 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 10 | [Ilyas](http://twitter.com/search?q=Ilyas) | N/A |
+| 11 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 12 | [The Night of Forgiveness](http://twitter.com/search?q=The+Night+of+Forgiveness) | N/A |
+| 13 | [the british council](http://twitter.com/search?q=the+british+council) | N/A |
+| 14 | [Jamiat](http://twitter.com/search?q=Jamiat) | N/A |
+| 15 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
+| 16 | [Multan](http://twitter.com/search?q=Multan) | N/A |
+| 17 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 18 | [Women In Leadership](http://twitter.com/search?q=Women+In+Leadership) | N/A |
+| 19 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
+| 20 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 21 | [Yousuf e Zahra](http://twitter.com/search?q=Yousuf+e+Zahra) | N/A |
+| 22 | [Anwar Ali](http://twitter.com/search?q=Anwar+Ali) | N/A |
+| 23 | [Hujjat Ul Akhira](http://twitter.com/search?q=Hujjat+Ul+Akhira) | N/A |
+| 24 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 25 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 26 | [uk and pakistan](http://twitter.com/search?q=uk+and+pakistan) | N/A |
+| 27 | [REMEMBER THE NAME](http://twitter.com/search?q=REMEMBER+THE+NAME) | N/A |
+| 28 | [Shaddy](http://twitter.com/search?q=Shaddy) | N/A |
+| 29 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 30 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 31 | [Shaheen Shah Afridi](http://twitter.com/search?q=Shaheen+Shah+Afridi) | N/A |
+| 32 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 34 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 35 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 36 | [Wasim Jr](http://twitter.com/search?q=Wasim+Jr) | N/A |
+| 37 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 38 | [Islu](http://twitter.com/search?q=Islu) | N/A |
+| 39 | [Bowling](http://twitter.com/search?q=Bowling) | N/A |
+| 40 | [May He](http://twitter.com/search?q=May+He) | N/A |
+| 41 | [Reema](http://twitter.com/search?q=Reema) | N/A |
+| 42 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 43 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 44 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
+| 45 | [Qureshi](http://twitter.com/search?q=Qureshi) | N/A |
+| 46 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 47 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 48 | [Waseem](http://twitter.com/search?q=Waseem) | N/A |
+| 49 | [Hadith](http://twitter.com/search?q=Hadith) | N/A |
 
 
 

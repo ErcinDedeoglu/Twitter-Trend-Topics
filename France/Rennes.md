@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-07 18:17:32 UTC`
+📆 Last Updated: `2023-03-07 19:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 2 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 3 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 4 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 5 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 6 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
-| 7 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 8 | [Olivier Marleix](http://twitter.com/search?q=Olivier+Marleix) | N/A |
-| 9 | [Zamdane](http://twitter.com/search?q=Zamdane) | N/A |
-| 10 | [Démocratie](http://twitter.com/search?q=D%c3%a9mocratie) | N/A |
-| 11 | [Abdel Bouhazama](http://twitter.com/search?q=Abdel+Bouhazama) | N/A |
-| 12 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 13 | [Dictature](http://twitter.com/search?q=Dictature) | N/A |
-| 14 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
-| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 20 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 21 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
-| 22 | [Poitiers](http://twitter.com/search?q=Poitiers) | N/A |
-| 23 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 24 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 25 | [Elisabeth Borne](http://twitter.com/search?q=Elisabeth+Borne) | N/A |
-| 26 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 27 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 28 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 29 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
-| 30 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 31 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
-| 32 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 33 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
-| 34 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
-| 35 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 36 | [#Punchline](http://twitter.com/search?q=%23Punchline) | N/A |
-| 37 | [#chainsawman122](http://twitter.com/search?q=%23chainsawman122) | N/A |
-| 38 | [#kingdom750](http://twitter.com/search?q=%23kingdom750) | N/A |
-| 39 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
-| 40 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 41 | [#7MarsOnBloqueTout](http://twitter.com/search?q=%237MarsOnBloqueTout) | N/A |
-| 42 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 43 | [#Blocage7mars](http://twitter.com/search?q=%23Blocage7mars) | N/A |
-| 44 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
-| 45 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 46 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 47 | [#ParisNice](http://twitter.com/search?q=%23ParisNice) | N/A |
-| 48 | [#Lyon](http://twitter.com/search?q=%23Lyon) | N/A |
-| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 2 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 3 | [#DupondMoretti](http://twitter.com/search?q=%23DupondMoretti) | N/A |
+| 4 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
+| 5 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
+| 6 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 7 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 9 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
+| 10 | [Zamdane](http://twitter.com/search?q=Zamdane) | N/A |
+| 11 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
+| 12 | [Démission](http://twitter.com/search?q=D%c3%a9mission) | N/A |
+| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 14 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 15 | [Démocratie](http://twitter.com/search?q=D%c3%a9mocratie) | N/A |
+| 16 | [Abdel Bouhazama](http://twitter.com/search?q=Abdel+Bouhazama) | N/A |
+| 17 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 18 | [Dictature](http://twitter.com/search?q=Dictature) | N/A |
+| 19 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 20 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 21 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 22 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 23 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
+| 24 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 25 | [Poitiers](http://twitter.com/search?q=Poitiers) | N/A |
+| 26 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
+| 27 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 28 | [Elisabeth Borne](http://twitter.com/search?q=Elisabeth+Borne) | N/A |
+| 29 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 30 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 31 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 32 | [#manif7mars](http://twitter.com/search?q=%23manif7mars) | N/A |
+| 33 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
+| 34 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 35 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
+| 36 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 37 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 38 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 39 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 40 | [#chainsawman122](http://twitter.com/search?q=%23chainsawman122) | N/A |
+| 41 | [#Darmanin](http://twitter.com/search?q=%23Darmanin) | N/A |
+| 42 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 43 | [#Punchline](http://twitter.com/search?q=%23Punchline) | N/A |
+| 44 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 45 | [#Blocage7mars](http://twitter.com/search?q=%23Blocage7mars) | N/A |
+| 46 | [#LREM](http://twitter.com/search?q=%23LREM) | N/A |
+| 47 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 49 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-07 18:17:34 UTC`
+📆 Last Updated: `2023-03-07 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 3 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
-| 4 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 5 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 7 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 4 | [#NolaeKpop](http://twitter.com/search?q=%23NolaeKpop) | N/A |
+| 5 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 6 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 7 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
 | 8 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
 | 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 10 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 11 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 12 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
-| 13 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 14 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 15 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 16 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 17 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 18 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
-| 19 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 20 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
-| 21 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 22 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 23 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
-| 24 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 25 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 26 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
-| 27 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 28 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 29 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 30 | [Ernst Middendorp](http://twitter.com/search?q=Ernst+Middendorp) | N/A |
-| 31 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 32 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
-| 33 | [Gaspreis](http://twitter.com/search?q=Gaspreis) | N/A |
-| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 35 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 36 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 37 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 38 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 39 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
-| 40 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 41 | [Meppen](http://twitter.com/search?q=Meppen) | N/A |
-| 42 | [Jasmin](http://twitter.com/search?q=Jasmin) | N/A |
-| 43 | [Altersgrenze](http://twitter.com/search?q=Altersgrenze) | N/A |
-| 44 | [Scan](http://twitter.com/search?q=Scan) | N/A |
-| 45 | [Jusos](http://twitter.com/search?q=Jusos) | N/A |
-| 46 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 47 | [Gleicher Lohn](http://twitter.com/search?q=Gleicher+Lohn) | N/A |
-| 48 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 10 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 11 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 12 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 13 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 14 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
+| 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 16 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 17 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
+| 18 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 19 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 20 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
+| 21 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
+| 22 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 23 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
+| 24 | [Angst vor dem Tod](http://twitter.com/search?q=Angst+vor+dem+Tod) | N/A |
+| 25 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 26 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 27 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 28 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 29 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 30 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
+| 31 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 32 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 33 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 34 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 35 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
+| 36 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
+| 37 | [Gaspreis](http://twitter.com/search?q=Gaspreis) | N/A |
+| 38 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 39 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 40 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 41 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 42 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 43 | [Scan](http://twitter.com/search?q=Scan) | N/A |
+| 44 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
+| 45 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 46 | [Ernst Middendorp](http://twitter.com/search?q=Ernst+Middendorp) | N/A |
+| 47 | [Altersgrenze](http://twitter.com/search?q=Altersgrenze) | N/A |
+| 48 | [Gästefans](http://twitter.com/search?q=G%c3%a4stefans) | N/A |
+| 49 | [Jasmin](http://twitter.com/search?q=Jasmin) | N/A |
 
 
 

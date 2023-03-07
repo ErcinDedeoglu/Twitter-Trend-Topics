@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-07 18:17:21 UTC`
+📆 Last Updated: `2023-03-07 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
-| 2 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
-| 3 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 4 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 6 | [#uksnow](http://twitter.com/search?q=%23uksnow) | N/A |
-| 7 | [#STEM](http://twitter.com/search?q=%23STEM) | N/A |
-| 8 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 9 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
-| 10 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 11 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 12 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 13 | [Slaven Bilic](http://twitter.com/search?q=Slaven+Bilic) | N/A |
-| 14 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 15 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 16 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 17 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 18 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 21 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 22 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 23 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 24 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 25 | [Sir Graham Brady](http://twitter.com/search?q=Sir+Graham+Brady) | N/A |
-| 26 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
-| 27 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
-| 28 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
-| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 30 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 31 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 33 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 34 | [Unbiased](http://twitter.com/search?q=Unbiased) | N/A |
-| 35 | [Kensington](http://twitter.com/search?q=Kensington) | N/A |
-| 36 | [Squirrel](http://twitter.com/search?q=Squirrel) | N/A |
-| 37 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
-| 38 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 39 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 40 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 41 | [Snow in March](http://twitter.com/search?q=Snow+in+March) | N/A |
-| 42 | [Convention](http://twitter.com/search?q=Convention) | N/A |
-| 43 | [Viagogo](http://twitter.com/search?q=Viagogo) | N/A |
-| 44 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
-| 45 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 47 | [Turks](http://twitter.com/search?q=Turks) | N/A |
-| 48 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 49 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 1 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 2 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 3 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 4 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
+| 5 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 6 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
+| 7 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 8 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 9 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
+| 10 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
+| 11 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
+| 12 | [Turks](http://twitter.com/search?q=Turks) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 15 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 16 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 17 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 18 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 19 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 20 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 21 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 22 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
+| 23 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 24 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 25 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 26 | [Stop the Tories](http://twitter.com/search?q=Stop+the+Tories) | N/A |
+| 27 | [Slaven Bilic](http://twitter.com/search?q=Slaven+Bilic) | N/A |
+| 28 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 29 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
+| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 31 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 32 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 34 | [Bourbon](http://twitter.com/search?q=Bourbon) | N/A |
+| 35 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 36 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 37 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 38 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
+| 39 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
+| 40 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 41 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 42 | [Custard](http://twitter.com/search?q=Custard) | N/A |
+| 43 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 44 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 45 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 46 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 47 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
+| 48 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
+| 49 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
 
 
 

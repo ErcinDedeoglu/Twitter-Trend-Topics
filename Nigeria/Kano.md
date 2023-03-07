@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-07 18:17:48 UTC`
+📆 Last Updated: `2023-03-07 19:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IREV](http://twitter.com/search?q=%23IREV) | N/A |
-| 2 | [#APTechSis](http://twitter.com/search?q=%23APTechSis) | N/A |
-| 3 | [#SanwoforLagos](http://twitter.com/search?q=%23SanwoforLagos) | N/A |
-| 4 | [#TTGForBenue](http://twitter.com/search?q=%23TTGForBenue) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 7 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 8 | [FULL LIST](http://twitter.com/search?q=FULL+LIST) | N/A |
-| 9 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
-| 10 | [Buns](http://twitter.com/search?q=Buns) | N/A |
-| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 13 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 14 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 15 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 16 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 17 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 18 | [HARDWORKING PHYNA](http://twitter.com/search?q=HARDWORKING+PHYNA) | N/A |
-| 19 | [KFORCE CONTRIBUTION CHALLENGE](http://twitter.com/search?q=KFORCE+CONTRIBUTION+CHALLENGE) | N/A |
-| 20 | [KANAGA JNR NWACHINEMERE](http://twitter.com/search?q=KANAGA+JNR+NWACHINEMERE) | N/A |
-| 21 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 22 | [Benin](http://twitter.com/search?q=Benin) | N/A |
-| 23 | [20 SANs](http://twitter.com/search?q=20+SANs) | N/A |
-| 24 | [Court of Appeal](http://twitter.com/search?q=Court+of+Appeal) | N/A |
-| 25 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
-| 26 | [Advice](http://twitter.com/search?q=Advice) | N/A |
-| 27 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 28 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 30 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 31 | [Dipo](http://twitter.com/search?q=Dipo) | N/A |
-| 32 | [Results Obtained](http://twitter.com/search?q=Results+Obtained) | N/A |
-| 33 | [STAKE $LFG](http://twitter.com/search?q=STAKE+%24LFG) | N/A |
-| 34 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 35 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
-| 36 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
-| 37 | [Atam](http://twitter.com/search?q=Atam) | N/A |
-| 38 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 39 | [finally god](http://twitter.com/search?q=finally+god) | N/A |
-| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 41 | [USSD](http://twitter.com/search?q=USSD) | N/A |
-| 42 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
-| 43 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 44 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 45 | [19 States](http://twitter.com/search?q=19+States) | N/A |
-| 46 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 47 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
-| 48 | [Rows](http://twitter.com/search?q=Rows) | N/A |
-| 49 | [Olanipekun](http://twitter.com/search?q=Olanipekun) | N/A |
-| 50 | [Through Christ](http://twitter.com/search?q=Through+Christ) | N/A |
+| 1 | [#SportsbetioXUEFA](http://twitter.com/search?q=%23SportsbetioXUEFA) | N/A |
+| 2 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 3 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 4 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 6 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 7 | [#APTechSis](http://twitter.com/search?q=%23APTechSis) | N/A |
+| 8 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
+| 9 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 10 | [Ned Nwoko](http://twitter.com/search?q=Ned+Nwoko) | N/A |
+| 11 | [FULL LIST](http://twitter.com/search?q=FULL+LIST) | N/A |
+| 12 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 13 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 14 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 15 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 16 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 17 | [Midnight](http://twitter.com/search?q=Midnight) | N/A |
+| 18 | [#SamsungGalaxyA14](http://twitter.com/search?q=%23SamsungGalaxyA14) | N/A |
+| 19 | [Court of Appeal](http://twitter.com/search?q=Court+of+Appeal) | N/A |
+| 20 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 21 | [KANAGA JNR NWACHINEMERE](http://twitter.com/search?q=KANAGA+JNR+NWACHINEMERE) | N/A |
+| 22 | [KFORCE CONTRIBUTION CHALLENGE](http://twitter.com/search?q=KFORCE+CONTRIBUTION+CHALLENGE) | N/A |
+| 23 | [Jide](http://twitter.com/search?q=Jide) | N/A |
+| 24 | [Palm](http://twitter.com/search?q=Palm) | N/A |
+| 25 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 26 | [LASTMA](http://twitter.com/search?q=LASTMA) | N/A |
+| 27 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 28 | [Senior Advocate of Nonsense](http://twitter.com/search?q=Senior+Advocate+of+Nonsense) | N/A |
+| 29 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 30 | [Odanz](http://twitter.com/search?q=Odanz) | N/A |
+| 31 | [Advice](http://twitter.com/search?q=Advice) | N/A |
+| 32 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 33 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
+| 34 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 35 | [Shishi](http://twitter.com/search?q=Shishi) | N/A |
+| 36 | [First Bank](http://twitter.com/search?q=First+Bank) | N/A |
+| 37 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 38 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 39 | [Festus](http://twitter.com/search?q=Festus) | N/A |
+| 40 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 41 | [Sanwolu](http://twitter.com/search?q=Sanwolu) | N/A |
+| 42 | [SANs](http://twitter.com/search?q=SANs) | N/A |
+| 43 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 46 | [#CHEDOR](http://twitter.com/search?q=%23CHEDOR) | N/A |
+| 47 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
+| 48 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 49 | [#SanwoforLagos](http://twitter.com/search?q=%23SanwoforLagos) | N/A |
+| 50 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
 
 
 
