@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-07 03:27:54 UTC`
+📆 Last Updated: `2023-03-07 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,19 +52,19 @@ This is top 50 for Latvia
 | 35 | [piedod](http://twitter.com/search?q=piedod) | N/A |
 | 36 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
 | 37 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
-| 38 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
-| 41 | [ulmanis](http://twitter.com/search?q=ulmanis) | N/A |
-| 42 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 43 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
-| 44 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 45 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
-| 46 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
-| 47 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 48 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
-| 49 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
-| 50 | [krievu](http://twitter.com/search?q=krievu) | N/A |
+| 38 | [Baltics](http://twitter.com/search?q=Baltics) | N/A |
+| 39 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 42 | [ulmanis](http://twitter.com/search?q=ulmanis) | N/A |
+| 43 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 44 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
+| 45 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 46 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
+| 47 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
+| 48 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 49 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
+| 50 | [#Russian](http://twitter.com/search?q=%23Russian) | N/A |
 
 
 

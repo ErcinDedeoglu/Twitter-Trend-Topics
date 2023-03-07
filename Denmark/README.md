@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-07 03:27:52 UTC`
+📆 Last Updated: `2023-03-07 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,7 +56,7 @@ This is top 50 for Denmark
 | 39 | [morten krogh](http://twitter.com/search?q=morten+krogh) | N/A |
 | 40 | [Fcks](http://twitter.com/search?q=Fcks) | N/A |
 | 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 42 | [Altså](http://twitter.com/search?q=Alts%c3%a5) | N/A |
+| 42 | [altså](http://twitter.com/search?q=alts%c3%a5) | N/A |
 | 43 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 44 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
 | 45 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |

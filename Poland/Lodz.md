@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-07 03:27:11 UTC`
+📆 Last Updated: `2023-03-07 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
-| 2 | [#korupcjaubielana](http://twitter.com/search?q=%23korupcjaubielana) | N/A |
-| 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 1 | [#szczuciezabija](http://twitter.com/search?q=%23szczuciezabija) | N/A |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 3 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
 | 4 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 5 | [Feio](http://twitter.com/search?q=Feio) | N/A |
 | 6 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
@@ -25,22 +25,22 @@ This is top 50 for [Poland](</Poland>)
 | 8 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 9 | [pablo morales](http://twitter.com/search?q=pablo+morales) | N/A |
 | 10 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 11 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 12 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 13 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
-| 14 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 11 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 12 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 13 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 14 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
 | 15 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 16 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 17 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
-| 18 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 19 | [koszyczek](http://twitter.com/search?q=koszyczek) | N/A |
-| 20 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 21 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 22 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 23 | [kozidrak](http://twitter.com/search?q=kozidrak) | N/A |
+| 17 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 18 | [koszyczek](http://twitter.com/search?q=koszyczek) | N/A |
+| 19 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 20 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 21 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 22 | [kozidrak](http://twitter.com/search?q=kozidrak) | N/A |
+| 23 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
 | 24 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
 | 25 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 26 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 26 | [liczby](http://twitter.com/search?q=liczby) | N/A |
 | 27 | [kurzępa](http://twitter.com/search?q=kurz%c4%99pa) | N/A |
 | 28 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
 | 29 | [podpisane](http://twitter.com/search?q=podpisane) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Poland](</Poland>)
 | 41 | [czarnecki](http://twitter.com/search?q=czarnecki) | N/A |
 | 42 | [ścigaj](http://twitter.com/search?q=%c5%9bcigaj) | N/A |
 | 43 | [wiedział](http://twitter.com/search?q=wiedzia%c5%82) | N/A |
-| 44 | [Stan Tymiński](http://twitter.com/search?q=Stan+Tymi%c5%84ski) | N/A |
+| 44 | [stan tymiński](http://twitter.com/search?q=stan+tymi%c5%84ski) | N/A |
 | 45 | [białej podlaskiej](http://twitter.com/search?q=bia%c5%82ej+podlaskiej) | N/A |
 | 46 | [Graczak](http://twitter.com/search?q=Graczak) | N/A |
 | 47 | [Tag 7](http://twitter.com/search?q=Tag+7) | N/A |

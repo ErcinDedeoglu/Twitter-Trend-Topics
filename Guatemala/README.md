@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-07 03:27:53 UTC`
+📆 Last Updated: `2023-03-07 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Guatemala
 | 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 5 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
 | 6 | [USAC](http://twitter.com/search?q=USAC) | N/A |
-| 7 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 8 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 9 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 10 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 12 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 13 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
-| 14 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
-| 15 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 18 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 19 | [Los de la UVG](http://twitter.com/search?q=Los+de+la+UVG) | N/A |
-| 20 | [#UnFuturoSinCacif](http://twitter.com/search?q=%23UnFuturoSinCacif) | N/A |
-| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 22 | [#YoDenuncio](http://twitter.com/search?q=%23YoDenuncio) | N/A |
-| 23 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 24 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 25 | [Falso](http://twitter.com/search?q=Falso) | N/A |
-| 26 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 27 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 28 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 29 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 30 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 31 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 32 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 33 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 34 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 35 | [empagua](http://twitter.com/search?q=empagua) | N/A |
-| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 37 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 38 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 40 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
-| 41 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 42 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 43 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 44 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 45 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 46 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 47 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
-| 48 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 49 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 50 | [Merced](http://twitter.com/search?q=Merced) | N/A |
+| 7 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 8 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 9 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 10 | [Curruchiche](http://twitter.com/search?q=Curruchiche) | N/A |
+| 11 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
+| 12 | [#JISOOComingSoonPoster](http://twitter.com/search?q=%23JISOOComingSoonPoster) | N/A |
+| 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 16 | [#GiraPresidencial2023](http://twitter.com/search?q=%23GiraPresidencial2023) | N/A |
+| 17 | [Los de la UVG](http://twitter.com/search?q=Los+de+la+UVG) | N/A |
+| 18 | [#unfuturosincacif](http://twitter.com/search?q=%23unfuturosincacif) | N/A |
+| 19 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 20 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 21 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 22 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 23 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 24 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 25 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 26 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 27 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 28 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 29 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 30 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 31 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 32 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 33 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 34 | [empagua](http://twitter.com/search?q=empagua) | N/A |
+| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 37 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 38 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 39 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 40 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 41 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 42 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 43 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 44 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 45 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 46 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
+| 47 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 48 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 49 | [Merced](http://twitter.com/search?q=Merced) | N/A |
+| 50 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
 
 
 

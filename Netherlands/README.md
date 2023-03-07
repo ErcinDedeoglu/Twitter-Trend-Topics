@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-07 03:27:55 UTC`
+📆 Last Updated: `2023-03-07 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Netherlands
 | 5 | [#adoher](http://twitter.com/search?q=%23adoher) | N/A |
 | 6 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
 | 7 | [valentijn](http://twitter.com/search?q=valentijn) | N/A |
-| 8 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 9 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
-| 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 8 | [jong psv](http://twitter.com/search?q=jong+psv) | N/A |
+| 9 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 10 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
 | 11 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 12 | [saibari](http://twitter.com/search?q=saibari) | N/A |
 | 13 | [Sytse](http://twitter.com/search?q=Sytse) | N/A |
-| 14 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 17 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 18 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 19 | [goedemorgen peter](http://twitter.com/search?q=goedemorgen+peter) | N/A |
-| 20 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
-| 21 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 23 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 24 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
-| 25 | [woz-waarde](http://twitter.com/search?q=woz-waarde) | N/A |
-| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 27 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 28 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 29 | [vissers](http://twitter.com/search?q=vissers) | N/A |
-| 30 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
-| 31 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 35 | [nachtwacht](http://twitter.com/search?q=nachtwacht) | N/A |
-| 36 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 37 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 38 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
-| 39 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
-| 40 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
-| 41 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
-| 42 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 43 | [van rij](http://twitter.com/search?q=van+rij) | N/A |
-| 44 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 45 | [anjet daanje](http://twitter.com/search?q=anjet+daanje) | N/A |
-| 46 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 49 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 50 | [Yvonne Coldeweijer](http://twitter.com/search?q=Yvonne+Coldeweijer) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 16 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 17 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 18 | [goedemorgen peter](http://twitter.com/search?q=goedemorgen+peter) | N/A |
+| 19 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
+| 20 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 22 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
+| 23 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
+| 24 | [woz-waarde](http://twitter.com/search?q=woz-waarde) | N/A |
+| 25 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 26 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 27 | [vissers](http://twitter.com/search?q=vissers) | N/A |
+| 28 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
+| 29 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 30 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 33 | [nachtwacht](http://twitter.com/search?q=nachtwacht) | N/A |
+| 34 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 35 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 36 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 37 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 38 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
+| 39 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
+| 40 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 41 | [van rij](http://twitter.com/search?q=van+rij) | N/A |
+| 42 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 43 | [anjet daanje](http://twitter.com/search?q=anjet+daanje) | N/A |
+| 44 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 46 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 47 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 48 | [Yvonne Coldeweijer](http://twitter.com/search?q=Yvonne+Coldeweijer) | N/A |
+| 49 | [tannane](http://twitter.com/search?q=tannane) | N/A |
+| 50 | [diederik](http://twitter.com/search?q=diederik) | N/A |
 
 
 

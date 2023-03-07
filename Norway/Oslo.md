@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-07 03:27:19 UTC`
+📆 Last Updated: `2023-03-07 04:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,12 +32,12 @@ This is top 50 for [Norway](</Norway>)
 | 15 | [ranheim](http://twitter.com/search?q=ranheim) | N/A |
 | 16 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
 | 17 | [hegnar](http://twitter.com/search?q=hegnar) | N/A |
-| 18 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 19 | [pål golberg](http://twitter.com/search?q=p%c3%a5l+golberg) | N/A |
-| 20 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 21 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 22 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 23 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 18 | [pål golberg](http://twitter.com/search?q=p%c3%a5l+golberg) | N/A |
+| 19 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 20 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 21 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
+| 22 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 23 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
 | 24 | [egentlig](http://twitter.com/search?q=egentlig) | N/A |
 | 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 26 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
@@ -56,15 +56,15 @@ This is top 50 for [Norway](</Norway>)
 | 39 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 40 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 42 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 43 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 45 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 46 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 47 | [The West](http://twitter.com/search?q=The+West) | N/A |
-| 48 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 42 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 45 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 46 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 47 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 48 | [The West](http://twitter.com/search?q=The+West) | N/A |
+| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 
 
 

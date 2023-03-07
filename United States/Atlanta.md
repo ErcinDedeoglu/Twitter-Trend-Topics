@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-07 03:27:41 UTC`
+📆 Last Updated: `2023-03-07 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 2 | [#gapol](http://twitter.com/search?q=%23gapol) | N/A |
-| 3 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 4 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 2 | [SB 140](http://twitter.com/search?q=SB+140) | N/A |
+| 3 | [#gapol](http://twitter.com/search?q=%23gapol) | N/A |
+| 4 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
 | 5 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 7 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 9 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 10 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
 | 11 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 12 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 13 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 13 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
 | 14 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 15 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 16 | [Lamar Stevens](http://twitter.com/search?q=Lamar+Stevens) | N/A |
-| 17 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 18 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 19 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 20 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 21 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 22 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 23 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 16 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 18 | [Lamar Stevens](http://twitter.com/search?q=Lamar+Stevens) | N/A |
+| 19 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 20 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 21 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 22 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 23 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
 | 24 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 25 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 26 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 27 | [Capitol Police](http://twitter.com/search?q=Capitol+Police) | N/A |
-| 28 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 29 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 30 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 31 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 25 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 26 | [Capitol Police](http://twitter.com/search?q=Capitol+Police) | N/A |
+| 27 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 28 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
+| 29 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 30 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 31 | [Furman](http://twitter.com/search?q=Furman) | N/A |
 | 32 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 33 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
-| 34 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
-| 35 | [Oladipo](http://twitter.com/search?q=Oladipo) | Oladipo is a Yoruba name of Nigerian origin. It means "wealth comes home". |
-| 36 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 37 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
-| 38 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 40 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 41 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 42 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 43 | [Budapest](http://twitter.com/search?q=Budapest) | N/A |
-| 44 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 45 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
-| 46 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 47 | [Cajuns](http://twitter.com/search?q=Cajuns) | N/A |
-| 48 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
-| 49 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 50 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 33 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 34 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 35 | [Reyne Smith](http://twitter.com/search?q=Reyne+Smith) | N/A |
+| 36 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 37 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 38 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 39 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 40 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 41 | [Trish Stratus](http://twitter.com/search?q=Trish+Stratus) | N/A |
+| 42 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 43 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 44 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 45 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
+| 46 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 48 | [Oladipo](http://twitter.com/search?q=Oladipo) | Oladipo is a Yoruba name of Nigerian origin. It means "wealth comes home". |
+| 49 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 50 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
 
 
 

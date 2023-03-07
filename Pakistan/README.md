@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-07 03:27:56 UTC`
+📆 Last Updated: `2023-03-07 04:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Pakistan
 | 7 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
 | 8 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
 | 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 11 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 12 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
-| 13 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 14 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
-| 15 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 16 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 10 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 11 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 12 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 13 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 14 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 15 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 16 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
 | 17 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
 | 18 | [London](http://twitter.com/search?q=London) | N/A |
 | 19 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 20 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 21 | [Bolan](http://twitter.com/search?q=Bolan) | N/A |
-| 22 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
-| 23 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 24 | [Fuller](http://twitter.com/search?q=Fuller) | N/A |
-| 25 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 26 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 20 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 21 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
+| 22 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 23 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 24 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 25 | [Fuller](http://twitter.com/search?q=Fuller) | N/A |
+| 26 | [Bolan](http://twitter.com/search?q=Bolan) | N/A |
 | 27 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 28 | [Fighter](http://twitter.com/search?q=Fighter) | N/A |
-| 29 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 28 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 29 | [Fighter](http://twitter.com/search?q=Fighter) | N/A |
 | 30 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
-| 31 | [Gotchu](http://twitter.com/search?q=Gotchu) | N/A |
-| 32 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 33 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 34 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 35 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 36 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 37 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
-| 38 | [Shoaib](http://twitter.com/search?q=Shoaib) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 43 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
-| 44 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
-| 45 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 46 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 47 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 48 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 49 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 50 | [My God](http://twitter.com/search?q=My+God) | N/A |
+| 31 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 32 | [Gotchu](http://twitter.com/search?q=Gotchu) | N/A |
+| 33 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 34 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 35 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 38 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
+| 39 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
+| 40 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 41 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 42 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 45 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 46 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
+| 47 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 48 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 49 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 50 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-07 03:27:51 UTC`
+📆 Last Updated: `2023-03-07 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Belgium
 | 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 10 | [#stvgnk](http://twitter.com/search?q=%23stvgnk) | N/A |
 | 11 | [Jambon](http://twitter.com/search?q=Jambon) | N/A |
-| 12 | [De Wever](http://twitter.com/search?q=De+Wever) | N/A |
+| 12 | [de wever](http://twitter.com/search?q=de+wever) | N/A |
 | 13 | [Boerenbond](http://twitter.com/search?q=Boerenbond) | N/A |
 | 14 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
 | 15 | [N-VA](http://twitter.com/search?q=N-VA) | N/A |
@@ -44,11 +44,11 @@ This is top 50 for Belgium
 | 27 | [tom waes](http://twitter.com/search?q=tom+waes) | N/A |
 | 28 | [federaal](http://twitter.com/search?q=federaal) | N/A |
 | 29 | [Mahdi](http://twitter.com/search?q=Mahdi) | N/A |
-| 30 | [carl devos](http://twitter.com/search?q=carl+devos) | N/A |
-| 31 | [tunesië](http://twitter.com/search?q=tunesi%c3%ab) | N/A |
-| 32 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 33 | [Open VLD](http://twitter.com/search?q=Open+VLD) | N/A |
-| 34 | [lachaert](http://twitter.com/search?q=lachaert) | N/A |
+| 30 | [tunesië](http://twitter.com/search?q=tunesi%c3%ab) | N/A |
+| 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 32 | [Open VLD](http://twitter.com/search?q=Open+VLD) | N/A |
+| 33 | [lachaert](http://twitter.com/search?q=lachaert) | N/A |
+| 34 | [Carl Devos](http://twitter.com/search?q=Carl+Devos) | N/A |
 | 35 | [nogmaals](http://twitter.com/search?q=nogmaals) | N/A |
 | 36 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
 | 37 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |

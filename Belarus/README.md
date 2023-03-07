@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-07 03:27:51 UTC`
+📆 Last Updated: `2023-03-07 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,13 +17,13 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 2 | [красивое](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 3 | [знаю](http://twitter.com/search?q=%d0%b7%d0%bd%d0%b0%d1%8e) | N/A |
+| 3 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
 | 4 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
 | 5 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 | 6 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 | 7 | [тигнари](http://twitter.com/search?q=%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 8 | [Wonderland](http://twitter.com/search?q=Wonderland) | N/A |
-| 9 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 8 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 9 | [Wonderland](http://twitter.com/search?q=Wonderland) | N/A |
 | 10 | [ладно](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 11 | [бога](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d0%b0) | N/A |
 | 12 | [аааа](http://twitter.com/search?q=%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |

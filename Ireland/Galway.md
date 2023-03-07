@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-07 03:27:12 UTC`
+📆 Last Updated: `2023-03-07 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,7 +40,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 23 | [Congratulations Brian](http://twitter.com/search?q=Congratulations+Brian) | N/A |
 | 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 25 | [Primary](http://twitter.com/search?q=Primary) | N/A |
-| 26 | [Caroline Goldsmith](http://twitter.com/search?q=Caroline+Goldsmith) | N/A |
+| 26 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
 | 27 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 | 28 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
 | 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
@@ -51,10 +51,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 35 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
 | 36 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 37 | [CORU](http://twitter.com/search?q=CORU) | N/A |
+| 37 | [coru](http://twitter.com/search?q=coru) | N/A |
 | 38 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
 | 39 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 40 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 40 | [tallaght](http://twitter.com/search?q=tallaght) | N/A |
 | 41 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 43 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |

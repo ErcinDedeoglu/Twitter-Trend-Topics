@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-07 03:27:13 UTC`
+📆 Last Updated: `2023-03-07 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,36 +33,36 @@ This is top 50 for [France](</France>)
 | 16 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
 | 17 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
 | 18 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
-| 19 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 20 | [Gâchis](http://twitter.com/search?q=G%c3%a2chis) | N/A |
-| 21 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 22 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 23 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
-| 26 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
-| 27 | [guide michelin](http://twitter.com/search?q=guide+michelin) | N/A |
-| 28 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
-| 29 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 30 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
+| 19 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 20 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 21 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [alexandre couillon](http://twitter.com/search?q=alexandre+couillon) | N/A |
+| 24 | [Ngannou](http://twitter.com/search?q=Ngannou) | N/A |
+| 25 | [guide michelin](http://twitter.com/search?q=guide+michelin) | N/A |
+| 26 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
+| 27 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 28 | [lagasnerie](http://twitter.com/search?q=lagasnerie) | N/A |
+| 29 | [Gâchis](http://twitter.com/search?q=G%c3%a2chis) | N/A |
+| 30 | [McFly](http://twitter.com/search?q=McFly) | N/A |
 | 31 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 32 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 33 | [McFly](http://twitter.com/search?q=McFly) | N/A |
-| 34 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
-| 35 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
-| 36 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 37 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 38 | [Thorfinn](http://twitter.com/search?q=Thorfinn) | N/A |
-| 39 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
-| 40 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 41 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
-| 42 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 43 | [Fernand](http://twitter.com/search?q=Fernand) | N/A |
-| 44 | [Scream](http://twitter.com/search?q=Scream) | N/A |
-| 45 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
-| 46 | [Dragon Ball](http://twitter.com/search?q=Dragon+Ball) | N/A |
-| 47 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
-| 48 | [Dragibus](http://twitter.com/search?q=Dragibus) | N/A |
+| 32 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 33 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
+| 34 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
+| 35 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 36 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 37 | [Bandai Namco](http://twitter.com/search?q=Bandai+Namco) | N/A |
+| 38 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
+| 39 | [Nekfeu](http://twitter.com/search?q=Nekfeu) | N/A |
+| 40 | [Fernand](http://twitter.com/search?q=Fernand) | N/A |
+| 41 | [Scream](http://twitter.com/search?q=Scream) | N/A |
+| 42 | [Piercing](http://twitter.com/search?q=Piercing) | N/A |
+| 43 | [L'épisode 8](http://twitter.com/search?q=L%27%c3%a9pisode+8) | N/A |
+| 44 | [Miocic](http://twitter.com/search?q=Miocic) | N/A |
+| 45 | [Dragibus](http://twitter.com/search?q=Dragibus) | N/A |
+| 46 | [mortaza behboudi](http://twitter.com/search?q=mortaza+behboudi) | N/A |
+| 47 | [Kakarot](http://twitter.com/search?q=Kakarot) | N/A |
+| 48 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 
 
 

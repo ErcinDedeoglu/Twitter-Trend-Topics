@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-07 03:27:19 UTC`
+📆 Last Updated: `2023-03-07 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#LDC5](http://twitter.com/search?q=%23LDC5) | N/A |
+| 1 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 2 | [#LDC5](http://twitter.com/search?q=%23LDC5) | N/A |
+| 3 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
 | 4 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
 | 5 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 6 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 7 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 6 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 7 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 9 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
 | 10 | [human rights council](http://twitter.com/search?q=human+rights+council) | N/A |
 | 11 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 13 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
 | 14 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
-| 15 | [Gymi](http://twitter.com/search?q=Gymi) | N/A |
+| 15 | [gymi](http://twitter.com/search?q=gymi) | N/A |
 | 16 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
 | 17 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
 | 18 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 19 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 20 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 19 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 20 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
 | 21 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 22 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 23 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
-| 24 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
-| 25 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 27 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
-| 28 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 29 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 30 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 31 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 32 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 33 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 34 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 35 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 36 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
-| 37 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 38 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 39 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 40 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 43 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 46 | [Stil](http://twitter.com/search?q=Stil) | N/A |
-| 47 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 23 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 24 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
+| 25 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
+| 26 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 28 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
+| 29 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 30 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 31 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 32 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 33 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 34 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
+| 35 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 36 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 37 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
+| 38 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 39 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 40 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 41 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 44 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 46 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 47 | [Stil](http://twitter.com/search?q=Stil) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-07 03:27:57 UTC`
+📆 Last Updated: `2023-03-07 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#LDC5](http://twitter.com/search?q=%23LDC5) | N/A |
-| 4 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 5 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 7 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 9 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 10 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 1 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 2 | [#LDC5](http://twitter.com/search?q=%23LDC5) | N/A |
+| 3 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 4 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 6 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 7 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 8 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 9 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 11 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
 | 12 | [human rights council](http://twitter.com/search?q=human+rights+council) | N/A |
 | 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 15 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
 | 16 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
-| 17 | [Gymi](http://twitter.com/search?q=Gymi) | N/A |
+| 17 | [gymi](http://twitter.com/search?q=gymi) | N/A |
 | 18 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
 | 19 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
 | 20 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 21 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 22 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 21 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 22 | [ohren](http://twitter.com/search?q=ohren) | N/A |
 | 23 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 24 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 25 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
-| 26 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
-| 27 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 28 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 29 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
-| 30 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 31 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 32 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
-| 33 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 34 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 35 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 36 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 37 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 38 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
-| 39 | [Hose](http://twitter.com/search?q=Hose) | N/A |
-| 40 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 41 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 42 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 45 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 47 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 48 | [Stil](http://twitter.com/search?q=Stil) | N/A |
-| 49 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 50 | [Szene](http://twitter.com/search?q=Szene) | N/A |
+| 25 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 26 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
+| 27 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
+| 28 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 30 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
+| 31 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 32 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 33 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 34 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 35 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 36 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
+| 37 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 38 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 39 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
+| 40 | [Hose](http://twitter.com/search?q=Hose) | N/A |
+| 41 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 42 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 43 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 46 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 49 | [Stil](http://twitter.com/search?q=Stil) | N/A |
+| 50 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
 
 
 

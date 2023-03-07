@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-07 03:27:50 UTC`
+📆 Last Updated: `2023-03-07 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,14 +44,14 @@ This is top 50 for Algeria
 | 27 | [ابن حجر](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%ad%d8%ac%d8%b1) | N/A |
 | 28 | [العاب العقل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%82%d9%84) | N/A |
 | 29 | [نظام المخزن](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ae%d8%b2%d9%86) | N/A |
-| 30 | [الصحراء الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 31 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
-| 32 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
-| 33 | [محمد بن عبد الوهاب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8) | N/A |
-| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 35 | [السلف الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 36 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 37 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 30 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 31 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
+| 32 | [محمد بن عبد الوهاب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8) | N/A |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [السلف الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 35 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 36 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 37 | [الصحراء الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
 | 38 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 39 | [طارق](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82) | N/A |
 | 40 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |

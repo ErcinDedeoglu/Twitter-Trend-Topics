@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-07 03:27:52 UTC`
+📆 Last Updated: `2023-03-07 04:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Ireland
 | ------- | ------------ | ------------ |
 | 1 | [#RTEInvestigates](http://twitter.com/search?q=%23RTEInvestigates) | N/A |
 | 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 3 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 3 | [#rteupfront](http://twitter.com/search?q=%23rteupfront) | N/A |
 | 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for Ireland
 | 24 | [Congratulations Brian](http://twitter.com/search?q=Congratulations+Brian) | N/A |
 | 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 26 | [Primary](http://twitter.com/search?q=Primary) | N/A |
-| 27 | [Caroline Goldsmith](http://twitter.com/search?q=Caroline+Goldsmith) | N/A |
+| 27 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
 | 28 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 | 29 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
 | 30 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
@@ -52,10 +52,10 @@ This is top 50 for Ireland
 | 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 36 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
 | 37 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 38 | [CORU](http://twitter.com/search?q=CORU) | N/A |
+| 38 | [coru](http://twitter.com/search?q=coru) | N/A |
 | 39 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
 | 40 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 41 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 41 | [tallaght](http://twitter.com/search?q=tallaght) | N/A |
 | 42 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 44 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |

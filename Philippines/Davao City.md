@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-07 03:27:28 UTC`
+📆 Last Updated: `2023-03-07 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
 | 3 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
 | 4 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 7 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 8 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
-| 11 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
-| 12 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
-| 13 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 14 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
-| 15 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 5 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 6 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 7 | [#ニキ_LegendofKPOP_祝200万回再生](http://twitter.com/search?q=%23%e3%83%8b%e3%82%ad_LegendofKPOP_%e7%a5%9d200%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
+| 8 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
+| 9 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
+| 10 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
+| 11 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
+| 12 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
+| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 15 | [Diokno](http://twitter.com/search?q=Diokno) | N/A |
 | 16 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 17 | [MINGLE WITH JIMIN](http://twitter.com/search?q=MINGLE+WITH+JIMIN) | N/A |
-| 18 | [Masungi Georeserve](http://twitter.com/search?q=Masungi+Georeserve) | N/A |
-| 19 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
-| 20 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
-| 23 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
-| 24 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 25 | [Jimin Live](http://twitter.com/search?q=Jimin+Live) | N/A |
-| 26 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 27 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 28 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
-| 29 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 30 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 31 | [MOM NOW SHOWING](http://twitter.com/search?q=MOM+NOW+SHOWING) | N/A |
-| 32 | [D-14 BOBBY COMEBACK](http://twitter.com/search?q=D-14+BOBBY+COMEBACK) | N/A |
+| 17 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
+| 18 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 19 | [Masungi Georeserve](http://twitter.com/search?q=Masungi+Georeserve) | N/A |
+| 20 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
+| 21 | [MINGLE WITH JIMIN](http://twitter.com/search?q=MINGLE+WITH+JIMIN) | N/A |
+| 22 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 23 | [D-14 BOBBY COMEBACK](http://twitter.com/search?q=D-14+BOBBY+COMEBACK) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 26 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
+| 27 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
+| 28 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 29 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 30 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
+| 31 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
+| 32 | [eunha](http://twitter.com/search?q=eunha) | N/A |
 | 33 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
 | 34 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
 | 35 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
-| 36 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 36 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
 | 37 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 38 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 39 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 40 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
-| 41 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 42 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
+| 38 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
+| 39 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
+| 40 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 41 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
+| 42 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 44 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
-| 45 | [prince ang piegbabalik](http://twitter.com/search?q=prince+ang+piegbabalik) | N/A |
-| 46 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
-| 47 | [Dream High](http://twitter.com/search?q=Dream+High) | N/A |
+| 44 | [prince ang piegbabalik](http://twitter.com/search?q=prince+ang+piegbabalik) | N/A |
+| 45 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
+| 46 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 47 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
 
 
 

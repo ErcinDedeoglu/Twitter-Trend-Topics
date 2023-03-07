@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-07 03:27:51 UTC`
+📆 Last Updated: `2023-03-07 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 1 | [#ZiB2](http://twitter.com/search?q=%23ZiB2) | N/A |
 | 2 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
 | 3 | [kärnten](http://twitter.com/search?q=k%c3%a4rnten) | N/A |
 | 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Austria
 | 25 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 26 | [verlierer](http://twitter.com/search?q=verlierer) | N/A |
 | 27 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 28 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
+| 28 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
 | 29 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
 | 30 | [Pamela Rendi](http://twitter.com/search?q=Pamela+Rendi) | N/A |
 | 31 | [nehammer](http://twitter.com/search?q=nehammer) | N/A |
@@ -51,16 +51,16 @@ This is top 50 for Austria
 | 34 | [hochrechnung](http://twitter.com/search?q=hochrechnung) | N/A |
 | 35 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
 | 36 | [nr-wahl](http://twitter.com/search?q=nr-wahl) | N/A |
-| 37 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 37 | [vertrag](http://twitter.com/search?q=vertrag) | N/A |
 | 38 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
 | 39 | [Abgang](http://twitter.com/search?q=Abgang) | N/A |
 | 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 41 | [Sieger](http://twitter.com/search?q=Sieger) | N/A |
 | 42 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 43 | [maurer](http://twitter.com/search?q=maurer) | N/A |
+| 43 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
 | 44 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
 | 45 | [köfer](http://twitter.com/search?q=k%c3%b6fer) | N/A |
-| 46 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 46 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
 | 47 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
 | 48 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 49 | [Bund](http://twitter.com/search?q=Bund) | N/A |
