@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-07 00:30:56 UTC`
+📆 Last Updated: `2023-03-07 01:45:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#ڈرٹی_ہیری_سائیکو_پیتھ](http://twitter.com/search?q=%23%da%88%d8%b1%d9%b9%db%8c_%db%81%db%8c%d8%b1%db%8c_%d8%b3%d8%a7%d8%a6%db%8c%da%a9%d9%88_%d9%be%db%8c%d8%aa%da%be) | N/A |
 | 6 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 7 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
-| 8 | [sarfaraz](http://twitter.com/search?q=sarfaraz) | N/A |
-| 9 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 8 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
+| 9 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
 | 10 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 11 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 14 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 15 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 16 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 17 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
-| 18 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 19 | [naseem shah](http://twitter.com/search?q=naseem+shah) | N/A |
-| 20 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
-| 21 | [Fuller](http://twitter.com/search?q=Fuller) | N/A |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 13 | [toshakhana](http://twitter.com/search?q=toshakhana) | N/A |
+| 14 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 15 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 16 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 17 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 18 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 19 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 20 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 21 | [Least Developed Countries](http://twitter.com/search?q=Least+Developed+Countries) | N/A |
+| 22 | [Fuller](http://twitter.com/search?q=Fuller) | N/A |
 | 23 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 24 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 25 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 25 | [London](http://twitter.com/search?q=London) | N/A |
 | 26 | [Bolan](http://twitter.com/search?q=Bolan) | N/A |
 | 27 | [Sadiq](http://twitter.com/search?q=Sadiq) | N/A |
-| 28 | [Fighter](http://twitter.com/search?q=Fighter) | N/A |
-| 29 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 30 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
-| 31 | [LDCs](http://twitter.com/search?q=LDCs) | N/A |
+| 28 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 29 | [Fighter](http://twitter.com/search?q=Fighter) | N/A |
+| 30 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
+| 31 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
 | 32 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 33 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 34 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
-| 35 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 36 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 39 | [DM ASAP](http://twitter.com/search?q=DM+ASAP) | N/A |
-| 40 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 41 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 42 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 43 | [Yupp](http://twitter.com/search?q=Yupp) | N/A |
-| 44 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 45 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 47 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 48 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 49 | [Favourite](http://twitter.com/search?q=Favourite) | N/A |
-| 50 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 33 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 34 | [I Can](http://twitter.com/search?q=I+Can) | N/A |
+| 35 | [DM ASAP](http://twitter.com/search?q=DM+ASAP) | N/A |
+| 36 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 37 | [Gotchu](http://twitter.com/search?q=Gotchu) | N/A |
+| 38 | [Shoaib](http://twitter.com/search?q=Shoaib) | N/A |
+| 39 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 40 | [Ayee](http://twitter.com/search?q=Ayee) | N/A |
+| 41 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
+| 42 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 43 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 44 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
+| 45 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 46 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 47 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 48 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 49 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
+| 50 | [YouTube Channel](http://twitter.com/search?q=YouTube+Channel) | N/A |
 
 
 

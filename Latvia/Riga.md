@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-07 00:30:40 UTC`
+📆 Last Updated: `2023-03-07 01:45:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Latvia](</Latvia>)
 | 5 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
 | 6 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
 | 7 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
-| 8 | [gribu](http://twitter.com/search?q=gribu) | N/A |
-| 9 | [rainis](http://twitter.com/search?q=rainis) | N/A |
-| 10 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 11 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
-| 12 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 13 | [upīti](http://twitter.com/search?q=up%c4%abti) | N/A |
-| 14 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 15 | [vāciju](http://twitter.com/search?q=v%c4%81ciju) | N/A |
-| 16 | [Helmaņa](http://twitter.com/search?q=Helma%c5%86a) | N/A |
-| 17 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
-| 18 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 19 | [#xrpnft](http://twitter.com/search?q=%23xrpnft) | N/A |
-| 20 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
-| 21 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 22 | [Ko Tu](http://twitter.com/search?q=Ko+Tu) | N/A |
-| 23 | [staļina](http://twitter.com/search?q=sta%c4%bcina) | N/A |
-| 24 | [putinu](http://twitter.com/search?q=putinu) | N/A |
-| 25 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 26 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
-| 27 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
-| 28 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 29 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 30 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 31 | [varu](http://twitter.com/search?q=varu) | N/A |
-| 32 | [atceros](http://twitter.com/search?q=atceros) | N/A |
-| 33 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 34 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 35 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 36 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 37 | [sakses](http://twitter.com/search?q=sakses) | N/A |
-| 38 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 39 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Viņam](http://twitter.com/search?q=Vi%c5%86am) | N/A |
-| 42 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
-| 43 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
-| 44 | [piedod](http://twitter.com/search?q=piedod) | N/A |
-| 45 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 46 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 47 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
-| 48 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 49 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
-| 50 | [Ulmanis](http://twitter.com/search?q=Ulmanis) | N/A |
+| 8 | [rainis](http://twitter.com/search?q=rainis) | N/A |
+| 9 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
+| 10 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 11 | [upīti](http://twitter.com/search?q=up%c4%abti) | N/A |
+| 12 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 13 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
+| 14 | [maskavu](http://twitter.com/search?q=maskavu) | N/A |
+| 15 | [visiem](http://twitter.com/search?q=visiem) | N/A |
+| 16 | [latviju](http://twitter.com/search?q=latviju) | N/A |
+| 17 | [staļina](http://twitter.com/search?q=sta%c4%bcina) | N/A |
+| 18 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
+| 19 | [putinu](http://twitter.com/search?q=putinu) | N/A |
+| 20 | [ulmaņa](http://twitter.com/search?q=ulma%c5%86a) | N/A |
+| 21 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 22 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 23 | [padomju](http://twitter.com/search?q=padomju) | N/A |
+| 24 | [varu](http://twitter.com/search?q=varu) | N/A |
+| 25 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 26 | [tevis](http://twitter.com/search?q=tevis) | N/A |
+| 27 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
+| 28 | [rimi](http://twitter.com/search?q=rimi) | N/A |
+| 29 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 30 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
+| 31 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 32 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
+| 33 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 34 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 35 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
+| 36 | [sakses](http://twitter.com/search?q=sakses) | N/A |
+| 37 | [piedod](http://twitter.com/search?q=piedod) | N/A |
+| 38 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
+| 39 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 40 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 43 | [Ulmanis](http://twitter.com/search?q=Ulmanis) | N/A |
+| 44 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 45 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
+| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 47 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
+| 48 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
+| 49 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 50 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
 
 
 

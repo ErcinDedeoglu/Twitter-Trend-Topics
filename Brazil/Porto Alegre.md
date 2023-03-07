@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-07 00:30:31 UTC`
+📆 Last Updated: `2023-03-07 01:45:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Copacabana](http://twitter.com/search?q=Copacabana) | N/A |
-| 2 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 3 | [Carnaval de Porto Alegre](http://twitter.com/search?q=Carnaval+de+Porto+Alegre) | N/A |
-| 4 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 5 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 6 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
-| 7 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 8 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 9 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 10 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 11 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 12 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 13 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
-| 14 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 15 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 16 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 17 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
-| 18 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 19 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 20 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 21 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 22 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 1 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 2 | [Copacabana](http://twitter.com/search?q=Copacabana) | N/A |
+| 3 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 4 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 7 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 8 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 9 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 10 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 11 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 12 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 13 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 14 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 15 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 16 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 17 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 18 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 19 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 20 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
 | 23 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 24 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 25 | [#YOONWEEKD2](http://twitter.com/search?q=%23YOONWEEKD2) | N/A |
-| 26 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
-| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 28 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 29 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 30 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 31 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 32 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
-| 33 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 34 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 35 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 36 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
-| 37 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 39 | [Joui](http://twitter.com/search?q=Joui) | N/A |
-| 40 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 41 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 42 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 43 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 44 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 45 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 46 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 47 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 48 | [aegyo](http://twitter.com/search?q=aegyo) | N/A |
-| 49 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 50 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
+| 24 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 25 | [pri souza](http://twitter.com/search?q=pri+souza) | N/A |
+| 26 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 27 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 28 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 29 | [mikey madison](http://twitter.com/search?q=mikey+madison) | N/A |
+| 30 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 31 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
+| 32 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 33 | [iPad](http://twitter.com/search?q=iPad) | N/A |
+| 34 | [LAUANA LIBERA O RAIZ](http://twitter.com/search?q=LAUANA+LIBERA+O+RAIZ) | N/A |
+| 35 | [PARABENS LUCY](http://twitter.com/search?q=PARABENS+LUCY) | N/A |
+| 36 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 37 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 38 | [O Ari](http://twitter.com/search?q=O+Ari) | N/A |
+| 39 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 41 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
+| 42 | [carol gattaz](http://twitter.com/search?q=carol+gattaz) | N/A |
+| 43 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 44 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 45 | [Cássia Kiss](http://twitter.com/search?q=C%c3%a1ssia+Kiss) | N/A |
+| 46 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 47 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 48 | [Gabiru](http://twitter.com/search?q=Gabiru) | N/A |
+| 49 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 50 | [Votando](http://twitter.com/search?q=Votando) | N/A |
 
 
 

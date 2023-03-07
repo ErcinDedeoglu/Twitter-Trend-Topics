@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-07 00:31:02 UTC`
+📆 Last Updated: `2023-03-07 01:46:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 2 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 4 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 5 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 6 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 7 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 8 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
-| 9 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 10 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
-| 11 | [#YIAYmake](http://twitter.com/search?q=%23YIAYmake) | N/A |
-| 12 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
-| 13 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
-| 14 | [#ReasonsForBeingSarcastic](http://twitter.com/search?q=%23ReasonsForBeingSarcastic) | N/A |
-| 15 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 16 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 17 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 18 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 19 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
-| 20 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
-| 21 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 22 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 23 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 24 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 25 | [Chag Purim Sameach](http://twitter.com/search?q=Chag+Purim+Sameach) | N/A |
-| 26 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 27 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 30 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 31 | [Arch](http://twitter.com/search?q=Arch) | N/A |
-| 32 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
-| 33 | [All-ACC](http://twitter.com/search?q=All-ACC) | N/A |
-| 34 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 35 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 36 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 37 | [Congrats Claire](http://twitter.com/search?q=Congrats+Claire) | N/A |
-| 38 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 39 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 40 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 41 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 42 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 43 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 44 | [Tyler Perry](http://twitter.com/search?q=Tyler+Perry) | N/A |
-| 45 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 46 | [Justin Turner](http://twitter.com/search?q=Justin+Turner) | N/A |
-| 47 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
-| 48 | [Bob Ross](http://twitter.com/search?q=Bob+Ross) | N/A |
-| 49 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 2 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 4 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 5 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 6 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 10 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 11 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 12 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 13 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 14 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 15 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 16 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 17 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 18 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 19 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 20 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
+| 23 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
+| 24 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 25 | [Duncan Robinson](http://twitter.com/search?q=Duncan+Robinson) | N/A |
+| 26 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
+| 27 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 28 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 29 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 30 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 31 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 32 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 33 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 34 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 35 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 36 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 37 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 38 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 39 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 40 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
+| 41 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 42 | [Brian Sicknick](http://twitter.com/search?q=Brian+Sicknick) | N/A |
+| 43 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 44 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 45 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 46 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 47 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 48 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 49 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-07 00:31:06 UTC`
+📆 Last Updated: `2023-03-07 01:46:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harrington](http://twitter.com/search?q=Harrington) | N/A |
-| 2 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 3 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 4 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
-| 5 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 6 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 8 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 11 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 12 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
-| 13 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 14 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
-| 15 | [#YIAYmake](http://twitter.com/search?q=%23YIAYmake) | N/A |
-| 16 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
-| 17 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
-| 18 | [#ReasonsForBeingSarcastic](http://twitter.com/search?q=%23ReasonsForBeingSarcastic) | N/A |
-| 19 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 20 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 21 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 22 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 23 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
-| 24 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 25 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
-| 26 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 27 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 28 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 29 | [Chag Purim Sameach](http://twitter.com/search?q=Chag+Purim+Sameach) | N/A |
-| 30 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 31 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 34 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 35 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
-| 36 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 37 | [All-ACC](http://twitter.com/search?q=All-ACC) | N/A |
-| 38 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 39 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 40 | [Arch](http://twitter.com/search?q=Arch) | N/A |
-| 41 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 42 | [Congrats Claire](http://twitter.com/search?q=Congrats+Claire) | N/A |
-| 43 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 44 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 45 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 46 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 47 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 48 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 49 | [Tyler Perry](http://twitter.com/search?q=Tyler+Perry) | N/A |
-| 50 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
+| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 3 | [#CSW67](http://twitter.com/search?q=%23CSW67) | N/A |
+| 4 | [Harrington](http://twitter.com/search?q=Harrington) | N/A |
+| 5 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 6 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 8 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 9 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 10 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 11 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 13 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 14 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 15 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 16 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 17 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 18 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 19 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 20 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 21 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 22 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
+| 25 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
+| 26 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 27 | [Duncan Robinson](http://twitter.com/search?q=Duncan+Robinson) | N/A |
+| 28 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
+| 29 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 30 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 31 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 32 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 33 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 34 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 35 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 36 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 37 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 38 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 39 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 40 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 41 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 42 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
+| 43 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 44 | [Brian Sicknick](http://twitter.com/search?q=Brian+Sicknick) | N/A |
+| 45 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
+| 46 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 47 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 48 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 49 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 50 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-07 00:30:41 UTC`
+📆 Last Updated: `2023-03-07 01:45:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 2 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 3 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
-| 4 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 1 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 2 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 3 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 4 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
 | 5 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 6 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
-| 7 | [Jadi Pembela Agama Allah](http://twitter.com/search?q=Jadi+Pembela+Agama+Allah) | N/A |
+| 6 | [Jadi Pembela Agama Allah](http://twitter.com/search?q=Jadi+Pembela+Agama+Allah) | N/A |
+| 7 | [Khilafah Ajaran Islam](http://twitter.com/search?q=Khilafah+Ajaran+Islam) | N/A |
 | 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
-| 10 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 11 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 12 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 9 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 10 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
+| 11 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 12 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
 | 13 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 14 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
-| 15 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 16 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
-| 17 | [salam 7-0](http://twitter.com/search?q=salam+7-0) | N/A |
-| 18 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 19 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
-| 20 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 21 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 22 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
-| 23 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 24 | [Morninggg](http://twitter.com/search?q=Morninggg) | N/A |
-| 25 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 26 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 27 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 28 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 29 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 30 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 31 | [mending wo](http://twitter.com/search?q=mending+wo) | N/A |
-| 32 | [Quality](http://twitter.com/search?q=Quality) | N/A |
-| 33 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
-| 34 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 36 | [mu 7-0](http://twitter.com/search?q=mu+7-0) | N/A |
-| 37 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 38 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
-| 39 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 40 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 14 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 15 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
+| 16 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 17 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
+| 18 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 19 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 20 | [David](http://twitter.com/search?q=David) | N/A |
+| 21 | [Firts](http://twitter.com/search?q=Firts) | N/A |
+| 22 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 24 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 25 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
+| 26 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 27 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 28 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 30 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 31 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
+| 32 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 33 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 34 | [mending wo](http://twitter.com/search?q=mending+wo) | N/A |
+| 35 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 36 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 37 | [Tanah Merah](http://twitter.com/search?q=Tanah+Merah) | N/A |
+| 38 | [Salam 7-0](http://twitter.com/search?q=Salam+7-0) | N/A |
+| 39 | [Quality](http://twitter.com/search?q=Quality) | N/A |
+| 40 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
 | 41 | [THANK YOU MISS E](http://twitter.com/search?q=THANK+YOU+MISS+E) | N/A |
-| 42 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
-| 43 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 44 | [banghan](http://twitter.com/search?q=banghan) | N/A |
-| 45 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
-| 46 | [respect taehyung](http://twitter.com/search?q=respect+taehyung) | N/A |
+| 42 | [200MP Nightography](http://twitter.com/search?q=200MP+Nightography) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 45 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
+| 46 | [repeat after me](http://twitter.com/search?q=repeat+after+me) | N/A |
 
 
 

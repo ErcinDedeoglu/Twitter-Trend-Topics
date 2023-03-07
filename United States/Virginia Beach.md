@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-03-07 00:31:08 UTC`
+📆 Last Updated: `2023-03-07 01:46:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 2 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 4 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 6 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 7 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 8 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 9 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 10 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
-| 11 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 12 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
-| 13 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
-| 14 | [#YIAYmake](http://twitter.com/search?q=%23YIAYmake) | N/A |
-| 15 | [#ReasonsForBeingSarcastic](http://twitter.com/search?q=%23ReasonsForBeingSarcastic) | N/A |
-| 16 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
-| 17 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 18 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 19 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 20 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 21 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
-| 22 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
-| 23 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 24 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 26 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 27 | [Chag Purim Sameach](http://twitter.com/search?q=Chag+Purim+Sameach) | N/A |
-| 28 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 29 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 32 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 33 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
-| 34 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 35 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
-| 36 | [Arch](http://twitter.com/search?q=Arch) | N/A |
-| 37 | [All-ACC](http://twitter.com/search?q=All-ACC) | N/A |
-| 38 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 39 | [Congrats Claire](http://twitter.com/search?q=Congrats+Claire) | N/A |
-| 40 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 41 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 42 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
-| 43 | [#ARSD](http://twitter.com/search?q=%23ARSD) | #ARSD stands for "Accelerated Reader School District" and is a program used by schools to track student reading progress. It is an online system that allows teachers to assign books to students, monitor their reading progress, and assess their comprehension. |
-| 44 | [Jalen McDaniels](http://twitter.com/search?q=Jalen+McDaniels) | N/A |
-| 45 | [Deep Purple](http://twitter.com/search?q=Deep+Purple) | N/A |
-| 46 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 47 | [Orlando Brown](http://twitter.com/search?q=Orlando+Brown) | Orlando Brown is an American actor and singer best known for his role as Eddie Thomas on the Disney Channel series That's So Raven. The name Orlando is of Spanish origin and means "famous land". |
-| 48 | [Ferrell](http://twitter.com/search?q=Ferrell) | N/A |
-| 49 | [Tyler Perry](http://twitter.com/search?q=Tyler+Perry) | N/A |
+| 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 5 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 6 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 7 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 8 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 9 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 10 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 11 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 12 | [Hofstra](http://twitter.com/search?q=Hofstra) | N/A |
+| 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 14 | [#TuckerCarlson](http://twitter.com/search?q=%23TuckerCarlson) | N/A |
+| 15 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 16 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [UNCW](http://twitter.com/search?q=UNCW) | N/A |
+| 19 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
+| 20 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
+| 21 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 22 | [Duncan Robinson](http://twitter.com/search?q=Duncan+Robinson) | N/A |
+| 23 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
+| 24 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 25 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 26 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 27 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 28 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 29 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 30 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 31 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 32 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 33 | [Furman](http://twitter.com/search?q=Furman) | N/A |
+| 34 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 35 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 36 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 37 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
+| 38 | [Brian Sicknick](http://twitter.com/search?q=Brian+Sicknick) | N/A |
+| 39 | [New Twitter](http://twitter.com/search?q=New+Twitter) | N/A |
+| 40 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 41 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 42 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 43 | [Michael Moore](http://twitter.com/search?q=Michael+Moore) | N/A |
+| 44 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 45 | [Will Ferrell](http://twitter.com/search?q=Will+Ferrell) | N/A |
+| 46 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 47 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 48 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 49 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
 
 
 

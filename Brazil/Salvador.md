@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-07 00:30:31 UTC`
+📆 Last Updated: `2023-03-07 01:45:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 3 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 4 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
-| 5 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 6 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 7 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 8 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 9 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 10 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 11 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
-| 12 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 13 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 14 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 15 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
-| 16 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 18 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 19 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 20 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 21 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 22 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 23 | [#YOONWEEKD2](http://twitter.com/search?q=%23YOONWEEKD2) | N/A |
-| 24 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
-| 25 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
-| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 27 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 28 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 29 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 30 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 31 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
-| 32 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 33 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 34 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 35 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
-| 36 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 38 | [Joui](http://twitter.com/search?q=Joui) | N/A |
-| 39 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 40 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 41 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
-| 42 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 43 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 44 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 45 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 46 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 47 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 48 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
-| 49 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 50 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 4 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 5 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 6 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 7 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 8 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 9 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 10 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 11 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 12 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 13 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 14 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 15 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 16 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 17 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 18 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 19 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 22 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 23 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 24 | [pri souza](http://twitter.com/search?q=pri+souza) | N/A |
+| 25 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 26 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 27 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 28 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 29 | [mikey madison](http://twitter.com/search?q=mikey+madison) | N/A |
+| 30 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
+| 31 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 32 | [LAUANA LIBERA O RAIZ](http://twitter.com/search?q=LAUANA+LIBERA+O+RAIZ) | N/A |
+| 33 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 34 | [PARABENS LUCY](http://twitter.com/search?q=PARABENS+LUCY) | N/A |
+| 35 | [iPad](http://twitter.com/search?q=iPad) | N/A |
+| 36 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 37 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 38 | [O Ari](http://twitter.com/search?q=O+Ari) | N/A |
+| 39 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 41 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
+| 42 | [carol gattaz](http://twitter.com/search?q=carol+gattaz) | N/A |
+| 43 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 44 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 45 | [Cássia Kiss](http://twitter.com/search?q=C%c3%a1ssia+Kiss) | N/A |
+| 46 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 47 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 48 | [Gabiru](http://twitter.com/search?q=Gabiru) | N/A |
+| 49 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 50 | [Courteney Cox](http://twitter.com/search?q=Courteney+Cox) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-07 00:30:36 UTC`
+📆 Last Updated: `2023-03-07 01:45:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HartAberFair](http://twitter.com/search?q=%23HartAberFair) | N/A |
-| 2 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 2 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
 | 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
@@ -27,43 +27,43 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 12 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 13 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 13 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 14 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 16 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 17 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 18 | [aken](http://twitter.com/search?q=aken) | N/A |
-| 19 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 20 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 21 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 22 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 23 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 24 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 25 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 26 | [Hasselmann](http://twitter.com/search?q=Hasselmann) | N/A |
-| 27 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 15 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
+| 16 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 17 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 18 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 19 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 20 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 21 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
+| 22 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 23 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 24 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 25 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 26 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 27 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
 | 28 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
 | 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 31 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 32 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
-| 33 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 34 | [Moschee](http://twitter.com/search?q=Moschee) | N/A |
-| 35 | [fehlermeldung](http://twitter.com/search?q=fehlermeldung) | N/A |
-| 36 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
-| 37 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 38 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
-| 39 | [Urteil der Geschichte](http://twitter.com/search?q=Urteil+der+Geschichte) | N/A |
-| 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 41 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 42 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 43 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 44 | [Daniel Günther](http://twitter.com/search?q=Daniel+G%c3%bcnther) | N/A |
-| 45 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 48 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
-| 49 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 30 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 31 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
+| 32 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 33 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
+| 34 | [Urteil der Geschichte](http://twitter.com/search?q=Urteil+der+Geschichte) | N/A |
+| 35 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 36 | [fehlermeldung](http://twitter.com/search?q=fehlermeldung) | N/A |
+| 37 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 39 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 40 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
+| 41 | [sachbeschädigung](http://twitter.com/search?q=sachbesch%c3%a4digung) | N/A |
+| 42 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 43 | [Kino](http://twitter.com/search?q=Kino) | N/A |
+| 44 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 45 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 46 | [Petra Kelly](http://twitter.com/search?q=Petra+Kelly) | N/A |
+| 47 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
+| 48 | [denkmal](http://twitter.com/search?q=denkmal) | N/A |
+| 49 | [Windbeutel](http://twitter.com/search?q=Windbeutel) | N/A |
 
 
 
