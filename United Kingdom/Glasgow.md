@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-07 16:16:02 UTC`
+📆 Last Updated: `2023-03-07 17:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
-| 2 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 3 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 4 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 5 | [#VehiclesInMoviesOrSongs](http://twitter.com/search?q=%23VehiclesInMoviesOrSongs) | N/A |
-| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 7 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 2 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 3 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
+| 4 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 5 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 6 | [Slaven Bilic](http://twitter.com/search?q=Slaven+Bilic) | N/A |
+| 7 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 8 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 9 | [#IllegalMigrationBill](http://twitter.com/search?q=%23IllegalMigrationBill) | N/A |
-| 10 | [#WorldCerealDay](http://twitter.com/search?q=%23WorldCerealDay) | N/A |
-| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 12 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 13 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 14 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 16 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 17 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 18 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 19 | [Snow in March](http://twitter.com/search?q=Snow+in+March) | N/A |
-| 20 | [Unbiased](http://twitter.com/search?q=Unbiased) | N/A |
-| 21 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
-| 22 | [Viagogo](http://twitter.com/search?q=Viagogo) | N/A |
-| 23 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 9 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 10 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
+| 11 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 12 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 13 | [#VehiclesInMoviesOrSongs](http://twitter.com/search?q=%23VehiclesInMoviesOrSongs) | N/A |
+| 14 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 15 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 16 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 17 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 18 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 20 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 21 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
+| 22 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
+| 23 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 24 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 25 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 26 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 27 | [Priti Patel](http://twitter.com/search?q=Priti+Patel) | N/A |
-| 28 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
-| 29 | [Turks](http://twitter.com/search?q=Turks) | N/A |
-| 30 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 31 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 33 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 34 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 35 | [grand final](http://twitter.com/search?q=grand+final) | N/A |
-| 36 | ["Silent"](http://twitter.com/search?q=%22Silent%22) | N/A |
-| 37 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 38 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 25 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
+| 26 | [Kensington](http://twitter.com/search?q=Kensington) | N/A |
+| 27 | [Unbiased](http://twitter.com/search?q=Unbiased) | N/A |
+| 28 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
+| 29 | [Viagogo](http://twitter.com/search?q=Viagogo) | N/A |
+| 30 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 31 | [Snow in March](http://twitter.com/search?q=Snow+in+March) | N/A |
+| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 33 | [Turks](http://twitter.com/search?q=Turks) | N/A |
+| 34 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
+| 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 36 | [Silent](http://twitter.com/search?q=Silent) | N/A |
+| 37 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 38 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
 | 39 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 40 | [Change UK](http://twitter.com/search?q=Change+UK) | N/A |
-| 41 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 42 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
-| 43 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 40 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 41 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 42 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 43 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
 | 44 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 45 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 46 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 47 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
-| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 49 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 46 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 47 | [Patel](http://twitter.com/search?q=Patel) | N/A |
+| 48 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 49 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 
 
 

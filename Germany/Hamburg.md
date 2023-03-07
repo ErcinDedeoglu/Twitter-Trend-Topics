@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-07 16:16:16 UTC`
+📆 Last Updated: `2023-03-07 17:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 2 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 3 | [#GrueneNEINdanke](http://twitter.com/search?q=%23GrueneNEINdanke) | N/A |
-| 4 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 5 | [#Vonovia](http://twitter.com/search?q=%23Vonovia) | N/A |
-| 6 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 2 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 3 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 4 | [#GrueneNEINdanke](http://twitter.com/search?q=%23GrueneNEINdanke) | N/A |
+| 5 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 6 | [#Vonovia](http://twitter.com/search?q=%23Vonovia) | N/A |
 | 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 8 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 8 | [#Smilodox](http://twitter.com/search?q=%23Smilodox) | N/A |
 | 9 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 10 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 11 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 12 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
-| 13 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 14 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 15 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 16 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 17 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
-| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 19 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 20 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 11 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 12 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 13 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
+| 14 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
+| 15 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 17 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 19 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
+| 20 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 22 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
-| 23 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
-| 24 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 25 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 23 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 24 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
+| 25 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
 | 26 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
 | 27 | [Aken](http://twitter.com/search?q=Aken) | N/A |
-| 28 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 29 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
-| 30 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
+| 28 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
+| 29 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 30 | [Meppen](http://twitter.com/search?q=Meppen) | N/A |
 | 31 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 32 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 33 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 34 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
-| 35 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 36 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 37 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 38 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 39 | [Moschee](http://twitter.com/search?q=Moschee) | N/A |
-| 40 | [Klimaleugner](http://twitter.com/search?q=Klimaleugner) | N/A |
-| 41 | [Gästefans](http://twitter.com/search?q=G%c3%a4stefans) | N/A |
-| 42 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 43 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 44 | [Schulz](http://twitter.com/search?q=Schulz) | N/A |
-| 45 | [Schiggy](http://twitter.com/search?q=Schiggy) | N/A |
-| 46 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 47 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 48 | [Altersgrenze](http://twitter.com/search?q=Altersgrenze) | N/A |
-| 49 | [Scan](http://twitter.com/search?q=Scan) | N/A |
-| 50 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 32 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
+| 33 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 34 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
+| 35 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 36 | [Gaspreis](http://twitter.com/search?q=Gaspreis) | N/A |
+| 37 | [Altersgrenze](http://twitter.com/search?q=Altersgrenze) | N/A |
+| 38 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 39 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 40 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 41 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 42 | [Gästefans](http://twitter.com/search?q=G%c3%a4stefans) | N/A |
+| 43 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 44 | [Moschee](http://twitter.com/search?q=Moschee) | N/A |
+| 45 | [Scan](http://twitter.com/search?q=Scan) | N/A |
+| 46 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 47 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 48 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 49 | [Schulz](http://twitter.com/search?q=Schulz) | N/A |
+| 50 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
 
 
 

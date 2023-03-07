@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-03-07 16:16:06 UTC`
+📆 Last Updated: `2023-03-07 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 2 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
 | 3 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 4 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 5 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 6 | [#JuegoMañanero](http://twitter.com/search?q=%23JuegoMa%c3%b1anero) | N/A |
-| 7 | [#PoderosoBienCaliente](http://twitter.com/search?q=%23PoderosoBienCaliente) | N/A |
-| 8 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 9 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 11 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 12 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 13 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 14 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 15 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 16 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 17 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 18 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 19 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 20 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 21 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 22 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 25 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 26 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 27 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 28 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 29 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 30 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 31 | [San Antonio Abad](http://twitter.com/search?q=San+Antonio+Abad) | N/A |
-| 32 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 33 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
-| 34 | [Martes 07](http://twitter.com/search?q=Martes+07) | N/A |
-| 35 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
-| 36 | [Estadounidenses](http://twitter.com/search?q=Estadounidenses) | N/A |
-| 37 | [christmas love is coming](http://twitter.com/search?q=christmas+love+is+coming) | N/A |
-| 38 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 41 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 42 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
-| 43 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 44 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 45 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 46 | [started cwt](http://twitter.com/search?q=started+cwt) | N/A |
-| 47 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 48 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 49 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 50 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
+| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [#Formula1WorksWhitNarcos](http://twitter.com/search?q=%23Formula1WorksWhitNarcos) | N/A |
+| 6 | [Américo Villarreal](http://twitter.com/search?q=Am%c3%a9rico+Villarreal) | N/A |
+| 7 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 8 | [#PoderosoBienCaliente](http://twitter.com/search?q=%23PoderosoBienCaliente) | N/A |
+| 9 | [Forum Buenavista](http://twitter.com/search?q=Forum+Buenavista) | N/A |
+| 10 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 11 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 12 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 17 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 18 | [Estadounidenses](http://twitter.com/search?q=Estadounidenses) | N/A |
+| 19 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 20 | [Crimen Organizado](http://twitter.com/search?q=Crimen+Organizado) | N/A |
+| 21 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 22 | [Afganistán](http://twitter.com/search?q=Afganist%c3%a1n) | N/A |
+| 23 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 24 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 25 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 26 | [#TheTristeKorno](http://twitter.com/search?q=%23TheTristeKorno) | N/A |
+| 27 | [#20Años909](http://twitter.com/search?q=%2320A%c3%b1os909) | N/A |
+| 28 | [#Tlalnepantla](http://twitter.com/search?q=%23Tlalnepantla) | N/A |
+| 29 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 30 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 31 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 32 | [#Popocatépetl](http://twitter.com/search?q=%23Popocat%c3%a9petl) | N/A |
+| 33 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 34 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 35 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
+| 36 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 37 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 38 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 39 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 40 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 41 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 42 | [#EstadosUnidos](http://twitter.com/search?q=%23EstadosUnidos) | N/A |
+| 43 | [#AmloNarcoDictador](http://twitter.com/search?q=%23AmloNarcoDictador) | N/A |
+| 44 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
 
 
 

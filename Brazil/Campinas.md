@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-07 16:16:11 UTC`
+📆 Last Updated: `2023-03-07 17:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
 | 2 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 3 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
-| 4 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 5 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 6 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 7 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 8 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 9 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 3 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 4 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 5 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 6 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 7 | [Fiora](http://twitter.com/search?q=Fiora) | N/A |
+| 8 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 9 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 10 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 11 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 12 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
-| 13 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 11 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 12 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 13 | [#Donos11anos](http://twitter.com/search?q=%23Donos11anos) | N/A |
 | 14 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
-| 15 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
-| 16 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 17 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 18 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 19 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 20 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 21 | [Miu Miu](http://twitter.com/search?q=Miu+Miu) | N/A |
-| 22 | [Inep](http://twitter.com/search?q=Inep) | N/A |
-| 23 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
-| 24 | [robert pattinson](http://twitter.com/search?q=robert+pattinson) | N/A |
-| 25 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 26 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 27 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
-| 28 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 29 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
-| 30 | [Macula](http://twitter.com/search?q=Macula) | N/A |
-| 31 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 32 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
-| 33 | [Xand](http://twitter.com/search?q=Xand) | N/A |
-| 34 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 35 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 36 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 37 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 38 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 39 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 40 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
-| 41 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 42 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 43 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 44 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
-| 45 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 46 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 47 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
-| 48 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 49 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 15 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
+| 16 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
+| 17 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
+| 18 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 19 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 20 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 21 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 22 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
+| 23 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
+| 24 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 25 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 26 | [Syndra](http://twitter.com/search?q=Syndra) | N/A |
+| 27 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 28 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 29 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 30 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 31 | [ana cristina](http://twitter.com/search?q=ana+cristina) | N/A |
+| 32 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 33 | [Me Espera](http://twitter.com/search?q=Me+Espera) | N/A |
+| 34 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
+| 35 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
+| 36 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
+| 37 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 38 | [Apagou](http://twitter.com/search?q=Apagou) | N/A |
+| 39 | [Inep](http://twitter.com/search?q=Inep) | N/A |
+| 40 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 41 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 42 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 43 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
+| 44 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 45 | [Faz o B](http://twitter.com/search?q=Faz+o+B) | N/A |
+| 46 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 47 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 48 | [Macula](http://twitter.com/search?q=Macula) | N/A |
+| 49 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
 
 
 

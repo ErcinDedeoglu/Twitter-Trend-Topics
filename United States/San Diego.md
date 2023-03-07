@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-07 16:16:48 UTC`
+📆 Last Updated: `2023-03-07 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
-| 2 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 4 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 5 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 6 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 10 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 11 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
-| 12 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 13 | [Pro-Ukrainian](http://twitter.com/search?q=Pro-Ukrainian) | N/A |
-| 14 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 15 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
-| 16 | [JJ Reddick](http://twitter.com/search?q=JJ+Reddick) | N/A |
-| 17 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 2 | [Gavin Newsom](http://twitter.com/search?q=Gavin+Newsom) | N/A |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 6 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
+| 7 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 8 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 9 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
+| 14 | [Pro Ukrainian](http://twitter.com/search?q=Pro+Ukrainian) | N/A |
+| 15 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
+| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
 | 18 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 19 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 20 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 19 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 20 | [Halli](http://twitter.com/search?q=Halli) | N/A |
 | 21 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 22 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 23 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 24 | [SNKRS app](http://twitter.com/search?q=SNKRS+app) | N/A |
-| 25 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 26 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
-| 27 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 28 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 29 | [Two Americans](http://twitter.com/search?q=Two+Americans) | N/A |
-| 30 | [Debra Lee](http://twitter.com/search?q=Debra+Lee) | N/A |
-| 31 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 32 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 33 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 34 | [Tiffany AF1](http://twitter.com/search?q=Tiffany+AF1) | N/A |
-| 35 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 36 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 38 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 39 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 40 | [Miu Miu](http://twitter.com/search?q=Miu+Miu) | N/A |
-| 41 | [Misled](http://twitter.com/search?q=Misled) | N/A |
-| 42 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 43 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 44 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 45 | [Devin Brown](http://twitter.com/search?q=Devin+Brown) | N/A |
-| 46 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 47 | [JetBlue](http://twitter.com/search?q=JetBlue) | N/A |
-| 48 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 49 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 22 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 23 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
+| 24 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 25 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 26 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 27 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 28 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
+| 29 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 30 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 31 | [UMass](http://twitter.com/search?q=UMass) | N/A |
+| 32 | [Debra Lee](http://twitter.com/search?q=Debra+Lee) | N/A |
+| 33 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 34 | [Two Americans](http://twitter.com/search?q=Two+Americans) | N/A |
+| 35 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 36 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 37 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
+| 38 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
+| 39 | [JetBlue](http://twitter.com/search?q=JetBlue) | N/A |
+| 40 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 41 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 42 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 43 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 44 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 45 | [Spirit Airlines](http://twitter.com/search?q=Spirit+Airlines) | N/A |
+| 46 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 47 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 48 | [Jay Monahan](http://twitter.com/search?q=Jay+Monahan) | N/A |
+| 49 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 
 
 

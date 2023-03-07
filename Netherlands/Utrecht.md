@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-07 16:16:18 UTC`
+📆 Last Updated: `2023-03-07 17:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#weekzondervleesenzuivel](http://twitter.com/search?q=%23weekzondervleesenzuivel) | N/A |
-| 2 | [#vragenuurtje](http://twitter.com/search?q=%23vragenuurtje) | N/A |
+| 2 | [#toeslagenaffaire](http://twitter.com/search?q=%23toeslagenaffaire) | N/A |
 | 3 | [#HuntedVIPS](http://twitter.com/search?q=%23HuntedVIPS) | N/A |
 | 4 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
-| 5 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 6 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
-| 7 | [EU-verbod](http://twitter.com/search?q=EU-verbod) | N/A |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
+| 6 | [EU-verbod](http://twitter.com/search?q=EU-verbod) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Danny](http://twitter.com/search?q=Danny) | N/A |
 | 9 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 10 | [Frits van Eerd](http://twitter.com/search?q=Frits+van+Eerd) | N/A |
-| 11 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 14 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 10 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Frits van Eerd](http://twitter.com/search?q=Frits+van+Eerd) | N/A |
+| 13 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 14 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
 | 15 | [saibari](http://twitter.com/search?q=saibari) | N/A |
-| 16 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 17 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 16 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 17 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
 | 18 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 19 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 20 | [jong az](http://twitter.com/search?q=jong+az) | N/A |
-| 21 | [Onderzoeksraad](http://twitter.com/search?q=Onderzoeksraad) | N/A |
-| 22 | [goedemorgen anton](http://twitter.com/search?q=goedemorgen+anton) | N/A |
-| 23 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 24 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 25 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 19 | [jong az](http://twitter.com/search?q=jong+az) | N/A |
+| 20 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 21 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 22 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 23 | [goedemorgen anton](http://twitter.com/search?q=goedemorgen+anton) | N/A |
+| 24 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 25 | [Yesilgöz](http://twitter.com/search?q=Yesilg%c3%b6z) | N/A |
 | 26 | [Corinne](http://twitter.com/search?q=Corinne) | N/A |
 | 27 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 28 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 29 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 30 | [Omgevingswet](http://twitter.com/search?q=Omgevingswet) | N/A |
-| 31 | [jong psv](http://twitter.com/search?q=jong+psv) | N/A |
-| 32 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 33 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
-| 34 | [driessen](http://twitter.com/search?q=driessen) | N/A |
-| 35 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 36 | [vissers](http://twitter.com/search?q=vissers) | N/A |
-| 37 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 38 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
-| 39 | [ellemeet](http://twitter.com/search?q=ellemeet) | N/A |
-| 40 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 28 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 29 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 30 | [Zuidas](http://twitter.com/search?q=Zuidas) | N/A |
+| 31 | [Omgevingswet](http://twitter.com/search?q=Omgevingswet) | N/A |
+| 32 | [jong psv](http://twitter.com/search?q=jong+psv) | N/A |
+| 33 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 34 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
+| 35 | [jong ajax](http://twitter.com/search?q=jong+ajax) | N/A |
+| 36 | [Vissers](http://twitter.com/search?q=Vissers) | N/A |
+| 37 | [Onderzoeksraad](http://twitter.com/search?q=Onderzoeksraad) | N/A |
+| 38 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 39 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
+| 40 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 41 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
 | 42 | [goedemorgen peter](http://twitter.com/search?q=goedemorgen+peter) | N/A |
-| 43 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 44 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 45 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 46 | [Britten](http://twitter.com/search?q=Britten) | N/A |
-| 47 | [goedemorgen eddy](http://twitter.com/search?q=goedemorgen+eddy) | N/A |
+| 43 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 44 | [Werkende](http://twitter.com/search?q=Werkende) | N/A |
+| 45 | [Britten](http://twitter.com/search?q=Britten) | N/A |
+| 46 | [goedemorgen eddy](http://twitter.com/search?q=goedemorgen+eddy) | N/A |
+| 47 | [League of Legends](http://twitter.com/search?q=League+of+Legends) | N/A |
 | 48 | [Gelderse](http://twitter.com/search?q=Gelderse) | N/A |
 | 49 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
 
