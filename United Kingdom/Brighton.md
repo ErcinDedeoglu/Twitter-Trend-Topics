@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-03-07 09:16:57 UTC`
+📆 Last Updated: `2023-03-07 10:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 2 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 3 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 7 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 8 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 11 | [anthony taylor](http://twitter.com/search?q=anthony+taylor) | N/A |
-| 12 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 14 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 15 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 19 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 20 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 21 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 22 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 23 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 24 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 25 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
-| 26 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 27 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 28 | [Happy Birthday Mike](http://twitter.com/search?q=Happy+Birthday+Mike) | N/A |
-| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 30 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 31 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Betray Britain](http://twitter.com/search?q=Betray+Britain) | N/A |
-| 34 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 35 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 36 | [Baby Dog](http://twitter.com/search?q=Baby+Dog) | N/A |
-| 37 | [Super Ally](http://twitter.com/search?q=Super+Ally) | N/A |
-| 38 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 39 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 40 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 41 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 42 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 43 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 44 | [Soccer Aid](http://twitter.com/search?q=Soccer+Aid) | N/A |
-| 45 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 46 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 47 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 48 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 49 | [Happy 40th](http://twitter.com/search?q=Happy+40th) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 3 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 6 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 8 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
+| 9 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 10 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 12 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 13 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 14 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 15 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 16 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 17 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 18 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 19 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 20 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 21 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 22 | [Northumberland](http://twitter.com/search?q=Northumberland) | N/A |
+| 23 | [Albanian](http://twitter.com/search?q=Albanian) | N/A |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 26 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 27 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 28 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 29 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 30 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 31 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 32 | [#ASongOrMovingForHearing](http://twitter.com/search?q=%23ASongOrMovingForHearing) | N/A |
+| 33 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 34 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 35 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 36 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
+| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 38 | [#caress](http://twitter.com/search?q=%23caress) | N/A |
+| 39 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 40 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
+| 41 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 42 | [#pink](http://twitter.com/search?q=%23pink) | N/A |
+| 43 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
+| 44 | [#bbcgms](http://twitter.com/search?q=%23bbcgms) | N/A |
+| 45 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 46 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 47 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 48 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
 
 
 

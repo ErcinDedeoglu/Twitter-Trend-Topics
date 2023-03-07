@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-07 09:17:50 UTC`
+📆 Last Updated: `2023-03-07 10:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 1 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
 | 2 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 3 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
-| 4 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 7 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 8 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 9 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 10 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 11 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 12 | [anthony taylor](http://twitter.com/search?q=anthony+taylor) | N/A |
-| 13 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 16 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 18 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 19 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 20 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 21 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 22 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 23 | [Happy Birthday Mike](http://twitter.com/search?q=Happy+Birthday+Mike) | N/A |
-| 24 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 25 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 26 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 27 | [Andrew Gilding](http://twitter.com/search?q=Andrew+Gilding) | N/A |
-| 28 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 30 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 31 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 32 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Betray Britain](http://twitter.com/search?q=Betray+Britain) | N/A |
-| 35 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 36 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
-| 37 | [Super Ally](http://twitter.com/search?q=Super+Ally) | N/A |
-| 38 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 39 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 40 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 41 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 42 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 43 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 44 | [Soccer Aid](http://twitter.com/search?q=Soccer+Aid) | N/A |
-| 45 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 46 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 47 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 48 | [Flying Saucer](http://twitter.com/search?q=Flying+Saucer) | N/A |
-| 49 | [Happy 40th](http://twitter.com/search?q=Happy+40th) | N/A |
-| 50 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 5 | [#ASongOrMovingForHearing](http://twitter.com/search?q=%23ASongOrMovingForHearing) | N/A |
+| 6 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 7 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 8 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 9 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
+| 10 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 11 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 12 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 14 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 17 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 18 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 19 | [Northumberland](http://twitter.com/search?q=Northumberland) | N/A |
+| 20 | [Albanian](http://twitter.com/search?q=Albanian) | N/A |
+| 21 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 22 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 23 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 26 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 27 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 28 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 29 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 30 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
+| 31 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 32 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 33 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
+| 34 | [#caress](http://twitter.com/search?q=%23caress) | N/A |
+| 35 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 36 | [#pink](http://twitter.com/search?q=%23pink) | N/A |
+| 37 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 38 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
+| 39 | [#bbcgms](http://twitter.com/search?q=%23bbcgms) | N/A |
+| 40 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 41 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 42 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 43 | [#Aberdeen](http://twitter.com/search?q=%23Aberdeen) | N/A |
+| 44 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
+| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 46 | [#careers](http://twitter.com/search?q=%23careers) | N/A |
+| 47 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 48 | [#UnlockingPotential](http://twitter.com/search?q=%23UnlockingPotential) | N/A |
+| 49 | [#ScotAppWeek23](http://twitter.com/search?q=%23ScotAppWeek23) | N/A |
+| 50 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 
 
 

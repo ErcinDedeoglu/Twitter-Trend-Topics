@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-07 09:17:21 UTC`
+📆 Last Updated: `2023-03-07 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 2 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 3 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 1 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 2 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
+| 3 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
 | 4 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#BOBBYSOLOSINGLE_D14](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D14) | N/A |
-| 8 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 5 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 6 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
 | 9 | [#SabronzoBday28](http://twitter.com/search?q=%23SabronzoBday28) | N/A |
-| 10 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 11 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 12 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 13 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 14 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 15 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 18 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 21 | [Knights of Cydonia](http://twitter.com/search?q=Knights+of+Cydonia) | N/A |
-| 22 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 10 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 11 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 12 | [#BORNPINKinKL](http://twitter.com/search?q=%23BORNPINKinKL) | N/A |
+| 13 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 14 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 15 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 16 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 19 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 20 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 21 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 22 | [Knights of Cydonia](http://twitter.com/search?q=Knights+of+Cydonia) | N/A |
 | 23 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
 | 24 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 26 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 25 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 27 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 28 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 29 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 30 | [minhee](http://twitter.com/search?q=minhee) | N/A |
-| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 32 | [David](http://twitter.com/search?q=David) | N/A |
-| 33 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
-| 36 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 37 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 38 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 39 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 40 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 41 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
+| 28 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
+| 29 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 30 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 31 | [minhee](http://twitter.com/search?q=minhee) | N/A |
+| 32 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 35 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 36 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 37 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 38 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 39 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 40 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 41 | [Yoon Jeonghan](http://twitter.com/search?q=Yoon+Jeonghan) | N/A |
 | 42 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 43 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
-| 44 | [eunha](http://twitter.com/search?q=eunha) | N/A |
-| 45 | [baekho](http://twitter.com/search?q=baekho) | N/A |
-| 46 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 47 | [Plug In Baby](http://twitter.com/search?q=Plug+In+Baby) | N/A |
-| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 43 | [David](http://twitter.com/search?q=David) | N/A |
+| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 45 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
+| 46 | [Baekho](http://twitter.com/search?q=Baekho) | N/A |
+| 47 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 48 | [Plug In Baby](http://twitter.com/search?q=Plug+In+Baby) | N/A |
 | 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 50 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 50 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 
 
 

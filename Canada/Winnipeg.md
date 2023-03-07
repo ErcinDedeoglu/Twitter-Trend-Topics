@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-07 09:16:55 UTC`
+📆 Last Updated: `2023-03-07 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 8 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 9 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 10 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 11 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 12 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 13 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 14 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 2 | [#AEWRevolution](http://twitter.com/search?q=%23AEWRevolution) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
+| 5 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 6 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 8 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 9 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 10 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 11 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 12 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
 | 15 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 16 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 17 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 18 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 19 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 20 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 21 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
-| 22 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
-| 23 | [Images](http://twitter.com/search?q=Images) | N/A |
-| 24 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 16 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 17 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 18 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 19 | [socan](http://twitter.com/search?q=socan) | N/A |
+| 20 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
+| 21 | [Images](http://twitter.com/search?q=Images) | N/A |
+| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 24 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 25 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 26 | [Tim Donaghy](http://twitter.com/search?q=Tim+Donaghy) | N/A |
 | 27 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 28 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 29 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 30 | [Tim Donaghy](http://twitter.com/search?q=Tim+Donaghy) | N/A |
-| 31 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 32 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 33 | [NSICOP](http://twitter.com/search?q=NSICOP) | N/A |
-| 34 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 35 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 36 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 37 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 38 | [Gilles Courteau](http://twitter.com/search?q=Gilles+Courteau) | N/A |
-| 39 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 40 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 41 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 42 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 43 | [Podz](http://twitter.com/search?q=Podz) | N/A |
-| 44 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 45 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 46 | [Gord](http://twitter.com/search?q=Gord) | N/A |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 49 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
-| 50 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 28 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 29 | [NSICOP](http://twitter.com/search?q=NSICOP) | N/A |
+| 30 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 31 | [The Tragically Hip](http://twitter.com/search?q=The+Tragically+Hip) | N/A |
+| 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 33 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 34 | [Gilles Courteau](http://twitter.com/search?q=Gilles+Courteau) | N/A |
+| 35 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 36 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 38 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 39 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 40 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 41 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Gord](http://twitter.com/search?q=Gord) | N/A |
+| 44 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 45 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
+| 46 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 47 | [Harrington](http://twitter.com/search?q=Harrington) | N/A |
+| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 49 | [The Face](http://twitter.com/search?q=The+Face) | N/A |
+| 50 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
 
 
 

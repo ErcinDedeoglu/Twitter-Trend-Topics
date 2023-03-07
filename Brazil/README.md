@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-07 09:17:43 UTC`
+📆 Last Updated: `2023-03-07 10:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,38 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 4 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
+| 2 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 4 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
 | 5 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 6 | [tadeu](http://twitter.com/search?q=tadeu) | N/A |
-| 7 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
-| 8 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 9 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 6 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 7 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 8 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
+| 9 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
 | 10 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 11 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 12 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 13 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 14 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 16 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 17 | [#ForaKeyAlves](http://twitter.com/search?q=%23ForaKeyAlves) | N/A |
-| 18 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 19 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [GRANDONA](http://twitter.com/search?q=GRANDONA) | N/A |
-| 22 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 23 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 24 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 25 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 26 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 27 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 28 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 29 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 30 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 31 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 32 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 33 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 34 | [#FicaKey](http://twitter.com/search?q=%23FicaKey) | N/A |
-| 35 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 11 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
+| 12 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 13 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 14 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 15 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 16 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 17 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 18 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 19 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
+| 20 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 21 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 24 | [Mayara](http://twitter.com/search?q=Mayara) | N/A |
+| 25 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 26 | [Grandona](http://twitter.com/search?q=Grandona) | N/A |
+| 27 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 28 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 29 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 30 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 31 | [#HistoriasImpossiveis](http://twitter.com/search?q=%23HistoriasImpossiveis) | N/A |
+| 32 | [#forafred](http://twitter.com/search?q=%23forafred) | N/A |
+| 33 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
 
 
 

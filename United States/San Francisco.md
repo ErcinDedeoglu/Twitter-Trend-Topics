@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-07 09:17:41 UTC`
+📆 Last Updated: `2023-03-07 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 3 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 4 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 6 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 2 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 4 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 5 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 6 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
 | 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 9 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 10 | [#J6footage](http://twitter.com/search?q=%23J6footage) | N/A |
-| 11 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 12 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 13 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 14 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 8 | [#J6footage](http://twitter.com/search?q=%23J6footage) | N/A |
+| 9 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 10 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
+| 11 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 13 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 14 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
 | 15 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 16 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
-| 17 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 18 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 19 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 20 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 21 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 16 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 17 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 18 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 19 | [#JaredFromSubway](http://twitter.com/search?q=%23JaredFromSubway) | N/A |
+| 20 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 21 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
 | 22 | [Lee Hyun](http://twitter.com/search?q=Lee+Hyun) | N/A |
-| 23 | [Khalil Shabazz](http://twitter.com/search?q=Khalil+Shabazz) | N/A |
-| 24 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 25 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 26 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 27 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 28 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 29 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 30 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 31 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 33 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
-| 34 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
-| 35 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 36 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 37 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 38 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 39 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 40 | [Anton Watson](http://twitter.com/search?q=Anton+Watson) | N/A |
-| 41 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 23 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 24 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 25 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
+| 26 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 27 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 28 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 29 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 30 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 31 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 32 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 33 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
+| 34 | [saint mary](http://twitter.com/search?q=saint+mary) | N/A |
+| 35 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 36 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 37 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 38 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
+| 39 | [Dangerously in Love](http://twitter.com/search?q=Dangerously+in+Love) | N/A |
+| 40 | [Figma](http://twitter.com/search?q=Figma) | N/A |
+| 41 | [Halli](http://twitter.com/search?q=Halli) | N/A |
 | 42 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 43 | [Figma](http://twitter.com/search?q=Figma) | N/A |
-| 44 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 45 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 46 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
-| 47 | [SASHA FIERCE](http://twitter.com/search?q=SASHA+FIERCE) | N/A |
-| 48 | [Dangerously in Love](http://twitter.com/search?q=Dangerously+in+Love) | N/A |
-| 49 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 50 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 43 | [SASHA FIERCE](http://twitter.com/search?q=SASHA+FIERCE) | N/A |
+| 44 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 45 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 46 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 47 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 48 | [Nic Cage](http://twitter.com/search?q=Nic+Cage) | N/A |
+| 49 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 50 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 
 
 

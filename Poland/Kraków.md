@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-07 09:17:07 UTC`
+📆 Last Updated: `2023-03-07 10:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UwagaPiS](http://twitter.com/search?q=%23UwagaPiS) | N/A |
-| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 2 | [#UwagaPiS](http://twitter.com/search?q=%23UwagaPiS) | N/A |
 | 3 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 4 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 4 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 5 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
-| 6 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 8 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 9 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 10 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 11 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 6 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 7 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 8 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 9 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 10 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 12 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
-| 13 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
+| 13 | [pablo morales](http://twitter.com/search?q=pablo+morales) | N/A |
 | 14 | [Trela](http://twitter.com/search?q=Trela) | N/A |
 | 15 | [Ordo Iuris](http://twitter.com/search?q=Ordo+Iuris) | N/A |
-| 16 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 17 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 18 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 19 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
-| 20 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 21 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 17 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 18 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 19 | [Gosiewska](http://twitter.com/search?q=Gosiewska) | N/A |
+| 20 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
+| 21 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
 | 22 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 23 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 24 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 23 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 24 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
 | 25 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
-| 26 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
-| 27 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 28 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 29 | [łącki](http://twitter.com/search?q=%c5%82%c4%85cki) | N/A |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 32 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 33 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 34 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
-| 35 | [MI-24](http://twitter.com/search?q=MI-24) | N/A |
+| 26 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 27 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
+| 28 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 29 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 30 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 31 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 32 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 33 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 34 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
+| 35 | [Ogórek](http://twitter.com/search?q=Og%c3%b3rek) | N/A |
 | 36 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 37 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 38 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
-| 39 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
-| 40 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 41 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
-| 42 | [Hartwig](http://twitter.com/search?q=Hartwig) | N/A |
-| 43 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 44 | [valencii](http://twitter.com/search?q=valencii) | N/A |
-| 45 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 46 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
-| 47 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 48 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 37 | [MI-24](http://twitter.com/search?q=MI-24) | N/A |
+| 38 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
+| 39 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 40 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
+| 41 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
+| 42 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
+| 43 | [Święty](http://twitter.com/search?q=%c5%9awi%c4%99ty) | N/A |
+| 44 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 45 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
+| 46 | [valencii](http://twitter.com/search?q=valencii) | N/A |
+| 47 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 48 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-07 09:17:09 UTC`
+📆 Last Updated: `2023-03-07 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
 | 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 4 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
-| 5 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 6 | [#GrueneNEINdanke](http://twitter.com/search?q=%23GrueneNEINdanke) | N/A |
-| 7 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 8 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 5 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 7 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 8 | [#GrueneNEINdanke](http://twitter.com/search?q=%23GrueneNEINdanke) | N/A |
+| 9 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
 | 10 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 11 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 11 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
 | 13 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 14 | [Herr Spahn](http://twitter.com/search?q=Herr+Spahn) | N/A |
-| 15 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 16 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 17 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 18 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 19 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 20 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 21 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 14 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 16 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 17 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 18 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
+| 19 | [Schiggy](http://twitter.com/search?q=Schiggy) | N/A |
+| 20 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 22 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 23 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 24 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 25 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 26 | [Hab den Tag](http://twitter.com/search?q=Hab+den+Tag) | N/A |
-| 27 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 28 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 29 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 30 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 31 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 32 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 33 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
-| 34 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 35 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 36 | [Klimaleugner](http://twitter.com/search?q=Klimaleugner) | N/A |
-| 37 | [Scan](http://twitter.com/search?q=Scan) | N/A |
-| 38 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 41 | [Ambulanz](http://twitter.com/search?q=Ambulanz) | N/A |
-| 42 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 43 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 44 | [Carbonara](http://twitter.com/search?q=Carbonara) | N/A |
-| 45 | [Faxgeräte](http://twitter.com/search?q=Faxger%c3%a4te) | N/A |
-| 46 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 47 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 48 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 49 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 50 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 23 | [Aken](http://twitter.com/search?q=Aken) | N/A |
+| 24 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
+| 25 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 26 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
+| 27 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 28 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 29 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 30 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
+| 31 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 32 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 33 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 34 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
+| 35 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 36 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 37 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 38 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 39 | [Klimaleugner](http://twitter.com/search?q=Klimaleugner) | N/A |
+| 40 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 41 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 42 | [Scan](http://twitter.com/search?q=Scan) | N/A |
+| 43 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
+| 44 | [Ambulanz](http://twitter.com/search?q=Ambulanz) | N/A |
+| 45 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 46 | [Berufe](http://twitter.com/search?q=Berufe) | N/A |
+| 47 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 48 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
+| 49 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 50 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
 
 
 
