@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-07 20:18:09 UTC`
+📆 Last Updated: `2023-03-07 21:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 4 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 5 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 9 | [#TrudeauHasGotToGo](http://twitter.com/search?q=%23TrudeauHasGotToGo) | N/A |
-| 10 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
-| 11 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 12 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 13 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 14 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 15 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 16 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 18 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 19 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 20 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 21 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 22 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 23 | [Russell Brown](http://twitter.com/search?q=Russell+Brown) | N/A |
-| 24 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
-| 25 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
-| 26 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 27 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 28 | [Marie-Louise Tardif](http://twitter.com/search?q=Marie-Louise+Tardif) | N/A |
-| 29 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
-| 30 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 32 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 33 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 36 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 37 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 38 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 39 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 40 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 41 | [The Tragically Hip](http://twitter.com/search?q=The+Tragically+Hip) | N/A |
-| 42 | [Gord](http://twitter.com/search?q=Gord) | N/A |
-| 43 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 44 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 45 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 46 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 47 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 48 | [Tim Donaghy](http://twitter.com/search?q=Tim+Donaghy) | N/A |
-| 49 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
+| 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 2 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 8 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 9 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 12 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
+| 13 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 14 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 18 | [#TrudeauHasGotToGo](http://twitter.com/search?q=%23TrudeauHasGotToGo) | N/A |
+| 19 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 20 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 21 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 22 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 23 | [Yusei Kikuchi](http://twitter.com/search?q=Yusei+Kikuchi) | N/A |
+| 24 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 25 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 26 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 27 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 28 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 29 | [Mario Cecchini](http://twitter.com/search?q=Mario+Cecchini) | N/A |
+| 30 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 31 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 32 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
+| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 34 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 35 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 37 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
+| 38 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 39 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 40 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
+| 41 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 42 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 43 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
+| 44 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
+| 45 | [Russell Brown](http://twitter.com/search?q=Russell+Brown) | N/A |
+| 46 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 47 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 48 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 49 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
 
 
 

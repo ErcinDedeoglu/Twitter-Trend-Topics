@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-07 20:18:25 UTC`
+📆 Last Updated: `2023-03-07 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
-| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 3 | [#7Marzo](http://twitter.com/search?q=%237Marzo) | N/A |
-| 4 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 7 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 8 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
-| 9 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 10 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 11 | [FEDERICO HA](http://twitter.com/search?q=FEDERICO+HA) | N/A |
+| 1 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 2 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 3 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 4 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 5 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 6 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
+| 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 10 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
+| 11 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
 | 12 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 13 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 15 | [Indica](http://twitter.com/search?q=Indica) | N/A |
-| 16 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 17 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
-| 18 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
-| 19 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 20 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 21 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 22 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 23 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
-| 24 | [Aeronautica Militare](http://twitter.com/search?q=Aeronautica+Militare) | N/A |
-| 25 | [Baggio](http://twitter.com/search?q=Baggio) | N/A |
-| 26 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 27 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 28 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 29 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 30 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 31 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
-| 32 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 33 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 34 | [Anna Magnani](http://twitter.com/search?q=Anna+Magnani) | N/A |
-| 35 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 36 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 37 | [Furore](http://twitter.com/search?q=Furore) | N/A |
-| 38 | [Olanda](http://twitter.com/search?q=Olanda) | N/A |
-| 39 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 40 | [Ruanda](http://twitter.com/search?q=Ruanda) | N/A |
-| 41 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 42 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
-| 43 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 44 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 45 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 46 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 47 | [Matteo Renzi](http://twitter.com/search?q=Matteo+Renzi) | N/A |
-| 48 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 49 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 50 | [Batistuta](http://twitter.com/search?q=Batistuta) | N/A |
+| 13 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
+| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 15 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
+| 16 | [Chiné](http://twitter.com/search?q=Chin%c3%a9) | N/A |
+| 17 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 18 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 19 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 20 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 21 | [Coni](http://twitter.com/search?q=Coni) | N/A |
+| 22 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 23 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 24 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 25 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 26 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 27 | [Guidonia](http://twitter.com/search?q=Guidonia) | N/A |
+| 28 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 29 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 30 | [#ChelseaDortmund](http://twitter.com/search?q=%23ChelseaDortmund) | N/A |
+| 31 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 32 | [#SoprattuttoRispetto](http://twitter.com/search?q=%23SoprattuttoRispetto) | N/A |
+| 33 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 34 | [#Santoro](http://twitter.com/search?q=%23Santoro) | N/A |
+| 35 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 36 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 37 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
+| 38 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 39 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 40 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 41 | [#cracra](http://twitter.com/search?q=%23cracra) | N/A |
+| 42 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 43 | [#LeIene](http://twitter.com/search?q=%23LeIene) | N/A |
+| 44 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 45 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 46 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 47 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 48 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 49 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 50 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
 
 
 

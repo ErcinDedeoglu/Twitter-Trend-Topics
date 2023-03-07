@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-07 20:18:11 UTC`
+📆 Last Updated: `2023-03-07 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 2 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 3 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 4 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 5 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
-| 6 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 7 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 8 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 9 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 10 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
-| 11 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 13 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 14 | [Gapes](http://twitter.com/search?q=Gapes) | N/A |
-| 15 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
-| 16 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
-| 17 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 18 | [Silver](http://twitter.com/search?q=Silver) | N/A |
-| 19 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 20 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 21 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 22 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 24 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 25 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
-| 26 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 27 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 28 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 29 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 30 | [Stop the Tories](http://twitter.com/search?q=Stop+the+Tories) | N/A |
-| 31 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 32 | [Bourbon](http://twitter.com/search?q=Bourbon) | N/A |
-| 33 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 34 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 35 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 36 | [Custard](http://twitter.com/search?q=Custard) | N/A |
-| 37 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 38 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 39 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 42 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 43 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
-| 44 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
-| 45 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 46 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 47 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 48 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 49 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 2 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 3 | [#drfc](http://twitter.com/search?q=%23drfc) | N/A |
+| 4 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 5 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
+| 6 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
+| 7 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 9 | [Wout Weghorst](http://twitter.com/search?q=Wout+Weghorst) | Wout Weghorst is a Dutch professional footballer who plays as a striker for German club VfL Wolfsburg. The name Wout Weghorst translates to "strong will" in English. |
+| 10 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
+| 11 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 12 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 13 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 14 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 15 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 21 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 22 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 24 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
+| 25 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 26 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 27 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 28 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 29 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
+| 30 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 31 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 32 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 33 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 34 | [Raggett](http://twitter.com/search?q=Raggett) | N/A |
+| 35 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 36 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 37 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 40 | [Bourbon](http://twitter.com/search?q=Bourbon) | N/A |
+| 41 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 42 | [Stop the Tories](http://twitter.com/search?q=Stop+the+Tories) | N/A |
+| 43 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 44 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 45 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 46 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
+| 47 | [Custard](http://twitter.com/search?q=Custard) | N/A |
+| 48 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 49 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
 
 
 

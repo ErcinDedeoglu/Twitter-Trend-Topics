@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-07 20:18:55 UTC`
+📆 Last Updated: `2023-03-07 21:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
-| 2 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 3 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 4 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 5 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 6 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 7 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
-| 8 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 9 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 11 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 13 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 14 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 15 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 16 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 17 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 18 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
-| 19 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 20 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 22 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
-| 23 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 24 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
-| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 26 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 27 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 28 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 29 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 30 | [MVPs](http://twitter.com/search?q=MVPs) | N/A |
-| 31 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
-| 32 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
-| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 34 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 35 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 36 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 37 | [Anila](http://twitter.com/search?q=Anila) | N/A |
-| 38 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 39 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 42 | [Phaedra](http://twitter.com/search?q=Phaedra) | N/A |
-| 43 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
-| 44 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 45 | [Deborah Ann Woll](http://twitter.com/search?q=Deborah+Ann+Woll) | N/A |
-| 46 | [Elden Henson](http://twitter.com/search?q=Elden+Henson) | N/A |
-| 47 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 48 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 1 | [cudi](http://twitter.com/search?q=cudi) | N/A |
+| 2 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 3 | [Outside Lands](http://twitter.com/search?q=Outside+Lands) | N/A |
+| 4 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 5 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 6 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 7 | [#Jan6th](http://twitter.com/search?q=%23Jan6th) | N/A |
+| 8 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 9 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 10 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 11 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 12 | [Liars](http://twitter.com/search?q=Liars) | N/A |
+| 13 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 14 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 15 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 16 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 17 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 18 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 19 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 20 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 21 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 22 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 23 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 24 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 25 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 28 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 29 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 30 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 31 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 32 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 33 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 34 | [Danny Dimes](http://twitter.com/search?q=Danny+Dimes) | Danny Dimes is a nickname given to New York Giants quarterback Daniel Jones. It is a play on words, as his last name is Jones and the term "dime" is slang for an excellent pass in American football. |
+| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 36 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 37 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 38 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 39 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 40 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 41 | [Hard Summer](http://twitter.com/search?q=Hard+Summer) | N/A |
+| 42 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 43 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 44 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 45 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
+| 46 | [Desmond Ridder](http://twitter.com/search?q=Desmond+Ridder) | N/A |
+| 47 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 48 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 49 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
 
 
 

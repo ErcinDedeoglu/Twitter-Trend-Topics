@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-07 20:18:24 UTC`
+📆 Last Updated: `2023-03-07 21:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 2 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
 | 3 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 4 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 5 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 6 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 8 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 9 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 10 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 11 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 12 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 13 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 14 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 15 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 18 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 20 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 21 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 22 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 23 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
-| 24 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 25 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 26 | [Ballett](http://twitter.com/search?q=Ballett) | N/A |
-| 27 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
-| 28 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
-| 29 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 30 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 31 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 32 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 33 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 34 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 35 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 36 | [Lohnlücke](http://twitter.com/search?q=Lohnl%c3%bccke) | N/A |
-| 37 | [Heja BVB](http://twitter.com/search?q=Heja+BVB) | N/A |
-| 38 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 39 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 40 | [Savior](http://twitter.com/search?q=Savior) | N/A |
-| 41 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 42 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 43 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 44 | [Innenministerium](http://twitter.com/search?q=Innenministerium) | N/A |
-| 45 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 46 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 47 | [dammbruch](http://twitter.com/search?q=dammbruch) | N/A |
-| 48 | [Bisasam](http://twitter.com/search?q=Bisasam) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 11 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 13 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 14 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 15 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
+| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 17 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 18 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 19 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 20 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 21 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 22 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 23 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 24 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
+| 25 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
+| 26 | [Gute Besserung Jule](http://twitter.com/search?q=Gute+Besserung+Jule) | N/A |
+| 27 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 28 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 29 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 30 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 31 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 32 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 33 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
+| 34 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 35 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 36 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 38 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
+| 39 | [Ballett](http://twitter.com/search?q=Ballett) | N/A |
+| 40 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 41 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 42 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 43 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 44 | [Wettbewerbsverzerrung](http://twitter.com/search?q=Wettbewerbsverzerrung) | N/A |
+| 45 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 46 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 47 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 48 | [Rouven Schröder](http://twitter.com/search?q=Rouven+Schr%c3%b6der) | N/A |
 
 
 

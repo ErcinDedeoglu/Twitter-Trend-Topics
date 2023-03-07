@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-07 20:18:28 UTC`
+📆 Last Updated: `2023-03-07 21:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 2 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
-| 3 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 4 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 5 | [Trøim](http://twitter.com/search?q=Tr%c3%b8im) | N/A |
-| 6 | [Tajik](http://twitter.com/search?q=Tajik) | N/A |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 9 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 12 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
-| 13 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 15 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
-| 16 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 19 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [nord-norge](http://twitter.com/search?q=nord-norge) | N/A |
-| 22 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 23 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 24 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 25 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 27 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
-| 28 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 29 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
-| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 31 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 32 | [#energi](http://twitter.com/search?q=%23energi) | N/A |
-| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 34 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 35 | [#WarriorNun](http://twitter.com/search?q=%23WarriorNun) | N/A |
-| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 37 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 38 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 39 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 40 | [DISU](http://twitter.com/search?q=DISU) | N/A |
-| 41 | [Viken](http://twitter.com/search?q=Viken) | N/A |
-| 42 | [TPLF](http://twitter.com/search?q=TPLF) | N/A |
-| 43 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 44 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 45 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 1 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 2 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 3 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
+| 6 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 7 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
+| 8 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
+| 9 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 10 | [Trøim](http://twitter.com/search?q=Tr%c3%b8im) | N/A |
+| 11 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 12 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 14 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
+| 15 | [Tajik](http://twitter.com/search?q=Tajik) | N/A |
+| 16 | [Liverød](http://twitter.com/search?q=Liver%c3%b8d) | N/A |
+| 17 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 19 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 20 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 21 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
+| 22 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 23 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 24 | [nord-norge](http://twitter.com/search?q=nord-norge) | N/A |
+| 25 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 27 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 30 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 31 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
+| 32 | [Sitter](http://twitter.com/search?q=Sitter) | N/A |
+| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 34 | [#energi](http://twitter.com/search?q=%23energi) | N/A |
+| 35 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 36 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 37 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 38 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 39 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 40 | [Dostie](http://twitter.com/search?q=Dostie) | N/A |
+| 41 | [disu](http://twitter.com/search?q=disu) | N/A |
+| 42 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 43 | [Viken](http://twitter.com/search?q=Viken) | N/A |
+| 44 | [TPLF](http://twitter.com/search?q=TPLF) | N/A |
+| 45 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 46 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 47 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 48 | [Noer](http://twitter.com/search?q=Noer) | N/A |
-| 49 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [noer](http://twitter.com/search?q=noer) | N/A |
+| 48 | [Stake](http://twitter.com/search?q=Stake) | N/A |
+| 49 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 50 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 
 
 

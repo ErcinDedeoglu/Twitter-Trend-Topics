@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-07 20:18:59 UTC`
+📆 Last Updated: `2023-03-07 21:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
-| 2 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 3 | [#SoprattuttoRispetto](http://twitter.com/search?q=%23SoprattuttoRispetto) | N/A |
-| 4 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
-| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 6 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
-| 7 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
-| 8 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 9 | [FEDERICO HA](http://twitter.com/search?q=FEDERICO+HA) | N/A |
-| 10 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
-| 11 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
-| 12 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 13 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 14 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 15 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 16 | [guidonia](http://twitter.com/search?q=guidonia) | N/A |
-| 17 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 19 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 20 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 21 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 22 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
-| 23 | [#simuelcanon](http://twitter.com/search?q=%23simuelcanon) | N/A |
-| 24 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 25 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 26 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
-| 27 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 28 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 29 | [#speranzaingalera](http://twitter.com/search?q=%23speranzaingalera) | N/A |
-| 30 | [#FIGC](http://twitter.com/search?q=%23FIGC) | N/A |
-| 31 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 32 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 33 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
-| 34 | [#GiancarloGiannini](http://twitter.com/search?q=%23GiancarloGiannini) | N/A |
-| 35 | [#cracra](http://twitter.com/search?q=%23cracra) | N/A |
-| 36 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 37 | [#nicotelli](http://twitter.com/search?q=%23nicotelli) | N/A |
-| 38 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
-| 39 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
-| 40 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 1 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 2 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 3 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 4 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 5 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 6 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
+| 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
+| 10 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 11 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
+| 12 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 13 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 15 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
+| 16 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 17 | [Varriale](http://twitter.com/search?q=Varriale) | N/A |
+| 18 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 19 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 20 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 21 | [Coni](http://twitter.com/search?q=Coni) | N/A |
+| 22 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 23 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 24 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 25 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 26 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 27 | [Guidonia](http://twitter.com/search?q=Guidonia) | N/A |
+| 28 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 29 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 30 | [#ChelseaDortmund](http://twitter.com/search?q=%23ChelseaDortmund) | N/A |
+| 31 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 32 | [#Santoro](http://twitter.com/search?q=%23Santoro) | N/A |
+| 33 | [#SoprattuttoRispetto](http://twitter.com/search?q=%23SoprattuttoRispetto) | N/A |
+| 34 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 35 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 36 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 37 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
+| 38 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 39 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 40 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 41 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
+| 42 | [#cracra](http://twitter.com/search?q=%23cracra) | N/A |
+| 43 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 44 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 45 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 46 | [#LeIene](http://twitter.com/search?q=%23LeIene) | N/A |
+| 47 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 48 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 49 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 50 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
 
 
 
