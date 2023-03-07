@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-07 12:18:50 UTC`
+📆 Last Updated: `2023-03-07 13:22:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,33 +17,41 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
 | 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 3 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 3 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
 | 4 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
-| 5 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
-| 6 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
-| 7 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
-| 8 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 9 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 10 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 11 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
-| 12 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
-| 13 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 14 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
-| 15 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 16 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 17 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 18 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 19 | [#KCDFrance](http://twitter.com/search?q=%23KCDFrance) | N/A |
-| 20 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
-| 21 | [#Perpignan](http://twitter.com/search?q=%23Perpignan) | N/A |
-| 22 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 23 | [#Stop64ans](http://twitter.com/search?q=%23Stop64ans) | N/A |
-| 24 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 25 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 26 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 27 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
-| 28 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
-| 29 | [#Borne](http://twitter.com/search?q=%23Borne) | N/A |
+| 5 | [#rennes](http://twitter.com/search?q=%23rennes) | N/A |
+| 6 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
+| 9 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
+| 10 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 11 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 12 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 13 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 14 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 15 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
+| 16 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 17 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
+| 18 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 19 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 20 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 21 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 22 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 23 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 24 | [#ggrmc](http://twitter.com/search?q=%23ggrmc) | N/A |
+| 25 | [#KCDFrance](http://twitter.com/search?q=%23KCDFrance) | N/A |
+| 26 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
+| 27 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 28 | [#perpignan](http://twitter.com/search?q=%23perpignan) | N/A |
+| 29 | [#Grenoble](http://twitter.com/search?q=%23Grenoble) | N/A |
+| 30 | [#Stop64ans](http://twitter.com/search?q=%23Stop64ans) | N/A |
+| 31 | [#syndicats](http://twitter.com/search?q=%23syndicats) | N/A |
+| 32 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 33 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 34 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
+| 35 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 36 | [#rouen](http://twitter.com/search?q=%23rouen) | N/A |
+| 37 | [#Borne](http://twitter.com/search?q=%23Borne) | N/A |
 
 
 

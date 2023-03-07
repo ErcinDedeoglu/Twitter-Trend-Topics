@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-07 12:18:39 UTC`
+📆 Last Updated: `2023-03-07 13:22:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
-| 2 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
-| 3 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 4 | [Milli](http://twitter.com/search?q=Milli) | N/A |
-| 5 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
-| 6 | [#yökaciklamabekliyoruz](http://twitter.com/search?q=%23y%c3%b6kaciklamabekliyoruz) | N/A |
-| 7 | [#SeçimiŞoförYapacak](http://twitter.com/search?q=%23Se%c3%a7imi%c5%9eof%c3%b6rYapacak) | N/A |
-| 8 | [Dayanışma Ruhu](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Ruhu) | N/A |
-| 9 | [CbZiraate15BinOnay](http://twitter.com/search?q=CbZiraate15BinOnay) | N/A |
-| 10 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 11 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 12 | [TaşeronTorbada MutlakaOlmalı](http://twitter.com/search?q=Ta%c5%9feronTorbada+MutlakaOlmal%c4%b1) | N/A |
-| 13 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 14 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
-| 15 | [Kilot](http://twitter.com/search?q=Kilot) | N/A |
-| 16 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 17 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 18 | [Amed](http://twitter.com/search?q=Amed) | N/A |
+| 1 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 2 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
+| 3 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
+| 4 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 5 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 6 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
+| 7 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 8 | [#yökaciklamabekliyoruz](http://twitter.com/search?q=%23y%c3%b6kaciklamabekliyoruz) | N/A |
+| 9 | [#AtamaYokÖzeristifa](http://twitter.com/search?q=%23AtamaYok%c3%96zeristifa) | #AtamaYokÖzeristifa is a hashtag used by Turkish protesters to express their dissatisfaction with the government's appointment of trustees to replace elected mayors in some cities. The phrase translates to "No Appointment, Resignation" in English. |
+| 10 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 11 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
+| 12 | [Dayanışma Ruhu](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Ruhu) | N/A |
+| 13 | [TaşeronTorbada MutlakaOlmalı](http://twitter.com/search?q=Ta%c5%9feronTorbada+MutlakaOlmal%c4%b1) | N/A |
+| 14 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 15 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 16 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 17 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
+| 18 | [Kilot](http://twitter.com/search?q=Kilot) | N/A |
 | 19 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 20 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
-| 21 | [Giray](http://twitter.com/search?q=Giray) | N/A |
-| 22 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 23 | [Sümeyye](http://twitter.com/search?q=S%c3%bcmeyye) | N/A |
-| 24 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 25 | [nilay](http://twitter.com/search?q=nilay) | N/A |
-| 26 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 27 | [Fırıldakların U](http://twitter.com/search?q=F%c4%b1r%c4%b1ldaklar%c4%b1n+U) | N/A |
-| 28 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
-| 29 | [Diyene](http://twitter.com/search?q=Diyene) | N/A |
-| 30 | [Kendinden](http://twitter.com/search?q=Kendinden) | N/A |
-| 31 | [Söyleyene](http://twitter.com/search?q=S%c3%b6yleyene) | N/A |
-| 32 | [Dinime](http://twitter.com/search?q=Dinime) | N/A |
-| 33 | [Mücadele](http://twitter.com/search?q=M%c3%bccadele) | N/A |
-| 34 | [Lider Devlet Bahçeli](http://twitter.com/search?q=Lider+Devlet+Bah%c3%a7eli) | Lider Devlet Bahçeli is the name of a Turkish politician and leader of the Nationalist Movement Party (MHP). The name translates to "Leader State Bahçeli" in English. |
-| 35 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 36 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
-| 37 | [Ülker](http://twitter.com/search?q=%c3%9clker) | N/A |
-| 38 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
-| 39 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
-| 40 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
-| 41 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 42 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 43 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 45 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 46 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
-| 47 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
-| 48 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 49 | [HEPİNİZ YARGILANACAKSINIZ](http://twitter.com/search?q=HEP%c4%b0N%c4%b0Z+YARGILANACAKSINIZ) | N/A |
-| 50 | [Gazeteci](http://twitter.com/search?q=Gazeteci) | N/A |
+| 20 | [Sümeyye](http://twitter.com/search?q=S%c3%bcmeyye) | N/A |
+| 21 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
+| 22 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 23 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 24 | [Giray](http://twitter.com/search?q=Giray) | N/A |
+| 25 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 26 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
+| 27 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 28 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 29 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
+| 30 | [Çetin Emeç](http://twitter.com/search?q=%c3%87etin+Eme%c3%a7) | N/A |
+| 31 | [Diyene](http://twitter.com/search?q=Diyene) | N/A |
+| 32 | [Kendinden](http://twitter.com/search?q=Kendinden) | N/A |
+| 33 | [Söyleyene](http://twitter.com/search?q=S%c3%b6yleyene) | N/A |
+| 34 | [Dinime](http://twitter.com/search?q=Dinime) | N/A |
+| 35 | [bay kemal](http://twitter.com/search?q=bay+kemal) | N/A |
+| 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 37 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
+| 38 | [Mücadele](http://twitter.com/search?q=M%c3%bccadele) | N/A |
+| 39 | [Lider Devlet Bahçeli](http://twitter.com/search?q=Lider+Devlet+Bah%c3%a7eli) | Lider Devlet Bahçeli is the name of a Turkish politician and leader of the Nationalist Movement Party (MHP). The name translates to "Leader State Bahçeli" in English. |
+| 40 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
+| 41 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
+| 42 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
+| 43 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
+| 44 | [Ülker](http://twitter.com/search?q=%c3%9clker) | N/A |
+| 45 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
+| 46 | [üniversite](http://twitter.com/search?q=%c3%bcniversite) | N/A |
+| 47 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 48 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 49 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 50 | [Fırıldak](http://twitter.com/search?q=F%c4%b1r%c4%b1ldak) | N/A |
 
 
 

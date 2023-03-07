@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-07 12:18:52 UTC`
+📆 Last Updated: `2023-03-07 13:22:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 2 | [Matiang'i](http://twitter.com/search?q=Matiang%27i) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [DCI Headquarters](http://twitter.com/search?q=DCI+Headquarters) | N/A |
-| 5 | [Meru University](http://twitter.com/search?q=Meru+University) | N/A |
-| 6 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 7 | [Margaret Nyakang](http://twitter.com/search?q=Margaret+Nyakang) | N/A |
-| 8 | [Aaron Cheruiyot](http://twitter.com/search?q=Aaron+Cheruiyot) | N/A |
-| 9 | [SecureExpo Day1](http://twitter.com/search?q=SecureExpo+Day1) | N/A |
-| 10 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 11 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [#Securexpo2023](http://twitter.com/search?q=%23Securexpo2023) | N/A |
-| 14 | [DCI HQ](http://twitter.com/search?q=DCI+HQ) | N/A |
-| 15 | [Asad Khan](http://twitter.com/search?q=Asad+Khan) | N/A |
-| 16 | [Revenge](http://twitter.com/search?q=Revenge) | N/A |
-| 17 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
-| 18 | [Kuria CNN Interview](http://twitter.com/search?q=Kuria+CNN+Interview) | N/A |
-| 19 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 20 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 21 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 22 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 23 | [Water Police Unit](http://twitter.com/search?q=Water+Police+Unit) | N/A |
-| 24 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 25 | [Form One](http://twitter.com/search?q=Form+One) | N/A |
-| 26 | [optiven leads africa](http://twitter.com/search?q=optiven+leads+africa) | N/A |
-| 27 | [joseph kinyua](http://twitter.com/search?q=joseph+kinyua) | N/A |
-| 28 | [Comrades](http://twitter.com/search?q=Comrades) | N/A |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [Kiambu Road](http://twitter.com/search?q=Kiambu+Road) | N/A |
-| 32 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
-| 33 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 35 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
-| 36 | [Education CS Machogu](http://twitter.com/search?q=Education+CS+Machogu) | N/A |
-| 37 | [The DCI](http://twitter.com/search?q=The+DCI) | N/A |
-| 38 | [Xtian Dela](http://twitter.com/search?q=Xtian+Dela) | N/A |
-| 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 40 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
-| 41 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
-| 42 | [Kisii](http://twitter.com/search?q=Kisii) | N/A |
-| 43 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 44 | [Kenyan Media](http://twitter.com/search?q=Kenyan+Media) | N/A |
-| 45 | [River Yala](http://twitter.com/search?q=River+Yala) | N/A |
-| 46 | [Otiende Amollo](http://twitter.com/search?q=Otiende+Amollo) | N/A |
-| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 1 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 2 | [DCI Headquarters](http://twitter.com/search?q=DCI+Headquarters) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [Fred Matiang](http://twitter.com/search?q=Fred+Matiang) | N/A |
+| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 6 | [#BangbetMillionaire](http://twitter.com/search?q=%23BangbetMillionaire) | N/A |
+| 7 | [Meru University](http://twitter.com/search?q=Meru+University) | N/A |
+| 8 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
+| 9 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 10 | [Margaret Nyakang](http://twitter.com/search?q=Margaret+Nyakang) | N/A |
+| 11 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 12 | [Aaron Cheruiyot](http://twitter.com/search?q=Aaron+Cheruiyot) | N/A |
+| 13 | [DCI HQ](http://twitter.com/search?q=DCI+HQ) | N/A |
+| 14 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
+| 17 | [SecureExpo Day1](http://twitter.com/search?q=SecureExpo+Day1) | N/A |
+| 18 | [Kiambu Road](http://twitter.com/search?q=Kiambu+Road) | N/A |
+| 19 | [Controller of Budget](http://twitter.com/search?q=Controller+of+Budget) | N/A |
+| 20 | [Asad Khan](http://twitter.com/search?q=Asad+Khan) | N/A |
+| 21 | [Kuria CNN Interview](http://twitter.com/search?q=Kuria+CNN+Interview) | N/A |
+| 22 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 23 | [General Election](http://twitter.com/search?q=General+Election) | N/A |
+| 24 | [Revenge](http://twitter.com/search?q=Revenge) | N/A |
+| 25 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 26 | [Water Police Unit](http://twitter.com/search?q=Water+Police+Unit) | N/A |
+| 27 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
+| 28 | [Miguna Miguna](http://twitter.com/search?q=Miguna+Miguna) | N/A |
+| 29 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 30 | [Form One](http://twitter.com/search?q=Form+One) | N/A |
+| 31 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 32 | [optiven leads africa](http://twitter.com/search?q=optiven+leads+africa) | N/A |
+| 33 | [joseph kinyua](http://twitter.com/search?q=joseph+kinyua) | N/A |
+| 34 | [Comrades](http://twitter.com/search?q=Comrades) | N/A |
+| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
+| 38 | [The DCI](http://twitter.com/search?q=The+DCI) | N/A |
+| 39 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 40 | [Education CS Machogu](http://twitter.com/search?q=Education+CS+Machogu) | N/A |
+| 41 | [Borussia Dortmund](http://twitter.com/search?q=Borussia+Dortmund) | N/A |
+| 42 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 43 | [nyayo](http://twitter.com/search?q=nyayo) | N/A |
+| 44 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
+| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 46 | [River Yala](http://twitter.com/search?q=River+Yala) | N/A |
+| 47 | [Otiende Amollo](http://twitter.com/search?q=Otiende+Amollo) | N/A |
 | 48 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
-| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 50 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
 
 
 

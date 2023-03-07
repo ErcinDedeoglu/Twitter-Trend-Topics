@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-07 12:18:02 UTC`
+📆 Last Updated: `2023-03-07 13:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 3 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
-| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 5 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
-| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 9 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 10 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
-| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 12 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 14 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 15 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 16 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 17 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 21 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
-| 22 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 23 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 24 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 25 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 28 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 30 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 31 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 33 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 34 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 35 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 36 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 38 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 39 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 40 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 41 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
-| 42 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
-| 43 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 44 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 45 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 46 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 47 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 48 | [#housingfestival](http://twitter.com/search?q=%23housingfestival) | N/A |
-| 49 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 3 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 4 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 5 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 6 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
+| 7 | [#WorldCerealDay](http://twitter.com/search?q=%23WorldCerealDay) | N/A |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
+| 10 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 11 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
+| 12 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 13 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 14 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 16 | [Grand Final](http://twitter.com/search?q=Grand+Final) | N/A |
+| 17 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 18 | [Change UK](http://twitter.com/search?q=Change+UK) | N/A |
+| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 20 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 21 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 22 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 23 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 24 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 25 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 26 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 27 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 28 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 29 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 30 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 31 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 32 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 33 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 35 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 37 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 38 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 39 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 40 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 41 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 42 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 43 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 44 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 45 | [Booths](http://twitter.com/search?q=Booths) | N/A |
+| 46 | [#IllegalMigrationBill](http://twitter.com/search?q=%23IllegalMigrationBill) | N/A |
+| 47 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 48 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
+| 49 | [#thismorning](http://twitter.com/search?q=%23thismorning) | N/A |
 
 
 

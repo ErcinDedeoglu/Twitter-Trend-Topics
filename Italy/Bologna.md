@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-07 12:18:16 UTC`
+📆 Last Updated: `2023-03-07 13:21:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#7marzo](http://twitter.com/search?q=%237marzo) | N/A |
-| 2 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 3 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 4 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
 | 5 | [#infiniteVolte](http://twitter.com/search?q=%23infiniteVolte) | N/A |
-| 6 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 7 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 8 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 9 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 10 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 11 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 12 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 14 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 15 | [GLI IKON A FIRENZE](http://twitter.com/search?q=GLI+IKON+A+FIRENZE) | N/A |
+| 6 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 7 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 8 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 9 | [Guidonia](http://twitter.com/search?q=Guidonia) | N/A |
+| 10 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 11 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 12 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 13 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 14 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 15 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 16 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 17 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 18 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 17 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 18 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
 | 19 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 20 | [livia](http://twitter.com/search?q=livia) | N/A |
-| 21 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 22 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 23 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 24 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 25 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 26 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 27 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 28 | [Gobetti](http://twitter.com/search?q=Gobetti) | N/A |
-| 29 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 30 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 20 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 21 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 22 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 23 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 24 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 25 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
+| 26 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 27 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 28 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
+| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 30 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
 | 31 | [enrica](http://twitter.com/search?q=enrica) | N/A |
-| 32 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
-| 33 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 34 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 35 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 36 | [Anna Magnani](http://twitter.com/search?q=Anna+Magnani) | N/A |
-| 37 | [Teresina](http://twitter.com/search?q=Teresina) | N/A |
-| 38 | [luigi alfredo](http://twitter.com/search?q=luigi+alfredo) | N/A |
-| 39 | [otello](http://twitter.com/search?q=otello) | N/A |
-| 40 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 32 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 33 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 34 | [Teresina](http://twitter.com/search?q=Teresina) | N/A |
+| 35 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 36 | [Ruanda](http://twitter.com/search?q=Ruanda) | N/A |
+| 37 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 38 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 39 | [gobetti](http://twitter.com/search?q=gobetti) | N/A |
+| 40 | [otello](http://twitter.com/search?q=otello) | N/A |
 | 41 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 42 | [Ruanda](http://twitter.com/search?q=Ruanda) | N/A |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
-| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 42 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 43 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 44 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 45 | [Chiariello](http://twitter.com/search?q=Chiariello) | N/A |
+| 46 | [Baggio](http://twitter.com/search?q=Baggio) | N/A |
 | 47 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 48 | [Migrare](http://twitter.com/search?q=Migrare) | N/A |
-| 49 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 50 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 48 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 49 | [lino guanciale](http://twitter.com/search?q=lino+guanciale) | N/A |
+| 50 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
 
 
 

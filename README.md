@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-07 12:18:00 UTC`
+📆 Last Updated: `2023-03-07 13:21:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [うーたん](http://twitter.com/search?q=%e3%81%86%e3%83%bc%e3%81%9f%e3%82%93) | N/A |
-| 2 | [#バナナサンド](http://twitter.com/search?q=%23%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b5%e3%83%b3%e3%83%89) | N/A |
-| 3 | [ワームムーン](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%a0%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 4 | [#うたコン](http://twitter.com/search?q=%23%e3%81%86%e3%81%9f%e3%82%b3%e3%83%b3) | #うたコン is a hashtag used on Twitter in Japan to promote music-related content. It stands for "Uta Contest" and is used to encourage people to share their favorite songs, music videos, and other music-related content. In English, it could be translated as "Music Contest". |
-| 5 | [#プライムビデオで侍ジャパンを応援](http://twitter.com/search?q=%23%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e3%83%93%e3%83%87%e3%82%aa%e3%81%a7%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e3%82%92%e5%bf%9c%e6%8f%b4) | N/A |
-| 6 | [#BabyBrightxZeeNuNew](http://twitter.com/search?q=%23BabyBrightxZeeNuNew) | N/A |
-| 7 | [日村さん](http://twitter.com/search?q=%e6%97%a5%e6%9d%91%e3%81%95%e3%82%93) | 日村さん is a Japanese honorific title used to refer to someone with the surname Nichimura. It is similar to the English title of "Mr. Nichimura" or "Mrs. Nichimura". |
-| 8 | [#名取爆誕](http://twitter.com/search?q=%23%e5%90%8d%e5%8f%96%e7%88%86%e8%aa%95) | N/A |
-| 9 | [盛り上げの一言](http://twitter.com/search?q=%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%81%ae%e4%b8%80%e8%a8%80) | N/A |
+| 2 | [#星降る夜に](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab) | "#星降る夜に" is a hashtag in Japanese that translates to "On a night when stars fall". It is often used to describe a romantic or magical evening. |
+| 3 | [#バナナサンド](http://twitter.com/search?q=%23%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b5%e3%83%b3%e3%83%89) | N/A |
+| 4 | [ワームムーン](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%a0%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 5 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
+| 6 | [#仰天ニュース](http://twitter.com/search?q=%23%e4%bb%b0%e5%a4%a9%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9) | #仰天ニュース is a hashtag used on Japanese social media to refer to news stories that are particularly shocking or surprising. In English, it translates to "shocking news". |
+| 7 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 8 | [盛り上げの一言](http://twitter.com/search?q=%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%81%ae%e4%b8%80%e8%a8%80) | N/A |
+| 9 | [ボブ女子化](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
 | 10 | [オリックス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 11 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 12 | [さんま御殿](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%be%e5%be%a1%e6%ae%bf) | N/A |
+| 11 | [ボブカット女子化診断](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e3%82%ab%e3%83%83%e3%83%88%e5%a5%b3%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
+| 12 | [日村さん](http://twitter.com/search?q=%e6%97%a5%e6%9d%91%e3%81%95%e3%82%93) | 日村さん is a Japanese honorific title used to refer to someone with the surname Nichimura. It is similar to the English title of "Mr. Nichimura" or "Mrs. Nichimura". |
 | 13 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 14 | [ボブ女子化](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
-| 15 | [ボブカット女子化診断](http://twitter.com/search?q=%e3%83%9c%e3%83%96%e3%82%ab%e3%83%83%e3%83%88%e5%a5%b3%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
-| 16 | [はるちゃん](http://twitter.com/search?q=%e3%81%af%e3%82%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 17 | [ラストアイドル](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab) | N/A |
-| 18 | [サクラ咲ケ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e5%92%b2%e3%82%b1) | N/A |
-| 19 | [アマプラの実況](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9%e3%81%ae%e5%ae%9f%e6%b3%81) | N/A |
-| 20 | [ねむちゃん](http://twitter.com/search?q=%e3%81%ad%e3%82%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
-| 22 | [めいちゃん](http://twitter.com/search?q=%e3%82%81%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
-| 24 | [合歓ちゃん](http://twitter.com/search?q=%e5%90%88%e6%ad%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [ラスアイ](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%82%a2%e3%82%a4) | N/A |
-| 26 | [天文1500](http://twitter.com/search?q=%e5%a4%a9%e6%96%871500) | N/A |
-| 27 | [イベコレ缶バッジ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%82%b3%e3%83%ac%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
-| 28 | [楽勝ムード](http://twitter.com/search?q=%e6%a5%bd%e5%8b%9d%e3%83%a0%e3%83%bc%e3%83%89) | N/A |
-| 29 | [出撃セリフ](http://twitter.com/search?q=%e5%87%ba%e6%92%83%e3%82%bb%e3%83%aa%e3%83%95) | N/A |
-| 30 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
-| 31 | [国立競技場](http://twitter.com/search?q=%e5%9b%bd%e7%ab%8b%e7%ab%b6%e6%8a%80%e5%a0%b4) | N/A |
-| 32 | [レポリット](http://twitter.com/search?q=%e3%83%ac%e3%83%9d%e3%83%aa%e3%83%83%e3%83%88) | N/A |
-| 33 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
-| 34 | [ノーヒット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%92%e3%83%83%e3%83%88) | N/A |
+| 14 | [Twitterライブ](http://twitter.com/search?q=Twitter%e3%83%a9%e3%82%a4%e3%83%96) | Twitterライブ is a feature on the Twitter platform that allows users to broadcast live video streams. It is similar to other live streaming services such as YouTube Live and Facebook Live. The purpose of Twitterライブ is to allow users to share their experiences in real-time with their followers. |
+| 15 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 16 | [どすこーい](http://twitter.com/search?q=%e3%81%a9%e3%81%99%e3%81%93%e3%83%bc%e3%81%84) | どすこーい is an onomatopoeia used to describe a sound of something being dropped or falling. In English, it could be translated as "thud" or "clunk". |
+| 17 | [蘭たんのアンテ](http://twitter.com/search?q=%e8%98%ad%e3%81%9f%e3%82%93%e3%81%ae%e3%82%a2%e3%83%b3%e3%83%86) | N/A |
+| 18 | [緊急生放送](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e7%94%9f%e6%94%be%e9%80%81) | N/A |
+| 19 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
+| 20 | [さんま御殿](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%be%e5%be%a1%e6%ae%bf) | N/A |
+| 21 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 22 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
+| 23 | [ラストアイドル](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab) | N/A |
+| 24 | [出撃セリフ](http://twitter.com/search?q=%e5%87%ba%e6%92%83%e3%82%bb%e3%83%aa%e3%83%95) | N/A |
+| 25 | [はるちゃん](http://twitter.com/search?q=%e3%81%af%e3%82%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 26 | [アンダーテール](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%80%e3%83%bc%e3%83%86%e3%83%bc%e3%83%ab) | N/A |
+| 27 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 28 | [サクラ咲ケ](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e5%92%b2%e3%82%b1) | N/A |
+| 29 | [イベコレ缶バッジ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%82%b3%e3%83%ac%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
+| 30 | [ねむちゃん](http://twitter.com/search?q=%e3%81%ad%e3%82%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [吉田所長](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%89%80%e9%95%b7) | N/A |
+| 32 | [めいちゃん](http://twitter.com/search?q=%e3%82%81%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [スプリガン](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%82%ac%e3%83%b3) | N/A |
+| 34 | [合歓ちゃん](http://twitter.com/search?q=%e5%90%88%e6%ad%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 35 | [行政文書](http://twitter.com/search?q=%e8%a1%8c%e6%94%bf%e6%96%87%e6%9b%b8) | N/A |
 | 36 | [ギャアア](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%82%a2%e3%82%a2) | N/A |
-| 37 | [コードヴェイン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%89%e3%83%b4%e3%82%a7%e3%82%a4%e3%83%b3) | N/A |
-| 38 | [村上ホームラン](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 39 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 40 | [チョーさん](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%83%bc%e3%81%95%e3%82%93) | チョーさん is a nickname for someone named Chō, which is a common Japanese name. It is used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
-| 41 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 42 | [サウナの日](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%8a%e3%81%ae%e6%97%a5) | N/A |
-| 43 | [ハモリ我慢](http://twitter.com/search?q=%e3%83%8f%e3%83%a2%e3%83%aa%e6%88%91%e6%85%a2) | N/A |
-| 44 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 45 | [ディズニー特集](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc%e7%89%b9%e9%9b%86) | ディズニー特集 is a Japanese phrase that translates to "Disney Special Feature". It is used to refer to a special feature or program about Disney, such as a TV show or magazine article. |
-| 46 | [スプリガン](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%aa%e3%82%ac%e3%83%b3) | N/A |
-| 47 | [オレンジのSMAP](http://twitter.com/search?q=%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%81%aeSMAP) | N/A |
-| 48 | [外ハネボブ](http://twitter.com/search?q=%e5%a4%96%e3%83%8f%e3%83%8d%e3%83%9c%e3%83%96) | N/A |
-| 49 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
-| 50 | [マイローテーション](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%ad%e3%83%bc%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 37 | [アイビーカラー](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%93%e3%83%bc%e3%82%ab%e3%83%a9%e3%83%bc) | N/A |
+| 38 | [ラスアイ](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%82%a2%e3%82%a4) | N/A |
+| 39 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 40 | [レポリット](http://twitter.com/search?q=%e3%83%ac%e3%83%9d%e3%83%aa%e3%83%83%e3%83%88) | N/A |
+| 41 | [天文1500](http://twitter.com/search?q=%e5%a4%a9%e6%96%871500) | N/A |
+| 42 | [ちくわサラダ](http://twitter.com/search?q=%e3%81%a1%e3%81%8f%e3%82%8f%e3%82%b5%e3%83%a9%e3%83%80) | N/A |
+| 43 | [サウナの日](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%8a%e3%81%ae%e6%97%a5) | N/A |
+| 44 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
+| 45 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
+| 46 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 47 | [小松菜奈](http://twitter.com/search?q=%e5%b0%8f%e6%9d%be%e8%8f%9c%e5%a5%88) | N/A |
+| 48 | [コードヴェイン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%89%e3%83%b4%e3%82%a7%e3%82%a4%e3%83%b3) | N/A |
+| 49 | [GG佐藤さん](http://twitter.com/search?q=GG%e4%bd%90%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 50 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
 
 
 

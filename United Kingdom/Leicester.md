@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-07 12:18:03 UTC`
+📆 Last Updated: `2023-03-07 13:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [ACOBA](http://twitter.com/search?q=ACOBA) | N/A |
+| 1 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 2 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 3 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 4 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 5 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 6 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
-| 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 8 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
-| 9 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 10 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
-| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 12 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 14 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 15 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 16 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 17 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 21 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 6 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 7 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 8 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 9 | [#RikMayall](http://twitter.com/search?q=%23RikMayall) | N/A |
+| 10 | [Tom Hunt](http://twitter.com/search?q=Tom+Hunt) | N/A |
+| 11 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 12 | [Mike Gapes](http://twitter.com/search?q=Mike+Gapes) | N/A |
+| 13 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 14 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 16 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 17 | [Grand Final](http://twitter.com/search?q=Grand+Final) | N/A |
+| 18 | [Blue Monday](http://twitter.com/search?q=Blue+Monday) | "Blue Monday" is a term used to describe the Monday after the Christmas holiday period, which is often seen as a particularly depressing day due to the end of the festive season and the return to work or school. It is also sometimes referred to as "the most depressing day of the year". |
+| 19 | [Change UK](http://twitter.com/search?q=Change+UK) | N/A |
+| 20 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 22 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 23 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 24 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 25 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 28 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 29 | [Ally](http://twitter.com/search?q=Ally) | N/A |
-| 30 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 31 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 33 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 34 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 35 | [Met Office](http://twitter.com/search?q=Met+Office) | N/A |
-| 36 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 37 | [Booths](http://twitter.com/search?q=Booths) | N/A |
-| 38 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 39 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 40 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 41 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 42 | [#NCW2023](http://twitter.com/search?q=%23NCW2023) | N/A |
-| 43 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
-| 44 | [#ToriesOut243](http://twitter.com/search?q=%23ToriesOut243) | N/A |
-| 45 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 46 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 23 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 24 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 25 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 26 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 27 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 28 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 29 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 30 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 31 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 32 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 33 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 34 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 35 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 36 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 37 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 40 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 41 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 42 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 43 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 44 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 45 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 46 | [Booths](http://twitter.com/search?q=Booths) | N/A |
+| 47 | [#WorldCerealDay](http://twitter.com/search?q=%23WorldCerealDay) | N/A |
+| 48 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 
 
 

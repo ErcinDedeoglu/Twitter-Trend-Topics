@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-07 12:18:27 UTC`
+📆 Last Updated: `2023-03-07 13:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
-| 3 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 4 | [BEA DE LEON](http://twitter.com/search?q=BEA+DE+LEON) | N/A |
-| 5 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 2 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 3 | [#WILDTONIGHTonWishclusive](http://twitter.com/search?q=%23WILDTONIGHTonWishclusive) | N/A |
+| 4 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
+| 5 | [#cancelkpopjagiyaph](http://twitter.com/search?q=%23cancelkpopjagiyaph) | N/A |
 | 6 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 7 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 8 | [TEENdaysToGo CLASHmates](http://twitter.com/search?q=TEENdaysToGo+CLASHmates) | N/A |
-| 9 | [SUNOO LIVE](http://twitter.com/search?q=SUNOO+LIVE) | N/A |
-| 10 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 11 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 12 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 13 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 14 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 15 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 16 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
-| 17 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 18 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
-| 19 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 20 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 21 | [Yerin Baek](http://twitter.com/search?q=Yerin+Baek) | N/A |
-| 22 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
-| 23 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 24 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 25 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 26 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 27 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 28 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 29 | [davao de oro](http://twitter.com/search?q=davao+de+oro) | N/A |
-| 30 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 31 | [#PowerAllDonBelleBTS](http://twitter.com/search?q=%23PowerAllDonBelleBTS) | N/A |
-| 32 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
-| 33 | [#ATINnyoKinakabag](http://twitter.com/search?q=%23ATINnyoKinakabag) | N/A |
-| 34 | [#DreamMakerMoreForMarch](http://twitter.com/search?q=%23DreamMakerMoreForMarch) | N/A |
-| 35 | [#pvlallfilipinoconference](http://twitter.com/search?q=%23pvlallfilipinoconference) | N/A |
-| 36 | [#TatakStarMagicCelebConvos](http://twitter.com/search?q=%23TatakStarMagicCelebConvos) | N/A |
-| 37 | [#jhope_onthestreet](http://twitter.com/search?q=%23jhope_onthestreet) | N/A |
-| 38 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
-| 39 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 40 | [#SupportPresidentBBM](http://twitter.com/search?q=%23SupportPresidentBBM) | N/A |
-| 41 | [#BOYCOTTEBxGMA727](http://twitter.com/search?q=%23BOYCOTTEBxGMA727) | N/A |
-| 42 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 7 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 8 | [BEA DE LEON](http://twitter.com/search?q=BEA+DE+LEON) | N/A |
+| 9 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 10 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 11 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 12 | [Kasilag](http://twitter.com/search?q=Kasilag) | N/A |
+| 13 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 14 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 15 | [SUNOO LIVE](http://twitter.com/search?q=SUNOO+LIVE) | N/A |
+| 16 | [TEENdaysToGo CLASHmates](http://twitter.com/search?q=TEENdaysToGo+CLASHmates) | N/A |
+| 17 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 18 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 19 | [Kianna](http://twitter.com/search?q=Kianna) | N/A |
+| 20 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 21 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 22 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 23 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
+| 24 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
+| 27 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
+| 28 | [yerin baek](http://twitter.com/search?q=yerin+baek) | N/A |
+| 29 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 30 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 31 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 32 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 33 | [Photocard](http://twitter.com/search?q=Photocard) | N/A |
+| 34 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 35 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 36 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 37 | [BOMBASTIC SIDE EYE](http://twitter.com/search?q=BOMBASTIC+SIDE+EYE) | N/A |
+| 38 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 39 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
+| 40 | [#MissionUrduja](http://twitter.com/search?q=%23MissionUrduja) | N/A |
+| 41 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
+| 42 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 43 | [#DreamMakerMoreForMarch](http://twitter.com/search?q=%23DreamMakerMoreForMarch) | N/A |
+| 44 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
+| 45 | [#PowerAllDonBelle](http://twitter.com/search?q=%23PowerAllDonBelle) | N/A |
+| 46 | [#ATINnyoKinakabag](http://twitter.com/search?q=%23ATINnyoKinakabag) | N/A |
+| 47 | [#EN_READS](http://twitter.com/search?q=%23EN_READS) | N/A |
 
 
 
