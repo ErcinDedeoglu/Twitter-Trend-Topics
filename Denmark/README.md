@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-07 04:17:25 UTC`
+📆 Last Updated: `2023-03-07 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Denmark
 | 24 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 25 | [midtjylland](http://twitter.com/search?q=midtjylland) | N/A |
 | 26 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
-| 27 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 29 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
-| 30 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 27 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 28 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
+| 29 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 30 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
 | 31 | [ivancevic](http://twitter.com/search?q=ivancevic) | N/A |
 | 32 | [parken](http://twitter.com/search?q=parken) | N/A |
 | 33 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 34 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 38 | [putros](http://twitter.com/search?q=putros) | N/A |
-| 39 | [morten krogh](http://twitter.com/search?q=morten+krogh) | N/A |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [daramy](http://twitter.com/search?q=daramy) | N/A |
+| 37 | [putros](http://twitter.com/search?q=putros) | N/A |
+| 38 | [morten krogh](http://twitter.com/search?q=morten+krogh) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 40 | [Fcks](http://twitter.com/search?q=Fcks) | N/A |
 | 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 42 | [altså](http://twitter.com/search?q=alts%c3%a5) | N/A |
 | 43 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 44 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 45 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 46 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 47 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 48 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
-| 49 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [frankrig](http://twitter.com/search?q=frankrig) | N/A |
+| 45 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 46 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 49 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
+| 50 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |
 
 
 

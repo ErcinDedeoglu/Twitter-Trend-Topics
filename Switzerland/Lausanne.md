@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-07 04:16:46 UTC`
+📆 Last Updated: `2023-03-07 05:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 8 | [berset](http://twitter.com/search?q=berset) | N/A |
 | 9 | [Sion](http://twitter.com/search?q=Sion) | N/A |
 | 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 11 | [Guete Morge](http://twitter.com/search?q=Guete+Morge) | N/A |
 | 12 | [human rights council](http://twitter.com/search?q=human+rights+council) | N/A |
 | 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
@@ -33,21 +33,21 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
 | 17 | [gymi](http://twitter.com/search?q=gymi) | N/A |
 | 18 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 19 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
-| 20 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 19 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 20 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
 | 21 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 22 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
 | 23 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 24 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
 | 25 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
 | 26 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
-| 27 | [Kurds](http://twitter.com/search?q=Kurds) | N/A |
-| 28 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 30 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
-| 31 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 27 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 28 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 29 | [zeugs](http://twitter.com/search?q=zeugs) | N/A |
+| 30 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 31 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 32 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 33 | [Gymnasium](http://twitter.com/search?q=Gymnasium) | N/A |
+| 33 | [gymnasium](http://twitter.com/search?q=gymnasium) | N/A |
 | 34 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
 | 35 | [Verein](http://twitter.com/search?q=Verein) | N/A |
 | 36 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |

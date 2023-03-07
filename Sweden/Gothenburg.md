@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-07 04:16:47 UTC`
+📆 Last Updated: `2023-03-07 05:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,37 +27,37 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
 | 11 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 12 | [kalmar](http://twitter.com/search?q=kalmar) | N/A |
-| 13 | [frölunda](http://twitter.com/search?q=fr%c3%b6lunda) | N/A |
+| 13 | [Kungsholmen](http://twitter.com/search?q=Kungsholmen) | N/A |
 | 14 | [giffarna](http://twitter.com/search?q=giffarna) | N/A |
 | 15 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
 | 16 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 17 | [skytteholm](http://twitter.com/search?q=skytteholm) | N/A |
-| 18 | [Kungsholmen](http://twitter.com/search?q=Kungsholmen) | N/A |
-| 19 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 20 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 18 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 19 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 20 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
 | 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 22 | [jetmir haliti](http://twitter.com/search?q=jetmir+haliti) | N/A |
 | 23 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 | 24 | [kärnkraft](http://twitter.com/search?q=k%c3%a4rnkraft) | N/A |
 | 25 | [bodström](http://twitter.com/search?q=bodstr%c3%b6m) | N/A |
-| 26 | [Moise Kean](http://twitter.com/search?q=Moise+Kean) | N/A |
-| 27 | [tingsryd](http://twitter.com/search?q=tingsryd) | N/A |
-| 28 | [fredrik malm](http://twitter.com/search?q=fredrik+malm) | N/A |
+| 26 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 27 | [Moise Kean](http://twitter.com/search?q=Moise+Kean) | N/A |
+| 28 | [tingsryd](http://twitter.com/search?q=tingsryd) | N/A |
 | 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 31 | [lördag](http://twitter.com/search?q=l%c3%b6rdag) | N/A |
-| 32 | [måndag](http://twitter.com/search?q=m%c3%a5ndag) | N/A |
-| 33 | [axfood](http://twitter.com/search?q=axfood) | N/A |
-| 34 | [bravida](http://twitter.com/search?q=bravida) | N/A |
-| 35 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
-| 36 | [djurgården](http://twitter.com/search?q=djurg%c3%a5rden) | N/A |
-| 37 | [Mild](http://twitter.com/search?q=Mild) | N/A |
-| 38 | [bångsbo](http://twitter.com/search?q=b%c3%a5ngsbo) | N/A |
-| 39 | [hausner](http://twitter.com/search?q=hausner) | N/A |
-| 40 | [hjorthagen](http://twitter.com/search?q=hjorthagen) | N/A |
-| 41 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
-| 42 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 43 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
+| 30 | [fredrik malm](http://twitter.com/search?q=fredrik+malm) | N/A |
+| 31 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 32 | [lördag](http://twitter.com/search?q=l%c3%b6rdag) | N/A |
+| 33 | [måndag](http://twitter.com/search?q=m%c3%a5ndag) | N/A |
+| 34 | [axfood](http://twitter.com/search?q=axfood) | N/A |
+| 35 | [bravida](http://twitter.com/search?q=bravida) | N/A |
+| 36 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
+| 37 | [djurgården](http://twitter.com/search?q=djurg%c3%a5rden) | N/A |
+| 38 | [Mild](http://twitter.com/search?q=Mild) | N/A |
+| 39 | [bångsbo](http://twitter.com/search?q=b%c3%a5ngsbo) | N/A |
+| 40 | [hausner](http://twitter.com/search?q=hausner) | N/A |
+| 41 | [hjorthagen](http://twitter.com/search?q=hjorthagen) | N/A |
+| 42 | [Pinas](http://twitter.com/search?q=Pinas) | N/A |
+| 43 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 45 | [svt-appen](http://twitter.com/search?q=svt-appen) | N/A |
 | 46 | [T-62](http://twitter.com/search?q=T-62) | N/A |

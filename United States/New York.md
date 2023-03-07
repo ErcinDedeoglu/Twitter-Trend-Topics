@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-07 04:17:19 UTC`
+📆 Last Updated: `2023-03-07 05:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
-| 2 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 3 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 2 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 3 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 4 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 5 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 6 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 7 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 8 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
-| 9 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 10 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 11 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 5 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 6 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
+| 7 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 8 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 9 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 10 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
+| 11 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 12 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 13 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 14 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 15 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 16 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 17 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 18 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 15 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 16 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 18 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 19 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 20 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 21 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 23 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 24 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 25 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 26 | [Lamar Stevens](http://twitter.com/search?q=Lamar+Stevens) | N/A |
-| 27 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 28 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 29 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 30 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 31 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 32 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 33 | [Capitol Police](http://twitter.com/search?q=Capitol+Police) | N/A |
-| 34 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 35 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
-| 36 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 37 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 38 | [Furman](http://twitter.com/search?q=Furman) | N/A |
-| 39 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 40 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 41 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 42 | [Reyne Smith](http://twitter.com/search?q=Reyne+Smith) | N/A |
-| 43 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 44 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 45 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 46 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 47 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 48 | [Trish Stratus](http://twitter.com/search?q=Trish+Stratus) | N/A |
-| 49 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 50 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 20 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 21 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 22 | [#j6footage](http://twitter.com/search?q=%23j6footage) | N/A |
+| 23 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 24 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
+| 25 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 26 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 27 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 28 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 29 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 30 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 31 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 32 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 34 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 35 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 36 | [Lamar Stevens](http://twitter.com/search?q=Lamar+Stevens) | N/A |
+| 37 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 38 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 39 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 40 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 41 | [Towson](http://twitter.com/search?q=Towson) | N/A |
+| 42 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 43 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 44 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 45 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 46 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 47 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 48 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 49 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
+| 50 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 
 
 

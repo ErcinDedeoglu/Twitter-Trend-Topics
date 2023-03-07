@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-07 04:17:30 UTC`
+📆 Last Updated: `2023-03-07 05:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 2 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
-| 3 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 2 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
+| 3 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
 | 4 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
 | 5 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 6 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 7 | [#ニキ_LegendofKPOP_祝200万回再生](http://twitter.com/search?q=%23%e3%83%8b%e3%82%ad_LegendofKPOP_%e7%a5%9d200%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
-| 8 | [#LegendOfNi_Ki](http://twitter.com/search?q=%23LegendOfNi_Ki) | N/A |
-| 9 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
-| 10 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
-| 11 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 12 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
-| 13 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
-| 16 | [Diokno](http://twitter.com/search?q=Diokno) | N/A |
-| 17 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 18 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
-| 19 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 20 | [Masungi Georeserve](http://twitter.com/search?q=Masungi+Georeserve) | N/A |
-| 21 | [MINGLE WITH JIMIN](http://twitter.com/search?q=MINGLE+WITH+JIMIN) | N/A |
-| 22 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 23 | [D-14 BOBBY COMEBACK](http://twitter.com/search?q=D-14+BOBBY+COMEBACK) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 26 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
-| 27 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
-| 28 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 29 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 30 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
-| 31 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
-| 32 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
-| 33 | [eunha](http://twitter.com/search?q=eunha) | N/A |
-| 34 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
-| 35 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 36 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
-| 37 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 38 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
-| 39 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 40 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
-| 41 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 42 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
-| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 45 | [prince ang piegbabalik](http://twitter.com/search?q=prince+ang+piegbabalik) | N/A |
-| 46 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
-| 47 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 6 | [#NoToPUVPhaseout](http://twitter.com/search?q=%23NoToPUVPhaseout) | N/A |
+| 7 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 8 | [MAHAE SELCA](http://twitter.com/search?q=MAHAE+SELCA) | N/A |
+| 9 | [Diokno](http://twitter.com/search?q=Diokno) | N/A |
+| 10 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
+| 11 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
+| 12 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 13 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 14 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
+| 15 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 16 | [GAYUMA MV Teaser 1](http://twitter.com/search?q=GAYUMA+MV+Teaser+1) | N/A |
+| 17 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
+| 18 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 19 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 20 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
+| 21 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
+| 24 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
+| 25 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 26 | [The Name Chapter](http://twitter.com/search?q=The+Name+Chapter) | N/A |
+| 27 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 28 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
+| 29 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
+| 30 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 31 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 32 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
+| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 34 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
+| 35 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
+| 36 | [MINGLE WITH JIMIN](http://twitter.com/search?q=MINGLE+WITH+JIMIN) | N/A |
+| 37 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
+| 38 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
+| 39 | [MOM NOW SHOWING](http://twitter.com/search?q=MOM+NOW+SHOWING) | N/A |
+| 40 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
+| 41 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
+| 42 | [prince ang piegbabalik](http://twitter.com/search?q=prince+ang+piegbabalik) | N/A |
+| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 44 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 45 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 46 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
+| 47 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
 | 48 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
-| 49 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
-| 50 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 49 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
+| 50 | [Piston](http://twitter.com/search?q=Piston) | N/A |
 
 
 

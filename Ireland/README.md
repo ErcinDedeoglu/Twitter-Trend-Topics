@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-07 04:17:26 UTC`
+📆 Last Updated: `2023-03-07 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RTEInvestigates](http://twitter.com/search?q=%23RTEInvestigates) | N/A |
-| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 2 | [#RTEInvestigates](http://twitter.com/search?q=%23RTEInvestigates) | N/A |
 | 3 | [#rteupfront](http://twitter.com/search?q=%23rteupfront) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 6 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
 | 7 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 9 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
 | 10 | [Neville](http://twitter.com/search?q=Neville) | N/A |
 | 11 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 12 | [Aaron Bolger](http://twitter.com/search?q=Aaron+Bolger) | N/A |
+| 12 | [aaron bolger](http://twitter.com/search?q=aaron+bolger) | N/A |
 | 13 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 14 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
 | 15 | [darragh crowley](http://twitter.com/search?q=darragh+crowley) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for Ireland
 | 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 20 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
 | 21 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 22 | [cpsma](http://twitter.com/search?q=cpsma) | N/A |
-| 23 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 24 | [Congratulations Brian](http://twitter.com/search?q=Congratulations+Brian) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Primary](http://twitter.com/search?q=Primary) | N/A |
-| 27 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
-| 28 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 29 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 30 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 31 | [north quays](http://twitter.com/search?q=north+quays) | N/A |
-| 32 | [Alan Shatter](http://twitter.com/search?q=Alan+Shatter) | N/A |
-| 33 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 34 | [Rod Liddle](http://twitter.com/search?q=Rod+Liddle) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 37 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 38 | [coru](http://twitter.com/search?q=coru) | N/A |
-| 39 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 40 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 41 | [tallaght](http://twitter.com/search?q=tallaght) | N/A |
-| 42 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
-| 45 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 46 | [Panti](http://twitter.com/search?q=Panti) | N/A |
-| 47 | [Jackpot](http://twitter.com/search?q=Jackpot) | N/A |
-| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 49 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 50 | [norwich](http://twitter.com/search?q=norwich) | N/A |
+| 22 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 23 | [Congratulations Brian](http://twitter.com/search?q=Congratulations+Brian) | N/A |
+| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 25 | [caroline goldsmith](http://twitter.com/search?q=caroline+goldsmith) | N/A |
+| 26 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 27 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 28 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 29 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 30 | [north quays](http://twitter.com/search?q=north+quays) | N/A |
+| 31 | [alan shatter](http://twitter.com/search?q=alan+shatter) | N/A |
+| 32 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 33 | [Rod Liddle](http://twitter.com/search?q=Rod+Liddle) | N/A |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 36 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 37 | [coru](http://twitter.com/search?q=coru) | N/A |
+| 38 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 39 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 40 | [tallaght](http://twitter.com/search?q=tallaght) | N/A |
+| 41 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
+| 44 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 45 | [Panti](http://twitter.com/search?q=Panti) | N/A |
+| 46 | [Jackpot](http://twitter.com/search?q=Jackpot) | N/A |
+| 47 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 48 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 49 | [norwich](http://twitter.com/search?q=norwich) | N/A |
+| 50 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 
 
 
