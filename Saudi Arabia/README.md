@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-03-07 11:17:05 UTC`
+📆 Last Updated: `2023-03-07 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Saudi Arabia
 | 1 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
 | 2 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 3 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 4 | [#البزنس90](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b390) | N/A |
-| 5 | [#رساله_اليوم](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 4 | [#رساله_اليوم](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 5 | [#البزنس90](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b390) | N/A |
 | 6 | [#جسر_الملك_فهد](http://twitter.com/search?q=%23%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d9%81%d9%87%d8%af) | N/A |
 | 7 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
 | 8 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 9 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 10 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 11 | [رصيف العالم](http://twitter.com/search?q=%d8%b1%d8%b5%d9%8a%d9%81+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 12 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 10 | [ابو لارا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d8%a7%d8%b1%d8%a7) | N/A |
+| 11 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 12 | [رصيف العالم](http://twitter.com/search?q=%d8%b1%d8%b5%d9%8a%d9%81+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 13 | [فتح الهلال](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
 | 14 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 15 | [سلمان وسعود](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 16 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 17 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 15 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 16 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 17 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
 | 18 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 19 | [محمد نور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d9%88%d8%b1) | N/A |
-| 20 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
-| 21 | [عبدالله الحمدان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
-| 22 | [علي العنف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d9%81) | N/A |
-| 23 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 24 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
+| 19 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
+| 20 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 21 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 22 | [محمد نور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d9%88%d8%b1) | N/A |
+| 23 | [اللاعب الخلوق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
+| 24 | [عبدالله الحمدان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
 | 25 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 26 | [خليفة الدوسري](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d8%a9+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 27 | [لاعبي الهلال](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 27 | [فهد الروقي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b1%d9%88%d9%82%d9%8a) | N/A |
 | 28 | [مدير منزل](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%85%d9%86%d8%b2%d9%84) | N/A |
-| 29 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
-| 30 | [فهد الروقي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b1%d9%88%d9%82%d9%8a) | N/A |
-| 31 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 32 | [الثقه الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
-| 33 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 34 | [الامن الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 35 | [خالد البدر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
-| 36 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 29 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 30 | [لاعبي الهلال](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 31 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 32 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
+| 33 | [الثقه الملكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87) | N/A |
+| 34 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 35 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 36 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
 | 37 | [الوزير الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 38 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 39 | [خالد العطاوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d9%88%d9%8a) | N/A |
+| 38 | [علي العنف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d9%81) | N/A |
+| 39 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
 | 40 | [علي الخلوق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d9%82) | N/A |
-| 41 | [صوت عمر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%b9%d9%85%d8%b1) | N/A |
-| 42 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
-| 43 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 44 | [وزير الاعلام الجديد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 45 | [الاتحاد العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 46 | [علي الكلب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%83%d9%84%d8%a8) | N/A |
+| 41 | [خالد البدر](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%a8%d8%af%d8%b1) | N/A |
+| 42 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 43 | [وزير الاعلام الجديد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 44 | [الاتحاد العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 45 | [محمد منير](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d9%86%d9%8a%d8%b1) | N/A |
+| 46 | [جسر الملك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
 | 47 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 48 | [فريق دعم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%af%d8%b9%d9%85) | N/A |
+| 48 | [علي الكلب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%83%d9%84%d8%a8) | N/A |
 | 49 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 50 | [محمد منير](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d9%86%d9%8a%d8%b1) | N/A |
+| 50 | [فريق دعم](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%af%d8%b9%d9%85) | N/A |
 
 
 

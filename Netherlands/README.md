@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-07 11:17:04 UTC`
+📆 Last Updated: `2023-03-07 12:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 2 | [#rkcpsv](http://twitter.com/search?q=%23rkcpsv) | N/A |
+| 2 | [#ajanec](http://twitter.com/search?q=%23ajanec) | N/A |
 | 3 | [#huntedvips](http://twitter.com/search?q=%23huntedvips) | N/A |
 | 4 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
-| 5 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 6 | [#FEYGRO](http://twitter.com/search?q=%23FEYGRO) | N/A |
-| 7 | [#weekzondervleesenzuivel](http://twitter.com/search?q=%23weekzondervleesenzuivel) | N/A |
+| 5 | [#weekzondervleesenzuivel](http://twitter.com/search?q=%23weekzondervleesenzuivel) | N/A |
+| 6 | [#OngehoordNieuws](http://twitter.com/search?q=%23OngehoordNieuws) | N/A |
+| 7 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 8 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
-| 9 | [EU-verbod](http://twitter.com/search?q=EU-verbod) | N/A |
-| 10 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
-| 11 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 12 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 13 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 14 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 15 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 16 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
-| 17 | [Sytse](http://twitter.com/search?q=Sytse) | N/A |
-| 18 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
-| 19 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 20 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 21 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 9 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 10 | [eu-verbod](http://twitter.com/search?q=eu-verbod) | N/A |
+| 11 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 12 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 13 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 14 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
+| 15 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
+| 16 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 17 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 18 | [Saibari](http://twitter.com/search?q=Saibari) | N/A |
+| 19 | [sytse](http://twitter.com/search?q=sytse) | N/A |
+| 20 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
+| 21 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
 | 22 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 23 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
-| 24 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
-| 25 | [Jong AZ](http://twitter.com/search?q=Jong+AZ) | N/A |
-| 26 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 27 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 23 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 24 | [jong ajax](http://twitter.com/search?q=jong+ajax) | N/A |
+| 25 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
+| 26 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 27 | [Jong AZ](http://twitter.com/search?q=Jong+AZ) | N/A |
 | 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [Helmond Sport](http://twitter.com/search?q=Helmond+Sport) | N/A |
-| 30 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 31 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 32 | [vissers](http://twitter.com/search?q=vissers) | N/A |
-| 33 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 34 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
-| 35 | [Britten](http://twitter.com/search?q=Britten) | N/A |
-| 36 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
-| 37 | [Diederik](http://twitter.com/search?q=Diederik) | N/A |
-| 38 | [Kartel](http://twitter.com/search?q=Kartel) | N/A |
-| 39 | [Fred Teeven](http://twitter.com/search?q=Fred+Teeven) | N/A |
-| 40 | [Edisons](http://twitter.com/search?q=Edisons) | N/A |
-| 41 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
-| 42 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
-| 43 | [Waterschappen](http://twitter.com/search?q=Waterschappen) | N/A |
-| 44 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 45 | [jong fc utrecht](http://twitter.com/search?q=jong+fc+utrecht) | N/A |
-| 46 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 47 | [Uitsluiten](http://twitter.com/search?q=Uitsluiten) | N/A |
-| 48 | [Stelling](http://twitter.com/search?q=Stelling) | N/A |
-| 49 | [internationale vrouwendag](http://twitter.com/search?q=internationale+vrouwendag) | N/A |
-| 50 | [Dilan](http://twitter.com/search?q=Dilan) | N/A |
+| 29 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 30 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 31 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 32 | [Helmond Sport](http://twitter.com/search?q=Helmond+Sport) | N/A |
+| 33 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 34 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 35 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 36 | [Driessen](http://twitter.com/search?q=Driessen) | N/A |
+| 37 | [vissers](http://twitter.com/search?q=vissers) | N/A |
+| 38 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 39 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
+| 40 | [Corinne](http://twitter.com/search?q=Corinne) | N/A |
+| 41 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
+| 42 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 43 | [Diederik](http://twitter.com/search?q=Diederik) | N/A |
+| 44 | [Fred Teeven](http://twitter.com/search?q=Fred+Teeven) | N/A |
+| 45 | [Edisons](http://twitter.com/search?q=Edisons) | N/A |
+| 46 | [Ellemeet](http://twitter.com/search?q=Ellemeet) | N/A |
+| 47 | [Toblerone](http://twitter.com/search?q=Toblerone) | N/A |
+| 48 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 49 | [Werkende](http://twitter.com/search?q=Werkende) | N/A |
+| 50 | [Waterschappen](http://twitter.com/search?q=Waterschappen) | N/A |
 
 
 

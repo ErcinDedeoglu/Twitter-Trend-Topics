@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-07 11:17:05 UTC`
+📆 Last Updated: `2023-03-07 12:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for South Africa
 | 1 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
 | 2 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
 | 3 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
-| 4 | [#askaman](http://twitter.com/search?q=%23askaman) | N/A |
-| 5 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 4 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 5 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
 | 6 | [Thuli Madonsela](http://twitter.com/search?q=Thuli+Madonsela) | N/A |
-| 7 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
-| 8 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 9 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 10 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
-| 11 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
-| 12 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 13 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 14 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 15 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 16 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
-| 17 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
-| 20 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 21 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 22 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 7 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 8 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 9 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
+| 10 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 11 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 12 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
+| 13 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 14 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 15 | [#AskAMan](http://twitter.com/search?q=%23AskAMan) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 18 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 19 | [zizi kodwa](http://twitter.com/search?q=zizi+kodwa) | N/A |
+| 20 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 21 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 22 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
 | 23 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
-| 24 | [Westbury](http://twitter.com/search?q=Westbury) | N/A |
-| 25 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 26 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
-| 27 | [Kgosientsho Ramokgopa](http://twitter.com/search?q=Kgosientsho+Ramokgopa) | N/A |
-| 28 | [Patrice Motsepe](http://twitter.com/search?q=Patrice+Motsepe) | N/A |
-| 29 | [OPERATION SAVE TSATSII](http://twitter.com/search?q=OPERATION+SAVE+TSATSII) | N/A |
-| 30 | [load a buddy](http://twitter.com/search?q=load+a+buddy) | N/A |
+| 24 | [Kiernan Forbes](http://twitter.com/search?q=Kiernan+Forbes) | N/A |
+| 25 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 26 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 27 | [ANC in 2024](http://twitter.com/search?q=ANC+in+2024) | N/A |
+| 28 | [Ramokgopa](http://twitter.com/search?q=Ramokgopa) | N/A |
+| 29 | [load a buddy](http://twitter.com/search?q=load+a+buddy) | N/A |
+| 30 | [Westbury](http://twitter.com/search?q=Westbury) | N/A |
 | 31 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 32 | [ANC in 2024](http://twitter.com/search?q=ANC+in+2024) | N/A |
-| 33 | [TSATSII TO THE FINALE](http://twitter.com/search?q=TSATSII+TO+THE+FINALE) | N/A |
-| 34 | [MoFlava](http://twitter.com/search?q=MoFlava) | N/A |
-| 35 | [Ministry](http://twitter.com/search?q=Ministry) | N/A |
-| 36 | [cogta](http://twitter.com/search?q=cogta) | N/A |
-| 37 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
-| 38 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 39 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 40 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 41 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 42 | [Keletso](http://twitter.com/search?q=Keletso) | N/A |
-| 43 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 44 | [Monitoring and Evaluation](http://twitter.com/search?q=Monitoring+and+Evaluation) | N/A |
-| 45 | [Moeti](http://twitter.com/search?q=Moeti) | N/A |
-| 46 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 47 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
-| 48 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
-| 49 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
-| 50 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 32 | [MoFlava](http://twitter.com/search?q=MoFlava) | N/A |
+| 33 | [Ministry](http://twitter.com/search?q=Ministry) | N/A |
+| 34 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
+| 35 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
+| 36 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 37 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 38 | [Keletso](http://twitter.com/search?q=Keletso) | N/A |
+| 39 | [COGTA](http://twitter.com/search?q=COGTA) | N/A |
+| 40 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 41 | [Riky](http://twitter.com/search?q=Riky) | N/A |
+| 42 | [Monitoring and Evaluation](http://twitter.com/search?q=Monitoring+and+Evaluation) | N/A |
+| 43 | [Moeti](http://twitter.com/search?q=Moeti) | N/A |
+| 44 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 45 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 46 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 47 | [DEAR JUICY JAY](http://twitter.com/search?q=DEAR+JUICY+JAY) | N/A |
+| 48 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 49 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 50 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 
 
 

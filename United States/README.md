@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-07 11:17:06 UTC`
+📆 Last Updated: `2023-03-07 12:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United States
 | ------- | ------------ | ------------ |
 | 1 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 2 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 3 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 4 | [#J6footage](http://twitter.com/search?q=%23J6footage) | N/A |
-| 5 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 6 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [#Wordle626](http://twitter.com/search?q=%23Wordle626) | N/A |
-| 10 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 11 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 12 | [Misled](http://twitter.com/search?q=Misled) | N/A |
-| 13 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 14 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 15 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 16 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 17 | [qanon shaman](http://twitter.com/search?q=qanon+shaman) | N/A |
-| 18 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 5 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
+| 6 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 7 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 8 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 9 | [Misled](http://twitter.com/search?q=Misled) | N/A |
+| 10 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 11 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 12 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 13 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 14 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 15 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 16 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 17 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 18 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
 | 19 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
 | 20 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 21 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 22 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 23 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
-| 24 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 25 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 26 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 27 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 28 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 29 | [Theory](http://twitter.com/search?q=Theory) | N/A |
-| 30 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
-| 31 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 32 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
-| 33 | [Figma](http://twitter.com/search?q=Figma) | N/A |
-| 34 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 21 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
+| 22 | [Ashli](http://twitter.com/search?q=Ashli) | N/A |
+| 23 | [Concealed](http://twitter.com/search?q=Concealed) | N/A |
+| 24 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 25 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 26 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
+| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 28 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
+| 29 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 30 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 31 | [Lied](http://twitter.com/search?q=Lied) | N/A |
+| 32 | [Highlander](http://twitter.com/search?q=Highlander) | N/A |
+| 33 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 34 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
 | 35 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
-| 36 | [Dangerously in Love](http://twitter.com/search?q=Dangerously+in+Love) | N/A |
-| 37 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
-| 38 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
-| 39 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 40 | [SASHA FIERCE](http://twitter.com/search?q=SASHA+FIERCE) | N/A |
-| 41 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 42 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 43 | [Nic Cage](http://twitter.com/search?q=Nic+Cage) | N/A |
-| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 45 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 46 | [Kemp](http://twitter.com/search?q=Kemp) | N/A |
-| 47 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 48 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
-| 49 | [Death Note](http://twitter.com/search?q=Death+Note) | N/A |
-| 50 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 36 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 37 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 38 | [Theory](http://twitter.com/search?q=Theory) | N/A |
+| 39 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 40 | [Kemp](http://twitter.com/search?q=Kemp) | N/A |
+| 41 | [Southern Poverty Law Center](http://twitter.com/search?q=Southern+Poverty+Law+Center) | N/A |
+| 42 | [Jey Uso](http://twitter.com/search?q=Jey+Uso) | Jey Uso is the ring name of professional wrestler Jonathan Fatu, who is part of the WWE tag team The Usos. The name Jey Uso is a combination of his first name, Jonathan, and the word "uso," which means "brother" in Samoan. |
+| 43 | [Figma](http://twitter.com/search?q=Figma) | N/A |
+| 44 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 45 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 46 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
+| 47 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 48 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 49 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 50 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
 
 
 

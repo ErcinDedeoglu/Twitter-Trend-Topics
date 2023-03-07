@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-07 11:16:37 UTC`
+📆 Last Updated: `2023-03-07 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [iKON](http://twitter.com/search?q=iKON) | N/A |
 | 2 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 3 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 4 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 5 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 8 | [#SabronzoBday28](http://twitter.com/search?q=%23SabronzoBday28) | N/A |
-| 9 | [Kuala Lumpur](http://twitter.com/search?q=Kuala+Lumpur) | N/A |
-| 10 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 13 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 14 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
-| 15 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 16 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 17 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 21 | [Knights of Cydonia](http://twitter.com/search?q=Knights+of+Cydonia) | N/A |
-| 22 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 23 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 24 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 25 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 26 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [eric chou](http://twitter.com/search?q=eric+chou) | N/A |
-| 29 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 3 | [#BabyBrightxZeeNuNew](http://twitter.com/search?q=%23BabyBrightxZeeNuNew) | N/A |
+| 4 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 5 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 6 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 7 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 10 | [#SabronzoBday28](http://twitter.com/search?q=%23SabronzoBday28) | N/A |
+| 11 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 12 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 13 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 14 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 16 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 17 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 19 | [WHO IN Stray Kids](http://twitter.com/search?q=WHO+IN+Stray+Kids) | N/A |
+| 20 | [BAEK YERIN](http://twitter.com/search?q=BAEK+YERIN) | N/A |
+| 21 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Olivia Rodrigo](http://twitter.com/search?q=Olivia+Rodrigo) | N/A |
+| 24 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 25 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 26 | [Knights of Cydonia](http://twitter.com/search?q=Knights+of+Cydonia) | N/A |
+| 27 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 28 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 30 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 31 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 32 | [minhee](http://twitter.com/search?q=minhee) | N/A |
-| 33 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 34 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 35 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 36 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
-| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 39 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
-| 40 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 41 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
-| 42 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 43 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 44 | [David](http://twitter.com/search?q=David) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
-| 47 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 48 | [Baekho](http://twitter.com/search?q=Baekho) | N/A |
-| 49 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 31 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 32 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
+| 33 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 34 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 35 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 36 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 37 | [minhee](http://twitter.com/search?q=minhee) | N/A |
+| 38 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 39 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 42 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
+| 43 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 44 | [Yoon Jeonghan](http://twitter.com/search?q=Yoon+Jeonghan) | N/A |
+| 45 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 47 | [David](http://twitter.com/search?q=David) | N/A |
+| 48 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 49 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
 
 
 

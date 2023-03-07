@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-07 11:16:25 UTC`
+📆 Last Updated: `2023-03-07 12:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,34 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 2 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
-| 3 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 4 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 5 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 6 | [Swan](http://twitter.com/search?q=Swan) | N/A |
-| 7 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 8 | [Budokai Tenkaichi 4](http://twitter.com/search?q=Budokai+Tenkaichi+4) | N/A |
-| 9 | [Amar](http://twitter.com/search?q=Amar) | N/A |
-| 10 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 11 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 12 | [Lille 3](http://twitter.com/search?q=Lille+3) | N/A |
-| 13 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 14 | [Abdel Bouhazama](http://twitter.com/search?q=Abdel+Bouhazama) | N/A |
-| 15 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 16 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 17 | [Gâchis](http://twitter.com/search?q=G%c3%a2chis) | N/A |
-| 18 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
-| 19 | [Zouc](http://twitter.com/search?q=Zouc) | N/A |
-| 20 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 22 | [Jean-Eudes](http://twitter.com/search?q=Jean-Eudes) | N/A |
-| 23 | [Alexandre Couillon](http://twitter.com/search?q=Alexandre+Couillon) | N/A |
-| 24 | [Lagasnerie](http://twitter.com/search?q=Lagasnerie) | N/A |
-| 25 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 26 | [Exemplarité](http://twitter.com/search?q=Exemplarit%c3%a9) | N/A |
-| 27 | [Mickaël](http://twitter.com/search?q=Micka%c3%abl) | N/A |
-| 28 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 29 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 30 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 31 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 32 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 33 | [FighterZ](http://twitter.com/search?q=FighterZ) | N/A |
-| 34 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 35 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 36 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 37 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 38 | [François Mitterand](http://twitter.com/search?q=Fran%c3%a7ois+Mitterand) | N/A |
-| 39 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 40 | [Ilyes Chetti](http://twitter.com/search?q=Ilyes+Chetti) | N/A |
-| 41 | [Guide Michelin](http://twitter.com/search?q=Guide+Michelin) | N/A |
-| 42 | [Xenoverse](http://twitter.com/search?q=Xenoverse) | N/A |
-| 43 | [Leila Slimani](http://twitter.com/search?q=Leila+Slimani) | N/A |
-| 44 | [Vieux-Port](http://twitter.com/search?q=Vieux-Port) | N/A |
-| 45 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 46 | [Che Guevara](http://twitter.com/search?q=Che+Guevara) | N/A |
-| 47 | [Mardi 7](http://twitter.com/search?q=Mardi+7) | N/A |
-| 48 | [Mister France](http://twitter.com/search?q=Mister+France) | N/A |
-| 49 | [Réutilisables](http://twitter.com/search?q=R%c3%a9utilisables) | N/A |
+| 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 3 | [#BlocageDeLaFrance](http://twitter.com/search?q=%23BlocageDeLaFrance) | N/A |
+| 4 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
+| 5 | [SANS AVIS PSY](http://twitter.com/search?q=SANS+AVIS+PSY) | N/A |
+| 6 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
+| 7 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 8 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 9 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 10 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 11 | [Budokai 3](http://twitter.com/search?q=Budokai+3) | N/A |
+| 12 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
+| 13 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 14 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 15 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 16 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 17 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 18 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 19 | [#KCDFrance](http://twitter.com/search?q=%23KCDFrance) | N/A |
+| 20 | [#BlocusChallenge](http://twitter.com/search?q=%23BlocusChallenge) | N/A |
+| 21 | [#Perpignan](http://twitter.com/search?q=%23Perpignan) | N/A |
+| 22 | [#HDPros](http://twitter.com/search?q=%23HDPros) | N/A |
+| 23 | [#Stop64ans](http://twitter.com/search?q=%23Stop64ans) | N/A |
+| 24 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 25 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 26 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 27 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
+| 28 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
+| 29 | [#Borne](http://twitter.com/search?q=%23Borne) | N/A |
 
 
 

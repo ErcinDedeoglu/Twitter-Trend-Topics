@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-07 11:16:31 UTC`
+📆 Last Updated: `2023-03-07 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,46 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmblasNgampas](http://twitter.com/search?q=%23AmblasNgampas) | N/A |
-| 2 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
-| 3 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
-| 4 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 1 | [#amblasngampas](http://twitter.com/search?q=%23amblasngampas) | N/A |
+| 2 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 3 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 4 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
 | 5 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 6 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 7 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
-| 8 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 9 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 10 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 11 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 12 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 13 | [#realmeC55diShopee](http://twitter.com/search?q=%23realmeC55diShopee) | N/A |
-| 14 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
-| 15 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 16 | [Baek Yerin](http://twitter.com/search?q=Baek+Yerin) | N/A |
-| 17 | [Swedia](http://twitter.com/search?q=Swedia) | N/A |
-| 18 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 19 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 20 | [Jinan](http://twitter.com/search?q=Jinan) | N/A |
-| 21 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 22 | [Teknik](http://twitter.com/search?q=Teknik) | N/A |
-| 23 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 24 | [Baru 1](http://twitter.com/search?q=Baru+1) | N/A |
-| 25 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 26 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 27 | [Luhut](http://twitter.com/search?q=Luhut) | N/A |
-| 28 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
-| 29 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 30 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 7 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 8 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
+| 9 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
+| 10 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 11 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
+| 12 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
+| 13 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 14 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 15 | [#realmeC55diShopee](http://twitter.com/search?q=%23realmeC55diShopee) | N/A |
+| 16 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
+| 17 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
+| 18 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 19 | [baek yerin](http://twitter.com/search?q=baek+yerin) | N/A |
+| 20 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 21 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 22 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
+| 23 | [Jinan](http://twitter.com/search?q=Jinan) | N/A |
+| 24 | [Teknik](http://twitter.com/search?q=Teknik) | N/A |
+| 25 | [Madura](http://twitter.com/search?q=Madura) | N/A |
+| 26 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 27 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 29 | [luhut](http://twitter.com/search?q=luhut) | N/A |
+| 30 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
+| 31 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
 | 32 | [#C55TheChampion](http://twitter.com/search?q=%23C55TheChampion) | N/A |
-| 33 | [#4MINUTESxBIBLEBUILD](http://twitter.com/search?q=%234MINUTESxBIBLEBUILD) | N/A |
-| 34 | [#PercumaLaporPolisi](http://twitter.com/search?q=%23PercumaLaporPolisi) | N/A |
+| 33 | [#PercumaLaporPolisi](http://twitter.com/search?q=%23PercumaLaporPolisi) | N/A |
+| 34 | [#4MINUTESxBIBLEBUILD](http://twitter.com/search?q=%234MINUTESxBIBLEBUILD) | N/A |
 | 35 | [#BORNPINKinJKT](http://twitter.com/search?q=%23BORNPINKinJKT) | N/A |
-| 36 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 37 | [#PerjanjianGaib](http://twitter.com/search?q=%23PerjanjianGaib) | N/A |
+| 36 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 37 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
 | 38 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
 | 39 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
 | 40 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
-| 41 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
 
 
 

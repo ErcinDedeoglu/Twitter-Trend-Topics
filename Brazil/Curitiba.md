@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-07 11:16:21 UTC`
+📆 Last Updated: `2023-03-07 12:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,51 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 2 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 3 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 5 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 6 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 1 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 2 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 3 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 4 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 5 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 6 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
 | 7 | [#bdrj](http://twitter.com/search?q=%23bdrj) | N/A |
-| 8 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 9 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 8 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 9 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
 | 10 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
-| 11 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 12 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 13 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 14 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 15 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 16 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
-| 17 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 18 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 19 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 20 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 21 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 22 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 23 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 24 | [Essa Larissa](http://twitter.com/search?q=Essa+Larissa) | N/A |
-| 25 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 26 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
-| 27 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 28 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 29 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 30 | [Jojo todynho](http://twitter.com/search?q=Jojo+todynho) | N/A |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Mayara](http://twitter.com/search?q=Mayara) | N/A |
-| 33 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 34 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 35 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 36 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 37 | [#HistoriasImpossiveis](http://twitter.com/search?q=%23HistoriasImpossiveis) | N/A |
-| 38 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 39 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 11 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 12 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 13 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 14 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 15 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
+| 16 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 17 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 18 | [#FalasFemininas](http://twitter.com/search?q=%23FalasFemininas) | N/A |
+| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 20 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 21 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 22 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 23 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 24 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
+| 25 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 26 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
+| 27 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 28 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 29 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 31 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 32 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
+| 33 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 34 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
+| 35 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 36 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 37 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 38 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 39 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 40 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 41 | [bocoió](http://twitter.com/search?q=bocoi%c3%b3) | N/A |
+| 42 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 43 | [Fred e Alface](http://twitter.com/search?q=Fred+e+Alface) | N/A |
+| 44 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 45 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
 
 
 

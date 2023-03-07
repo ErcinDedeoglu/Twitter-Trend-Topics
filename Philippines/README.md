@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-07 11:17:05 UTC`
+📆 Last Updated: `2023-03-07 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,48 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
-| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 2 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
 | 3 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 4 | [#PowerAllDonBelle](http://twitter.com/search?q=%23PowerAllDonBelle) | N/A |
-| 5 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 6 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 7 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 8 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 9 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 10 | [YERIN BAEK](http://twitter.com/search?q=YERIN+BAEK) | N/A |
-| 11 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 12 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
-| 13 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 14 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 15 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 16 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 17 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 18 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 19 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 20 | [BGYO ON TIKTOCLOCK GMA](http://twitter.com/search?q=BGYO+ON+TIKTOCLOCK+GMA) | N/A |
-| 21 | [BOMBASTIC SIDE EYE](http://twitter.com/search?q=BOMBASTIC+SIDE+EYE) | N/A |
-| 22 | [#iKONxKrisFlyerExperiences](http://twitter.com/search?q=%23iKONxKrisFlyerExperiences) | N/A |
-| 23 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 24 | [#TatakStarMagicCelebConvos](http://twitter.com/search?q=%23TatakStarMagicCelebConvos) | N/A |
-| 25 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
-| 26 | [#jhope_onthestreet](http://twitter.com/search?q=%23jhope_onthestreet) | N/A |
-| 27 | [#BOBBYSOLOSINGLE_D14](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D14) | N/A |
-| 28 | [#SupportPresidentBBM](http://twitter.com/search?q=%23SupportPresidentBBM) | N/A |
-| 29 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 30 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 31 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
-| 32 | [#BOYCOTTEBxGMA727](http://twitter.com/search?q=%23BOYCOTTEBxGMA727) | N/A |
-| 33 | [#BGYO_TumitigilAngMundo](http://twitter.com/search?q=%23BGYO_TumitigilAngMundo) | N/A |
-| 34 | [#NI_KI](http://twitter.com/search?q=%23NI_KI) | N/A |
-| 35 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 4 | [BEA DE LEON](http://twitter.com/search?q=BEA+DE+LEON) | N/A |
+| 5 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 6 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 7 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 8 | [TEENdaysToGo CLASHmates](http://twitter.com/search?q=TEENdaysToGo+CLASHmates) | N/A |
+| 9 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 10 | [SUNOO LIVE](http://twitter.com/search?q=SUNOO+LIVE) | N/A |
+| 11 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 12 | [#PowerAllDonBelleBTS](http://twitter.com/search?q=%23PowerAllDonBelleBTS) | N/A |
+| 13 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 14 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 15 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 16 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 17 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
+| 18 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 19 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 20 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 21 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 22 | [Yerin Baek](http://twitter.com/search?q=Yerin+Baek) | N/A |
+| 23 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
+| 24 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 25 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 26 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 27 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
+| 28 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 29 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 30 | [davao de oro](http://twitter.com/search?q=davao+de+oro) | N/A |
+| 31 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 32 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
+| 33 | [#ATINnyoKinakabag](http://twitter.com/search?q=%23ATINnyoKinakabag) | N/A |
+| 34 | [#DreamMakerMoreForMarch](http://twitter.com/search?q=%23DreamMakerMoreForMarch) | N/A |
+| 35 | [#pvlallfilipinoconference](http://twitter.com/search?q=%23pvlallfilipinoconference) | N/A |
+| 36 | [#TatakStarMagicCelebConvos](http://twitter.com/search?q=%23TatakStarMagicCelebConvos) | N/A |
+| 37 | [#jhope_onthestreet](http://twitter.com/search?q=%23jhope_onthestreet) | N/A |
+| 38 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
+| 39 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 40 | [#SupportPresidentBBM](http://twitter.com/search?q=%23SupportPresidentBBM) | N/A |
+| 41 | [#BOYCOTTEBxGMA727](http://twitter.com/search?q=%23BOYCOTTEBxGMA727) | N/A |
+| 42 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
 
 
 

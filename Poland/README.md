@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-07 11:17:04 UTC`
+📆 Last Updated: `2023-03-07 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 3 | [#UwagaPiS](http://twitter.com/search?q=%23UwagaPiS) | N/A |
+| 3 | [#uwagapis](http://twitter.com/search?q=%23uwagapis) | N/A |
 | 4 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 5 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 6 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for Poland
 | 8 | [#korupcjaubielana](http://twitter.com/search?q=%23korupcjaubielana) | N/A |
 | 9 | [Feio](http://twitter.com/search?q=Feio) | N/A |
 | 10 | [#blankaisoverparty](http://twitter.com/search?q=%23blankaisoverparty) | N/A |
-| 11 | [#RADZAG](http://twitter.com/search?q=%23RADZAG) | N/A |
-| 12 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 13 | [Gosiewska](http://twitter.com/search?q=Gosiewska) | N/A |
-| 14 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 11 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
+| 12 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 13 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 14 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
 | 15 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 17 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 16 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 17 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 18 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 19 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 20 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
-| 21 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 22 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 23 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
-| 24 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
-| 25 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
-| 26 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 27 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 28 | [janie pawle ii](http://twitter.com/search?q=janie+pawle+ii) | N/A |
-| 29 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 30 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 31 | [Moskwę](http://twitter.com/search?q=Moskw%c4%99) | N/A |
-| 32 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 33 | [MI-24](http://twitter.com/search?q=MI-24) | N/A |
-| 34 | [Ogórek](http://twitter.com/search?q=Og%c3%b3rek) | N/A |
-| 35 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 36 | [Święty](http://twitter.com/search?q=%c5%9awi%c4%99ty) | N/A |
-| 37 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
-| 38 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 19 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 20 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
+| 21 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 22 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
+| 23 | [pablo morales](http://twitter.com/search?q=pablo+morales) | N/A |
+| 24 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 25 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 26 | [ogórek](http://twitter.com/search?q=og%c3%b3rek) | N/A |
+| 27 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 28 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 29 | [Gosiewska](http://twitter.com/search?q=Gosiewska) | N/A |
+| 30 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 31 | [mi-24](http://twitter.com/search?q=mi-24) | N/A |
+| 32 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
+| 33 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 34 | [mleko](http://twitter.com/search?q=mleko) | N/A |
+| 35 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 36 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
+| 37 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 38 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
 | 39 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
-| 40 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
-| 41 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 42 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
-| 43 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
-| 44 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
-| 45 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 46 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
-| 47 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 48 | [valencii](http://twitter.com/search?q=valencii) | N/A |
-| 49 | [Mt 23](http://twitter.com/search?q=Mt+23) | N/A |
-| 50 | [iga świątek](http://twitter.com/search?q=iga+%c5%9bwi%c4%85tek) | N/A |
+| 40 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
+| 41 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
+| 42 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 43 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 44 | [Mt 23](http://twitter.com/search?q=Mt+23) | N/A |
+| 45 | [iga świątek](http://twitter.com/search?q=iga+%c5%9bwi%c4%85tek) | N/A |
+| 46 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
+| 47 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 48 | [Tak TVP](http://twitter.com/search?q=Tak+TVP) | N/A |
+| 49 | [hartwig](http://twitter.com/search?q=hartwig) | N/A |
+| 50 | [czarnecki](http://twitter.com/search?q=czarnecki) | N/A |
 
 
 

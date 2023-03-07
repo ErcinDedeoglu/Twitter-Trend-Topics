@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-07 11:16:38 UTC`
+📆 Last Updated: `2023-03-07 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,47 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
-| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 2 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
 | 3 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 4 | [#PowerAllDonBelle](http://twitter.com/search?q=%23PowerAllDonBelle) | N/A |
-| 5 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 6 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 4 | [BEA DE LEON](http://twitter.com/search?q=BEA+DE+LEON) | N/A |
+| 5 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 6 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
 | 7 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 8 | [YERIN BAEK](http://twitter.com/search?q=YERIN+BAEK) | N/A |
-| 9 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
-| 10 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 12 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 13 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 14 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 15 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 16 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 17 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 18 | [BGYO ON TIKTOCLOCK GMA](http://twitter.com/search?q=BGYO+ON+TIKTOCLOCK+GMA) | N/A |
-| 19 | [BOMBASTIC SIDE EYE](http://twitter.com/search?q=BOMBASTIC+SIDE+EYE) | N/A |
-| 20 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 21 | [#iKONxKrisFlyerExperiences](http://twitter.com/search?q=%23iKONxKrisFlyerExperiences) | N/A |
-| 22 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 23 | [#TatakStarMagicCelebConvos](http://twitter.com/search?q=%23TatakStarMagicCelebConvos) | N/A |
-| 24 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
-| 25 | [#jhope_onthestreet](http://twitter.com/search?q=%23jhope_onthestreet) | N/A |
-| 26 | [#BOBBYSOLOSINGLE_D14](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D14) | N/A |
-| 27 | [#SupportPresidentBBM](http://twitter.com/search?q=%23SupportPresidentBBM) | N/A |
-| 28 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 29 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 30 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
-| 31 | [#BOYCOTTEBxGMA727](http://twitter.com/search?q=%23BOYCOTTEBxGMA727) | N/A |
-| 32 | [#BGYO_TumitigilAngMundo](http://twitter.com/search?q=%23BGYO_TumitigilAngMundo) | N/A |
-| 33 | [#NI_KI](http://twitter.com/search?q=%23NI_KI) | N/A |
-| 34 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 8 | [TEENdaysToGo CLASHmates](http://twitter.com/search?q=TEENdaysToGo+CLASHmates) | N/A |
+| 9 | [SUNOO LIVE](http://twitter.com/search?q=SUNOO+LIVE) | N/A |
+| 10 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 11 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 12 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 13 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 14 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 15 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 16 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
+| 17 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 18 | [How Should We Treat People](http://twitter.com/search?q=How+Should+We+Treat+People) | N/A |
+| 19 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 20 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 21 | [Yerin Baek](http://twitter.com/search?q=Yerin+Baek) | N/A |
+| 22 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
+| 23 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 24 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 25 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 26 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 27 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 28 | [davao de oro](http://twitter.com/search?q=davao+de+oro) | N/A |
+| 29 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
+| 30 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 31 | [#PowerAllDonBelleBTS](http://twitter.com/search?q=%23PowerAllDonBelleBTS) | N/A |
+| 32 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
+| 33 | [#DreamMakerMoreForMarch](http://twitter.com/search?q=%23DreamMakerMoreForMarch) | N/A |
+| 34 | [#TatakStarMagicCelebConvos](http://twitter.com/search?q=%23TatakStarMagicCelebConvos) | N/A |
+| 35 | [#pvlallfilipinoconference](http://twitter.com/search?q=%23pvlallfilipinoconference) | N/A |
+| 36 | [#jhope_onthestreet](http://twitter.com/search?q=%23jhope_onthestreet) | N/A |
+| 37 | [#BOBBY](http://twitter.com/search?q=%23BOBBY) | N/A |
+| 38 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 39 | [#SupportPresidentBBM](http://twitter.com/search?q=%23SupportPresidentBBM) | N/A |
+| 40 | [#BOYCOTTEBxGMA727](http://twitter.com/search?q=%23BOYCOTTEBxGMA727) | N/A |
+| 41 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
 
 
 
