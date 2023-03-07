@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-07 19:17:16 UTC`
+📆 Last Updated: `2023-03-07 20:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 2 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 3 | [Kevin McCarthy](http://twitter.com/search?q=Kevin+McCarthy) | Kevin McCarthy is the name of an American politician who currently serves as the House Minority Leader in the United States House of Representatives. He is a member of the Republican Party and represents California's 23rd congressional district. The phrase "Kevin McCarthy" is used to refer to him specifically. |
-| 4 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 5 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
-| 6 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 7 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 9 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 10 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 11 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 12 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 13 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 15 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 16 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 17 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 18 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
-| 21 | [UMass](http://twitter.com/search?q=UMass) | N/A |
-| 22 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
-| 23 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
-| 24 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 25 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 27 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 28 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 29 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 30 | [#J6CoverUp](http://twitter.com/search?q=%23J6CoverUp) | N/A |
-| 31 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 32 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 33 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
-| 34 | [Pro-Ukrainian](http://twitter.com/search?q=Pro-Ukrainian) | N/A |
-| 35 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 37 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 38 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 39 | [NBA MVP](http://twitter.com/search?q=NBA+MVP) | N/A |
-| 40 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 41 | [Outside Lands](http://twitter.com/search?q=Outside+Lands) | N/A |
-| 42 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 43 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 44 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 45 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 46 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 47 | [The Finals](http://twitter.com/search?q=The+Finals) | N/A |
-| 48 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 49 | [Anila](http://twitter.com/search?q=Anila) | N/A |
-| 50 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 2 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 3 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 4 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 5 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 6 | [Liars](http://twitter.com/search?q=Liars) | N/A |
+| 7 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 8 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
+| 9 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
+| 10 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 12 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 13 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 14 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 15 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 16 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 17 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 18 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 19 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 20 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 21 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 22 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 23 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
+| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 25 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 26 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
+| 27 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 28 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 29 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 30 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 31 | [MVPs](http://twitter.com/search?q=MVPs) | N/A |
+| 32 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
+| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 34 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
+| 35 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 36 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 37 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 38 | [Anila](http://twitter.com/search?q=Anila) | N/A |
+| 39 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 40 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 43 | [Phaedra](http://twitter.com/search?q=Phaedra) | N/A |
+| 44 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
+| 45 | [Deborah Ann Woll](http://twitter.com/search?q=Deborah+Ann+Woll) | N/A |
+| 46 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 47 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 48 | [Elden Henson](http://twitter.com/search?q=Elden+Henson) | N/A |
+| 49 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 50 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
 
 
 

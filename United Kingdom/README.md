@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-07 19:17:32 UTC`
+📆 Last Updated: `2023-03-07 20:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 2 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 3 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
-| 4 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
-| 5 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 6 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 7 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 8 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 9 | [#ToryFascistDictatorship](http://twitter.com/search?q=%23ToryFascistDictatorship) | N/A |
-| 10 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 11 | [Stop the Tories](http://twitter.com/search?q=Stop+the+Tories) | N/A |
-| 12 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 13 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 15 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 16 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 17 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 18 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 2 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 3 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 4 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 5 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 6 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 7 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
+| 8 | [#ToryFascistDictatorship](http://twitter.com/search?q=%23ToryFascistDictatorship) | N/A |
+| 9 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 10 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 12 | [#MartinLewis](http://twitter.com/search?q=%23MartinLewis) | N/A |
+| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 14 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
+| 15 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 16 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 17 | [Stop the Tories](http://twitter.com/search?q=Stop+the+Tories) | N/A |
+| 18 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 19 | [Bourbon](http://twitter.com/search?q=Bourbon) | N/A |
-| 20 | [#WomensPrize](http://twitter.com/search?q=%23WomensPrize) | N/A |
-| 21 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 22 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 23 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 24 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 25 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
-| 26 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 27 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 28 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 29 | [Custard](http://twitter.com/search?q=Custard) | N/A |
-| 30 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
-| 31 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 32 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 33 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
-| 34 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
-| 35 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 36 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 37 | [Channel](http://twitter.com/search?q=Channel) | N/A |
-| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 39 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 40 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 41 | [Chels](http://twitter.com/search?q=Chels) | N/A |
-| 42 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 43 | [Convention](http://twitter.com/search?q=Convention) | N/A |
-| 44 | [Unbiased](http://twitter.com/search?q=Unbiased) | N/A |
-| 45 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 46 | [Larnaca](http://twitter.com/search?q=Larnaca) | N/A |
-| 47 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 49 | [Vine](http://twitter.com/search?q=Vine) | N/A |
-| 50 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 20 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 21 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
+| 22 | [Custard](http://twitter.com/search?q=Custard) | N/A |
+| 23 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 24 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 25 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 28 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 29 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
+| 30 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 31 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 32 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
+| 33 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 34 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
+| 35 | [Lamar Jackson](http://twitter.com/search?q=Lamar+Jackson) | N/A |
+| 36 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 37 | [Refugee Convention](http://twitter.com/search?q=Refugee+Convention) | N/A |
+| 38 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
+| 39 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 40 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 41 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 42 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 43 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
+| 44 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 45 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 46 | [GB News](http://twitter.com/search?q=GB+News) | N/A |
+| 47 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 48 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 49 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 50 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
 
 
 

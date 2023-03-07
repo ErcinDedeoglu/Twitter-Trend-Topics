@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-07 19:17:12 UTC`
+📆 Last Updated: `2023-03-07 20:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SXSWEDU](http://twitter.com/search?q=%23SXSWEDU) | N/A |
-| 2 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 3 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 4 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 5 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
-| 6 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 7 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
-| 8 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 10 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 11 | [Perk](http://twitter.com/search?q=Perk) | N/A |
-| 12 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 13 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 14 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 16 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 18 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 19 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
-| 22 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
-| 23 | [UMass](http://twitter.com/search?q=UMass) | N/A |
-| 24 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
-| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 26 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 27 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 28 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 29 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 30 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 31 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 32 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 33 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
-| 34 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 35 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 36 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 37 | [Pro-Ukrainian](http://twitter.com/search?q=Pro-Ukrainian) | N/A |
-| 38 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 39 | [NBA MVP](http://twitter.com/search?q=NBA+MVP) | N/A |
-| 40 | [Outside Lands](http://twitter.com/search?q=Outside+Lands) | N/A |
-| 41 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 42 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 43 | [Anila](http://twitter.com/search?q=Anila) | N/A |
-| 44 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 45 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 46 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 47 | [The Finals](http://twitter.com/search?q=The+Finals) | N/A |
-| 48 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 49 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 50 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 1 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 2 | [#SXSWEDU](http://twitter.com/search?q=%23SXSWEDU) | N/A |
+| 3 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 4 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 5 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 6 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 7 | [Mexicans](http://twitter.com/search?q=Mexicans) | N/A |
+| 8 | [#J6footage](http://twitter.com/search?q=%23J6footage) | N/A |
+| 9 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
+| 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 11 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 12 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 13 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 14 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 15 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 16 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 17 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 18 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 19 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 20 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 22 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 23 | [Contessa](http://twitter.com/search?q=Contessa) | N/A |
+| 24 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 25 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
+| 26 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 28 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 29 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 30 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 32 | [MVPs](http://twitter.com/search?q=MVPs) | N/A |
+| 33 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 34 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 35 | [Anila](http://twitter.com/search?q=Anila) | N/A |
+| 36 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 39 | [Phaedra](http://twitter.com/search?q=Phaedra) | N/A |
+| 40 | [Deborah Ann Woll](http://twitter.com/search?q=Deborah+Ann+Woll) | N/A |
+| 41 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 42 | [Elden Henson](http://twitter.com/search?q=Elden+Henson) | N/A |
+| 43 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 44 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 45 | [Gigi Sohn](http://twitter.com/search?q=Gigi+Sohn) | N/A |
+| 46 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
+| 47 | [Frank Castle](http://twitter.com/search?q=Frank+Castle) | N/A |
+| 48 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 49 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 50 | [UMass](http://twitter.com/search?q=UMass) | N/A |
 
 
 

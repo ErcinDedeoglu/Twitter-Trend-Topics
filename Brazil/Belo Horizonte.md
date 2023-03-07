@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-07 19:16:34 UTC`
+📆 Last Updated: `2023-03-07 20:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 2 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 3 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 4 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
-| 5 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 6 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 7 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 8 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 9 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 10 | [Fiora](http://twitter.com/search?q=Fiora) | N/A |
-| 11 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
-| 12 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
-| 13 | [RIVER IS COMING](http://twitter.com/search?q=RIVER+IS+COMING) | N/A |
-| 14 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 15 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 16 | [Ezreal](http://twitter.com/search?q=Ezreal) | N/A |
-| 17 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 18 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 19 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 20 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 21 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
-| 22 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 23 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 1 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 2 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
+| 5 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 6 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 7 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 8 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 9 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 10 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 11 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 12 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [Justiceiro](http://twitter.com/search?q=Justiceiro) | N/A |
+| 15 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
+| 16 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 17 | [Fiora](http://twitter.com/search?q=Fiora) | N/A |
+| 18 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
+| 19 | [#conferencenaespn](http://twitter.com/search?q=%23conferencenaespn) | N/A |
+| 20 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 21 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
+| 22 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 23 | [#RoadToIvoryCoast](http://twitter.com/search?q=%23RoadToIvoryCoast) | N/A |
 | 24 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 25 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 26 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 27 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
-| 28 | [Syndra](http://twitter.com/search?q=Syndra) | N/A |
-| 29 | [Letônia](http://twitter.com/search?q=Let%c3%b4nia) | N/A |
-| 30 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
-| 31 | [Faz o B](http://twitter.com/search?q=Faz+o+B) | N/A |
-| 32 | [Fábio Luciano](http://twitter.com/search?q=F%c3%a1bio+Luciano) | N/A |
-| 33 | [L7nnon](http://twitter.com/search?q=L7nnon) | N/A |
-| 34 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
-| 35 | [#Donos11anos](http://twitter.com/search?q=%23Donos11anos) | N/A |
-| 36 | [Kalista](http://twitter.com/search?q=Kalista) | N/A |
-| 37 | [Apagou](http://twitter.com/search?q=Apagou) | N/A |
-| 38 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
-| 39 | [Me Espera](http://twitter.com/search?q=Me+Espera) | N/A |
-| 40 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 41 | [CCXP](http://twitter.com/search?q=CCXP) | N/A |
-| 42 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 43 | [Riot](http://twitter.com/search?q=Riot) | N/A |
-| 44 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 45 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
-| 48 | [Fadas](http://twitter.com/search?q=Fadas) | N/A |
-| 49 | [Páscoa dos ursinhos](http://twitter.com/search?q=P%c3%a1scoa+dos+ursinhos) | N/A |
-| 50 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 25 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 26 | [Ezreal](http://twitter.com/search?q=Ezreal) | N/A |
+| 27 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
+| 28 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 29 | [RIVER IS COMING](http://twitter.com/search?q=RIVER+IS+COMING) | N/A |
+| 30 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
+| 31 | [Letônia](http://twitter.com/search?q=Let%c3%b4nia) | N/A |
+| 32 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 33 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 34 | [Apagou](http://twitter.com/search?q=Apagou) | N/A |
+| 35 | [Faz o B](http://twitter.com/search?q=Faz+o+B) | N/A |
+| 36 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 37 | [L7nnon](http://twitter.com/search?q=L7nnon) | N/A |
+| 38 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
+| 39 | [Syndra](http://twitter.com/search?q=Syndra) | N/A |
+| 40 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 41 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 42 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
+| 43 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 44 | [Me Espera](http://twitter.com/search?q=Me+Espera) | N/A |
+| 45 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 46 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
+| 47 | [Demolidor](http://twitter.com/search?q=Demolidor) | N/A |
+| 48 | [Páscoa dos ursinhos](http://twitter.com/search?q=P%c3%a1scoa+dos+ursinhos) | N/A |
+| 49 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 50 | [Kalista](http://twitter.com/search?q=Kalista) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-03-07 19:16:48 UTC`
+📆 Last Updated: `2023-03-07 20:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
 | 4 | [#c55thechampion](http://twitter.com/search?q=%23c55thechampion) | N/A |
 | 5 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 6 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 7 | [#satsetsahabatsetiaet](http://twitter.com/search?q=%23satsetsahabatsetiaet) | N/A |
-| 8 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 6 | [#satsetsahabatsetiaet](http://twitter.com/search?q=%23satsetsahabatsetiaet) | N/A |
+| 7 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 8 | [500 M](http://twitter.com/search?q=500+M) | N/A |
 | 9 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
 | 10 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
 | 11 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
 | 12 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
-| 13 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 14 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
-| 15 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 16 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 17 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 13 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
+| 14 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 15 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 16 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 17 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
 | 18 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
-| 19 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
+| 19 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
 | 20 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
 | 21 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
-| 22 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 23 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 22 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 23 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
 | 24 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
 | 25 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 27 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 28 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 29 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 30 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
-| 31 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
-| 32 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
-| 33 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 34 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 35 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
-| 36 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
-| 37 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 38 | [jungkookie](http://twitter.com/search?q=jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
+| 26 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 27 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 28 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 29 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
+| 30 | [Ricki Ariansyah](http://twitter.com/search?q=Ricki+Ariansyah) | N/A |
+| 31 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 32 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 33 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
+| 34 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
+| 35 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
+| 36 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 37 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 38 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
 | 39 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
-| 40 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 43 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
-| 44 | [5 DAYS TO ROVER](http://twitter.com/search?q=5+DAYS+TO+ROVER) | N/A |
-| 45 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
-| 46 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 40 | [5 DAYS TO ROVER](http://twitter.com/search?q=5+DAYS+TO+ROVER) | N/A |
+| 41 | [jungkookie](http://twitter.com/search?q=jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
+| 42 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 45 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 46 | [64mp champion camera](http://twitter.com/search?q=64mp+champion+camera) | N/A |
 | 47 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 48 | [64mp champion camera](http://twitter.com/search?q=64mp+champion+camera) | N/A |
-| 49 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
+| 48 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
+| 49 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 
 
 

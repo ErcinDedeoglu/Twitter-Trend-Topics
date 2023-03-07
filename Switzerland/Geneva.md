@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-07 19:16:45 UTC`
+📆 Last Updated: `2023-03-07 20:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#sexualstrafrecht](http://twitter.com/search?q=%23sexualstrafrecht) | N/A |
 | 5 | [Gymi](http://twitter.com/search?q=Gymi) | N/A |
 | 6 | [Miete](http://twitter.com/search?q=Miete) | N/A |
-| 7 | [frismash easter cup](http://twitter.com/search?q=frismash+easter+cup) | N/A |
-| 8 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
-| 9 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
-| 10 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 11 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 7 | [Jositsch](http://twitter.com/search?q=Jositsch) | N/A |
+| 8 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 9 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 10 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
+| 11 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
 | 12 | [Motion](http://twitter.com/search?q=Motion) | N/A |
 | 13 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
 | 14 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 15 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 16 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
-| 17 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 18 | [Fähigkeiten](http://twitter.com/search?q=F%c3%a4higkeiten) | N/A |
-| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 20 | [Technik](http://twitter.com/search?q=Technik) | N/A |
-| 21 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 22 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 23 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 24 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 26 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 27 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 28 | [Phase](http://twitter.com/search?q=Phase) | N/A |
-| 29 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 30 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 31 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 32 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
-| 33 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
-| 34 | [Noten](http://twitter.com/search?q=Noten) | N/A |
-| 35 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 36 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
-| 37 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 38 | [Rohingya](http://twitter.com/search?q=Rohingya) | N/A |
-| 39 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 15 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 16 | [Fähigkeiten](http://twitter.com/search?q=F%c3%a4higkeiten) | N/A |
+| 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 18 | [Technik](http://twitter.com/search?q=Technik) | N/A |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 21 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 22 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 23 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 24 | [Frismash Easter Cup](http://twitter.com/search?q=Frismash+Easter+Cup) | N/A |
+| 25 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 26 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 27 | [Phase](http://twitter.com/search?q=Phase) | N/A |
+| 28 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 29 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
+| 30 | [Noten](http://twitter.com/search?q=Noten) | N/A |
+| 31 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 32 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 33 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 35 | [Strafe](http://twitter.com/search?q=Strafe) | N/A |
+| 36 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 37 | [Rohingya](http://twitter.com/search?q=Rohingya) | N/A |
+| 38 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 39 | [Purée](http://twitter.com/search?q=Pur%c3%a9e) | N/A |
 | 40 | [Jahrzehnte](http://twitter.com/search?q=Jahrzehnte) | N/A |
-| 41 | [Purée](http://twitter.com/search?q=Pur%c3%a9e) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 45 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
-| 46 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 47 | [Kriege](http://twitter.com/search?q=Kriege) | N/A |
-| 48 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 43 | [guete morge](http://twitter.com/search?q=guete+morge) | N/A |
+| 44 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 45 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 46 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 47 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 
 
 

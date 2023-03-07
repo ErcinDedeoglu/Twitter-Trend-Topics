@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-07 19:17:24 UTC`
+📆 Last Updated: `2023-03-07 20:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 4 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 5 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [#TrudeauHasGotToGo](http://twitter.com/search?q=%23TrudeauHasGotToGo) | N/A |
-| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 10 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 11 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 12 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 13 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 14 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 15 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 16 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 2 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 5 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 6 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 11 | [#TrudeauHasGotToGo](http://twitter.com/search?q=%23TrudeauHasGotToGo) | N/A |
+| 12 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
+| 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 14 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
+| 15 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 16 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 17 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
 | 18 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 19 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 20 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 21 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 22 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 23 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 24 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
-| 25 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 26 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
-| 27 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 28 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 29 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 30 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 31 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 32 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 33 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 35 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 36 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
-| 37 | [April O'Neil](http://twitter.com/search?q=April+O%27Neil) | N/A |
-| 38 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 39 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
-| 40 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
-| 41 | [Tim Donaghy](http://twitter.com/search?q=Tim+Donaghy) | N/A |
-| 42 | [Scoot Henderson](http://twitter.com/search?q=Scoot+Henderson) | N/A |
-| 43 | [Tragically Hip](http://twitter.com/search?q=Tragically+Hip) | N/A |
-| 44 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 45 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 46 | [NSICOP](http://twitter.com/search?q=NSICOP) | N/A |
-| 47 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
-| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 49 | [Gord](http://twitter.com/search?q=Gord) | N/A |
-| 50 | [Reinbacher](http://twitter.com/search?q=Reinbacher) | N/A |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 23 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 24 | [Born Again](http://twitter.com/search?q=Born+Again) | N/A |
+| 25 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 26 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 27 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 28 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 29 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
+| 30 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
+| 31 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 32 | [Russell Brown](http://twitter.com/search?q=Russell+Brown) | N/A |
+| 33 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 34 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 35 | [Ricky Tiedemann](http://twitter.com/search?q=Ricky+Tiedemann) | N/A |
+| 36 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 37 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 38 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 39 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 40 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 41 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 42 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 43 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 44 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 45 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 46 | [The Tragically Hip](http://twitter.com/search?q=The+Tragically+Hip) | N/A |
+| 47 | [Gord](http://twitter.com/search?q=Gord) | N/A |
+| 48 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 49 | [Marie-Louise Tardif](http://twitter.com/search?q=Marie-Louise+Tardif) | N/A |
+| 50 | [Barry](http://twitter.com/search?q=Barry) | N/A |
 
 
 

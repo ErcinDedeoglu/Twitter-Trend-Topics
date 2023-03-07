@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-07 19:16:44 UTC`
+📆 Last Updated: `2023-03-07 20:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lazaz](http://twitter.com/search?q=%23lazaz) | N/A |
-| 2 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
-| 3 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 4 | [#toeslagenaffaire](http://twitter.com/search?q=%23toeslagenaffaire) | N/A |
-| 5 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 6 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 7 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 8 | [Hardrijder](http://twitter.com/search?q=Hardrijder) | N/A |
-| 9 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
-| 10 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 12 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 14 | [EU-verbod](http://twitter.com/search?q=EU-verbod) | N/A |
-| 15 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 16 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
-| 17 | [Yesilgöz](http://twitter.com/search?q=Yesilg%c3%b6z) | N/A |
-| 18 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 20 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 21 | [Frits van Eerd](http://twitter.com/search?q=Frits+van+Eerd) | N/A |
-| 22 | [saibari](http://twitter.com/search?q=saibari) | N/A |
-| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 24 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 25 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 26 | [jong az](http://twitter.com/search?q=jong+az) | N/A |
-| 27 | [Osman](http://twitter.com/search?q=Osman) | N/A |
-| 28 | [Onderzoeksraad](http://twitter.com/search?q=Onderzoeksraad) | N/A |
-| 29 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 30 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 31 | [Corinne](http://twitter.com/search?q=Corinne) | N/A |
-| 32 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 33 | [Zuidas](http://twitter.com/search?q=Zuidas) | N/A |
-| 34 | [PvdD](http://twitter.com/search?q=PvdD) | N/A |
-| 35 | [Eva Vlaardingerbroek](http://twitter.com/search?q=Eva+Vlaardingerbroek) | N/A |
-| 36 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 37 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 38 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 39 | [Ties](http://twitter.com/search?q=Ties) | N/A |
-| 40 | [valentijn](http://twitter.com/search?q=valentijn) | N/A |
-| 41 | [Van Zanen](http://twitter.com/search?q=Van+Zanen) | N/A |
-| 42 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
-| 43 | [Capitool](http://twitter.com/search?q=Capitool) | N/A |
-| 44 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 45 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 46 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 47 | [Werkende](http://twitter.com/search?q=Werkende) | N/A |
-| 48 | [Gelderse](http://twitter.com/search?q=Gelderse) | N/A |
-| 49 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 50 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 2 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 3 | [#toeslagenaffaire](http://twitter.com/search?q=%23toeslagenaffaire) | N/A |
+| 4 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 5 | [#khalidensophie](http://twitter.com/search?q=%23khalidensophie) | N/A |
+| 6 | [Loes](http://twitter.com/search?q=Loes) | N/A |
+| 7 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 8 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 9 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 10 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 11 | [Hardrijder](http://twitter.com/search?q=Hardrijder) | N/A |
+| 12 | [Harm Edens](http://twitter.com/search?q=Harm+Edens) | N/A |
+| 13 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 14 | [Reijnders](http://twitter.com/search?q=Reijnders) | N/A |
+| 15 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [EU-verbod](http://twitter.com/search?q=EU-verbod) | N/A |
+| 18 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 19 | [Aukje de Vries](http://twitter.com/search?q=Aukje+de+Vries) | N/A |
+| 20 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 21 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 22 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 23 | [Gerapporteerd](http://twitter.com/search?q=Gerapporteerd) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Videoland](http://twitter.com/search?q=Videoland) | N/A |
+| 26 | [Frits van Eerd](http://twitter.com/search?q=Frits+van+Eerd) | N/A |
+| 27 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 28 | [Yesilgöz](http://twitter.com/search?q=Yesilg%c3%b6z) | N/A |
+| 29 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 31 | [Capitool](http://twitter.com/search?q=Capitool) | N/A |
+| 32 | [saibari](http://twitter.com/search?q=saibari) | N/A |
+| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 34 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 35 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 36 | [Jong AZ](http://twitter.com/search?q=Jong+AZ) | N/A |
+| 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 38 | [Oekraïense](http://twitter.com/search?q=Oekra%c3%afense) | N/A |
+| 39 | [Osman](http://twitter.com/search?q=Osman) | N/A |
+| 40 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 41 | [goedemorgen anton](http://twitter.com/search?q=goedemorgen+anton) | N/A |
+| 42 | [Corinne](http://twitter.com/search?q=Corinne) | N/A |
+| 43 | [Zuidas](http://twitter.com/search?q=Zuidas) | N/A |
+| 44 | [Onderzoeksraad](http://twitter.com/search?q=Onderzoeksraad) | N/A |
+| 45 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 46 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 47 | [Goedenavond](http://twitter.com/search?q=Goedenavond) | N/A |
+| 48 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 49 | [Ties](http://twitter.com/search?q=Ties) | N/A |
 
 
 
