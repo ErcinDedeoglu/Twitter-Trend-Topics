@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-07 14:17:58 UTC`
+📆 Last Updated: `2023-03-07 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PetroDeberia](http://twitter.com/search?q=%23PetroDeberia) | N/A |
-| 2 | [#EsUnAtaque](http://twitter.com/search?q=%23EsUnAtaque) | N/A |
-| 3 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
-| 4 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 5 | [#ANicolasLeDigo](http://twitter.com/search?q=%23ANicolasLeDigo) | N/A |
-| 6 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 7 | [#SondeoSalud](http://twitter.com/search?q=%23SondeoSalud) | N/A |
-| 8 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
-| 10 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 11 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 12 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
-| 13 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 14 | [julito](http://twitter.com/search?q=julito) | N/A |
-| 15 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
-| 16 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
-| 17 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 18 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 19 | [Cerco Humanitario](http://twitter.com/search?q=Cerco+Humanitario) | N/A |
-| 20 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
-| 21 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 22 | [Usme](http://twitter.com/search?q=Usme) | N/A |
-| 23 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 24 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 1 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
+| 2 | [#PetroDeberia](http://twitter.com/search?q=%23PetroDeberia) | N/A |
+| 3 | [#EsUnAtaque](http://twitter.com/search?q=%23EsUnAtaque) | N/A |
+| 4 | [#ANicolasLeDigo](http://twitter.com/search?q=%23ANicolasLeDigo) | N/A |
+| 5 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 6 | [#sondeosalud](http://twitter.com/search?q=%23sondeosalud) | N/A |
+| 7 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 8 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 9 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
+| 10 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
+| 11 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 12 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 13 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
+| 14 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 15 | [Julito](http://twitter.com/search?q=Julito) | N/A |
+| 16 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
+| 17 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 18 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 19 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
+| 20 | [Cerco Humanitario](http://twitter.com/search?q=Cerco+Humanitario) | N/A |
+| 21 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
+| 22 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
+| 23 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 24 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
 | 25 | [asprilla](http://twitter.com/search?q=asprilla) | N/A |
-| 26 | [2013 Soltera](http://twitter.com/search?q=2013+Soltera) | N/A |
+| 26 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 27 | [Davivienda](http://twitter.com/search?q=Davivienda) | N/A |
-| 28 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
-| 29 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 30 | [Mindo](http://twitter.com/search?q=Mindo) | N/A |
-| 31 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
+| 28 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 29 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
+| 30 | [Usme](http://twitter.com/search?q=Usme) | N/A |
+| 31 | [mindo](http://twitter.com/search?q=mindo) | N/A |
 | 32 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 33 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
-| 34 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
-| 35 | [Carlos Antonio Vélez](http://twitter.com/search?q=Carlos+Antonio+V%c3%a9lez) | N/A |
-| 36 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
-| 37 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
-| 38 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 39 | [Farmatodo](http://twitter.com/search?q=Farmatodo) | N/A |
-| 40 | [césar pachón](http://twitter.com/search?q=c%c3%a9sar+pach%c3%b3n) | N/A |
-| 41 | [Tayrona](http://twitter.com/search?q=Tayrona) | N/A |
-| 42 | [Dilian Francisca](http://twitter.com/search?q=Dilian+Francisca) | N/A |
-| 43 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 44 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 45 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 46 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 47 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 48 | [Laura Ojeda](http://twitter.com/search?q=Laura+Ojeda) | N/A |
-| 49 | [Tranquilidad](http://twitter.com/search?q=Tranquilidad) | N/A |
-| 50 | [MAKiS](http://twitter.com/search?q=MAKiS) | N/A |
+| 33 | [2013 soltero](http://twitter.com/search?q=2013+soltero) | N/A |
+| 34 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 35 | [Farmatodo](http://twitter.com/search?q=Farmatodo) | N/A |
+| 36 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
+| 37 | [breiner](http://twitter.com/search?q=breiner) | N/A |
+| 38 | [Tranquilidad](http://twitter.com/search?q=Tranquilidad) | N/A |
+| 39 | [Tayrona](http://twitter.com/search?q=Tayrona) | N/A |
+| 40 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
+| 41 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 42 | [César Pachón](http://twitter.com/search?q=C%c3%a9sar+Pach%c3%b3n) | N/A |
+| 43 | [Laura Ojeda](http://twitter.com/search?q=Laura+Ojeda) | N/A |
+| 44 | [MAKiS](http://twitter.com/search?q=MAKiS) | N/A |
+| 45 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 46 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 47 | [Cielo Rusinque](http://twitter.com/search?q=Cielo+Rusinque) | N/A |
+| 48 | [Gerenta](http://twitter.com/search?q=Gerenta) | N/A |
+| 49 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 50 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 
 
 

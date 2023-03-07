@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-07 14:17:49 UTC`
+📆 Last Updated: `2023-03-07 15:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [grant Williams](http://twitter.com/search?q=grant+Williams) | N/A |
+| 1 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 5 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 8 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
-| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 10 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
-| 11 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 12 | [#January6th](http://twitter.com/search?q=%23January6th) | #January6th is a hashtag used to refer to the 2021 storming of the United States Capitol by supporters of former President Donald Trump. It is a reference to the date of the incident, which occurred on January 6, 2021. |
-| 13 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 14 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 15 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 16 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 17 | [Misled](http://twitter.com/search?q=Misled) | N/A |
-| 18 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
-| 19 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 20 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 21 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 22 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 23 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
-| 24 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 25 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 26 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 27 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
-| 28 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 29 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 32 | [NBC News](http://twitter.com/search?q=NBC+News) | N/A |
-| 33 | [Falsely](http://twitter.com/search?q=Falsely) | N/A |
-| 34 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 35 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 36 | [Adam Kinzinger](http://twitter.com/search?q=Adam+Kinzinger) | N/A |
-| 37 | [Lied](http://twitter.com/search?q=Lied) | N/A |
-| 38 | [Love Drought](http://twitter.com/search?q=Love+Drought) | N/A |
-| 39 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 40 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 41 | [Dangerously in Love](http://twitter.com/search?q=Dangerously+in+Love) | N/A |
-| 42 | [Concealed](http://twitter.com/search?q=Concealed) | N/A |
-| 43 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
-| 44 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 45 | [My Saturn](http://twitter.com/search?q=My+Saturn) | N/A |
-| 46 | [Gitmo](http://twitter.com/search?q=Gitmo) | N/A |
-| 47 | [Saturn in Pisces](http://twitter.com/search?q=Saturn+in+Pisces) | N/A |
-| 48 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
-| 49 | [Highlander](http://twitter.com/search?q=Highlander) | N/A |
-| 50 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 9 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 12 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
+| 13 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 15 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 16 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 17 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 18 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 19 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 20 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 21 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 22 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 23 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 24 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 25 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
+| 26 | [Misled](http://twitter.com/search?q=Misled) | N/A |
+| 27 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 28 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 29 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 30 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 31 | [Chansley](http://twitter.com/search?q=Chansley) | N/A |
+| 32 | [Liars](http://twitter.com/search?q=Liars) | N/A |
+| 33 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 34 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 35 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 36 | [Tiffany AF1s](http://twitter.com/search?q=Tiffany+AF1s) | N/A |
+| 37 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 38 | [Cheney](http://twitter.com/search?q=Cheney) | Cheney is a surname of English origin. It is derived from the Old English word ceon, meaning "chief" or "leader". The name is also found in other countries, including France and Germany. |
+| 39 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 40 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
+| 41 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 42 | [NBC News](http://twitter.com/search?q=NBC+News) | N/A |
+| 43 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 44 | [Tamron](http://twitter.com/search?q=Tamron) | N/A |
+| 45 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 46 | [JPOW](http://twitter.com/search?q=JPOW) | N/A |
+| 47 | [Kinzinger](http://twitter.com/search?q=Kinzinger) | N/A |
+| 48 | [$TRKA](http://twitter.com/search?q=%24TRKA) | N/A |
+| 49 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 50 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-07 14:18:01 UTC`
+📆 Last Updated: `2023-03-07 15:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [#TheTristeKorno](http://twitter.com/search?q=%23TheTristeKorno) | N/A |
-| 3 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 4 | [#JuegoMañanero](http://twitter.com/search?q=%23JuegoMa%c3%b1anero) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 7 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 8 | [gutierritos](http://twitter.com/search?q=gutierritos) | N/A |
-| 9 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 10 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 11 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 12 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 13 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 14 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 15 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 16 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 17 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 18 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 19 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 20 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 21 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 22 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 23 | [Martes 7](http://twitter.com/search?q=Martes+7) | N/A |
-| 24 | [última cita world tour](http://twitter.com/search?q=%c3%baltima+cita+world+tour) | N/A |
-| 25 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 26 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
-| 27 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 28 | [christmas love is coming](http://twitter.com/search?q=christmas+love+is+coming) | N/A |
-| 29 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 30 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 31 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 32 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
-| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 34 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 36 | [started cwt](http://twitter.com/search?q=started+cwt) | N/A |
-| 37 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 38 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
-| 39 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 40 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 41 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 42 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
-| 43 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 44 | [mallor](http://twitter.com/search?q=mallor) | N/A |
-| 45 | [Mar Castro](http://twitter.com/search?q=Mar+Castro) | N/A |
-| 46 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 47 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 48 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
-| 49 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 50 | [million double golden](http://twitter.com/search?q=million+double+golden) | N/A |
+| 2 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 3 | [#TheTristeKorno](http://twitter.com/search?q=%23TheTristeKorno) | N/A |
+| 4 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
+| 5 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 7 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 8 | [Américo Villarreal](http://twitter.com/search?q=Am%c3%a9rico+Villarreal) | N/A |
+| 9 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 10 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 11 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 12 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
+| 13 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 15 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 16 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 17 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
+| 18 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 19 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 20 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
+| 21 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 22 | [katty](http://twitter.com/search?q=katty) | N/A |
+| 23 | [Luis Cresencio Sandoval](http://twitter.com/search?q=Luis+Cresencio+Sandoval) | N/A |
+| 24 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
+| 25 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 26 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
+| 27 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 28 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 29 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
+| 30 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 31 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 32 | [christmas love is coming](http://twitter.com/search?q=christmas+love+is+coming) | N/A |
+| 33 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 34 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 35 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 36 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 37 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 38 | [Jerome Powell](http://twitter.com/search?q=Jerome+Powell) | N/A |
+| 39 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
+| 40 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 43 | [started cwt](http://twitter.com/search?q=started+cwt) | N/A |
+| 44 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
+| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 46 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 48 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 49 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 50 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
 
 
 

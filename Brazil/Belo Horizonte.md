@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-07 14:17:18 UTC`
+📆 Last Updated: `2023-03-07 15:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 2 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 3 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 4 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 5 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 6 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 7 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 8 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 9 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 10 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
-| 11 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
-| 12 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 13 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 14 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 15 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 16 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
-| 17 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 18 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 19 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
-| 20 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 21 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 22 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
-| 23 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 24 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
-| 25 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
-| 26 | [dia internacional da mulher](http://twitter.com/search?q=dia+internacional+da+mulher) | N/A |
-| 27 | [jojo toddynho](http://twitter.com/search?q=jojo+toddynho) | N/A |
-| 28 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 29 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 30 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
-| 31 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 32 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 33 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 34 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 35 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 36 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
-| 37 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 39 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 40 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
-| 41 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
-| 42 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 43 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 44 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 45 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 46 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 47 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
-| 48 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 49 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 50 | [JÓIA](http://twitter.com/search?q=J%c3%93IA) | N/A |
+| 1 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 2 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 3 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 4 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 5 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 6 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 7 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 8 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 9 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 10 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
+| 11 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 12 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 13 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
+| 14 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 15 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 16 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 17 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 18 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
+| 19 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 20 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
+| 21 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 22 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 23 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 24 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
+| 25 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 26 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 27 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 28 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 29 | [Macula](http://twitter.com/search?q=Macula) | N/A |
+| 30 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 31 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 32 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 33 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 34 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 35 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 36 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 37 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
+| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 40 | [Galinhas](http://twitter.com/search?q=Galinhas) | N/A |
+| 41 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 42 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 43 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
+| 44 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 46 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
+| 47 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
+| 48 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 49 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 50 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
 
 
 

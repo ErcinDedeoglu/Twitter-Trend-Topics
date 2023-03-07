@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-07 14:17:19 UTC`
+📆 Last Updated: `2023-03-07 15:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 4 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 5 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 6 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 7 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 8 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 9 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 10 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 11 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 12 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
-| 13 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 14 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
-| 15 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 16 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 17 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
-| 18 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 19 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
-| 20 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 21 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 22 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
-| 23 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 24 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 25 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
-| 26 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 27 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
-| 28 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
-| 29 | [dia internacional da mulher](http://twitter.com/search?q=dia+internacional+da+mulher) | N/A |
-| 30 | [jojo toddynho](http://twitter.com/search?q=jojo+toddynho) | N/A |
-| 31 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 32 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 33 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
-| 34 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 35 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 36 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 37 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 38 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
-| 39 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 40 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 41 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 42 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
-| 43 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
-| 44 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 45 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 46 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 47 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 48 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 49 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
-| 50 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 3 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 4 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 5 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 6 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 7 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 8 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 9 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 10 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 11 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 12 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 13 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 14 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
+| 15 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 16 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 17 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 18 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 19 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
+| 20 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 21 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
+| 22 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 23 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 24 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
+| 25 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 26 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 27 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 28 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 29 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 30 | [Macula](http://twitter.com/search?q=Macula) | N/A |
+| 31 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 32 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 33 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 34 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 35 | [FIES](http://twitter.com/search?q=FIES) | FIES stands for the Brazilian Federal Student Aid Program. It is a government program that provides financial aid to students in Brazil who are enrolled in higher education. The program helps students pay for tuition, books, and other educational expenses. |
+| 36 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 37 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 38 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 40 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
+| 41 | [Galinhas](http://twitter.com/search?q=Galinhas) | N/A |
+| 42 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 43 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 44 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 45 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
+| 46 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 47 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
+| 48 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
 
 
 

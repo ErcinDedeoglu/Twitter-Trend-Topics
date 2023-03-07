@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-07 14:18:01 UTC`
+📆 Last Updated: `2023-03-07 15:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for New Zealand
 | 1 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 2 | [#Census2023](http://twitter.com/search?q=%23Census2023) | N/A |
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 4 | [georgina beyer](http://twitter.com/search?q=georgina+beyer) | N/A |
+| 4 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
 | 5 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 6 | [#LoveOnTourAuckland](http://twitter.com/search?q=%23LoveOnTourAuckland) | N/A |
 | 7 | [maharey](http://twitter.com/search?q=maharey) | N/A |
 | 8 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 9 | [Wanaka](http://twitter.com/search?q=Wanaka) | N/A |
+| 9 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
 | 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 11 | [#hslot](http://twitter.com/search?q=%23hslot) | N/A |
 | 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-07 14:17:36 UTC`
+📆 Last Updated: `2023-03-07 15:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ghana](</Ghana>)
 | 1 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
 | 2 | [Ashiaman](http://twitter.com/search?q=Ashiaman) | N/A |
 | 3 | [#GhanaAt66](http://twitter.com/search?q=%23GhanaAt66) | N/A |
-| 4 | [#6thmarch](http://twitter.com/search?q=%236thmarch) | N/A |
-| 5 | [Major Mahama](http://twitter.com/search?q=Major+Mahama) | N/A |
-| 6 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
-| 7 | [The Face](http://twitter.com/search?q=The+Face) | N/A |
-| 8 | [#Volta2023](http://twitter.com/search?q=%23Volta2023) | N/A |
-| 9 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
-| 10 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
-| 11 | [Kasoa](http://twitter.com/search?q=Kasoa) | N/A |
-| 12 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 13 | [#womenofvalour](http://twitter.com/search?q=%23womenofvalour) | N/A |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
-| 16 | [#JoySMS](http://twitter.com/search?q=%23JoySMS) | N/A |
-| 17 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 18 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 19 | [Latif](http://twitter.com/search?q=Latif) | N/A |
-| 20 | [Rawlings](http://twitter.com/search?q=Rawlings) | N/A |
-| 21 | [Nima](http://twitter.com/search?q=Nima) | N/A |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 24 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 25 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 26 | [Taifa](http://twitter.com/search?q=Taifa) | N/A |
-| 27 | [Our Unity](http://twitter.com/search?q=Our+Unity) | N/A |
-| 28 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 4 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
+| 5 | [#6thmarch](http://twitter.com/search?q=%236thmarch) | N/A |
+| 6 | [THE FLAG](http://twitter.com/search?q=THE+FLAG) | N/A |
+| 7 | [Major Mahama](http://twitter.com/search?q=Major+Mahama) | N/A |
+| 8 | [THE FACE](http://twitter.com/search?q=THE+FACE) | N/A |
+| 9 | [#Volta2023](http://twitter.com/search?q=%23Volta2023) | N/A |
+| 10 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
+| 11 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 12 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
+| 13 | [#SakoraGovernment](http://twitter.com/search?q=%23SakoraGovernment) | N/A |
+| 14 | [Rawlings](http://twitter.com/search?q=Rawlings) | N/A |
+| 15 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 16 | [#womenofvalour](http://twitter.com/search?q=%23womenofvalour) | N/A |
+| 17 | [stonebwoy](http://twitter.com/search?q=stonebwoy) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Kasoa](http://twitter.com/search?q=Kasoa) | N/A |
+| 20 | [Latif](http://twitter.com/search?q=Latif) | N/A |
+| 21 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 22 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
+| 23 | [Taifa](http://twitter.com/search?q=Taifa) | N/A |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 26 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 27 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 28 | [Nima](http://twitter.com/search?q=Nima) | N/A |
+| 29 | [Our Unity](http://twitter.com/search?q=Our+Unity) | N/A |
 | 30 | [yemi cregx our winner](http://twitter.com/search?q=yemi+cregx+our+winner) | N/A |
 | 31 | [Our Strength](http://twitter.com/search?q=Our+Strength) | N/A |
 | 32 | [our purpose](http://twitter.com/search?q=our+purpose) | N/A |
 | 33 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 34 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 35 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 36 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
-| 37 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 38 | [Kwasia](http://twitter.com/search?q=Kwasia) | N/A |
-| 39 | [Jollof](http://twitter.com/search?q=Jollof) | N/A |
-| 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [sheggz is goated](http://twitter.com/search?q=sheggz+is+goated) | N/A |
-| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 43 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 47 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
-| 48 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 49 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 50 | [Butcher](http://twitter.com/search?q=Butcher) | N/A |
+| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 35 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 36 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 37 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 38 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 39 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 40 | [Kwasia](http://twitter.com/search?q=Kwasia) | N/A |
+| 41 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 42 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
+| 43 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 44 | [sheggz is goated](http://twitter.com/search?q=sheggz+is+goated) | N/A |
+| 45 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 46 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 47 | [Jollof](http://twitter.com/search?q=Jollof) | N/A |
+| 48 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 50 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 
 
 

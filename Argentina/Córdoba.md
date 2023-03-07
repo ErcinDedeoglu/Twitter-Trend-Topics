@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-07 14:17:19 UTC`
+📆 Last Updated: `2023-03-07 15:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 2 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 3 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 4 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 2 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 3 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 4 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
 | 5 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 6 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 6 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 7 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 8 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 9 | [#PepinProfugoVIP](http://twitter.com/search?q=%23PepinProfugoVIP) | N/A |
-| 10 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 11 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
-| 12 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 13 | [#DiaDelHinchaDeRacing](http://twitter.com/search?q=%23DiaDelHinchaDeRacing) | N/A |
-| 14 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 15 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 16 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 17 | [Lucila al 9009](http://twitter.com/search?q=Lucila+al+9009) | N/A |
-| 18 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 19 | [Defensa](http://twitter.com/search?q=Defensa) | N/A |
-| 20 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 21 | [Día de la Visibilidad Lésbica](http://twitter.com/search?q=D%c3%ada+de+la+Visibilidad+L%c3%a9sbica) | N/A |
-| 22 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 23 | [Ramón Carrillo](http://twitter.com/search?q=Ram%c3%b3n+Carrillo) | N/A |
-| 24 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 25 | [Natalia "Pepa" Gaitán](http://twitter.com/search?q=Natalia+%22Pepa%22+Gait%c3%a1n) | N/A |
-| 26 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 27 | [Vazquez](http://twitter.com/search?q=Vazquez) | Vazquez is a Spanish surname. It is derived from the Latin name Vasco, which means "Basque". In English, it can be translated to mean "son of Basque". |
-| 28 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 29 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 30 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
-| 31 | [Negro Bulos](http://twitter.com/search?q=Negro+Bulos) | N/A |
-| 32 | [Mollo](http://twitter.com/search?q=Mollo) | N/A |
-| 33 | [El 7](http://twitter.com/search?q=El+7) | N/A |
-| 34 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 35 | [pongan tn](http://twitter.com/search?q=pongan+tn) | N/A |
-| 36 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
-| 37 | [mosquera](http://twitter.com/search?q=mosquera) | N/A |
-| 38 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
-| 39 | [Unsain](http://twitter.com/search?q=Unsain) | N/A |
+| 8 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 9 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 10 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 11 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 12 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 13 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 14 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 15 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 16 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 17 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 18 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 19 | [Día de la Visibilidad Lésbica](http://twitter.com/search?q=D%c3%ada+de+la+Visibilidad+L%c3%a9sbica) | N/A |
+| 20 | [Mollo](http://twitter.com/search?q=Mollo) | N/A |
+| 21 | [Defensa](http://twitter.com/search?q=Defensa) | N/A |
+| 22 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 23 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 24 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 25 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 26 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 27 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 28 | [mercado pago](http://twitter.com/search?q=mercado+pago) | N/A |
+| 29 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
+| 30 | [Vazquez](http://twitter.com/search?q=Vazquez) | Vazquez is a Spanish surname. It is derived from the Latin name Vasco, which means "Basque". In English, it can be translated to mean "son of Basque". |
+| 31 | [pongan tn](http://twitter.com/search?q=pongan+tn) | N/A |
+| 32 | [Pascual Lezcano](http://twitter.com/search?q=Pascual+Lezcano) | N/A |
+| 33 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 34 | [Negro Bulos](http://twitter.com/search?q=Negro+Bulos) | N/A |
+| 35 | [Hauche](http://twitter.com/search?q=Hauche) | N/A |
+| 36 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 37 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 38 | [Unsain](http://twitter.com/search?q=Unsain) | N/A |
+| 39 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
 | 40 | [Ulises Bueno](http://twitter.com/search?q=Ulises+Bueno) | N/A |
-| 41 | [Expoagro](http://twitter.com/search?q=Expoagro) | N/A |
-| 42 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 43 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 44 | [Dady](http://twitter.com/search?q=Dady) | N/A |
-| 45 | [GALVAN](http://twitter.com/search?q=GALVAN) | GALVAN is an acronym for "Grow And Live Vibrantly And Naturally". It is a lifestyle brand that promotes living a healthy and balanced life. The brand encourages people to take care of their physical, mental, and emotional health by eating nutritious foods, exercising regularly, and engaging in activities that bring joy. |
-| 46 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 41 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 42 | [Ramón Carrillo](http://twitter.com/search?q=Ram%c3%b3n+Carrillo) | N/A |
+| 43 | [Lucila](http://twitter.com/search?q=Lucila) | Lucila is a Spanish female name derived from the Latin name Lucius, which means “light”. In English, Lucila can be translated to mean “bringer of light”. |
+| 44 | [Natalia "Pepa" Gaitán](http://twitter.com/search?q=Natalia+%22Pepa%22+Gait%c3%a1n) | N/A |
+| 45 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
+| 46 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 47 | [Pagni](http://twitter.com/search?q=Pagni) | N/A |
-| 48 | [Narco](http://twitter.com/search?q=Narco) | N/A |
+| 48 | [Niki](http://twitter.com/search?q=Niki) | N/A |
 | 49 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 50 | [Beligoy](http://twitter.com/search?q=Beligoy) | N/A |
+| 50 | [Sub 20](http://twitter.com/search?q=Sub+20) | Sub 20 is a term used in sports to refer to a team or individual who has achieved a score of less than 20 points. It is often used to describe an impressive performance, as it indicates that the team or individual has achieved a very high level of success. |
 
 
 

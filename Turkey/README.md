@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-07 14:18:04 UTC`
+📆 Last Updated: `2023-03-07 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Turkey
 | ------- | ------------ | ------------ |
 | 1 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
 | 2 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 3 | [#yökaciklamabekliyoruz](http://twitter.com/search?q=%23y%c3%b6kaciklamabekliyoruz) | N/A |
-| 4 | [#AtamaYokÖzeristifa](http://twitter.com/search?q=%23AtamaYok%c3%96zeristifa) | #AtamaYokÖzeristifa is a hashtag used by Turkish protesters to express their dissatisfaction with the government's appointment of trustees to replace elected mayors in some cities. The phrase translates to "No Appointment, Resignation" in English. |
-| 5 | [#YenidenErdoganKazanacak](http://twitter.com/search?q=%23YenidenErdoganKazanacak) | N/A |
-| 6 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 7 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
-| 8 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 9 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
+| 3 | [#AreaStore](http://twitter.com/search?q=%23AreaStore) | N/A |
+| 4 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
+| 5 | [#AtamaYokÖzeristifa](http://twitter.com/search?q=%23AtamaYok%c3%96zeristifa) | #AtamaYokÖzeristifa is a hashtag used by Turkish protesters to express their dissatisfaction with the government's appointment of trustees to replace elected mayors in some cities. The phrase translates to "No Appointment, Resignation" in English. |
+| 6 | [#yökaciklamabekliyoruz](http://twitter.com/search?q=%23y%c3%b6kaciklamabekliyoruz) | N/A |
+| 7 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 8 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 9 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
 | 10 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
 | 11 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 12 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 13 | [P. Söz](http://twitter.com/search?q=P.+S%c3%b6z) | N/A |
-| 14 | [dayanışma ruhu](http://twitter.com/search?q=dayan%c4%b1%c5%9fma+ruhu) | N/A |
-| 15 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 16 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 17 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 18 | [TaşeronTorbada MutlakaOlmalı](http://twitter.com/search?q=Ta%c5%9feronTorbada+MutlakaOlmal%c4%b1) | N/A |
-| 19 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 12 | [Yolun](http://twitter.com/search?q=Yolun) | N/A |
+| 13 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 14 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 15 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
+| 16 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 17 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 18 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 19 | [Erciyes](http://twitter.com/search?q=Erciyes) | N/A |
 | 20 | [Sümeyye](http://twitter.com/search?q=S%c3%bcmeyye) | N/A |
-| 21 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 22 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 23 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
-| 24 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 25 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 26 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
-| 27 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 28 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 29 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
-| 30 | [Çetin Emeç](http://twitter.com/search?q=%c3%87etin+Eme%c3%a7) | N/A |
-| 31 | [kendinden](http://twitter.com/search?q=kendinden) | N/A |
-| 32 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
-| 33 | [Söyleyene](http://twitter.com/search?q=S%c3%b6yleyene) | N/A |
-| 34 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
-| 35 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
-| 36 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
-| 37 | [Dinime](http://twitter.com/search?q=Dinime) | N/A |
-| 38 | [Diyene](http://twitter.com/search?q=Diyene) | N/A |
-| 39 | [Üniversite](http://twitter.com/search?q=%c3%9cniversite) | N/A |
-| 40 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
-| 41 | [Ülker](http://twitter.com/search?q=%c3%9clker) | N/A |
-| 42 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 43 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
-| 44 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
-| 45 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 46 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
-| 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 48 | [#SeçimiŞoförYapacak](http://twitter.com/search?q=%23Se%c3%a7imi%c5%9eof%c3%b6rYapacak) | N/A |
-| 49 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
-| 50 | [#BursasporTürkiyedir](http://twitter.com/search?q=%23BursasporT%c3%bcrkiyedir) | N/A |
+| 21 | [P. Söz](http://twitter.com/search?q=P.+S%c3%b6z) | N/A |
+| 22 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
+| 23 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 24 | [YargıEnkazına GenelAf](http://twitter.com/search?q=Yarg%c4%b1Enkaz%c4%b1na+GenelAf) | N/A |
+| 25 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
+| 26 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 27 | [dayanışma ruhu](http://twitter.com/search?q=dayan%c4%b1%c5%9fma+ruhu) | N/A |
+| 28 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 29 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 30 | [TaşeronTorbada MutlakaOlmalı](http://twitter.com/search?q=Ta%c5%9feronTorbada+MutlakaOlmal%c4%b1) | N/A |
+| 31 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 32 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 33 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
+| 34 | [hulki](http://twitter.com/search?q=hulki) | N/A |
+| 35 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
+| 36 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
+| 37 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 38 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
+| 39 | [Söyleyene](http://twitter.com/search?q=S%c3%b6yleyene) | N/A |
+| 40 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
+| 41 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 42 | [Kişi](http://twitter.com/search?q=Ki%c5%9fi) | N/A |
+| 43 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 44 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
+| 45 | [Üniversite](http://twitter.com/search?q=%c3%9cniversite) | N/A |
+| 46 | [Dinime](http://twitter.com/search?q=Dinime) | N/A |
+| 47 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
+| 48 | [Diyene](http://twitter.com/search?q=Diyene) | N/A |
+| 49 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
+| 50 | [Kendinden](http://twitter.com/search?q=Kendinden) | N/A |
 
 
 

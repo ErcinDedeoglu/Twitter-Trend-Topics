@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-07 14:17:26 UTC`
+📆 Last Updated: `2023-03-07 15:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CacaoResuelto](http://twitter.com/search?q=%23CacaoResuelto) | N/A |
-| 2 | [#BoicotJuliaOtero](http://twitter.com/search?q=%23BoicotJuliaOtero) | N/A |
-| 3 | [#BizumGoloso](http://twitter.com/search?q=%23BizumGoloso) | N/A |
-| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [#APOYOROCIO7M](http://twitter.com/search?q=%23APOYOROCIO7M) | N/A |
-| 6 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 7 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
-| 8 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 9 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 10 | [pau gasol](http://twitter.com/search?q=pau+gasol) | N/A |
-| 11 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 12 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 13 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
-| 14 | [Día de la Mujer](http://twitter.com/search?q=D%c3%ada+de+la+Mujer) | N/A |
-| 15 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 16 | [Filix](http://twitter.com/search?q=Filix) | N/A |
-| 17 | [Bicimad](http://twitter.com/search?q=Bicimad) | N/A |
-| 18 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
-| 19 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
-| 20 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
-| 21 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 22 | [Indra](http://twitter.com/search?q=Indra) | N/A |
-| 23 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
-| 24 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
-| 25 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
-| 26 | [#YoMeRebelo7M](http://twitter.com/search?q=%23YoMeRebelo7M) | N/A |
-| 27 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 28 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
-| 29 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 30 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 31 | [#Mujeres](http://twitter.com/search?q=%23Mujeres) | N/A |
-| 32 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 33 | [#HIP2023](http://twitter.com/search?q=%23HIP2023) | N/A |
-| 34 | [#YoConIreneMontero](http://twitter.com/search?q=%23YoConIreneMontero) | N/A |
-| 35 | [#SoloSiesSi](http://twitter.com/search?q=%23SoloSiesSi) | N/A |
-| 36 | [#losplanessalenbien](http://twitter.com/search?q=%23losplanessalenbien) | N/A |
-| 37 | [#Gasol16](http://twitter.com/search?q=%23Gasol16) | N/A |
-| 38 | [#transporte](http://twitter.com/search?q=%23transporte) | N/A |
-| 39 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 1 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 2 | [#CacaoResuelto](http://twitter.com/search?q=%23CacaoResuelto) | N/A |
+| 3 | [#BoicotJuliaOtero](http://twitter.com/search?q=%23BoicotJuliaOtero) | N/A |
+| 4 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 5 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 7 | [#APOYOROCIO7M](http://twitter.com/search?q=%23APOYOROCIO7M) | N/A |
+| 8 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 9 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 10 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 11 | [Henry Cavill](http://twitter.com/search?q=Henry+Cavill) | Henry Cavill is an English actor best known for his role as Superman in the DC Extended Universe films. He has also starred in films such as The Man from U.N.C.L.E., Mission: Impossible – Fallout, and Justice League. |
+| 12 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 13 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 16 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 17 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
+| 18 | [Filix](http://twitter.com/search?q=Filix) | N/A |
+| 19 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 20 | [Atocha](http://twitter.com/search?q=Atocha) | N/A |
+| 21 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 22 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 23 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 24 | [DEBEN SABER](http://twitter.com/search?q=DEBEN+SABER) | N/A |
+| 25 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 27 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
+| 28 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 29 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 30 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 31 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
+| 32 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
+| 33 | [#BizumGoloso](http://twitter.com/search?q=%23BizumGoloso) | N/A |
+| 34 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 35 | [#YoMeRebelo7M](http://twitter.com/search?q=%23YoMeRebelo7M) | N/A |
+| 36 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
+| 37 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
+| 38 | [#YoConIreneMontero](http://twitter.com/search?q=%23YoConIreneMontero) | N/A |
+| 39 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 40 | [#HIP2023](http://twitter.com/search?q=%23HIP2023) | N/A |
+| 41 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 42 | [#solosiessi](http://twitter.com/search?q=%23solosiessi) | N/A |
+| 43 | [#LosPlanesSalenBien](http://twitter.com/search?q=%23LosPlanesSalenBien) | N/A |
+| 44 | [#transporte](http://twitter.com/search?q=%23transporte) | N/A |
 
 
 

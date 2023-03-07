@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-07 14:17:36 UTC`
+📆 Last Updated: `2023-03-07 15:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 2 | [#HuobiWomensDay](http://twitter.com/search?q=%23HuobiWomensDay) | N/A |
-| 3 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
-| 4 | [#GalaPremiereหุ่นพยนต์](http://twitter.com/search?q=%23GalaPremiere%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
-| 5 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
-| 6 | [#100kforbuildfam](http://twitter.com/search?q=%23100kforbuildfam) | N/A |
-| 7 | [thanks for luving build](http://twitter.com/search?q=thanks+for+luving+build) | N/A |
-| 8 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
-| 9 | [Peer](http://twitter.com/search?q=Peer) | N/A |
-| 10 | [soloist jisoo](http://twitter.com/search?q=soloist+jisoo) | N/A |
-| 11 | [Best User](http://twitter.com/search?q=Best+User) | N/A |
-| 12 | [Cross-chain DEX](http://twitter.com/search?q=Cross-chain+DEX) | N/A |
-| 13 | [Multiple Bridge and DEX](http://twitter.com/search?q=Multiple+Bridge+and+DEX) | N/A |
-| 14 | [The Oyabun](http://twitter.com/search?q=The+Oyabun) | N/A |
-| 15 | [Join the ZKX Crew3 Quests](http://twitter.com/search?q=Join+the+ZKX+Crew3+Quests) | N/A |
-| 16 | [Scroll](http://twitter.com/search?q=Scroll) | N/A |
-| 17 | [Seop](http://twitter.com/search?q=Seop) | N/A |
+| 1 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 2 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 3 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 4 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 5 | [#HuobiWomensDay](http://twitter.com/search?q=%23HuobiWomensDay) | N/A |
+| 6 | [smiles for build](http://twitter.com/search?q=smiles+for+build) | N/A |
+| 7 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
+| 8 | [thanks for luving build](http://twitter.com/search?q=thanks+for+luving+build) | N/A |
+| 9 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
+| 10 | [Peer](http://twitter.com/search?q=Peer) | N/A |
+| 11 | [soloist jisoo](http://twitter.com/search?q=soloist+jisoo) | N/A |
+| 12 | [Best User](http://twitter.com/search?q=Best+User) | N/A |
+| 13 | [Cross-chain DEX](http://twitter.com/search?q=Cross-chain+DEX) | N/A |
+| 14 | [Multiple Bridge and DEX](http://twitter.com/search?q=Multiple+Bridge+and+DEX) | N/A |
+| 15 | [The Oyabun](http://twitter.com/search?q=The+Oyabun) | N/A |
+| 16 | [join the zkx crew3 quests](http://twitter.com/search?q=join+the+zkx+crew3+quests) | N/A |
+| 17 | [Scroll](http://twitter.com/search?q=Scroll) | N/A |
 | 18 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 19 | [love baby build](http://twitter.com/search?q=love+baby+build) | N/A |
-| 20 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 21 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 22 | [biu fam](http://twitter.com/search?q=biu+fam) | N/A |
+| 20 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 21 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 22 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
 | 23 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 24 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 24 | [Biu Fam](http://twitter.com/search?q=Biu+Fam) | N/A |
 | 25 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
-| 26 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
-| 27 | [Haechan](http://twitter.com/search?q=Haechan) | N/A |
-| 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 29 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 32 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 33 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 34 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 35 | [chơi](http://twitter.com/search?q=ch%c6%a1i) | N/A |
-| 36 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 37 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 38 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 39 | [Hong Hai](http://twitter.com/search?q=Hong+Hai) | N/A |
-| 40 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 41 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 42 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 43 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 44 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 26 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 27 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
+| 28 | [Haechan](http://twitter.com/search?q=Haechan) | N/A |
+| 29 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 30 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 33 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 34 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 35 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 37 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 38 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
+| 39 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 40 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 41 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 42 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 43 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [Dump](http://twitter.com/search?q=Dump) | N/A |
+| 46 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 47 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 48 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 50 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [Melon 1h ULs](http://twitter.com/search?q=Melon+1h+ULs) | N/A |
+| 50 | [joong](http://twitter.com/search?q=joong) | N/A |
 
 
 

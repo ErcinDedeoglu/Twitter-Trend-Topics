@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-07 14:18:04 UTC`
+📆 Last Updated: `2023-03-07 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Venezuela
 | ------- | ------------ | ------------ |
 | 1 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 2 | [#7Mar](http://twitter.com/search?q=%237Mar) | N/A |
-| 3 | [#ChávezEternoAmigo](http://twitter.com/search?q=%23Ch%c3%a1vezEternoAmigo) | N/A |
-| 4 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 5 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 6 | [#YoSoyFANB](http://twitter.com/search?q=%23YoSoyFANB) | N/A |
-| 7 | [#GNBLealtadAbsoluta](http://twitter.com/search?q=%23GNBLealtadAbsoluta) | N/A |
-| 8 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 9 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 10 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
-| 11 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 12 | [Alejandro Otero](http://twitter.com/search?q=Alejandro+Otero) | N/A |
-| 13 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 14 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 15 | [FutVe](http://twitter.com/search?q=FutVe) | N/A |
-| 16 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 17 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 18 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 19 | [Juana Bolívar Palacios](http://twitter.com/search?q=Juana+Bol%c3%advar+Palacios) | N/A |
-| 20 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 3 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 4 | [#ChávezEternoAmigo](http://twitter.com/search?q=%23Ch%c3%a1vezEternoAmigo) | N/A |
+| 5 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 6 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 7 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 8 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 9 | [#YoSoyFANB](http://twitter.com/search?q=%23YoSoyFANB) | N/A |
+| 10 | [#GNBLealtadAbsoluta](http://twitter.com/search?q=%23GNBLealtadAbsoluta) | N/A |
+| 11 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 12 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 13 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 14 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
+| 15 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 16 | [FutVe](http://twitter.com/search?q=FutVe) | N/A |
+| 17 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 18 | [Alejandro Otero](http://twitter.com/search?q=Alejandro+Otero) | N/A |
+| 19 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 20 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
 | 21 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 22 | [Jesús Soto](http://twitter.com/search?q=Jes%c3%bas+Soto) | N/A |
-| 23 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 24 | [El Coronel](http://twitter.com/search?q=El+Coronel) | N/A |
+| 22 | [El Coronel](http://twitter.com/search?q=El+Coronel) | N/A |
+| 23 | [Juana Bolívar Palacios](http://twitter.com/search?q=Juana+Bol%c3%advar+Palacios) | N/A |
+| 24 | [Chita](http://twitter.com/search?q=Chita) | N/A |
 | 25 | [Los Naranjos](http://twitter.com/search?q=Los+Naranjos) | N/A |
-| 26 | [Cien](http://twitter.com/search?q=Cien) | N/A |
-| 27 | [Hace 4](http://twitter.com/search?q=Hace+4) | N/A |
-| 28 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 29 | [el manteco](http://twitter.com/search?q=el+manteco) | N/A |
-| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 31 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 32 | [Polvo del Sahara](http://twitter.com/search?q=Polvo+del+Sahara) | N/A |
-| 33 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 34 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 35 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 36 | [premio nobel de literatura](http://twitter.com/search?q=premio+nobel+de+literatura) | N/A |
-| 37 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 38 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 39 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 40 | [Fina Rojas](http://twitter.com/search?q=Fina+Rojas) | N/A |
-| 41 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 42 | [El General](http://twitter.com/search?q=El+General) | N/A |
-| 43 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 44 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 45 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
-| 46 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 47 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
-| 48 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 49 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 50 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
+| 26 | [Jesús Soto](http://twitter.com/search?q=Jes%c3%bas+Soto) | N/A |
+| 27 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 28 | [Cien](http://twitter.com/search?q=Cien) | N/A |
+| 29 | [Polvo del Sahara](http://twitter.com/search?q=Polvo+del+Sahara) | N/A |
+| 30 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 31 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 32 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 33 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 34 | [Hace 4](http://twitter.com/search?q=Hace+4) | N/A |
+| 35 | [El Manteco](http://twitter.com/search?q=El+Manteco) | N/A |
+| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 37 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 38 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 39 | [Crónica](http://twitter.com/search?q=Cr%c3%b3nica) | N/A |
+| 40 | [13-hígado](http://twitter.com/search?q=13-h%c3%adgado) | N/A |
+| 41 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 42 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 43 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 44 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 45 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 46 | [El General](http://twitter.com/search?q=El+General) | N/A |
+| 47 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 48 | [Fina Rojas](http://twitter.com/search?q=Fina+Rojas) | N/A |
+| 49 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
+| 50 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
 
 
 
