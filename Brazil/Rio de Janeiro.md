@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-07 13:21:45 UTC`
+📆 Last Updated: `2023-03-07 14:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 2 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 3 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 4 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 5 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 1 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 2 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 3 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 4 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 5 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
 | 6 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 7 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 8 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
-| 9 | [leo stronda](http://twitter.com/search?q=leo+stronda) | N/A |
-| 10 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 11 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 12 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 13 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
-| 14 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 15 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 16 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 17 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 18 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
-| 19 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 20 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 21 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 22 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 23 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 24 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 25 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
-| 26 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 27 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
-| 28 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 29 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
-| 30 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 31 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
-| 32 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 33 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 34 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 35 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 36 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
-| 37 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
-| 38 | [JÓIA](http://twitter.com/search?q=J%c3%93IA) | N/A |
-| 39 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 40 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 41 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
-| 42 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
-| 43 | [Árabes](http://twitter.com/search?q=%c3%81rabes) | N/A |
-| 44 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 45 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 46 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 47 | [xande](http://twitter.com/search?q=xande) | N/A |
-| 48 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 49 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
-| 50 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 7 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 8 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 9 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 10 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
+| 11 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 12 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 13 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 14 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 15 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 16 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 17 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
+| 18 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 19 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 20 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
+| 21 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 22 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 23 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
+| 24 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 25 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
+| 26 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 27 | [dia internacional da mulher](http://twitter.com/search?q=dia+internacional+da+mulher) | N/A |
+| 28 | [jojo toddynho](http://twitter.com/search?q=jojo+toddynho) | N/A |
+| 29 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 30 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 31 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
+| 32 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 33 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 34 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 35 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
+| 36 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 37 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
+| 38 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 40 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 41 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
+| 42 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
+| 43 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 44 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 45 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 46 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 47 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 48 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
+| 49 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 50 | [Artur](http://twitter.com/search?q=Artur) | N/A |
 
 
 

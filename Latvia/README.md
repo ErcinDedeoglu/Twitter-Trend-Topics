@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-07 13:22:28 UTC`
+📆 Last Updated: `2023-03-07 14:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Latvia
 | 1 | [slava ukrainai](http://twitter.com/search?q=slava+ukrainai) | N/A |
 | 2 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 3 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 4 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
-| 5 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
-| 6 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
+| 4 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
+| 5 | [Puškina](http://twitter.com/search?q=Pu%c5%a1kina) | N/A |
+| 6 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
 | 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 8 | [gribu](http://twitter.com/search?q=gribu) | N/A |
 | 9 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
-| 10 | [upīti](http://twitter.com/search?q=up%c4%abti) | N/A |
-| 11 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 10 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 11 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
 | 12 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
 | 13 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
 | 14 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
-| 15 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 16 | [vāciju](http://twitter.com/search?q=v%c4%81ciju) | N/A |
-| 17 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
-| 18 | [#xrpnft](http://twitter.com/search?q=%23xrpnft) | N/A |
-| 19 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
-| 20 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 21 | [rainis](http://twitter.com/search?q=rainis) | N/A |
-| 22 | [sakses](http://twitter.com/search?q=sakses) | N/A |
-| 23 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
-| 24 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
-| 25 | [Ulmaņa](http://twitter.com/search?q=Ulma%c5%86a) | N/A |
-| 26 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 28 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 29 | [tevis](http://twitter.com/search?q=tevis) | N/A |
-| 30 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 31 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
-| 32 | [Upīša](http://twitter.com/search?q=Up%c4%ab%c5%a1a) | N/A |
-| 33 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 34 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 35 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 36 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 37 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 40 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 41 | [Varu](http://twitter.com/search?q=Varu) | N/A |
-| 42 | [krievija](http://twitter.com/search?q=krievija) | N/A |
-| 43 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 44 | [Padomju](http://twitter.com/search?q=Padomju) | N/A |
-| 45 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 46 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 47 | [tomēr](http://twitter.com/search?q=tom%c4%93r) | N/A |
-| 48 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 50 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 15 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
+| 16 | [Upīti](http://twitter.com/search?q=Up%c4%abti) | N/A |
+| 17 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 18 | [vāciju](http://twitter.com/search?q=v%c4%81ciju) | N/A |
+| 19 | [Kādi](http://twitter.com/search?q=K%c4%81di) | N/A |
+| 20 | [#xrpnft](http://twitter.com/search?q=%23xrpnft) | N/A |
+| 21 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 22 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
+| 23 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 24 | [sakses](http://twitter.com/search?q=sakses) | N/A |
+| 25 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 26 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
+| 27 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | N/A |
+| 28 | [Rainis](http://twitter.com/search?q=Rainis) | N/A |
+| 29 | [Ulmaņa](http://twitter.com/search?q=Ulma%c5%86a) | N/A |
+| 30 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 31 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 32 | [tevis](http://twitter.com/search?q=tevis) | N/A |
+| 33 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 34 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 35 | [atceros](http://twitter.com/search?q=atceros) | N/A |
+| 36 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 38 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 39 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 42 | [Upīša](http://twitter.com/search?q=Up%c4%ab%c5%a1a) | N/A |
+| 43 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 44 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 45 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 47 | [Padomju](http://twitter.com/search?q=Padomju) | N/A |
+| 48 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 49 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 50 | [Šoreiz](http://twitter.com/search?q=%c5%a0oreiz) | N/A |
 
 
 

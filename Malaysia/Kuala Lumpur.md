@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-07 13:22:02 UTC`
+📆 Last Updated: `2023-03-07 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 2 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 2 | [#BabyBrightxZeeNuNew](http://twitter.com/search?q=%23BabyBrightxZeeNuNew) | N/A |
 | 3 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 4 | [#BabyBrightxZeeNuNew](http://twitter.com/search?q=%23BabyBrightxZeeNuNew) | N/A |
-| 5 | [#VichyRetinolxFourth](http://twitter.com/search?q=%23VichyRetinolxFourth) | N/A |
+| 4 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 5 | [#vichyretinolxfourth](http://twitter.com/search?q=%23vichyretinolxfourth) | N/A |
 | 6 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
 | 7 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
 | 8 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 9 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 10 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 9 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 10 | [#SabronzoBday28](http://twitter.com/search?q=%23SabronzoBday28) | N/A |
 | 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 13 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 14 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 15 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 16 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
-| 17 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 18 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 20 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 21 | [BAEK YERIN](http://twitter.com/search?q=BAEK+YERIN) | N/A |
-| 22 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 26 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 27 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 28 | [knights of cydonia](http://twitter.com/search?q=knights+of+cydonia) | N/A |
-| 29 | [Olivia Rodrigo](http://twitter.com/search?q=Olivia+Rodrigo) | N/A |
-| 30 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
-| 31 | [shawn mendes](http://twitter.com/search?q=shawn+mendes) | Shawn Mendes is a Canadian singer and songwriter. He is best known for his hit singles "Stitches", "Treat You Better", and "In My Blood". He has released three studio albums, Handwritten (2015), Illuminate (2016), and Shawn Mendes (2018). His music has been described as pop, pop rock, and folk-pop. |
+| 12 | [romansik day with you](http://twitter.com/search?q=romansik+day+with+you) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
+| 15 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 16 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 17 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
+| 18 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 19 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 20 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 21 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 22 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 23 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 24 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 25 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 26 | [knights of cydonia](http://twitter.com/search?q=knights+of+cydonia) | N/A |
+| 27 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
+| 28 | [shawn mendes](http://twitter.com/search?q=shawn+mendes) | Shawn Mendes is a Canadian singer and songwriter. He is best known for his hit singles "Stitches", "Treat You Better", and "In My Blood". He has released three studio albums, Handwritten (2015), Illuminate (2016), and Shawn Mendes (2018). His music has been described as pop, pop rock, and folk-pop. |
+| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 30 | [baek yerin](http://twitter.com/search?q=baek+yerin) | N/A |
+| 31 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |
 | 32 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
 | 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 34 | [Becky](http://twitter.com/search?q=Becky) | N/A |
 | 35 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
-| 36 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 37 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
-| 38 | [Minhee](http://twitter.com/search?q=Minhee) | N/A |
-| 39 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 40 | [ONE OK ROCK](http://twitter.com/search?q=ONE+OK+ROCK) | N/A |
-| 41 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 42 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 43 | [porter robinson](http://twitter.com/search?q=porter+robinson) | N/A |
-| 44 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 45 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 46 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 36 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 38 | [One Ok Rock](http://twitter.com/search?q=One+Ok+Rock) | N/A |
+| 39 | [Jinjin](http://twitter.com/search?q=Jinjin) | N/A |
+| 40 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 41 | [minhee](http://twitter.com/search?q=minhee) | N/A |
+| 42 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 43 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 44 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 45 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 46 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
 | 47 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 48 | [yoon jeonghan](http://twitter.com/search?q=yoon+jeonghan) | N/A |
-| 49 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 50 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
+| 48 | [HCWs](http://twitter.com/search?q=HCWs) | N/A |
+| 49 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 50 | [Niki](http://twitter.com/search?q=Niki) | N/A |
 
 
 

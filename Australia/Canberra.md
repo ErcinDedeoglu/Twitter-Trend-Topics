@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-07 13:21:57 UTC`
+📆 Last Updated: `2023-03-07 14:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 3 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 4 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 5 | [#DontDiscountABC](http://twitter.com/search?q=%23DontDiscountABC) | N/A |
-| 6 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
+| 5 | [#AFCU20](http://twitter.com/search?q=%23AFCU20) | N/A |
+| 6 | [#DontDiscountABC](http://twitter.com/search?q=%23DontDiscountABC) | N/A |
 | 7 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 11 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 12 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 13 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 14 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [melinda](http://twitter.com/search?q=melinda) | N/A |
+| 12 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 13 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 14 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
 | 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 16 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 17 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
+| 16 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 17 | [lisa millar](http://twitter.com/search?q=lisa+millar) | N/A |
 | 18 | [Perth Mint](http://twitter.com/search?q=Perth+Mint) | N/A |
-| 19 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 20 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 22 | [Tina Turner](http://twitter.com/search?q=Tina+Turner) | N/A |
 | 23 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
 | 24 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
 | 25 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
 | 26 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 27 | [Greggery](http://twitter.com/search?q=Greggery) | N/A |
-| 28 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
-| 29 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 30 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 31 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 32 | [Bree](http://twitter.com/search?q=Bree) | N/A |
-| 33 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 34 | [icac](http://twitter.com/search?q=icac) | N/A |
-| 35 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 28 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 29 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 30 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 31 | [Young Socceroos](http://twitter.com/search?q=Young+Socceroos) | N/A |
+| 32 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
+| 33 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 34 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 35 | [icac](http://twitter.com/search?q=icac) | N/A |
 | 36 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 37 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 38 | [Peter Hartcher](http://twitter.com/search?q=Peter+Hartcher) | N/A |
-| 39 | [John Barilaro](http://twitter.com/search?q=John+Barilaro) | N/A |
-| 40 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 41 | [Paul Keating](http://twitter.com/search?q=Paul+Keating) | N/A |
-| 42 | [North Richmond](http://twitter.com/search?q=North+Richmond) | N/A |
-| 43 | [deborah harry](http://twitter.com/search?q=deborah+harry) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [Carly Rae Jepsen](http://twitter.com/search?q=Carly+Rae+Jepsen) | N/A |
+| 37 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 40 | [Peter Hartcher](http://twitter.com/search?q=Peter+Hartcher) | N/A |
+| 41 | [philip lowe](http://twitter.com/search?q=philip+lowe) | N/A |
+| 42 | [John Barilaro](http://twitter.com/search?q=John+Barilaro) | N/A |
+| 43 | [Paul Keating](http://twitter.com/search?q=Paul+Keating) | N/A |
+| 44 | [north richmond](http://twitter.com/search?q=north+richmond) | N/A |
+| 45 | [carly rae jepsen](http://twitter.com/search?q=carly+rae+jepsen) | N/A |
 | 46 | [The Board](http://twitter.com/search?q=The+Board) | N/A |
 | 47 | [Wade Graham](http://twitter.com/search?q=Wade+Graham) | N/A |
 | 48 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 49 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 50 | [RED ALERT](http://twitter.com/search?q=RED+ALERT) | N/A |
+| 49 | [Red Alert](http://twitter.com/search?q=Red+Alert) | N/A |
+| 50 | [deborah harry](http://twitter.com/search?q=deborah+harry) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-03-07 13:21:39 UTC`
+📆 Last Updated: `2023-03-07 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 3 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
+| 2 | [#TheTristeKorno](http://twitter.com/search?q=%23TheTristeKorno) | N/A |
+| 3 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
 | 4 | [#JuegoMañanero](http://twitter.com/search?q=%23JuegoMa%c3%b1anero) | N/A |
 | 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 6 | [matamoros](http://twitter.com/search?q=matamoros) | N/A |
 | 7 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
 | 8 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 9 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 10 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 11 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 9 | [movimiento ciudadano](http://twitter.com/search?q=movimiento+ciudadano) | N/A |
+| 10 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 11 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
 | 12 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
 | 13 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
 | 14 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
 | 15 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 16 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 17 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 18 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 19 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 20 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
-| 21 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 22 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
+| 16 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 17 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
+| 18 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 19 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 20 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 21 | [última cita world tour](http://twitter.com/search?q=%c3%baltima+cita+world+tour) | N/A |
+| 22 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
 | 23 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
 | 24 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 25 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 26 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 27 | [CHRISTMAS LOVE IS COMING](http://twitter.com/search?q=CHRISTMAS+LOVE+IS+COMING) | N/A |
+| 25 | [christmas love is coming](http://twitter.com/search?q=christmas+love+is+coming) | N/A |
+| 26 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 27 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
 | 28 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 29 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 30 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 31 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
-| 32 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 33 | [started cwt](http://twitter.com/search?q=started+cwt) | N/A |
-| 34 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 35 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
-| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 37 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 38 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 39 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 40 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
-| 41 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 42 | [mallor](http://twitter.com/search?q=mallor) | N/A |
-| 43 | [Mar Castro](http://twitter.com/search?q=Mar+Castro) | N/A |
-| 44 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 45 | [Asier](http://twitter.com/search?q=Asier) | N/A |
-| 46 | [chessman](http://twitter.com/search?q=chessman) | N/A |
-| 47 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 48 | [MILLION DOUBLE GOLDEN](http://twitter.com/search?q=MILLION+DOUBLE+GOLDEN) | N/A |
-| 49 | [SOBERANÍA](http://twitter.com/search?q=SOBERAN%c3%8dA) | N/A |
+| 29 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
+| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 31 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 32 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 33 | [Martes 7](http://twitter.com/search?q=Martes+7) | N/A |
+| 34 | [started cwt](http://twitter.com/search?q=started+cwt) | N/A |
+| 35 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 36 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
+| 37 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 38 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 39 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 40 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
+| 41 | [mallor](http://twitter.com/search?q=mallor) | N/A |
+| 42 | [Mar Castro](http://twitter.com/search?q=Mar+Castro) | N/A |
+| 43 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 44 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 45 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
+| 46 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
+| 47 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 48 | [million double golden](http://twitter.com/search?q=million+double+golden) | N/A |
+| 49 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
 
 
 

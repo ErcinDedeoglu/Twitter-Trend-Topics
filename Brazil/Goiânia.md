@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-07 13:21:46 UTC`
+📆 Last Updated: `2023-03-07 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 2 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 3 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 4 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
-| 5 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 6 | [leo stronda](http://twitter.com/search?q=leo+stronda) | N/A |
-| 7 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
-| 8 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
-| 9 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
-| 10 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
-| 11 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 12 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 13 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 14 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 15 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
-| 16 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 17 | [Jojo Toddynho](http://twitter.com/search?q=Jojo+Toddynho) | N/A |
-| 18 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 19 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 20 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 21 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 22 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 23 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
-| 24 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 25 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 26 | [Urubu](http://twitter.com/search?q=Urubu) | N/A |
-| 27 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
-| 28 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 29 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
-| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 31 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 32 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 33 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 34 | [#FicaSarah](http://twitter.com/search?q=%23FicaSarah) | N/A |
-| 35 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
-| 36 | [JÓIA](http://twitter.com/search?q=J%c3%93IA) | N/A |
-| 37 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
-| 38 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 39 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 40 | [Corrupção](http://twitter.com/search?q=Corrup%c3%a7%c3%a3o) | N/A |
-| 41 | [Atibaia](http://twitter.com/search?q=Atibaia) | N/A |
-| 42 | [Árabes](http://twitter.com/search?q=%c3%81rabes) | N/A |
-| 43 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 44 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 46 | [xande](http://twitter.com/search?q=xande) | N/A |
-| 47 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 48 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
-| 49 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 50 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 3 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 4 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 5 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
+| 6 | [Ninho](http://twitter.com/search?q=Ninho) | N/A |
+| 7 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 8 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 9 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
+| 10 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 11 | [Johnny Bravo](http://twitter.com/search?q=Johnny+Bravo) | N/A |
+| 12 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 13 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 14 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 15 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 16 | [Leo Stronda](http://twitter.com/search?q=Leo+Stronda) | N/A |
+| 17 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
+| 18 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 19 | [Vampeta](http://twitter.com/search?q=Vampeta) | N/A |
+| 20 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 21 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 22 | [Dia 7](http://twitter.com/search?q=Dia+7) | N/A |
+| 23 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 24 | [Dona Wilma](http://twitter.com/search?q=Dona+Wilma) | N/A |
+| 25 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 26 | [dia internacional da mulher](http://twitter.com/search?q=dia+internacional+da+mulher) | N/A |
+| 27 | [jojo toddynho](http://twitter.com/search?q=jojo+toddynho) | N/A |
+| 28 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 29 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 30 | [Fernando de Noronha](http://twitter.com/search?q=Fernando+de+Noronha) | N/A |
+| 31 | [Bento Albuquerque](http://twitter.com/search?q=Bento+Albuquerque) | N/A |
+| 32 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 33 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 34 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 35 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 36 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
+| 37 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 39 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 40 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
+| 41 | [Matemática](http://twitter.com/search?q=Matem%c3%a1tica) | N/A |
+| 42 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 43 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 44 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 45 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 46 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 47 | [Centrão](http://twitter.com/search?q=Centr%c3%a3o) | N/A |
+| 48 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 49 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 50 | [JÓIA](http://twitter.com/search?q=J%c3%93IA) | N/A |
 
 
 

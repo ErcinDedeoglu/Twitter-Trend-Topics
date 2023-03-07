@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-03-07 13:21:53 UTC`
+📆 Last Updated: `2023-03-07 14:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,45 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 2 | [#LaIslaDeLasTentaciones7](http://twitter.com/search?q=%23LaIslaDeLasTentaciones7) | N/A |
-| 3 | [#PcAniversario](http://twitter.com/search?q=%23PcAniversario) | N/A |
-| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 7 | [Bernarda Alba](http://twitter.com/search?q=Bernarda+Alba) | N/A |
-| 8 | [#conquis8ETB](http://twitter.com/search?q=%23conquis8ETB) | N/A |
-| 9 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 10 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 11 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 12 | [Flos Mariae](http://twitter.com/search?q=Flos+Mariae) | N/A |
-| 13 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 14 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
-| 15 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 17 | [David](http://twitter.com/search?q=David) | N/A |
-| 18 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
-| 19 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 20 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 21 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 22 | [Pedro Antonio Sánchez](http://twitter.com/search?q=Pedro+Antonio+S%c3%a1nchez) | N/A |
-| 23 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 24 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 25 | [Lorca](http://twitter.com/search?q=Lorca) | N/A |
-| 26 | [ruibal](http://twitter.com/search?q=ruibal) | N/A |
-| 27 | [Salvador García-Bodaño](http://twitter.com/search?q=Salvador+Garc%c3%ada-Boda%c3%b1o) | N/A |
-| 28 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 29 | [YHLQMDLG](http://twitter.com/search?q=YHLQMDLG) | N/A |
-| 30 | [Filix](http://twitter.com/search?q=Filix) | N/A |
-| 31 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
-| 32 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 33 | [chimy](http://twitter.com/search?q=chimy) | N/A |
-| 34 | [Rango 2](http://twitter.com/search?q=Rango+2) | N/A |
-| 35 | [Corredor Atlántico](http://twitter.com/search?q=Corredor+Atl%c3%a1ntico) | N/A |
-| 36 | [Futre](http://twitter.com/search?q=Futre) | N/A |
-| 37 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 38 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
-| 39 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 40 | [Arosa](http://twitter.com/search?q=Arosa) | N/A |
-| 41 | [LGTBI](http://twitter.com/search?q=LGTBI) | N/A |
-| 42 | [Iván Villar](http://twitter.com/search?q=Iv%c3%a1n+Villar) | N/A |
-| 43 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 44 | [García Castellón](http://twitter.com/search?q=Garc%c3%ada+Castell%c3%b3n) | N/A |
-| 45 | [PkHex](http://twitter.com/search?q=PkHex) | N/A |
-| 46 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
-| 47 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
+| 3 | [#CacaoResuelto](http://twitter.com/search?q=%23CacaoResuelto) | N/A |
+| 4 | [#BoicotJuliaOtero](http://twitter.com/search?q=%23BoicotJuliaOtero) | N/A |
+| 5 | [#BizumGoloso](http://twitter.com/search?q=%23BizumGoloso) | N/A |
+| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 7 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 8 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
+| 9 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 10 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
+| 11 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 12 | [pau gasol](http://twitter.com/search?q=pau+gasol) | N/A |
+| 13 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 14 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 15 | [Villar de Cañas](http://twitter.com/search?q=Villar+de+Ca%c3%b1as) | N/A |
+| 16 | [Día de la Mujer](http://twitter.com/search?q=D%c3%ada+de+la+Mujer) | N/A |
+| 17 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 18 | [Filix](http://twitter.com/search?q=Filix) | N/A |
+| 19 | [Bicimad](http://twitter.com/search?q=Bicimad) | N/A |
+| 20 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
+| 21 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
+| 22 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 23 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 24 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 25 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
+| 26 | [Satisfyer](http://twitter.com/search?q=Satisfyer) | N/A |
+| 27 | [Consejo de Ministros](http://twitter.com/search?q=Consejo+de+Ministros) | N/A |
+| 28 | [#APOYOROCIO7M](http://twitter.com/search?q=%23APOYOROCIO7M) | N/A |
+| 29 | [#YoMeRebelo7M](http://twitter.com/search?q=%23YoMeRebelo7M) | N/A |
+| 30 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 31 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
+| 32 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 33 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
+| 34 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 35 | [#HIP2023](http://twitter.com/search?q=%23HIP2023) | N/A |
+| 36 | [#YoConIreneMontero](http://twitter.com/search?q=%23YoConIreneMontero) | N/A |
+| 37 | [#SoloSiesSi](http://twitter.com/search?q=%23SoloSiesSi) | N/A |
+| 38 | [#losplanessalenbien](http://twitter.com/search?q=%23losplanessalenbien) | N/A |
+| 39 | [#Gasol16](http://twitter.com/search?q=%23Gasol16) | N/A |
+| 40 | [#transporte](http://twitter.com/search?q=%23transporte) | N/A |
+| 41 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
 
 
 
