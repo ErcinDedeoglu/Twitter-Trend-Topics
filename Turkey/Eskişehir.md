@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-07 06:18:27 UTC`
+📆 Last Updated: `2023-03-07 07:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KEMALKILIÇDAROĞLU](http://twitter.com/search?q=%23KEMALKILI%c3%87DARO%c4%9eLU) | N/A |
-| 2 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
-| 3 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 4 | [#seçilirse](http://twitter.com/search?q=%23se%c3%a7ilirse) | N/A |
-| 5 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
-| 6 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 7 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 8 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 9 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 10 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
-| 11 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
-| 12 | [namussuz siyaset](http://twitter.com/search?q=namussuz+siyaset) | N/A |
-| 13 | [HEPİNİZ YARGILANACAKSINIZ](http://twitter.com/search?q=HEP%c4%b0N%c4%b0Z+YARGILANACAKSINIZ) | N/A |
-| 14 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 15 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 16 | [enuygunfiyatlı tthizmeti](http://twitter.com/search?q=enuygunfiyatl%c4%b1+tthizmeti) | N/A |
-| 17 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 18 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
-| 19 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 20 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 21 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
-| 22 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
-| 23 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 24 | [HER ŞEY ÇOK GÜZEL OLACAK](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+G%c3%9cZEL+OLACAK) | N/A |
-| 25 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 26 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 27 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 28 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
-| 29 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 30 | [Temel Karamollaoğlu](http://twitter.com/search?q=Temel+Karamollao%c4%9flu) | N/A |
-| 31 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 32 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 33 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 34 | [Noter](http://twitter.com/search?q=Noter) | N/A |
-| 35 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
-| 36 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
-| 37 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 38 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
-| 39 | [Gazeteci](http://twitter.com/search?q=Gazeteci) | N/A |
-| 40 | [İbrahim Kutluay](http://twitter.com/search?q=%c4%b0brahim+Kutluay) | N/A |
-| 41 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 42 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
-| 43 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 44 | [Korku](http://twitter.com/search?q=Korku) | N/A |
-| 45 | [Birileri Var](http://twitter.com/search?q=Birileri+Var) | N/A |
-| 46 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
-| 47 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 48 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 49 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
-| 50 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
+| 1 | [ÇokUygunFiyatlı TTHizmeti](http://twitter.com/search?q=%c3%87okUygunFiyatl%c4%b1+TTHizmeti) | N/A |
+| 2 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 3 | [#seçilirse](http://twitter.com/search?q=%23se%c3%a7ilirse) | N/A |
+| 4 | [#StajÇıraklıkTorbaya](http://twitter.com/search?q=%23Staj%c3%87%c4%b1rakl%c4%b1kTorbaya) | N/A |
+| 5 | [Şebnem Ferah](http://twitter.com/search?q=%c5%9eebnem+Ferah) | N/A |
+| 6 | [HEPİNİZ YARGILANACAKSINIZ](http://twitter.com/search?q=HEP%c4%b0N%c4%b0Z+YARGILANACAKSINIZ) | N/A |
+| 7 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 8 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 9 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 10 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 11 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 12 | [Bülent Turan](http://twitter.com/search?q=B%c3%bclent+Turan) | N/A |
+| 13 | [Sarayda](http://twitter.com/search?q=Sarayda) | N/A |
+| 14 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 15 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
+| 16 | [Gazeteci](http://twitter.com/search?q=Gazeteci) | N/A |
+| 17 | [Ali İsmail Korkmaz](http://twitter.com/search?q=Ali+%c4%b0smail+Korkmaz) | Ali İsmail Korkmaz is the name of a 19-year-old Turkish student who was killed in 2013 during the Gezi Park protests in Istanbul. His death sparked outrage and led to further protests against the government. The name Ali İsmail Korkmaz translates to "Ali Ismail Fearless" in English. |
+| 18 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 19 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 20 | [Milli](http://twitter.com/search?q=Milli) | N/A |
+| 21 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 22 | [Pensilvanya](http://twitter.com/search?q=Pensilvanya) | N/A |
+| 23 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 24 | [Noter](http://twitter.com/search?q=Noter) | N/A |
+| 25 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
+| 26 | [Anketi](http://twitter.com/search?q=Anketi) | N/A |
+| 27 | [Sevda](http://twitter.com/search?q=Sevda) | N/A |
+| 28 | [Perinçek](http://twitter.com/search?q=Perin%c3%a7ek) | N/A |
+| 29 | [Topunuz](http://twitter.com/search?q=Topunuz) | N/A |
+| 30 | [#suLALEdevriBitiyor](http://twitter.com/search?q=%23suLALEdevriBitiyor) | N/A |
+| 31 | [#HalkınDediğiOlur](http://twitter.com/search?q=%23Halk%c4%b1nDedi%c4%9fiOlur) | N/A |
+| 32 | [#HepBirlikte](http://twitter.com/search?q=%23HepBirlikte) | N/A |
+| 33 | [#ÇetinEmeç](http://twitter.com/search?q=%23%c3%87etinEme%c3%a7) | N/A |
+| 34 | [#7Mart](http://twitter.com/search?q=%237Mart) | N/A |
+| 35 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
+| 36 | [#GidiyorsunCHP](http://twitter.com/search?q=%23GidiyorsunCHP) | N/A |
+| 37 | [#ÜlküsüzMeral](http://twitter.com/search?q=%23%c3%9clk%c3%bcs%c3%bczMeral) | N/A |
+| 38 | [#EYTiçinPROMOSYONUNenİyisi](http://twitter.com/search?q=%23EYTi%c3%a7inPROMOSYONUNen%c4%b0yisi) | N/A |
+| 39 | [#pgsus](http://twitter.com/search?q=%23pgsus) | N/A |
+| 40 | [#TeşekkürlerAkşener](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerAk%c5%9fener) | N/A |
+| 41 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
+| 42 | [#Halaİnce](http://twitter.com/search?q=%23Hala%c4%b0nce) | N/A |
+| 43 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 44 | [#herseycokguzelolacak](http://twitter.com/search?q=%23herseycokguzelolacak) | N/A |
+| 45 | [#ERDOĞANIDURDURAMAZSINIZ](http://twitter.com/search?q=%23ERDO%c4%9eANIDURDURAMAZSINIZ) | N/A |
+| 46 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
 
 
 

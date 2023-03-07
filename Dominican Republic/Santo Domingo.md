@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-07 06:17:52 UTC`
+📆 Last Updated: `2023-03-07 07:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,21 +23,21 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 6 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
 | 7 | [Lotería Nacional](http://twitter.com/search?q=Loter%c3%ada+Nacional) | N/A |
 | 8 | [césar valdez](http://twitter.com/search?q=c%c3%a9sar+valdez) | N/A |
-| 9 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 10 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 12 | [Orlando Jorge Mera](http://twitter.com/search?q=Orlando+Jorge+Mera) | N/A |
-| 13 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
-| 14 | [roberto fulcar](http://twitter.com/search?q=roberto+fulcar) | N/A |
-| 15 | [#1millondeamigosconabel](http://twitter.com/search?q=%231millondeamigosconabel) | N/A |
-| 16 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 17 | [Wilson Camacho](http://twitter.com/search?q=Wilson+Camacho) | N/A |
-| 18 | [Jeimer Candelario](http://twitter.com/search?q=Jeimer+Candelario) | N/A |
-| 19 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
-| 20 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
-| 21 | [Javier](http://twitter.com/search?q=Javier) | N/A |
-| 22 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 23 | [josé leclerc](http://twitter.com/search?q=jos%c3%a9+leclerc) | N/A |
+| 9 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 10 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 11 | [orlando jorge mera](http://twitter.com/search?q=orlando+jorge+mera) | N/A |
+| 12 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
+| 13 | [roberto fulcar](http://twitter.com/search?q=roberto+fulcar) | N/A |
+| 14 | [#1millondeamigosconabel](http://twitter.com/search?q=%231millondeamigosconabel) | N/A |
+| 15 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 16 | [Wilson Camacho](http://twitter.com/search?q=Wilson+Camacho) | N/A |
+| 17 | [Jeimer Candelario](http://twitter.com/search?q=Jeimer+Candelario) | N/A |
+| 18 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 19 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
+| 20 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 21 | [josé leclerc](http://twitter.com/search?q=jos%c3%a9+leclerc) | N/A |
+| 22 | [Javier](http://twitter.com/search?q=Javier) | N/A |
+| 23 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
 | 24 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
 | 25 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 26 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 29 | [dncd](http://twitter.com/search?q=dncd) | N/A |
 | 30 | [#sigmadr](http://twitter.com/search?q=%23sigmadr) | N/A |
 | 31 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 32 | [Cholitin](http://twitter.com/search?q=Cholitin) | N/A |
+| 32 | [cholitin](http://twitter.com/search?q=cholitin) | N/A |
 | 33 | [Valle Nuevo](http://twitter.com/search?q=Valle+Nuevo) | N/A |
 | 34 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
 | 35 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 43 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
 | 44 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 45 | [Thomas Bach](http://twitter.com/search?q=Thomas+Bach) | N/A |
+| 45 | [thomas bach](http://twitter.com/search?q=thomas+bach) | N/A |
 | 46 | [banco popular](http://twitter.com/search?q=banco+popular) | N/A |
 | 47 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 48 | [David Collado](http://twitter.com/search?q=David+Collado) | N/A |
+| 48 | [david collado](http://twitter.com/search?q=david+collado) | N/A |
 | 49 | [licey al medio](http://twitter.com/search?q=licey+al+medio) | N/A |
 | 50 | [caribe express](http://twitter.com/search?q=caribe+express) | N/A |
 

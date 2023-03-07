@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-07 06:17:54 UTC`
+📆 Last Updated: `2023-03-07 07:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Formula1WorksWhitNarcos](http://twitter.com/search?q=%23Formula1WorksWhitNarcos) | N/A |
-| 2 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 3 | [#PorLaVilla360](http://twitter.com/search?q=%23PorLaVilla360) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 6 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 7 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 8 | [MILLION DOUBLE GOLDEN](http://twitter.com/search?q=MILLION+DOUBLE+GOLDEN) | N/A |
-| 9 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 10 | [STARTED CWT](http://twitter.com/search?q=STARTED+CWT) | N/A |
-| 11 | [Mar Castro](http://twitter.com/search?q=Mar+Castro) | N/A |
-| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 13 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 14 | [Mario Aburto](http://twitter.com/search?q=Mario+Aburto) | N/A |
-| 15 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
-| 16 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 17 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 18 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 19 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 20 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 21 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [EXPLICA TU TWITTER](http://twitter.com/search?q=EXPLICA+TU+TWITTER) | N/A |
-| 24 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
-| 25 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 26 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 27 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 28 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 29 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 30 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
-| 31 | [Asier](http://twitter.com/search?q=Asier) | N/A |
-| 32 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
-| 33 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 34 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 35 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
-| 36 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 37 | [Robar](http://twitter.com/search?q=Robar) | N/A |
-| 38 | [#lamesareñoñaenvivo](http://twitter.com/search?q=%23lamesare%c3%b1o%c3%b1aenvivo) | N/A |
-| 39 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
-| 40 | [#진진_드림하이](http://twitter.com/search?q=%23%ec%a7%84%ec%a7%84_%eb%93%9c%eb%a6%bc%ed%95%98%ec%9d%b4) | N/A |
-| 41 | [#JINJIN](http://twitter.com/search?q=%23JINJIN) | N/A |
-| 42 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
-| 43 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
-| 44 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
-| 45 | [#CalderonSiSabia](http://twitter.com/search?q=%23CalderonSiSabia) | N/A |
-| 46 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 1 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
+| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#eliminacióncolosal](http://twitter.com/search?q=%23eliminaci%c3%b3ncolosal) | N/A |
+| 5 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 6 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 7 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
+| 8 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 9 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
+| 10 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 11 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 12 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 13 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 14 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 15 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
+| 16 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
+| 17 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 18 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
+| 19 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 20 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 21 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 22 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
+| 23 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 24 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 25 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 26 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 27 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 28 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 29 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
+| 30 | [Paris Hilton](http://twitter.com/search?q=Paris+Hilton) | N/A |
+| 31 | [PROMISE IS COMING](http://twitter.com/search?q=PROMISE+IS+COMING) | N/A |
+| 32 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 33 | [CHRISTMAS LOVE IS COMING](http://twitter.com/search?q=CHRISTMAS+LOVE+IS+COMING) | N/A |
+| 34 | [STARTED CWT](http://twitter.com/search?q=STARTED+CWT) | N/A |
+| 35 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 36 | [William Barr](http://twitter.com/search?q=William+Barr) | N/A |
+| 37 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 38 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
+| 39 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 40 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 41 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 42 | [MILLION DOUBLE GOLDEN](http://twitter.com/search?q=MILLION+DOUBLE+GOLDEN) | N/A |
+| 43 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 44 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 45 | [Sapnap](http://twitter.com/search?q=Sapnap) | Sapnap is an online gaming personality and content creator. His real name is Noah McBeth and he is best known for his Minecraft videos on YouTube and Twitch. The name Sapnap is derived from the phrase "Snap Nap," which refers to taking a quick nap during a gaming session. |
+| 46 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 47 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 48 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
+| 49 | [Asier](http://twitter.com/search?q=Asier) | N/A |
+| 50 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
 
 
 

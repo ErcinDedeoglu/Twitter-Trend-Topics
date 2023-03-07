@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-07 06:18:42 UTC`
+📆 Last Updated: `2023-03-07 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sortis](http://twitter.com/search?q=Sortis) | N/A |
-| 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 1 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 2 | [Sortis](http://twitter.com/search?q=Sortis) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 4 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
 | 5 | [Escuela República de Italia](http://twitter.com/search?q=Escuela+Rep%c3%bablica+de+Italia) | N/A |
 | 6 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
 | 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 8 | [Lele Pons](http://twitter.com/search?q=Lele+Pons) | N/A |
-| 9 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 10 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 9 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 10 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 11 | [Kiener](http://twitter.com/search?q=Kiener) | N/A |
 | 12 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
 | 13 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Panama
 | 18 | [3-Porotos](http://twitter.com/search?q=3-Porotos) | N/A |
 | 19 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
 | 20 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 21 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
-| 26 | [santiago de veraguas](http://twitter.com/search?q=santiago+de+veraguas) | N/A |
-| 27 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
-| 28 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 30 | [Molirena](http://twitter.com/search?q=Molirena) | N/A |
-| 31 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
-| 32 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 33 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
-| 34 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
-| 35 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
-| 36 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Banco General](http://twitter.com/search?q=Banco+General) | N/A |
-| 39 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 40 | [Yappy](http://twitter.com/search?q=Yappy) | N/A |
-| 41 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
-| 42 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 43 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [comarca wargandí](http://twitter.com/search?q=comarca+wargand%c3%ad) | N/A |
-| 46 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
-| 47 | [pedro miguel gonzález](http://twitter.com/search?q=pedro+miguel+gonz%c3%a1lez) | N/A |
-| 48 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 49 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
-| 50 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
+| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 22 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 23 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 24 | [santiago de veraguas](http://twitter.com/search?q=santiago+de+veraguas) | N/A |
+| 25 | [#BahrainGP](http://twitter.com/search?q=%23BahrainGP) | N/A |
+| 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 27 | [molirena](http://twitter.com/search?q=molirena) | N/A |
+| 28 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
+| 29 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 30 | [5-Pizza](http://twitter.com/search?q=5-Pizza) | N/A |
+| 31 | [7-Ostiones](http://twitter.com/search?q=7-Ostiones) | N/A |
+| 32 | [13-Bacalao](http://twitter.com/search?q=13-Bacalao) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Banco General](http://twitter.com/search?q=Banco+General) | N/A |
+| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 36 | [Yappy](http://twitter.com/search?q=Yappy) | N/A |
+| 37 | [2-Guandú](http://twitter.com/search?q=2-Guand%c3%ba) | N/A |
+| 38 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 39 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [comarca wargandí](http://twitter.com/search?q=comarca+wargand%c3%ad) | N/A |
+| 42 | [pedro miguel gonzález](http://twitter.com/search?q=pedro+miguel+gonz%c3%a1lez) | N/A |
+| 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 44 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
+| 45 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
+| 46 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
+| 47 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
+| 48 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 49 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 50 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
 
 
 

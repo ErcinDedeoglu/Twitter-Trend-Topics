@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-07 06:17:57 UTC`
+📆 Last Updated: `2023-03-07 07:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,20 +32,20 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 15 | [ÚLTIMA CITA TOUR VENEZUELA](http://twitter.com/search?q=%c3%9aLTIMA+CITA+TOUR+VENEZUELA) | N/A |
 | 16 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
 | 17 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 18 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
-| 19 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 20 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
+| 18 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
+| 19 | [Cuartel de la Montaña](http://twitter.com/search?q=Cuartel+de+la+Monta%c3%b1a) | N/A |
+| 20 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 21 | [15-Cebolla](http://twitter.com/search?q=15-Cebolla) | N/A |
 | 22 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
 | 23 | [10-Aceitunas](http://twitter.com/search?q=10-Aceitunas) | N/A |
 | 24 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
 | 25 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 26 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
-| 27 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
-| 28 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 29 | [Cien](http://twitter.com/search?q=Cien) | N/A |
-| 30 | [El General](http://twitter.com/search?q=El+General) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 26 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 27 | [Gerber](http://twitter.com/search?q=Gerber) | N/A |
+| 28 | [Fe y Alegría](http://twitter.com/search?q=Fe+y+Alegr%c3%ada) | N/A |
+| 29 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 30 | [Cien](http://twitter.com/search?q=Cien) | N/A |
+| 31 | [El General](http://twitter.com/search?q=El+General) | N/A |
 | 32 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
 | 33 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
@@ -53,14 +53,14 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 36 | [9-Aguacate](http://twitter.com/search?q=9-Aguacate) | N/A |
 | 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 38 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 39 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 40 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
-| 41 | [maracayeros](http://twitter.com/search?q=maracayeros) | N/A |
-| 42 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
-| 43 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
-| 44 | [12-Champiñones](http://twitter.com/search?q=12-Champi%c3%b1ones) | N/A |
-| 45 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
-| 46 | [Rosneft](http://twitter.com/search?q=Rosneft) | N/A |
+| 39 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
+| 40 | [maracayeros](http://twitter.com/search?q=maracayeros) | N/A |
+| 41 | [antonio armas](http://twitter.com/search?q=antonio+armas) | N/A |
+| 42 | [2-Pepinillos](http://twitter.com/search?q=2-Pepinillos) | N/A |
+| 43 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 44 | [Ramona](http://twitter.com/search?q=Ramona) | N/A |
+| 45 | [4-Alitas](http://twitter.com/search?q=4-Alitas) | N/A |
+| 46 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 
 
 
