@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gomel
 
-📆 Last Updated: `2023-03-07 07:16:06 UTC`
+📆 Last Updated: `2023-03-07 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 

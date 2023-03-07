@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-07 07:16:00 UTC`
+📆 Last Updated: `2023-03-07 08:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 2 | [#UwagaPiS](http://twitter.com/search?q=%23UwagaPiS) | N/A |
-| 3 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 4 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 7 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
-| 8 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 10 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 3 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 5 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
+| 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 7 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 8 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
+| 9 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 10 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
 | 11 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 12 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 13 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 14 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 15 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 16 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
-| 17 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
-| 18 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 19 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 13 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 14 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
+| 15 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 16 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 17 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 19 | [Mt 23](http://twitter.com/search?q=Mt+23) | N/A |
 | 20 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
-| 21 | [Ordo Iuris](http://twitter.com/search?q=Ordo+Iuris) | N/A |
-| 22 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 23 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 24 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
-| 25 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 26 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
-| 27 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 28 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 29 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
-| 30 | [kurzępa](http://twitter.com/search?q=kurz%c4%99pa) | N/A |
-| 31 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 32 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 33 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 34 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
-| 35 | [Święty](http://twitter.com/search?q=%c5%9awi%c4%99ty) | N/A |
-| 36 | [łącki](http://twitter.com/search?q=%c5%82%c4%85cki) | N/A |
-| 37 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
-| 38 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
-| 39 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 40 | [MI-24](http://twitter.com/search?q=MI-24) | N/A |
-| 41 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
-| 42 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 43 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
-| 44 | [Państwu](http://twitter.com/search?q=Pa%c5%84stwu) | N/A |
-| 45 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 46 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
-| 47 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 48 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 49 | [Podpisane](http://twitter.com/search?q=Podpisane) | N/A |
-| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 21 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 22 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 23 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
+| 24 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
+| 25 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 26 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 27 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
+| 28 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 29 | [Ordo Iuris](http://twitter.com/search?q=Ordo+Iuris) | N/A |
+| 30 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
+| 31 | [kurzępa](http://twitter.com/search?q=kurz%c4%99pa) | N/A |
+| 32 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
+| 33 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
+| 34 | [łącki](http://twitter.com/search?q=%c5%82%c4%85cki) | N/A |
+| 35 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 36 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 37 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 38 | [MI-24](http://twitter.com/search?q=MI-24) | N/A |
+| 39 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
+| 40 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 41 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
+| 42 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
+| 43 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 44 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 45 | [valencii](http://twitter.com/search?q=valencii) | N/A |
+| 46 | [Ogórek](http://twitter.com/search?q=Og%c3%b3rek) | N/A |
+| 47 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
+| 48 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 49 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
 
 
 
