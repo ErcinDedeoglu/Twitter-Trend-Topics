@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-07 08:18:09 UTC`
+📆 Last Updated: `2023-03-07 09:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#C55TheChampion](http://twitter.com/search?q=%23C55TheChampion) | N/A |
-| 2 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
+| 1 | [#GPAnsorMendunia](http://twitter.com/search?q=%23GPAnsorMendunia) | N/A |
+| 2 | [La Ode Aris Saputra](http://twitter.com/search?q=La+Ode+Aris+Saputra) | N/A |
 | 3 | [#AmblasNgampas](http://twitter.com/search?q=%23AmblasNgampas) | N/A |
-| 4 | [Lagu Jawa Viral](http://twitter.com/search?q=Lagu+Jawa+Viral) | N/A |
-| 5 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 6 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 7 | [#NCTDREAMinJAKARTA](http://twitter.com/search?q=%23NCTDREAMinJAKARTA) | N/A |
-| 8 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 9 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
-| 10 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
-| 11 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 12 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 13 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 14 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 15 | [Mini Capsule](http://twitter.com/search?q=Mini+Capsule) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
-| 18 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 19 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 20 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 21 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 22 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
-| 23 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
-| 24 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
-| 25 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
-| 26 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 27 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 28 | [Firts](http://twitter.com/search?q=Firts) | N/A |
-| 29 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
-| 30 | [Baru 1](http://twitter.com/search?q=Baru+1) | N/A |
-| 31 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
-| 32 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
-| 33 | [David](http://twitter.com/search?q=David) | N/A |
+| 4 | [#C55TheChampion](http://twitter.com/search?q=%23C55TheChampion) | N/A |
+| 5 | [Lagu Jawa Viral](http://twitter.com/search?q=Lagu+Jawa+Viral) | N/A |
+| 6 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
+| 7 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
+| 8 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 9 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 10 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 11 | [#SatsETSahabatSetiaET](http://twitter.com/search?q=%23SatsETSahabatSetiaET) | N/A |
+| 12 | [TNI AD Di Hati Rakyat](http://twitter.com/search?q=TNI+AD+Di+Hati+Rakyat) | N/A |
+| 13 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 14 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 15 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 16 | [Swedia](http://twitter.com/search?q=Swedia) | N/A |
+| 17 | [Mini Capsule](http://twitter.com/search?q=Mini+Capsule) | N/A |
+| 18 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 19 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [THANK YOU DYANDRA](http://twitter.com/search?q=THANK+YOU+DYANDRA) | N/A |
+| 22 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 23 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 24 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
+| 25 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 26 | [THANK YOU NCT DREAM](http://twitter.com/search?q=THANK+YOU+NCT+DREAM) | N/A |
+| 27 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 28 | [Nyamannya Bareng Prabowo](http://twitter.com/search?q=Nyamannya+Bareng+Prabowo) | N/A |
+| 29 | [Kerja Prabowo Terbukti](http://twitter.com/search?q=Kerja+Prabowo+Terbukti) | N/A |
+| 30 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 31 | [SEE YOU AGAIN 7DREAM](http://twitter.com/search?q=SEE+YOU+AGAIN+7DREAM) | N/A |
+| 32 | [Firts](http://twitter.com/search?q=Firts) | N/A |
+| 33 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
 | 34 | [Bakpia](http://twitter.com/search?q=Bakpia) | N/A |
-| 35 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 36 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
-| 37 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 38 | [BOBBY SiR ALBUM PREORDER](http://twitter.com/search?q=BOBBY+SiR+ALBUM+PREORDER) | N/A |
+| 35 | [David](http://twitter.com/search?q=David) | N/A |
+| 36 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
+| 37 | [THANK YOU NCTZEN](http://twitter.com/search?q=THANK+YOU+NCTZEN) | N/A |
+| 38 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
 | 39 | [Maliq](http://twitter.com/search?q=Maliq) | N/A |
-| 40 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 41 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 42 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 43 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 44 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 45 | [Figuran](http://twitter.com/search?q=Figuran) | N/A |
-| 46 | [200mp nightography](http://twitter.com/search?q=200mp+nightography) | N/A |
-| 47 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 48 | [THANK YOU MISS E](http://twitter.com/search?q=THANK+YOU+MISS+E) | N/A |
-| 49 | [Kurnia](http://twitter.com/search?q=Kurnia) | N/A |
-| 50 | [REPEAT AFTER ME](http://twitter.com/search?q=REPEAT+AFTER+ME) | N/A |
+| 40 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 41 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 42 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 43 | [Figuran](http://twitter.com/search?q=Figuran) | N/A |
+| 44 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
+| 45 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 46 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 47 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 48 | [200mp nightography](http://twitter.com/search?q=200mp+nightography) | N/A |
+| 49 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
+| 50 | [Baru 1](http://twitter.com/search?q=Baru+1) | N/A |
 
 
 

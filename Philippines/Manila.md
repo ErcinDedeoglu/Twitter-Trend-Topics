@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-07 08:17:45 UTC`
+📆 Last Updated: `2023-03-07 09:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
-| 2 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
-| 3 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 3 | [#NoToJeepneyPhaseout](http://twitter.com/search?q=%23NoToJeepneyPhaseout) | N/A |
 | 4 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 5 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
-| 6 | [#BOBBYSOLOSINGLE_D14](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D14) | N/A |
+| 5 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 6 | [#BGYOxTikToClock](http://twitter.com/search?q=%23BGYOxTikToClock) | N/A |
 | 7 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 8 | [Mahae](http://twitter.com/search?q=Mahae) | N/A |
-| 9 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
-| 10 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 11 | [Lee Hyun](http://twitter.com/search?q=Lee+Hyun) | N/A |
-| 12 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 13 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 14 | [TNTHuradoDARREN-D6](http://twitter.com/search?q=TNTHuradoDARREN-D6) | N/A |
-| 15 | [Maragusan](http://twitter.com/search?q=Maragusan) | N/A |
-| 16 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
-| 17 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 18 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
-| 19 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
-| 20 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
-| 21 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 22 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
-| 23 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
-| 24 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
-| 25 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
-| 26 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
-| 27 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
-| 28 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 29 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
-| 30 | [Abante](http://twitter.com/search?q=Abante) | N/A |
-| 31 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
-| 32 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 33 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 34 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 35 | [6 DAYS TO ROVER](http://twitter.com/search?q=6+DAYS+TO+ROVER) | N/A |
-| 36 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 37 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
+| 8 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
+| 9 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 10 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 11 | [Pangs](http://twitter.com/search?q=Pangs) | N/A |
+| 12 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
+| 13 | [Mahae](http://twitter.com/search?q=Mahae) | N/A |
+| 14 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
+| 15 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 16 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 17 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
+| 18 | [TNTHuradoDARREN-D6](http://twitter.com/search?q=TNTHuradoDARREN-D6) | N/A |
+| 19 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 20 | [NI-KI FIRST 2M FANCAM](http://twitter.com/search?q=NI-KI+FIRST+2M+FANCAM) | N/A |
+| 21 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 22 | [House of Love](http://twitter.com/search?q=House+of+Love) | N/A |
+| 23 | [Lee Hyun](http://twitter.com/search?q=Lee+Hyun) | N/A |
+| 24 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 25 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 26 | [The Chaos Chapter](http://twitter.com/search?q=The+Chaos+Chapter) | N/A |
+| 27 | [jimin live](http://twitter.com/search?q=jimin+live) | N/A |
+| 28 | [the why of praying](http://twitter.com/search?q=the+why+of+praying) | N/A |
+| 29 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
+| 30 | [Fight or Escape](http://twitter.com/search?q=Fight+or+Escape) | N/A |
+| 31 | [ready for masterpiece](http://twitter.com/search?q=ready+for+masterpiece) | N/A |
+| 32 | [Maragusan](http://twitter.com/search?q=Maragusan) | N/A |
+| 33 | [SUGAR RUSH RIDE 100M VIEWS](http://twitter.com/search?q=SUGAR+RUSH+RIDE+100M+VIEWS) | N/A |
+| 34 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 35 | [alex turner](http://twitter.com/search?q=alex+turner) | N/A |
+| 36 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 37 | [josh at mandy teenadhana](http://twitter.com/search?q=josh+at+mandy+teenadhana) | N/A |
 | 38 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 39 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
-| 40 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
-| 41 | [FELIP IS COMING BACK](http://twitter.com/search?q=FELIP+IS+COMING+BACK) | N/A |
-| 42 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 43 | [set me free tonight](http://twitter.com/search?q=set+me+free+tonight) | N/A |
-| 44 | [PISTON](http://twitter.com/search?q=PISTON) | N/A |
-| 45 | [8 ITZY](http://twitter.com/search?q=8+ITZY) | N/A |
-| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 47 | [Quen](http://twitter.com/search?q=Quen) | N/A |
-| 48 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 49 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 50 | [UP ID](http://twitter.com/search?q=UP+ID) | N/A |
+| 39 | [TOTOO ANG DIYOS](http://twitter.com/search?q=TOTOO+ANG+DIYOS) | N/A |
+| 40 | [NCT 127 PHOTOBOOK](http://twitter.com/search?q=NCT+127+PHOTOBOOK) | N/A |
+| 41 | [Kpop Community](http://twitter.com/search?q=Kpop+Community) | N/A |
+| 42 | [7 days to rover](http://twitter.com/search?q=7+days+to+rover) | N/A |
+| 43 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 44 | [david atkawayanfestival](http://twitter.com/search?q=david+atkawayanfestival) | N/A |
+| 45 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 46 | [Joshua Tiongco](http://twitter.com/search?q=Joshua+Tiongco) | N/A |
+| 47 | [INTO THE N3VERLAND](http://twitter.com/search?q=INTO+THE+N3VERLAND) | N/A |
+| 48 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
+| 49 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 50 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
 
 
 
