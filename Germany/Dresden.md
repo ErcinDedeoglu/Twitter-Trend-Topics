@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-07 01:45:36 UTC`
+📆 Last Updated: `2023-03-07 02:44:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HartAberFair](http://twitter.com/search?q=%23HartAberFair) | N/A |
-| 2 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 3 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 1 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 2 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 3 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 6 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
-| 7 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 6 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 7 | [Grundgesetz](http://twitter.com/search?q=Grundgesetz) | N/A |
 | 8 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 9 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 10 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 12 | [Scan](http://twitter.com/search?q=Scan) | N/A |
 | 13 | [Klitschkos](http://twitter.com/search?q=Klitschkos) | N/A |
-| 14 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
-| 15 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 16 | [aken](http://twitter.com/search?q=aken) | N/A |
-| 17 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 18 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
-| 19 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
-| 20 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
-| 21 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 22 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 15 | [Lektion](http://twitter.com/search?q=Lektion) | N/A |
+| 16 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 17 | [aken](http://twitter.com/search?q=aken) | N/A |
+| 18 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
+| 19 | [Salvatore](http://twitter.com/search?q=Salvatore) | N/A |
+| 20 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 21 | [Lehramt](http://twitter.com/search?q=Lehramt) | N/A |
+| 22 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
 | 23 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 24 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
-| 25 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
-| 26 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 27 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 30 | [Speiseöl](http://twitter.com/search?q=Speise%c3%b6l) | N/A |
-| 31 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 32 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
-| 33 | [Urteil der Geschichte](http://twitter.com/search?q=Urteil+der+Geschichte) | N/A |
-| 34 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
-| 35 | [fehlermeldung](http://twitter.com/search?q=fehlermeldung) | N/A |
-| 36 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 37 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 38 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 24 | [Dammbruch](http://twitter.com/search?q=Dammbruch) | N/A |
+| 25 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
+| 26 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 27 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 28 | [Kongo](http://twitter.com/search?q=Kongo) | N/A |
+| 29 | [Haftstrafen](http://twitter.com/search?q=Haftstrafen) | N/A |
+| 30 | [Cities Skylines 2](http://twitter.com/search?q=Cities+Skylines+2) | N/A |
+| 31 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 32 | [fehlermeldung](http://twitter.com/search?q=fehlermeldung) | N/A |
+| 33 | [Klingbeil](http://twitter.com/search?q=Klingbeil) | N/A |
+| 34 | [speiseöl](http://twitter.com/search?q=speise%c3%b6l) | N/A |
+| 35 | [Ribery](http://twitter.com/search?q=Ribery) | N/A |
+| 36 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 37 | [urteil der geschichte](http://twitter.com/search?q=urteil+der+geschichte) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 39 | [Geschmacks](http://twitter.com/search?q=Geschmacks) | N/A |
-| 40 | [Petra Kelly](http://twitter.com/search?q=Petra+Kelly) | N/A |
-| 41 | [sachbeschädigung](http://twitter.com/search?q=sachbesch%c3%a4digung) | N/A |
-| 42 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 43 | [Kino](http://twitter.com/search?q=Kino) | N/A |
-| 44 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 45 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
-| 46 | [Schulabschluss](http://twitter.com/search?q=Schulabschluss) | N/A |
-| 47 | [denkmal](http://twitter.com/search?q=denkmal) | N/A |
-| 48 | [Windbeutel](http://twitter.com/search?q=Windbeutel) | N/A |
+| 40 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 41 | [Bewährung](http://twitter.com/search?q=Bew%c3%a4hrung) | N/A |
+| 42 | [Budokai Tenkaichi](http://twitter.com/search?q=Budokai+Tenkaichi) | N/A |
+| 43 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 44 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 45 | [Petra Kelly](http://twitter.com/search?q=Petra+Kelly) | N/A |
+| 46 | [daniel günther](http://twitter.com/search?q=daniel+g%c3%bcnther) | N/A |
+| 47 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
+| 48 | [sachbeschädigung](http://twitter.com/search?q=sachbesch%c3%a4digung) | N/A |
 
 
 

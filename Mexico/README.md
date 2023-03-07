@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-07 01:46:13 UTC`
+📆 Last Updated: `2023-03-07 02:44:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,51 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 2 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 3 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 4 | [SER FELIZ SE SIENTE ASÍ](http://twitter.com/search?q=SER+FELIZ+SE+SIENTE+AS%c3%8d) | N/A |
-| 5 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 6 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 7 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
-| 10 | [#enhorabuenamuerto](http://twitter.com/search?q=%23enhorabuenamuerto) | N/A |
+| 2 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 5 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
+| 6 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 8 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
+| 9 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 10 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
 | 11 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 12 | [ARACELY](http://twitter.com/search?q=ARACELY) | N/A |
-| 13 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
-| 14 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
-| 15 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
-| 16 | [Magdalena Contreras](http://twitter.com/search?q=Magdalena+Contreras) | N/A |
-| 17 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 12 | [SER FELIZ SE SIENTE ASÍ](http://twitter.com/search?q=SER+FELIZ+SE+SIENTE+AS%c3%8d) | N/A |
+| 13 | [JINWOO](http://twitter.com/search?q=JINWOO) | N/A |
+| 14 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
+| 15 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
+| 16 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
+| 17 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 18 | [Asier](http://twitter.com/search?q=Asier) | N/A |
-| 19 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 20 | [Dante Delgado](http://twitter.com/search?q=Dante+Delgado) | N/A |
-| 21 | [HUMAN OF INTEREST PODCAST](http://twitter.com/search?q=HUMAN+OF+INTEREST+PODCAST) | N/A |
-| 22 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
-| 23 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 24 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 19 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 20 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
+| 21 | [ARACELY](http://twitter.com/search?q=ARACELY) | N/A |
+| 22 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
+| 23 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 24 | [Dante](http://twitter.com/search?q=Dante) | N/A |
 | 25 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 26 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
-| 27 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 28 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 29 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 30 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 31 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 32 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 33 | [Copa del Mundo](http://twitter.com/search?q=Copa+del+Mundo) | N/A |
-| 34 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
-| 35 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 36 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 37 | [Y México](http://twitter.com/search?q=Y+M%c3%a9xico) | N/A |
-| 38 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 39 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 40 | [#EllasEnVIX](http://twitter.com/search?q=%23EllasEnVIX) | N/A |
-| 41 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 42 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
-| 43 | [#DragonBallZ](http://twitter.com/search?q=%23DragonBallZ) | N/A |
-| 44 | [#ClasicosCodere](http://twitter.com/search?q=%23ClasicosCodere) | N/A |
-| 45 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 46 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
-| 47 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
-| 48 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 49 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 26 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 27 | [HUMAN OF INTEREST PODCAST](http://twitter.com/search?q=HUMAN+OF+INTEREST+PODCAST) | N/A |
+| 28 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 29 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 30 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
+| 31 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 32 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
+| 33 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 34 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
+| 35 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 36 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
+| 37 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 38 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 39 | [#TeamNiall](http://twitter.com/search?q=%23TeamNiall) | N/A |
+| 40 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 41 | [#EllasEnVIX](http://twitter.com/search?q=%23EllasEnVIX) | N/A |
+| 42 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 43 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
+| 44 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 45 | [#ClasicosCodere](http://twitter.com/search?q=%23ClasicosCodere) | N/A |
+| 46 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
 
 
 

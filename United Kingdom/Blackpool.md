@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-07 01:45:23 UTC`
+📆 Last Updated: `2023-03-07 02:43:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 3 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [#georgemichaelouted](http://twitter.com/search?q=%23georgemichaelouted) | N/A |
-| 6 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 7 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 8 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
-| 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 11 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 12 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 13 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
-| 14 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 1 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#georgemichaelouted](http://twitter.com/search?q=%23georgemichaelouted) | N/A |
+| 5 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 6 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 7 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
+| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 9 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 10 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 11 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 12 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 14 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 15 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
-| 20 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 21 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
-| 22 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 23 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 24 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
-| 25 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 26 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 27 | [Damsgaard](http://twitter.com/search?q=Damsgaard) | N/A |
-| 28 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 29 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
-| 30 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 32 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 33 | [Cesc](http://twitter.com/search?q=Cesc) | N/A |
-| 34 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 35 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 36 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 37 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
-| 38 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 39 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 40 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 41 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 42 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 43 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 44 | [West London](http://twitter.com/search?q=West+London) | N/A |
-| 45 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 46 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 47 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 48 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
-| 49 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 50 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 18 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 19 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
+| 20 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 21 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
+| 22 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 23 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
+| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 25 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 26 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 27 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 28 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 29 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 30 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
+| 31 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 32 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 33 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 34 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 35 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
+| 36 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
+| 37 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 38 | [#RHOPReunion](http://twitter.com/search?q=%23RHOPReunion) | N/A |
+| 39 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 40 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 41 | [#SueGrayGate](http://twitter.com/search?q=%23SueGrayGate) | N/A |
 
 
 

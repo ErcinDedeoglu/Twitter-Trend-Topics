@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-07 01:46:16 UTC`
+📆 Last Updated: `2023-03-07 02:44:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [#georgemichaelouted](http://twitter.com/search?q=%23georgemichaelouted) | N/A |
-| 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 5 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 6 | [#BREFUL](http://twitter.com/search?q=%23BREFUL) | N/A |
-| 7 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 8 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 9 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 12 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
-| 13 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 14 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 15 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 16 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 19 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
-| 20 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
-| 21 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 22 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 23 | [Episode 8](http://twitter.com/search?q=Episode+8) | N/A |
-| 24 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 25 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 26 | [Pinnock](http://twitter.com/search?q=Pinnock) | N/A |
-| 27 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 28 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 29 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 30 | [Cesc](http://twitter.com/search?q=Cesc) | N/A |
-| 31 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 32 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 33 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 34 | [Rachel Johnson](http://twitter.com/search?q=Rachel+Johnson) | Rachel Johnson is a name, and it does not have a specific meaning in English. It is simply a name that can be given to a person. |
-| 35 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 36 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 37 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 38 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 39 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 40 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 42 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 43 | [Joanna Cherry](http://twitter.com/search?q=Joanna+Cherry) | N/A |
-| 44 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 45 | [Bronson](http://twitter.com/search?q=Bronson) | N/A |
-| 46 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 47 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 48 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
-| 49 | [#Parole](http://twitter.com/search?q=%23Parole) | N/A |
-| 50 | [#JamiesOnePoundWonders](http://twitter.com/search?q=%23JamiesOnePoundWonders) | N/A |
+| 7 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 8 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 9 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 10 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 11 | [RIP Tony](http://twitter.com/search?q=RIP+Tony) | N/A |
+| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 13 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 14 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 15 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 16 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 17 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 18 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 19 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 22 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 23 | [Lukic](http://twitter.com/search?q=Lukic) | N/A |
+| 24 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 25 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 26 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 27 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 28 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 29 | [Knighthood](http://twitter.com/search?q=Knighthood) | N/A |
+| 30 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 31 | [Wayne Couzens](http://twitter.com/search?q=Wayne+Couzens) | N/A |
+| 32 | [andrew gilding](http://twitter.com/search?q=andrew+gilding) | N/A |
+| 33 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 34 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
+| 35 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 36 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 37 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 38 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 39 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 42 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 43 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 44 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 45 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 46 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 47 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 48 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 49 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 50 | [Lords](http://twitter.com/search?q=Lords) | N/A |
 
 
 

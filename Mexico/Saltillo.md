@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-07 01:45:28 UTC`
+📆 Last Updated: `2023-03-07 02:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Formula1WorksWithNARCOS](http://twitter.com/search?q=%23Formula1WorksWithNARCOS) | N/A |
-| 2 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 3 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 4 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 5 | [SER FELIZ SE SIENTE ASÍ](http://twitter.com/search?q=SER+FELIZ+SE+SIENTE+AS%c3%8d) | N/A |
-| 6 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 2 | [#JIMINxVOGUEKOREA](http://twitter.com/search?q=%23JIMINxVOGUEKOREA) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 5 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 6 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
 | 7 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 10 | [ARACELY](http://twitter.com/search?q=ARACELY) | N/A |
-| 11 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
-| 12 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
-| 13 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 14 | [Magdalena Contreras](http://twitter.com/search?q=Magdalena+Contreras) | N/A |
-| 15 | [Coahuila](http://twitter.com/search?q=Coahuila) | N/A |
+| 8 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 9 | [SER FELIZ SE SIENTE ASÍ](http://twitter.com/search?q=SER+FELIZ+SE+SIENTE+AS%c3%8d) | N/A |
+| 10 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 11 | [JINWOO](http://twitter.com/search?q=JINWOO) | N/A |
+| 12 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
+| 13 | [Soberanía](http://twitter.com/search?q=Soberan%c3%ada) | N/A |
+| 14 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 15 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
 | 16 | [Asier](http://twitter.com/search?q=Asier) | N/A |
-| 17 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 18 | [Dante Delgado](http://twitter.com/search?q=Dante+Delgado) | N/A |
-| 19 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 20 | [HUMAN OF INTEREST PODCAST](http://twitter.com/search?q=HUMAN+OF+INTEREST+PODCAST) | N/A |
-| 21 | [Itzel](http://twitter.com/search?q=Itzel) | N/A |
-| 22 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 17 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
+| 18 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 19 | [ARACELY](http://twitter.com/search?q=ARACELY) | N/A |
+| 20 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 21 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 22 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
 | 23 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 24 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
-| 25 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 26 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 27 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 28 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
-| 29 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
-| 30 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
-| 31 | [Copa del Mundo](http://twitter.com/search?q=Copa+del+Mundo) | N/A |
-| 32 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
-| 33 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
-| 34 | [Gabriel García Márquez](http://twitter.com/search?q=Gabriel+Garc%c3%ada+M%c3%a1rquez) | N/A |
-| 35 | [Y México](http://twitter.com/search?q=Y+M%c3%a9xico) | N/A |
-| 36 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 37 | [Jorge Ramos](http://twitter.com/search?q=Jorge+Ramos) | N/A |
-| 38 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
-| 39 | [#enhorabuenamuerto](http://twitter.com/search?q=%23enhorabuenamuerto) | N/A |
-| 40 | [#EllasEnVIX](http://twitter.com/search?q=%23EllasEnVIX) | N/A |
-| 41 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 42 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
-| 43 | [#DragonBallZ](http://twitter.com/search?q=%23DragonBallZ) | N/A |
-| 44 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 45 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 24 | [Siddhartha](http://twitter.com/search?q=Siddhartha) | N/A |
+| 25 | [HUMAN OF INTEREST PODCAST](http://twitter.com/search?q=HUMAN+OF+INTEREST+PODCAST) | N/A |
+| 26 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 27 | [Dan Crenshaw](http://twitter.com/search?q=Dan+Crenshaw) | N/A |
+| 28 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 29 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 30 | [Gabo](http://twitter.com/search?q=Gabo) | N/A |
+| 31 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 32 | [Ignacio López Tarso](http://twitter.com/search?q=Ignacio+L%c3%b3pez+Tarso) | N/A |
+| 33 | [Denise Dresser](http://twitter.com/search?q=Denise+Dresser) | N/A |
+| 34 | [Juan Zepeda](http://twitter.com/search?q=Juan+Zepeda) | N/A |
+| 35 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 36 | [Heidy Infante](http://twitter.com/search?q=Heidy+Infante) | N/A |
+| 37 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 38 | [#TeamNiall](http://twitter.com/search?q=%23TeamNiall) | N/A |
+| 39 | [#CalderonEsNarco](http://twitter.com/search?q=%23CalderonEsNarco) | N/A |
+| 40 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 41 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 42 | [#EllasEnVIX](http://twitter.com/search?q=%23EllasEnVIX) | N/A |
+| 43 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
+| 44 | [#DragonBallZ](http://twitter.com/search?q=%23DragonBallZ) | N/A |
+| 45 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
 | 46 | [#ClasicosCodere](http://twitter.com/search?q=%23ClasicosCodere) | N/A |
 | 47 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
 

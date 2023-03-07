@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-07 01:46:00 UTC`
+📆 Last Updated: `2023-03-07 02:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#YenidenErdoğanKazanacak](http://twitter.com/search?q=%23YenidenErdo%c4%9fanKazanacak) | N/A |
 | 2 | [#TeşekkürlerAkşener](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerAk%c5%9fener) | N/A |
 | 3 | [#ERDOĞANIDURDURAMAZSINIZ](http://twitter.com/search?q=%23ERDO%c4%9eANIDURDURAMAZSINIZ) | N/A |
-| 4 | [#KEMALKILIÇDAROĞLU](http://twitter.com/search?q=%23KEMALKILI%c3%87DARO%c4%9eLU) | N/A |
-| 5 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
+| 4 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
+| 5 | [#Halaİnce](http://twitter.com/search?q=%23Hala%c4%b0nce) | N/A |
 | 6 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
 | 7 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 8 | [Hasan Öztürk](http://twitter.com/search?q=Hasan+%c3%96zt%c3%bcrk) | N/A |
-| 9 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 8 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 9 | [Hasan Öztürk](http://twitter.com/search?q=Hasan+%c3%96zt%c3%bcrk) | N/A |
 | 10 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
 | 11 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
 | 12 | [CUMHURBAŞKANI KEMAL](http://twitter.com/search?q=CUMHURBA%c5%9eKANI+KEMAL) | N/A |
-| 13 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
-| 14 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 13 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 14 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
 | 15 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
 | 16 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 17 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
-| 18 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 17 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 18 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
 | 19 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 20 | [Ali İsmail](http://twitter.com/search?q=Ali+%c4%b0smail) | N/A |
-| 21 | [Seçilirse](http://twitter.com/search?q=Se%c3%a7ilirse) | N/A |
-| 22 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 23 | [Kemal'e](http://twitter.com/search?q=Kemal%27e) | N/A |
-| 24 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 25 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
-| 26 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
-| 27 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 28 | [Temel](http://twitter.com/search?q=Temel) | N/A |
-| 29 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
-| 30 | [Milli](http://twitter.com/search?q=Milli) | N/A |
-| 31 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 32 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 33 | [Cumhurbaşkanım](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 34 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
-| 35 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
-| 36 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 37 | [Pensilvanya](http://twitter.com/search?q=Pensilvanya) | N/A |
-| 38 | [YEDİ DÜVEL GELSEDE](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVEL+GELSEDE) | N/A |
-| 39 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 40 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 41 | [İçiyor](http://twitter.com/search?q=%c4%b0%c3%a7iyor) | N/A |
-| 42 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 43 | [Piro](http://twitter.com/search?q=Piro) | N/A |
-| 44 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 45 | [İnceye](http://twitter.com/search?q=%c4%b0nceye) | N/A |
-| 46 | [Hürmüz](http://twitter.com/search?q=H%c3%bcrm%c3%bcz) | N/A |
-| 47 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
-| 48 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 49 | [Anketi](http://twitter.com/search?q=Anketi) | N/A |
-| 50 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 20 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 21 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
+| 22 | [Kemal'e](http://twitter.com/search?q=Kemal%27e) | N/A |
+| 23 | [Milli](http://twitter.com/search?q=Milli) | N/A |
+| 24 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 25 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
+| 26 | [Pensilvanya](http://twitter.com/search?q=Pensilvanya) | N/A |
+| 27 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 28 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
+| 29 | [YEDİ DÜVEL GELSEDE](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVEL+GELSEDE) | N/A |
+| 30 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
+| 31 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
+| 32 | [Hürmüz](http://twitter.com/search?q=H%c3%bcrm%c3%bcz) | N/A |
+| 33 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 34 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 35 | [Millet İttifakına](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1na) | N/A |
+| 36 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
+| 37 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
+| 38 | [#GidiyorsunCHP](http://twitter.com/search?q=%23GidiyorsunCHP) | N/A |
+| 39 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 40 | [#StajÇıraklıkTorbaya](http://twitter.com/search?q=%23Staj%c3%87%c4%b1rakl%c4%b1kTorbaya) | N/A |
+| 41 | [#ŞimdiSıraBizde](http://twitter.com/search?q=%23%c5%9eimdiS%c4%b1raBizde) | N/A |
+| 42 | [#CicekSepetiBoykot](http://twitter.com/search?q=%23CicekSepetiBoykot) | N/A |
+| 43 | [#PencerendeBirMumYak](http://twitter.com/search?q=%23PencerendeBirMumYak) | N/A |
+| 44 | [#ÜlküsüzMeral](http://twitter.com/search?q=%23%c3%9clk%c3%bcs%c3%bczMeral) | N/A |
+| 45 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
+| 46 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
+| 47 | [#TemelKaramollaoğlu](http://twitter.com/search?q=%23TemelKaramollao%c4%9flu) | N/A |
+| 48 | [#KHKlıDemokrasiİstiyor](http://twitter.com/search?q=%23KHKl%c4%b1Demokrasi%c4%b0stiyor) | N/A |
+| 49 | [#bülentkorkmazistifa](http://twitter.com/search?q=%23b%c3%bclentkorkmazistifa) | N/A |
+| 50 | [#BirleseBirleseKazanacağız](http://twitter.com/search?q=%23BirleseBirleseKazanaca%c4%9f%c4%b1z) | N/A |
 
 
 

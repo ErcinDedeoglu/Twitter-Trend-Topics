@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-07 01:45:32 UTC`
+📆 Last Updated: `2023-03-07 02:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 2 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
-| 3 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 4 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
-| 5 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 6 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 7 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 8 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
-| 9 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
-| 10 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
-| 11 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 12 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
-| 13 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 14 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 15 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
-| 18 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 19 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 20 | [pri souza](http://twitter.com/search?q=pri+souza) | N/A |
-| 21 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 22 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 23 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
-| 24 | [mikey madison](http://twitter.com/search?q=mikey+madison) | N/A |
-| 25 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
-| 26 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 27 | [LAUANA LIBERA O RAIZ](http://twitter.com/search?q=LAUANA+LIBERA+O+RAIZ) | N/A |
-| 28 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
-| 29 | [PARABENS LUCY](http://twitter.com/search?q=PARABENS+LUCY) | N/A |
-| 30 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 31 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 32 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 33 | [O Ari](http://twitter.com/search?q=O+Ari) | N/A |
-| 34 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 35 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 36 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
-| 37 | [carol gattaz](http://twitter.com/search?q=carol+gattaz) | N/A |
-| 38 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 39 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 40 | [Cássia Kiss](http://twitter.com/search?q=C%c3%a1ssia+Kiss) | N/A |
-| 41 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 42 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 4 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 5 | [Cézar](http://twitter.com/search?q=C%c3%a9zar) | N/A |
+| 6 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 7 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 8 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 9 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 10 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 11 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 12 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 13 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 14 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 17 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 18 | [Bruna e Key](http://twitter.com/search?q=Bruna+e+Key) | N/A |
+| 19 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 20 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 21 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 22 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 23 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 24 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 25 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 26 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 27 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 28 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 29 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 30 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 31 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 32 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 33 | [GRANDONA SEM MEDO](http://twitter.com/search?q=GRANDONA+SEM+MEDO) | N/A |
+| 34 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 35 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 36 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 37 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 38 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 39 | [Pri Heldes](http://twitter.com/search?q=Pri+Heldes) | N/A |
+| 40 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
+| 41 | [iPad](http://twitter.com/search?q=iPad) | N/A |
+| 42 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 43 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 44 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 45 | [Daqui a 7](http://twitter.com/search?q=Daqui+a+7) | N/A |
+| 46 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 47 | [O Minas](http://twitter.com/search?q=O+Minas) | N/A |
+| 48 | [Mod Sun](http://twitter.com/search?q=Mod+Sun) | N/A |
+| 49 | [O Ari](http://twitter.com/search?q=O+Ari) | N/A |
+| 50 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
 
 
 

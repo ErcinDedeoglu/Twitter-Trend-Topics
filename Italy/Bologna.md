@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-07 01:45:37 UTC`
+📆 Last Updated: `2023-03-07 02:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 3 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 4 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 5 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 6 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 7 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 8 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 9 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 10 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 11 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 12 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 13 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 14 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
-| 15 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 16 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 17 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
-| 18 | [Phata](http://twitter.com/search?q=Phata) | N/A |
-| 19 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 20 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 21 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 22 | [Bruganelli](http://twitter.com/search?q=Bruganelli) | N/A |
-| 23 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 24 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 25 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 26 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 27 | [#gioielliers](http://twitter.com/search?q=%23gioielliers) | N/A |
-| 28 | [#grandefratellovip7](http://twitter.com/search?q=%23grandefratellovip7) | N/A |
-| 29 | [#orianistas](http://twitter.com/search?q=%23orianistas) | N/A |
-| 30 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
-| 31 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 32 | [#fedez](http://twitter.com/search?q=%23fedez) | N/A |
-| 33 | [#TorinoBologna](http://twitter.com/search?q=%23TorinoBologna) | N/A |
-| 34 | [#infiniteVolte](http://twitter.com/search?q=%23infiniteVolte) | N/A |
-| 35 | [#stazioneCentrale](http://twitter.com/search?q=%23stazioneCentrale) | N/A |
-| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 37 | [#ferragnez](http://twitter.com/search?q=%23ferragnez) | N/A |
-| 38 | [#Milano](http://twitter.com/search?q=%23Milano) | N/A |
-| 39 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
-| 40 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 4 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 5 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 6 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
+| 7 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 8 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 9 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 10 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 11 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 12 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 13 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
+| 14 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 15 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 16 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 17 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 18 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
+| 19 | [CUOCO](http://twitter.com/search?q=CUOCO) | N/A |
+| 20 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 21 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 22 | [Mestierante](http://twitter.com/search?q=Mestierante) | N/A |
+| 23 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
+| 24 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
+| 25 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 26 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 27 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 28 | [socios italia](http://twitter.com/search?q=socios+italia) | N/A |
+| 29 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 30 | [Gobetti](http://twitter.com/search?q=Gobetti) | N/A |
+| 31 | [otello](http://twitter.com/search?q=otello) | N/A |
+| 32 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 33 | [livia](http://twitter.com/search?q=livia) | N/A |
+| 34 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 35 | [Stramaccioni](http://twitter.com/search?q=Stramaccioni) | N/A |
+| 36 | [cricca](http://twitter.com/search?q=cricca) | N/A |
+| 37 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 38 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 39 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 40 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 41 | [Phata](http://twitter.com/search?q=Phata) | N/A |
+| 42 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 43 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 44 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 45 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
+| 46 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 47 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 48 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
+| 49 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 50 | [Teresina](http://twitter.com/search?q=Teresina) | N/A |
 
 
 
