@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-07 17:16:50 UTC`
+📆 Last Updated: `2023-03-07 18:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AliYalcinÜnvYeTayin](http://twitter.com/search?q=%23AliYalcin%c3%9cnvYeTayin) | N/A |
-| 2 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
-| 3 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 4 | [#AtamaYokÖzeristifa](http://twitter.com/search?q=%23AtamaYok%c3%96zeristifa) | #AtamaYokÖzeristifa is a hashtag used by Turkish protesters to express their dissatisfaction with the government's appointment of trustees to replace elected mayors in some cities. The phrase translates to "No Appointment, Resignation" in English. |
-| 5 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 6 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
-| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 8 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 9 | [Yaşattığın](http://twitter.com/search?q=Ya%c5%9fatt%c4%b1%c4%9f%c4%b1n) | N/A |
-| 10 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 11 | [KanÇiçekleri AkşamYediye](http://twitter.com/search?q=Kan%c3%87i%c3%a7ekleri+Ak%c5%9famYediye) | N/A |
-| 12 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 13 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 1 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 2 | [Müstakil Ev](http://twitter.com/search?q=M%c3%bcstakil+Ev) | N/A |
+| 3 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 4 | [#ReistenTarimaAtama](http://twitter.com/search?q=%23ReistenTarimaAtama) | N/A |
+| 5 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
+| 6 | [#AliYalcinÜnvYeTayin](http://twitter.com/search?q=%23AliYalcin%c3%9cnvYeTayin) | N/A |
+| 7 | [#AstsubaylarıÜzmeyin](http://twitter.com/search?q=%23Astsubaylar%c4%b1%c3%9czmeyin) | N/A |
+| 8 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 9 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 10 | [ShellRecai OtoYıkama](http://twitter.com/search?q=ShellRecai+OtoY%c4%b1kama) | N/A |
+| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 13 | [Devin](http://twitter.com/search?q=Devin) | N/A |
 | 14 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 15 | [Eczacıbaşı](http://twitter.com/search?q=Eczac%c4%b1ba%c5%9f%c4%b1) | N/A |
-| 16 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
-| 17 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 18 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
-| 19 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 20 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
-| 21 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
-| 22 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
-| 23 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
-| 24 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 25 | [Neşe](http://twitter.com/search?q=Ne%c5%9fe) | N/A |
-| 26 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
-| 27 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
-| 28 | [Yolun](http://twitter.com/search?q=Yolun) | N/A |
-| 29 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 30 | [Erciyes](http://twitter.com/search?q=Erciyes) | N/A |
-| 31 | [Sümeyye](http://twitter.com/search?q=S%c3%bcmeyye) | N/A |
-| 32 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 33 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 34 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 35 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 36 | [Enes Kara](http://twitter.com/search?q=Enes+Kara) | N/A |
-| 37 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
-| 38 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 39 | [Satürn](http://twitter.com/search?q=Sat%c3%bcrn) | N/A |
-| 40 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 41 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
-| 42 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 43 | [TaşeronTorbada MutlakaOlmalı](http://twitter.com/search?q=Ta%c5%9feronTorbada+MutlakaOlmal%c4%b1) | N/A |
-| 44 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
-| 45 | [Hande](http://twitter.com/search?q=Hande) | N/A |
-| 46 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 47 | [Domates](http://twitter.com/search?q=Domates) | N/A |
-| 48 | [Geçmiş Olsun](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f+Olsun) | N/A |
-| 49 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 50 | [Yobaz](http://twitter.com/search?q=Yobaz) | N/A |
+| 15 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
+| 16 | [KanÇiçekleri AkşamYediye](http://twitter.com/search?q=Kan%c3%87i%c3%a7ekleri+Ak%c5%9famYediye) | N/A |
+| 17 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 18 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 19 | [GÜÇLÜYÜZ YENECEĞİZ](http://twitter.com/search?q=G%c3%9c%c3%87L%c3%9cY%c3%9cZ+YENECE%c4%9e%c4%b0Z) | N/A |
+| 20 | [Yaşattığın](http://twitter.com/search?q=Ya%c5%9fatt%c4%b1%c4%9f%c4%b1n) | N/A |
+| 21 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
+| 22 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 23 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 24 | [Kutlu Olsun](http://twitter.com/search?q=Kutlu+Olsun) | N/A |
+| 25 | [Adem Avunan](http://twitter.com/search?q=Adem+Avunan) | N/A |
+| 26 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
+| 27 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
+| 28 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
+| 29 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 30 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 31 | [Milli Eğitim Bakanı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakan%c4%b1) | N/A |
+| 32 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 33 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 34 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
+| 35 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
+| 36 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
+| 37 | [Nejat İşler](http://twitter.com/search?q=Nejat+%c4%b0%c5%9fler) | N/A |
+| 38 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 39 | [Neşe](http://twitter.com/search?q=Ne%c5%9fe) | N/A |
+| 40 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 41 | [Yolun](http://twitter.com/search?q=Yolun) | N/A |
+| 42 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 43 | [Taklitler](http://twitter.com/search?q=Taklitler) | N/A |
+| 44 | [Enes Kara](http://twitter.com/search?q=Enes+Kara) | N/A |
+| 45 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 46 | [Tekirdağ](http://twitter.com/search?q=Tekirda%c4%9f) | N/A |
+| 47 | [Evladım Ekrem İmamoğlu](http://twitter.com/search?q=Evlad%c4%b1m+Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 48 | [Satürn](http://twitter.com/search?q=Sat%c3%bcrn) | N/A |
+| 49 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 50 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-07 17:16:40 UTC`
+📆 Last Updated: `2023-03-07 18:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
-| 2 | [Ashiaman](http://twitter.com/search?q=Ashiaman) | N/A |
-| 3 | [#GhanaAt66](http://twitter.com/search?q=%23GhanaAt66) | N/A |
-| 4 | [#6THMARCH](http://twitter.com/search?q=%236THMARCH) | N/A |
-| 5 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
-| 6 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
-| 7 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
-| 8 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 1 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 2 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
+| 3 | [Ashiaman](http://twitter.com/search?q=Ashiaman) | N/A |
+| 4 | [#GhanaAt66](http://twitter.com/search?q=%23GhanaAt66) | N/A |
+| 5 | [#PureDrive](http://twitter.com/search?q=%23PureDrive) | N/A |
+| 6 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
+| 7 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
+| 8 | [Twilight](http://twitter.com/search?q=Twilight) | N/A |
 | 9 | [Major Mahama](http://twitter.com/search?q=Major+Mahama) | N/A |
-| 10 | [THE FACE](http://twitter.com/search?q=THE+FACE) | N/A |
-| 11 | [#Volta2023](http://twitter.com/search?q=%23Volta2023) | N/A |
-| 12 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
-| 13 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [David Dontoh](http://twitter.com/search?q=David+Dontoh) | N/A |
-| 16 | [#JoySMS](http://twitter.com/search?q=%23JoySMS) | N/A |
-| 17 | [Latif](http://twitter.com/search?q=Latif) | N/A |
-| 18 | [Kasoa](http://twitter.com/search?q=Kasoa) | N/A |
-| 19 | [#womenofvalour](http://twitter.com/search?q=%23womenofvalour) | N/A |
-| 20 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 21 | [Rawlings](http://twitter.com/search?q=Rawlings) | N/A |
-| 22 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
-| 23 | [Taifa](http://twitter.com/search?q=Taifa) | N/A |
-| 24 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 26 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 27 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
-| 28 | [Imoro](http://twitter.com/search?q=Imoro) | N/A |
-| 29 | [our unity](http://twitter.com/search?q=our+unity) | N/A |
-| 30 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 31 | [yemi cregx our winner](http://twitter.com/search?q=yemi+cregx+our+winner) | N/A |
-| 32 | [our strength](http://twitter.com/search?q=our+strength) | N/A |
-| 33 | [OUR PURPOSE](http://twitter.com/search?q=OUR+PURPOSE) | N/A |
-| 34 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 35 | [Nima](http://twitter.com/search?q=Nima) | N/A |
-| 36 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
-| 37 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 38 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 39 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 42 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 43 | [Kwasia](http://twitter.com/search?q=Kwasia) | N/A |
-| 44 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 45 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
-| 46 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 47 | [SHEGGZ IS GOATED](http://twitter.com/search?q=SHEGGZ+IS+GOATED) | N/A |
-| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 49 | [Commander](http://twitter.com/search?q=Commander) | N/A |
-| 50 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 10 | [The Face](http://twitter.com/search?q=The+Face) | N/A |
+| 11 | [#6THMARCH](http://twitter.com/search?q=%236THMARCH) | N/A |
+| 12 | [#Volta2023](http://twitter.com/search?q=%23Volta2023) | N/A |
+| 13 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [#JoySMS](http://twitter.com/search?q=%23JoySMS) | N/A |
+| 18 | [David Dontoh](http://twitter.com/search?q=David+Dontoh) | N/A |
+| 19 | [Latif](http://twitter.com/search?q=Latif) | N/A |
+| 20 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 21 | [Kasoa](http://twitter.com/search?q=Kasoa) | N/A |
+| 22 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 23 | [Rawlings](http://twitter.com/search?q=Rawlings) | N/A |
+| 24 | [AFRICA FOR THABANG](http://twitter.com/search?q=AFRICA+FOR+THABANG) | N/A |
+| 25 | [Taifa](http://twitter.com/search?q=Taifa) | N/A |
+| 26 | [Burma](http://twitter.com/search?q=Burma) | N/A |
+| 27 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 29 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 30 | [Imoro](http://twitter.com/search?q=Imoro) | N/A |
+| 31 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 32 | [our unity](http://twitter.com/search?q=our+unity) | N/A |
+| 33 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 34 | [yemi cregx our winner](http://twitter.com/search?q=yemi+cregx+our+winner) | N/A |
+| 35 | [Our Strength](http://twitter.com/search?q=Our+Strength) | N/A |
+| 36 | [OUR PURPOSE](http://twitter.com/search?q=OUR+PURPOSE) | N/A |
+| 37 | [Captain Mahama](http://twitter.com/search?q=Captain+Mahama) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [Nima](http://twitter.com/search?q=Nima) | N/A |
+| 40 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 41 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
+| 42 | [Civilians](http://twitter.com/search?q=Civilians) | N/A |
+| 43 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
+| 44 | [Kwasia](http://twitter.com/search?q=Kwasia) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 47 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 48 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 49 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 50 | [SHEGGZ IS GOATED](http://twitter.com/search?q=SHEGGZ+IS+GOATED) | N/A |
 
 
 

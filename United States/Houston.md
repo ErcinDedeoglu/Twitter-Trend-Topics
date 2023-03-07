@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-07 17:16:54 UTC`
+📆 Last Updated: `2023-03-07 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
-| 2 | [#SXSWEDU](http://twitter.com/search?q=%23SXSWEDU) | N/A |
-| 3 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 4 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 1 | [#SXSWEDU](http://twitter.com/search?q=%23SXSWEDU) | N/A |
+| 2 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 3 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
+| 4 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
 | 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
 | 6 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 9 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 7 | [Saturn](http://twitter.com/search?q=Saturn) | N/A |
+| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 9 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
 | 10 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
 | 11 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 12 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
-| 13 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 14 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 15 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
-| 18 | [Pro Ukrainian](http://twitter.com/search?q=Pro+Ukrainian) | N/A |
-| 19 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
-| 20 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 21 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 22 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
-| 23 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 24 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 25 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 26 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 27 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
-| 28 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
-| 29 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
-| 30 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 31 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 32 | [State of the State](http://twitter.com/search?q=State+of+the+State) | N/A |
-| 33 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 34 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
-| 35 | [UMass](http://twitter.com/search?q=UMass) | N/A |
-| 36 | [Debra Lee](http://twitter.com/search?q=Debra+Lee) | N/A |
-| 37 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 38 | [Two Americans](http://twitter.com/search?q=Two+Americans) | N/A |
-| 39 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 40 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 41 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
-| 42 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
-| 43 | [JetBlue](http://twitter.com/search?q=JetBlue) | N/A |
-| 44 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 45 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 46 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 47 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 48 | [Daily Quordle 407](http://twitter.com/search?q=Daily+Quordle+407) | N/A |
-| 49 | [Spirit Airlines](http://twitter.com/search?q=Spirit+Airlines) | N/A |
-| 50 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 13 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 14 | [JJ Redick](http://twitter.com/search?q=JJ+Redick) | N/A |
+| 15 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 16 | [First Take](http://twitter.com/search?q=First+Take) | N/A |
+| 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [UMass](http://twitter.com/search?q=UMass) | N/A |
+| 20 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
+| 21 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 22 | [#NationalCerealDay](http://twitter.com/search?q=%23NationalCerealDay) | N/A |
+| 23 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 25 | [Chuckie](http://twitter.com/search?q=Chuckie) | N/A |
+| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 27 | [Pro Ukrainian](http://twitter.com/search?q=Pro+Ukrainian) | N/A |
+| 28 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 29 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 30 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 31 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 32 | [The J6](http://twitter.com/search?q=The+J6) | N/A |
+| 33 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 34 | [NBA MVP](http://twitter.com/search?q=NBA+MVP) | N/A |
+| 35 | [All-Big Ten](http://twitter.com/search?q=All-Big+Ten) | N/A |
+| 36 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 37 | [J6 Committee](http://twitter.com/search?q=J6+Committee) | N/A |
+| 38 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 39 | [Good for JJ](http://twitter.com/search?q=Good+for+JJ) | N/A |
+| 40 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 41 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 42 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 43 | [Tyler Burton](http://twitter.com/search?q=Tyler+Burton) | N/A |
+| 44 | [Joe Walsh](http://twitter.com/search?q=Joe+Walsh) | N/A |
+| 45 | [Sicknick](http://twitter.com/search?q=Sicknick) | N/A |
+| 46 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 47 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 48 | [Ezreal](http://twitter.com/search?q=Ezreal) | N/A |
+| 49 | [Shaman](http://twitter.com/search?q=Shaman) | N/A |
+| 50 | [GoodRx](http://twitter.com/search?q=GoodRx) | N/A |
 
 
 

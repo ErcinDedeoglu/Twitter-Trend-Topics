@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-07 17:16:20 UTC`
+📆 Last Updated: `2023-03-07 18:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 2 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 3 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 2 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 3 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
 | 4 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 5 | [Fiora](http://twitter.com/search?q=Fiora) | N/A |
-| 6 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 7 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 8 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 9 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 10 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 11 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
-| 12 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 13 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
-| 14 | [#Donos11anos](http://twitter.com/search?q=%23Donos11anos) | N/A |
-| 15 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
-| 16 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
-| 17 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 18 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 19 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 20 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
+| 5 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 6 | [Fiora](http://twitter.com/search?q=Fiora) | N/A |
+| 7 | [Seraphine](http://twitter.com/search?q=Seraphine) | N/A |
+| 8 | [RIVER IS COMING](http://twitter.com/search?q=RIVER+IS+COMING) | N/A |
+| 9 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
+| 10 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 11 | [Eduardo Bolsonaro](http://twitter.com/search?q=Eduardo+Bolsonaro) | N/A |
+| 12 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 13 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 14 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 15 | [Ezreal](http://twitter.com/search?q=Ezreal) | N/A |
+| 16 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
+| 17 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 18 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 19 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 20 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
 | 21 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 22 | [#SetMeFree_MVTeaser2](http://twitter.com/search?q=%23SetMeFree_MVTeaser2) | N/A |
-| 23 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
-| 24 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 25 | [Syndra](http://twitter.com/search?q=Syndra) | N/A |
-| 26 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
-| 27 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 28 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
-| 29 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 30 | [ana cristina](http://twitter.com/search?q=ana+cristina) | N/A |
-| 31 | [Xand](http://twitter.com/search?q=Xand) | N/A |
-| 32 | [Me Espera](http://twitter.com/search?q=Me+Espera) | N/A |
-| 33 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
-| 34 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
-| 35 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
-| 36 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 37 | [Apagou](http://twitter.com/search?q=Apagou) | N/A |
-| 38 | [Inep](http://twitter.com/search?q=Inep) | N/A |
-| 39 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 41 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 42 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
-| 43 | [Pularia](http://twitter.com/search?q=Pularia) | N/A |
-| 44 | [Faz o B](http://twitter.com/search?q=Faz+o+B) | N/A |
-| 45 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 46 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 47 | [Macula](http://twitter.com/search?q=Macula) | N/A |
-| 48 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 49 | [Protesto](http://twitter.com/search?q=Protesto) | N/A |
-| 50 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 22 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 23 | [Syndra](http://twitter.com/search?q=Syndra) | N/A |
+| 24 | [Faz o B](http://twitter.com/search?q=Faz+o+B) | N/A |
+| 25 | [Fábio Luciano](http://twitter.com/search?q=F%c3%a1bio+Luciano) | N/A |
+| 26 | [Queimada](http://twitter.com/search?q=Queimada) | N/A |
+| 27 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 28 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 29 | [#Donos11anos](http://twitter.com/search?q=%23Donos11anos) | N/A |
+| 30 | [miu miu](http://twitter.com/search?q=miu+miu) | N/A |
+| 31 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
+| 32 | [Kalista](http://twitter.com/search?q=Kalista) | N/A |
+| 33 | [Apagou](http://twitter.com/search?q=Apagou) | N/A |
+| 34 | [Me Espera](http://twitter.com/search?q=Me+Espera) | N/A |
+| 35 | [Fadas](http://twitter.com/search?q=Fadas) | N/A |
+| 36 | [Lennon](http://twitter.com/search?q=Lennon) | N/A |
+| 37 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 38 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
+| 39 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 40 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 41 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 42 | [Xand](http://twitter.com/search?q=Xand) | N/A |
+| 43 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 44 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 45 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 46 | [Splash](http://twitter.com/search?q=Splash) | N/A |
+| 47 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 48 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
+| 49 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 50 | [Robert Pattinson](http://twitter.com/search?q=Robert+Pattinson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-07 17:16:40 UTC`
+📆 Last Updated: `2023-03-07 18:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#APTechSis](http://twitter.com/search?q=%23APTechSis) | N/A |
-| 2 | [Advice](http://twitter.com/search?q=Advice) | N/A |
-| 3 | [FULL LIST](http://twitter.com/search?q=FULL+LIST) | N/A |
-| 4 | [#VoteObaAbu](http://twitter.com/search?q=%23VoteObaAbu) | N/A |
-| 5 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 6 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 7 | [Court of Appeal](http://twitter.com/search?q=Court+of+Appeal) | N/A |
-| 8 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [#SanwoforLagos](http://twitter.com/search?q=%23SanwoforLagos) | N/A |
-| 11 | [KANAGA JNR NWACHINEMERE](http://twitter.com/search?q=KANAGA+JNR+NWACHINEMERE) | N/A |
-| 12 | [KFORCE CONTRIBUTION CHALLENGE](http://twitter.com/search?q=KFORCE+CONTRIBUTION+CHALLENGE) | N/A |
-| 13 | [#thenigeriawewant](http://twitter.com/search?q=%23thenigeriawewant) | N/A |
-| 14 | [Palm](http://twitter.com/search?q=Palm) | N/A |
-| 15 | [#saraembraceequity](http://twitter.com/search?q=%23saraembraceequity) | N/A |
-| 16 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 1 | [#IREV](http://twitter.com/search?q=%23IREV) | N/A |
+| 2 | [#APTechSis](http://twitter.com/search?q=%23APTechSis) | N/A |
+| 3 | [#SanwoforLagos](http://twitter.com/search?q=%23SanwoforLagos) | N/A |
+| 4 | [#TTGForBenue](http://twitter.com/search?q=%23TTGForBenue) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 7 | [FULL LIST](http://twitter.com/search?q=FULL+LIST) | N/A |
+| 8 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 9 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
+| 10 | [Buns](http://twitter.com/search?q=Buns) | N/A |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 13 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 14 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 15 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 16 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
 | 17 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 18 | [Shishi](http://twitter.com/search?q=Shishi) | N/A |
-| 19 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
-| 20 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 21 | [Senior Advocate of Nonsense](http://twitter.com/search?q=Senior+Advocate+of+Nonsense) | N/A |
-| 22 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
-| 23 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 24 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 25 | [SANs](http://twitter.com/search?q=SANs) | N/A |
-| 26 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 27 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
-| 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 29 | [Access](http://twitter.com/search?q=Access) | N/A |
-| 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 31 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 32 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 33 | [Sanwolu](http://twitter.com/search?q=Sanwolu) | N/A |
-| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 35 | [Igbos in Lagos](http://twitter.com/search?q=Igbos+in+Lagos) | N/A |
-| 36 | [#SamsungGalaxyA14](http://twitter.com/search?q=%23SamsungGalaxyA14) | N/A |
-| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 38 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 39 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 40 | [#cabinetreshuffle](http://twitter.com/search?q=%23cabinetreshuffle) | N/A |
-| 41 | [#Opay](http://twitter.com/search?q=%23Opay) | N/A |
-| 42 | [#IREV](http://twitter.com/search?q=%23IREV) | N/A |
-| 43 | [#Sanwoolu4plus4](http://twitter.com/search?q=%23Sanwoolu4plus4) | N/A |
+| 18 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 19 | [HARDWORKING PHYNA](http://twitter.com/search?q=HARDWORKING+PHYNA) | N/A |
+| 20 | [KFORCE CONTRIBUTION CHALLENGE](http://twitter.com/search?q=KFORCE+CONTRIBUTION+CHALLENGE) | N/A |
+| 21 | [KANAGA JNR NWACHINEMERE](http://twitter.com/search?q=KANAGA+JNR+NWACHINEMERE) | N/A |
+| 22 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 23 | [Benin](http://twitter.com/search?q=Benin) | N/A |
+| 24 | [20 SANs](http://twitter.com/search?q=20+SANs) | N/A |
+| 25 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
+| 26 | [Advice](http://twitter.com/search?q=Advice) | N/A |
+| 27 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 28 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 30 | [Dipo](http://twitter.com/search?q=Dipo) | N/A |
+| 31 | [Results Obtained](http://twitter.com/search?q=Results+Obtained) | N/A |
+| 32 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 33 | [STAKE $LFG](http://twitter.com/search?q=STAKE+%24LFG) | N/A |
+| 34 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 35 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
+| 36 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
+| 37 | [Atam](http://twitter.com/search?q=Atam) | N/A |
+| 38 | [finally god](http://twitter.com/search?q=finally+god) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 41 | [Lagosians](http://twitter.com/search?q=Lagosians) | N/A |
+| 42 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 43 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 44 | [19 States](http://twitter.com/search?q=19+States) | N/A |
+| 45 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 46 | [Rows](http://twitter.com/search?q=Rows) | N/A |
+| 47 | [Ambode](http://twitter.com/search?q=Ambode) | N/A |
+| 48 | [Olanipekun](http://twitter.com/search?q=Olanipekun) | N/A |
+| 49 | [Through Christ](http://twitter.com/search?q=Through+Christ) | N/A |
+| 50 | [Yabatech](http://twitter.com/search?q=Yabatech) | N/A |
 
 
 
