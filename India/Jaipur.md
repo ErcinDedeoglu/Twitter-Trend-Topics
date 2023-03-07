@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-07 02:44:28 UTC`
+📆 Last Updated: `2023-03-07 03:27:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,23 +20,34 @@ This is top 50 for [India](</India>)
 | 3 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 4 | [#ElderlyCare](http://twitter.com/search?q=%23ElderlyCare) | N/A |
 | 5 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 6 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 7 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
-| 8 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 9 | [सुख तथा पूर्ण मोक्ष](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 10 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
-| 11 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 12 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
-| 13 | [वास्तविक राम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%b5%e0%a4%bf%e0%a4%95+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [Prahlad](http://twitter.com/search?q=Prahlad) | N/A |
-| 15 | [पवित्र अग्नि](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf) | N/A |
-| 16 | [भक्त प्रह्लाद](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6) | N/A |
-| 17 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
-| 18 | [#होली](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
-| 19 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 20 | [#NTRGoesGlobal](http://twitter.com/search?q=%23NTRGoesGlobal) | N/A |
-| 21 | [#ManOfMassesNTR](http://twitter.com/search?q=%23ManOfMassesNTR) | N/A |
-| 22 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
+| 6 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
+| 7 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 8 | [#होली](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [Agencies Puppet InSSRCase](http://twitter.com/search?q=Agencies+Puppet+InSSRCase) | N/A |
+| 11 | [True Guru](http://twitter.com/search?q=True+Guru) | N/A |
+| 12 | [सुख तथा पूर्ण मोक्ष](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 13 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 14 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 15 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
+| 16 | [वास्तविक राम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%b5%e0%a4%bf%e0%a4%95+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 17 | [भक्त प्रह्लाद](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6) | N/A |
+| 18 | [Prahlad](http://twitter.com/search?q=Prahlad) | N/A |
+| 19 | [पवित्र अग्नि](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf) | N/A |
+| 20 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 21 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 22 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 23 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 24 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
+| 25 | [#DolaPurnima](http://twitter.com/search?q=%23DolaPurnima) | N/A |
+| 26 | [#HappyBirthdayPTR](http://twitter.com/search?q=%23HappyBirthdayPTR) | N/A |
+| 27 | [#JanAushadhiDiwas2023](http://twitter.com/search?q=%23JanAushadhiDiwas2023) | N/A |
+| 28 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 29 | [#NTRGoesGlobal](http://twitter.com/search?q=%23NTRGoesGlobal) | N/A |
+| 30 | [#होलिकोत्सव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
+| 31 | [#ManOfMassesNTR](http://twitter.com/search?q=%23ManOfMassesNTR) | N/A |
+| 32 | [#RahulBetraysBharat](http://twitter.com/search?q=%23RahulBetraysBharat) | N/A |
+| 33 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
 
 
 

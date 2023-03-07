@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-07 02:44:31 UTC`
+📆 Last Updated: `2023-03-07 03:27:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YenidenErdoğanKazanacak](http://twitter.com/search?q=%23YenidenErdo%c4%9fanKazanacak) | N/A |
-| 2 | [#TeşekkürlerAkşener](http://twitter.com/search?q=%23Te%c5%9fekk%c3%bcrlerAk%c5%9fener) | N/A |
-| 3 | [#ERDOĞANIDURDURAMAZSINIZ](http://twitter.com/search?q=%23ERDO%c4%9eANIDURDURAMAZSINIZ) | N/A |
-| 4 | [#KemalKılıcdaroglu](http://twitter.com/search?q=%23KemalK%c4%b1l%c4%b1cdaroglu) | N/A |
-| 5 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 6 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 7 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 8 | [Hasan Öztürk](http://twitter.com/search?q=Hasan+%c3%96zt%c3%bcrk) | N/A |
-| 9 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 10 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 11 | [CUMHURBAŞKANI KEMAL](http://twitter.com/search?q=CUMHURBA%c5%9eKANI+KEMAL) | N/A |
-| 12 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 13 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
-| 14 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
-| 15 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
-| 16 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 17 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 18 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
-| 19 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 20 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 21 | [Kemal'e](http://twitter.com/search?q=Kemal%27e) | N/A |
-| 22 | [Milli](http://twitter.com/search?q=Milli) | N/A |
-| 23 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
-| 24 | [Pensilvanya](http://twitter.com/search?q=Pensilvanya) | N/A |
-| 25 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 26 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
-| 27 | [YEDİ DÜVEL GELSEDE](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVEL+GELSEDE) | N/A |
-| 28 | [Nagehan Alçı](http://twitter.com/search?q=Nagehan+Al%c3%a7%c4%b1) | N/A |
-| 29 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 30 | [Hürmüz](http://twitter.com/search?q=H%c3%bcrm%c3%bcz) | N/A |
-| 31 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 32 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 33 | [Millet İttifakına](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1na) | N/A |
-| 34 | [#Halaİnce](http://twitter.com/search?q=%23Hala%c4%b0nce) | N/A |
-| 35 | [#BASLIYORUZ](http://twitter.com/search?q=%23BASLIYORUZ) | N/A |
-| 36 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
-| 37 | [#GidiyorsunCHP](http://twitter.com/search?q=%23GidiyorsunCHP) | N/A |
-| 38 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 39 | [#CumhurbaskanıKılıcdaroğlu](http://twitter.com/search?q=%23Cumhurbaskan%c4%b1K%c4%b1l%c4%b1cdaro%c4%9flu) | N/A |
-| 40 | [#StajÇıraklıkTorbaya](http://twitter.com/search?q=%23Staj%c3%87%c4%b1rakl%c4%b1kTorbaya) | N/A |
-| 41 | [#ŞimdiSıraBizde](http://twitter.com/search?q=%23%c5%9eimdiS%c4%b1raBizde) | N/A |
-| 42 | [#CicekSepetiBoykot](http://twitter.com/search?q=%23CicekSepetiBoykot) | N/A |
-| 43 | [#PencerendeBirMumYak](http://twitter.com/search?q=%23PencerendeBirMumYak) | N/A |
-| 44 | [#ÜlküsüzMeral](http://twitter.com/search?q=%23%c3%9clk%c3%bcs%c3%bczMeral) | N/A |
-| 45 | [#mandalradyo](http://twitter.com/search?q=%23mandalradyo) | N/A |
-| 46 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
-| 47 | [#TemelKaramollaoğlu](http://twitter.com/search?q=%23TemelKaramollao%c4%9flu) | N/A |
-| 48 | [#KHKlıDemokrasiİstiyor](http://twitter.com/search?q=%23KHKl%c4%b1Demokrasi%c4%b0stiyor) | N/A |
-| 49 | [#bülentkorkmazistifa](http://twitter.com/search?q=%23b%c3%bclentkorkmazistifa) | N/A |
+| 1 | [#KEMALKILIÇDAROĞLU](http://twitter.com/search?q=%23KEMALKILI%c3%87DARO%c4%9eLU) | N/A |
+| 2 | [#BeratKandili](http://twitter.com/search?q=%23BeratKandili) | N/A |
+| 3 | [#GidiyorsunAKP](http://twitter.com/search?q=%23GidiyorsunAKP) | N/A |
+| 4 | [#YenidenErdoğanKazanacak](http://twitter.com/search?q=%23YenidenErdo%c4%9fanKazanacak) | N/A |
+| 5 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 6 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 7 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
+| 8 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 9 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 10 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 11 | [namussuz siyaset](http://twitter.com/search?q=namussuz+siyaset) | N/A |
+| 12 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 13 | [enuygunfiyatlı tthizmeti](http://twitter.com/search?q=enuygunfiyatl%c4%b1+tthizmeti) | N/A |
+| 14 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 15 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 16 | [Bursaspor](http://twitter.com/search?q=Bursaspor) | N/A |
+| 17 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 18 | [Rakı](http://twitter.com/search?q=Rak%c4%b1) | N/A |
+| 19 | [HER ŞEY ÇOK GÜZEL OLACAK](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+G%c3%9cZEL+OLACAK) | N/A |
+| 20 | [GÜÇLENDİRİLMİŞ KAOS SİSTEMİ](http://twitter.com/search?q=G%c3%9c%c3%87LEND%c4%b0R%c4%b0LM%c4%b0%c5%9e+KAOS+S%c4%b0STEM%c4%b0) | N/A |
+| 21 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 22 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 23 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
+| 24 | [mit başkanı](http://twitter.com/search?q=mit+ba%c5%9fkan%c4%b1) | N/A |
+| 25 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
+| 26 | [fetö aklı](http://twitter.com/search?q=fet%c3%b6+akl%c4%b1) | N/A |
+| 27 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 28 | [Temel Karamollaoğlu](http://twitter.com/search?q=Temel+Karamollao%c4%9flu) | N/A |
+| 29 | [Zafer Şahin](http://twitter.com/search?q=Zafer+%c5%9eahin) | N/A |
+| 30 | [Noter](http://twitter.com/search?q=Noter) | N/A |
+| 31 | [İmamoğlu](http://twitter.com/search?q=%c4%b0mamo%c4%9flu) | N/A |
+| 32 | [Yusuf Yusuf](http://twitter.com/search?q=Yusuf+Yusuf) | N/A |
+| 33 | [Tam 1](http://twitter.com/search?q=Tam+1) | N/A |
+| 34 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 35 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 36 | [Ali İsmail](http://twitter.com/search?q=Ali+%c4%b0smail) | N/A |
+| 37 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
+| 38 | [HEPİNİZ YARGILANACAKSINIZ](http://twitter.com/search?q=HEP%c4%b0N%c4%b0Z+YARGILANACAKSINIZ) | N/A |
+| 39 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 40 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 41 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 42 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 43 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
+| 44 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 45 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
+| 46 | [Tadelle](http://twitter.com/search?q=Tadelle) | N/A |
+| 47 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 48 | [Gönülsüz](http://twitter.com/search?q=G%c3%b6n%c3%bcls%c3%bcz) | N/A |
+| 49 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
 
 
 

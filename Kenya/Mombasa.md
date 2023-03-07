@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-07 02:44:22 UTC`
+📆 Last Updated: `2023-03-07 03:27:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 6 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [Meru University](http://twitter.com/search?q=Meru+University) | N/A |
-| 10 | [#WatuSiWajingaKinyua](http://twitter.com/search?q=%23WatuSiWajingaKinyua) | N/A |
+| 7 | [#AmkanaWestFm](http://twitter.com/search?q=%23AmkanaWestFm) | N/A |
+| 8 | [Meru University](http://twitter.com/search?q=Meru+University) | N/A |
+| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 11 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 | 12 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
 | 13 | [7th Heaven](http://twitter.com/search?q=7th+Heaven) | N/A |
-| 14 | [register 4 secureexpo](http://twitter.com/search?q=register+4+secureexpo) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [xtian dela](http://twitter.com/search?q=xtian+dela) | N/A |
-| 17 | [kiburi fc](http://twitter.com/search?q=kiburi+fc) | N/A |
-| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 20 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 21 | [Aaron Cheruiyot](http://twitter.com/search?q=Aaron+Cheruiyot) | N/A |
-| 22 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
+| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 15 | [Aaron Cheruiyot](http://twitter.com/search?q=Aaron+Cheruiyot) | N/A |
+| 16 | [register 4 secureexpo](http://twitter.com/search?q=register+4+secureexpo) | N/A |
+| 17 | [xtian dela](http://twitter.com/search?q=xtian+dela) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [kiburi fc](http://twitter.com/search?q=kiburi+fc) | N/A |
+| 20 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 21 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 22 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
 | 23 | [normalize using paysii](http://twitter.com/search?q=normalize+using+paysii) | N/A |
-| 24 | [mandago](http://twitter.com/search?q=mandago) | N/A |
-| 25 | [Starehe](http://twitter.com/search?q=Starehe) | N/A |
-| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 27 | [optiven leads africa](http://twitter.com/search?q=optiven+leads+africa) | N/A |
-| 28 | [ronoh](http://twitter.com/search?q=ronoh) | N/A |
+| 24 | [optiven leads africa](http://twitter.com/search?q=optiven+leads+africa) | N/A |
+| 25 | [mandago](http://twitter.com/search?q=mandago) | N/A |
+| 26 | [Starehe](http://twitter.com/search?q=Starehe) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Ronoh](http://twitter.com/search?q=Ronoh) | N/A |
 | 29 | [joseph kinyua](http://twitter.com/search?q=joseph+kinyua) | N/A |
 | 30 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
 | 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 32 | [soko directory](http://twitter.com/search?q=soko+directory) | N/A |
 | 33 | [Uhuru and Raila](http://twitter.com/search?q=Uhuru+and+Raila) | N/A |
 | 34 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 35 | [The Butcher](http://twitter.com/search?q=The+Butcher) | The Butcher is a slang term used to refer to someone who is particularly violent or ruthless. It is often used to describe someone who has committed a particularly heinous act of violence or cruelty. |
+| 35 | [Butcher](http://twitter.com/search?q=Butcher) | N/A |
 | 36 | [Fred Matiang'i](http://twitter.com/search?q=Fred+Matiang%27i) | N/A |
-| 37 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 38 | [Title](http://twitter.com/search?q=Title) | N/A |
+| 37 | [Title](http://twitter.com/search?q=Title) | N/A |
+| 38 | [Donate](http://twitter.com/search?q=Donate) | N/A |
 | 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 40 | [Donate](http://twitter.com/search?q=Donate) | N/A |
-| 41 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
-| 42 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
+| 40 | [thanksgiving](http://twitter.com/search?q=thanksgiving) | N/A |
+| 41 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 42 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
 | 43 | [Selective Outrage](http://twitter.com/search?q=Selective+Outrage) | N/A |
-| 44 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 45 | [Cartel](http://twitter.com/search?q=Cartel) | N/A |
-| 46 | [dm or whatsapp](http://twitter.com/search?q=dm+or+whatsapp) | N/A |
-| 47 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 49 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 50 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 46 | [Peter Drury](http://twitter.com/search?q=Peter+Drury) | N/A |
+| 47 | [dm or whatsapp](http://twitter.com/search?q=dm+or+whatsapp) | N/A |
+| 48 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 49 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 50 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 
 
 

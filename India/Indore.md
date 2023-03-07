@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-07 02:44:29 UTC`
+📆 Last Updated: `2023-03-07 03:27:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,34 @@ This is top 50 for [India](</India>)
 | 3 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 4 | [#ElderlyCare](http://twitter.com/search?q=%23ElderlyCare) | N/A |
 | 5 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 6 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 7 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
-| 8 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 9 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 10 | [#RCBvsMI](http://twitter.com/search?q=%23RCBvsMI) | N/A |
-| 11 | [Agencies Puppet InSSRCase](http://twitter.com/search?q=Agencies+Puppet+InSSRCase) | N/A |
+| 6 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
+| 7 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 8 | [#होली](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [Agencies Puppet InSSRCase](http://twitter.com/search?q=Agencies+Puppet+InSSRCase) | N/A |
+| 11 | [True Guru](http://twitter.com/search?q=True+Guru) | N/A |
 | 12 | [सुख तथा पूर्ण मोक्ष](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 13 | [True Guru](http://twitter.com/search?q=True+Guru) | N/A |
-| 14 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 14 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
 | 15 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
-| 16 | [Ram Naam](http://twitter.com/search?q=Ram+Naam) | N/A |
-| 17 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 18 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 19 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 20 | [विजय चौधरी](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [गोविंद बल्लभ पंत](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%ac%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [वास्तविक राम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%b5%e0%a4%bf%e0%a4%95+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 24 | [Naam Diksha](http://twitter.com/search?q=Naam+Diksha) | N/A |
-| 25 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 26 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 27 | [सुख दाता](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be) | N/A |
-| 28 | [राबड़ी देवी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 29 | [Prahlad](http://twitter.com/search?q=Prahlad) | N/A |
-| 30 | [WAY OF LIVING](http://twitter.com/search?q=WAY+OF+LIVING) | N/A |
-| 31 | [उस्मान चौधरी](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 32 | [पवित्र अग्नि](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf) | N/A |
-| 33 | [cbi disappoints inssrcase](http://twitter.com/search?q=cbi+disappoints+inssrcase) | N/A |
-| 34 | [सार्थक जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%95+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
-| 35 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 36 | [सदा याद](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a6) | N/A |
-| 37 | [Sushant Honest 2His Work](http://twitter.com/search?q=Sushant+Honest+2His+Work) | N/A |
-| 38 | [भक्त प्रह्लाद](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6) | N/A |
-| 39 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 40 | [New Light of Hope](http://twitter.com/search?q=New+Light+of+Hope) | N/A |
-| 41 | [GRACE HARRIS](http://twitter.com/search?q=GRACE+HARRIS) | N/A |
-| 42 | [पूर्ण परमेश्वर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 43 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
-| 44 | [ratri jagran](http://twitter.com/search?q=ratri+jagran) | N/A |
-| 45 | [SPIRITUAL AWAKENING](http://twitter.com/search?q=SPIRITUAL+AWAKENING) | N/A |
-| 46 | [पाप कर्म](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%aa+%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 47 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 48 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 49 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 50 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 16 | [वास्तविक राम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%b5%e0%a4%bf%e0%a4%95+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 17 | [भक्त प्रह्लाद](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6) | N/A |
+| 18 | [Prahlad](http://twitter.com/search?q=Prahlad) | N/A |
+| 19 | [पवित्र अग्नि](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf) | N/A |
+| 20 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 21 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 22 | [Pappu](http://twitter.com/search?q=Pappu) | N/A |
+| 23 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 24 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
+| 25 | [#DolaPurnima](http://twitter.com/search?q=%23DolaPurnima) | N/A |
+| 26 | [#HappyBirthdayPTR](http://twitter.com/search?q=%23HappyBirthdayPTR) | N/A |
+| 27 | [#JanAushadhiDiwas2023](http://twitter.com/search?q=%23JanAushadhiDiwas2023) | N/A |
+| 28 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 29 | [#NTRGoesGlobal](http://twitter.com/search?q=%23NTRGoesGlobal) | N/A |
+| 30 | [#होलिकोत्सव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
+| 31 | [#ManOfMassesNTR](http://twitter.com/search?q=%23ManOfMassesNTR) | N/A |
+| 32 | [#RahulBetraysBharat](http://twitter.com/search?q=%23RahulBetraysBharat) | N/A |
+| 33 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
 
 
 
