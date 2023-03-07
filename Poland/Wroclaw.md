@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-06 23:16:47 UTC`
+📆 Last Updated: `2023-03-07 00:30:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 2 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
-| 3 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
-| 4 | [#Bielmo](http://twitter.com/search?q=%23Bielmo) | N/A |
-| 5 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
-| 6 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 7 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
-| 8 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 9 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 10 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 11 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 12 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 13 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
+| 1 | [#SzczucieZabija](http://twitter.com/search?q=%23SzczucieZabija) | N/A |
+| 2 | [#KorupcjaUBielana](http://twitter.com/search?q=%23KorupcjaUBielana) | N/A |
+| 3 | [#LIVMUN](http://twitter.com/search?q=%23LIVMUN) | N/A |
+| 4 | [#ApelDoTVP](http://twitter.com/search?q=%23ApelDoTVP) | N/A |
+| 5 | [#RADZAG](http://twitter.com/search?q=%23RADZAG) | N/A |
+| 6 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 7 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 8 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 9 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 10 | [Wojtyły](http://twitter.com/search?q=Wojty%c5%82y) | N/A |
+| 11 | [Pablo Morales](http://twitter.com/search?q=Pablo+Morales) | N/A |
+| 12 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 14 | [Trela](http://twitter.com/search?q=Trela) | N/A |
 | 15 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
 | 16 | [The Sun](http://twitter.com/search?q=The+Sun) | N/A |
-| 17 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 18 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
-| 19 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 20 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 17 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 18 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 19 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 20 | [Sapieha](http://twitter.com/search?q=Sapieha) | N/A |
 | 21 | [Adamowicza](http://twitter.com/search?q=Adamowicza) | N/A |
 | 22 | [Duklanowskiego](http://twitter.com/search?q=Duklanowskiego) | N/A |
-| 23 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
-| 24 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 25 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
-| 26 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
-| 27 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 28 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
-| 29 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
-| 30 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
-| 31 | [Kurzępa](http://twitter.com/search?q=Kurz%c4%99pa) | N/A |
-| 32 | [Podpisane](http://twitter.com/search?q=Podpisane) | N/A |
-| 33 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
-| 34 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
-| 35 | [Sapiehy](http://twitter.com/search?q=Sapiehy) | N/A |
-| 36 | [Wiedział](http://twitter.com/search?q=Wiedzia%c5%82) | N/A |
-| 37 | [Ogórek](http://twitter.com/search?q=Og%c3%b3rek) | N/A |
-| 38 | [Mi-24](http://twitter.com/search?q=Mi-24) | N/A |
-| 39 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
-| 40 | [natemat](http://twitter.com/search?q=natemat) | N/A |
-| 41 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 23 | [Franciszkańska 3](http://twitter.com/search?q=Franciszka%c5%84ska+3) | N/A |
+| 24 | [Koszyczek](http://twitter.com/search?q=Koszyczek) | N/A |
+| 25 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
+| 26 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 27 | [Kozidrak](http://twitter.com/search?q=Kozidrak) | N/A |
+| 28 | [Mleko](http://twitter.com/search?q=Mleko) | N/A |
+| 29 | [Liczby](http://twitter.com/search?q=Liczby) | N/A |
+| 30 | [Sława Ukrainie](http://twitter.com/search?q=S%c5%82awa+Ukrainie) | N/A |
+| 31 | [Łącki](http://twitter.com/search?q=%c5%81%c4%85cki) | N/A |
+| 32 | [Kurzępa](http://twitter.com/search?q=Kurz%c4%99pa) | N/A |
+| 33 | [Podpisane](http://twitter.com/search?q=Podpisane) | N/A |
+| 34 | [Mikołajkach](http://twitter.com/search?q=Miko%c5%82ajkach) | N/A |
+| 35 | [Ogórek](http://twitter.com/search?q=Og%c3%b3rek) | N/A |
+| 36 | [Pedofil](http://twitter.com/search?q=Pedofil) | N/A |
+| 37 | [Wiedział](http://twitter.com/search?q=Wiedzia%c5%82) | N/A |
+| 38 | [Jesteś](http://twitter.com/search?q=Jeste%c5%9b) | N/A |
+| 39 | [Mi-24](http://twitter.com/search?q=Mi-24) | N/A |
+| 40 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
+| 41 | [natemat](http://twitter.com/search?q=natemat) | N/A |
 | 42 | [Motorze](http://twitter.com/search?q=Motorze) | N/A |
-| 43 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
-| 44 | [Dziwisz](http://twitter.com/search?q=Dziwisz) | N/A |
-| 45 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 43 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 44 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 45 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
 | 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 47 | [Matka](http://twitter.com/search?q=Matka) | N/A |
-| 48 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
-| 49 | [valencii](http://twitter.com/search?q=valencii) | N/A |
-| 50 | [Czarnecki](http://twitter.com/search?q=Czarnecki) | N/A |
+| 48 | [valencii](http://twitter.com/search?q=valencii) | N/A |
+| 49 | [Żywa](http://twitter.com/search?q=%c5%bbywa) | N/A |
+| 50 | [Ścigaj](http://twitter.com/search?q=%c5%9acigaj) | N/A |
 
 
 

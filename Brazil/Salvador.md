@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-06 23:16:44 UTC`
+📆 Last Updated: `2023-03-07 00:30:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 2 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 3 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 3 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
 | 4 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
-| 5 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
-| 6 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 7 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 8 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
-| 9 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 10 | [#kitsunenacdanjos](http://twitter.com/search?q=%23kitsunenacdanjos) | N/A |
-| 11 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 12 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
-| 13 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 5 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 6 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 7 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 8 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 9 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 10 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 11 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
+| 12 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
+| 13 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 | 14 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 15 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 16 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 17 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
-| 18 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 19 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 20 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 21 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 22 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 23 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 24 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 25 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 26 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
-| 27 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 28 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 29 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 30 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
-| 31 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 32 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 33 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 34 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 35 | [aegyo](http://twitter.com/search?q=aegyo) | N/A |
-| 36 | [Capitão Hipoglós](http://twitter.com/search?q=Capit%c3%a3o+Hipogl%c3%b3s) | N/A |
-| 37 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 38 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
-| 39 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 40 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 41 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 42 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 43 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 44 | [Carnaval de Porto Alegre](http://twitter.com/search?q=Carnaval+de+Porto+Alegre) | N/A |
-| 45 | [Cody Fern](http://twitter.com/search?q=Cody+Fern) | N/A |
-| 46 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 47 | [Ikki](http://twitter.com/search?q=Ikki) | N/A |
-| 48 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
-| 49 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 50 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
+| 15 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 16 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 17 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 18 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 19 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 20 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 21 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 22 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 23 | [#YOONWEEKD2](http://twitter.com/search?q=%23YOONWEEKD2) | N/A |
+| 24 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 25 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
+| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 27 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 28 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 29 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 30 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 31 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
+| 32 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 33 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 34 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 35 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
+| 36 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
+| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 38 | [Joui](http://twitter.com/search?q=Joui) | N/A |
+| 39 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 40 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 41 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 42 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 43 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
+| 44 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 45 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 46 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
+| 47 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 48 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
+| 49 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
+| 50 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
 
 
 

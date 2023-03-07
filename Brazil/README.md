@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-06 23:17:23 UTC`
+📆 Last Updated: `2023-03-07 00:31:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
-| 2 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
-| 3 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
-| 4 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 5 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 6 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
-| 7 | [#KitsuneNaB4](http://twitter.com/search?q=%23KitsuneNaB4) | N/A |
-| 8 | [#kitsunenacdanjos](http://twitter.com/search?q=%23kitsunenacdanjos) | N/A |
-| 9 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 1 | [#VoleiNoSportv](http://twitter.com/search?q=%23VoleiNoSportv) | N/A |
+| 2 | [#FixDehya](http://twitter.com/search?q=%23FixDehya) | N/A |
+| 3 | [Vade Mecum](http://twitter.com/search?q=Vade+Mecum) | N/A |
+| 4 | [Kwid](http://twitter.com/search?q=Kwid) | N/A |
+| 5 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 6 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 7 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 8 | [Jojo Todynho](http://twitter.com/search?q=Jojo+Todynho) | N/A |
+| 9 | [#FreenBeckHoldOurHand](http://twitter.com/search?q=%23FreenBeckHoldOurHand) | N/A |
 | 10 | [O Segredo](http://twitter.com/search?q=O+Segredo) | N/A |
-| 11 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
-| 12 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
-| 13 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
-| 14 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
-| 15 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
-| 16 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
-| 17 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
-| 18 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
-| 19 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
-| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 21 | [Xande](http://twitter.com/search?q=Xande) | N/A |
-| 22 | [Nilce](http://twitter.com/search?q=Nilce) | N/A |
-| 23 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
-| 24 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
-| 25 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 26 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
-| 27 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 28 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 29 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 30 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 31 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 32 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 33 | [aegyo](http://twitter.com/search?q=aegyo) | N/A |
-| 34 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 35 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
-| 36 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 37 | [Capitão Hipoglós](http://twitter.com/search?q=Capit%c3%a3o+Hipogl%c3%b3s) | N/A |
-| 38 | [Ghosted](http://twitter.com/search?q=Ghosted) | N/A |
-| 39 | [Piedade](http://twitter.com/search?q=Piedade) | N/A |
-| 40 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 41 | [Ana de Armas](http://twitter.com/search?q=Ana+de+Armas) | Ana de Armas is a Cuban-Spanish actress. Her name translates to Anna of Arms in English. She is best known for her roles in the films Blade Runner 2049, Knives Out, and No Time to Die. |
-| 42 | [Pernambuco](http://twitter.com/search?q=Pernambuco) | N/A |
-| 43 | [Carnaval de Porto Alegre](http://twitter.com/search?q=Carnaval+de+Porto+Alegre) | N/A |
-| 44 | [Cody Fern](http://twitter.com/search?q=Cody+Fern) | N/A |
-| 45 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 46 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 11 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 12 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 13 | [Ordem Paranormal](http://twitter.com/search?q=Ordem+Paranormal) | N/A |
+| 14 | [Outro Lado](http://twitter.com/search?q=Outro+Lado) | N/A |
+| 15 | [Floresta](http://twitter.com/search?q=Floresta) | Floresta is a Portuguese word meaning "forest". It is used to refer to a large area of land covered with trees and other vegetation. |
+| 16 | [jenna](http://twitter.com/search?q=jenna) | Jenna is a female given name of Arabic origin, meaning “heaven” or “paradise”. |
+| 17 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 18 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
+| 19 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 20 | [#YOONWEEKD2](http://twitter.com/search?q=%23YOONWEEKD2) | N/A |
+| 21 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 22 | [PARABENS LUCY](http://twitter.com/search?q=PARABENS+LUCY) | N/A |
+| 23 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 24 | [MIN YOONGI NO BRASIL](http://twitter.com/search?q=MIN+YOONGI+NO+BRASIL) | N/A |
+| 25 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 26 | [Amelie](http://twitter.com/search?q=Amelie) | N/A |
+| 27 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 28 | [Chorão](http://twitter.com/search?q=Chor%c3%a3o) | N/A |
+| 29 | [Juscelino](http://twitter.com/search?q=Juscelino) | N/A |
+| 30 | [Guizo](http://twitter.com/search?q=Guizo) | N/A |
+| 31 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 32 | [Recreio](http://twitter.com/search?q=Recreio) | N/A |
+| 33 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 34 | [Yampi](http://twitter.com/search?q=Yampi) | N/A |
+| 35 | [Mobi](http://twitter.com/search?q=Mobi) | N/A |
+| 36 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 37 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 38 | [Joui](http://twitter.com/search?q=Joui) | N/A |
+| 39 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 40 | [Jordana](http://twitter.com/search?q=Jordana) | N/A |
+| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 42 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 43 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 44 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 45 | [CELINETTPB NA TWITCH](http://twitter.com/search?q=CELINETTPB+NA+TWITCH) | N/A |
+| 46 | [Restinga](http://twitter.com/search?q=Restinga) | N/A |
 | 47 | [Tubarão](http://twitter.com/search?q=Tubar%c3%a3o) | N/A |
-| 48 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 49 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
-| 50 | [Costas](http://twitter.com/search?q=Costas) | N/A |
+| 48 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 49 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 50 | [Noronha](http://twitter.com/search?q=Noronha) | N/A |
 
 
 

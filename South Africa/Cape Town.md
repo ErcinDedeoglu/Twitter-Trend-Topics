@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-06 23:17:05 UTC`
+📆 Last Updated: `2023-03-07 00:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [South Africa](</South Africa>)
 | 8 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
 | 9 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
 | 10 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 11 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 12 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 13 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
-| 14 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
-| 15 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 16 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 17 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 18 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
-| 19 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 20 | [#umkhokha](http://twitter.com/search?q=%23umkhokha) | N/A |
-| 21 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 22 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 23 | [#mccafemotivationalmonday](http://twitter.com/search?q=%23mccafemotivationalmonday) | N/A |
-| 24 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
-| 25 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 28 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
-| 29 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 32 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 33 | [Veto](http://twitter.com/search?q=Veto) | N/A |
-| 34 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 35 | [Kgosientsho Ramokgopa](http://twitter.com/search?q=Kgosientsho+Ramokgopa) | N/A |
-| 36 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 11 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
+| 12 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
+| 13 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 14 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 15 | [Nathi Mthethwa](http://twitter.com/search?q=Nathi+Mthethwa) | N/A |
+| 16 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
+| 17 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 18 | [#Umkhokha](http://twitter.com/search?q=%23Umkhokha) | N/A |
+| 19 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 20 | [#mccafemotivationalmonday](http://twitter.com/search?q=%23mccafemotivationalmonday) | N/A |
+| 21 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 22 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
+| 23 | [Zizi Kodwa](http://twitter.com/search?q=Zizi+Kodwa) | N/A |
+| 24 | [Youth](http://twitter.com/search?q=Youth) | N/A |
+| 25 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 26 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 29 | [Arts and Culture](http://twitter.com/search?q=Arts+and+Culture) | N/A |
+| 30 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 33 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 34 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 35 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 36 | [Angie](http://twitter.com/search?q=Angie) | N/A |
 | 37 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 38 | [Ministry](http://twitter.com/search?q=Ministry) | N/A |
-| 39 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 40 | [Patricia de Lille](http://twitter.com/search?q=Patricia+de+Lille) | N/A |
-| 41 | [pabi cooper](http://twitter.com/search?q=pabi+cooper) | N/A |
-| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 43 | [load a buddy](http://twitter.com/search?q=load+a+buddy) | N/A |
-| 44 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 45 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
-| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 48 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 49 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
-| 50 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 38 | [pabi cooper](http://twitter.com/search?q=pabi+cooper) | N/A |
+| 39 | [Kgosientsho Ramokgopa](http://twitter.com/search?q=Kgosientsho+Ramokgopa) | N/A |
+| 40 | [load a buddy](http://twitter.com/search?q=load+a+buddy) | N/A |
+| 41 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 42 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 43 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 44 | [Sihle Zikalala](http://twitter.com/search?q=Sihle+Zikalala) | N/A |
+| 45 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 46 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 47 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 48 | [public protector](http://twitter.com/search?q=public+protector) | N/A |
+| 49 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 50 | [Monitoring and Evaluation](http://twitter.com/search?q=Monitoring+and+Evaluation) | N/A |
 
 
 

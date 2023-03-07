@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-06 23:16:34 UTC`
+📆 Last Updated: `2023-03-07 00:30:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaIslaDeLasTentaciones7](http://twitter.com/search?q=%23LaIslaDeLasTentaciones7) | N/A |
-| 2 | [#الهلال_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 3 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [#LaIslaDeLasTentaciones7](http://twitter.com/search?q=%23LaIslaDeLasTentaciones7) | N/A |
+| 3 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
 | 4 | [#記憶を消してプレイしたいゲーム](http://twitter.com/search?q=%23%e8%a8%98%e6%86%b6%e3%82%92%e6%b6%88%e3%81%97%e3%81%a6%e3%83%97%e3%83%ac%e3%82%a4%e3%81%97%e3%81%9f%e3%81%84%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 5 | [#ゆっくり寝ろこより](http://twitter.com/search?q=%23%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a%e5%af%9d%e3%82%8d%e3%81%93%e3%82%88%e3%82%8a) | N/A |
-| 6 | [#YenidenErdoğanKazanacak](http://twitter.com/search?q=%23YenidenErdo%c4%9fanKazanacak) | N/A |
-| 7 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 8 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
-| 9 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 10 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 11 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
-| 12 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 13 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 14 | [サウナの日](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%8a%e3%81%ae%e6%97%a5) | N/A |
-| 15 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
-| 16 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 17 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 18 | [無料120連](http://twitter.com/search?q=%e7%84%a1%e6%96%99120%e9%80%a3) | N/A |
-| 19 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 20 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 21 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 22 | [Flos Mariae](http://twitter.com/search?q=Flos+Mariae) | N/A |
-| 23 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
-| 24 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
-| 25 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 27 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
-| 28 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 29 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 30 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 31 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 32 | [ラモーヌ完凸](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c%e5%ae%8c%e5%87%b8) | N/A |
-| 33 | [Μαρτικα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1) | N/A |
-| 34 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 35 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 36 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 37 | [Derrick Henry](http://twitter.com/search?q=Derrick+Henry) | Derrick Henry is an American football running back for the Tennessee Titans of the National Football League (NFL). He was drafted in the second round of the 2016 NFL Draft by the Titans. His name is derived from his father's name, Derrick Sr., and his middle name, Henry. The meaning of his name in English is "ruler of the home". |
-| 38 | [匠海ドラマ](http://twitter.com/search?q=%e5%8c%a0%e6%b5%b7%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 39 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 40 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 41 | [Chris Evans](http://twitter.com/search?q=Chris+Evans) | Chris Evans is the name of an American actor, best known for his roles in Marvel superhero films such as Captain America and The Avengers. He has also starred in films such as Snowpiercer, Gifted, and Knives Out. |
-| 42 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 43 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 44 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
-| 45 | [Xaviera](http://twitter.com/search?q=Xaviera) | N/A |
-| 46 | [HUMAN OF INTEREST PODCAST](http://twitter.com/search?q=HUMAN+OF+INTEREST+PODCAST) | N/A |
-| 47 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 48 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 49 | [無料10連最終日](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3%e6%9c%80%e7%b5%82%e6%97%a5) | "無料10連最終日" is a phrase used in Japan to refer to the last day of a free 10-day trial period. In English, it translates to "Free 10-Day Trial Final Day". |
-| 50 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 5 | [Walgreens](http://twitter.com/search?q=Walgreens) | N/A |
+| 6 | [#ゆっくり寝ろこより](http://twitter.com/search?q=%23%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a%e5%af%9d%e3%82%8d%e3%81%93%e3%82%88%e3%82%8a) | N/A |
+| 7 | [君の彼氏](http://twitter.com/search?q=%e5%90%9b%e3%81%ae%e5%bd%bc%e6%b0%8f) | N/A |
+| 8 | [#PepinProfugoVIP](http://twitter.com/search?q=%23PepinProfugoVIP) | N/A |
+| 9 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 10 | [サウナの日](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%8a%e3%81%ae%e6%97%a5) | N/A |
+| 11 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 13 | [サモーン](http://twitter.com/search?q=%e3%82%b5%e3%83%a2%e3%83%bc%e3%83%b3) | N/A |
+| 14 | [Ja Warrant](http://twitter.com/search?q=Ja+Warrant) | N/A |
+| 15 | [農林水産省](http://twitter.com/search?q=%e8%be%b2%e6%9e%97%e6%b0%b4%e7%94%a3%e7%9c%81) | N/A |
+| 16 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 17 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 18 | [ラモーヌ完凸](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c%e5%ae%8c%e5%87%b8) | N/A |
+| 19 | [無料120連](http://twitter.com/search?q=%e7%84%a1%e6%96%99120%e9%80%a3) | N/A |
+| 20 | [韓国大使館](http://twitter.com/search?q=%e9%9f%93%e5%9b%bd%e5%a4%a7%e4%bd%bf%e9%a4%a8) | N/A |
+| 21 | [久留美ちゃん](http://twitter.com/search?q=%e4%b9%85%e7%95%99%e7%be%8e%e3%81%a1%e3%82%83%e3%82%93) | 久留美ちゃん is a nickname for the Japanese female name Kurumi. It is often used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 22 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 23 | [大谷翔平の株](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3%e3%81%ae%e6%a0%aa) | N/A |
+| 24 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 25 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 26 | [SPLC](http://twitter.com/search?q=SPLC) | N/A |
+| 27 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 28 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 29 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 30 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 31 | [Recife](http://twitter.com/search?q=Recife) | N/A |
+| 32 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
+| 33 | [くるみちゃん](http://twitter.com/search?q=%e3%81%8f%e3%82%8b%e3%81%bf%e3%81%a1%e3%82%83%e3%82%93) | くるみちゃん is a nickname for the Japanese character, Kurumi from the manga series Chibi Maruko-chan. It is a term of endearment used to refer to her in a cute and affectionate way. In English, it could be translated as "Kurumi-chan". |
+| 34 | [フライトナース](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88%e3%83%8a%e3%83%bc%e3%82%b9) | N/A |
+| 35 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 36 | [匠海ドラマ](http://twitter.com/search?q=%e5%8c%a0%e6%b5%b7%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 37 | [DMCA](http://twitter.com/search?q=DMCA) | N/A |
+| 38 | [脱衣麻雀](http://twitter.com/search?q=%e8%84%b1%e8%a1%a3%e9%ba%bb%e9%9b%80) | N/A |
+| 39 | [我妻さん](http://twitter.com/search?q=%e6%88%91%e5%a6%bb%e3%81%95%e3%82%93) | N/A |
+| 40 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 41 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 42 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
+| 43 | [ティファニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%95%e3%82%a1%e3%83%8b%e3%83%bc) | N/A |
+| 44 | [無料10連最終日](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3%e6%9c%80%e7%b5%82%e6%97%a5) | "無料10連最終日" is a phrase used in Japan to refer to the last day of a free 10-day trial period. In English, it translates to "Free 10-Day Trial Final Day". |
+| 45 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 46 | [ギャングラー](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%a9%e3%83%bc) | N/A |
+| 47 | [ペルー料理](http://twitter.com/search?q=%e3%83%9a%e3%83%ab%e3%83%bc%e6%96%99%e7%90%86) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 50 | [スプパラ初日](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%91%e3%83%a9%e5%88%9d%e6%97%a5) | N/A |
 
 
 
