@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-07 22:16:24 UTC`
+📆 Last Updated: `2023-03-07 23:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [France](</France>)
 | 3 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 4 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 6 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 7 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 10 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 6 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 7 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 8 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 10 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 11 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
 | 12 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 13 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 14 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 15 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 16 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 17 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 18 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 21 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 22 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 23 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 24 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 25 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 13 | [#CHEDOR](http://twitter.com/search?q=%23CHEDOR) | N/A |
+| 14 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 15 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 16 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
+| 17 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 19 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 20 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 21 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 22 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 25 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
 | 26 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 27 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 28 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 27 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 28 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
 | 29 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
 | 30 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 31 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
+| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 32 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 33 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
-| 34 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
-| 35 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 33 | [Rafa Silva](http://twitter.com/search?q=Rafa+Silva) | N/A |
+| 34 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
+| 35 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
 | 36 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 37 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
-| 38 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 39 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 40 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 41 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 42 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 43 | [Ministre de la Justice](http://twitter.com/search?q=Ministre+de+la+Justice) | N/A |
-| 44 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 45 | [Manon](http://twitter.com/search?q=Manon) | N/A |
-| 46 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 47 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
-| 48 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 49 | [Démission](http://twitter.com/search?q=D%c3%a9mission) | N/A |
+| 37 | [Sule](http://twitter.com/search?q=Sule) | N/A |
+| 38 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 39 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 40 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 41 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 42 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 43 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 44 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 45 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
+| 46 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
+| 47 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 48 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 49 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
 
 
 

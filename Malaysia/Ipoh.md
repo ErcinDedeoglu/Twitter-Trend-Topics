@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-07 22:16:39 UTC`
+📆 Last Updated: `2023-03-07 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,42 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 3 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 4 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 5 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 6 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 7 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
-| 10 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 11 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 12 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 14 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 15 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 4 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 5 | [#KTBFFH](http://twitter.com/search?q=%23KTBFFH) | N/A |
+| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 7 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 9 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 10 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 11 | [#WithoutUbyYUJU](http://twitter.com/search?q=%23WithoutUbyYUJU) | N/A |
+| 12 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 13 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 14 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 16 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
 | 17 | [ROMANSIK DAY WITH YOU](http://twitter.com/search?q=ROMANSIK+DAY+WITH+YOU) | N/A |
-| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 18 | [Howard](http://twitter.com/search?q=Howard) | N/A |
 | 19 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 20 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 21 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 22 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 23 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 21 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 22 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
+| 23 | [koo junhoe](http://twitter.com/search?q=koo+junhoe) | N/A |
 | 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
-| 26 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 27 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 28 | [Olivia Rodrigo](http://twitter.com/search?q=Olivia+Rodrigo) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Salam Nisfu Syaaban](http://twitter.com/search?q=Salam+Nisfu+Syaaban) | N/A |
-| 31 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 34 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 35 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 36 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 25 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 26 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 27 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
+| 28 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
+| 29 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Salam Nisfu Syaaban](http://twitter.com/search?q=Salam+Nisfu+Syaaban) | N/A |
+| 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 35 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 36 | [Niki](http://twitter.com/search?q=Niki) | N/A |
 | 37 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
 | 38 | [riki](http://twitter.com/search?q=riki) | N/A |
 | 39 | [Hadi](http://twitter.com/search?q=Hadi) | N/A |

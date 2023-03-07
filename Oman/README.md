@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-07 22:17:11 UTC`
+📆 Last Updated: `2023-03-07 23:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for Oman
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 2 | [#تواصل_رقمي_لنجاح_مجتمعي](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%d8%b1%d9%82%d9%85%d9%8a_%d9%84%d9%86%d8%ac%d8%a7%d8%ad_%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
-| 3 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 4 | [#اسبوع_الامن_الالكتروني](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 5 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 1 | [#تواصل_رقمي_لنجاح_مجتمعي](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%d8%b1%d9%82%d9%85%d9%8a_%d9%84%d9%86%d8%ac%d8%a7%d8%ad_%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
+| 2 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 3 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 4 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 5 | [#اسبوع_الامن_الالكتروني](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 6 | [#املنا_السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%84%d9%86%d8%a7_%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
 | 7 | [#نيلوه_لنس_مي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%84%d9%88%d9%87_%d9%84%d9%86%d8%b3_%d9%85%d9%8a) | N/A |
 | 8 | [بدر بن سعود بن حارب البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Oman
 | 38 | [وشمال افريقيا](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 39 | [الفرز الالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%8a) | N/A |
 | 40 | [حصه الرياده](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%af%d9%87) | N/A |
-| 41 | [الانشطه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 42 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 43 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 44 | [المدرسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 45 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 46 | [المجال الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 47 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 48 | [الجرايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [الطالبات الموهوبات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%88%d8%a8%d8%a7%d8%aa) | N/A |
-| 50 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 41 | [المتحف العماني الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 42 | [الانشطه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b4%d8%b7%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 43 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 44 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 45 | [المدرسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 46 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 47 | [المجال الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 49 | [الجرايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [الطالبات الموهوبات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%88%d8%a8%d8%a7%d8%aa) | N/A |
 
 
 
