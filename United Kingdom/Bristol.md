@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-03-08 08:16:57 UTC`
+📆 Last Updated: `2023-03-08 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
-| 2 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 3 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 7 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 8 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 9 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 10 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
-| 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 12 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 13 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 1 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 2 | [#smallboats](http://twitter.com/search?q=%23smallboats) | N/A |
+| 3 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
+| 4 | [#AsylumSeekers](http://twitter.com/search?q=%23AsylumSeekers) | N/A |
+| 5 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
+| 6 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 7 | [The Tory](http://twitter.com/search?q=The+Tory) | N/A |
+| 8 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 12 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 13 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 14 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 15 | [Andrew Pierce](http://twitter.com/search?q=Andrew+Pierce) | N/A |
-| 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 17 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 18 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 19 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 20 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
-| 21 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 22 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 23 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 24 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 25 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 26 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 27 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 28 | [Illegal Migration Bill](http://twitter.com/search?q=Illegal+Migration+Bill) | N/A |
-| 29 | [English Channel](http://twitter.com/search?q=English+Channel) | N/A |
-| 30 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 31 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
-| 32 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 33 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 34 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 35 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 36 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
-| 37 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 38 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 39 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
-| 40 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
-| 41 | [#ToriesOut244](http://twitter.com/search?q=%23ToriesOut244) | N/A |
-| 42 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
-| 43 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 44 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 45 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
-| 46 | [#GeneralElectionNow](http://twitter.com/search?q=%23GeneralElectionNow) | N/A |
-| 47 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
-| 48 | [#smallboats](http://twitter.com/search?q=%23smallboats) | N/A |
-| 49 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
+| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 16 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 17 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 19 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 20 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 21 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
+| 22 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 23 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 24 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
+| 25 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 26 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 27 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
+| 28 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 29 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 30 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
+| 31 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 32 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 33 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 34 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
+| 35 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 36 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
+| 37 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 38 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
+| 39 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 40 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 41 | [Nick Ferrari](http://twitter.com/search?q=Nick+Ferrari) | N/A |
+| 42 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [The UN](http://twitter.com/search?q=The+UN) | N/A |
+| 45 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 46 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
+| 47 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 48 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 49 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 50 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
 
 
 

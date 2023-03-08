@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-08 08:17:23 UTC`
+📆 Last Updated: `2023-03-08 09:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#謎解きフェスティバル](http://twitter.com/search?q=%23%e8%ac%8e%e8%a7%a3%e3%81%8d%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab) | #謎解きフェスティバル is a hashtag used to promote events or activities related to solving puzzles or riddles. In English, it translates to "Puzzle Solving Festival". |
-| 2 | [解答時間](http://twitter.com/search?q=%e8%a7%a3%e7%ad%94%e6%99%82%e9%96%93) | 解答時間 (kaisatsu jikan) is a Japanese term that refers to the time allotted for answering questions or responding to requests. In English, it can be translated as "response time". |
-| 3 | [黒子のバスケ](http://twitter.com/search?q=%e9%bb%92%e5%ad%90%e3%81%ae%e3%83%90%e3%82%b9%e3%82%b1) | N/A |
-| 4 | [カラスの生食](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%82%b9%e3%81%ae%e7%94%9f%e9%a3%9f) | N/A |
-| 5 | [隅田くん](http://twitter.com/search?q=%e9%9a%85%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
-| 6 | [#優吾のあしあと](http://twitter.com/search?q=%23%e5%84%aa%e5%90%be%e3%81%ae%e3%81%82%e3%81%97%e3%81%82%e3%81%a8) | N/A |
-| 7 | [グローブ座](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%96%e5%ba%a7) | N/A |
-| 8 | [#ミュージカルSPY](http://twitter.com/search?q=%23%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%abSPY) | N/A |
-| 9 | [ペンラカバー](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%83%a9%e3%82%ab%e3%83%90%e3%83%bc) | N/A |
-| 10 | [猫の恩返し](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e6%81%a9%e8%bf%94%e3%81%97) | N/A |
-| 11 | [#MWAM](http://twitter.com/search?q=%23MWAM) | N/A |
-| 12 | [キングレックス](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 13 | [てりたまの季節](http://twitter.com/search?q=%e3%81%a6%e3%82%8a%e3%81%9f%e3%81%be%e3%81%ae%e5%ad%a3%e7%af%80) | N/A |
-| 14 | [瀬戸内レモンタルタルベーコンてりたま](http://twitter.com/search?q=%e7%80%ac%e6%88%b8%e5%86%85%e3%83%ac%e3%83%a2%e3%83%b3%e3%82%bf%e3%83%ab%e3%82%bf%e3%83%ab%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%81%a6%e3%82%8a%e3%81%9f%e3%81%be) | N/A |
-| 15 | [Mハシさん](http://twitter.com/search?q=M%e3%83%8f%e3%82%b7%e3%81%95%e3%82%93) | Mハシさん is an online nickname used by Japanese people. It is a combination of the Japanese words "mushi" (insect) and "hashi" (chopsticks). The name is often used to refer to someone who is clumsy or awkward. In English, it could be translated as "Clumsy Chopsticks". |
-| 16 | [一口餃子](http://twitter.com/search?q=%e4%b8%80%e5%8f%a3%e9%a4%83%e5%ad%90) | N/A |
-| 17 | [ボガーツ](http://twitter.com/search?q=%e3%83%9c%e3%82%ac%e3%83%bc%e3%83%84) | N/A |
-| 18 | [#もしも塾](http://twitter.com/search?q=%23%e3%82%82%e3%81%97%e3%82%82%e5%a1%be) | N/A |
-| 19 | [非課税世帯](http://twitter.com/search?q=%e9%9d%9e%e8%aa%b2%e7%a8%8e%e4%b8%96%e5%b8%af) | N/A |
-| 20 | [ヒューザ](http://twitter.com/search?q=%e3%83%92%e3%83%a5%e3%83%bc%e3%82%b6) | N/A |
-| 21 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 22 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
-| 23 | [爆破予告](http://twitter.com/search?q=%e7%88%86%e7%a0%b4%e4%ba%88%e5%91%8a) | 爆破予告 is a Japanese phrase that translates to "explosive warning". It is used to indicate that an area is about to be subject to an explosive event, such as a demolition or fireworks display. |
-| 24 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
-| 25 | [彼方の謎解き成功](http://twitter.com/search?q=%e5%bd%bc%e6%96%b9%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 26 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
-| 27 | [さくらみこすぺしゃる](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%81%bf%e3%81%93%e3%81%99%e3%81%ba%e3%81%97%e3%82%83%e3%82%8b) | N/A |
-| 28 | [フリーレン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
-| 29 | [野菜生活100](http://twitter.com/search?q=%e9%87%8e%e8%8f%9c%e7%94%9f%e6%b4%bb100) | N/A |
-| 30 | [餃子化診断](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
-| 31 | [バレンティン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
-| 32 | [醤油さし](http://twitter.com/search?q=%e9%86%a4%e6%b2%b9%e3%81%95%e3%81%97) | N/A |
-| 33 | [しょうゆ差し](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%82%86%e5%b7%ae%e3%81%97) | N/A |
-| 34 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 35 | [愛知県警](http://twitter.com/search?q=%e6%84%9b%e7%9f%a5%e7%9c%8c%e8%ad%a6) | N/A |
-| 36 | [カルタヘナ法違反](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%82%bf%e3%83%98%e3%83%8a%e6%b3%95%e9%81%95%e5%8f%8d) | N/A |
-| 37 | [共同購入](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e8%b3%bc%e5%85%a5) | N/A |
-| 38 | [党首辞任](http://twitter.com/search?q=%e5%85%9a%e9%a6%96%e8%be%9e%e4%bb%bb) | N/A |
-| 39 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
-| 40 | [ALC.20](http://twitter.com/search?q=ALC.20) | N/A |
-| 41 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 42 | [男ら逮捕](http://twitter.com/search?q=%e7%94%b7%e3%82%89%e9%80%ae%e6%8d%95) | N/A |
-| 43 | [鬼ヴァンダル](http://twitter.com/search?q=%e9%ac%bc%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%80%e3%83%ab) | N/A |
-| 44 | [初の逮捕](http://twitter.com/search?q=%e5%88%9d%e3%81%ae%e9%80%ae%e6%8d%95) | N/A |
-| 45 | [Wのダンプラ](http://twitter.com/search?q=W%e3%81%ae%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
-| 46 | [メダカ販売](http://twitter.com/search?q=%e3%83%a1%e3%83%80%e3%82%ab%e8%b2%a9%e5%a3%b2) | N/A |
-| 47 | [了甲斐田](http://twitter.com/search?q=%e4%ba%86%e7%94%b2%e6%96%90%e7%94%b0) | N/A |
-| 48 | [箸の持ち方](http://twitter.com/search?q=%e7%ae%b8%e3%81%ae%e6%8c%81%e3%81%a1%e6%96%b9) | 箸の持ち方 (hashi no mochikata) is a phrase that literally translates to "the way of holding chopsticks". It is a phrase used to refer to the proper etiquette for using chopsticks, such as not pointing them at someone or sticking them upright in food. |
-| 49 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 50 | [トラジャCM](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3CM) | N/A |
+| 1 | [#北斗學園](http://twitter.com/search?q=%23%e5%8c%97%e6%96%97%e5%ad%b8%e5%9c%92) | N/A |
+| 2 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
+| 3 | [#となりになこ](http://twitter.com/search?q=%23%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ab%e3%81%aa%e3%81%93) | N/A |
+| 4 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
+| 5 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 6 | [ペイトン](http://twitter.com/search?q=%e3%83%9a%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
+| 7 | [レアンドロ](http://twitter.com/search?q=%e3%83%ac%e3%82%a2%e3%83%b3%e3%83%89%e3%83%ad) | N/A |
+| 8 | [#MWAM](http://twitter.com/search?q=%23MWAM) | N/A |
+| 9 | [#謎解きフェスティバル](http://twitter.com/search?q=%23%e8%ac%8e%e8%a7%a3%e3%81%8d%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab) | #謎解きフェスティバル is a hashtag used to promote events or activities related to solving puzzles or riddles. In English, it translates to "Puzzle Solving Festival". |
+| 10 | [花やしき](http://twitter.com/search?q=%e8%8a%b1%e3%82%84%e3%81%97%e3%81%8d) | 花やしき (Hanayashiki) is a type of traditional Japanese garden, which is characterized by its use of colorful flowers and plants. The name literally translates to "flower garden" in English. |
+| 11 | [レイドアワー](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%89%e3%82%a2%e3%83%af%e3%83%bc) | レイドアワー (Raid Awa) is a term used in Japan to refer to the time of day when people gather together to play online video games. It usually occurs late at night, usually between 10pm and 2am. The term literally translates to "raid hour" in English. |
+| 12 | [解答時間](http://twitter.com/search?q=%e8%a7%a3%e7%ad%94%e6%99%82%e9%96%93) | 解答時間 (kaisatsu jikan) is a Japanese term that refers to the time allotted for answering questions or responding to requests. In English, it can be translated as "response time". |
+| 13 | [#スクフェス2](http://twitter.com/search?q=%23%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b92) | #スクフェス2 is a hashtag used to refer to the mobile game, Love Live! School Idol Festival 2nd Vision. The game is a rhythm and adventure game based on the popular anime series, Love Live! School Idol Project. In English, the hashtag translates to "Love Live! School Idol Festival 2nd Vision". |
+| 14 | [虹ヶ咲学園スクールアイドル同好会](http://twitter.com/search?q=%e8%99%b9%e3%83%b6%e5%92%b2%e5%ad%a6%e5%9c%92%e3%82%b9%e3%82%af%e3%83%bc%e3%83%ab%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e5%90%8c%e5%a5%bd%e4%bc%9a) | N/A |
+| 15 | [頭部死球](http://twitter.com/search?q=%e9%a0%ad%e9%83%a8%e6%ad%bb%e7%90%83) | N/A |
+| 16 | [カップ戦](http://twitter.com/search?q=%e3%82%ab%e3%83%83%e3%83%97%e6%88%a6) | N/A |
+| 17 | [ランニングホームラン](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 18 | [久留里線](http://twitter.com/search?q=%e4%b9%85%e7%95%99%e9%87%8c%e7%b7%9a) | N/A |
+| 19 | [ノー残業デー](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e6%ae%8b%e6%a5%ad%e3%83%87%e3%83%bc) | N/A |
+| 20 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
+| 21 | [醤油さし](http://twitter.com/search?q=%e9%86%a4%e6%b2%b9%e3%81%95%e3%81%97) | N/A |
+| 22 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
+| 23 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 24 | [党首辞任](http://twitter.com/search?q=%e5%85%9a%e9%a6%96%e8%be%9e%e4%bb%bb) | N/A |
+| 25 | [愛知県警](http://twitter.com/search?q=%e6%84%9b%e7%9f%a5%e7%9c%8c%e8%ad%a6) | N/A |
+| 26 | [さくらみこすぺしゃる](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%81%bf%e3%81%93%e3%81%99%e3%81%ba%e3%81%97%e3%82%83%e3%82%8b) | N/A |
+| 27 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
+| 28 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 29 | [しょうゆ差し](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%82%86%e5%b7%ae%e3%81%97) | N/A |
+| 30 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
+| 31 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 32 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 33 | [爆破予告](http://twitter.com/search?q=%e7%88%86%e7%a0%b4%e4%ba%88%e5%91%8a) | 爆破予告 is a Japanese phrase that translates to "explosive warning". It is used to indicate that an area is about to be subject to an explosive event, such as a demolition or fireworks display. |
+| 34 | [ＮＨＫ党](http://twitter.com/search?q=%ef%bc%ae%ef%bc%a8%ef%bc%ab%e5%85%9a) | N/A |
+| 35 | [中京テレビＮＥＷＳ](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93%ef%bc%ae%ef%bc%a5%ef%bc%b7%ef%bc%b3) | N/A |
+| 36 | [野菜生活](http://twitter.com/search?q=%e9%87%8e%e8%8f%9c%e7%94%9f%e6%b4%bb) | N/A |
+| 37 | [彼方の謎解き成功](http://twitter.com/search?q=%e5%bd%bc%e6%96%b9%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 38 | [中京テレビNEWS](http://twitter.com/search?q=%e4%b8%ad%e4%ba%ac%e3%83%86%e3%83%ac%e3%83%93NEWS) | N/A |
+| 39 | [立花孝志党首](http://twitter.com/search?q=%e7%ab%8b%e8%8a%b1%e5%ad%9d%e5%bf%97%e5%85%9a%e9%a6%96) | N/A |
+| 40 | [共同購入](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e8%b3%bc%e5%85%a5) | N/A |
+| 41 | [餃子化診断](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
+| 42 | [ジュナオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%aa) | N/A |
+| 43 | [女子力診断](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%8a%9b%e8%a8%ba%e6%96%ad) | N/A |
+| 44 | [辞任表明](http://twitter.com/search?q=%e8%be%9e%e4%bb%bb%e8%a1%a8%e6%98%8e) | N/A |
+| 45 | [ターンオーバー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%b3%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 46 | [ALC.20](http://twitter.com/search?q=ALC.20) | N/A |
+| 47 | [男ら逮捕](http://twitter.com/search?q=%e7%94%b7%e3%82%89%e9%80%ae%e6%8d%95) | N/A |
+| 48 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 49 | [住所不定無職](http://twitter.com/search?q=%e4%bd%8f%e6%89%80%e4%b8%8d%e5%ae%9a%e7%84%a1%e8%81%b7) | N/A |
+| 50 | [党名変更](http://twitter.com/search?q=%e5%85%9a%e5%90%8d%e5%a4%89%e6%9b%b4) | N/A |
 
 
 

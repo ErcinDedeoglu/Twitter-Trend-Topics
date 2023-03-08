@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-08 08:17:55 UTC`
+📆 Last Updated: `2023-03-08 09:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,36 +18,47 @@ This is top 50 for Germany
 | 1 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 4 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
-| 5 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 7 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
-| 8 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 9 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 10 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
-| 11 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 12 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 13 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 15 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 16 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
+| 6 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 8 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 9 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 10 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 11 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 12 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
+| 13 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 15 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 16 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
 | 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 18 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 19 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 20 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 21 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 23 | [Kolleginnen](http://twitter.com/search?q=Kolleginnen) | N/A |
-| 24 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 25 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 26 | [Spuren](http://twitter.com/search?q=Spuren) | N/A |
-| 27 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 28 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 29 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 30 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
-| 31 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 32 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
-| 33 | [#EqualPay](http://twitter.com/search?q=%23EqualPay) | N/A |
+| 18 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 19 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
+| 20 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 21 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 22 | [Tiefe](http://twitter.com/search?q=Tiefe) | N/A |
+| 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 24 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 25 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 26 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 27 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 28 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 29 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 30 | [Kolleginnen](http://twitter.com/search?q=Kolleginnen) | N/A |
+| 31 | [Patriarchat](http://twitter.com/search?q=Patriarchat) | N/A |
+| 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 33 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 34 | [Spuren](http://twitter.com/search?q=Spuren) | N/A |
+| 35 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 36 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
+| 37 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
+| 38 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 39 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 40 | [#Gleichstellung](http://twitter.com/search?q=%23Gleichstellung) | N/A |
+| 41 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 42 | [#Feminismus](http://twitter.com/search?q=%23Feminismus) | N/A |
+| 43 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 44 | [#EqualPay](http://twitter.com/search?q=%23EqualPay) | N/A |
 
 
 

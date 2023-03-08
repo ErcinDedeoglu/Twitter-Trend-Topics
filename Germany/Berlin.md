@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-08 08:17:12 UTC`
+📆 Last Updated: `2023-03-08 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,48 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 4 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 5 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 6 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
-| 7 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
-| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 11 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
-| 12 | ['Klein'](http://twitter.com/search?q=%27Klein%27) | N/A |
-| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 14 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 15 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 18 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 19 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 20 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 21 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 22 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 23 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 24 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 25 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
-| 26 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 27 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 28 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 29 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 30 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 31 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 32 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
-| 33 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 34 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 35 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 36 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 37 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 38 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 39 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 40 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 41 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 42 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 43 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 44 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
-| 45 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 46 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 47 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 48 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 49 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 50 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
+| 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
+| 6 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 8 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 9 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 10 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 11 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 12 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
+| 13 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 15 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 16 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 18 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 19 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
+| 20 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 21 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 22 | [Tiefe](http://twitter.com/search?q=Tiefe) | N/A |
+| 23 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 24 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 25 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 26 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 27 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 28 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 29 | [Kolleginnen](http://twitter.com/search?q=Kolleginnen) | N/A |
+| 30 | [Patriarchat](http://twitter.com/search?q=Patriarchat) | N/A |
+| 31 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 33 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 34 | [Spuren](http://twitter.com/search?q=Spuren) | N/A |
+| 35 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 36 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
+| 37 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
+| 38 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 39 | [#Gleichstellung](http://twitter.com/search?q=%23Gleichstellung) | N/A |
+| 40 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 41 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 42 | [#Feminismus](http://twitter.com/search?q=%23Feminismus) | N/A |
+| 43 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 44 | [#EqualPay](http://twitter.com/search?q=%23EqualPay) | N/A |
 
 
 

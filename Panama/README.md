@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-08 08:17:58 UTC`
+📆 Last Updated: `2023-03-08 09:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Panama
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
 | 7 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
-| 8 | [attt](http://twitter.com/search?q=attt) | N/A |
+| 8 | [Attt](http://twitter.com/search?q=Attt) | N/A |
 | 9 | [#UltimaCitaTourPanama](http://twitter.com/search?q=%23UltimaCitaTourPanama) | N/A |
 | 10 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
 | 11 | [Fruta](http://twitter.com/search?q=Fruta) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for Panama
 | 14 | [bella vista](http://twitter.com/search?q=bella+vista) | N/A |
 | 15 | [Obarrio](http://twitter.com/search?q=Obarrio) | N/A |
 | 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 17 | [Combo 1](http://twitter.com/search?q=Combo+1) | N/A |
+| 17 | [combo 1](http://twitter.com/search?q=combo+1) | N/A |
 | 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 19 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
 | 20 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
@@ -54,8 +54,8 @@ This is top 50 for Panama
 | 37 | [Lombana](http://twitter.com/search?q=Lombana) | N/A |
 | 38 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
 | 39 | [Puros](http://twitter.com/search?q=Puros) | N/A |
-| 40 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
-| 41 | [Zulay](http://twitter.com/search?q=Zulay) | N/A |
+| 40 | [romulo](http://twitter.com/search?q=romulo) | N/A |
+| 41 | [zulay](http://twitter.com/search?q=zulay) | N/A |
 | 42 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
 | 43 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 44 | [república de italia](http://twitter.com/search?q=rep%c3%bablica+de+italia) | N/A |

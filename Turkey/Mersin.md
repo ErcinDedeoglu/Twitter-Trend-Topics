@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-08 08:17:40 UTC`
+📆 Last Updated: `2023-03-08 09:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,52 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
 | 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 3 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 4 | [Zehirli Gemi](http://twitter.com/search?q=Zehirli+Gemi) | N/A |
-| 5 | [#JinJiyanAzadîDideJiyîn](http://twitter.com/search?q=%23JinJiyanAzad%c3%aeDideJiy%c3%aen) | N/A |
-| 6 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 7 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 8 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 9 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 10 | [Clara Zetkin](http://twitter.com/search?q=Clara+Zetkin) | N/A |
-| 11 | [Seninde](http://twitter.com/search?q=Seninde) | N/A |
-| 12 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 13 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
-| 14 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 15 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 18 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 19 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
-| 20 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
-| 21 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 22 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
-| 23 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 24 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 25 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 26 | [Çiçek](http://twitter.com/search?q=%c3%87i%c3%a7ek) | N/A |
-| 27 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 28 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 29 | [Buse](http://twitter.com/search?q=Buse) | N/A |
-| 30 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 31 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 32 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
-| 33 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 34 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 35 | [#doas](http://twitter.com/search?q=%23doas) | N/A |
-| 36 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
-| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 38 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
-| 39 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 40 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 41 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
-| 42 | [#TKFEN](http://twitter.com/search?q=%23TKFEN) | N/A |
-| 43 | [#AKFYE](http://twitter.com/search?q=%23AKFYE) | N/A |
-| 44 | [#SeçimiŞoförYapacak](http://twitter.com/search?q=%23Se%c3%a7imi%c5%9eof%c3%b6rYapacak) | N/A |
+| 4 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 5 | [Zehirli](http://twitter.com/search?q=Zehirli) | N/A |
+| 6 | [Kaptan](http://twitter.com/search?q=Kaptan) | N/A |
+| 7 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 8 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 9 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 10 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
+| 11 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 12 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 13 | [Clara Zetkin](http://twitter.com/search?q=Clara+Zetkin) | N/A |
+| 14 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 15 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
+| 16 | [Seninde](http://twitter.com/search?q=Seninde) | N/A |
+| 17 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
+| 18 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 19 | [Tuhaf](http://twitter.com/search?q=Tuhaf) | N/A |
+| 20 | [Taksim](http://twitter.com/search?q=Taksim) | N/A |
+| 21 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 22 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
+| 23 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 24 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 25 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 26 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 27 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 28 | [Çiçek](http://twitter.com/search?q=%c3%87i%c3%a7ek) | N/A |
+| 29 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 30 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 31 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
+| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 33 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 34 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 35 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 36 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 37 | [#JinJiyanAzadîDideJiyîn](http://twitter.com/search?q=%23JinJiyanAzad%c3%aeDideJiy%c3%aen) | N/A |
+| 38 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 39 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
+| 40 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 41 | [#doas](http://twitter.com/search?q=%23doas) | N/A |
+| 42 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
+| 43 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 44 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 45 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
+| 46 | [#SOKE](http://twitter.com/search?q=%23SOKE) | N/A |
+| 47 | [#OYumuzuniversiteye](http://twitter.com/search?q=%23OYumuzuniversiteye) | N/A |
+| 48 | [#EytPROMOSYONDAiyiBANKAYA](http://twitter.com/search?q=%23EytPROMOSYONDAiyiBANKAYA) | N/A |
+| 49 | [#TKFEN](http://twitter.com/search?q=%23TKFEN) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-08 08:17:06 UTC`
+📆 Last Updated: `2023-03-08 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Brazil](</Brazil>)
 | 8 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
 | 9 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
 | 10 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
-| 11 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 12 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 13 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 14 | [Rio Anil](http://twitter.com/search?q=Rio+Anil) | N/A |
-| 15 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 19 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 20 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 21 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 22 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 23 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 26 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 11 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 12 | [paiva](http://twitter.com/search?q=paiva) | N/A |
+| 13 | [Rio Anil](http://twitter.com/search?q=Rio+Anil) | N/A |
+| 14 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 17 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 18 | [Feliz Dia da Mulher](http://twitter.com/search?q=Feliz+Dia+da+Mulher) | N/A |
+| 19 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 20 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 21 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 24 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 25 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 26 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
 | 27 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
 | 28 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
 | 29 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
-| 30 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 31 | [team chiara](http://twitter.com/search?q=team+chiara) | N/A |
-| 32 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 33 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
-| 34 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 35 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 36 | [Buchecha](http://twitter.com/search?q=Buchecha) | N/A |
-| 37 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
-| 38 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
-| 39 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
-| 40 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 41 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 42 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
-| 43 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 44 | [curtindo bbb com zé delivery](http://twitter.com/search?q=curtindo+bbb+com+z%c3%a9+delivery) | N/A |
-| 45 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
-| 46 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 47 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 48 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 49 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 50 | [Fred boco](http://twitter.com/search?q=Fred+boco) | N/A |
+| 30 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 31 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 32 | [team chiara](http://twitter.com/search?q=team+chiara) | N/A |
+| 33 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 34 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 35 | [nicola](http://twitter.com/search?q=nicola) | N/A |
+| 36 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 37 | [buchecha](http://twitter.com/search?q=buchecha) | N/A |
+| 38 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 39 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 40 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 41 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
+| 42 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 43 | [curtindo bbb com zé delivery](http://twitter.com/search?q=curtindo+bbb+com+z%c3%a9+delivery) | N/A |
+| 44 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 45 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 46 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 47 | [Fred boco](http://twitter.com/search?q=Fred+boco) | N/A |
+| 48 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
+| 49 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 50 | [thaisa](http://twitter.com/search?q=thaisa) | N/A |
 
 
 
