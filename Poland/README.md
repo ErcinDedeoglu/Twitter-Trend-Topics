@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-08 20:17:10 UTC`
+📆 Last Updated: `2023-03-08 21:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 3 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
 | 4 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
-| 7 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
-| 8 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 9 | [#WPŁWAR](http://twitter.com/search?q=%23WP%c5%81WAR) | N/A |
+| 5 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
+| 8 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
+| 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
 | 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 11 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 12 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 11 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 12 | [Grot](http://twitter.com/search?q=Grot) | N/A |
 | 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 14 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 15 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 16 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 17 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 18 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 15 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 17 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 18 | [Suski](http://twitter.com/search?q=Suski) | N/A |
 | 19 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 20 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 21 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
-| 22 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 23 | [HP-05](http://twitter.com/search?q=HP-05) | N/A |
+| 20 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 21 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 22 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
+| 23 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 24 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
 | 25 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 26 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 27 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 26 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 27 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
 | 28 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 29 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 30 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 29 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 30 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
 | 31 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 32 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
-| 33 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 34 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 32 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 33 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 35 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 36 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 37 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 38 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
-| 39 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
-| 40 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
-| 41 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
+| 36 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
+| 37 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
+| 38 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 39 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
+| 40 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 41 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 42 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 43 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 44 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
-| 45 | [Pedofile](http://twitter.com/search?q=Pedofile) | N/A |
-| 46 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 47 | [Rafał Trzaskowski](http://twitter.com/search?q=Rafa%c5%82+Trzaskowski) | N/A |
-| 48 | [Jakubas](http://twitter.com/search?q=Jakubas) | N/A |
-| 49 | [Rzecznik Praw Dziecka](http://twitter.com/search?q=Rzecznik+Praw+Dziecka) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 46 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 47 | [Pedofile](http://twitter.com/search?q=Pedofile) | N/A |
+| 48 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 49 | [HP-05](http://twitter.com/search?q=HP-05) | N/A |
+| 50 | [Rzecznik Praw Dziecka](http://twitter.com/search?q=Rzecznik+Praw+Dziecka) | N/A |
 
 
 

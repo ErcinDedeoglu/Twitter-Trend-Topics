@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-08 20:16:17 UTC`
+📆 Last Updated: `2023-03-08 21:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,33 +19,34 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
-| 6 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
-| 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 8 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 9 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 10 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 11 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
-| 14 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 15 | [Tiff](http://twitter.com/search?q=Tiff) | N/A |
-| 16 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 17 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 19 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 20 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 21 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 22 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 5 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 6 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 7 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
+| 8 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 11 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 12 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 13 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 14 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 15 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 16 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 17 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 18 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 19 | [Tiff](http://twitter.com/search?q=Tiff) | N/A |
+| 20 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 21 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 22 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
 | 23 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
 | 24 | [#EveryWomanCounts](http://twitter.com/search?q=%23EveryWomanCounts) | N/A |
-| 25 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
-| 26 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
-| 27 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 28 | [#WomeninBusiness](http://twitter.com/search?q=%23WomeninBusiness) | N/A |
-| 29 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 30 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
-| 31 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 25 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 26 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 27 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 28 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 29 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 30 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
+| 31 | [#WomeninBusiness](http://twitter.com/search?q=%23WomeninBusiness) | N/A |
+| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

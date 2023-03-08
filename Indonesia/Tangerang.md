@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-08 20:16:37 UTC`
+📆 Last Updated: `2023-03-08 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,39 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 3 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 4 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
-| 5 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 2 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
+| 3 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
+| 4 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 7 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 8 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 9 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 10 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 11 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 12 | [Happy Birthday Taeyeon](http://twitter.com/search?q=Happy+Birthday+Taeyeon) | N/A |
-| 13 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 14 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
-| 15 | [Your Name](http://twitter.com/search?q=Your+Name) | N/A |
+| 7 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 8 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 9 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 10 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 11 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
+| 12 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 13 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 14 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
+| 15 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
 | 16 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 17 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 18 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 19 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 20 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 21 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 22 | [#SriMulyaniMundur](http://twitter.com/search?q=%23SriMulyaniMundur) | N/A |
-| 23 | [#설탕이_스윗한_생일_보내](http://twitter.com/search?q=%23%ec%84%a4%ed%83%95%ec%9d%b4_%ec%8a%a4%ec%9c%97%ed%95%9c_%ec%83%9d%ec%9d%bc_%eb%b3%b4%eb%82%b4) | N/A |
-| 24 | [#기운받아_월드투어_가보자고](http://twitter.com/search?q=%23%ea%b8%b0%ec%9a%b4%eb%b0%9b%ec%95%84_%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4_%ea%b0%80%eb%b3%b4%ec%9e%90%ea%b3%a0) | N/A |
-| 25 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 26 | [#윤기전하_생신_경하드리옵니다](http://twitter.com/search?q=%23%ec%9c%a4%ea%b8%b0%ec%a0%84%ed%95%98_%ec%83%9d%ec%8b%a0_%ea%b2%bd%ed%95%98%eb%93%9c%eb%a6%ac%ec%98%b5%eb%8b%88%eb%8b%a4) | N/A |
-| 27 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
-| 28 | [#VERSACExJEFFSATUR_D1](http://twitter.com/search?q=%23VERSACExJEFFSATUR_D1) | N/A |
-| 29 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 30 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 31 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
-| 32 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 33 | [#WTSBLACKPINKJAKARTA](http://twitter.com/search?q=%23WTSBLACKPINKJAKARTA) | N/A |
-| 34 | [#BlibliSetiapHari](http://twitter.com/search?q=%23BlibliSetiapHari) | N/A |
+| 17 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
+| 18 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 19 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 20 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 21 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 22 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 23 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
+| 24 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 25 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
+| 26 | [tangguh](http://twitter.com/search?q=tangguh) | N/A |
+| 27 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 28 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
+| 29 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 31 | [where is indonesia](http://twitter.com/search?q=where+is+indonesia) | N/A |
+| 32 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 33 | [persik](http://twitter.com/search?q=persik) | N/A |
+| 34 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 35 | [Selamat Hari Perempuan Sedunia](http://twitter.com/search?q=Selamat+Hari+Perempuan+Sedunia) | N/A |
+| 36 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 37 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
+| 38 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 39 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 40 | [nisfu sya'ban](http://twitter.com/search?q=nisfu+sya%27ban) | N/A |
+| 41 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 42 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 43 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
+| 44 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 45 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 46 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 47 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 48 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
+| 49 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
 
 
 

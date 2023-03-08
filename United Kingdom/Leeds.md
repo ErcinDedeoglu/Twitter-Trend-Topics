@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-08 20:16:18 UTC`
+📆 Last Updated: `2023-03-08 21:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 1 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 2 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
 | 3 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 4 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 5 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 6 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 7 | [Lefty](http://twitter.com/search?q=Lefty) | N/A |
-| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 9 | [#DontLetMEDie](http://twitter.com/search?q=%23DontLetMEDie) | N/A |
-| 10 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 11 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
-| 12 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
-| 13 | [#DigitALL](http://twitter.com/search?q=%23DigitALL) | N/A |
-| 14 | [Billions](http://twitter.com/search?q=Billions) | N/A |
-| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 19 | [Penalty to Rangers](http://twitter.com/search?q=Penalty+to+Rangers) | N/A |
-| 20 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 21 | [Ralston](http://twitter.com/search?q=Ralston) | N/A |
-| 22 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 23 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 24 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 25 | [Stina](http://twitter.com/search?q=Stina) | Stina is a Swedish female name, derived from the Latin name Christina. It is a diminutive form of Christina and means "follower of Christ" or "Christian". |
-| 26 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 27 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 29 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 30 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 31 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 32 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 33 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 35 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
-| 36 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 37 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 38 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 39 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 40 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 41 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 42 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 43 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
-| 44 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
-| 45 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 46 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 47 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 48 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 49 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 50 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 4 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 5 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 6 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 7 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 8 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 9 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 11 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 12 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
+| 13 | [#thisgirlcan](http://twitter.com/search?q=%23thisgirlcan) | N/A |
+| 14 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 15 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 16 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 17 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 18 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 19 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 20 | [Lefty](http://twitter.com/search?q=Lefty) | N/A |
+| 21 | [Germany in the 30s](http://twitter.com/search?q=Germany+in+the+30s) | N/A |
+| 22 | ['Nazi'](http://twitter.com/search?q=%27Nazi%27) | N/A |
+| 23 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 24 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
+| 25 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 26 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
+| 27 | [Billions](http://twitter.com/search?q=Billions) | N/A |
+| 28 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 30 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 31 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 32 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 35 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 36 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 37 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 38 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 39 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 40 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 41 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 42 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 43 | [Bernabei](http://twitter.com/search?q=Bernabei) | N/A |
+| 44 | [Ralston](http://twitter.com/search?q=Ralston) | N/A |
+| 45 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 46 | [Kent](http://twitter.com/search?q=Kent) | N/A |
+| 47 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 48 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 49 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 50 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
 
 
 

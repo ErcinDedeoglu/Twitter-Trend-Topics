@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-08 20:17:13 UTC`
+📆 Last Updated: `2023-03-08 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 10 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
 | 11 | [Momota](http://twitter.com/search?q=Momota) | N/A |
 | 12 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 13 | [Perak](http://twitter.com/search?q=Perak) | N/A |
+| 13 | [perak](http://twitter.com/search?q=perak) | N/A |
 | 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 15 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
 | 16 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
@@ -43,10 +43,10 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 26 | [Howard](http://twitter.com/search?q=Howard) | N/A |
 | 27 | [iKON](http://twitter.com/search?q=iKON) | N/A |
 | 28 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
-| 29 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 32 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 29 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
+| 30 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 32 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 33 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
 | 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-08 20:16:34 UTC`
+📆 Last Updated: `2023-03-08 21:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 1 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
 | 2 | [Feliz Día](http://twitter.com/search?q=Feliz+D%c3%ada) | N/A |
-| 3 | [#Pasapalabra720](http://twitter.com/search?q=%23Pasapalabra720) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
-| 8 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 9 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 10 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 11 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 12 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 13 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
-| 14 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 15 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 16 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
-| 17 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
-| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 19 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 21 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 22 | [JC Reyes](http://twitter.com/search?q=JC+Reyes) | N/A |
-| 23 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 26 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
-| 27 | [Blete](http://twitter.com/search?q=Blete) | N/A |
-| 28 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 29 | [Hoy 8M](http://twitter.com/search?q=Hoy+8M) | N/A |
-| 30 | [Mieres](http://twitter.com/search?q=Mieres) | N/A |
-| 31 | [Afganistán](http://twitter.com/search?q=Afganist%c3%a1n) | N/A |
-| 32 | [Charos](http://twitter.com/search?q=Charos) | N/A |
-| 33 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 34 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 35 | [#CelebrandoPcAniversario](http://twitter.com/search?q=%23CelebrandoPcAniversario) | N/A |
-| 36 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 37 | [#DiaInternacionaDeLaMujer](http://twitter.com/search?q=%23DiaInternacionaDeLaMujer) | N/A |
-| 38 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 39 | [#8marzo2023](http://twitter.com/search?q=%238marzo2023) | N/A |
-| 40 | [#Solos8M](http://twitter.com/search?q=%23Solos8M) | N/A |
-| 41 | [#TierraAmarga8Mar](http://twitter.com/search?q=%23TierraAmarga8Mar) | N/A |
-| 42 | [#NoHablesEnMiNombre](http://twitter.com/search?q=%23NoHablesEnMiNombre) | N/A |
-| 43 | [#CopaDelReyJuvenil](http://twitter.com/search?q=%23CopaDelReyJuvenil) | N/A |
-| 44 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 45 | [#PecadoOriginal8Mar](http://twitter.com/search?q=%23PecadoOriginal8Mar) | N/A |
-| 46 | [#APOYOROCI08M](http://twitter.com/search?q=%23APOYOROCI08M) | N/A |
-| 47 | [#YoMeRebelo8M](http://twitter.com/search?q=%23YoMeRebelo8M) | N/A |
-| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 49 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 50 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 6 | [#firstdates8m](http://twitter.com/search?q=%23firstdates8m) | N/A |
+| 7 | [#Pasapalabra720](http://twitter.com/search?q=%23Pasapalabra720) | N/A |
+| 8 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 9 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 10 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
+| 11 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 12 | [Unicorn](http://twitter.com/search?q=Unicorn) | N/A |
+| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 15 | [Noa Kirel](http://twitter.com/search?q=Noa+Kirel) | N/A |
+| 16 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 17 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 18 | [Allianz Arena](http://twitter.com/search?q=Allianz+Arena) | N/A |
+| 19 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 20 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 21 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 23 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 24 | [Múnich](http://twitter.com/search?q=M%c3%banich) | N/A |
+| 25 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 26 | [Carlota](http://twitter.com/search?q=Carlota) | N/A |
+| 27 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 28 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 30 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 31 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
+| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 33 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 36 | [JC Reyes](http://twitter.com/search?q=JC+Reyes) | N/A |
+| 37 | [Blete](http://twitter.com/search?q=Blete) | N/A |
+| 38 | [Afganistán](http://twitter.com/search?q=Afganist%c3%a1n) | N/A |
+| 39 | [Virginia Woolf](http://twitter.com/search?q=Virginia+Woolf) | N/A |
+| 40 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 41 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 42 | [Mieres](http://twitter.com/search?q=Mieres) | N/A |
+| 43 | [Hoy 8M](http://twitter.com/search?q=Hoy+8M) | N/A |
+| 44 | [Charos](http://twitter.com/search?q=Charos) | N/A |
+| 45 | [#DiaInternacionaDeLaMujer](http://twitter.com/search?q=%23DiaInternacionaDeLaMujer) | N/A |
+| 46 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 47 | [#CopaDelReyJuvenil](http://twitter.com/search?q=%23CopaDelReyJuvenil) | N/A |
+| 48 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 49 | [#Solos8M](http://twitter.com/search?q=%23Solos8M) | N/A |
+| 50 | [#CelebrandoPcAniversario](http://twitter.com/search?q=%23CelebrandoPcAniversario) | N/A |
 
 
 

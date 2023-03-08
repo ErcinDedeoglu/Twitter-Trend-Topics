@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-08 20:16:54 UTC`
+📆 Last Updated: `2023-03-08 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
 | 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 3 | [#RCBvsGG](http://twitter.com/search?q=%23RCBvsGG) | N/A |
-| 4 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 5 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 6 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 7 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 8 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 9 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Shreyanka](http://twitter.com/search?q=Shreyanka) | N/A |
-| 12 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 13 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 14 | [Devine](http://twitter.com/search?q=Devine) | N/A |
-| 15 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 16 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 17 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 18 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 19 | [Sutherland](http://twitter.com/search?q=Sutherland) | N/A |
-| 20 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
-| 21 | [BINDUMADHAVI AS RADHA](http://twitter.com/search?q=BINDUMADHAVI+AS+RADHA) | N/A |
-| 22 | [Harleen](http://twitter.com/search?q=Harleen) | N/A |
-| 23 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 24 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
-| 25 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 26 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
-| 27 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
-| 28 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
-| 29 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 30 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
-| 31 | [Halala](http://twitter.com/search?q=Halala) | N/A |
-| 32 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 33 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 34 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
-| 35 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 36 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 37 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 38 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
+| 3 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 6 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 7 | [#RCBvsGG](http://twitter.com/search?q=%23RCBvsGG) | N/A |
+| 8 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 9 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
+| 10 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 11 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 12 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 13 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 14 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Shreyanka](http://twitter.com/search?q=Shreyanka) | N/A |
+| 17 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
+| 18 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 20 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 21 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 22 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 23 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
+| 24 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
+| 25 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 26 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
+| 27 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 28 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 29 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 30 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 31 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 32 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 33 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 34 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
+| 35 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 36 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
+| 37 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
+| 38 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
 | 39 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 40 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
-| 41 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
-| 42 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 43 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 40 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
+| 41 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 42 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 43 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
 | 44 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 45 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
-| 46 | [#yoongibirthday](http://twitter.com/search?q=%23yoongibirthday) | N/A |
-| 47 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
-| 48 | [#RCBWvsGGW](http://twitter.com/search?q=%23RCBWvsGGW) | N/A |
-| 49 | [#Kushi](http://twitter.com/search?q=%23Kushi) | N/A |
-| 50 | [#TuJhoothiMainMakkaarReview](http://twitter.com/search?q=%23TuJhoothiMainMakkaarReview) | N/A |
+| 45 | [#TuJhoothiMainMakkaarReview](http://twitter.com/search?q=%23TuJhoothiMainMakkaarReview) | N/A |
+| 46 | [#RCBWvsGGW](http://twitter.com/search?q=%23RCBWvsGGW) | N/A |
+| 47 | [#Kushi](http://twitter.com/search?q=%23Kushi) | N/A |
+| 48 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
+| 49 | [#Soori](http://twitter.com/search?q=%23Soori) | N/A |
+| 50 | [#VadaChennai2](http://twitter.com/search?q=%23VadaChennai2) | N/A |
 
 
 

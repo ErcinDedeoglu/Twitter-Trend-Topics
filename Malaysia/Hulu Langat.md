@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-08 20:17:13 UTC`
+📆 Last Updated: `2023-03-08 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 9 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
 | 10 | [Momota](http://twitter.com/search?q=Momota) | N/A |
 | 11 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 12 | [Perak](http://twitter.com/search?q=Perak) | N/A |
+| 12 | [perak](http://twitter.com/search?q=perak) | N/A |
 | 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 14 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
 | 15 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
@@ -37,33 +37,33 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 20 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
 | 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 23 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 26 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 27 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
-| 28 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [MH17](http://twitter.com/search?q=MH17) | N/A |
-| 32 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 26 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 27 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 28 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
+| 29 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
+| 30 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 32 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 33 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 35 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
 | 36 | [gose](http://twitter.com/search?q=gose) | N/A |
 | 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 38 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
-| 39 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 40 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 41 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
-| 42 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
-| 43 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 44 | [Siti](http://twitter.com/search?q=Siti) | N/A |
-| 45 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 46 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 47 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 48 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 49 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 41 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 42 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
+| 43 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
+| 44 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 45 | [Siti](http://twitter.com/search?q=Siti) | N/A |
+| 46 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 47 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 48 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
+| 49 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 
 
 

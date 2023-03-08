@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-08 20:16:18 UTC`
+📆 Last Updated: `2023-03-08 21:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 4 | [#TOTACM](http://twitter.com/search?q=%23TOTACM) | N/A |
-| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [#DavisGarcia](http://twitter.com/search?q=%23DavisGarcia) | #DavisGarcia is a hashtag used to refer to the professional tennis players, Bob and Mike Bryan, who are also known as the Bryan Brothers. The hashtag is a combination of their last names, Davis and Garcia. |
-| 9 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 10 | [Penalty to Rangers](http://twitter.com/search?q=Penalty+to+Rangers) | N/A |
-| 11 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 12 | [Ralston](http://twitter.com/search?q=Ralston) | N/A |
-| 13 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 14 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 15 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 16 | [Stina](http://twitter.com/search?q=Stina) | Stina is a Swedish female name, derived from the Latin name Christina. It is a diminutive form of Christina and means "follower of Christ" or "Christian". |
-| 17 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 18 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 19 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 20 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 21 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 22 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 23 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 24 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 25 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 26 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
-| 27 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 28 | [Frida](http://twitter.com/search?q=Frida) | N/A |
-| 29 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 30 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 31 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 32 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 33 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 34 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
-| 35 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
-| 36 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 37 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 38 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 39 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 40 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 41 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 42 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 43 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 44 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 45 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 46 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 47 | [Laura Kuenssberg](http://twitter.com/search?q=Laura+Kuenssberg) | N/A |
-| 48 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 49 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 50 | [At 30](http://twitter.com/search?q=At+30) | N/A |
+| 1 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 2 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 3 | [#TOTACM](http://twitter.com/search?q=%23TOTACM) | N/A |
+| 4 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 10 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 11 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 14 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 16 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 17 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 18 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 19 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 20 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 21 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 22 | [Bernabei](http://twitter.com/search?q=Bernabei) | N/A |
+| 23 | [Ralston](http://twitter.com/search?q=Ralston) | N/A |
+| 24 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 25 | [Kent](http://twitter.com/search?q=Kent) | N/A |
+| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 27 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 28 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 29 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 30 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 31 | [Freeman](http://twitter.com/search?q=Freeman) | N/A |
+| 32 | [Penalty to Rangers](http://twitter.com/search?q=Penalty+to+Rangers) | N/A |
+| 33 | [COME ON YOU SPURS](http://twitter.com/search?q=COME+ON+YOU+SPURS) | N/A |
+| 34 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 35 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 36 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 37 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 38 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 39 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 40 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
+| 41 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 42 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
+| 43 | [Stina](http://twitter.com/search?q=Stina) | Stina is a Swedish female name, derived from the Latin name Christina. It is a diminutive form of Christina and means "follower of Christ" or "Christian". |
+| 44 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 45 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 46 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 48 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 49 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 50 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 
 
 

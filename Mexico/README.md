@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-08 20:17:09 UTC`
+📆 Last Updated: `2023-03-08 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [#Edomex](http://twitter.com/search?q=%23Edomex) | N/A |
+| 5 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
 | 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 10 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 11 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 13 | [Monumento a la Revolución](http://twitter.com/search?q=Monumento+a+la+Revoluci%c3%b3n) | N/A |
-| 14 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 15 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 7 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 8 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 9 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 10 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 11 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 13 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 16 | [Ministra Presidenta](http://twitter.com/search?q=Ministra+Presidenta) | N/A |
-| 17 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 18 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 19 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 20 | [Coatzacoalcos](http://twitter.com/search?q=Coatzacoalcos) | N/A |
-| 21 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 22 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 23 | [Glorieta](http://twitter.com/search?q=Glorieta) | N/A |
-| 24 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 25 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 26 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 27 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 28 | [Hombres](http://twitter.com/search?q=Hombres) | N/A |
-| 29 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 30 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 31 | [Majo](http://twitter.com/search?q=Majo) | N/A |
-| 32 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
-| 33 | [Ministra Norma Piña](http://twitter.com/search?q=Ministra+Norma+Pi%c3%b1a) | N/A |
-| 34 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 35 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 36 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 37 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 38 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 39 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
-| 40 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
-| 41 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 42 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 43 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 44 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
-| 45 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 46 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 47 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
-| 48 | [#DontMessWithMexico](http://twitter.com/search?q=%23DontMessWithMexico) | N/A |
-| 49 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
-| 50 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 17 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 18 | [Monumento a la Revolución](http://twitter.com/search?q=Monumento+a+la+Revoluci%c3%b3n) | N/A |
+| 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 20 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 21 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 22 | [Luchan](http://twitter.com/search?q=Luchan) | N/A |
+| 23 | [Majo](http://twitter.com/search?q=Majo) | N/A |
+| 24 | [Paseo de la Reforma](http://twitter.com/search?q=Paseo+de+la+Reforma) | N/A |
+| 25 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
+| 26 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 27 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 28 | [Saldivar](http://twitter.com/search?q=Saldivar) | N/A |
+| 29 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 30 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 31 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 32 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 33 | [Coatzacoalcos](http://twitter.com/search?q=Coatzacoalcos) | N/A |
+| 34 | [Hombres](http://twitter.com/search?q=Hombres) | N/A |
+| 35 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 36 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 37 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 38 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 39 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 40 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 41 | [Doriga](http://twitter.com/search?q=Doriga) | N/A |
+| 42 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 43 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 44 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 45 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 46 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 47 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 48 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 49 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
+| 50 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
 
 
 

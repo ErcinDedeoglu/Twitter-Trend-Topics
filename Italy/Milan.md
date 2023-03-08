@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-08 20:16:32 UTC`
+📆 Last Updated: `2023-03-08 21:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 2 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [MICHELE BRAVI](http://twitter.com/search?q=MICHELE+BRAVI) | N/A |
-| 5 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 1 | [Londra](http://twitter.com/search?q=Londra) | N/A |
+| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
+| 4 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 5 | [MICHELE BRAVI](http://twitter.com/search?q=MICHELE+BRAVI) | N/A |
 | 6 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
-| 7 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
-| 8 | [GIUSEPPE GIOFRÈ](http://twitter.com/search?q=GIUSEPPE+GIOFR%c3%88) | N/A |
-| 9 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
-| 10 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 11 | [GIUDICE](http://twitter.com/search?q=GIUDICE) | N/A |
-| 12 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
-| 13 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
-| 14 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
-| 15 | [Chiuda](http://twitter.com/search?q=Chiuda) | N/A |
-| 16 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 17 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 18 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
-| 19 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
-| 20 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 21 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 22 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
-| 23 | [Prontissima](http://twitter.com/search?q=Prontissima) | N/A |
-| 24 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 25 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 26 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 27 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
-| 28 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 29 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
-| 30 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 31 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 32 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 33 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 34 | [Urtis](http://twitter.com/search?q=Urtis) | N/A |
-| 35 | [Oggi 8](http://twitter.com/search?q=Oggi+8) | N/A |
-| 36 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 37 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 38 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 39 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 40 | [Little Bears](http://twitter.com/search?q=Little+Bears) | N/A |
-| 41 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 42 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 43 | [Paganini](http://twitter.com/search?q=Paganini) | N/A |
-| 44 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 45 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 46 | [Sacchi](http://twitter.com/search?q=Sacchi) | N/A |
-| 47 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 48 | [Tribunale](http://twitter.com/search?q=Tribunale) | N/A |
-| 49 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
-| 50 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 7 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 8 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 9 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 10 | [Don Mazzi](http://twitter.com/search?q=Don+Mazzi) | N/A |
+| 11 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
+| 12 | [GIUSEPPE GIOFRÈ](http://twitter.com/search?q=GIUSEPPE+GIOFR%c3%88) | N/A |
+| 13 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 14 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 16 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 17 | [GIUDICE](http://twitter.com/search?q=GIUDICE) | N/A |
+| 18 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
+| 19 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 20 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 21 | [Forza Milan](http://twitter.com/search?q=Forza+Milan) | N/A |
+| 22 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 23 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 24 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 25 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 26 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
+| 27 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 28 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
+| 29 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 30 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 31 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 32 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 33 | [#bayernpsg](http://twitter.com/search?q=%23bayernpsg) | N/A |
+| 34 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 35 | [#TOTACM](http://twitter.com/search?q=%23TOTACM) | N/A |
+| 36 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 37 | [#perchéDà](http://twitter.com/search?q=%23perch%c3%a9D%c3%a0) | N/A |
+| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 39 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 40 | [#pierpaolopretelli](http://twitter.com/search?q=%23pierpaolopretelli) | N/A |
+| 41 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 42 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 43 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 44 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 45 | [#deddy](http://twitter.com/search?q=%23deddy) | N/A |
+| 46 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
+| 47 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 48 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
+| 49 | [#8mars2023](http://twitter.com/search?q=%238mars2023) | N/A |
+| 50 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 
 
 

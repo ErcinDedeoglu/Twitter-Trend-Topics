@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-08 20:17:04 UTC`
+📆 Last Updated: `2023-03-08 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AWP23](http://twitter.com/search?q=%23AWP23) | N/A |
-| 2 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 7 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 8 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 9 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 10 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
-| 13 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
-| 14 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
-| 15 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 16 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 17 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
-| 18 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 19 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 20 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 21 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
-| 22 | [I LOVE WOMEN](http://twitter.com/search?q=I+LOVE+WOMEN) | N/A |
-| 23 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 24 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
-| 25 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 26 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 27 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
-| 28 | [Deacs](http://twitter.com/search?q=Deacs) | N/A |
-| 29 | [Judah Mintz](http://twitter.com/search?q=Judah+Mintz) | N/A |
-| 30 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 31 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 32 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 33 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 34 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 35 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
-| 36 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 38 | [The Dark Knight Rises](http://twitter.com/search?q=The+Dark+Knight+Rises) | N/A |
-| 39 | [Greg Oden](http://twitter.com/search?q=Greg+Oden) | N/A |
-| 40 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
-| 41 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
-| 42 | [Batman Forever](http://twitter.com/search?q=Batman+Forever) | N/A |
-| 43 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
-| 44 | [Benny Williams](http://twitter.com/search?q=Benny+Williams) | N/A |
-| 45 | [Gone in 60](http://twitter.com/search?q=Gone+in+60) | N/A |
-| 46 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 47 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 48 | [Gone in 45](http://twitter.com/search?q=Gone+in+45) | N/A |
-| 49 | [Under the Red Hood](http://twitter.com/search?q=Under+the+Red+Hood) | N/A |
-| 50 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 1 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 8 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 9 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 10 | [#DavisGarcia](http://twitter.com/search?q=%23DavisGarcia) | #DavisGarcia is a hashtag used to refer to the professional tennis players, Bob and Mike Bryan, who are also known as the Bryan Brothers. The hashtag is a combination of their last names, Davis and Garcia. |
+| 11 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 12 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 13 | [Start Giannis](http://twitter.com/search?q=Start+Giannis) | N/A |
+| 14 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
+| 15 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 16 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 17 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 19 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
+| 20 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 21 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 22 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
+| 23 | [I LOVE WOMEN](http://twitter.com/search?q=I+LOVE+WOMEN) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
+| 26 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
+| 27 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 29 | [Isaiah Stevens](http://twitter.com/search?q=Isaiah+Stevens) | N/A |
+| 30 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
+| 31 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 32 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 33 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
+| 34 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 35 | [600 Breezy](http://twitter.com/search?q=600+Breezy) | N/A |
+| 36 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 37 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 38 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 39 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
+| 40 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 41 | [Colorado State](http://twitter.com/search?q=Colorado+State) | N/A |
+| 42 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
+| 43 | [Chosen](http://twitter.com/search?q=Chosen) | N/A |
+| 44 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
+| 45 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
+| 46 | [Decide](http://twitter.com/search?q=Decide) | N/A |
+| 47 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
+| 48 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 49 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 50 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-08 20:17:10 UTC`
+📆 Last Updated: `2023-03-08 21:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Norway
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#kvinnedagen](http://twitter.com/search?q=%23kvinnedagen) | N/A |
-| 3 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 14 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 15 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
-| 16 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
-| 17 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
-| 18 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 19 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
-| 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 5 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 6 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 10 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 11 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 12 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 13 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
+| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 15 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
+| 16 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
+| 17 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
+| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 21 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
-| 22 | [God 8](http://twitter.com/search?q=God+8) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 25 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 26 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 28 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 29 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 30 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
-| 31 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
-| 32 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
-| 33 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 37 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
-| 38 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
-| 39 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 40 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
-| 41 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 43 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 44 | [dostie](http://twitter.com/search?q=dostie) | N/A |
-| 45 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 46 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
+| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 23 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 24 | [God 8](http://twitter.com/search?q=God+8) | N/A |
+| 25 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 28 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 29 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 30 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 31 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
+| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 33 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
+| 34 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 35 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
+| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 37 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 38 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 40 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 41 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 42 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 43 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 44 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 45 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
+| 46 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 47 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 48 | [Jøss](http://twitter.com/search?q=J%c3%b8ss) | N/A |
-| 49 | [Tyrkia](http://twitter.com/search?q=Tyrkia) | N/A |
-| 50 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
+| 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 49 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 50 | [Flott](http://twitter.com/search?q=Flott) | N/A |
 
 
 

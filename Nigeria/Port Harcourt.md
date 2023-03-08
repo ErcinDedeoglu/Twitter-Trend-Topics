@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-08 20:16:45 UTC`
+📆 Last Updated: `2023-03-08 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeNeedSanwo](http://twitter.com/search?q=%23WeNeedSanwo) | N/A |
-| 2 | [#TesiLokan](http://twitter.com/search?q=%23TesiLokan) | N/A |
-| 3 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 4 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 5 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 6 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 9 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
-| 10 | [Joeboy](http://twitter.com/search?q=Joeboy) | N/A |
-| 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 12 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
-| 13 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 14 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 15 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 16 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 17 | [Inspection](http://twitter.com/search?q=Inspection) | N/A |
-| 18 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 19 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
-| 20 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 21 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 22 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 23 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
-| 24 | [Top 2%](http://twitter.com/search?q=Top+2%25) | N/A |
-| 25 | [Angel T](http://twitter.com/search?q=Angel+T) | N/A |
-| 26 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 27 | [SANs](http://twitter.com/search?q=SANs) | N/A |
-| 28 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 29 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 30 | [Fidelity](http://twitter.com/search?q=Fidelity) | N/A |
-| 31 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 32 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 33 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 34 | [Chatham House](http://twitter.com/search?q=Chatham+House) | Chatham House is an independent policy institute based in London. It is best known for its work on international affairs, economics, and global security. The institute's mission is to help build a sustainably secure, prosperous, and just world. The name "Chatham House" comes from the building in which it was founded in 1920, which was originally the home of British statesman William Pitt the Elder. |
-| 35 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
-| 36 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
-| 37 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
-| 38 | [Simi](http://twitter.com/search?q=Simi) | N/A |
-| 39 | [#Iwillvotesanwo](http://twitter.com/search?q=%23Iwillvotesanwo) | N/A |
-| 40 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
-| 41 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
-| 42 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 43 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
-| 44 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 45 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 46 | [#Jandorforlagos](http://twitter.com/search?q=%23Jandorforlagos) | N/A |
-| 47 | [#SanwoEkoLekansi](http://twitter.com/search?q=%23SanwoEkoLekansi) | N/A |
-| 48 | [#Opay](http://twitter.com/search?q=%23Opay) | N/A |
+| 1 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
+| 2 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 3 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 4 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 7 | [#WeNeedSanwo](http://twitter.com/search?q=%23WeNeedSanwo) | N/A |
+| 8 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 9 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 10 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 11 | [GOD OPEN MY DOOR](http://twitter.com/search?q=GOD+OPEN+MY+DOOR) | N/A |
+| 12 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 14 | [State Assembly](http://twitter.com/search?q=State+Assembly) | N/A |
+| 15 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 16 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
+| 17 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 18 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 20 | [Joeboy](http://twitter.com/search?q=Joeboy) | N/A |
+| 21 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
+| 22 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 25 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 26 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 27 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
+| 28 | [Fidelity](http://twitter.com/search?q=Fidelity) | N/A |
+| 29 | [Top 2%](http://twitter.com/search?q=Top+2%25) | N/A |
+| 30 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
+| 31 | [SANs](http://twitter.com/search?q=SANs) | N/A |
+| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 33 | [ANGEL T](http://twitter.com/search?q=ANGEL+T) | N/A |
+| 34 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 35 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 37 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 38 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 39 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 40 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 41 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 42 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 43 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
+| 44 | [Simi](http://twitter.com/search?q=Simi) | N/A |
+| 45 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
+| 46 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 47 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 48 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
 
 
 
