@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-08 02:42:32 UTC`
+📆 Last Updated: `2023-03-08 03:22:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,49 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 2 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 3 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 4 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 2 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 3 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 4 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
 | 5 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 6 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 7 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
+| 6 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 7 | [Isla](http://twitter.com/search?q=Isla) | N/A |
 | 8 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 9 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 10 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 11 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 12 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 13 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 14 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
-| 15 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 16 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 17 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 18 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 19 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 20 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
-| 21 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 22 | [Maricon](http://twitter.com/search?q=Maricon) | N/A |
-| 23 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
-| 24 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 25 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 26 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 27 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 28 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
-| 29 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 9 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 10 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 11 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 12 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 13 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 14 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 15 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 16 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 17 | [mena](http://twitter.com/search?q=mena) | N/A |
+| 18 | [pinares](http://twitter.com/search?q=pinares) | N/A |
+| 19 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 20 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 21 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 22 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 23 | [Maricon](http://twitter.com/search?q=Maricon) | N/A |
+| 24 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
+| 25 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 26 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 27 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 28 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 29 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
 | 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 32 | [Directv](http://twitter.com/search?q=Directv) | N/A |
+| 31 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 33 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 34 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 35 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
-| 36 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 37 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
+| 35 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
+| 36 | [#ElAccidenteDeEmel](http://twitter.com/search?q=%23ElAccidenteDeEmel) | N/A |
+| 37 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 38 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 39 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
+| 39 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
 | 40 | [#OrsiniCaraDeRaja](http://twitter.com/search?q=%23OrsiniCaraDeRaja) | N/A |
-| 41 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 42 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 43 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
+| 41 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 42 | [#Talcahuano](http://twitter.com/search?q=%23Talcahuano) | N/A |
+| 43 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 44 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
 
 
 

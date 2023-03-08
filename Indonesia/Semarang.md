@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-08 02:42:45 UTC`
+📆 Last Updated: `2023-03-08 03:23:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SEMANGAT 45](http://twitter.com/search?q=SEMANGAT+45) | N/A |
+| 1 | [#barugajian](http://twitter.com/search?q=%23barugajian) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
-| 4 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 5 | [#PradaxJaehyun](http://twitter.com/search?q=%23PradaxJaehyun) | N/A |
-| 6 | [#satsetsahabatsetiaet](http://twitter.com/search?q=%23satsetsahabatsetiaet) | N/A |
-| 7 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 3 | [SEMANGAT 45](http://twitter.com/search?q=SEMANGAT+45) | N/A |
+| 4 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 5 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 6 | [#PradaxJaehyun](http://twitter.com/search?q=%23PradaxJaehyun) | N/A |
+| 7 | [#HariPerempuanInternasional](http://twitter.com/search?q=%23HariPerempuanInternasional) | N/A |
 | 8 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 9 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 10 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 11 | [#TDS2inJAKARTA_DAY3](http://twitter.com/search?q=%23TDS2inJAKARTA_DAY3) | N/A |
-| 12 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 13 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
-| 14 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
-| 15 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 16 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 17 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 18 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 19 | [Al Qur'an Sumber Kebenaran](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebenaran) | N/A |
-| 20 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 21 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 9 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 10 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 11 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 12 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 13 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
+| 14 | [nisfu sya'ban](http://twitter.com/search?q=nisfu+sya%27ban) | N/A |
+| 15 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
+| 16 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 17 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
+| 18 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 19 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 20 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 21 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
 | 22 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 23 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
-| 24 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 23 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 24 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
 | 25 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 26 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 27 | [tanggal 7](http://twitter.com/search?q=tanggal+7) | N/A |
-| 28 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
-| 29 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
-| 30 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
-| 31 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 32 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 33 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
-| 34 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 35 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
-| 36 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 26 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 27 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 28 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
+| 29 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
+| 30 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 31 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 32 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 33 | [IKN Nusantara](http://twitter.com/search?q=IKN+Nusantara) | N/A |
+| 34 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
+| 35 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 36 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
 | 37 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 38 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 41 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 42 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
-| 43 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 44 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 45 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 46 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
-| 47 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
-| 48 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 49 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
+| 38 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
+| 39 | [Lagu Jawa Viral](http://twitter.com/search?q=Lagu+Jawa+Viral) | N/A |
+| 40 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 41 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
+| 42 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
+| 43 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 44 | [Tanggal 7](http://twitter.com/search?q=Tanggal+7) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [NCT 127](http://twitter.com/search?q=NCT+127) | N/A |
+| 47 | [BLUE TO ORANGE](http://twitter.com/search?q=BLUE+TO+ORANGE) | N/A |
+| 48 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 49 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
 
 
 

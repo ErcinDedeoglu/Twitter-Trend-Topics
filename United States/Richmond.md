@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-08 02:43:08 UTC`
+📆 Last Updated: `2023-03-08 03:23:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
 | 2 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 3 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 6 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 7 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 4 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
 | 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 9 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
-| 10 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 11 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 12 | [#catfish](http://twitter.com/search?q=%23catfish) | N/A |
-| 13 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 14 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 15 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
-| 16 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 17 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 18 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 19 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 20 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 21 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 22 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 23 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
-| 24 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 25 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 26 | [Palat](http://twitter.com/search?q=Palat) | N/A |
-| 27 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 28 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 29 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 30 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 31 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 32 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 33 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 34 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 35 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
-| 36 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 37 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 38 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 39 | [Gafford](http://twitter.com/search?q=Gafford) | N/A |
-| 40 | [Haula](http://twitter.com/search?q=Haula) | N/A |
-| 41 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
-| 42 | [Lucky Charms](http://twitter.com/search?q=Lucky+Charms) | N/A |
-| 43 | [Grayson Waller](http://twitter.com/search?q=Grayson+Waller) | N/A |
-| 44 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 45 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 48 | [Tyrese Maxey](http://twitter.com/search?q=Tyrese+Maxey) | N/A |
-| 49 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 9 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 11 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
+| 12 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
+| 13 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 14 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 15 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 16 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 17 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 19 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 21 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 22 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 23 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 24 | [DeAngelo](http://twitter.com/search?q=DeAngelo) | N/A |
+| 25 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 26 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 27 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 28 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 29 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 30 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
+| 31 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 32 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 33 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 34 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 35 | [Kelly Oubre](http://twitter.com/search?q=Kelly+Oubre) | N/A |
+| 36 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 37 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 38 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 39 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 40 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 41 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 42 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
+| 43 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 44 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 45 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 46 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 47 | [Saric](http://twitter.com/search?q=Saric) | N/A |
+| 48 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 49 | [Palat](http://twitter.com/search?q=Palat) | N/A |
 
 
 

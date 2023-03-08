@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-08 02:43:01 UTC`
+📆 Last Updated: `2023-03-08 03:23:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 2 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
-| 3 | [#YenidenErdoganKazanacak](http://twitter.com/search?q=%23YenidenErdoganKazanacak) | N/A |
-| 4 | [#basakdolunayi](http://twitter.com/search?q=%23basakdolunayi) | N/A |
-| 5 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 6 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 7 | [Kutlu](http://twitter.com/search?q=Kutlu) | N/A |
-| 8 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 9 | [Günümüz](http://twitter.com/search?q=G%c3%bcn%c3%bcm%c3%bcz) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Buse](http://twitter.com/search?q=Buse) | N/A |
-| 12 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 13 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 14 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 15 | [Gazi Mustafa Kemal Atatürk](http://twitter.com/search?q=Gazi+Mustafa+Kemal+Atat%c3%bcrk) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Osman Öcalan](http://twitter.com/search?q=Osman+%c3%96calan) | N/A |
-| 18 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 19 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 20 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
-| 21 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
-| 22 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
-| 23 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 24 | [#inceye](http://twitter.com/search?q=%23inceye) | N/A |
-| 25 | [#JinJiyanAzadi](http://twitter.com/search?q=%23JinJiyanAzadi) | N/A |
-| 26 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
-| 27 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
-| 28 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 29 | [#SerenaySarıkaya](http://twitter.com/search?q=%23SerenaySar%c4%b1kaya) | N/A |
-| 30 | [#KervanYürüyor](http://twitter.com/search?q=%23KervanY%c3%bcr%c3%bcyor) | N/A |
-| 31 | [#AstsubaylarıÜzmeyin](http://twitter.com/search?q=%23Astsubaylar%c4%b1%c3%9czmeyin) | N/A |
-| 32 | [#KılıcdaroğluCumhurbaskanı](http://twitter.com/search?q=%23K%c4%b1l%c4%b1cdaro%c4%9fluCumhurbaskan%c4%b1) | N/A |
-| 33 | [#AmedsporHepVarOlacaktır](http://twitter.com/search?q=%23AmedsporHepVarOlacakt%c4%b1r) | N/A |
+| 2 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 3 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
+| 4 | [#KEMALKILIÇDAROĞLU](http://twitter.com/search?q=%23KEMALKILI%c3%87DARO%c4%9eLU) | N/A |
+| 5 | [çokuygunfiyatlı tthizmeti](http://twitter.com/search?q=%c3%a7okuygunfiyatl%c4%b1+tthizmeti) | N/A |
+| 6 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 7 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 8 | [müstakil ev](http://twitter.com/search?q=m%c3%bcstakil+ev) | N/A |
+| 9 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 10 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 11 | [namussuz siyaset](http://twitter.com/search?q=namussuz+siyaset) | N/A |
+| 12 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 13 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 14 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 15 | [Yarasın](http://twitter.com/search?q=Yaras%c4%b1n) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 18 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 19 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 20 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 21 | [dayanışma ruhu](http://twitter.com/search?q=dayan%c4%b1%c5%9fma+ruhu) | N/A |
+| 22 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 23 | [HEMEN ŞİMDİ](http://twitter.com/search?q=HEMEN+%c5%9e%c4%b0MD%c4%b0) | N/A |
+| 24 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 25 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 26 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 27 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 28 | [Büşra](http://twitter.com/search?q=B%c3%bc%c5%9fra) | N/A |
+| 29 | [Tükürdüğünü](http://twitter.com/search?q=T%c3%bck%c3%bcrd%c3%bc%c4%9f%c3%bcn%c3%bc) | N/A |
+| 30 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 31 | [alpay](http://twitter.com/search?q=alpay) | N/A |
+| 32 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 33 | [Sabri](http://twitter.com/search?q=Sabri) | N/A |
+| 34 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [Barış](http://twitter.com/search?q=Bar%c4%b1%c5%9f) | N/A |
+| 37 | [Milli](http://twitter.com/search?q=Milli) | N/A |
+| 38 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 39 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
+| 40 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Gürcistan](http://twitter.com/search?q=G%c3%bcrcistan) | N/A |
+| 43 | [Deha](http://twitter.com/search?q=Deha) | N/A |
+| 44 | [Nurullah](http://twitter.com/search?q=Nurullah) | N/A |
+| 45 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 46 | [Gandalf](http://twitter.com/search?q=Gandalf) | N/A |
+| 47 | [Düzce](http://twitter.com/search?q=D%c3%bczce) | N/A |
+| 48 | [Bedri Baykam](http://twitter.com/search?q=Bedri+Baykam) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
 
 
 

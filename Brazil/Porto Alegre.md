@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-08 02:42:34 UTC`
+📆 Last Updated: `2023-03-08 03:22:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bento Freitas](http://twitter.com/search?q=Bento+Freitas) | N/A |
-| 2 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 3 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 4 | [paiva](http://twitter.com/search?q=paiva) | N/A |
-| 5 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
-| 6 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 8 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 9 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 10 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
-| 11 | [Arrozes](http://twitter.com/search?q=Arrozes) | N/A |
-| 12 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
-| 13 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 14 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 15 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 16 | [#Juliettecomfãs](http://twitter.com/search?q=%23Juliettecomf%c3%a3s) | N/A |
-| 17 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 18 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
-| 21 | [PARAGUAIA](http://twitter.com/search?q=PARAGUAIA) | N/A |
-| 22 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
-| 23 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 24 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 25 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 26 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 27 | [Yuri Lara](http://twitter.com/search?q=Yuri+Lara) | N/A |
-| 28 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 29 | [Hélio](http://twitter.com/search?q=H%c3%a9lio) | N/A |
-| 30 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 31 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 32 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 33 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 34 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 35 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 36 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
-| 37 | [Anjos](http://twitter.com/search?q=Anjos) | N/A |
-| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 39 | [SQUARE UP](http://twitter.com/search?q=SQUARE+UP) | N/A |
-| 40 | [SQUARE TWO](http://twitter.com/search?q=SQUARE+TWO) | N/A |
-| 41 | [SQUARE ONE](http://twitter.com/search?q=SQUARE+ONE) | N/A |
-| 42 | [Buchecha](http://twitter.com/search?q=Buchecha) | N/A |
-| 43 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 44 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 45 | [KILL THIS LOVE](http://twitter.com/search?q=KILL+THIS+LOVE) | N/A |
-| 46 | [Sarto](http://twitter.com/search?q=Sarto) | N/A |
-| 47 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
-| 48 | [THE ALBUM](http://twitter.com/search?q=THE+ALBUM) | The Album is a term used to refer to a collection of songs or recordings released as a single package. It is typically used to refer to a full-length album, but can also be used for an EP or single. The term is derived from the traditional method of releasing music on vinyl records, which were usually packaged in an album with multiple songs. |
-| 49 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 50 | [Tracker](http://twitter.com/search?q=Tracker) | N/A |
+| 2 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 3 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 6 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 7 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 8 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 9 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 10 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 11 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
+| 12 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 13 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 14 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 15 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
+| 16 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 17 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 18 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 19 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
+| 20 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 21 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 22 | [Arrozes](http://twitter.com/search?q=Arrozes) | N/A |
+| 23 | [Só 56%](http://twitter.com/search?q=S%c3%b3+56%25) | N/A |
+| 24 | [TEAM CHIARA](http://twitter.com/search?q=TEAM+CHIARA) | N/A |
+| 25 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 26 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
+| 27 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 28 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 29 | [Vem Key](http://twitter.com/search?q=Vem+Key) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [PARAGUAIA](http://twitter.com/search?q=PARAGUAIA) | N/A |
+| 32 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 33 | [Freud](http://twitter.com/search?q=Freud) | N/A |
+| 34 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 35 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
+| 36 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
+| 37 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 38 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 39 | [Yuri Lara](http://twitter.com/search?q=Yuri+Lara) | N/A |
+| 40 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 41 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 42 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 43 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 44 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 45 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 46 | [Hélio](http://twitter.com/search?q=H%c3%a9lio) | N/A |
+| 47 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 48 | [SQUARE UP](http://twitter.com/search?q=SQUARE+UP) | N/A |
+| 49 | [SQUARE TWO](http://twitter.com/search?q=SQUARE+TWO) | N/A |
+| 50 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-08 02:43:09 UTC`
+📆 Last Updated: `2023-03-08 03:23:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
-| 2 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 3 | [Hard Summer](http://twitter.com/search?q=Hard+Summer) | N/A |
-| 4 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
-| 5 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 8 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
-| 9 | [#ATTSweepstakes](http://twitter.com/search?q=%23ATTSweepstakes) | N/A |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 12 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
-| 13 | [cudi](http://twitter.com/search?q=cudi) | N/A |
-| 14 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 15 | [Capitol Police](http://twitter.com/search?q=Capitol+Police) | N/A |
-| 16 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 18 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 19 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 20 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 22 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 23 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 24 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 25 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 26 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 27 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 28 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 29 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 30 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 31 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 32 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 33 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 34 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 35 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
-| 36 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 37 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 38 | [Palat](http://twitter.com/search?q=Palat) | N/A |
-| 39 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 40 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 41 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 42 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 43 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 44 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 45 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 46 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 47 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
-| 48 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 49 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 50 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 2 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
+| 3 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 4 | [Hard Summer](http://twitter.com/search?q=Hard+Summer) | N/A |
+| 5 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 6 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 9 | [Daredevil](http://twitter.com/search?q=Daredevil) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 14 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
+| 15 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 16 | [Capitol Police](http://twitter.com/search?q=Capitol+Police) | N/A |
+| 17 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 18 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 20 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 21 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 22 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 23 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 24 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 25 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 26 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 27 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 28 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 29 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 30 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 31 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 32 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 33 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 34 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 35 | [DeAngelo](http://twitter.com/search?q=DeAngelo) | N/A |
+| 36 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 37 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 38 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 39 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 40 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 41 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 42 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
+| 43 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 44 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 45 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 46 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 47 | [Kelly Oubre](http://twitter.com/search?q=Kelly+Oubre) | N/A |
+| 48 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 49 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 50 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
 
 
 

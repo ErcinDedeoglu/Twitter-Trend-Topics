@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-08 02:43:05 UTC`
+📆 Last Updated: `2023-03-08 03:23:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 2 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 3 | [Wolff](http://twitter.com/search?q=Wolff) | N/A |
-| 4 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 5 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
-| 6 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 7 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 8 | [Haitian](http://twitter.com/search?q=Haitian) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 1 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 2 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 3 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 4 | [Wolff](http://twitter.com/search?q=Wolff) | N/A |
+| 5 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 6 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 9 | [Haitian](http://twitter.com/search?q=Haitian) | N/A |
 | 10 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 11 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 12 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 13 | [#Jan6th](http://twitter.com/search?q=%23Jan6th) | N/A |
-| 14 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 15 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 16 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 18 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 19 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 20 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 13 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 14 | [Liars](http://twitter.com/search?q=Liars) | N/A |
+| 15 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 16 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 18 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 19 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 20 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 | 21 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
-| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 22 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
 | 23 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 24 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 25 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 26 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 27 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 28 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 29 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 30 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 31 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 32 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 33 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
-| 34 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 35 | [Palat](http://twitter.com/search?q=Palat) | N/A |
-| 36 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 37 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 38 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 39 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 40 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 41 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 42 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 43 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 44 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
-| 45 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
-| 46 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 47 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 48 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 49 | [Gafford](http://twitter.com/search?q=Gafford) | N/A |
-| 50 | [Haula](http://twitter.com/search?q=Haula) | N/A |
+| 24 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 25 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 26 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 27 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 28 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 29 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 30 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 31 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 32 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 33 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
+| 34 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 35 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 36 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 37 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 38 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 39 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
+| 40 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 41 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 42 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 43 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 44 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 45 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 46 | [Kelly Oubre](http://twitter.com/search?q=Kelly+Oubre) | N/A |
+| 47 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 48 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 49 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 50 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
 
 
 

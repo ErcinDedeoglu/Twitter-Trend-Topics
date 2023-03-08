@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-08 02:42:25 UTC`
+📆 Last Updated: `2023-03-08 03:22:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 2 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 3 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 4 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 5 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 7 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 9 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 10 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 12 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 15 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 18 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
-| 19 | [Palat](http://twitter.com/search?q=Palat) | N/A |
-| 20 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
-| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 22 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 23 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
-| 24 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 25 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 27 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 28 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 29 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 30 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 31 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 32 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 33 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 34 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 35 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 36 | [Bunts](http://twitter.com/search?q=Bunts) | N/A |
-| 37 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 38 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 39 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 40 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
-| 41 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 42 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 43 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 44 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 45 | [Holmberg](http://twitter.com/search?q=Holmberg) | N/A |
-| 46 | [Papi](http://twitter.com/search?q=Papi) | N/A |
-| 47 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
-| 48 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 49 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 50 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 2 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 3 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 4 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 5 | [New Jersey](http://twitter.com/search?q=New+Jersey) | N/A |
+| 6 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 7 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
+| 8 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 9 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 10 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 13 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 14 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
+| 15 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 16 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 17 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 18 | [Bunts](http://twitter.com/search?q=Bunts) | N/A |
+| 19 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
+| 20 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 21 | [Alex Kerfoot](http://twitter.com/search?q=Alex+Kerfoot) | N/A |
+| 22 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 23 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 24 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 25 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 26 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 27 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 28 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
+| 29 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 32 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 33 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 34 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 36 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 37 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 38 | [Perk](http://twitter.com/search?q=Perk) | N/A |
+| 39 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 40 | [#chebvb](http://twitter.com/search?q=%23chebvb) | N/A |
+| 41 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 42 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 44 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 45 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 46 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
 
 
 
