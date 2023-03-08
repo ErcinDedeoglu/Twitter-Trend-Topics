@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-08 06:17:39 UTC`
+📆 Last Updated: `2023-03-08 07:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Colombia
 | 2 | [Augusto Rodríguez](http://twitter.com/search?q=Augusto+Rodr%c3%adguez) | N/A |
 | 3 | [#PetroDeberia](http://twitter.com/search?q=%23PetroDeberia) | N/A |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [#esunataque](http://twitter.com/search?q=%23esunataque) | N/A |
+| 5 | [#EsUnAtaque](http://twitter.com/search?q=%23EsUnAtaque) | N/A |
 | 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 7 | [#ventinolaserie](http://twitter.com/search?q=%23ventinolaserie) | N/A |
 | 8 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
@@ -27,22 +27,22 @@ This is top 50 for Colombia
 | 10 | [#VamosPorLasReformas](http://twitter.com/search?q=%23VamosPorLasReformas) | N/A |
 | 11 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 12 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
-| 13 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 14 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 13 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 14 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
 | 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 16 | [Cali](http://twitter.com/search?q=Cali) | N/A |
 | 17 | [Gerenta](http://twitter.com/search?q=Gerenta) | N/A |
-| 18 | [bacca](http://twitter.com/search?q=bacca) | N/A |
-| 19 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
-| 20 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 21 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 18 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
+| 19 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 20 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 21 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
 | 22 | [Farmatodo](http://twitter.com/search?q=Farmatodo) | N/A |
 | 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
-| 25 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
-| 26 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
-| 27 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
-| 28 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 24 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
+| 25 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
+| 26 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
+| 27 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 28 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
 | 29 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 30 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
 | 31 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Colombia
 | 40 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 | 41 | [CERCO HUMANITARIO](http://twitter.com/search?q=CERCO+HUMANITARIO) | N/A |
 | 42 | [Visceral](http://twitter.com/search?q=Visceral) | N/A |
-| 43 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
-| 44 | [luis carlos ruiz](http://twitter.com/search?q=luis+carlos+ruiz) | N/A |
+| 43 | [luis carlos ruiz](http://twitter.com/search?q=luis+carlos+ruiz) | N/A |
+| 44 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
 | 45 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 | 46 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 47 | [Julito](http://twitter.com/search?q=Julito) | N/A |
 | 48 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |
 | 49 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
-| 50 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 50 | [La JEP](http://twitter.com/search?q=La+JEP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-08 06:17:30 UTC`
+📆 Last Updated: `2023-03-08 07:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,40 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
-| 2 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
-| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 4 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 5 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 6 | [Kutlu Olsun](http://twitter.com/search?q=Kutlu+Olsun) | N/A |
-| 7 | [Sultan BenimGacım](http://twitter.com/search?q=Sultan+BenimGac%c4%b1m) | N/A |
-| 8 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 9 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 10 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 11 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 12 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
-| 13 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 15 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 16 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 17 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 18 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 19 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 20 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
-| 21 | [#JinJiyanAzadi](http://twitter.com/search?q=%23JinJiyanAzadi) | N/A |
-| 22 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
-| 23 | [#SeçimiŞoförYapacak](http://twitter.com/search?q=%23Se%c3%a7imi%c5%9eof%c3%b6rYapacak) | N/A |
-| 24 | [#basakdolunayi](http://twitter.com/search?q=%23basakdolunayi) | N/A |
-| 25 | [#YenidenErdoganKazanacak](http://twitter.com/search?q=%23YenidenErdoganKazanacak) | N/A |
-| 26 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 27 | [#Ailedizi](http://twitter.com/search?q=%23Ailedizi) | N/A |
-| 28 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
+| 1 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 2 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 4 | [#2000lerTorbaYasaya](http://twitter.com/search?q=%232000lerTorbaYasaya) | N/A |
+| 5 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
+| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 7 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 8 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 9 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 10 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 11 | [Sultan BenimGacım](http://twitter.com/search?q=Sultan+BenimGac%c4%b1m) | N/A |
+| 12 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 13 | [M. Kemal Atatürk](http://twitter.com/search?q=M.+Kemal+Atat%c3%bcrk) | N/A |
+| 14 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 15 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 16 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
+| 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 18 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
+| 19 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 20 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 21 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 22 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 23 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 24 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
+| 25 | [#JinJiyanAzadîDideJiyîn](http://twitter.com/search?q=%23JinJiyanAzad%c3%aeDideJiy%c3%aen) | N/A |
+| 26 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
+| 27 | [#doas](http://twitter.com/search?q=%23doas) | N/A |
+| 28 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
+| 29 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
+| 30 | [#tkfen](http://twitter.com/search?q=%23tkfen) | N/A |
+| 31 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 32 | [#SeçimiŞoförYapacak](http://twitter.com/search?q=%23Se%c3%a7imi%c5%9eof%c3%b6rYapacak) | N/A |
+| 33 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 34 | [#Ailedizi](http://twitter.com/search?q=%23Ailedizi) | N/A |
 
 
 

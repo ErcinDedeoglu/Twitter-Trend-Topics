@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-08 06:17:43 UTC`
+📆 Last Updated: `2023-03-08 07:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [Dnia Kobiet](http://twitter.com/search?q=Dnia+Kobiet) | N/A |
 | 2 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
-| 3 | [Wszystkim Paniom](http://twitter.com/search?q=Wszystkim+Paniom) | N/A |
+| 3 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
 | 4 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 7 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 8 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 6 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
+| 7 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 11 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
-| 12 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 13 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 14 | [#UwagaPiS](http://twitter.com/search?q=%23UwagaPiS) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 17 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 18 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
-| 19 | [motoru](http://twitter.com/search?q=motoru) | N/A |
-| 20 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 21 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 22 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 23 | [jakubasa](http://twitter.com/search?q=jakubasa) | N/A |
-| 24 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 25 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 26 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
-| 27 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 28 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 29 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 31 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 32 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 33 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 34 | [REPARACJE](http://twitter.com/search?q=REPARACJE) | N/A |
-| 35 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 36 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 37 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
-| 38 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 10 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 11 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 12 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
+| 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 14 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 15 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 17 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 18 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 21 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 22 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 23 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 24 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
+| 25 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 26 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 27 | [jakubasa](http://twitter.com/search?q=jakubasa) | N/A |
+| 28 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
+| 29 | [Szczecin](http://twitter.com/search?q=Szczecin) | N/A |
+| 30 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
+| 31 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 32 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 33 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 34 | [Prawdziwi](http://twitter.com/search?q=Prawdziwi) | N/A |
+| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 37 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
 | 39 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
 | 40 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 41 | [ogórek](http://twitter.com/search?q=og%c3%b3rek) | N/A |
-| 42 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
-| 43 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 44 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 45 | [wanda półtawska](http://twitter.com/search?q=wanda+p%c3%b3%c5%82tawska) | N/A |
-| 46 | [żaryn](http://twitter.com/search?q=%c5%bcaryn) | N/A |
-| 47 | [tomczyka](http://twitter.com/search?q=tomczyka) | N/A |
-| 48 | [franciszkańska 3](http://twitter.com/search?q=franciszka%c5%84ska+3) | N/A |
-| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 50 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 41 | [REPARACJE](http://twitter.com/search?q=REPARACJE) | N/A |
+| 42 | [hartwich](http://twitter.com/search?q=hartwich) | N/A |
+| 43 | [Jesteście](http://twitter.com/search?q=Jeste%c5%9bcie) | N/A |
+| 44 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 45 | [Jadziu](http://twitter.com/search?q=Jadziu) | N/A |
+| 46 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
+| 47 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
+| 48 | [Arabia Saudyjska](http://twitter.com/search?q=Arabia+Saudyjska) | N/A |
+| 49 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 50 | [Donalda](http://twitter.com/search?q=Donalda) | N/A |
 
 
 

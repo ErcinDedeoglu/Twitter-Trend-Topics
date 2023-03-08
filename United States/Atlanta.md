@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-08 06:17:30 UTC`
+📆 Last Updated: `2023-03-08 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
 | 2 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 3 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 5 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 9 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 10 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 11 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 14 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 15 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 16 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 17 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 18 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 19 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
-| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 21 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
-| 22 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 23 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 24 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 25 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 26 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 27 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
-| 28 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 29 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 30 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 31 | [Lonnie Walker](http://twitter.com/search?q=Lonnie+Walker) | N/A |
+| 3 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 4 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 8 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 9 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
+| 10 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 11 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 12 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 14 | [#JJK216](http://twitter.com/search?q=%23JJK216) | N/A |
+| 15 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 16 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 18 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
+| 19 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 20 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 21 | [Chadwick Tromp](http://twitter.com/search?q=Chadwick+Tromp) | N/A |
+| 22 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 23 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 24 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
+| 25 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 26 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
+| 27 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 28 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 29 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
+| 30 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 31 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
 | 32 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 33 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 34 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 35 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
-| 36 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
-| 37 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
-| 38 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 39 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 40 | [Profar](http://twitter.com/search?q=Profar) | N/A |
-| 41 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 42 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 43 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
-| 44 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 45 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 46 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 47 | [Caleb Foster](http://twitter.com/search?q=Caleb+Foster) | N/A |
-| 48 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 49 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 50 | [Tyus](http://twitter.com/search?q=Tyus) | N/A |
+| 33 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 34 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 35 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 36 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
+| 37 | [Lonnie Walker](http://twitter.com/search?q=Lonnie+Walker) | N/A |
+| 38 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 39 | [Joe Cravens](http://twitter.com/search?q=Joe+Cravens) | N/A |
+| 40 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 41 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
+| 42 | [Cal Poly](http://twitter.com/search?q=Cal+Poly) | N/A |
+| 43 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 44 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 45 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 46 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 47 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 48 | [Utah Tech](http://twitter.com/search?q=Utah+Tech) | N/A |
+| 49 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
+| 50 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
 
 
 

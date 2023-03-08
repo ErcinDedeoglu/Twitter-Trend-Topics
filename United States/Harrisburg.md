@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-08 06:17:33 UTC`
+📆 Last Updated: `2023-03-08 07:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Howie](http://twitter.com/search?q=Howie) | N/A |
 | 2 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
 | 3 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 4 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 5 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 6 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 7 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 8 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
-| 9 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 10 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 12 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 13 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 14 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 16 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 17 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 18 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 19 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 20 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 22 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 23 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 24 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 25 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 26 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 27 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 28 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 30 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
+| 4 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 5 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 7 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 8 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 11 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 12 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 13 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
+| 14 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 15 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 16 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 17 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 18 | [#JJK216](http://twitter.com/search?q=%23JJK216) | N/A |
+| 19 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 20 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 21 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 22 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
+| 23 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 24 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 25 | [Chadwick Tromp](http://twitter.com/search?q=Chadwick+Tromp) | N/A |
+| 26 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 27 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 28 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
+| 29 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 30 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
 | 31 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
 | 32 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 33 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 34 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 35 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 36 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
-| 37 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 38 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 39 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 33 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
+| 34 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 35 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 36 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 37 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 38 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 39 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
 | 40 | [Lonnie Walker](http://twitter.com/search?q=Lonnie+Walker) | N/A |
-| 41 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 42 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 43 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 44 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
-| 45 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
-| 46 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
-| 47 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 48 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 49 | [Profar](http://twitter.com/search?q=Profar) | N/A |
-| 50 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 41 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 42 | [Joe Cravens](http://twitter.com/search?q=Joe+Cravens) | N/A |
+| 43 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 44 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 45 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
+| 46 | [Utah Tech](http://twitter.com/search?q=Utah+Tech) | N/A |
+| 47 | [Cal Poly](http://twitter.com/search?q=Cal+Poly) | N/A |
+| 48 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 49 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 50 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
 
 
 
