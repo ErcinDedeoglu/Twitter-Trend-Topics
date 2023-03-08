@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-08 19:15:52 UTC`
+📆 Last Updated: `2023-03-08 20:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 7 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 9 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
-| 10 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 11 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 12 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 15 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 16 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 17 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 18 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 19 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 20 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 22 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [Ministra Presidenta](http://twitter.com/search?q=Ministra+Presidenta) | N/A |
-| 25 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 26 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 27 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 28 | [Coatzacoalcos](http://twitter.com/search?q=Coatzacoalcos) | N/A |
-| 29 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
-| 30 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
-| 31 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 32 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 33 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 34 | [Hombres](http://twitter.com/search?q=Hombres) | N/A |
-| 35 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 36 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 37 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
-| 38 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 39 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 9 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 10 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 11 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 13 | [Monumento a la Revolución](http://twitter.com/search?q=Monumento+a+la+Revoluci%c3%b3n) | N/A |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 17 | [Ministra Presidenta](http://twitter.com/search?q=Ministra+Presidenta) | N/A |
+| 18 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 19 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 20 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 21 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 22 | [Coatzacoalcos](http://twitter.com/search?q=Coatzacoalcos) | N/A |
+| 23 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 24 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 25 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
+| 26 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 27 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 28 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 29 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 30 | [Glorieta](http://twitter.com/search?q=Glorieta) | N/A |
+| 31 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 32 | [Hombres](http://twitter.com/search?q=Hombres) | N/A |
+| 33 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 34 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
+| 35 | [Ministra Norma Piña](http://twitter.com/search?q=Ministra+Norma+Pi%c3%b1a) | N/A |
+| 36 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 37 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 38 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 39 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 40 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 41 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 42 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 43 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 44 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
-| 45 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 46 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 47 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
-| 48 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 49 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
-| 50 | [#8MNadaQueCelebrar](http://twitter.com/search?q=%238MNadaQueCelebrar) | N/A |
+| 41 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 42 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
+| 43 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 44 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 45 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
+| 46 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 47 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
+| 48 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 49 | [#DontMessWithMexico](http://twitter.com/search?q=%23DontMessWithMexico) | N/A |
+| 50 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
 
 
 

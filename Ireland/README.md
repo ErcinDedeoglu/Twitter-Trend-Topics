@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-08 19:16:41 UTC`
+📆 Last Updated: `2023-03-08 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,36 @@ This is top 50 for Ireland
 | 17 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
 | 18 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 19 | [Rent](http://twitter.com/search?q=Rent) | Rent is a payment made by a tenant to a landlord for the use of property or land. It is usually paid on a monthly basis. The amount of rent is typically determined by the market value of the property or land and can vary depending on the location, size, and condition of the property. |
-| 20 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 21 | [Mick Wallace](http://twitter.com/search?q=Mick+Wallace) | N/A |
-| 22 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 23 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 24 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 22 | [Mick Wallace](http://twitter.com/search?q=Mick+Wallace) | N/A |
+| 23 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 24 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 25 | [DART](http://twitter.com/search?q=DART) | N/A |
 | 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 27 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
-| 28 | [mBan](http://twitter.com/search?q=mBan) | mBan is an abbreviation for mobile banking, which is the use of mobile devices such as smartphones and tablets to access banking services. It allows customers to manage their finances, make payments, transfer money, and more from their mobile device. |
-| 29 | [Neasa](http://twitter.com/search?q=Neasa) | N/A |
-| 30 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 31 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 34 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 35 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
-| 36 | [APPLY PROMO CODE](http://twitter.com/search?q=APPLY+PROMO+CODE) | N/A |
-| 37 | [Court of Appeal](http://twitter.com/search?q=Court+of+Appeal) | N/A |
-| 38 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 39 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 27 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
+| 30 | [mBan](http://twitter.com/search?q=mBan) | mBan is an abbreviation for mobile banking, which is the use of mobile devices such as smartphones and tablets to access banking services. It allows customers to manage their finances, make payments, transfer money, and more from their mobile device. |
+| 31 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 33 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 36 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
+| 37 | [apply promo code](http://twitter.com/search?q=apply+promo+code) | N/A |
+| 38 | [Court of Appeal](http://twitter.com/search?q=Court+of+Appeal) | N/A |
+| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
 | 40 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 41 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 42 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
+| 41 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 42 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 43 | [on the vimeo](http://twitter.com/search?q=on+the+vimeo) | N/A |
 | 44 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 45 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 46 | [Lá Idirnáisiúnta](http://twitter.com/search?q=L%c3%a1+Idirn%c3%a1isi%c3%banta) | N/A |
-| 47 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 48 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 49 | [Mammy](http://twitter.com/search?q=Mammy) | N/A |
+| 45 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 46 | [Dail](http://twitter.com/search?q=Dail) | N/A |
+| 47 | [Lá Idirnáisiúnta](http://twitter.com/search?q=L%c3%a1+Idirn%c3%a1isi%c3%banta) | N/A |
+| 48 | [Mammy](http://twitter.com/search?q=Mammy) | N/A |
+| 49 | [Nazi Germany](http://twitter.com/search?q=Nazi+Germany) | N/A |
 | 50 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
 
 

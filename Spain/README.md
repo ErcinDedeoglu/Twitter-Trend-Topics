@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-08 19:16:46 UTC`
+📆 Last Updated: `2023-03-08 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 2 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 3 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
-| 4 | [#CelebrandoPcAniversario](http://twitter.com/search?q=%23CelebrandoPcAniversario) | N/A |
-| 5 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 6 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 7 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 8 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
-| 11 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
-| 12 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
-| 13 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 14 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 2 | [#Pasapalabra720](http://twitter.com/search?q=%23Pasapalabra720) | N/A |
+| 3 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
+| 6 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 7 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 8 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 9 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 10 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 11 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 12 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
+| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [Felipe Moreno](http://twitter.com/search?q=Felipe+Moreno) | N/A |
 | 15 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
-| 16 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
-| 17 | [Blete](http://twitter.com/search?q=Blete) | N/A |
-| 18 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 16 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 18 | [Arbeloa](http://twitter.com/search?q=Arbeloa) | N/A |
 | 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 20 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 21 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 22 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 25 | [Hoy 8M](http://twitter.com/search?q=Hoy+8M) | N/A |
-| 26 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
-| 27 | [Afganistán](http://twitter.com/search?q=Afganist%c3%a1n) | N/A |
-| 28 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 29 | [Mieres](http://twitter.com/search?q=Mieres) | N/A |
-| 30 | [Machista](http://twitter.com/search?q=Machista) | N/A |
-| 31 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 32 | [Charos](http://twitter.com/search?q=Charos) | N/A |
-| 33 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 34 | [Gekko](http://twitter.com/search?q=Gekko) | N/A |
-| 35 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 36 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 37 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 38 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 39 | [#Solos8M](http://twitter.com/search?q=%23Solos8M) | N/A |
-| 40 | [#8marzo2023](http://twitter.com/search?q=%238marzo2023) | N/A |
-| 41 | [#TierraAmarga8Mar](http://twitter.com/search?q=%23TierraAmarga8Mar) | N/A |
+| 20 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 21 | [JC Reyes](http://twitter.com/search?q=JC+Reyes) | N/A |
+| 22 | [Cibeles](http://twitter.com/search?q=Cibeles) | Cibeles is a public square in Madrid, Spain, located at the intersection of Calle de Alcalá and Paseo del Prado. It is named after the Roman goddess Cybele, who was worshipped in ancient times as the goddess of fertility. The square is home to the Palacio de Cibeles, a former post office building which now serves as the city hall of Madrid. The fountain of Cibeles, located in the center of the square, is one of Madrid's most iconic landmarks and a symbol of the city. In English, Cibeles means "Cybele". |
+| 23 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 26 | [Blete](http://twitter.com/search?q=Blete) | N/A |
+| 27 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
+| 28 | [Mieres](http://twitter.com/search?q=Mieres) | N/A |
+| 29 | [Hoy 8M](http://twitter.com/search?q=Hoy+8M) | N/A |
+| 30 | [Afganistán](http://twitter.com/search?q=Afganist%c3%a1n) | N/A |
+| 31 | [Charos](http://twitter.com/search?q=Charos) | N/A |
+| 32 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 33 | [#CelebrandoPcAniversario](http://twitter.com/search?q=%23CelebrandoPcAniversario) | N/A |
+| 34 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 35 | [#DiaInternacionaDeLaMujer](http://twitter.com/search?q=%23DiaInternacionaDeLaMujer) | N/A |
+| 36 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 37 | [#8marzo2023](http://twitter.com/search?q=%238marzo2023) | N/A |
+| 38 | [#Solos8M](http://twitter.com/search?q=%23Solos8M) | N/A |
+| 39 | [#TierraAmarga8Mar](http://twitter.com/search?q=%23TierraAmarga8Mar) | N/A |
+| 40 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
+| 41 | [#CopaDelReyJuvenil](http://twitter.com/search?q=%23CopaDelReyJuvenil) | N/A |
 | 42 | [#NoHablesEnMiNombre](http://twitter.com/search?q=%23NoHablesEnMiNombre) | N/A |
-| 43 | [#PecadoOriginal8Mar](http://twitter.com/search?q=%23PecadoOriginal8Mar) | N/A |
-| 44 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 45 | [#CopaDelReyJuvenil](http://twitter.com/search?q=%23CopaDelReyJuvenil) | N/A |
-| 46 | [#YoMeRebelo8M](http://twitter.com/search?q=%23YoMeRebelo8M) | N/A |
-| 47 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 48 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 49 | [#APOYOROCIO8M](http://twitter.com/search?q=%23APOYOROCIO8M) | N/A |
-| 50 | [#ParisNice2023](http://twitter.com/search?q=%23ParisNice2023) | N/A |
+| 43 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 44 | [#PecadoOriginal8Mar](http://twitter.com/search?q=%23PecadoOriginal8Mar) | N/A |
+| 45 | [#YoMeRebelo8M](http://twitter.com/search?q=%23YoMeRebelo8M) | N/A |
+| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 47 | [#APOYOROCI08M](http://twitter.com/search?q=%23APOYOROCI08M) | N/A |
+| 48 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 49 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 50 | [#8MAbolicionista](http://twitter.com/search?q=%238MAbolicionista) | N/A |
 
 
 

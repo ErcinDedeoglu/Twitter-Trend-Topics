@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-08 19:16:17 UTC`
+📆 Last Updated: `2023-03-08 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 3 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 4 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 5 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 6 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 7 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 8 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 9 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 10 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 11 | [MY SOPE](http://twitter.com/search?q=MY+SOPE) | N/A |
-| 12 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
-| 13 | [yoonie](http://twitter.com/search?q=yoonie) | N/A |
-| 14 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 15 | [Somi](http://twitter.com/search?q=Somi) | N/A |
-| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 17 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 18 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
-| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 20 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 21 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
-| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 23 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 24 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 25 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
-| 26 | [#5thDiamondSoojinDay](http://twitter.com/search?q=%235thDiamondSoojinDay) | N/A |
-| 27 | [#OurDazzlingCherryDay](http://twitter.com/search?q=%23OurDazzlingCherryDay) | N/A |
-| 28 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 29 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
-| 30 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
-| 31 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
-| 32 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 33 | [#미소천사_그_자체](http://twitter.com/search?q=%23%eb%af%b8%ec%86%8c%ec%b2%9c%ec%82%ac_%ea%b7%b8_%ec%9e%90%ec%b2%b4) | N/A |
-| 34 | [#그때_그_시절](http://twitter.com/search?q=%23%ea%b7%b8%eb%95%8c_%ea%b7%b8_%ec%8b%9c%ec%a0%88) | N/A |
-| 35 | [#MinstradamusDay](http://twitter.com/search?q=%23MinstradamusDay) | N/A |
-| 36 | [#SUNGHOON](http://twitter.com/search?q=%23SUNGHOON) | N/A |
-| 37 | [#YoutubeSubsForSVT](http://twitter.com/search?q=%23YoutubeSubsForSVT) | N/A |
-| 38 | [#WeverseSubsForSVT](http://twitter.com/search?q=%23WeverseSubsForSVT) | N/A |
-| 39 | [#JAKE](http://twitter.com/search?q=%23JAKE) | N/A |
+| 2 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 3 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 4 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 5 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 6 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 7 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 8 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
+| 9 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 10 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
+| 11 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
+| 12 | [MUSIC INVASION WITH FELIP](http://twitter.com/search?q=MUSIC+INVASION+WITH+FELIP) | N/A |
+| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 14 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
+| 15 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 16 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 17 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
+| 18 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 19 | [bgyo on tiktoclock gma](http://twitter.com/search?q=bgyo+on+tiktoclock+gma) | N/A |
+| 20 | [LEE JONG SUK](http://twitter.com/search?q=LEE+JONG+SUK) | N/A |
+| 21 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 22 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 23 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 24 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
+| 25 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
+| 26 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 30 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
+| 31 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 32 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 33 | [yoonie](http://twitter.com/search?q=yoonie) | N/A |
+| 34 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 35 | [BABAE KA](http://twitter.com/search?q=BABAE+KA) | N/A |
+| 36 | [K-verse](http://twitter.com/search?q=K-verse) | N/A |
+| 37 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
+| 38 | [yoongi hyung](http://twitter.com/search?q=yoongi+hyung) | N/A |
+| 39 | [Pandaigdigang Araw](http://twitter.com/search?q=Pandaigdigang+Araw) | N/A |
+| 40 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 41 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
+| 42 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 43 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
+| 44 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 45 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 46 | [coach tina](http://twitter.com/search?q=coach+tina) | N/A |
+| 47 | [ready to be freed](http://twitter.com/search?q=ready+to+be+freed) | N/A |
+| 48 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 49 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
 
 
 

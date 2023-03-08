@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-08 19:15:49 UTC`
+📆 Last Updated: `2023-03-08 20:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
-| 2 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 3 | [Buckingham Palace](http://twitter.com/search?q=Buckingham+Palace) | N/A |
-| 4 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 5 | [#InspiringWomen](http://twitter.com/search?q=%23InspiringWomen) | N/A |
-| 6 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 8 | [#TodayIsTheDay](http://twitter.com/search?q=%23TodayIsTheDay) | N/A |
-| 9 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 10 | [Billions](http://twitter.com/search?q=Billions) | N/A |
-| 11 | [#Holi](http://twitter.com/search?q=%23Holi) | N/A |
-| 12 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 14 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 15 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 16 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 17 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 18 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 21 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 22 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
-| 23 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 24 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 25 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
-| 26 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 27 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 28 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 31 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 32 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
-| 33 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 34 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 35 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 36 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 37 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 38 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 39 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 40 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 41 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 42 | [At 30](http://twitter.com/search?q=At+30) | N/A |
-| 43 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 44 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 45 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 1 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 3 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 4 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 5 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 6 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
+| 7 | [Lefty](http://twitter.com/search?q=Lefty) | N/A |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 10 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
+| 11 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
+| 12 | [#DigitALL](http://twitter.com/search?q=%23DigitALL) | N/A |
+| 13 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
+| 14 | [Billions](http://twitter.com/search?q=Billions) | N/A |
+| 15 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Penalty to Rangers](http://twitter.com/search?q=Penalty+to+Rangers) | N/A |
+| 19 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 20 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 21 | [Ralston](http://twitter.com/search?q=Ralston) | N/A |
+| 22 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 23 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 24 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 25 | [Stina](http://twitter.com/search?q=Stina) | Stina is a Swedish female name, derived from the Latin name Christina. It is a diminutive form of Christina and means "follower of Christ" or "Christian". |
+| 26 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 27 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 29 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 30 | [Colak](http://twitter.com/search?q=Colak) | Colak is a type of traditional Indonesian cake made from glutinous rice flour, coconut milk, and sugar. It is usually served as a snack or dessert. The name Colak comes from the Javanese word "colak-colakan" which means to mix or stir. In English, Colak can be translated as "mixed cake". |
+| 31 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 32 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 33 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 35 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 36 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 37 | [Frida](http://twitter.com/search?q=Frida) | N/A |
+| 38 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 39 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 40 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 41 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 42 | [Ciaran](http://twitter.com/search?q=Ciaran) | N/A |
+| 43 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 44 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 45 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
 | 46 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
-| 47 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 48 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 49 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 50 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 47 | [Training](http://twitter.com/search?q=Training) | N/A |
+| 48 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 49 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 50 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
 
 
 

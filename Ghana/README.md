@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-08 19:16:42 UTC`
+📆 Last Updated: `2023-03-08 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Ghana
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [Ashaiman](http://twitter.com/search?q=Ashaiman) | N/A |
 | 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 5 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
 | 6 | [Ashiaman](http://twitter.com/search?q=Ashiaman) | N/A |
 | 7 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 10 | [Ghana Armed Forces](http://twitter.com/search?q=Ghana+Armed+Forces) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 12 | [State of the Nation Address](http://twitter.com/search?q=State+of+the+Nation+Address) | N/A |
-| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 14 | [President Akufo-Addo](http://twitter.com/search?q=President+Akufo-Addo) | N/A |
-| 15 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 16 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 15 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 17 | [Military High Command](http://twitter.com/search?q=Military+High+Command) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 20 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 21 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 22 | [The Flag](http://twitter.com/search?q=The+Flag) | N/A |
 | 23 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
 | 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Reece](http://twitter.com/search?q=Reece) | N/A |
-| 26 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
-| 27 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 30 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 31 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 32 | [Bridge](http://twitter.com/search?q=Bridge) | N/A |
-| 33 | [Major Mahama](http://twitter.com/search?q=Major+Mahama) | N/A |
-| 34 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
-| 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 25 | [Cucu](http://twitter.com/search?q=Cucu) | N/A |
+| 26 | [Reece](http://twitter.com/search?q=Reece) | N/A |
+| 27 | [East Legon](http://twitter.com/search?q=East+Legon) | N/A |
+| 28 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 31 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 32 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 33 | [Bridge](http://twitter.com/search?q=Bridge) | N/A |
+| 34 | [Major Mahama](http://twitter.com/search?q=Major+Mahama) | N/A |
+| 35 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
 | 36 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 37 | [Ato Forson](http://twitter.com/search?q=Ato+Forson) | N/A |
-| 38 | [Burma](http://twitter.com/search?q=Burma) | N/A |
-| 39 | [Kwesi](http://twitter.com/search?q=Kwesi) | N/A |
-| 40 | [YEMI CREGX OUR MCW](http://twitter.com/search?q=YEMI+CREGX+OUR+MCW) | N/A |
-| 41 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
-| 42 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
-| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Burma](http://twitter.com/search?q=Burma) | N/A |
+| 38 | [Ato Forson](http://twitter.com/search?q=Ato+Forson) | N/A |
+| 39 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 40 | [Kwesi](http://twitter.com/search?q=Kwesi) | N/A |
+| 41 | [YEMI CREGX OUR MCW](http://twitter.com/search?q=YEMI+CREGX+OUR+MCW) | N/A |
+| 42 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 43 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
 | 44 | [INFLUENTIAL PHYNA](http://twitter.com/search?q=INFLUENTIAL+PHYNA) | N/A |
 | 45 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
 | 46 | [Press Release](http://twitter.com/search?q=Press+Release) | N/A |
-| 47 | [Vibes](http://twitter.com/search?q=Vibes) | N/A |
-| 48 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
-| 49 | [Captain Mahama](http://twitter.com/search?q=Captain+Mahama) | N/A |
+| 47 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
+| 48 | [Captain Mahama](http://twitter.com/search?q=Captain+Mahama) | N/A |
+| 49 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
 | 50 | [PHYNA ACHIEVEMENTS](http://twitter.com/search?q=PHYNA+ACHIEVEMENTS) | N/A |
 
 

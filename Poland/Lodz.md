@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-08 19:16:01 UTC`
+📆 Last Updated: `2023-03-08 20:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Poland](</Poland>)
 | 6 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
 | 7 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
 | 8 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 9 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 10 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 9 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 10 | [Borys](http://twitter.com/search?q=Borys) | N/A |
 | 11 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 12 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 13 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 14 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 15 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 16 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 17 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 18 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
-| 19 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 20 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
-| 21 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 22 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 23 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 24 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 12 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 13 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 14 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 15 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 17 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 18 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 19 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
+| 20 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 21 | [HP-05](http://twitter.com/search?q=HP-05) | N/A |
+| 22 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 23 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 24 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
 | 25 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 26 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 27 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 28 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 29 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 30 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 31 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 32 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 33 | [Isajew](http://twitter.com/search?q=Isajew) | N/A |
-| 34 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
-| 35 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 36 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 26 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 27 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 28 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 29 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
+| 30 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 31 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 32 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 33 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 34 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 35 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 36 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
 | 37 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
-| 38 | [Rafał Trzaskowski](http://twitter.com/search?q=Rafa%c5%82+Trzaskowski) | N/A |
-| 39 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
-| 40 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 41 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 42 | [Sejmu](http://twitter.com/search?q=Sejmu) | N/A |
-| 43 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Pedofile](http://twitter.com/search?q=Pedofile) | N/A |
-| 46 | [Rzecznik Praw Dziecka](http://twitter.com/search?q=Rzecznik+Praw+Dziecka) | N/A |
-| 47 | [Jakubas](http://twitter.com/search?q=Jakubas) | N/A |
-| 48 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 38 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 39 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 40 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 41 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
+| 42 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
+| 43 | [Pedofile](http://twitter.com/search?q=Pedofile) | N/A |
+| 44 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 45 | [Rafał Trzaskowski](http://twitter.com/search?q=Rafa%c5%82+Trzaskowski) | N/A |
+| 46 | [Jakubas](http://twitter.com/search?q=Jakubas) | N/A |
+| 47 | [Rzecznik Praw Dziecka](http://twitter.com/search?q=Rzecznik+Praw+Dziecka) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

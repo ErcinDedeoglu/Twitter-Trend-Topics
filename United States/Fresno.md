@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-08 19:16:33 UTC`
+📆 Last Updated: `2023-03-08 20:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 2 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
-| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 4 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 5 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 7 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 10 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 11 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 12 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 13 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 14 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
-| 15 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 16 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
-| 17 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 18 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
-| 19 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
-| 20 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 21 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 22 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
-| 23 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 25 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 26 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 27 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 28 | [Judah Mintz](http://twitter.com/search?q=Judah+Mintz) | N/A |
-| 29 | [Benny Williams](http://twitter.com/search?q=Benny+Williams) | N/A |
-| 30 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
-| 31 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 32 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 33 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
-| 34 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 35 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 36 | [Deacs](http://twitter.com/search?q=Deacs) | N/A |
-| 37 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
-| 38 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
-| 39 | [Batman Forever](http://twitter.com/search?q=Batman+Forever) | N/A |
-| 40 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 41 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
-| 42 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 43 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 44 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
-| 45 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 46 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
-| 47 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 48 | [Gone in 60](http://twitter.com/search?q=Gone+in+60) | N/A |
-| 49 | [Rone](http://twitter.com/search?q=Rone) | N/A |
+| 1 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 2 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 3 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 4 | [Snoop](http://twitter.com/search?q=Snoop) | N/A |
+| 5 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 6 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 7 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 10 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 11 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 12 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 13 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 14 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 15 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 16 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
+| 19 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
+| 20 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
+| 21 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 22 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
+| 23 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
+| 24 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 25 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 26 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 27 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
+| 28 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 29 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
+| 30 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 31 | [I LOVE WOMEN](http://twitter.com/search?q=I+LOVE+WOMEN) | N/A |
+| 32 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 33 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 34 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
+| 35 | [Deacs](http://twitter.com/search?q=Deacs) | N/A |
+| 36 | [Judah Mintz](http://twitter.com/search?q=Judah+Mintz) | N/A |
+| 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 38 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 39 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
+| 40 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
+| 41 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
+| 42 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 43 | [The Dark Knight Rises](http://twitter.com/search?q=The+Dark+Knight+Rises) | N/A |
+| 44 | [Greg Oden](http://twitter.com/search?q=Greg+Oden) | N/A |
+| 45 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
+| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 47 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
+| 48 | [Batman Forever](http://twitter.com/search?q=Batman+Forever) | N/A |
+| 49 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
 
 
 

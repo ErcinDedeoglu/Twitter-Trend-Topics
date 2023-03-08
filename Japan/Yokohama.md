@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-03-08 19:16:14 UTC`
+📆 Last Updated: `2023-03-08 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BiSH神奈川](http://twitter.com/search?q=%23BiSH%e7%a5%9e%e5%a5%88%e5%b7%9d) | N/A |
-| 2 | [#PUNKSWiNDLETOUR](http://twitter.com/search?q=%23PUNKSWiNDLETOUR) | N/A |
-| 3 | [#絶対に許さないゲーム](http://twitter.com/search?q=%23%e7%b5%b6%e5%af%be%e3%81%ab%e8%a8%b1%e3%81%95%e3%81%aa%e3%81%84%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
-| 4 | [FILM RED](http://twitter.com/search?q=FILM+RED) | N/A |
-| 5 | [#ビーコル](http://twitter.com/search?q=%23%e3%83%93%e3%83%bc%e3%82%b3%e3%83%ab) | N/A |
-| 6 | [バッドエンド](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
-| 7 | [くら寿司](http://twitter.com/search?q=%e3%81%8f%e3%82%89%e5%af%bf%e5%8f%b8) | くら寿司 is a type of sushi that is made with a vinegared rice base and topped with various ingredients such as fish, vegetables, and other toppings. The literal translation of the phrase "くら寿司" is "dark sushi". |
-| 8 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 9 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 10 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 1 | [FILM RED](http://twitter.com/search?q=FILM+RED) | N/A |
+| 2 | [バッドエンド](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
+| 3 | [くら寿司](http://twitter.com/search?q=%e3%81%8f%e3%82%89%e5%af%bf%e5%8f%b8) | くら寿司 is a type of sushi that is made with a vinegared rice base and topped with various ingredients such as fish, vegetables, and other toppings. The literal translation of the phrase "くら寿司" is "dark sushi". |
+| 4 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 5 | [#ミクの日](http://twitter.com/search?q=%23%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 7 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 8 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 9 | [#人は夢を二度見る](http://twitter.com/search?q=%23%e4%ba%ba%e3%81%af%e5%a4%a2%e3%82%92%e4%ba%8c%e5%ba%a6%e8%a6%8b%e3%82%8b) | N/A |
+| 10 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
 | 11 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 12 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 13 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 14 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
-| 15 | [咲也くん](http://twitter.com/search?q=%e5%92%b2%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 16 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
-| 17 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
-| 18 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [愛のかたまり](http://twitter.com/search?q=%e6%84%9b%e3%81%ae%e3%81%8b%e3%81%9f%e3%81%be%e3%82%8a) | N/A |
-| 20 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
-| 21 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 22 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
-| 23 | [野球の話](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e8%a9%b1) | N/A |
-| 24 | [名人挑戦](http://twitter.com/search?q=%e5%90%8d%e4%ba%ba%e6%8c%91%e6%88%a6) | N/A |
-| 25 | [ミンユンギ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%a6%e3%83%b3%e3%82%ae) | ミンユンギ is a Korean term that translates to "trust and understanding" in English. It is often used to describe the relationship between two people who have a strong bond of trust and understanding. |
-| 26 | [村田雄介](http://twitter.com/search?q=%e6%9d%91%e7%94%b0%e9%9b%84%e4%bb%8b) | N/A |
-| 27 | [アーサー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b5%e3%83%bc) | アーサー is the Japanese name for the legendary British king, King Arthur. In English, it is pronounced "Ah-sah". |
-| 28 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 29 | [第226話](http://twitter.com/search?q=%e7%ac%ac226%e8%a9%b1) | N/A |
-| 30 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 31 | [Wordle 628](http://twitter.com/search?q=Wordle+628) | N/A |
-| 32 | [神戸くん](http://twitter.com/search?q=%e7%a5%9e%e6%88%b8%e3%81%8f%e3%82%93) | N/A |
-| 33 | [ワンパンマン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
-| 34 | [ゆんぎさん](http://twitter.com/search?q=%e3%82%86%e3%82%93%e3%81%8e%e3%81%95%e3%82%93) | N/A |
-| 35 | [リクエストアワー](http://twitter.com/search?q=%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 36 | [オールナイトニッポンX](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3X) | オールナイトニッポンX is a Japanese radio program that airs on Nippon Cultural Broadcasting. It is a talk show that features interviews with celebrities and discussions about various topics. The name of the show translates to "All Night Nippon X" in English. |
-| 37 | [VolKno](http://twitter.com/search?q=VolKno) | N/A |
-| 38 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 39 | [ユンちゃん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [パラノマサイト](http://twitter.com/search?q=%e3%83%91%e3%83%a9%e3%83%8e%e3%83%9e%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 41 | [ティルティ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%ab%e3%83%86%e3%82%a3) | N/A |
-| 42 | [みぉーん](http://twitter.com/search?q=%e3%81%bf%e3%81%89%e3%83%bc%e3%82%93) | N/A |
-| 43 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
-| 44 | [となりのヤングジャンプ](http://twitter.com/search?q=%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e3%83%a4%e3%83%b3%e3%82%b0%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
+| 12 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
+| 13 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
+| 14 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 15 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
+| 16 | [咲也くん](http://twitter.com/search?q=%e5%92%b2%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
+| 17 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 18 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
+| 19 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
+| 20 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
+| 21 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [愛のかたまり](http://twitter.com/search?q=%e6%84%9b%e3%81%ae%e3%81%8b%e3%81%9f%e3%81%be%e3%82%8a) | N/A |
+| 23 | [Wordle 628](http://twitter.com/search?q=Wordle+628) | N/A |
+| 24 | [ワンパンマン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
+| 25 | [野球の話](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e8%a9%b1) | N/A |
+| 26 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
+| 27 | [村田雄介](http://twitter.com/search?q=%e6%9d%91%e7%94%b0%e9%9b%84%e4%bb%8b) | N/A |
+| 28 | [リクエストアワー](http://twitter.com/search?q=%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 29 | [名人挑戦](http://twitter.com/search?q=%e5%90%8d%e4%ba%ba%e6%8c%91%e6%88%a6) | N/A |
+| 30 | [第226話](http://twitter.com/search?q=%e7%ac%ac226%e8%a9%b1) | N/A |
+| 31 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 32 | [アーサー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b5%e3%83%bc) | アーサー is the Japanese name for the legendary British king, King Arthur. In English, it is pronounced "Ah-sah". |
+| 33 | [ミンユンギ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%a6%e3%83%b3%e3%82%ae) | ミンユンギ is a Korean term that translates to "trust and understanding" in English. It is often used to describe the relationship between two people who have a strong bond of trust and understanding. |
+| 34 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 35 | [神戸くん](http://twitter.com/search?q=%e7%a5%9e%e6%88%b8%e3%81%8f%e3%82%93) | N/A |
+| 36 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 37 | [パラノマサイト](http://twitter.com/search?q=%e3%83%91%e3%83%a9%e3%83%8e%e3%83%9e%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 38 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
+| 39 | [ゆんぎさん](http://twitter.com/search?q=%e3%82%86%e3%82%93%e3%81%8e%e3%81%95%e3%82%93) | N/A |
+| 40 | [クリスマスソング](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 41 | [VolKno](http://twitter.com/search?q=VolKno) | N/A |
+| 42 | [となりのヤングジャンプ](http://twitter.com/search?q=%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e3%83%a4%e3%83%b3%e3%82%b0%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
+| 43 | [ユンちゃん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
 | 45 | [ゲッコー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
-| 46 | [瑠姫くん](http://twitter.com/search?q=%e7%91%a0%e5%a7%ab%e3%81%8f%e3%82%93) | 瑠姫くん is a character from the Japanese manga series, Chihayafuru. The character's name is Ruka Tsukuba and she is a high school student who loves the card game karuta. In English, her name can be translated to "Ruka Princess". |
-| 47 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
-| 48 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
-| 49 | [#ミクの日](http://twitter.com/search?q=%23%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 46 | [ティルティ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%ab%e3%83%86%e3%82%a3) | N/A |
+| 47 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
+| 48 | [フランキー](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
+| 49 | [スターフィールド](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
 
 
 
