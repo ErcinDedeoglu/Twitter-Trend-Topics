@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-08 15:17:50 UTC`
+📆 Last Updated: `2023-03-08 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 5 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 6 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
-| 7 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 8 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 9 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 12 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 13 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
-| 14 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 15 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
-| 16 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 17 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 18 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
-| 19 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 22 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 23 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
+| 8 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 9 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 10 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 11 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
+| 12 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 13 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 14 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 15 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 16 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 17 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 18 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 20 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 21 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 22 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 23 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 24 | [Wado](http://twitter.com/search?q=Wado) | N/A |
-| 25 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 26 | [CONICET](http://twitter.com/search?q=CONICET) | N/A |
-| 27 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 28 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 29 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 30 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
-| 31 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 32 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 33 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
-| 34 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 35 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 36 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 37 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
-| 38 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
-| 39 | [#EsConNosotras](http://twitter.com/search?q=%23EsConNosotras) | N/A |
-| 40 | [#NosotrasMovemosElMundo](http://twitter.com/search?q=%23NosotrasMovemosElMundo) | N/A |
-| 41 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 42 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 43 | [#Expoagro2023](http://twitter.com/search?q=%23Expoagro2023) | N/A |
+| 25 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 26 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 27 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
+| 28 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
+| 29 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 30 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 31 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
+| 32 | [CONICET](http://twitter.com/search?q=CONICET) | N/A |
+| 33 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
+| 34 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 35 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 36 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 37 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 38 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 39 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 40 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 41 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 42 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 43 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 44 | [#BuenMiércoles](http://twitter.com/search?q=%23BuenMi%c3%a9rcoles) | N/A |
+| 45 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
+| 46 | [#EsConNosotras](http://twitter.com/search?q=%23EsConNosotras) | N/A |
+| 47 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
+| 48 | [#NosotrasMovemosElMundo](http://twitter.com/search?q=%23NosotrasMovemosElMundo) | N/A |
+| 49 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 50 | [#Expoagro2023](http://twitter.com/search?q=%23Expoagro2023) | N/A |
 
 
 

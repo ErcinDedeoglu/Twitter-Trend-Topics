@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-03-08 15:16:46 UTC`
+📆 Last Updated: `2023-03-08 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,37 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
-| 5 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 8 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 1 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
+| 7 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 8 | [Marc Garneau](http://twitter.com/search?q=Marc+Garneau) | N/A |
+| 9 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 11 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 13 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
-| 14 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 15 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
-| 19 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 20 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 23 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 24 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 25 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 26 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 27 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 28 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 29 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 30 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 31 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
-| 32 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
-| 33 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 34 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [Happy Purim](http://twitter.com/search?q=Happy+Purim) | N/A |
-| 37 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
-| 38 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 39 | [La Journée](http://twitter.com/search?q=La+Journ%c3%a9e) | N/A |
-| 40 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 41 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
-| 42 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 43 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 45 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 46 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 47 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
-| 48 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 49 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 50 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 11 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 12 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 13 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 14 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 15 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 16 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 17 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 18 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 19 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 20 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 21 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 22 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 23 | [#EveryWomanCounts](http://twitter.com/search?q=%23EveryWomanCounts) | N/A |
+| 24 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 25 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 26 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
+| 27 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
+| 28 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 29 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 30 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 31 | [#TrudeauBrokeCanada](http://twitter.com/search?q=%23TrudeauBrokeCanada) | N/A |
 
 
 

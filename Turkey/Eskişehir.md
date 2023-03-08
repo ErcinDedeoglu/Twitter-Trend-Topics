@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-08 15:17:37 UTC`
+📆 Last Updated: `2023-03-08 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CbKemalden100BinÖğretmen](http://twitter.com/search?q=%23CbKemalden100Bin%c3%96%c4%9fretmen) | N/A |
-| 2 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
-| 3 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
-| 4 | [#HDPadayÇıkar](http://twitter.com/search?q=%23HDPaday%c3%87%c4%b1kar) | N/A |
-| 5 | [Lütfedip](http://twitter.com/search?q=L%c3%bctfedip) | N/A |
-| 6 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 7 | [Eyşan](http://twitter.com/search?q=Ey%c5%9fan) | N/A |
-| 8 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
-| 9 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
-| 10 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 11 | [Kürdüz](http://twitter.com/search?q=K%c3%bcrd%c3%bcz) | N/A |
-| 12 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 1 | [UstaÖğreticiye KadroyuVerin](http://twitter.com/search?q=Usta%c3%96%c4%9freticiye+KadroyuVerin) | N/A |
+| 2 | [#CbKemalden100BinÖğretmen](http://twitter.com/search?q=%23CbKemalden100Bin%c3%96%c4%9fretmen) | N/A |
+| 3 | [#Kılavuza10BinFzt](http://twitter.com/search?q=%23K%c4%b1lavuza10BinFzt) | N/A |
+| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 5 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
+| 6 | [Lütfedip](http://twitter.com/search?q=L%c3%bctfedip) | N/A |
+| 7 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 8 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 9 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
+| 10 | [eyşan](http://twitter.com/search?q=ey%c5%9fan) | N/A |
+| 11 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
+| 12 | [İman](http://twitter.com/search?q=%c4%b0man) | N/A |
 | 13 | [Beyoğlu Kaymakamlığı](http://twitter.com/search?q=Beyo%c4%9flu+Kaymakaml%c4%b1%c4%9f%c4%b1) | N/A |
-| 14 | [Biz Kürt](http://twitter.com/search?q=Biz+K%c3%bcrt) | N/A |
-| 15 | [Metres](http://twitter.com/search?q=Metres) | N/A |
-| 16 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
-| 17 | [Yalı](http://twitter.com/search?q=Yal%c4%b1) | N/A |
-| 18 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
-| 19 | [Adalet Bakanı](http://twitter.com/search?q=Adalet+Bakan%c4%b1) | N/A |
-| 20 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 21 | [Taksim'e](http://twitter.com/search?q=Taksim%27e) | N/A |
-| 22 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 23 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
-| 24 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
-| 25 | [Yükseköğretim Kurumları Sınavı](http://twitter.com/search?q=Y%c3%bcksek%c3%b6%c4%9fretim+Kurumlar%c4%b1+S%c4%b1nav%c4%b1) | N/A |
-| 26 | [ösym](http://twitter.com/search?q=%c3%b6sym) | N/A |
-| 27 | [Köpeğin](http://twitter.com/search?q=K%c3%b6pe%c4%9fin) | N/A |
-| 28 | [Hayvan](http://twitter.com/search?q=Hayvan) | N/A |
-| 29 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 30 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 31 | [İran](http://twitter.com/search?q=%c4%b0ran) | N/A |
-| 32 | [Deden](http://twitter.com/search?q=Deden) | N/A |
-| 33 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
-| 34 | [Başıboş](http://twitter.com/search?q=Ba%c5%9f%c4%b1bo%c5%9f) | N/A |
-| 35 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 36 | [Ayran](http://twitter.com/search?q=Ayran) | N/A |
-| 37 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 38 | [Taha](http://twitter.com/search?q=Taha) | N/A |
-| 39 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
+| 14 | [Mario Gomez](http://twitter.com/search?q=Mario+Gomez) | N/A |
+| 15 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 16 | [Selo](http://twitter.com/search?q=Selo) | N/A |
+| 17 | [Kürdüz](http://twitter.com/search?q=K%c3%bcrd%c3%bcz) | N/A |
+| 18 | [Biz Kürt](http://twitter.com/search?q=Biz+K%c3%bcrt) | N/A |
+| 19 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
+| 20 | [Metres](http://twitter.com/search?q=Metres) | N/A |
+| 21 | [Yalı](http://twitter.com/search?q=Yal%c4%b1) | N/A |
+| 22 | [Taksim'e](http://twitter.com/search?q=Taksim%27e) | N/A |
+| 23 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
+| 24 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 28 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 29 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 30 | [HDP'ye](http://twitter.com/search?q=HDP%27ye) | N/A |
+| 31 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
+| 32 | [adalet bakanı](http://twitter.com/search?q=adalet+bakan%c4%b1) | N/A |
+| 33 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 34 | [Yükseköğretim Kurumları Sınavı](http://twitter.com/search?q=Y%c3%bcksek%c3%b6%c4%9fretim+Kurumlar%c4%b1+S%c4%b1nav%c4%b1) | N/A |
+| 35 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 36 | [Köpeğin](http://twitter.com/search?q=K%c3%b6pe%c4%9fin) | N/A |
+| 37 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 38 | [Deden](http://twitter.com/search?q=Deden) | N/A |
+| 39 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
 | 40 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
-| 41 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 42 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 43 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 41 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 42 | [Ayran](http://twitter.com/search?q=Ayran) | N/A |
+| 43 | [#HDPadayÇıkar](http://twitter.com/search?q=%23HDPaday%c3%87%c4%b1kar) | N/A |
 | 44 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 45 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 46 | [#UzmanÇavuşlarıUnutmayın](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flar%c4%b1Unutmay%c4%b1n) | N/A |
-| 47 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
-| 48 | [#FirstLoveSuga](http://twitter.com/search?q=%23FirstLoveSuga) | N/A |
+| 45 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
+| 46 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
+| 47 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 48 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
 
 
 

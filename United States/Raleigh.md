@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-08 15:17:47 UTC`
+📆 Last Updated: `2023-03-08 16:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 6 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 10 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 11 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 12 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 14 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 15 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 16 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 1 | [Lamar Jackson](http://twitter.com/search?q=Lamar+Jackson) | N/A |
+| 2 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 7 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 8 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 9 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 16 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
 | 17 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 18 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 19 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 20 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 22 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 23 | [Mandalore](http://twitter.com/search?q=Mandalore) | N/A |
-| 24 | [She's Gone](http://twitter.com/search?q=She%27s+Gone) | N/A |
-| 25 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 26 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 27 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 28 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
-| 29 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 30 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 31 | [#FirstLoveSuga](http://twitter.com/search?q=%23FirstLoveSuga) | N/A |
-| 32 | [#OurSafePlaceSUGA](http://twitter.com/search?q=%23OurSafePlaceSUGA) | N/A |
-| 33 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 34 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 35 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 36 | [#SugaOurSpring](http://twitter.com/search?q=%23SugaOurSpring) | N/A |
-| 37 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 38 | [#SUGADAY](http://twitter.com/search?q=%23SUGADAY) | N/A |
-| 39 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 40 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 41 | [#OurStrengthSUGA](http://twitter.com/search?q=%23OurStrengthSUGA) | N/A |
-| 42 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 43 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 44 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
-| 45 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 46 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 47 | [#PrincessLilibetDiana](http://twitter.com/search?q=%23PrincessLilibetDiana) | N/A |
-| 48 | [#OurShiningStarSuga](http://twitter.com/search?q=%23OurShiningStarSuga) | N/A |
-| 49 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 18 | [Feliz Día de la Mujer](http://twitter.com/search?q=Feliz+D%c3%ada+de+la+Mujer) | N/A |
+| 19 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 20 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 21 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 22 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 23 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 24 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 25 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 26 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 27 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 28 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 29 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 30 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 31 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 32 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 33 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 35 | [Master and Commander](http://twitter.com/search?q=Master+and+Commander) | N/A |
+| 36 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 37 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
+| 38 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 39 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 40 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 41 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
+| 42 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 43 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 44 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 45 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 46 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 47 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 48 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
+| 49 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
 
 
 

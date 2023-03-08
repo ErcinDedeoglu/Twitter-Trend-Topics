@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-08 15:16:59 UTC`
+📆 Last Updated: `2023-03-08 16:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 2 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 3 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
 | 4 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 5 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
-| 6 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
-| 7 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 10 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
-| 11 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 12 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 13 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 14 | [Chamou o Fred](http://twitter.com/search?q=Chamou+o+Fred) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
-| 17 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
-| 18 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 19 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 20 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
-| 21 | [Vai Fred](http://twitter.com/search?q=Vai+Fred) | N/A |
-| 22 | [Tracker](http://twitter.com/search?q=Tracker) | N/A |
-| 23 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
-| 24 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 25 | [Jair Renan](http://twitter.com/search?q=Jair+Renan) | N/A |
-| 26 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
-| 27 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 28 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
-| 29 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
-| 30 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 31 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 32 | [FELIZ ANIVERSÁRIO MEU AMOR](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+MEU+AMOR) | N/A |
-| 33 | [Guerreiras](http://twitter.com/search?q=Guerreiras) | N/A |
-| 34 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
-| 35 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 36 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
-| 37 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 38 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 39 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
-| 40 | [Saint Seiya](http://twitter.com/search?q=Saint+Seiya) | N/A |
-| 41 | [Chore](http://twitter.com/search?q=Chore) | N/A |
-| 42 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 43 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 44 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 45 | [Ray Charles](http://twitter.com/search?q=Ray+Charles) | N/A |
-| 46 | [Mulherada](http://twitter.com/search?q=Mulherada) | N/A |
-| 47 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 48 | [#OJogoVirou](http://twitter.com/search?q=%23OJogoVirou) | N/A |
-| 49 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 5 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 8 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
+| 11 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 12 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 13 | [Cactos](http://twitter.com/search?q=Cactos) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 16 | [Julietona](http://twitter.com/search?q=Julietona) | N/A |
+| 17 | [Don't Forget](http://twitter.com/search?q=Don%27t+Forget) | N/A |
+| 18 | [Tell Me You Love Me](http://twitter.com/search?q=Tell+Me+You+Love+Me) | N/A |
+| 19 | [Here We Go Again](http://twitter.com/search?q=Here+We+Go+Again) | N/A |
+| 20 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 21 | [Guinho](http://twitter.com/search?q=Guinho) | N/A |
+| 22 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
+| 23 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
+| 24 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 25 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 26 | [Gonçalves](http://twitter.com/search?q=Gon%c3%a7alves) | N/A |
+| 27 | [Vai Fred](http://twitter.com/search?q=Vai+Fred) | N/A |
+| 28 | [FELIZ ANIVERSÁRIO MEU AMOR](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+MEU+AMOR) | N/A |
+| 29 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 30 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 31 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 32 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 33 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 34 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 35 | [Jair Renan](http://twitter.com/search?q=Jair+Renan) | N/A |
+| 36 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
+| 37 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 38 | [Tracker](http://twitter.com/search?q=Tracker) | N/A |
+| 39 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 40 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 41 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
+| 42 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
+| 43 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 44 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 45 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
+| 46 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 47 | [Kvsh](http://twitter.com/search?q=Kvsh) | N/A |
+| 48 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
+| 49 | [#OurDazzlingCherryDay](http://twitter.com/search?q=%23OurDazzlingCherryDay) | N/A |
 
 
 

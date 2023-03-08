@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-08 15:17:38 UTC`
+📆 Last Updated: `2023-03-08 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,20 +39,20 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 22 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
 | 23 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 24 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 25 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 25 | [uffindell](http://twitter.com/search?q=uffindell) | N/A |
 | 26 | [Judith](http://twitter.com/search?q=Judith) | N/A |
 | 27 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
 | 28 | [wairarapa](http://twitter.com/search?q=wairarapa) | N/A |
 | 29 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
-| 30 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 30 | [hosking](http://twitter.com/search?q=hosking) | N/A |
 | 31 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 32 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 33 | [maharey](http://twitter.com/search?q=maharey) | N/A |
-| 34 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 35 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
-| 36 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 37 | [Stats](http://twitter.com/search?q=Stats) | N/A |
-| 38 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 34 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
+| 35 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 36 | [Stats](http://twitter.com/search?q=Stats) | N/A |
+| 37 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 38 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 39 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 41 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 47 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 48 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 49 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 50 | [pavement](http://twitter.com/search?q=pavement) | N/A |
+| 50 | [Pavement](http://twitter.com/search?q=Pavement) | N/A |
 
 
 

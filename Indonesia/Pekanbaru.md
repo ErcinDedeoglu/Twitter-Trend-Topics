@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-08 15:17:11 UTC`
+📆 Last Updated: `2023-03-08 16:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 2 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 1 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 2 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
 | 3 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 4 | [Happy Birthday Taeyeon](http://twitter.com/search?q=Happy+Birthday+Taeyeon) | N/A |
-| 5 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 4 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 5 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
 | 6 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
 | 7 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 8 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 9 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 8 | [Jongin](http://twitter.com/search?q=Jongin) | N/A |
+| 9 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
 | 10 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 11 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 12 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 13 | [Popo](http://twitter.com/search?q=Popo) | N/A |
-| 14 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 15 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 16 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 17 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
-| 18 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 19 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 20 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 11 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 12 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 13 | [Your Name](http://twitter.com/search?q=Your+Name) | N/A |
+| 14 | [Weathering With You](http://twitter.com/search?q=Weathering+With+You) | N/A |
+| 15 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 16 | [Kimi](http://twitter.com/search?q=Kimi) | N/A |
+| 17 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 18 | [Popo](http://twitter.com/search?q=Popo) | N/A |
+| 19 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
+| 20 | [Persib](http://twitter.com/search?q=Persib) | N/A |
 | 21 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
-| 22 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 23 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
-| 24 | [Sopan](http://twitter.com/search?q=Sopan) | N/A |
-| 25 | [butut](http://twitter.com/search?q=butut) | N/A |
-| 26 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 27 | [Kaki](http://twitter.com/search?q=Kaki) | N/A |
-| 28 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
-| 29 | [Selamat Hari Perempuan Sedunia](http://twitter.com/search?q=Selamat+Hari+Perempuan+Sedunia) | N/A |
-| 30 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 31 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 32 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 33 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
-| 34 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 35 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 36 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 37 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 38 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 39 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 40 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 41 | [#VERSACExJEFFSATUR_D1](http://twitter.com/search?q=%23VERSACExJEFFSATUR_D1) | N/A |
-| 42 | [#윤기전하_생신_경하드리옵니다](http://twitter.com/search?q=%23%ec%9c%a4%ea%b8%b0%ec%a0%84%ed%95%98_%ec%83%9d%ec%8b%a0_%ea%b2%bd%ed%95%98%eb%93%9c%eb%a6%ac%ec%98%b5%eb%8b%88%eb%8b%a4) | N/A |
-| 43 | [#설탕이_스윗한_생일_보내](http://twitter.com/search?q=%23%ec%84%a4%ed%83%95%ec%9d%b4_%ec%8a%a4%ec%9c%97%ed%95%9c_%ec%83%9d%ec%9d%bc_%eb%b3%b4%eb%82%b4) | N/A |
-| 44 | [#기운받아_월드투어_가보자고](http://twitter.com/search?q=%23%ea%b8%b0%ec%9a%b4%eb%b0%9b%ec%95%84_%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4_%ea%b0%80%eb%b3%b4%ec%9e%90%ea%b3%a0) | N/A |
+| 22 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 23 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 24 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
+| 25 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 26 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 27 | [Sopan](http://twitter.com/search?q=Sopan) | N/A |
+| 28 | [Kaki](http://twitter.com/search?q=Kaki) | N/A |
+| 29 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
+| 30 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 31 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 32 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
+| 33 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 34 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 35 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 36 | [#설탕이_스윗한_생일_보내](http://twitter.com/search?q=%23%ec%84%a4%ed%83%95%ec%9d%b4_%ec%8a%a4%ec%9c%97%ed%95%9c_%ec%83%9d%ec%9d%bc_%eb%b3%b4%eb%82%b4) | N/A |
+| 37 | [#윤기전하_생신_경하드리옵니다](http://twitter.com/search?q=%23%ec%9c%a4%ea%b8%b0%ec%a0%84%ed%95%98_%ec%83%9d%ec%8b%a0_%ea%b2%bd%ed%95%98%eb%93%9c%eb%a6%ac%ec%98%b5%eb%8b%88%eb%8b%a4) | N/A |
+| 38 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 39 | [#물오름달아흐레의_레전드](http://twitter.com/search?q=%23%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac%ec%95%84%ed%9d%90%eb%a0%88%ec%9d%98_%eb%a0%88%ec%a0%84%eb%93%9c) | N/A |
+| 40 | [#SriMulyaniMundur](http://twitter.com/search?q=%23SriMulyaniMundur) | N/A |
+| 41 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 42 | [#기운받아_월드투어_가보자고](http://twitter.com/search?q=%23%ea%b8%b0%ec%9a%b4%eb%b0%9b%ec%95%84_%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4_%ea%b0%80%eb%b3%b4%ec%9e%90%ea%b3%a0) | N/A |
+| 43 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 44 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
 
 
 

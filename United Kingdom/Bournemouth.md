@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-08 15:16:47 UTC`
+📆 Last Updated: `2023-03-08 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StopTheBoats](http://twitter.com/search?q=%23StopTheBoats) | N/A |
-| 2 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 3 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
-| 4 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
-| 5 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 6 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 7 | [#HerGameToo](http://twitter.com/search?q=%23HerGameToo) | N/A |
-| 8 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 9 | [Billions](http://twitter.com/search?q=Billions) | N/A |
-| 10 | [Goebbels](http://twitter.com/search?q=Goebbels) | N/A |
-| 11 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 14 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 15 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 1 | [#InspiringWomen](http://twitter.com/search?q=%23InspiringWomen) | N/A |
+| 2 | [#PakistanUnderFascism](http://twitter.com/search?q=%23PakistanUnderFascism) | N/A |
+| 3 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 4 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 5 | [#diversity](http://twitter.com/search?q=%23diversity) | N/A |
+| 6 | [#EmpoweringWomen](http://twitter.com/search?q=%23EmpoweringWomen) | N/A |
+| 7 | [Red Wall](http://twitter.com/search?q=Red+Wall) | N/A |
+| 8 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 10 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 11 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 12 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 13 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 14 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 15 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
 | 16 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 17 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 19 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 20 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 21 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 22 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 23 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 24 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 25 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 26 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 27 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 28 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 29 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
-| 30 | [Enoch Powell](http://twitter.com/search?q=Enoch+Powell) | N/A |
-| 31 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 32 | [Lady Hussey](http://twitter.com/search?q=Lady+Hussey) | N/A |
+| 18 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 19 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 20 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 21 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 22 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 23 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 24 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 25 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 26 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 27 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 28 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 29 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 30 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 31 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 32 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
 | 33 | [Go Gary](http://twitter.com/search?q=Go+Gary) | N/A |
-| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 35 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 36 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 37 | [Serena Williams](http://twitter.com/search?q=Serena+Williams) | N/A |
-| 38 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 39 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 40 | [#immigrationbill](http://twitter.com/search?q=%23immigrationbill) | N/A |
-| 41 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 42 | [#Bristol](http://twitter.com/search?q=%23Bristol) | N/A |
-| 43 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 44 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 45 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 46 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 47 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 48 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 49 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
+| 34 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
+| 35 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 36 | [Lady Hussey](http://twitter.com/search?q=Lady+Hussey) | N/A |
+| 37 | [Enoch Powell](http://twitter.com/search?q=Enoch+Powell) | N/A |
+| 38 | [#thisgirlcan](http://twitter.com/search?q=%23thisgirlcan) | N/A |
+| 39 | [#StopTheBoats](http://twitter.com/search?q=%23StopTheBoats) | N/A |
+| 40 | [#wednesdaymotivation](http://twitter.com/search?q=%23wednesdaymotivation) | N/A |
+| 41 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 42 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
+| 43 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
+| 44 | [#HerGameToo](http://twitter.com/search?q=%23HerGameToo) | N/A |
+| 45 | [#immigrationbill](http://twitter.com/search?q=%23immigrationbill) | N/A |
+| 46 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 47 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 48 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 49 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 
 
 

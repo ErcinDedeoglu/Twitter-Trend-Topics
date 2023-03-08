@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-08 15:16:53 UTC`
+📆 Last Updated: `2023-03-08 16:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,35 +17,47 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 7 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 9 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 12 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 13 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 14 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 15 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 16 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 17 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 19 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 20 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 21 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 22 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 23 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 24 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 25 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 26 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 27 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 28 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
-| 29 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 30 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
-| 31 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 7 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 8 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 9 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 10 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 11 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 12 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 13 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 14 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 15 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 16 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
+| 17 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
+| 18 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 19 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 20 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 23 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 24 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 25 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 26 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 27 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 28 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 29 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 30 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 31 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 32 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 33 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 34 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 35 | [#equidad](http://twitter.com/search?q=%23equidad) | N/A |
+| 36 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
+| 37 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 38 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
+| 39 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
+| 40 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
+| 41 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 42 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 43 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 
 
 
