@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-08 21:16:52 UTC`
+📆 Last Updated: `2023-03-08 22:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 3 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
-| 4 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 6 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 7 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 8 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 9 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 10 | [WELCOME TO BRAZIL COLDPLAY](http://twitter.com/search?q=WELCOME+TO+BRAZIL+COLDPLAY) | N/A |
-| 11 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 12 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 13 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 14 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 15 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 16 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 17 | [Choupo Moting](http://twitter.com/search?q=Choupo+Moting) | N/A |
-| 18 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 19 | [#DiaInternacionalDaMulher](http://twitter.com/search?q=%23DiaInternacionalDaMulher) | N/A |
-| 20 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 21 | [#elcartelnacdanjos](http://twitter.com/search?q=%23elcartelnacdanjos) | N/A |
-| 22 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 23 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 24 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 25 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 26 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 27 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 28 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 29 | [Leiloca](http://twitter.com/search?q=Leiloca) | N/A |
-| 30 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 31 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 32 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
-| 33 | [Erika Hilton](http://twitter.com/search?q=Erika+Hilton) | N/A |
-| 34 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 35 | [Here We Go Again](http://twitter.com/search?q=Here+We+Go+Again) | N/A |
-| 36 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 37 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 38 | [Tell Me You Love Me](http://twitter.com/search?q=Tell+Me+You+Love+Me) | N/A |
-| 39 | [TEIA NO YOUTUBE](http://twitter.com/search?q=TEIA+NO+YOUTUBE) | N/A |
-| 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 41 | [Don't Forget](http://twitter.com/search?q=Don%27t+Forget) | N/A |
-| 42 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 43 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
-| 44 | [SRTALUANA NA TWITCH](http://twitter.com/search?q=SRTALUANA+NA+TWITCH) | N/A |
-| 45 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 46 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 47 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 48 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 49 | [LELE NA TWITCH](http://twitter.com/search?q=LELE+NA+TWITCH) | N/A |
-| 50 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 5 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 6 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 7 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 8 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
+| 9 | [LOUD NO VALORANT INCLUSIVO](http://twitter.com/search?q=LOUD+NO+VALORANT+INCLUSIVO) | N/A |
+| 10 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 12 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 13 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 14 | [WELCOME TO BRAZIL COLDPLAY](http://twitter.com/search?q=WELCOME+TO+BRAZIL+COLDPLAY) | N/A |
+| 15 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
+| 16 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 18 | [#transfobiaécrime](http://twitter.com/search?q=%23transfobia%c3%a9crime) | N/A |
+| 19 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 20 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 21 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 23 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 24 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 25 | [Choupo Moting](http://twitter.com/search?q=Choupo+Moting) | N/A |
+| 26 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 27 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 28 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 29 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 30 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 31 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 32 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 33 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 34 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 35 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 36 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 37 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 38 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 40 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 41 | [Paris Saint Germain](http://twitter.com/search?q=Paris+Saint+Germain) | N/A |
+| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 43 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 44 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 45 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
+| 46 | [#elcartelnacdanjos](http://twitter.com/search?q=%23elcartelnacdanjos) | N/A |
+| 47 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 48 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 49 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
+| 50 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okinawa
 
-📆 Last Updated: `2023-03-08 21:16:42 UTC`
+📆 Last Updated: `2023-03-08 22:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#琉球ゴールデンキングス](http://twitter.com/search?q=%23%e7%90%89%e7%90%83%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%b9) | N/A |
-| 2 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 3 | [デリフト](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%83%95%e3%83%88) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 2 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [ニャブリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%96%e3%83%aa) | N/A |
 | 5 | [#ミクの日](http://twitter.com/search?q=%23%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 6 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 7 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 8 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
-| 9 | [マルキーニョス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%ad%e3%83%bc%e3%83%8b%e3%83%a7%e3%82%b9) | N/A |
-| 10 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
-| 11 | [ヴィティーニャ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%86%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | N/A |
-| 12 | [ムシアラ](http://twitter.com/search?q=%e3%83%a0%e3%82%b7%e3%82%a2%e3%83%a9) | N/A |
-| 13 | [ビチャーブ](http://twitter.com/search?q=%e3%83%93%e3%83%81%e3%83%a3%e3%83%bc%e3%83%96) | N/A |
-| 14 | [メシアス](http://twitter.com/search?q=%e3%83%a1%e3%82%b7%e3%82%a2%e3%82%b9) | N/A |
-| 15 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 16 | [ゴレツカ](http://twitter.com/search?q=%e3%82%b4%e3%83%ac%e3%83%84%e3%82%ab) | N/A |
-| 17 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
-| 18 | [エンバペ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%90%e3%83%9a) | N/A |
-| 19 | [ヴェラッティ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%a9%e3%83%83%e3%83%86%e3%82%a3) | N/A |
-| 20 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 21 | [ラングレ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%82%b0%e3%83%ac) | N/A |
-| 22 | [メニャン](http://twitter.com/search?q=%e3%83%a1%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
-| 23 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
-| 24 | [クルニッチ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%8b%e3%83%83%e3%83%81) | N/A |
-| 25 | [デイビス](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%93%e3%82%b9) | N/A |
-| 26 | [ペリシッチ](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%82%b7%e3%83%83%e3%83%81) | N/A |
-| 27 | [感謝の日](http://twitter.com/search?q=%e6%84%9f%e8%ac%9d%e3%81%ae%e6%97%a5) | N/A |
-| 28 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
-| 29 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
-| 30 | [Wordle 628](http://twitter.com/search?q=Wordle+628) | N/A |
-| 31 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 32 | [クリスマスソング](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 33 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 34 | [野球の話](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e8%a9%b1) | N/A |
-| 35 | [咲也くん](http://twitter.com/search?q=%e5%92%b2%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 36 | [ワンパンマン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
-| 37 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
-| 38 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
-| 39 | [名人挑戦](http://twitter.com/search?q=%e5%90%8d%e4%ba%ba%e6%8c%91%e6%88%a6) | N/A |
-| 40 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
-| 42 | [村田雄介](http://twitter.com/search?q=%e6%9d%91%e7%94%b0%e9%9b%84%e4%bb%8b) | N/A |
-| 43 | [第226話](http://twitter.com/search?q=%e7%ac%ac226%e8%a9%b1) | N/A |
-| 44 | [トッテナム](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%86%e3%83%8a%e3%83%a0) | N/A |
-| 45 | [愛のかたまり](http://twitter.com/search?q=%e6%84%9b%e3%81%ae%e3%81%8b%e3%81%9f%e3%81%be%e3%82%8a) | N/A |
-| 46 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
-| 47 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
-| 48 | [リクエストアワー](http://twitter.com/search?q=%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 49 | [となりのヤングジャンプ](http://twitter.com/search?q=%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e3%83%a4%e3%83%b3%e3%82%b0%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
-| 50 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 6 | [デリフト](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%83%95%e3%83%88) | N/A |
+| 7 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 8 | [メニャン](http://twitter.com/search?q=%e3%83%a1%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
+| 9 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 10 | [#おは戦50309mm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650309mm) | N/A |
+| 11 | [カンセロ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%bb%e3%83%ad) | カンセロ is a type of traditional Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. The lyrics often focus on everyday life and work, as well as love and relationships. In English, it can be translated as "folk song". |
+| 12 | [感謝の日](http://twitter.com/search?q=%e6%84%9f%e8%ac%9d%e3%81%ae%e6%97%a5) | N/A |
+| 13 | [エンバペ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%90%e3%83%9a) | N/A |
+| 14 | [ミュラー](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%a9%e3%83%bc) | N/A |
+| 15 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
+| 16 | [スタニシッチ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%8b%e3%82%b7%e3%83%83%e3%83%81) | N/A |
+| 17 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
+| 18 | [ヴェラッティ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%a9%e3%83%83%e3%83%86%e3%82%a3) | N/A |
+| 19 | [ムシアラ](http://twitter.com/search?q=%e3%83%a0%e3%82%b7%e3%82%a2%e3%83%a9) | N/A |
+| 20 | [ベスト8](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%888) | N/A |
+| 21 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 22 | [リシャルリソン](http://twitter.com/search?q=%e3%83%aa%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%aa%e3%82%bd%e3%83%b3) | N/A |
+| 23 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 24 | [ロメロ退場](http://twitter.com/search?q=%e3%83%ad%e3%83%a1%e3%83%ad%e9%80%80%e5%a0%b4) | N/A |
+| 25 | [メシアス](http://twitter.com/search?q=%e3%83%a1%e3%82%b7%e3%82%a2%e3%82%b9) | N/A |
+| 26 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [ゴレツカ](http://twitter.com/search?q=%e3%82%b4%e3%83%ac%e3%83%84%e3%82%ab) | N/A |
+| 28 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 29 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
+| 30 | [ヴィティーニャ](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%86%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | N/A |
+| 31 | [ビチャーブ](http://twitter.com/search?q=%e3%83%93%e3%83%81%e3%83%a3%e3%83%bc%e3%83%96) | N/A |
+| 32 | [マルキーニョス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%ad%e3%83%bc%e3%83%8b%e3%83%a7%e3%82%b9) | N/A |
+| 33 | [ペリシッチ](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%82%b7%e3%83%83%e3%83%81) | N/A |
+| 34 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
+| 35 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [トッテナム](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%86%e3%83%8a%e3%83%a0) | N/A |
+| 37 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
+| 38 | [あいかわらず](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a) | N/A |
+| 39 | [シュポモティング](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%9d%e3%83%a2%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 40 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
+| 41 | [デイビス](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%93%e3%82%b9) | N/A |
+| 42 | [ウパメカノ](http://twitter.com/search?q=%e3%82%a6%e3%83%91%e3%83%a1%e3%82%ab%e3%83%8e) | N/A |
+| 43 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 44 | [ファビアン](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%82%a2%e3%83%b3) | N/A |
+| 45 | [おのゆきさん](http://twitter.com/search?q=%e3%81%8a%e3%81%ae%e3%82%86%e3%81%8d%e3%81%95%e3%82%93) | N/A |
+| 46 | [クルニッチ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%8b%e3%83%83%e3%83%81) | N/A |
+| 47 | [ドンナルンマ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%8a%e3%83%ab%e3%83%b3%e3%83%9e) | N/A |
+| 48 | [まぶたの裏](http://twitter.com/search?q=%e3%81%be%e3%81%b6%e3%81%9f%e3%81%ae%e8%a3%8f) | N/A |
+| 49 | [クリスマスソング](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
 
 
 

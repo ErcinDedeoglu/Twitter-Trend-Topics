@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-08 21:16:34 UTC`
+📆 Last Updated: `2023-03-08 22:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#ThisBodyWorksForMe](http://twitter.com/search?q=%23ThisBodyWorksForMe) | N/A |
-| 3 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
-| 4 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
-| 5 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
-| 6 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 7 | [Amazulu](http://twitter.com/search?q=Amazulu) | Amazulu is a South African Zulu-speaking ethnic group. The name Amazulu means "People of the Heavens" in English. |
-| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
-| 11 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
-| 12 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 13 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 14 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 15 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 16 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
-| 17 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 18 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 19 | [Wandi](http://twitter.com/search?q=Wandi) | N/A |
-| 20 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
-| 21 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
+| 5 | [#ThisBodyWorksForMe](http://twitter.com/search?q=%23ThisBodyWorksForMe) | N/A |
+| 6 | [#NedbankCup](http://twitter.com/search?q=%23NedbankCup) | N/A |
+| 7 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 8 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 10 | [AmaZulu](http://twitter.com/search?q=AmaZulu) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 13 | [Veratti](http://twitter.com/search?q=Veratti) | N/A |
+| 14 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 15 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 16 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 17 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 18 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
+| 19 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 20 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 21 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Team Stocks](http://twitter.com/search?q=Team+Stocks) | N/A |
-| 26 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
-| 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 28 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 29 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
-| 30 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 31 | [KHOSI UNDEFEATED](http://twitter.com/search?q=KHOSI+UNDEFEATED) | N/A |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 35 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 36 | [Katlego Danke](http://twitter.com/search?q=Katlego+Danke) | N/A |
-| 37 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 38 | [Kiernan Forbes](http://twitter.com/search?q=Kiernan+Forbes) | N/A |
-| 39 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [Blue and Khosi](http://twitter.com/search?q=Blue+and+Khosi) | N/A |
-| 42 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 44 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
-| 45 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 46 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
-| 47 | [Tony de Zorzi](http://twitter.com/search?q=Tony+de+Zorzi) | N/A |
-| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 49 | [Advocate](http://twitter.com/search?q=Advocate) | N/A |
-| 50 | [Motsepe](http://twitter.com/search?q=Motsepe) | N/A |
+| 25 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
+| 26 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 27 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 28 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 29 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
+| 30 | [Wandi](http://twitter.com/search?q=Wandi) | N/A |
+| 31 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 32 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 33 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 36 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 37 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
+| 38 | [NEHAWU](http://twitter.com/search?q=NEHAWU) | N/A |
+| 39 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 40 | [KHOSI UNDEFEATED](http://twitter.com/search?q=KHOSI+UNDEFEATED) | N/A |
+| 41 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 42 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 43 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 44 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 45 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
+| 46 | [Sputla](http://twitter.com/search?q=Sputla) | N/A |
+| 47 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 48 | [Kiernan Forbes](http://twitter.com/search?q=Kiernan+Forbes) | N/A |
+| 49 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 

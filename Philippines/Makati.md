@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-08 21:16:29 UTC`
+📆 Last Updated: `2023-03-08 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 8 | [#donnypartnerswithsunlife](http://twitter.com/search?q=%23donnypartnerswithsunlife) | N/A |
 | 9 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
 | 10 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 11 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
-| 12 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
-| 13 | [MUSIC INVASION WITH FELIP](http://twitter.com/search?q=MUSIC+INVASION+WITH+FELIP) | N/A |
-| 14 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
-| 15 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 16 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
-| 17 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 18 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 19 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 20 | [bgyo on tiktoclock gma](http://twitter.com/search?q=bgyo+on+tiktoclock+gma) | N/A |
-| 21 | [lee jong suk](http://twitter.com/search?q=lee+jong+suk) | N/A |
-| 22 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 23 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 24 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 11 | [kathniel top taxpayers](http://twitter.com/search?q=kathniel+top+taxpayers) | N/A |
+| 12 | [music invasion with felip](http://twitter.com/search?q=music+invasion+with+felip) | N/A |
+| 13 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 14 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
+| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 16 | [DANCE TO WILD TONIGHT](http://twitter.com/search?q=DANCE+TO+WILD+TONIGHT) | N/A |
+| 17 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 18 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 19 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 20 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 21 | [bgyo on tiktoclock gma](http://twitter.com/search?q=bgyo+on+tiktoclock+gma) | N/A |
+| 22 | [Lee Jong Suk](http://twitter.com/search?q=Lee+Jong+Suk) | N/A |
+| 23 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 24 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
 | 25 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
-| 26 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
+| 26 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
 | 27 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 29 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
-| 30 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 31 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 28 | [readytobe million preorder](http://twitter.com/search?q=readytobe+million+preorder) | N/A |
+| 29 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
+| 30 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 32 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 33 | [Yoonie](http://twitter.com/search?q=Yoonie) | N/A |
+| 33 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
 | 34 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 35 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 36 | [BABAE KA](http://twitter.com/search?q=BABAE+KA) | N/A |
-| 37 | [K-verse](http://twitter.com/search?q=K-verse) | N/A |
-| 38 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
-| 39 | [yoongi hyung](http://twitter.com/search?q=yoongi+hyung) | N/A |
-| 40 | [pandaigdigang araw](http://twitter.com/search?q=pandaigdigang+araw) | N/A |
-| 41 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 42 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 43 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 44 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
-| 45 | [coach tina](http://twitter.com/search?q=coach+tina) | N/A |
-| 46 | [ready to be freed](http://twitter.com/search?q=ready+to+be+freed) | N/A |
-| 47 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 48 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 49 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [yoonie](http://twitter.com/search?q=yoonie) | N/A |
+| 36 | [babae ka](http://twitter.com/search?q=babae+ka) | N/A |
+| 37 | [yoongi hyung](http://twitter.com/search?q=yoongi+hyung) | N/A |
+| 38 | [pandaigdigang araw](http://twitter.com/search?q=pandaigdigang+araw) | N/A |
+| 39 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 40 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
+| 41 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 42 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
+| 43 | [coach tina](http://twitter.com/search?q=coach+tina) | N/A |
+| 44 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 45 | [K-verse](http://twitter.com/search?q=K-verse) | N/A |
+| 46 | [Gose](http://twitter.com/search?q=Gose) | N/A |
+| 47 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 48 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
 
 
 

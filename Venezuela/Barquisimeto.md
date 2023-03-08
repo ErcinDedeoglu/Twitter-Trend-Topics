@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-08 21:16:14 UTC`
+📆 Last Updated: `2023-03-08 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 2 | [#8Mar](http://twitter.com/search?q=%238Mar) | N/A |
-| 3 | [#ChávezFeminista](http://twitter.com/search?q=%23Ch%c3%a1vezFeminista) | N/A |
-| 4 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 5 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 6 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [#SinInternet](http://twitter.com/search?q=%23SinInternet) | N/A |
-| 11 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 12 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
-| 13 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 14 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 15 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 16 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 17 | [Chita](http://twitter.com/search?q=Chita) | N/A |
-| 18 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 21 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 22 | [Richard Páez](http://twitter.com/search?q=Richard+P%c3%a1ez) | N/A |
-| 23 | [José Moreno](http://twitter.com/search?q=Jos%c3%a9+Moreno) | N/A |
-| 24 | [alejandro otero](http://twitter.com/search?q=alejandro+otero) | N/A |
-| 25 | [Voluntad Popular](http://twitter.com/search?q=Voluntad+Popular) | N/A |
-| 26 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Tin Tan](http://twitter.com/search?q=Tin+Tan) | N/A |
-| 29 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 30 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 31 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 32 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 33 | [Adilia Castillo](http://twitter.com/search?q=Adilia+Castillo) | N/A |
-| 34 | [Vianda](http://twitter.com/search?q=Vianda) | N/A |
-| 35 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [CANTV](http://twitter.com/search?q=CANTV) | N/A |
-| 38 | [Viva la Patria Mujer](http://twitter.com/search?q=Viva+la+Patria+Mujer) | N/A |
-| 39 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
-| 40 | [feliz martes](http://twitter.com/search?q=feliz+martes) | N/A |
-| 41 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 42 | [Mujer Venezolana](http://twitter.com/search?q=Mujer+Venezolana) | N/A |
-| 43 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 44 | [Oriente](http://twitter.com/search?q=Oriente) | N/A |
-| 45 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 46 | [Mechada](http://twitter.com/search?q=Mechada) | N/A |
-| 47 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 48 | [Juan Guaidó](http://twitter.com/search?q=Juan+Guaid%c3%b3) | N/A |
-| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [#8Mar](http://twitter.com/search?q=%238Mar) | N/A |
+| 4 | [#ChávezFeminista](http://twitter.com/search?q=%23Ch%c3%a1vezFeminista) | N/A |
+| 5 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 9 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 11 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 12 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 14 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 15 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 16 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 17 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 18 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 21 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 23 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 24 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 25 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 26 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 27 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 28 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 29 | [Chita](http://twitter.com/search?q=Chita) | N/A |
+| 30 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 31 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 33 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 34 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
+| 35 | [alejandro otero](http://twitter.com/search?q=alejandro+otero) | N/A |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 37 | [Tin Tan](http://twitter.com/search?q=Tin+Tan) | N/A |
+| 38 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 39 | [Voluntad Popular](http://twitter.com/search?q=Voluntad+Popular) | N/A |
+| 40 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 41 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 42 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 43 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 44 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Viva la Patria Mujer](http://twitter.com/search?q=Viva+la+Patria+Mujer) | N/A |
+| 47 | [Adilia Castillo](http://twitter.com/search?q=Adilia+Castillo) | N/A |
+| 48 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 49 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
+| 50 | [Mujer Venezolana](http://twitter.com/search?q=Mujer+Venezolana) | N/A |
 
 
 

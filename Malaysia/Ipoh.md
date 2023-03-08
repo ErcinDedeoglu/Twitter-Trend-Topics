@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-08 21:16:29 UTC`
+📆 Last Updated: `2023-03-08 22:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 2 | [#MH370](http://twitter.com/search?q=%23MH370) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 7 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 8 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 9 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 10 | [Momota](http://twitter.com/search?q=Momota) | N/A |
-| 11 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 12 | [perak](http://twitter.com/search?q=perak) | N/A |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 15 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [The Plane That Disappeared](http://twitter.com/search?q=The+Plane+That+Disappeared) | N/A |
-| 20 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 23 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 26 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 27 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
-| 28 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
-| 29 | [MH17](http://twitter.com/search?q=MH17) | N/A |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 32 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 36 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 38 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
-| 39 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 40 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 41 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
-| 42 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
-| 43 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 44 | [Siti](http://twitter.com/search?q=Siti) | N/A |
-| 45 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 46 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 47 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 48 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 49 | [Yuju](http://twitter.com/search?q=Yuju) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 10 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 11 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 12 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 13 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 14 | [momota](http://twitter.com/search?q=momota) | N/A |
+| 15 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 16 | [perak](http://twitter.com/search?q=perak) | N/A |
+| 17 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
+| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 19 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 20 | [The Plane That Disappeared](http://twitter.com/search?q=The+Plane+That+Disappeared) | N/A |
+| 21 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 24 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 25 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
+| 26 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 27 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 28 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 29 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 30 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 31 | [muhyiddin](http://twitter.com/search?q=muhyiddin) | N/A |
+| 32 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 34 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 35 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 36 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 37 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 38 | [Gose](http://twitter.com/search?q=Gose) | N/A |
+| 39 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 40 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 41 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
+| 42 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 43 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 44 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 45 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 46 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
+| 47 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
+| 48 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 49 | [Siti](http://twitter.com/search?q=Siti) | N/A |
 
 
 

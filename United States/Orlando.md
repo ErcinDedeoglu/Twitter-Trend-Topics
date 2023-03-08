@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-08 21:16:48 UTC`
+📆 Last Updated: `2023-03-08 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DUUUVAL](http://twitter.com/search?q=%23DUUUVAL) | #DUUUVAL is a hashtag used by people from Jacksonville, Florida to show their pride in the city. It is a play on the city's name, which is pronounced "DOO-val". The hashtag is often used to promote local events and businesses, as well as to show support for the city's sports teams. |
-| 2 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 6 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 7 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 10 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 11 | [Start Giannis](http://twitter.com/search?q=Start+Giannis) | N/A |
-| 12 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 13 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
-| 14 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 15 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 16 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 18 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
-| 19 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 20 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
-| 21 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 22 | [I LOVE WOMEN](http://twitter.com/search?q=I+LOVE+WOMEN) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
-| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 26 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 27 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 28 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 29 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 30 | [600 Breezy](http://twitter.com/search?q=600+Breezy) | N/A |
-| 31 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 32 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 33 | [Michael Irvin](http://twitter.com/search?q=Michael+Irvin) | N/A |
-| 34 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
-| 35 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
-| 36 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 37 | [Isaiah Stevens](http://twitter.com/search?q=Isaiah+Stevens) | N/A |
-| 38 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
-| 39 | [Fresno State](http://twitter.com/search?q=Fresno+State) | N/A |
-| 40 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
-| 41 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
-| 42 | [Decide](http://twitter.com/search?q=Decide) | N/A |
-| 43 | [Colorado State](http://twitter.com/search?q=Colorado+State) | N/A |
-| 44 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 45 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 46 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 47 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 48 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
-| 49 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 1 | [#GLHF](http://twitter.com/search?q=%23GLHF) | N/A |
+| 2 | [#DUUUVAL](http://twitter.com/search?q=%23DUUUVAL) | #DUUUVAL is a hashtag used by people from Jacksonville, Florida to show their pride in the city. It is a play on the city's name, which is pronounced "DOO-val". The hashtag is often used to promote local events and businesses, as well as to show support for the city's sports teams. |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 9 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 10 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 11 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 13 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 14 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 15 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 17 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 18 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 19 | [Start Giannis](http://twitter.com/search?q=Start+Giannis) | N/A |
+| 20 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 21 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 22 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 23 | [Chosen](http://twitter.com/search?q=Chosen) | N/A |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 26 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 27 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 28 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 29 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 30 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 31 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 32 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 34 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
+| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 36 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
+| 37 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 38 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 39 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 40 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 41 | [Cut Jokic](http://twitter.com/search?q=Cut+Jokic) | N/A |
+| 42 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 43 | [I LOVE WOMEN](http://twitter.com/search?q=I+LOVE+WOMEN) | N/A |
+| 44 | [Georgia Tech](http://twitter.com/search?q=Georgia+Tech) | N/A |
+| 45 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 46 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 47 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 48 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 49 | [Cut Embiid](http://twitter.com/search?q=Cut+Embiid) | N/A |
 
 
 

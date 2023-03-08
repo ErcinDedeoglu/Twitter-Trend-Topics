@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-08 21:16:38 UTC`
+📆 Last Updated: `2023-03-08 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#BeautyHasNoColour](http://twitter.com/search?q=%23BeautyHasNoColour) | N/A |
-| 4 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
+| 4 | [#naaribehindsafari](http://twitter.com/search?q=%23naaribehindsafari) | N/A |
 | 5 | [#HoliVibes](http://twitter.com/search?q=%23HoliVibes) | N/A |
-| 6 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 7 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 10 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 11 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 12 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 13 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 14 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Shreyanka](http://twitter.com/search?q=Shreyanka) | N/A |
-| 17 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 18 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 19 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 20 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 21 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 22 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 23 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
-| 24 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
-| 25 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
-| 26 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
-| 27 | [#HoliFestival2023](http://twitter.com/search?q=%23HoliFestival2023) | N/A |
-| 28 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 29 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 30 | [#RCBvsGG](http://twitter.com/search?q=%23RCBvsGG) | N/A |
-| 31 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 32 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 33 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 34 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 35 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
-| 36 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 37 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 38 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 39 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
-| 40 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 41 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
-| 42 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
-| 43 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
-| 44 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
-| 45 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 46 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 9 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 10 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 11 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 12 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 13 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 14 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 17 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 18 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 19 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 20 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
+| 23 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 24 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 25 | [Shreyanka](http://twitter.com/search?q=Shreyanka) | N/A |
+| 26 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 27 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 28 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
+| 29 | [#HoliFestival2023](http://twitter.com/search?q=%23HoliFestival2023) | N/A |
+| 30 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 31 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 32 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 33 | [#PSGBAY](http://twitter.com/search?q=%23PSGBAY) | N/A |
+| 34 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 35 | [#RCBvsGG](http://twitter.com/search?q=%23RCBvsGG) | N/A |
+| 36 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
+| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 38 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 39 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 40 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 41 | [#GGvRCB](http://twitter.com/search?q=%23GGvRCB) | N/A |
+| 42 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 43 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
+| 44 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 45 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
+| 46 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
 | 47 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 48 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
-| 49 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
-| 50 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 48 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 49 | [#Vetrimaaran](http://twitter.com/search?q=%23Vetrimaaran) | N/A |
+| 50 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
 
 
 
