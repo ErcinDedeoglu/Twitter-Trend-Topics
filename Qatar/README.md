@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-08 17:18:08 UTC`
+📆 Last Updated: `2023-03-08 18:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Qatar
 | 16 | [اليمين القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
 | 17 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 18 | [البطانه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 19 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 20 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 21 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
-| 22 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 23 | [الثقه الغاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 20 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 21 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 22 | [الثقه الغاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 23 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 24 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
 | 25 | [الهلال الاحمر القطري](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
 | 26 | [حقوق المراه](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 27 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 28 | [تشكيل مجلس](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 29 | [الرجل المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
-| 30 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 31 | [لولوه الخاطر](http://twitter.com/search?q=%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
-| 32 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 33 | [تميم بن حمد آل](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84) | N/A |
-| 34 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 35 | [عبدالعزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 28 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 29 | [تشكيل مجلس](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 30 | [الرجل المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
+| 31 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
+| 32 | [لولوه الخاطر](http://twitter.com/search?q=%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
+| 33 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 34 | [تميم بن حمد آل](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a2%d9%84) | N/A |
+| 35 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 36 | [الفيات السنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 37 | [جامعة قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d9%82%d8%b7%d8%b1) | N/A |
 | 38 | [مساعد وزير الخارجيه](http://twitter.com/search?q=%d9%85%d8%b3%d8%a7%d8%b9%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 39 | [جامعة قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d9%82%d8%b7%d8%b1) | N/A |
-| 40 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 41 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 39 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 40 | [America](http://twitter.com/search?q=America) | N/A |
+| 41 | [Holi](http://twitter.com/search?q=Holi) | N/A |
 | 42 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 43 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 44 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 45 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 46 | [التكنولوجيا الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [درب لوسيل](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d9%84%d9%88%d8%b3%d9%8a%d9%84) | N/A |
-| 48 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 49 | [سوق واقف](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d9%88%d8%a7%d9%82%d9%81) | N/A |
-| 50 | [ذات الاهتمام المشترك](http://twitter.com/search?q=%d8%b0%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 43 | [درب لوسيل](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d9%84%d9%88%d8%b3%d9%8a%d9%84) | N/A |
+| 44 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 45 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 46 | [خالد بن خليفه بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 47 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 48 | [التكنولوجيا الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 49 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 50 | [سوق واقف](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d9%88%d8%a7%d9%82%d9%81) | N/A |
 
 
 

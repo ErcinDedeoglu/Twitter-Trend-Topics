@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-08 17:17:39 UTC`
+📆 Last Updated: `2023-03-08 18:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Kenya](</Kenya>)
 | 8 | [Ukur Yatani](http://twitter.com/search?q=Ukur+Yatani) | N/A |
 | 9 | [Margaret Nyakang](http://twitter.com/search?q=Margaret+Nyakang) | N/A |
 | 10 | [Controller of Budget](http://twitter.com/search?q=Controller+of+Budget) | N/A |
-| 11 | [Aaron Cheruiyot](http://twitter.com/search?q=Aaron+Cheruiyot) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 13 | [Fuliza](http://twitter.com/search?q=Fuliza) | N/A |
 | 14 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 15 | [Gladys Wanga](http://twitter.com/search?q=Gladys+Wanga) | N/A |
 | 16 | [dci headquarters](http://twitter.com/search?q=dci+headquarters) | N/A |
 | 17 | [dci hq](http://twitter.com/search?q=dci+hq) | N/A |
-| 18 | [Fuliza](http://twitter.com/search?q=Fuliza) | N/A |
-| 19 | [Diana Marua](http://twitter.com/search?q=Diana+Marua) | N/A |
-| 20 | [twende secureexpo sarit](http://twitter.com/search?q=twende+secureexpo+sarit) | N/A |
-| 21 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Prisca Mwaro](http://twitter.com/search?q=Prisca+Mwaro) | N/A |
-| 24 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 25 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 26 | [Mpesa](http://twitter.com/search?q=Mpesa) | N/A |
-| 27 | [kiambu road](http://twitter.com/search?q=kiambu+road) | N/A |
-| 28 | [women hrds](http://twitter.com/search?q=women+hrds) | N/A |
-| 29 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 30 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 31 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
-| 32 | [Sacco](http://twitter.com/search?q=Sacco) | N/A |
-| 33 | [miguna miguna](http://twitter.com/search?q=miguna+miguna) | N/A |
-| 34 | [ababu namwamba](http://twitter.com/search?q=ababu+namwamba) | N/A |
-| 35 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
-| 36 | [lucy kibaki](http://twitter.com/search?q=lucy+kibaki) | N/A |
-| 37 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 38 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 39 | [Janet](http://twitter.com/search?q=Janet) | N/A |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [15 Billion](http://twitter.com/search?q=15+Billion) | N/A |
-| 42 | [USSD](http://twitter.com/search?q=USSD) | N/A |
-| 43 | [kidero](http://twitter.com/search?q=kidero) | N/A |
-| 44 | [Okoa Jahazi](http://twitter.com/search?q=Okoa+Jahazi) | N/A |
-| 45 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
-| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 47 | [Bungoma](http://twitter.com/search?q=Bungoma) | N/A |
-| 48 | [Bomas](http://twitter.com/search?q=Bomas) | N/A |
-| 49 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 50 | [North Rift](http://twitter.com/search?q=North+Rift) | N/A |
+| 18 | [Diana Marua](http://twitter.com/search?q=Diana+Marua) | N/A |
+| 19 | [twende secureexpo sarit](http://twitter.com/search?q=twende+secureexpo+sarit) | N/A |
+| 20 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 21 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 22 | [Prisca Mwaro](http://twitter.com/search?q=Prisca+Mwaro) | N/A |
+| 23 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 24 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 25 | [kiambu road](http://twitter.com/search?q=kiambu+road) | N/A |
+| 26 | [women hrds](http://twitter.com/search?q=women+hrds) | N/A |
+| 27 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
+| 28 | [miguna miguna](http://twitter.com/search?q=miguna+miguna) | N/A |
+| 29 | [Sacco](http://twitter.com/search?q=Sacco) | N/A |
+| 30 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 31 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
+| 32 | [Mama Lucy Kibaki](http://twitter.com/search?q=Mama+Lucy+Kibaki) | N/A |
+| 33 | [Janet](http://twitter.com/search?q=Janet) | N/A |
+| 34 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 36 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
+| 37 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 38 | [15 Billion](http://twitter.com/search?q=15+Billion) | N/A |
+| 39 | [Ababu Namwamba](http://twitter.com/search?q=Ababu+Namwamba) | N/A |
+| 40 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 41 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 42 | [kidero](http://twitter.com/search?q=kidero) | N/A |
+| 43 | [Okoa Jahazi](http://twitter.com/search?q=Okoa+Jahazi) | N/A |
+| 44 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 45 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 46 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 47 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 48 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [Bank](http://twitter.com/search?q=Bank) | N/A |
 
 
 

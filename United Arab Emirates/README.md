@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-08 17:18:01 UTC`
+📆 Last Updated: `2023-03-08 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,21 +28,21 @@ This is top 50 for United Arab Emirates
 | 11 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 12 | [مبخوت](http://twitter.com/search?q=%d9%85%d8%a8%d8%ae%d9%88%d8%aa) | N/A |
 | 13 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 14 | [خليفه الحمادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d8%af%d9%8a) | N/A |
-| 15 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 16 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 17 | [اليوم الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 18 | [لتشيلسي](http://twitter.com/search?q=%d9%84%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
-| 19 | [النساء اللواتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%aa%d9%8a) | N/A |
-| 20 | [تعزيز العلاقات الثناييه](http://twitter.com/search?q=%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 21 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 22 | [برلين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%84%d9%8a%d9%86) | N/A |
-| 23 | [ادريس](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
-| 24 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 26 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 27 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 28 | [بدر بن سعود البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 14 | [Teri](http://twitter.com/search?q=Teri) | N/A |
+| 15 | [خليفه الحمادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d8%af%d9%8a) | N/A |
+| 16 | [برلين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%84%d9%8a%d9%86) | N/A |
+| 17 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 18 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 19 | [اليوم الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 20 | [لتشيلسي](http://twitter.com/search?q=%d9%84%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
+| 21 | [النساء اللواتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%88%d8%a7%d8%aa%d9%8a) | N/A |
+| 22 | [تعزيز العلاقات الثناييه](http://twitter.com/search?q=%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 23 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 24 | [ادريس](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
+| 25 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 26 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 27 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 28 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
 | 29 | [رييس مجلس الاداره](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
 | 30 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 31 | [بدر ناصر](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for United Arab Emirates
 | 36 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
 | 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 38 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 39 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
-| 40 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 41 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 42 | [الشركات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 43 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 44 | [الرييس البولندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%86%d8%af%d9%8a) | N/A |
-| 45 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [Sultan Al Neyadi](http://twitter.com/search?q=Sultan+Al+Neyadi) | N/A |
-| 48 | [13 مارس](http://twitter.com/search?q=13+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 49 | [محمد بن عبدالرحمن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
-| 50 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 39 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 40 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
+| 41 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 42 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 43 | [بدر بن سعود البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 44 | [الشركات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 45 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 46 | [الرييس البولندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%88%d9%84%d9%86%d8%af%d9%8a) | N/A |
+| 47 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 48 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 50 | [Sultan Al Neyadi](http://twitter.com/search?q=Sultan+Al+Neyadi) | N/A |
 
 
 

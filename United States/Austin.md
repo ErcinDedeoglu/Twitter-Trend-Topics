@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-08 17:17:51 UTC`
+📆 Last Updated: `2023-03-08 18:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
+| 1 | [Republic](http://twitter.com/search?q=Republic) | N/A |
 | 2 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 3 | [Capital](http://twitter.com/search?q=Capital) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 3 | [#CERAWeek](http://twitter.com/search?q=%23CERAWeek) | N/A |
+| 4 | [Capital](http://twitter.com/search?q=Capital) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 7 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 8 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 9 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 10 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 11 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 12 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 10 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 11 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 12 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
 | 13 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 14 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 16 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 14 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 15 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 | 17 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 18 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 19 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 20 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 21 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 22 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 23 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
-| 24 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 25 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 26 | [Eragon](http://twitter.com/search?q=Eragon) | N/A |
-| 27 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 28 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 29 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
+| 18 | [Breonna Taylor](http://twitter.com/search?q=Breonna+Taylor) | N/A |
+| 19 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
+| 20 | [Benny Williams](http://twitter.com/search?q=Benny+Williams) | N/A |
+| 21 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 22 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 23 | [Rone](http://twitter.com/search?q=Rone) | N/A |
+| 24 | [Gone in 60](http://twitter.com/search?q=Gone+in+60) | N/A |
+| 25 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
+| 26 | [Kimi Raikkonen](http://twitter.com/search?q=Kimi+Raikkonen) | N/A |
+| 27 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
+| 28 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 29 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
 | 30 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 31 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 32 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 33 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 34 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
-| 35 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 36 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 37 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 38 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
-| 39 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 40 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 41 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 42 | [#PrincessLilibetDiana](http://twitter.com/search?q=%23PrincessLilibetDiana) | N/A |
-| 43 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
-| 44 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
-| 45 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 46 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 47 | [#BreonnaTaylor](http://twitter.com/search?q=%23BreonnaTaylor) | N/A |
-| 48 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 49 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
-| 50 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 31 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 32 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 33 | [MyFaction](http://twitter.com/search?q=MyFaction) | N/A |
+| 34 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 35 | [Late Registration](http://twitter.com/search?q=Late+Registration) | N/A |
+| 36 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 37 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 38 | [Greg Oden](http://twitter.com/search?q=Greg+Oden) | N/A |
+| 39 | [Eragon](http://twitter.com/search?q=Eragon) | N/A |
+| 40 | [Batman Forever](http://twitter.com/search?q=Batman+Forever) | N/A |
+| 41 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 42 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 43 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
+| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 45 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 46 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 47 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 48 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 49 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
+| 50 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 
 
 

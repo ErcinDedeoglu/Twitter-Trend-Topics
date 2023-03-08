@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-08 17:18:06 UTC`
+📆 Last Updated: `2023-03-08 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Mexico
 | 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 7 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 7 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 9 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 10 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 11 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 12 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 13 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 14 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
-| 15 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
-| 16 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 19 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 20 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 21 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
-| 22 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 23 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 24 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 25 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 26 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 27 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 28 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 29 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 30 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 31 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 32 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 33 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 34 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
-| 35 | [#8MNadaQueCelebrar](http://twitter.com/search?q=%238MNadaQueCelebrar) | N/A |
-| 36 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 37 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
-| 38 | [#Starfield](http://twitter.com/search?q=%23Starfield) | N/A |
-| 39 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 40 | [#equidad](http://twitter.com/search?q=%23equidad) | N/A |
-| 41 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
-| 42 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
-| 43 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
-| 44 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 45 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
-| 46 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 47 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
-| 48 | [#8M23](http://twitter.com/search?q=%238M23) | N/A |
-| 49 | [#violencia](http://twitter.com/search?q=%23violencia) | N/A |
-| 50 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 10 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 11 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 12 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 13 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 14 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 17 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
+| 18 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 19 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
+| 20 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 21 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
+| 22 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 23 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 24 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
+| 25 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 26 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 27 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 28 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 29 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
+| 30 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 31 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 32 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 33 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 34 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 35 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 36 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 37 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
+| 38 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 39 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 40 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
+| 41 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 42 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 43 | [#8MNadaQueCelebrar](http://twitter.com/search?q=%238MNadaQueCelebrar) | N/A |
+| 44 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
+| 45 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 46 | [#Starfield](http://twitter.com/search?q=%23Starfield) | N/A |
+| 47 | [#DontMessWithMéxico](http://twitter.com/search?q=%23DontMessWithM%c3%a9xico) | N/A |
+| 48 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
+| 49 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 50 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-08 17:17:21 UTC`
+📆 Last Updated: `2023-03-08 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,43 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 3 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 4 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 5 | [arisa](http://twitter.com/search?q=arisa) | N/A |
-| 6 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 7 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
-| 8 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 9 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
-| 10 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 11 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
-| 12 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 5 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
+| 6 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 7 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 8 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
+| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 10 | [Niveo](http://twitter.com/search?q=Niveo) | Niveo is a Latin word meaning "snowy" or "snow-white". It is often used to describe something that is very white or pure. |
+| 11 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 12 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
 | 13 | [Italo](http://twitter.com/search?q=Italo) | N/A |
-| 14 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 15 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 16 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 17 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 18 | [Procura](http://twitter.com/search?q=Procura) | N/A |
-| 19 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
-| 20 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 21 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
+| 14 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 15 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 16 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 18 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 19 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 20 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
+| 21 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
 | 22 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
 | 23 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 24 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 24 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
 | 25 | [#RomaRealSociedad](http://twitter.com/search?q=%23RomaRealSociedad) | N/A |
-| 26 | [#lottomarzo](http://twitter.com/search?q=%23lottomarzo) | N/A |
-| 27 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 28 | [#JuveFriburgo](http://twitter.com/search?q=%23JuveFriburgo) | N/A |
-| 29 | [#mimosa](http://twitter.com/search?q=%23mimosa) | N/A |
-| 30 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 31 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
-| 32 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 33 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
-| 34 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 26 | [#JuveFriburgo](http://twitter.com/search?q=%23JuveFriburgo) | N/A |
+| 27 | [#mimosa](http://twitter.com/search?q=%23mimosa) | N/A |
+| 28 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 29 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 30 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 31 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
+| 32 | [#LottoMarzo](http://twitter.com/search?q=%23LottoMarzo) | N/A |
+| 33 | [#GiuLeManiDallaJuve](http://twitter.com/search?q=%23GiuLeManiDallaJuve) | N/A |
+| 34 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
 | 35 | [#Speranzaingalera](http://twitter.com/search?q=%23Speranzaingalera) | N/A |
-| 36 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
-| 37 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
+| 36 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 37 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 38 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
 
 
 

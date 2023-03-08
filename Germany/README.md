@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-08 17:18:04 UTC`
+📆 Last Updated: `2023-03-08 18:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,51 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 4 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
-| 5 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 6 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 7 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 8 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 9 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 10 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 11 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 12 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 13 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 14 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
-| 15 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 16 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 17 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
-| 18 | [Patriarchat](http://twitter.com/search?q=Patriarchat) | N/A |
+| 1 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 2 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 7 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 8 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 9 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
+| 12 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 13 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 14 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 15 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
+| 16 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 18 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 19 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 20 | [Sexismus](http://twitter.com/search?q=Sexismus) | N/A |
-| 21 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
-| 22 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 23 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 24 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 25 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 26 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 27 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 28 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 29 | [Tiefe](http://twitter.com/search?q=Tiefe) | N/A |
-| 30 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 31 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
-| 32 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 33 | [#NordStream](http://twitter.com/search?q=%23NordStream) | N/A |
-| 34 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 35 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 36 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
-| 37 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
-| 38 | [#Georgien](http://twitter.com/search?q=%23Georgien) | N/A |
-| 39 | [#Gleichstellung](http://twitter.com/search?q=%23Gleichstellung) | N/A |
-| 40 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 41 | [#HabeckRuecktritt](http://twitter.com/search?q=%23HabeckRuecktritt) | N/A |
+| 20 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 21 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 22 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
+| 23 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 24 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 25 | [Spekulationen](http://twitter.com/search?q=Spekulationen) | N/A |
+| 26 | [Patriarchat](http://twitter.com/search?q=Patriarchat) | N/A |
+| 27 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 28 | [Sexismus](http://twitter.com/search?q=Sexismus) | N/A |
+| 29 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
+| 30 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 31 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 32 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 33 | [Ermittlungen](http://twitter.com/search?q=Ermittlungen) | N/A |
+| 34 | [Tiefe](http://twitter.com/search?q=Tiefe) | N/A |
+| 35 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 36 | [#GeniusMinYoongi](http://twitter.com/search?q=%23GeniusMinYoongi) | N/A |
+| 37 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
+| 38 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 39 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 40 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 41 | [#Georgien](http://twitter.com/search?q=%23Georgien) | N/A |
+| 42 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 43 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
+| 44 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 45 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
 
 
 
