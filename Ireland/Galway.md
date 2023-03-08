@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-08 22:16:32 UTC`
+📆 Last Updated: `2023-03-08 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Ireland](</Ireland>)
 | 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 7 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
 | 8 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 15 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 16 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 17 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 20 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 22 | [four courts](http://twitter.com/search?q=four+courts) | N/A |
-| 23 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 24 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 25 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 26 | [Garda](http://twitter.com/search?q=Garda) | N/A |
-| 27 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 28 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
-| 29 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 30 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 33 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 34 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 35 | [Mick Wallace](http://twitter.com/search?q=Mick+Wallace) | N/A |
-| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 37 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 15 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 17 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 19 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 21 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 23 | [Padraig](http://twitter.com/search?q=Padraig) | N/A |
+| 24 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
+| 25 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 27 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 28 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 29 | [four courts](http://twitter.com/search?q=four+courts) | N/A |
+| 30 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 31 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 32 | [Garda](http://twitter.com/search?q=Garda) | N/A |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 35 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 36 | [Mick Wallace](http://twitter.com/search?q=Mick+Wallace) | N/A |
+| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 38 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 39 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 40 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 41 | [Rent](http://twitter.com/search?q=Rent) | Rent is a payment made by a tenant to a landlord for the use of property or land. It is usually paid on a monthly basis. The amount of rent is typically determined by the market value of the property or land and can vary depending on the location, size, and condition of the property. |
-| 42 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 43 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 44 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 45 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 46 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
-| 47 | [mBan](http://twitter.com/search?q=mBan) | mBan is an abbreviation for mobile banking, which is the use of mobile devices such as smartphones and tablets to access banking services. It allows customers to manage their finances, make payments, transfer money, and more from their mobile device. |
-| 48 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 49 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 50 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 40 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 41 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
+| 42 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 43 | [Rent](http://twitter.com/search?q=Rent) | Rent is a payment made by a tenant to a landlord for the use of property or land. It is usually paid on a monthly basis. The amount of rent is typically determined by the market value of the property or land and can vary depending on the location, size, and condition of the property. |
+| 44 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 45 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 46 | [mBan](http://twitter.com/search?q=mBan) | mBan is an abbreviation for mobile banking, which is the use of mobile devices such as smartphones and tablets to access banking services. It allows customers to manage their finances, make payments, transfer money, and more from their mobile device. |
+| 47 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 48 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 49 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 50 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
 
 
 

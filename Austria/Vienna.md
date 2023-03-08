@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-08 22:16:32 UTC`
+📆 Last Updated: `2023-03-08 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
 | 9 | [Erlagschein](http://twitter.com/search?q=Erlagschein) | N/A |
 | 10 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 12 | [Unfassbar](http://twitter.com/search?q=Unfassbar) | N/A |
 | 13 | [Herrengasse](http://twitter.com/search?q=Herrengasse) | N/A |
-| 14 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 15 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 16 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 17 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 18 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 19 | [herr wolf](http://twitter.com/search?q=herr+wolf) | N/A |
-| 20 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 21 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 22 | [Nichtraucher](http://twitter.com/search?q=Nichtraucher) | N/A |
+| 14 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 15 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 17 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 19 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 20 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 21 | [herr wolf](http://twitter.com/search?q=herr+wolf) | N/A |
+| 22 | [Grundwehrdienst](http://twitter.com/search?q=Grundwehrdienst) | N/A |
 | 23 | [Diskriminierung](http://twitter.com/search?q=Diskriminierung) | N/A |
-| 24 | [Scherzerl](http://twitter.com/search?q=Scherzerl) | N/A |
-| 25 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 26 | [Grundwehrdienst](http://twitter.com/search?q=Grundwehrdienst) | N/A |
-| 27 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 28 | [Frauengasse](http://twitter.com/search?q=Frauengasse) | N/A |
+| 24 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 25 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 26 | [Scherzerl](http://twitter.com/search?q=Scherzerl) | N/A |
+| 27 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 28 | [Mail](http://twitter.com/search?q=Mail) | N/A |
 | 29 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 30 | [Unfassbar](http://twitter.com/search?q=Unfassbar) | N/A |
-| 31 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 32 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 33 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 34 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 35 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 36 | [Schmitt](http://twitter.com/search?q=Schmitt) | N/A |
-| 37 | [Frauenministerin](http://twitter.com/search?q=Frauenministerin) | N/A |
-| 38 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 39 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
-| 40 | [Kalender](http://twitter.com/search?q=Kalender) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 43 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 30 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 31 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
+| 32 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
+| 33 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 34 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 35 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 36 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 37 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 38 | [Frauenministerin](http://twitter.com/search?q=Frauenministerin) | N/A |
+| 39 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 40 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
+| 41 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 44 | [Wiener Linien](http://twitter.com/search?q=Wiener+Linien) | N/A |
 | 45 | [Gespräche](http://twitter.com/search?q=Gespr%c3%a4che) | N/A |
-| 46 | [Klein](http://twitter.com/search?q=Klein) | N/A |
-| 47 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
-| 48 | [Gürtel](http://twitter.com/search?q=G%c3%bcrtel) | N/A |
-| 49 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 50 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
+| 46 | [Kalender](http://twitter.com/search?q=Kalender) | N/A |
+| 47 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 48 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 49 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
+| 50 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
 
 
 

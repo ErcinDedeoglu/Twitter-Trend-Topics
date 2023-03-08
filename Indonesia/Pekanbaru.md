@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-08 22:16:41 UTC`
+📆 Last Updated: `2023-03-08 23:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
 | 2 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 3 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 9 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 10 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 11 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 12 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 13 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 14 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 15 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 16 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 17 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 18 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 19 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 20 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
-| 21 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 22 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 23 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 24 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 25 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 26 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 27 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 28 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
-| 29 | [tangguh](http://twitter.com/search?q=tangguh) | N/A |
-| 30 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 31 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 32 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
-| 33 | [butut](http://twitter.com/search?q=butut) | N/A |
-| 34 | [persik](http://twitter.com/search?q=persik) | N/A |
-| 35 | [where is indonesia](http://twitter.com/search?q=where+is+indonesia) | N/A |
-| 36 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
-| 37 | [Selamat Hari Perempuan Sedunia](http://twitter.com/search?q=Selamat+Hari+Perempuan+Sedunia) | N/A |
-| 38 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 39 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
-| 40 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 41 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 42 | [nisfu sya'ban](http://twitter.com/search?q=nisfu+sya%27ban) | N/A |
-| 43 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 44 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 5 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 6 | [Semangat Ngaji Berjama'ah](http://twitter.com/search?q=Semangat+Ngaji+Berjama%27ah) | N/A |
+| 7 | [Syariah Islam Kaffah](http://twitter.com/search?q=Syariah+Islam+Kaffah) | N/A |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 9 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 10 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 12 | [Stanisic](http://twitter.com/search?q=Stanisic) | N/A |
+| 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 14 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 15 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 16 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
+| 20 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 21 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 22 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 23 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 24 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
+| 25 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 26 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 27 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 28 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 29 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 30 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 31 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
+| 32 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 33 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 34 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 35 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 36 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 37 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 39 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
+| 40 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
+| 41 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 42 | [tangguh](http://twitter.com/search?q=tangguh) | N/A |
+| 43 | [nyuci](http://twitter.com/search?q=nyuci) | N/A |
+| 44 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
 
 
 
