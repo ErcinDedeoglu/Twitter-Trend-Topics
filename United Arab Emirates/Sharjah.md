@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-08 05:16:22 UTC`
+📆 Last Updated: `2023-03-08 06:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 5 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 4 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 5 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 6 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 7 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 8 | [خليفه الحمادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d8%af%d9%8a) | N/A |
+| 7 | [خليفه الحمادي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d8%af%d9%8a) | N/A |
+| 8 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 9 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 10 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 10 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 11 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 12 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 13 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 14 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
+| 12 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
+| 13 | [ستيرلينغ](http://twitter.com/search?q=%d8%b3%d8%aa%d9%8a%d8%b1%d9%84%d9%8a%d9%86%d8%ba) | N/A |
+| 14 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 15 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 16 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 17 | [علي مبخوت](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%a8%d8%ae%d9%88%d8%aa) | N/A |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
-| 20 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 23 | [The 3](http://twitter.com/search?q=The+3) | N/A |
-| 24 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 25 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
-| 26 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 17 | [المراه الاماراتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 18 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 19 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 20 | [علي مبخوت](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%a8%d8%ae%d9%88%d8%aa) | N/A |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [بني ياس](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d9%8a%d8%a7%d8%b3) | N/A |
+| 23 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 26 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 27 | [بن شرقي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b4%d8%b1%d9%82%d9%8a) | N/A |
 | 28 | [16 مارس](http://twitter.com/search?q=16+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 29 | [تعزيز العلاقات الثناييه](http://twitter.com/search?q=%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 30 | [ادريس](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
-| 31 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 32 | [رايد الفضاء الاماراتي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 33 | [للزمالك](http://twitter.com/search?q=%d9%84%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 34 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 35 | [بن عجيل](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%ac%d9%8a%d9%84) | N/A |
-| 36 | [الاطفال المتضررين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%8a%d9%86) | N/A |
-| 37 | [الملك الشرجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%b4%d8%b1%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
+| 29 | [The 3](http://twitter.com/search?q=The+3) | N/A |
+| 30 | [تعزيز العلاقات الثناييه](http://twitter.com/search?q=%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 31 | [HAVE TO KNOW](http://twitter.com/search?q=HAVE+TO+KNOW) | N/A |
+| 32 | [ادريس](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%b3) | N/A |
+| 33 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 34 | [رايد الفضاء الاماراتي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
+| 35 | [للزمالك](http://twitter.com/search?q=%d9%84%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
+| 36 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 37 | [بن عجيل](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%ac%d9%8a%d9%84) | N/A |
 | 38 | [علي صالح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
 | 39 | [بدر ناصر](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 40 | [جاسم النبهان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d9%86%d8%a8%d9%87%d8%a7%d9%86) | N/A |
 | 41 | [7 مارس](http://twitter.com/search?q=7+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 42 | [Sheikh Mohammed](http://twitter.com/search?q=Sheikh+Mohammed) | N/A |
+| 42 | [sheikh mohammed](http://twitter.com/search?q=sheikh+mohammed) | N/A |
 | 43 | [الجيش الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 44 | [عامر عبدالله](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 45 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 46 | [خالد عيسى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 47 | [القمه الشرطيه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 49 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [الملك الشرجاوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%b4%d8%b1%d8%ac%d8%a7%d9%88%d9%8a) | N/A |
+| 45 | [الاطفال المتضررين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d9%81%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%8a%d9%86) | N/A |
+| 46 | [عامر عبدالله](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d8%b1+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 47 | [خالد عيسى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 49 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 50 | [محل الاهتمام المشترك](http://twitter.com/search?q=%d9%85%d8%ad%d9%84+%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
 
 

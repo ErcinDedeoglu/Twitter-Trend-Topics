@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-08 05:16:45 UTC`
+📆 Last Updated: `2023-03-08 06:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Sweden
 | 1 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
 | 2 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 3 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 4 | [svff](http://twitter.com/search?q=svff) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [säffle](http://twitter.com/search?q=s%c3%a4ffle) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
 | 8 | [timrå](http://twitter.com/search?q=timr%c3%a5) | N/A |
 | 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 10 | [rydahl](http://twitter.com/search?q=rydahl) | N/A |
-| 11 | [sjöbo](http://twitter.com/search?q=sj%c3%b6bo) | N/A |
-| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 13 | [alice teodorescu](http://twitter.com/search?q=alice+teodorescu) | N/A |
-| 14 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 15 | [simon strand](http://twitter.com/search?q=simon+strand) | N/A |
-| 16 | [Pärlsocker](http://twitter.com/search?q=P%c3%a4rlsocker) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Svff](http://twitter.com/search?q=Svff) | N/A |
+| 13 | [sjöbo](http://twitter.com/search?q=sj%c3%b6bo) | N/A |
+| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 15 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 16 | [alice teodorescu](http://twitter.com/search?q=alice+teodorescu) | N/A |
 | 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 18 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
-| 19 | [bosse](http://twitter.com/search?q=bosse) | N/A |
-| 20 | [jesper karlsson](http://twitter.com/search?q=jesper+karlsson) | N/A |
-| 21 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 23 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
-| 24 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 25 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 26 | [ortio](http://twitter.com/search?q=ortio) | N/A |
-| 27 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 28 | [måndag](http://twitter.com/search?q=m%c3%a5ndag) | N/A |
-| 29 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 30 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 20 | [Pärlsocker](http://twitter.com/search?q=P%c3%a4rlsocker) | N/A |
+| 21 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 24 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | N/A |
+| 25 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 26 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 27 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 28 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 29 | [måndag](http://twitter.com/search?q=m%c3%a5ndag) | N/A |
+| 30 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 31 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 32 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 33 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 34 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 35 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 36 | [#leksandsif](http://twitter.com/search?q=%23leksandsif) | N/A |
-| 37 | [laurie halse anderson](http://twitter.com/search?q=laurie+halse+anderson) | N/A |
-| 38 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 32 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 33 | [Simon Strand](http://twitter.com/search?q=Simon+Strand) | N/A |
+| 34 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 35 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
+| 36 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 37 | [#leksandsif](http://twitter.com/search?q=%23leksandsif) | N/A |
+| 38 | [laurie halse anderson](http://twitter.com/search?q=laurie+halse+anderson) | N/A |
 | 39 | [smhi](http://twitter.com/search?q=smhi) | N/A |
-| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 41 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
-| 42 | [kapitolium](http://twitter.com/search?q=kapitolium) | N/A |
-| 43 | [flemingsberg](http://twitter.com/search?q=flemingsberg) | N/A |
-| 44 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
+| 40 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 41 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 42 | [New York Times](http://twitter.com/search?q=New+York+Times) | N/A |
+| 43 | [kapitolium](http://twitter.com/search?q=kapitolium) | N/A |
+| 44 | [flemingsberg](http://twitter.com/search?q=flemingsberg) | N/A |
 | 45 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
 | 46 | [Kokos](http://twitter.com/search?q=Kokos) | N/A |
-| 47 | [rödin](http://twitter.com/search?q=r%c3%b6din) | N/A |
-| 48 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 49 | [diffen](http://twitter.com/search?q=diffen) | N/A |
-| 50 | [kungsholmen](http://twitter.com/search?q=kungsholmen) | N/A |
+| 47 | [diffen](http://twitter.com/search?q=diffen) | N/A |
+| 48 | [kungsholmen](http://twitter.com/search?q=kungsholmen) | N/A |
+| 49 | [Dima](http://twitter.com/search?q=Dima) | N/A |
+| 50 | [dif-mff](http://twitter.com/search?q=dif-mff) | N/A |
 
 
 
