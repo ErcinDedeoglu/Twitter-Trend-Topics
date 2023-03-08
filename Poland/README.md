@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-08 07:17:20 UTC`
+📆 Last Updated: `2023-03-08 08:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
 | 3 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
 | 4 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 6 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
-| 7 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 10 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 5 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 8 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 9 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
+| 10 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
 | 11 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 12 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
-| 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 12 | [#mineła8](http://twitter.com/search?q=%23mine%c5%82a8) | N/A |
+| 13 | [Grot](http://twitter.com/search?q=Grot) | N/A |
 | 14 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 15 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 17 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 15 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 17 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 18 | [Feio](http://twitter.com/search?q=Feio) | N/A |
 | 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 20 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 21 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 22 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 23 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 24 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 25 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 26 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 27 | [jakubasa](http://twitter.com/search?q=jakubasa) | N/A |
-| 28 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
-| 29 | [Szczecin](http://twitter.com/search?q=Szczecin) | N/A |
-| 30 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
-| 31 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 32 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 33 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 34 | [Prawdziwi](http://twitter.com/search?q=Prawdziwi) | N/A |
-| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 37 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 39 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 40 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 41 | [REPARACJE](http://twitter.com/search?q=REPARACJE) | N/A |
-| 42 | [hartwich](http://twitter.com/search?q=hartwich) | N/A |
-| 43 | [Jesteście](http://twitter.com/search?q=Jeste%c5%9bcie) | N/A |
-| 44 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 45 | [Jadziu](http://twitter.com/search?q=Jadziu) | N/A |
-| 46 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
-| 47 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
-| 48 | [Arabia Saudyjska](http://twitter.com/search?q=Arabia+Saudyjska) | N/A |
-| 49 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 50 | [Donalda](http://twitter.com/search?q=Donalda) | N/A |
+| 21 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 22 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 23 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 24 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 25 | [Syn Człowieczy](http://twitter.com/search?q=Syn+Cz%c5%82owieczy) | N/A |
+| 26 | [Der Onet](http://twitter.com/search?q=Der+Onet) | N/A |
+| 27 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 28 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
+| 29 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 30 | [jakubasa](http://twitter.com/search?q=jakubasa) | N/A |
+| 31 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 32 | [Jadziu](http://twitter.com/search?q=Jadziu) | N/A |
+| 33 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 34 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 35 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 36 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
+| 37 | [motoru lublin](http://twitter.com/search?q=motoru+lublin) | N/A |
+| 38 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 39 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 40 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 41 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 42 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 43 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 44 | [Dziękujemy](http://twitter.com/search?q=Dzi%c4%99kujemy) | N/A |
+| 45 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 46 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 47 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 48 | [Reparacje](http://twitter.com/search?q=Reparacje) | N/A |
+| 49 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
+| 50 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
 
 
 

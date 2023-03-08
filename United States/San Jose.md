@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-08 07:17:12 UTC`
+📆 Last Updated: `2023-03-08 08:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 2 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 3 | [Western Conference](http://twitter.com/search?q=Western+Conference) | N/A |
-| 4 | [Sierra Canyon](http://twitter.com/search?q=Sierra+Canyon) | N/A |
-| 5 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 6 | [Tyus Jones](http://twitter.com/search?q=Tyus+Jones) | N/A |
+| 1 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 2 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 4 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 6 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
 | 7 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 8 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 9 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 10 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 12 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 13 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 14 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 15 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 16 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 18 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 19 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 20 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 21 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 22 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 23 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 24 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 25 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 26 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 27 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 29 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
-| 30 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 31 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
-| 32 | [Chadwick Tromp](http://twitter.com/search?q=Chadwick+Tromp) | N/A |
-| 33 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 34 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 35 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
-| 36 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 37 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
-| 38 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 39 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 40 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
-| 41 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 42 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 43 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 8 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 11 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 12 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 13 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 15 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 16 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 17 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 18 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 19 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 20 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 21 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 23 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
+| 24 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 25 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 26 | [Chadwick Tromp](http://twitter.com/search?q=Chadwick+Tromp) | N/A |
+| 27 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 29 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 30 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
+| 31 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 32 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 33 | [Utah Tech](http://twitter.com/search?q=Utah+Tech) | N/A |
+| 34 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 35 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 36 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
+| 37 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 38 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 39 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 40 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 42 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
+| 43 | [Joe Cravens](http://twitter.com/search?q=Joe+Cravens) | N/A |
 | 44 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 45 | [Utah Tech](http://twitter.com/search?q=Utah+Tech) | N/A |
-| 46 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 47 | [Cespedes](http://twitter.com/search?q=Cespedes) | N/A |
-| 48 | [Lonnie Walker](http://twitter.com/search?q=Lonnie+Walker) | N/A |
-| 49 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 45 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
+| 46 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 47 | [Cal Poly](http://twitter.com/search?q=Cal+Poly) | N/A |
+| 48 | [Xander Bogaerts](http://twitter.com/search?q=Xander+Bogaerts) | N/A |
+| 49 | [Dean](http://twitter.com/search?q=Dean) | N/A |
 
 
 

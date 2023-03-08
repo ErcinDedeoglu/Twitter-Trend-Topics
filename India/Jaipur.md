@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-08 07:17:00 UTC`
+📆 Last Updated: `2023-03-08 08:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 2 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 3 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 3 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [India](</India>)
 | 9 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 10 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
 | 11 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 12 | [बेसिक कंप्यूटर](http://twitter.com/search?q=%e0%a4%ac%e0%a5%87%e0%a4%b8%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a4%82%e0%a4%aa%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a4%b0) | N/A |
-| 13 | [Women Of India](http://twitter.com/search?q=Women+Of+India) | N/A |
-| 14 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 15 | [Break The Silence](http://twitter.com/search?q=Break+The+Silence) | N/A |
-| 16 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 12 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 13 | [Chief Minister of Tripura](http://twitter.com/search?q=Chief+Minister+of+Tripura) | N/A |
+| 14 | [बेसिक कंप्यूटर](http://twitter.com/search?q=%e0%a4%ac%e0%a5%87%e0%a4%b8%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a4%82%e0%a4%aa%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a4%b0) | N/A |
+| 15 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
+| 16 | [Women Of India](http://twitter.com/search?q=Women+Of+India) | N/A |
 | 17 | [माणिक साहा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 18 | [K Kavitha](http://twitter.com/search?q=K+Kavitha) | N/A |
-| 19 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 20 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
-| 21 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 22 | [अनंत सुख](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4+%e0%a4%b8%e0%a5%81%e0%a4%96) | N/A |
-| 23 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 24 | [She is a Dreamer](http://twitter.com/search?q=She+is+a+Dreamer) | N/A |
-| 25 | [मंगल कामना](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%95%e0%a4%be%e0%a4%ae%e0%a4%a8%e0%a4%be) | N/A |
-| 26 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 27 | [#SpotifyPremiumFree](http://twitter.com/search?q=%23SpotifyPremiumFree) | N/A |
-| 28 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 29 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 18 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 19 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
+| 20 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 21 | [Break The Silence](http://twitter.com/search?q=Break+The+Silence) | N/A |
+| 22 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 23 | [She is a Dreamer](http://twitter.com/search?q=She+is+a+Dreamer) | N/A |
+| 24 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 25 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 26 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 27 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 28 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
+| 29 | [#SpotifyPremiumFree](http://twitter.com/search?q=%23SpotifyPremiumFree) | N/A |
 | 30 | [#अंतर्राष्ट्रीय_महिला_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 31 | [#रंगोत्सव](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
-| 32 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 31 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 32 | [#रंगोत्सव](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
 | 33 | [#NariShaktiForNewIndia](http://twitter.com/search?q=%23NariShaktiForNewIndia) | N/A |
 | 34 | [#मैं_भी_उपेन_यादव](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%88%e0%a4%82_%e0%a4%ad%e0%a5%80_%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 35 | [#மகளிர்_தின_நல்வாழ்த்துக்கள்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%a9_%e0%ae%a8%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d) | N/A |
-| 36 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 37 | [#மகளிர்உயர_மாநிலம்உயரும்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0_%e0%ae%ae%e0%ae%be%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d) | N/A |
-| 38 | [#strongwomen](http://twitter.com/search?q=%23strongwomen) | N/A |
-| 39 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
-| 40 | [#8thMarch](http://twitter.com/search?q=%238thMarch) | N/A |
-| 41 | [#ShareHappiness](http://twitter.com/search?q=%23ShareHappiness) | N/A |
-| 42 | [#होलिकोत्सव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
+| 35 | [#மகளிர்உயர_மாநிலம்உயரும்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0_%e0%ae%ae%e0%ae%be%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d) | N/A |
+| 36 | [#strongwomen](http://twitter.com/search?q=%23strongwomen) | N/A |
+| 37 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 38 | [#8thMarch](http://twitter.com/search?q=%238thMarch) | N/A |
+| 39 | [#மகளிர்_தின_நல்வாழ்த்துக்கள்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d_%e0%ae%a4%e0%ae%bf%e0%ae%a9_%e0%ae%a8%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d) | N/A |
+| 40 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 41 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
+| 42 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
 | 43 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
-| 44 | [#WeWantGroup4Results](http://twitter.com/search?q=%23WeWantGroup4Results) | N/A |
-| 45 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
-| 46 | [#மகளிர்தினம்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%ae%ae%e0%af%8d) | N/A |
-| 47 | [#ChooseToChallenge](http://twitter.com/search?q=%23ChooseToChallenge) | N/A |
-| 48 | [#Feminism](http://twitter.com/search?q=%23Feminism) | N/A |
-| 49 | [#WazirXTurns5](http://twitter.com/search?q=%23WazirXTurns5) | N/A |
-| 50 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
+| 44 | [#WazirXTurns5](http://twitter.com/search?q=%23WazirXTurns5) | N/A |
+| 45 | [#WeWantGroup4Results](http://twitter.com/search?q=%23WeWantGroup4Results) | N/A |
+| 46 | [#Feminism](http://twitter.com/search?q=%23Feminism) | N/A |
+| 47 | [#होलिकोत्सव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
+| 48 | [#ShareHappiness](http://twitter.com/search?q=%23ShareHappiness) | N/A |
+| 49 | [#womenleaders](http://twitter.com/search?q=%23womenleaders) | N/A |
+| 50 | [#ChooseToChallenge](http://twitter.com/search?q=%23ChooseToChallenge) | N/A |
 
 
 

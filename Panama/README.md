@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-08 07:17:20 UTC`
+📆 Last Updated: `2023-03-08 08:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for Panama
 | 4 | [punta pacífica](http://twitter.com/search?q=punta+pac%c3%adfica) | N/A |
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
-| 7 | [Fruta](http://twitter.com/search?q=Fruta) | N/A |
-| 8 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
+| 7 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
+| 8 | [attt](http://twitter.com/search?q=attt) | N/A |
 | 9 | [#UltimaCitaTourPanama](http://twitter.com/search?q=%23UltimaCitaTourPanama) | N/A |
-| 10 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
-| 11 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
+| 10 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
+| 11 | [Fruta](http://twitter.com/search?q=Fruta) | N/A |
 | 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 13 | [paitilla](http://twitter.com/search?q=paitilla) | N/A |
 | 14 | [bella vista](http://twitter.com/search?q=bella+vista) | N/A |
@@ -35,14 +35,14 @@ This is top 50 for Panama
 | 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 19 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
 | 20 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 21 | [ph urbana](http://twitter.com/search?q=ph+urbana) | N/A |
-| 22 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 23 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
-| 24 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 25 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 26 | [Preso](http://twitter.com/search?q=Preso) | N/A |
-| 27 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 28 | [fernando báez](http://twitter.com/search?q=fernando+b%c3%a1ez) | N/A |
+| 21 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 22 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
+| 23 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 24 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 25 | [Preso](http://twitter.com/search?q=Preso) | N/A |
+| 26 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 27 | [fernando báez](http://twitter.com/search?q=fernando+b%c3%a1ez) | N/A |
+| 28 | [PH Urbana](http://twitter.com/search?q=PH+Urbana) | N/A |
 | 29 | [Divide](http://twitter.com/search?q=Divide) | N/A |
 | 30 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
 | 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |

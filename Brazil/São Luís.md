@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-08 07:16:30 UTC`
+📆 Last Updated: `2023-03-08 08:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [São Luís](http://twitter.com/search?q=S%c3%a3o+Lu%c3%ads) | N/A |
-| 2 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 4 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 5 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 6 | [paiva](http://twitter.com/search?q=paiva) | N/A |
-| 7 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 8 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 9 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 10 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 11 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 12 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
-| 13 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 14 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 15 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
-| 16 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 17 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 18 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 19 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
-| 20 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 21 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 22 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 23 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
-| 24 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 25 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 26 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 27 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 28 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
-| 29 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
-| 30 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 31 | [ARROZES](http://twitter.com/search?q=ARROZES) | N/A |
-| 32 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 33 | [Domitila e Alface](http://twitter.com/search?q=Domitila+e+Alface) | N/A |
-| 34 | [Keyzinha](http://twitter.com/search?q=Keyzinha) | N/A |
-| 35 | [thaisa](http://twitter.com/search?q=thaisa) | N/A |
-| 36 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 37 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 38 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
-| 39 | [Pyong](http://twitter.com/search?q=Pyong) | N/A |
-| 40 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 41 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 42 | [Domitila Barros](http://twitter.com/search?q=Domitila+Barros) | N/A |
-| 43 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 44 | [Hélio](http://twitter.com/search?q=H%c3%a9lio) | N/A |
-| 45 | [Domidiva](http://twitter.com/search?q=Domidiva) | N/A |
-| 46 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
-| 47 | [Mano Brown](http://twitter.com/search?q=Mano+Brown) | N/A |
-| 48 | [Sarto](http://twitter.com/search?q=Sarto) | N/A |
-| 49 | [Anjos](http://twitter.com/search?q=Anjos) | N/A |
-| 50 | [Cbum](http://twitter.com/search?q=Cbum) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 4 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 5 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 6 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 7 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 8 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
+| 9 | [#ForaKey](http://twitter.com/search?q=%23ForaKey) | #ForaKey is a hashtag used to promote the idea of providing access to keys for those in need. It is used to raise awareness about the importance of providing access to keys for those who are homeless, in poverty, or otherwise unable to secure a key for themselves. The hashtag is often used in conjunction with other hashtags such as #KeyAccess and #KeyInclusion. |
+| 10 | [#marvininu](http://twitter.com/search?q=%23marvininu) | N/A |
+| 11 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 12 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 13 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 14 | [Rio Anil](http://twitter.com/search?q=Rio+Anil) | N/A |
+| 15 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 19 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 20 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 21 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 22 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 23 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 26 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 27 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
+| 28 | [Nicarágua](http://twitter.com/search?q=Nicar%c3%a1gua) | N/A |
+| 29 | [fred desimpedidos](http://twitter.com/search?q=fred+desimpedidos) | Fred desimpedidos is a Portuguese phrase that translates to "Fred dismissed" in English. It is used to refer to someone who has been fired or laid off from their job. |
+| 30 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 31 | [team chiara](http://twitter.com/search?q=team+chiara) | N/A |
+| 32 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 33 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 34 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 35 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
+| 36 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
+| 37 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 38 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
+| 39 | [Buchecha](http://twitter.com/search?q=Buchecha) | N/A |
+| 40 | [Déia](http://twitter.com/search?q=D%c3%a9ia) | N/A |
+| 41 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 42 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
+| 43 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 44 | [curtindo bbb com zé delivery](http://twitter.com/search?q=curtindo+bbb+com+z%c3%a9+delivery) | N/A |
+| 45 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 46 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 47 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 48 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 49 | [Fred boco](http://twitter.com/search?q=Fred+boco) | N/A |
+| 50 | [APOIE BISSEXUAIS](http://twitter.com/search?q=APOIE+BISSEXUAIS) | N/A |
 
 
 

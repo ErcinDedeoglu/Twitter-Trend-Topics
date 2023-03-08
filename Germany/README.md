@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-08 07:17:16 UTC`
+📆 Last Updated: `2023-03-08 08:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,38 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 2 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 5 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 6 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
-| 7 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 12 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 4 | [#FeministischerKampftag](http://twitter.com/search?q=%23FeministischerKampftag) | N/A |
+| 5 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
+| 8 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 9 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 10 | [Allen Frauen](http://twitter.com/search?q=Allen+Frauen) | N/A |
+| 11 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 12 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
 | 13 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 14 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 18 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 19 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 20 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
-| 21 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 22 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 23 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 24 | [Liebe Frauen](http://twitter.com/search?q=Liebe+Frauen) | N/A |
-| 25 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 28 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 29 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 30 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 31 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 32 | [Leonie](http://twitter.com/search?q=Leonie) | N/A |
-| 33 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 34 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 35 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 36 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 37 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 38 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 39 | [Hobbytaucher](http://twitter.com/search?q=Hobbytaucher) | N/A |
-| 40 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 41 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 42 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 43 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 44 | [Schubsi](http://twitter.com/search?q=Schubsi) | N/A |
-| 45 | [Feuerwehrauto](http://twitter.com/search?q=Feuerwehrauto) | N/A |
-| 46 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 47 | [Frauenrechte](http://twitter.com/search?q=Frauenrechte) | N/A |
-| 48 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 49 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 50 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 15 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 16 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 18 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 19 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 20 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 21 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [Kolleginnen](http://twitter.com/search?q=Kolleginnen) | N/A |
+| 24 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 25 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 26 | [Spuren](http://twitter.com/search?q=Spuren) | N/A |
+| 27 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 28 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 29 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
+| 30 | [#Frauenpower](http://twitter.com/search?q=%23Frauenpower) | N/A |
+| 31 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 32 | [#FrauenSagenNein](http://twitter.com/search?q=%23FrauenSagenNein) | N/A |
+| 33 | [#EqualPay](http://twitter.com/search?q=%23EqualPay) | N/A |
 
 
 

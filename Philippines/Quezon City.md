@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-08 07:16:50 UTC`
+📆 Last Updated: `2023-03-08 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 2 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 3 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 4 | [#FELIPonPrambors](http://twitter.com/search?q=%23FELIPonPrambors) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Congrats FEU](http://twitter.com/search?q=Congrats+FEU) | N/A |
-| 7 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 8 | [#ShowtimeLarongLaro](http://twitter.com/search?q=%23ShowtimeLarongLaro) | N/A |
-| 9 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 10 | [Encarnacion](http://twitter.com/search?q=Encarnacion) | N/A |
+| 2 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 3 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
+| 4 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 5 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 8 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 9 | [MUSIC INVASION WITH FELIP](http://twitter.com/search?q=MUSIC+INVASION+WITH+FELIP) | N/A |
+| 10 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
 | 11 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 12 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [Miner](http://twitter.com/search?q=Miner) | N/A |
-| 16 | [Nisperos](http://twitter.com/search?q=Nisperos) | N/A |
-| 17 | [Doromal](http://twitter.com/search?q=Doromal) | N/A |
-| 18 | [De Guzman](http://twitter.com/search?q=De+Guzman) | N/A |
-| 19 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 20 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 21 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 22 | [BINI AURA NA WITH VIVO](http://twitter.com/search?q=BINI+AURA+NA+WITH+VIVO) | N/A |
-| 23 | [GAYUMA MV TEASER 2](http://twitter.com/search?q=GAYUMA+MV+TEASER+2) | N/A |
-| 24 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 25 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 26 | [ANDREA HEADNSHOULDERS](http://twitter.com/search?q=ANDREA+HEADNSHOULDERS) | N/A |
-| 27 | [BABAE KA](http://twitter.com/search?q=BABAE+KA) | N/A |
-| 28 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
-| 29 | [K-Verse](http://twitter.com/search?q=K-Verse) | N/A |
-| 30 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 31 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 32 | [Careless](http://twitter.com/search?q=Careless) | N/A |
-| 33 | [Bias](http://twitter.com/search?q=Bias) | N/A |
-| 34 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
-| 35 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 36 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
-| 37 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 12 | [Congrats FEU](http://twitter.com/search?q=Congrats+FEU) | N/A |
+| 13 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 14 | [Encarnacion](http://twitter.com/search?q=Encarnacion) | N/A |
+| 15 | [King and Queen](http://twitter.com/search?q=King+and+Queen) | N/A |
+| 16 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
+| 17 | [#ShowtimeLarongLaro](http://twitter.com/search?q=%23ShowtimeLarongLaro) | N/A |
+| 18 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 19 | [Miner](http://twitter.com/search?q=Miner) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Nisperos](http://twitter.com/search?q=Nisperos) | N/A |
+| 22 | [Doromal](http://twitter.com/search?q=Doromal) | N/A |
+| 23 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 24 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 25 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 26 | [De Guzman](http://twitter.com/search?q=De+Guzman) | N/A |
+| 27 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 28 | [GAYUMA MV TEASER 2](http://twitter.com/search?q=GAYUMA+MV+TEASER+2) | N/A |
+| 29 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 30 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
+| 31 | [ANDREA HEADNSHOULDERS](http://twitter.com/search?q=ANDREA+HEADNSHOULDERS) | N/A |
+| 32 | [BABAE KA](http://twitter.com/search?q=BABAE+KA) | N/A |
+| 33 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 34 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 35 | [Kathryn Bernardo](http://twitter.com/search?q=Kathryn+Bernardo) | N/A |
+| 36 | [Careless](http://twitter.com/search?q=Careless) | N/A |
+| 37 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 38 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 39 | [#BINIforvivoV27e](http://twitter.com/search?q=%23BINIforvivoV27e) | N/A |
-| 40 | [#TheAuraPortraitMaster](http://twitter.com/search?q=%23TheAuraPortraitMaster) | N/A |
-| 41 | [#KathNiel](http://twitter.com/search?q=%23KathNiel) | N/A |
-| 42 | [#LetItchGo](http://twitter.com/search?q=%23LetItchGo) | N/A |
-| 43 | [#NoItchuations](http://twitter.com/search?q=%23NoItchuations) | N/A |
-| 44 | [#AbanteBabae](http://twitter.com/search?q=%23AbanteBabae) | N/A |
-| 45 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
-| 46 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 47 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
-| 48 | [#WEcanbeEquALL](http://twitter.com/search?q=%23WEcanbeEquALL) | N/A |
-| 49 | [#KversePH](http://twitter.com/search?q=%23KversePH) | N/A |
-| 50 | [#BOYCOTTEBxGMA728](http://twitter.com/search?q=%23BOYCOTTEBxGMA728) | N/A |
+| 39 | [#AbanteBabae](http://twitter.com/search?q=%23AbanteBabae) | N/A |
+| 40 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 41 | [#LetItchGo](http://twitter.com/search?q=%23LetItchGo) | N/A |
+| 42 | [#NoItchuations](http://twitter.com/search?q=%23NoItchuations) | N/A |
+| 43 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
+| 44 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
+| 45 | [#WEcanbeEquALL](http://twitter.com/search?q=%23WEcanbeEquALL) | N/A |
+| 46 | [#11thKAIAxZAIADay](http://twitter.com/search?q=%2311thKAIAxZAIADay) | N/A |
+| 47 | [#BOYCOTTEBxGMA728](http://twitter.com/search?q=%23BOYCOTTEBxGMA728) | N/A |
+| 48 | [#VivoreeMatapang](http://twitter.com/search?q=%23VivoreeMatapang) | N/A |
+| 49 | [#READYTOBE_1M_PREORDER](http://twitter.com/search?q=%23READYTOBE_1M_PREORDER) | N/A |
 
 
 
