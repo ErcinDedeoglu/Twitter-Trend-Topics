@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-08 10:16:26 UTC`
+📆 Last Updated: `2023-03-08 11:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 1 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 7 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 9 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 10 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 10 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 11 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
 | 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 13 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 14 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 14 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 15 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 16 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 17 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 18 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 19 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 20 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
-| 21 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
-| 22 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
-| 23 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 25 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
-| 26 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 27 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
-| 28 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 29 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 30 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
-| 31 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
-| 32 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 16 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 17 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
+| 18 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 20 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 21 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 22 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 23 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 24 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 25 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 26 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 27 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 28 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
+| 29 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
+| 30 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 31 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
+| 32 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
 | 33 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 34 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 35 | [Stalinist](http://twitter.com/search?q=Stalinist) | N/A |
-| 36 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 37 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
-| 38 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
-| 39 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 40 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
-| 41 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
-| 42 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 43 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 34 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 35 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 36 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
+| 37 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 38 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
+| 39 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 40 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 41 | [#womeninspiringwomen](http://twitter.com/search?q=%23womeninspiringwomen) | N/A |
+| 42 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
+| 43 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
 | 44 | [#womensupportingwomen](http://twitter.com/search?q=%23womensupportingwomen) | N/A |
-| 45 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
-| 46 | [#SwanIWDGiveaway](http://twitter.com/search?q=%23SwanIWDGiveaway) | N/A |
-| 47 | [#womeninspiringwomen](http://twitter.com/search?q=%23womeninspiringwomen) | N/A |
-| 48 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 49 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
+| 45 | [#SwanIWDGiveaway](http://twitter.com/search?q=%23SwanIWDGiveaway) | N/A |
+| 46 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 47 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 48 | [#BreakTheBias](http://twitter.com/search?q=%23BreakTheBias) | N/A |
+| 49 | [#ToryFascistDictatorship](http://twitter.com/search?q=%23ToryFascistDictatorship) | N/A |
 
 
 

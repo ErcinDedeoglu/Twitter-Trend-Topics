@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-08 10:16:42 UTC`
+📆 Last Updated: `2023-03-08 11:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ide Keren SampeinAja](http://twitter.com/search?q=Ide+Keren+SampeinAja) | N/A |
-| 2 | [UrusanGue Asikin Indonesia](http://twitter.com/search?q=UrusanGue+Asikin+Indonesia) | N/A |
-| 3 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 4 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Persik](http://twitter.com/search?q=Persik) | N/A |
-| 7 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 8 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 9 | [Jenderal Dudung AR](http://twitter.com/search?q=Jenderal+Dudung+AR) | N/A |
-| 10 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 11 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 12 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 13 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 14 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 15 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
-| 16 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 17 | [HUT Ke-62 Kostrad](http://twitter.com/search?q=HUT+Ke-62+Kostrad) | N/A |
-| 18 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
-| 19 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 20 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 21 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 22 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 23 | [Kementerian Keuangan](http://twitter.com/search?q=Kementerian+Keuangan) | N/A |
-| 24 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 25 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 26 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 27 | [Selamat Hari Perempuan Sedunia](http://twitter.com/search?q=Selamat+Hari+Perempuan+Sedunia) | N/A |
-| 28 | [SEMANGAT 45](http://twitter.com/search?q=SEMANGAT+45) | N/A |
-| 29 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 30 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 31 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 32 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
-| 33 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 34 | [Telur](http://twitter.com/search?q=Telur) | N/A |
-| 35 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 36 | [#HariPerempuanInternasional](http://twitter.com/search?q=%23HariPerempuanInternasional) | N/A |
-| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 38 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 39 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
-| 40 | [#boysplanetsupport](http://twitter.com/search?q=%23boysplanetsupport) | N/A |
-| 41 | [#DesaBisa](http://twitter.com/search?q=%23DesaBisa) | N/A |
-| 42 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
-| 43 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 44 | [#SahabatBawaslu](http://twitter.com/search?q=%23SahabatBawaslu) | N/A |
-| 45 | [#AyoAwasiBersama](http://twitter.com/search?q=%23AyoAwasiBersama) | N/A |
-| 46 | [#BLACKPINKinJKT](http://twitter.com/search?q=%23BLACKPINKinJKT) | N/A |
-| 47 | [#KKPThrive](http://twitter.com/search?q=%23KKPThrive) | N/A |
+| 1 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 2 | [Menang](http://twitter.com/search?q=Menang) | N/A |
+| 3 | [Ide Keren SampeinAja](http://twitter.com/search?q=Ide+Keren+SampeinAja) | N/A |
+| 4 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 5 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
+| 6 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 8 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 9 | [#SriMulyaniMundur](http://twitter.com/search?q=%23SriMulyaniMundur) | N/A |
+| 10 | [Jenderal Dudung AR](http://twitter.com/search?q=Jenderal+Dudung+AR) | N/A |
+| 11 | [#HariPerempuanInternasional](http://twitter.com/search?q=%23HariPerempuanInternasional) | N/A |
+| 12 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 13 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 14 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
+| 15 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 16 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
+| 17 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 18 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 19 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 20 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
+| 21 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 22 | [HUT Ke-62 Kostrad](http://twitter.com/search?q=HUT+Ke-62+Kostrad) | N/A |
+| 23 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 24 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 25 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 26 | [Kementerian Keuangan](http://twitter.com/search?q=Kementerian+Keuangan) | N/A |
+| 27 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 28 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 29 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 30 | [selamat hari perempuan sedunia](http://twitter.com/search?q=selamat+hari+perempuan+sedunia) | N/A |
+| 31 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
+| 32 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
+| 33 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 34 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 35 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
+| 36 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 37 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 38 | [#zeeletter](http://twitter.com/search?q=%23zeeletter) | N/A |
+| 39 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 40 | [#CodeKunst55_WENDYxYerinBaek](http://twitter.com/search?q=%23CodeKunst55_WENDYxYerinBaek) | N/A |
+| 41 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 42 | [#BLACKPINKinJAKARTA](http://twitter.com/search?q=%23BLACKPINKinJAKARTA) | N/A |
+| 43 | [#DesaBisa](http://twitter.com/search?q=%23DesaBisa) | N/A |
+| 44 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 45 | [#WTSBLACKPINKJAKARTA](http://twitter.com/search?q=%23WTSBLACKPINKJAKARTA) | N/A |
+| 46 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 47 | [#BLACKPINKinJKT](http://twitter.com/search?q=%23BLACKPINKinJKT) | N/A |
 
 
 

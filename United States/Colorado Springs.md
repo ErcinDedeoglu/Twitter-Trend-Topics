@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-08 10:17:04 UTC`
+📆 Last Updated: `2023-03-08 11:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Cale](http://twitter.com/search?q=Cale) | N/A |
 | 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [#OptimusinuOpinu](http://twitter.com/search?q=%23OptimusinuOpinu) | N/A |
+| 5 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
 | 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 10 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 10 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
 | 11 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 12 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 13 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 14 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 15 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 16 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 17 | [TROY BROWN](http://twitter.com/search?q=TROY+BROWN) | N/A |
-| 18 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 19 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
-| 20 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 21 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 22 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 12 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 13 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 14 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 15 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 16 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 17 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 18 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 19 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 20 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 21 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
+| 22 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 23 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 24 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 25 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 26 | [Utah Tech](http://twitter.com/search?q=Utah+Tech) | N/A |
-| 27 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 29 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 30 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 31 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 32 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
-| 33 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 34 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 35 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 36 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 37 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
-| 38 | [Cowboy Bebop](http://twitter.com/search?q=Cowboy+Bebop) | N/A |
-| 39 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 40 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 41 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 42 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 43 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 44 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 45 | [Sierra Canyon](http://twitter.com/search?q=Sierra+Canyon) | N/A |
-| 46 | [Lucky Charms](http://twitter.com/search?q=Lucky+Charms) | N/A |
-| 47 | [Northern Arizona](http://twitter.com/search?q=Northern+Arizona) | N/A |
-| 48 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 49 | [Honey Nut Cheerios](http://twitter.com/search?q=Honey+Nut+Cheerios) | N/A |
+| 24 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 25 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 26 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 27 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 28 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 29 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 30 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
+| 31 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 32 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 33 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 34 | [Cowboy Bebop](http://twitter.com/search?q=Cowboy+Bebop) | N/A |
+| 35 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 36 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 37 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 38 | [Honey Nut Cheerios](http://twitter.com/search?q=Honey+Nut+Cheerios) | N/A |
+| 39 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 40 | [Tyus](http://twitter.com/search?q=Tyus) | N/A |
+| 41 | [Cap'n Crunch](http://twitter.com/search?q=Cap%27n+Crunch) | N/A |
+| 42 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 43 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 44 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 45 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
+| 46 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
+| 47 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 48 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 49 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
 
 
 

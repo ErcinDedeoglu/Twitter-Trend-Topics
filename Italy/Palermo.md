@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-08 10:16:39 UTC`
+📆 Last Updated: `2023-03-08 11:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 2 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 4 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
 | 5 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
 | 6 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 7 | [chiuda](http://twitter.com/search?q=chiuda) | N/A |
-| 8 | [Giacomo Urtis](http://twitter.com/search?q=Giacomo+Urtis) | N/A |
-| 9 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
+| 7 | [Cutro](http://twitter.com/search?q=Cutro) | N/A |
+| 8 | [urtis](http://twitter.com/search?q=urtis) | N/A |
+| 9 | [Chiuda](http://twitter.com/search?q=Chiuda) | N/A |
 | 10 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 11 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 12 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 11 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
+| 12 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
 | 13 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
 | 14 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 15 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 16 | [Rita Levi Montalcini](http://twitter.com/search?q=Rita+Levi+Montalcini) | N/A |
-| 17 | [JOAO MARIO](http://twitter.com/search?q=JOAO+MARIO) | N/A |
-| 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 19 | [aeronautica militare](http://twitter.com/search?q=aeronautica+militare) | N/A |
-| 20 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 21 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
-| 22 | [Dovere](http://twitter.com/search?q=Dovere) | N/A |
-| 23 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 24 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
-| 25 | [Buongiorno Franco](http://twitter.com/search?q=Buongiorno+Franco) | N/A |
-| 26 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 27 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 28 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 29 | [Oggi 8](http://twitter.com/search?q=Oggi+8) | N/A |
-| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 15 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 16 | [aeronautica militare](http://twitter.com/search?q=aeronautica+militare) | N/A |
+| 17 | [Dovere](http://twitter.com/search?q=Dovere) | N/A |
+| 18 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
+| 19 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
+| 20 | [JOAO MARIO](http://twitter.com/search?q=JOAO+MARIO) | N/A |
+| 21 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 22 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 23 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 24 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 25 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 26 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 27 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 28 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 30 | [Furore](http://twitter.com/search?q=Furore) | N/A |
 | 31 | [Augurissimi](http://twitter.com/search?q=Augurissimi) | N/A |
-| 32 | [Auguroni](http://twitter.com/search?q=Auguroni) | N/A |
-| 33 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 34 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 35 | [Furore](http://twitter.com/search?q=Furore) | N/A |
-| 36 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
+| 32 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 33 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 34 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 35 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 36 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
 | 37 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 38 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
-| 39 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 40 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 41 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 42 | [Baggio](http://twitter.com/search?q=Baggio) | N/A |
-| 43 | [Buongiorno e Auguri](http://twitter.com/search?q=Buongiorno+e+Auguri) | N/A |
-| 44 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 45 | [Culetto](http://twitter.com/search?q=Culetto) | N/A |
-| 46 | [Torsello](http://twitter.com/search?q=Torsello) | N/A |
-| 47 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 48 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 49 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
+| 38 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 39 | [Auguroni](http://twitter.com/search?q=Auguroni) | N/A |
+| 40 | [Oggi 8](http://twitter.com/search?q=Oggi+8) | N/A |
+| 41 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 42 | [Culetto](http://twitter.com/search?q=Culetto) | N/A |
+| 43 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 44 | [Sorbillo](http://twitter.com/search?q=Sorbillo) | N/A |
+| 45 | [Oriana Fallaci](http://twitter.com/search?q=Oriana+Fallaci) | N/A |
+| 46 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 47 | [San Giovanni di Dio](http://twitter.com/search?q=San+Giovanni+di+Dio) | N/A |
+| 48 | [Isma](http://twitter.com/search?q=Isma) | N/A |
+| 49 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
 
 
 

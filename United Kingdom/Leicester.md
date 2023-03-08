@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-08 10:16:24 UTC`
+📆 Last Updated: `2023-03-08 11:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 3 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
-| 4 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
-| 5 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 6 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 7 | [#GeneralElectionNow](http://twitter.com/search?q=%23GeneralElectionNow) | N/A |
+| 1 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 2 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
+| 3 | [Andrew Pierce](http://twitter.com/search?q=Andrew+Pierce) | N/A |
+| 4 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 5 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 6 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 7 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
 | 8 | [#HerGameToo](http://twitter.com/search?q=%23HerGameToo) | N/A |
-| 9 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 10 | [The UN](http://twitter.com/search?q=The+UN) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 13 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 14 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
-| 15 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 16 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 17 | [UKIP](http://twitter.com/search?q=UKIP) | N/A |
-| 18 | [Patel](http://twitter.com/search?q=Patel) | N/A |
-| 19 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 20 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 22 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 23 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 24 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 25 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 26 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 27 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 28 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 29 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 30 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 31 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 32 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 33 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 34 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
-| 35 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
-| 36 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
-| 37 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 38 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 39 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
-| 40 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 41 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 42 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 43 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
-| 44 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 45 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 46 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 47 | [Stalinist](http://twitter.com/search?q=Stalinist) | N/A |
-| 48 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 9 | [Yvette](http://twitter.com/search?q=Yvette) | N/A |
+| 10 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 11 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
+| 12 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 13 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 14 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
+| 15 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 17 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 18 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 19 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 20 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 22 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 23 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 24 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 25 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 26 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
+| 27 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 28 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 29 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 30 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 31 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 32 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 33 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 34 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 35 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 36 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 37 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
+| 38 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
+| 39 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 40 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
+| 41 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 42 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 43 | [#GeneralElectionNow](http://twitter.com/search?q=%23GeneralElectionNow) | N/A |
+| 44 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 45 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
+| 46 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
+| 47 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
+| 48 | [#inspiration](http://twitter.com/search?q=%23inspiration) | N/A |
 | 49 | [#smallboats](http://twitter.com/search?q=%23smallboats) | N/A |
-| 50 | [#inspiration](http://twitter.com/search?q=%23inspiration) | N/A |
+| 50 | [#IllegalMigrationBill](http://twitter.com/search?q=%23IllegalMigrationBill) | N/A |
 
 
 

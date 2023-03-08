@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-08 10:16:36 UTC`
+📆 Last Updated: `2023-03-08 11:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 2 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 3 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 6 | [#ATEEZinParis](http://twitter.com/search?q=%23ATEEZinParis) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 9 | [Journée Internationale](http://twitter.com/search?q=Journ%c3%a9e+Internationale) | N/A |
-| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 11 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 12 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 15 | [Clara Zetkin](http://twitter.com/search?q=Clara+Zetkin) | N/A |
-| 16 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 17 | [Élodie](http://twitter.com/search?q=%c3%89lodie) | N/A |
-| 18 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 19 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 21 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
-| 22 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 1 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 2 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 3 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
+| 4 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
+| 8 | [Journée Internationale](http://twitter.com/search?q=Journ%c3%a9e+Internationale) | N/A |
+| 9 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
+| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 11 | [Iraniennes](http://twitter.com/search?q=Iraniennes) | N/A |
+| 12 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 13 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 14 | [Gérard Larcher](http://twitter.com/search?q=G%c3%a9rard+Larcher) | N/A |
+| 15 | [Frieren](http://twitter.com/search?q=Frieren) | N/A |
+| 16 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
+| 17 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
+| 18 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 19 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 20 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 21 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 22 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
 | 23 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 24 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 25 | [Aujourd'hui 8](http://twitter.com/search?q=Aujourd%27hui+8) | N/A |
-| 26 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
-| 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 28 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
-| 29 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 30 | [Frieren](http://twitter.com/search?q=Frieren) | N/A |
-| 31 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 32 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 33 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 34 | [PULISIC](http://twitter.com/search?q=PULISIC) | N/A |
-| 35 | [GONÇALO RAMOS](http://twitter.com/search?q=GON%c3%87ALO+RAMOS) | N/A |
-| 36 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
-| 37 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 38 | [André Comte-Sponville](http://twitter.com/search?q=Andr%c3%a9+Comte-Sponville) | N/A |
-| 39 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 40 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
-| 41 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 42 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 43 | [Gérard Larcher](http://twitter.com/search?q=G%c3%a9rard+Larcher) | N/A |
-| 44 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
-| 45 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 46 | [Iraniennes](http://twitter.com/search?q=Iraniennes) | N/A |
-| 47 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 48 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 49 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 50 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 24 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 25 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
+| 26 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
+| 27 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 28 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 29 | [#égalité](http://twitter.com/search?q=%23%c3%a9galit%c3%a9) | N/A |
+| 30 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 31 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 32 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 33 | [#GreveFeministe](http://twitter.com/search?q=%23GreveFeministe) | N/A |
+| 34 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 35 | [#KyksDay](http://twitter.com/search?q=%23KyksDay) | N/A |
+| 36 | [#parité](http://twitter.com/search?q=%23parit%c3%a9) | N/A |
+| 37 | [#8march](http://twitter.com/search?q=%238march) | N/A |
+| 38 | [#engagement](http://twitter.com/search?q=%23engagement) | N/A |
+| 39 | [#numérique](http://twitter.com/search?q=%23num%c3%a9rique) | N/A |
+| 40 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
+| 41 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 42 | [#SCREAM6](http://twitter.com/search?q=%23SCREAM6) | N/A |
+| 43 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 44 | [#brasdhonneur](http://twitter.com/search?q=%23brasdhonneur) | N/A |
 
 
 

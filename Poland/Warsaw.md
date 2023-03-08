@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-08 10:16:35 UTC`
+📆 Last Updated: `2023-03-08 11:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Dnia Kobiet](http://twitter.com/search?q=Dnia+Kobiet) | N/A |
 | 2 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
 | 3 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 4 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
-| 5 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
+| 4 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
+| 5 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
 | 6 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 7 | [Grota](http://twitter.com/search?q=Grota) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 10 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 11 | [#mineła8](http://twitter.com/search?q=%23mine%c5%82a8) | N/A |
-| 12 | [Kobiet](http://twitter.com/search?q=Kobiet) | N/A |
-| 13 | [Kobiet](http://twitter.com/search?q=Kobiet) | N/A |
-| 14 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 15 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 17 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 18 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 19 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 20 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 23 | [Dziękujemy](http://twitter.com/search?q=Dzi%c4%99kujemy) | N/A |
-| 24 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 27 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 7 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
+| 8 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Grota](http://twitter.com/search?q=Grota) | N/A |
+| 12 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 13 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 14 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
+| 15 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 16 | [#PedofiliaObywatelska](http://twitter.com/search?q=%23PedofiliaObywatelska) | N/A |
+| 17 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 18 | [Feio](http://twitter.com/search?q=Feio) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
+| 21 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 22 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 23 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
+| 24 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 25 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 26 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 27 | [Szczecin](http://twitter.com/search?q=Szczecin) | N/A |
 | 28 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
 | 29 | [Jakubas](http://twitter.com/search?q=Jakubas) | N/A |
-| 30 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 31 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
-| 32 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 33 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 34 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 36 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
-| 37 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 39 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 30 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 31 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 32 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 33 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 34 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 35 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
+| 36 | [bez was](http://twitter.com/search?q=bez+was) | N/A |
+| 37 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
+| 38 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 39 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
 | 40 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 41 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 42 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
-| 43 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 44 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 45 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 46 | [Wszystkiego Dobrego](http://twitter.com/search?q=Wszystkiego+Dobrego) | N/A |
-| 47 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 48 | [Dzięki](http://twitter.com/search?q=Dzi%c4%99ki) | N/A |
-| 49 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
-| 50 | [Murem](http://twitter.com/search?q=Murem) | N/A |
+| 41 | [rmf fm](http://twitter.com/search?q=rmf+fm) | N/A |
+| 42 | [Nowe Miasto](http://twitter.com/search?q=Nowe+Miasto) | N/A |
+| 43 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 44 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 45 | [Dzięki](http://twitter.com/search?q=Dzi%c4%99ki) | N/A |
+| 46 | [Żemła](http://twitter.com/search?q=%c5%bbem%c5%82a) | N/A |
+| 47 | [Dziękujemy](http://twitter.com/search?q=Dzi%c4%99kujemy) | N/A |
+| 48 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 49 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 50 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
 
 
 

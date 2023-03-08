@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-08 10:16:34 UTC`
+📆 Last Updated: `2023-03-08 11:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
 | 5 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
 | 6 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 7 | [Grota](http://twitter.com/search?q=Grota) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
-| 10 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 11 | [#mineła8](http://twitter.com/search?q=%23mine%c5%82a8) | N/A |
-| 12 | [Kobiet](http://twitter.com/search?q=Kobiet) | N/A |
-| 13 | [Kobiet](http://twitter.com/search?q=Kobiet) | N/A |
-| 14 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 7 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
+| 8 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Grota](http://twitter.com/search?q=Grota) | N/A |
+| 12 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 13 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 14 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 15 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 16 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 17 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 16 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 17 | [Waszego](http://twitter.com/search?q=Waszego) | N/A |
 | 18 | [Feio](http://twitter.com/search?q=Feio) | N/A |
-| 19 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
-| 22 | [Dziękujemy](http://twitter.com/search?q=Dzi%c4%99kujemy) | N/A |
-| 23 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 24 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 25 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 26 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 21 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 22 | [Kai Godek](http://twitter.com/search?q=Kai+Godek) | N/A |
+| 23 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 24 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 26 | [Szczecin](http://twitter.com/search?q=Szczecin) | N/A |
 | 27 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
 | 28 | [Jakubas](http://twitter.com/search?q=Jakubas) | N/A |
-| 29 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 30 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
-| 31 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 32 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 33 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 34 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 35 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
-| 36 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 37 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 38 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 29 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 30 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
+| 31 | [Platformy Obywatelskiej](http://twitter.com/search?q=Platformy+Obywatelskiej) | N/A |
+| 32 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 33 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 34 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
+| 35 | [bez was](http://twitter.com/search?q=bez+was) | N/A |
+| 36 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
+| 37 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
+| 38 | [Motoru](http://twitter.com/search?q=Motoru) | N/A |
 | 39 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 40 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 41 | [Prawda](http://twitter.com/search?q=Prawda) | N/A |
-| 42 | [Grocie](http://twitter.com/search?q=Grocie) | N/A |
-| 43 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 44 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 45 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 46 | [Wszystkiego Dobrego](http://twitter.com/search?q=Wszystkiego+Dobrego) | N/A |
-| 47 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 48 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
-| 49 | [Murem](http://twitter.com/search?q=Murem) | N/A |
+| 40 | [rmf fm](http://twitter.com/search?q=rmf+fm) | N/A |
+| 41 | [Nowe Miasto](http://twitter.com/search?q=Nowe+Miasto) | N/A |
+| 42 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 43 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 44 | [Dzięki](http://twitter.com/search?q=Dzi%c4%99ki) | N/A |
+| 45 | [Żemła](http://twitter.com/search?q=%c5%bbem%c5%82a) | N/A |
+| 46 | [Dziękujemy](http://twitter.com/search?q=Dzi%c4%99kujemy) | N/A |
+| 47 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 48 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 49 | [Kai Havertz](http://twitter.com/search?q=Kai+Havertz) | Kai Havertz is a German professional footballer who plays as an attacking midfielder for Bayer Leverkusen and the German national team. The name "Kai Havertz" is derived from the German words "Kai" (meaning "ocean") and "Havertz" (meaning "fields"). |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-08 10:16:49 UTC`
+📆 Last Updated: `2023-03-08 11:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 2 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
-| 5 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
-| 6 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 7 | [#CodeKunst55_WENDYxYerinBaek](http://twitter.com/search?q=%23CodeKunst55_WENDYxYerinBaek) | N/A |
-| 8 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 1 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
+| 2 | [#BarDa](http://twitter.com/search?q=%23BarDa) | N/A |
+| 3 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 4 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 5 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 6 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
+| 7 | [LEE JONG SUK](http://twitter.com/search?q=LEE+JONG+SUK) | N/A |
+| 8 | [#KathNielPaysItRight](http://twitter.com/search?q=%23KathNielPaysItRight) | N/A |
 | 9 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 10 | [#WeGoWednesday](http://twitter.com/search?q=%23WeGoWednesday) | N/A |
-| 11 | [#YGIGMenpa](http://twitter.com/search?q=%23YGIGMenpa) | N/A |
-| 12 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 13 | [Lee Jong Suk](http://twitter.com/search?q=Lee+Jong+Suk) | N/A |
-| 14 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 15 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 16 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 10 | [THE BOYZ](http://twitter.com/search?q=THE+BOYZ) | THE BOYZ is a South Korean boy band formed by Cre.ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Hwall, Sunwoo and Eric. The name THE BOYZ is an acronym for "The Boys of Zodiac". |
+| 11 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 12 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 13 | [ABANTE BABAE](http://twitter.com/search?q=ABANTE+BABAE) | N/A |
+| 14 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 15 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 16 | [Milena](http://twitter.com/search?q=Milena) | N/A |
 | 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 18 | [King and Queen](http://twitter.com/search?q=King+and+Queen) | N/A |
-| 19 | [ABANTE BABAE](http://twitter.com/search?q=ABANTE+BABAE) | N/A |
-| 20 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 21 | [Encarnacion](http://twitter.com/search?q=Encarnacion) | N/A |
-| 22 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 23 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
-| 24 | [THE BOYZ](http://twitter.com/search?q=THE+BOYZ) | THE BOYZ is a South Korean boy band formed by Cre.ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Hwall, Sunwoo and Eric. The name THE BOYZ is an acronym for "The Boys of Zodiac". |
+| 18 | [K-Verse](http://twitter.com/search?q=K-Verse) | N/A |
+| 19 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 20 | [King and Queen](http://twitter.com/search?q=King+and+Queen) | N/A |
+| 21 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 22 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 23 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 24 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
 | 25 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
-| 26 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 27 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 28 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 29 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 30 | [admu](http://twitter.com/search?q=admu) | N/A |
+| 26 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 27 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
+| 28 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 29 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 30 | [MUSIC INVASION WITH FELIP](http://twitter.com/search?q=MUSIC+INVASION+WITH+FELIP) | N/A |
 | 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 32 | [Kathryn Bernardo](http://twitter.com/search?q=Kathryn+Bernardo) | N/A |
-| 33 | [#YouGoIGo](http://twitter.com/search?q=%23YouGoIGo) | N/A |
-| 34 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
-| 35 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 36 | [#FELIPonPrambors](http://twitter.com/search?q=%23FELIPonPrambors) | N/A |
-| 37 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 38 | [#ENHYPEN_SUNOO](http://twitter.com/search?q=%23ENHYPEN_SUNOO) | N/A |
-| 39 | [#ShowtimeLarongLaro](http://twitter.com/search?q=%23ShowtimeLarongLaro) | N/A |
-| 40 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
-| 41 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 42 | [#YesToJeepneyModernization](http://twitter.com/search?q=%23YesToJeepneyModernization) | N/A |
-| 43 | [#WEcanbeEquALL](http://twitter.com/search?q=%23WEcanbeEquALL) | N/A |
-| 44 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
-| 45 | [#11thKAIAxZAIADay](http://twitter.com/search?q=%2311thKAIAxZAIADay) | N/A |
-| 46 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
+| 33 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 34 | [#CodeKunst55_WENDYxYerinBaek](http://twitter.com/search?q=%23CodeKunst55_WENDYxYerinBaek) | N/A |
+| 35 | [#WeGoWednesday](http://twitter.com/search?q=%23WeGoWednesday) | N/A |
+| 36 | [#YouGoIGo](http://twitter.com/search?q=%23YouGoIGo) | N/A |
+| 37 | [#ygigmenpa](http://twitter.com/search?q=%23ygigmenpa) | N/A |
+| 38 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 39 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 40 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 41 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 42 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 43 | [#FELIPonPrambors](http://twitter.com/search?q=%23FELIPonPrambors) | N/A |
+| 44 | [#KVERSEPH](http://twitter.com/search?q=%23KVERSEPH) | N/A |
+| 45 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
+| 46 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
+| 47 | [#YesToJeepneyModernization](http://twitter.com/search?q=%23YesToJeepneyModernization) | N/A |
+| 48 | [#KAIA](http://twitter.com/search?q=%23KAIA) | N/A |
+| 49 | [#WEcanbeEquALL](http://twitter.com/search?q=%23WEcanbeEquALL) | N/A |
+| 50 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-08 10:17:14 UTC`
+📆 Last Updated: `2023-03-08 11:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [יום האישה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
 | 2 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 3 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 4 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 7 | [ר מיכאל](http://twitter.com/search?q=%d7%a8+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
-| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 9 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 10 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 11 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
-| 12 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
-| 13 | [של מיכאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
-| 14 | [ברק רביד](http://twitter.com/search?q=%d7%91%d7%a8%d7%a7+%d7%a8%d7%91%d7%99%d7%93) | N/A |
-| 15 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 16 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
-| 17 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 18 | [קוקה קולה](http://twitter.com/search?q=%d7%a7%d7%95%d7%a7%d7%94+%d7%a7%d7%95%d7%9c%d7%94) | N/A |
-| 19 | [מיליון דולר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
-| 20 | [דירוג אשראי](http://twitter.com/search?q=%d7%93%d7%99%d7%a8%d7%95%d7%92+%d7%90%d7%a9%d7%a8%d7%90%d7%99) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
+| 8 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 9 | [ר מיכאל](http://twitter.com/search?q=%d7%a8+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
+| 10 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
+| 11 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 12 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 13 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
+| 14 | [של לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 15 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 16 | [קוקה קולה](http://twitter.com/search?q=%d7%a7%d7%95%d7%a7%d7%94+%d7%a7%d7%95%d7%9c%d7%94) | N/A |
+| 17 | [דירוג אשראי](http://twitter.com/search?q=%d7%93%d7%99%d7%a8%d7%95%d7%92+%d7%90%d7%a9%d7%a8%d7%90%d7%99) | N/A |
+| 18 | [של מיכאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [מיליון דולר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
+| 21 | [של פרידמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f) | N/A |
 | 22 | [רון ארד](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%90%d7%a8%d7%93) | N/A |
 | 23 | [של מודי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%95%d7%93%d7%99) | N/A |
 | 24 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
 | 25 | [ישראל זיו](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%96%d7%99%d7%95) | N/A |
 | 26 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
 | 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 28 | [של בנק ישראל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 29 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
-| 30 | [האחים יניב](http://twitter.com/search?q=%d7%94%d7%90%d7%97%d7%99%d7%9d+%d7%99%d7%a0%d7%99%d7%91) | N/A |
-| 31 | [של פרידמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f) | N/A |
-| 32 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 33 | [האחים הלל](http://twitter.com/search?q=%d7%94%d7%90%d7%97%d7%99%d7%9d+%d7%94%d7%9c%d7%9c) | N/A |
-| 34 | [של דיסקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
-| 35 | [לכל מילה](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%99%d7%9c%d7%94) | N/A |
-| 36 | [ניב רסקין](http://twitter.com/search?q=%d7%a0%d7%99%d7%91+%d7%a8%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
-| 37 | [היו קשורים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%a7%d7%a9%d7%95%d7%a8%d7%99%d7%9d) | N/A |
-| 38 | [לפיד טס](http://twitter.com/search?q=%d7%9c%d7%a4%d7%99%d7%93+%d7%98%d7%a1) | N/A |
-| 39 | [עם קטינות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a7%d7%98%d7%99%d7%a0%d7%95%d7%aa) | N/A |
-| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 41 | [לו רוב](http://twitter.com/search?q=%d7%9c%d7%95+%d7%a8%d7%95%d7%91) | N/A |
-| 42 | [ר שלמה](http://twitter.com/search?q=%d7%a8+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 43 | [של לוין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 44 | [קואליציה של](http://twitter.com/search?q=%d7%a7%d7%95%d7%90%d7%9c%d7%99%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
-| 45 | [יניב הי](http://twitter.com/search?q=%d7%99%d7%a0%d7%99%d7%91+%d7%94%d7%99) | N/A |
-| 46 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
-| 47 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
-| 48 | [אליעזר שקדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a2%d7%96%d7%a8+%d7%a9%d7%a7%d7%93%d7%99) | N/A |
-| 49 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
-| 50 | [עם מתנחלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%99%d7%9d) | N/A |
+| 28 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
+| 29 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
+| 30 | [האחים הלל](http://twitter.com/search?q=%d7%94%d7%90%d7%97%d7%99%d7%9d+%d7%94%d7%9c%d7%9c) | N/A |
+| 31 | [של דיסקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
+| 32 | [של בנק ישראל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 33 | [היו קשורים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%a7%d7%a9%d7%95%d7%a8%d7%99%d7%9d) | N/A |
+| 34 | [לפיד טס](http://twitter.com/search?q=%d7%9c%d7%a4%d7%99%d7%93+%d7%98%d7%a1) | N/A |
+| 35 | [עם קטינות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a7%d7%98%d7%99%d7%a0%d7%95%d7%aa) | N/A |
+| 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 37 | [לו רוב](http://twitter.com/search?q=%d7%9c%d7%95+%d7%a8%d7%95%d7%91) | N/A |
+| 38 | [האחים יניב](http://twitter.com/search?q=%d7%94%d7%90%d7%97%d7%99%d7%9d+%d7%99%d7%a0%d7%99%d7%91) | N/A |
+| 39 | [ר שלמה](http://twitter.com/search?q=%d7%a8+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 40 | [ניב רסקין](http://twitter.com/search?q=%d7%a0%d7%99%d7%91+%d7%a8%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
+| 41 | [יניב הי](http://twitter.com/search?q=%d7%99%d7%a0%d7%99%d7%91+%d7%94%d7%99) | N/A |
+| 42 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
+| 43 | [קואליציה של](http://twitter.com/search?q=%d7%a7%d7%95%d7%90%d7%9c%d7%99%d7%a6%d7%99%d7%94+%d7%a9%d7%9c) | N/A |
+| 44 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
+| 45 | [אליעזר שקדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a2%d7%96%d7%a8+%d7%a9%d7%a7%d7%93%d7%99) | N/A |
+| 46 | [של רוטמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 47 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
+| 48 | [עם מתנחלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%99%d7%9d) | N/A |
+| 49 | [עבד אל](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%90%d7%9c) | N/A |
+| 50 | [הגולם קם](http://twitter.com/search?q=%d7%94%d7%92%d7%95%d7%9c%d7%9d+%d7%a7%d7%9d) | N/A |
 
 
 

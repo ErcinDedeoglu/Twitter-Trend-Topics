@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-08 10:17:02 UTC`
+📆 Last Updated: `2023-03-08 11:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#8martdunyakadinlargunu](http://twitter.com/search?q=%238martdunyakadinlargunu) | N/A |
-| 2 | [#OptimusinuOpinu](http://twitter.com/search?q=%23OptimusinuOpinu) | N/A |
-| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 2 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 3 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
 | 4 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 5 | [DağdaKeklik BurdaKokoreç](http://twitter.com/search?q=Da%c4%9fdaKeklik+BurdaKokore%c3%a7) | N/A |
-| 6 | [Kaptan](http://twitter.com/search?q=Kaptan) | N/A |
-| 7 | [Zehirli gemi](http://twitter.com/search?q=Zehirli+gemi) | N/A |
-| 8 | [Yükseköğretim Kurumları Sınavı](http://twitter.com/search?q=Y%c3%bcksek%c3%b6%c4%9fretim+Kurumlar%c4%b1+S%c4%b1nav%c4%b1) | N/A |
-| 9 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 10 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
-| 11 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
-| 12 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 13 | [Bekir](http://twitter.com/search?q=Bekir) | N/A |
-| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 15 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
-| 16 | [Seninde](http://twitter.com/search?q=Seninde) | N/A |
-| 17 | [Clara Zetkin](http://twitter.com/search?q=Clara+Zetkin) | N/A |
-| 18 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
-| 19 | [Başta Şehit](http://twitter.com/search?q=Ba%c5%9fta+%c5%9eehit) | N/A |
+| 5 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
+| 6 | [DağdaKeklik BurdaKokoreç](http://twitter.com/search?q=Da%c4%9fdaKeklik+BurdaKokore%c3%a7) | N/A |
+| 7 | [Kaptan](http://twitter.com/search?q=Kaptan) | N/A |
+| 8 | [RESPECT JUNGKOOK](http://twitter.com/search?q=RESPECT+JUNGKOOK) | N/A |
+| 9 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
+| 10 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 11 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 12 | [Yükseköğretim Kurumları Sınavı](http://twitter.com/search?q=Y%c3%bcksek%c3%b6%c4%9fretim+Kurumlar%c4%b1+S%c4%b1nav%c4%b1) | N/A |
+| 13 | [Mustafa Kemal Atatürk](http://twitter.com/search?q=Mustafa+Kemal+Atat%c3%bcrk) | Mustafa Kemal Atatürk was a Turkish military officer, revolutionary statesman, and the first President of the Republic of Turkey. His name is a combination of the words "Mustafa" (which means "the chosen one"), "Kemal" (which means "perfection"), and "Atatürk" (which means "Father of the Turks"). He is widely regarded as the founder of modern Turkey and is credited with transforming the country from an agrarian society into a modern, secular, and democratic nation. |
+| 14 | [zehirli](http://twitter.com/search?q=zehirli) | N/A |
+| 15 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
+| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 17 | [Metres](http://twitter.com/search?q=Metres) | N/A |
+| 18 | [Düzenli](http://twitter.com/search?q=D%c3%bczenli) | N/A |
+| 19 | [Beşir](http://twitter.com/search?q=Be%c5%9fir) | N/A |
 | 20 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 21 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
-| 22 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 23 | [Taksim](http://twitter.com/search?q=Taksim) | N/A |
-| 24 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 25 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 26 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 27 | [Tuhaf](http://twitter.com/search?q=Tuhaf) | N/A |
-| 28 | [Köpeğin](http://twitter.com/search?q=K%c3%b6pe%c4%9fin) | N/A |
-| 29 | [İkisine](http://twitter.com/search?q=%c4%b0kisine) | N/A |
-| 30 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 31 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 32 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 33 | [Çiçek](http://twitter.com/search?q=%c3%87i%c3%a7ek) | N/A |
-| 34 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 35 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
-| 36 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 37 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 38 | [#yks2023](http://twitter.com/search?q=%23yks2023) | N/A |
-| 39 | [#JinJiyanAzadîDideJiyîn](http://twitter.com/search?q=%23JinJiyanAzad%c3%aeDideJiy%c3%aen) | N/A |
-| 40 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 41 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
-| 42 | [#doas](http://twitter.com/search?q=%23doas) | N/A |
-| 43 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
-| 44 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 45 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 46 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 47 | [#OYumuzuniversiteye](http://twitter.com/search?q=%23OYumuzuniversiteye) | N/A |
-| 48 | [#SOKE](http://twitter.com/search?q=%23SOKE) | N/A |
-| 49 | [#TariheNot](http://twitter.com/search?q=%23TariheNot) | N/A |
+| 21 | [Başta Şehit](http://twitter.com/search?q=Ba%c5%9fta+%c5%9eehit) | N/A |
+| 22 | [Seninde](http://twitter.com/search?q=Seninde) | N/A |
+| 23 | [Köpeğin](http://twitter.com/search?q=K%c3%b6pe%c4%9fin) | N/A |
+| 24 | [Adalet Bakanı](http://twitter.com/search?q=Adalet+Bakan%c4%b1) | N/A |
+| 25 | [İkisine](http://twitter.com/search?q=%c4%b0kisine) | N/A |
+| 26 | [Taksim'de](http://twitter.com/search?q=Taksim%27de) | N/A |
+| 27 | [Muhammed](http://twitter.com/search?q=Muhammed) | N/A |
+| 28 | [Dersim](http://twitter.com/search?q=Dersim) | N/A |
+| 29 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 30 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
+| 31 | [Clara Zetkin](http://twitter.com/search?q=Clara+Zetkin) | N/A |
+| 32 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 33 | [M. Kemal Atatürk](http://twitter.com/search?q=M.+Kemal+Atat%c3%bcrk) | N/A |
+| 34 | [Tuhaf](http://twitter.com/search?q=Tuhaf) | N/A |
+| 35 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 36 | [Taha](http://twitter.com/search?q=Taha) | N/A |
+| 37 | [Deden](http://twitter.com/search?q=Deden) | N/A |
+| 38 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 39 | [#HDPadayÇıkar](http://twitter.com/search?q=%23HDPaday%c3%87%c4%b1kar) | N/A |
+| 40 | [#JinJiyanAzadîDideJiyîn](http://twitter.com/search?q=%23JinJiyanAzad%c3%aeDideJiy%c3%aen) | N/A |
+| 41 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 42 | [#DoAs](http://twitter.com/search?q=%23DoAs) | N/A |
+| 43 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 44 | [#GönüllerBirOlsun](http://twitter.com/search?q=%23G%c3%b6n%c3%bcllerBirOlsun) | N/A |
+| 45 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 46 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
+| 47 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 48 | [#OYumuzuniversiteye](http://twitter.com/search?q=%23OYumuzuniversiteye) | N/A |
+| 49 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
 
 
 
