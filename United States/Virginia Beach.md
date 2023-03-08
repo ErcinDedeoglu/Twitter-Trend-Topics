@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-03-08 03:23:47 UTC`
+📆 Last Updated: `2023-03-08 04:52:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 2 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 3 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 4 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 9 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 11 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
-| 12 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
-| 13 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 14 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 15 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 16 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 17 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 19 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 2 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 3 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
+| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 7 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 8 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 11 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 12 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 13 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 14 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 15 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 16 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 17 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 18 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 19 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 20 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 21 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 22 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 23 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 24 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
-| 25 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 26 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 27 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 28 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 29 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 30 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
-| 31 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 32 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 33 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 34 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 35 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 36 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 37 | [Kelly Oubre](http://twitter.com/search?q=Kelly+Oubre) | N/A |
-| 38 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 39 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
-| 40 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 41 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 42 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 43 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
-| 44 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
-| 45 | [Brooklyn Bridges](http://twitter.com/search?q=Brooklyn+Bridges) | N/A |
-| 46 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 47 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 48 | [Saric](http://twitter.com/search?q=Saric) | N/A |
-| 49 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 21 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 22 | [Yoenis Cespedes](http://twitter.com/search?q=Yoenis+Cespedes) | N/A |
+| 23 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 24 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 25 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
+| 26 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 27 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 28 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 29 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 30 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
+| 31 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 32 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 33 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 34 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 35 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
+| 36 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 37 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 38 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 39 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
+| 40 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 41 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 42 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 43 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 44 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
+| 45 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 46 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
+| 47 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
+| 48 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 49 | [Tom de Blok](http://twitter.com/search?q=Tom+de+Blok) | N/A |
 
 
 

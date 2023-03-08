@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-08 03:22:59 UTC`
+📆 Last Updated: `2023-03-08 04:51:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 2 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 3 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
-| 4 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 5 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
-| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 7 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 8 | [INSUPORTÁVEL](http://twitter.com/search?q=INSUPORT%c3%81VEL) | N/A |
-| 9 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 10 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 11 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 12 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 13 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 14 | [Fred Boco Roso](http://twitter.com/search?q=Fred+Boco+Roso) | N/A |
-| 15 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 16 | [#TeamAlface](http://twitter.com/search?q=%23TeamAlface) | N/A |
-| 17 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 18 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 19 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 20 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 21 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 22 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 23 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
-| 24 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
-| 25 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 26 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 27 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 28 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
-| 29 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 30 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 31 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 32 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
-| 33 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 1 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
+| 2 | [INSUPORTÁVEL](http://twitter.com/search?q=INSUPORT%c3%81VEL) | N/A |
+| 3 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 4 | [DIA DE FLU](http://twitter.com/search?q=DIA+DE+FLU) | N/A |
+| 5 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 6 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 7 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 8 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 9 | [Fred Boco Roso](http://twitter.com/search?q=Fred+Boco+Roso) | N/A |
+| 10 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
+| 11 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 12 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 13 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 14 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 15 | [paiva](http://twitter.com/search?q=paiva) | N/A |
+| 16 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 17 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 18 | [Tchau Key](http://twitter.com/search?q=Tchau+Key) | N/A |
+| 19 | [this is us](http://twitter.com/search?q=this+is+us) | "This is us" is a phrase used to express a sense of belonging and unity. It can be used to refer to a group of people who share something in common, such as a family, team, or community. It can also be used to express solidarity and pride in one's identity. |
+| 20 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 21 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 22 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 23 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
+| 24 | [FELIZ DIA DAS MULHERES](http://twitter.com/search?q=FELIZ+DIA+DAS+MULHERES) | N/A |
+| 25 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 26 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 27 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 28 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 29 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 30 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 31 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 32 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 33 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
 | 34 | [Arrozes](http://twitter.com/search?q=Arrozes) | N/A |
-| 35 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 36 | [TEAM CHIARA](http://twitter.com/search?q=TEAM+CHIARA) | N/A |
-| 37 | [Só 56%](http://twitter.com/search?q=S%c3%b3+56%25) | N/A |
-| 38 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
-| 39 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 40 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 35 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
+| 36 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 37 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 38 | [Só 56%](http://twitter.com/search?q=S%c3%b3+56%25) | N/A |
+| 39 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 40 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
 | 41 | [Vem Key](http://twitter.com/search?q=Vem+Key) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [PARAGUAIA](http://twitter.com/search?q=PARAGUAIA) | N/A |
-| 44 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
-| 45 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 46 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 47 | [Carolana](http://twitter.com/search?q=Carolana) | N/A |
-| 48 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
-| 49 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 50 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 42 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 43 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 44 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
+| 45 | [thaisa](http://twitter.com/search?q=thaisa) | N/A |
+| 46 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 47 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 48 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 49 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 50 | [Freud](http://twitter.com/search?q=Freud) | N/A |
 
 
 

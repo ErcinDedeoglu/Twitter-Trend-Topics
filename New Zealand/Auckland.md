@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-08 03:23:37 UTC`
+📆 Last Updated: `2023-03-08 04:52:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 7 | [Wanaka](http://twitter.com/search?q=Wanaka) | N/A |
-| 8 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 8 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 10 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 10 | [Census](http://twitter.com/search?q=Census) | N/A |
 | 11 | [Fiordland](http://twitter.com/search?q=Fiordland) | N/A |
 | 12 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 13 | [Ruth Dyson](http://twitter.com/search?q=Ruth+Dyson) | N/A |
-| 14 | [#LoveOnTourAuckland](http://twitter.com/search?q=%23LoveOnTourAuckland) | N/A |
+| 13 | [#LoveOnTourAuckland](http://twitter.com/search?q=%23LoveOnTourAuckland) | N/A |
+| 14 | [Ruth Dyson](http://twitter.com/search?q=Ruth+Dyson) | N/A |
 | 15 | [Piha](http://twitter.com/search?q=Piha) | N/A |
-| 16 | [Willie](http://twitter.com/search?q=Willie) | N/A |
+| 16 | [Willie Jackson](http://twitter.com/search?q=Willie+Jackson) | N/A |
 | 17 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 18 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 20 | [Maharey](http://twitter.com/search?q=Maharey) | N/A |
-| 21 | [NZ European](http://twitter.com/search?q=NZ+European) | N/A |
-| 22 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 23 | [Plunket](http://twitter.com/search?q=Plunket) | N/A |
-| 24 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 25 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 19 | [NZ European](http://twitter.com/search?q=NZ+European) | N/A |
+| 20 | [Plunket](http://twitter.com/search?q=Plunket) | N/A |
+| 21 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 22 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 23 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 24 | [Maharey](http://twitter.com/search?q=Maharey) | N/A |
+| 25 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 26 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 27 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 28 | [Mt Smart](http://twitter.com/search?q=Mt+Smart) | N/A |
-| 29 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 30 | [national standards](http://twitter.com/search?q=national+standards) | N/A |
-| 31 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 32 | [Wairarapa](http://twitter.com/search?q=Wairarapa) | N/A |
-| 33 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 34 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 35 | [Stats](http://twitter.com/search?q=Stats) | N/A |
-| 36 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
-| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 38 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 39 | [Simeon Brown](http://twitter.com/search?q=Simeon+Brown) | N/A |
-| 40 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 41 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 42 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
-| 43 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 44 | [Dunedin](http://twitter.com/search?q=Dunedin) | N/A |
-| 45 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 46 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 47 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 48 | [Silly](http://twitter.com/search?q=Silly) | N/A |
-| 49 | [Queenstown](http://twitter.com/search?q=Queenstown) | N/A |
-| 50 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 27 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
+| 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 29 | [national standards](http://twitter.com/search?q=national+standards) | N/A |
+| 30 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 31 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 32 | [wairarapa](http://twitter.com/search?q=wairarapa) | N/A |
+| 33 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
+| 34 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 35 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 36 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 37 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 38 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 39 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
+| 40 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 41 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 42 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 43 | [Silly](http://twitter.com/search?q=Silly) | N/A |
+| 44 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 45 | [Stats](http://twitter.com/search?q=Stats) | N/A |
+| 46 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 47 | [Dunedin](http://twitter.com/search?q=Dunedin) | N/A |
+| 48 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
+| 49 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 50 | [waka kotahi](http://twitter.com/search?q=waka+kotahi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-08 03:23:06 UTC`
+📆 Last Updated: `2023-03-08 04:51:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
+| 2 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 3 | [#EqualPayDay](http://twitter.com/search?q=%23EqualPayDay) | N/A |
-| 4 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
-| 5 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 6 | [Frauentag](http://twitter.com/search?q=Frauentag) | N/A |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
 | 10 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 11 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
-| 12 | [strafraum](http://twitter.com/search?q=strafraum) | N/A |
-| 13 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 11 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 13 | [Heilpraktiker](http://twitter.com/search?q=Heilpraktiker) | N/A |
 | 14 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 15 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 16 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 17 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 15 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 16 | [neapel](http://twitter.com/search?q=neapel) | N/A |
+| 17 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 18 | [Imam Mahdi](http://twitter.com/search?q=Imam+Mahdi) | N/A |
-| 19 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 20 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 21 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
-| 22 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 19 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 20 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 21 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 22 | [Gender Pay Gap](http://twitter.com/search?q=Gender+Pay+Gap) | N/A |
 | 23 | [feuerwehrauto](http://twitter.com/search?q=feuerwehrauto) | N/A |
-| 24 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 25 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 26 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 27 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
-| 28 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 29 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 30 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 31 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 32 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 24 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 25 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 26 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 27 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 28 | [spahn](http://twitter.com/search?q=spahn) | N/A |
+| 29 | [süle](http://twitter.com/search?q=s%c3%bcle) | N/A |
+| 30 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 31 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
+| 32 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 33 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 34 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 35 | [Wiederholung](http://twitter.com/search?q=Wiederholung) | N/A |
-| 36 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 37 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
-| 38 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 39 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 40 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 34 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 35 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
+| 36 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 37 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 38 | [Lust auf Arbeit](http://twitter.com/search?q=Lust+auf+Arbeit) | N/A |
+| 39 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 40 | [wettbewerbsverzerrung](http://twitter.com/search?q=wettbewerbsverzerrung) | N/A |
+| 41 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 | 42 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 43 | [wettbewerbsverzerrung](http://twitter.com/search?q=wettbewerbsverzerrung) | N/A |
-| 44 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 45 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 46 | [haftstrafen](http://twitter.com/search?q=haftstrafen) | N/A |
-| 47 | [Moleküle](http://twitter.com/search?q=Molek%c3%bcle) | N/A |
-| 48 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 49 | [innenministerium](http://twitter.com/search?q=innenministerium) | N/A |
-| 50 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 43 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 44 | [haftstrafen](http://twitter.com/search?q=haftstrafen) | N/A |
+| 45 | [moleküle](http://twitter.com/search?q=molek%c3%bcle) | N/A |
+| 46 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 47 | [Wiederholung](http://twitter.com/search?q=Wiederholung) | N/A |
+| 48 | [innenministerium](http://twitter.com/search?q=innenministerium) | N/A |
+| 49 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 50 | [asyl](http://twitter.com/search?q=asyl) | N/A |
 
 
 

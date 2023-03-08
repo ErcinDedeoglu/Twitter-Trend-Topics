@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-08 03:23:58 UTC`
+📆 Last Updated: `2023-03-08 04:52:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [#自分の誕生日と同じ図鑑Noのポケモン](http://twitter.com/search?q=%23%e8%87%aa%e5%88%86%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%a8%e5%90%8c%e3%81%98%e5%9b%b3%e9%91%91No%e3%81%ae%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
 | 2 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
-| 3 | [#国際女性デー](http://twitter.com/search?q=%23%e5%9b%bd%e9%9a%9b%e5%a5%b3%e6%80%a7%e3%83%87%e3%83%bc) | N/A |
+| 3 | [フリーレン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
 | 4 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
-| 5 | [爆破予告](http://twitter.com/search?q=%e7%88%86%e7%a0%b4%e4%ba%88%e5%91%8a) | 爆破予告 is a Japanese phrase that translates to "explosive warning". It is used to indicate that an area is about to be subject to an explosive event, such as a demolition or fireworks display. |
-| 6 | [キングレックス](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 7 | [グレンザウルス](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%82%b6%e3%82%a6%e3%83%ab%e3%82%b9) | N/A |
-| 8 | [ミルクコーヒー](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%82%af%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc) | N/A |
-| 9 | [フリーレン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
-| 10 | [ペンラカバー](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%83%a9%e3%82%ab%e3%83%90%e3%83%bc) | N/A |
-| 11 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 5 | [#国際女性デー](http://twitter.com/search?q=%23%e5%9b%bd%e9%9a%9b%e5%a5%b3%e6%80%a7%e3%83%87%e3%83%bc) | N/A |
+| 6 | [#絶対に許さないゲーム](http://twitter.com/search?q=%23%e7%b5%b6%e5%af%be%e3%81%ab%e8%a8%b1%e3%81%95%e3%81%aa%e3%81%84%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 7 | [爆破予告](http://twitter.com/search?q=%e7%88%86%e7%a0%b4%e4%ba%88%e5%91%8a) | 爆破予告 is a Japanese phrase that translates to "explosive warning". It is used to indicate that an area is about to be subject to an explosive event, such as a demolition or fireworks display. |
+| 8 | [カルタヘナ法](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%82%bf%e3%83%98%e3%83%8a%e6%b3%95) | N/A |
+| 9 | [グレンザウルス](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%82%b6%e3%82%a6%e3%83%ab%e3%82%b9) | N/A |
+| 10 | [ミルクコーヒー](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%82%af%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc) | N/A |
+| 11 | [キングレックス](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%ac%e3%83%83%e3%82%af%e3%82%b9) | N/A |
 | 12 | [ダイナソー竜崎](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%82%bd%e3%83%bc%e7%ab%9c%e5%b4%8e) | N/A |
-| 13 | [コーラフロート](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%ad%e3%83%bc%e3%83%88) | N/A |
-| 14 | [#ローソンで元気ハツラツ](http://twitter.com/search?q=%23%e3%83%ad%e3%83%bc%e3%82%bd%e3%83%b3%e3%81%a7%e5%85%83%e6%b0%97%e3%83%8f%e3%83%84%e3%83%a9%e3%83%84) | N/A |
-| 15 | [箸の持ち方](http://twitter.com/search?q=%e7%ae%b8%e3%81%ae%e6%8c%81%e3%81%a1%e6%96%b9) | 箸の持ち方 (hashi no mochikata) is a phrase that literally translates to "the way of holding chopsticks". It is a phrase used to refer to the proper etiquette for using chopsticks, such as not pointing them at someone or sticking them upright in food. |
-| 16 | [餃子の日](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
-| 17 | [超越進化薬](http://twitter.com/search?q=%e8%b6%85%e8%b6%8a%e9%80%b2%e5%8c%96%e8%96%ac) | N/A |
-| 18 | [#ジュースオレンジジュース](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 19 | [低所得子育て世帯](http://twitter.com/search?q=%e4%bd%8e%e6%89%80%e5%be%97%e5%ad%90%e8%82%b2%e3%81%a6%e4%b8%96%e5%b8%af) | N/A |
-| 20 | [エレカシ](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%82%ab%e3%82%b7) | N/A |
-| 21 | [カルタヘナ法違反](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%82%bf%e3%83%98%e3%83%8a%e6%b3%95%e9%81%95%e5%8f%8d) | N/A |
-| 22 | [子ども1人5万円給付](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%821%e4%ba%ba5%e4%b8%87%e5%86%86%e7%b5%a6%e4%bb%98) | N/A |
-| 23 | [世界ふしぎ発見](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%b5%e3%81%97%e3%81%8e%e7%99%ba%e8%a6%8b) | 世界ふしぎ発見 (Sekai Fushigi Hakken) is a Japanese television show that has been airing since 1981. It is a documentary series that explores mysterious phenomena from around the world. In English, the title translates to "World's Mysterious Discoveries". |
-| 24 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
-| 25 | [種崎さん](http://twitter.com/search?q=%e7%a8%ae%e5%b4%8e%e3%81%95%e3%82%93) | 種崎さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Tanazaki". |
-| 26 | [女性9人](http://twitter.com/search?q=%e5%a5%b3%e6%80%a79%e4%ba%ba) | N/A |
-| 27 | [ドゴラン](http://twitter.com/search?q=%e3%83%89%e3%82%b4%e3%83%a9%e3%83%b3) | N/A |
-| 28 | [草野さん](http://twitter.com/search?q=%e8%8d%89%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 29 | [瀬戸内レモンタルタルベーコンてりたま](http://twitter.com/search?q=%e7%80%ac%e6%88%b8%e5%86%85%e3%83%ac%e3%83%a2%e3%83%b3%e3%82%bf%e3%83%ab%e3%82%bf%e3%83%ab%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%81%a6%e3%82%8a%e3%81%9f%e3%81%be) | N/A |
-| 30 | [ジュラシックパワー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%83%91%e3%83%af%e3%83%bc) | N/A |
-| 31 | [うぐいす餡](http://twitter.com/search?q=%e3%81%86%e3%81%90%e3%81%84%e3%81%99%e9%a4%a1) | N/A |
-| 32 | [計3億円申告漏れ](http://twitter.com/search?q=%e8%a8%883%e5%84%84%e5%86%86%e7%94%b3%e5%91%8a%e6%bc%8f%e3%82%8c) | N/A |
-| 33 | [生理の本](http://twitter.com/search?q=%e7%94%9f%e7%90%86%e3%81%ae%e6%9c%ac) | N/A |
-| 34 | [物価高対策](http://twitter.com/search?q=%e7%89%a9%e4%be%a1%e9%ab%98%e5%af%be%e7%ad%96) | N/A |
-| 35 | [国税指摘](http://twitter.com/search?q=%e5%9b%bd%e7%a8%8e%e6%8c%87%e6%91%98) | N/A |
-| 36 | [公明案判明](http://twitter.com/search?q=%e5%85%ac%e6%98%8e%e6%a1%88%e5%88%a4%e6%98%8e) | N/A |
-| 37 | [花やしき](http://twitter.com/search?q=%e8%8a%b1%e3%82%84%e3%81%97%e3%81%8d) | 花やしき (Hanayashiki) is a type of traditional Japanese garden, which is characterized by its use of colorful flowers and plants. The name literally translates to "flower garden" in English. |
-| 38 | [東出昌大](http://twitter.com/search?q=%e6%9d%b1%e5%87%ba%e6%98%8c%e5%a4%a7) | N/A |
-| 39 | [非正規公務員の4分の3](http://twitter.com/search?q=%e9%9d%9e%e6%ad%a3%e8%a6%8f%e5%85%ac%e5%8b%99%e5%93%a1%e3%81%ae4%e5%88%86%e3%81%ae3) | N/A |
-| 40 | [ホーンテッドマンション](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%b3%e3%83%86%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 41 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
-| 42 | [ワーキングプアの苦境](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%97%e3%82%a2%e3%81%ae%e8%8b%a6%e5%a2%83) | N/A |
-| 43 | [表側表示](http://twitter.com/search?q=%e8%a1%a8%e5%81%b4%e8%a1%a8%e7%a4%ba) | N/A |
-| 44 | [思い出拳](http://twitter.com/search?q=%e6%80%9d%e3%81%84%e5%87%ba%e6%8b%b3) | N/A |
-| 45 | [ガーシー氏欠席](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc%e6%b0%8f%e6%ac%a0%e5%b8%ad) | N/A |
-| 46 | [コーラ好き](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e5%a5%bd%e3%81%8d) | N/A |
-| 47 | [ゲッコー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
-| 48 | [石井亮次](http://twitter.com/search?q=%e7%9f%b3%e4%ba%95%e4%ba%ae%e6%ac%a1) | N/A |
-| 49 | [サバの日](http://twitter.com/search?q=%e3%82%b5%e3%83%90%e3%81%ae%e6%97%a5) | N/A |
+| 13 | [箸の持ち方](http://twitter.com/search?q=%e7%ae%b8%e3%81%ae%e6%8c%81%e3%81%a1%e6%96%b9) | 箸の持ち方 (hashi no mochikata) is a phrase that literally translates to "the way of holding chopsticks". It is a phrase used to refer to the proper etiquette for using chopsticks, such as not pointing them at someone or sticking them upright in food. |
+| 14 | [#あなたを餃子化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e9%a4%83%e5%ad%90%e5%8c%96) | N/A |
+| 15 | [ペンラカバー](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%83%a9%e3%82%ab%e3%83%90%e3%83%bc) | N/A |
+| 16 | [久留里線](http://twitter.com/search?q=%e4%b9%85%e7%95%99%e9%87%8c%e7%b7%9a) | N/A |
+| 17 | [餃子化診断](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e5%8c%96%e8%a8%ba%e6%96%ad) | N/A |
+| 18 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
+| 19 | [コーラフロート](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%ad%e3%83%bc%e3%83%88) | N/A |
+| 20 | [餃子の日](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
+| 21 | [メダカ販売](http://twitter.com/search?q=%e3%83%a1%e3%83%80%e3%82%ab%e8%b2%a9%e5%a3%b2) | N/A |
+| 22 | [初の逮捕](http://twitter.com/search?q=%e5%88%9d%e3%81%ae%e9%80%ae%e6%8d%95) | N/A |
+| 23 | [グローブ座](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%96%e5%ba%a7) | N/A |
+| 24 | [超越進化薬](http://twitter.com/search?q=%e8%b6%85%e8%b6%8a%e9%80%b2%e5%8c%96%e8%96%ac) | N/A |
+| 25 | [種崎敦美さん](http://twitter.com/search?q=%e7%a8%ae%e5%b4%8e%e6%95%a6%e7%be%8e%e3%81%95%e3%82%93) | N/A |
+| 26 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 27 | [バレンティン](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%b3%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
+| 28 | [#ローソンで元気ハツラツ](http://twitter.com/search?q=%23%e3%83%ad%e3%83%bc%e3%82%bd%e3%83%b3%e3%81%a7%e5%85%83%e6%b0%97%e3%83%8f%e3%83%84%e3%83%a9%e3%83%84) | N/A |
+| 29 | [遺伝子組み換え](http://twitter.com/search?q=%e9%81%ba%e4%bc%9d%e5%ad%90%e7%b5%84%e3%81%bf%e6%8f%9b%e3%81%88) | N/A |
+| 30 | [花やしき](http://twitter.com/search?q=%e8%8a%b1%e3%82%84%e3%81%97%e3%81%8d) | 花やしき (Hanayashiki) is a type of traditional Japanese garden, which is characterized by its use of colorful flowers and plants. The name literally translates to "flower garden" in English. |
+| 31 | [新アー写](http://twitter.com/search?q=%e6%96%b0%e3%82%a2%e3%83%bc%e5%86%99) | N/A |
+| 32 | [チーズてりたま](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%82%ba%e3%81%a6%e3%82%8a%e3%81%9f%e3%81%be) | N/A |
+| 33 | [Wのダンプラ](http://twitter.com/search?q=W%e3%81%ae%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 34 | [瀬戸内レモンタルタルベーコンてりたま](http://twitter.com/search?q=%e7%80%ac%e6%88%b8%e5%86%85%e3%83%ac%e3%83%a2%e3%83%b3%e3%82%bf%e3%83%ab%e3%82%bf%e3%83%ab%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%81%a6%e3%82%8a%e3%81%9f%e3%81%be) | N/A |
+| 35 | [ジュラシックパワー](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af%e3%83%91%e3%83%af%e3%83%bc) | N/A |
+| 36 | [沿線火災](http://twitter.com/search?q=%e6%b2%bf%e7%b7%9a%e7%81%ab%e7%81%bd) | N/A |
+| 37 | [上記以外の出演者登場の可能性](http://twitter.com/search?q=%e4%b8%8a%e8%a8%98%e4%bb%a5%e5%a4%96%e3%81%ae%e5%87%ba%e6%bc%94%e8%80%85%e7%99%bb%e5%a0%b4%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
+| 38 | [低所得子育て世帯](http://twitter.com/search?q=%e4%bd%8e%e6%89%80%e5%be%97%e5%ad%90%e8%82%b2%e3%81%a6%e4%b8%96%e5%b8%af) | N/A |
+| 39 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 40 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 41 | [ちいかわ駅弁](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e9%a7%85%e5%bc%81) | N/A |
+| 42 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
+| 43 | [子ども1人5万円給付](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%821%e4%ba%ba5%e4%b8%87%e5%86%86%e7%b5%a6%e4%bb%98) | N/A |
+| 44 | [ブルアカメンテ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 45 | [ドゴラン](http://twitter.com/search?q=%e3%83%89%e3%82%b4%e3%83%a9%e3%83%b3) | N/A |
+| 46 | [ボガーツ](http://twitter.com/search?q=%e3%83%9c%e3%82%ac%e3%83%bc%e3%83%84) | N/A |
+| 47 | [マッドハウス](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%89%e3%83%8f%e3%82%a6%e3%82%b9) | N/A |
+| 48 | [鬼ヴァンダル](http://twitter.com/search?q=%e9%ac%bc%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%80%e3%83%ab) | N/A |
+| 49 | [ゲッコー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-08 03:23:50 UTC`
+📆 Last Updated: `2023-03-08 04:52:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 2 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 3 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 4 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
-| 5 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 6 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
-| 7 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 8 | [#ElAccidenteDeEmel](http://twitter.com/search?q=%23ElAccidenteDeEmel) | N/A |
-| 9 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 10 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 11 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 12 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
-| 13 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 14 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 15 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 16 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 17 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 18 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 19 | [mena](http://twitter.com/search?q=mena) | N/A |
-| 20 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 21 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 22 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 23 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
-| 24 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 25 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 26 | [Maricon](http://twitter.com/search?q=Maricon) | N/A |
-| 27 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
+| 1 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 2 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 3 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 4 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 7 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
+| 8 | [#AquiSeBaila](http://twitter.com/search?q=%23AquiSeBaila) | N/A |
+| 9 | [#RechazoOtraVez](http://twitter.com/search?q=%23RechazoOtraVez) | N/A |
+| 10 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 11 | [Cristian Castro](http://twitter.com/search?q=Cristian+Castro) | N/A |
+| 12 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 13 | [Gardel](http://twitter.com/search?q=Gardel) | N/A |
+| 14 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 15 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 16 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 17 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 20 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 21 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 22 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 24 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 25 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 26 | [Hernán Larraín](http://twitter.com/search?q=Hern%c3%a1n+Larra%c3%adn) | N/A |
+| 27 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
 | 28 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 29 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 30 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 31 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 36 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 37 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 38 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 39 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
-| 40 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 41 | [#OrsiniCaraDeRaja](http://twitter.com/search?q=%23OrsiniCaraDeRaja) | N/A |
-| 42 | [#Talcahuano](http://twitter.com/search?q=%23Talcahuano) | N/A |
-| 43 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 44 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
+| 29 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 30 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 31 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 32 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 33 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
+| 34 | [Verónica Undurraga](http://twitter.com/search?q=Ver%c3%b3nica+Undurraga) | N/A |
+| 35 | [YOONGI CHILE TE ESPERA](http://twitter.com/search?q=YOONGI+CHILE+TE+ESPERA) | N/A |
+| 36 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 37 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 38 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 39 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 40 | [Expertos](http://twitter.com/search?q=Expertos) | N/A |
+| 41 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 42 | [Talcahuano](http://twitter.com/search?q=Talcahuano) | N/A |
+| 43 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 44 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 45 | [Macabro](http://twitter.com/search?q=Macabro) | N/A |
+| 46 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
+| 47 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
+| 48 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
+| 49 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 50 | [Ester](http://twitter.com/search?q=Ester) | N/A |
 
 
 
