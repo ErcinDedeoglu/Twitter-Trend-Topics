@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-07 23:16:30 UTC`
+📆 Last Updated: `2023-03-08 00:29:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 2 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
-| 3 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 4 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 5 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 2 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 3 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
+| 4 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 5 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
 | 6 | [Urtis](http://twitter.com/search?q=Urtis) | N/A |
 | 7 | [Albano](http://twitter.com/search?q=Albano) | N/A |
 | 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 9 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
 | 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 11 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 12 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 13 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 16 | [Kerkez](http://twitter.com/search?q=Kerkez) | N/A |
-| 17 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 18 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
-| 19 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 20 | [Tosi](http://twitter.com/search?q=Tosi) | N/A |
-| 21 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 22 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 23 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 24 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
-| 25 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 26 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 27 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 28 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 29 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 30 | [#ChelseaDortmund](http://twitter.com/search?q=%23ChelseaDortmund) | N/A |
-| 31 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
-| 32 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
-| 33 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 34 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
-| 35 | [#SoprattuttoRispetto](http://twitter.com/search?q=%23SoprattuttoRispetto) | N/A |
-| 36 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 37 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
-| 38 | [#Santoro](http://twitter.com/search?q=%23Santoro) | N/A |
-| 39 | [#LeIene](http://twitter.com/search?q=%23LeIene) | N/A |
-| 40 | [#Bersani](http://twitter.com/search?q=%23Bersani) | N/A |
-| 41 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
-| 42 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 11 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 12 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 13 | [Chri](http://twitter.com/search?q=Chri) | N/A |
+| 14 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 15 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
+| 16 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 17 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 20 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 21 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 22 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 23 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 24 | [#ChelseaDortmund](http://twitter.com/search?q=%23ChelseaDortmund) | N/A |
+| 25 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 26 | [#SeiDonne](http://twitter.com/search?q=%23SeiDonne) | N/A |
+| 27 | [#portaaporta](http://twitter.com/search?q=%23portaaporta) | N/A |
+| 28 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 29 | [#SoprattuttoRispetto](http://twitter.com/search?q=%23SoprattuttoRispetto) | N/A |
+| 30 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 31 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 32 | [#LeIene](http://twitter.com/search?q=%23LeIene) | N/A |
+| 33 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 34 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 35 | [#Tbilisi](http://twitter.com/search?q=%23Tbilisi) | N/A |
+| 36 | [#LazioAZ](http://twitter.com/search?q=%23LazioAZ) | N/A |
+| 37 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 38 | [#festadelladonna](http://twitter.com/search?q=%23festadelladonna) | N/A |
+| 39 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 40 | [#Santoro](http://twitter.com/search?q=%23Santoro) | N/A |
+| 41 | [#Bersani](http://twitter.com/search?q=%23Bersani) | N/A |
+| 42 | [#bbvipal](http://twitter.com/search?q=%23bbvipal) | N/A |
 | 43 | [#Speranzaingalera](http://twitter.com/search?q=%23Speranzaingalera) | N/A |
-| 44 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 45 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
-| 46 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 47 | [#cracra](http://twitter.com/search?q=%23cracra) | N/A |
-| 48 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
-| 49 | [#EuroLeague](http://twitter.com/search?q=%23EuroLeague) | N/A |
+| 44 | [#plusvalenze](http://twitter.com/search?q=%23plusvalenze) | #Plusvalenze is an Italian term that refers to capital gains made on the sale of assets. In English, it is referred to as capital gains. |
+| 45 | [#cracra](http://twitter.com/search?q=%23cracra) | N/A |
+| 46 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 47 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 48 | [#GiancarloGiannini](http://twitter.com/search?q=%23GiancarloGiannini) | N/A |
+| 49 | [#simuelcanon](http://twitter.com/search?q=%23simuelcanon) | N/A |
 
 
 

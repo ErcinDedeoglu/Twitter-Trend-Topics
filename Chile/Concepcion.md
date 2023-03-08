@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-07 23:16:21 UTC`
+📆 Last Updated: `2023-03-08 00:28:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Holan](http://twitter.com/search?q=Holan) | N/A |
 | 3 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 4 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 5 | [#RechazoOtraVez](http://twitter.com/search?q=%23RechazoOtraVez) | N/A |
-| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 7 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 8 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 10 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 11 | [#VolverANacer](http://twitter.com/search?q=%23VolverANacer) | N/A |
-| 12 | [#TuPirataSoyYo](http://twitter.com/search?q=%23TuPirataSoyYo) | N/A |
-| 13 | [#SuperLunes](http://twitter.com/search?q=%23SuperLunes) | N/A |
-| 14 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [Hernán Larraín](http://twitter.com/search?q=Hern%c3%a1n+Larra%c3%adn) | N/A |
-| 17 | [Directv](http://twitter.com/search?q=Directv) | N/A |
-| 18 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 19 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 20 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
-| 21 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 22 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 23 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 26 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 27 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
-| 28 | [Verónica Undurraga](http://twitter.com/search?q=Ver%c3%b3nica+Undurraga) | N/A |
-| 29 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 30 | [Héctor Llaitul](http://twitter.com/search?q=H%c3%a9ctor+Llaitul) | N/A |
-| 31 | [Vamos Católica](http://twitter.com/search?q=Vamos+Cat%c3%b3lica) | N/A |
-| 32 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 33 | [Colonia Dignidad](http://twitter.com/search?q=Colonia+Dignidad) | N/A |
-| 34 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 35 | [Macabro](http://twitter.com/search?q=Macabro) | N/A |
-| 36 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
-| 37 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 38 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 39 | [Rechazar](http://twitter.com/search?q=Rechazar) | N/A |
-| 40 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 41 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 42 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 43 | [Sor Rita](http://twitter.com/search?q=Sor+Rita) | N/A |
-| 44 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
-| 45 | [Sor Maite](http://twitter.com/search?q=Sor+Maite) | N/A |
-| 46 | [Alipio Vera](http://twitter.com/search?q=Alipio+Vera) | N/A |
-| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 48 | [Andrés Barros Vicuña](http://twitter.com/search?q=Andr%c3%a9s+Barros+Vicu%c3%b1a) | N/A |
-| 49 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 50 | [Superclásico](http://twitter.com/search?q=Supercl%c3%a1sico) | N/A |
+| 4 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 5 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 6 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 7 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
+| 8 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 9 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 10 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 11 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 12 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 13 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 14 | [#RechazoOtraVez](http://twitter.com/search?q=%23RechazoOtraVez) | N/A |
+| 15 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 16 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 17 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 18 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 21 | [#SuperLunes](http://twitter.com/search?q=%23SuperLunes) | N/A |
+| 22 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 23 | [Kagelmacher](http://twitter.com/search?q=Kagelmacher) | N/A |
+| 24 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 25 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 26 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
+| 27 | [Parot](http://twitter.com/search?q=Parot) | N/A |
+| 28 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 29 | [Hernán Larraín](http://twitter.com/search?q=Hern%c3%a1n+Larra%c3%adn) | N/A |
+| 30 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 31 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 32 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
+| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 34 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 35 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 36 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 37 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 38 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 39 | [Reñaca](http://twitter.com/search?q=Re%c3%b1aca) | N/A |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [Expertos](http://twitter.com/search?q=Expertos) | N/A |
+| 42 | [Verónica Undurraga](http://twitter.com/search?q=Ver%c3%b3nica+Undurraga) | N/A |
+| 43 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 44 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 45 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 46 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 47 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
+| 48 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 49 | [Colonia Dignidad](http://twitter.com/search?q=Colonia+Dignidad) | N/A |
+| 50 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
 
 
 

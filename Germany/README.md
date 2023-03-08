@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-07 23:17:03 UTC`
+📆 Last Updated: `2023-03-08 00:29:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Germany
 | 4 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 5 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
 | 6 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 8 | [#Nordstream](http://twitter.com/search?q=%23Nordstream) | N/A |
-| 9 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
-| 10 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 11 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 7 | [#NordstreamSabotage](http://twitter.com/search?q=%23NordstreamSabotage) | N/A |
+| 8 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 11 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
 | 12 | [Wiederholung](http://twitter.com/search?q=Wiederholung) | N/A |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [#CFCBVB](http://twitter.com/search?q=%23CFCBVB) | N/A |
-| 15 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
+| 13 | [#CFCBVB](http://twitter.com/search?q=%23CFCBVB) | N/A |
+| 14 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 16 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 17 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 18 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 19 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 17 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 18 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 19 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
 | 20 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 21 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 22 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 23 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 24 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 25 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 26 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 27 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
-| 28 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 29 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 30 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 31 | [Modeste](http://twitter.com/search?q=Modeste) | Modeste is a French word meaning "modest" or "unassuming". It is used to describe someone who is humble and unpretentious. |
-| 32 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 33 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 34 | [Mannschaften](http://twitter.com/search?q=Mannschaften) | N/A |
+| 21 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 22 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 23 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 24 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 25 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 26 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 27 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 28 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 29 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 30 | [Pro-ukrainische Gruppe](http://twitter.com/search?q=Pro-ukrainische+Gruppe) | N/A |
+| 31 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 32 | [Frauentag](http://twitter.com/search?q=Frauentag) | N/A |
+| 33 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 34 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 35 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 36 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 36 | [Mannschaften](http://twitter.com/search?q=Mannschaften) | N/A |
 | 37 | [Viertelfinale](http://twitter.com/search?q=Viertelfinale) | N/A |
-| 38 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 39 | [Hinspiel](http://twitter.com/search?q=Hinspiel) | N/A |
-| 40 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 41 | [Frauentag](http://twitter.com/search?q=Frauentag) | N/A |
-| 42 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 43 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 44 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 45 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 46 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 48 | [Ostsee](http://twitter.com/search?q=Ostsee) | N/A |
-| 49 | [Mahdi](http://twitter.com/search?q=Mahdi) | N/A |
-| 50 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Hinspiel](http://twitter.com/search?q=Hinspiel) | N/A |
+| 39 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 40 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 41 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 42 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 43 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [#CHEDOR](http://twitter.com/search?q=%23CHEDOR) | N/A |
+| 46 | [#Georgia](http://twitter.com/search?q=%23Georgia) | N/A |
+| 47 | [#NolaeKpop](http://twitter.com/search?q=%23NolaeKpop) | N/A |
+| 48 | [#Georgien](http://twitter.com/search?q=%23Georgien) | N/A |
+| 49 | [#BVBCHE](http://twitter.com/search?q=%23BVBCHE) | N/A |
+| 50 | [#HomeForWhovians](http://twitter.com/search?q=%23HomeForWhovians) | N/A |
 
 
 

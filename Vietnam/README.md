@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-07 23:17:08 UTC`
+📆 Last Updated: `2023-03-08 00:29:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JENNIExCHANELFW23](http://twitter.com/search?q=%23JENNIExCHANELFW23) | N/A |
-| 2 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
-| 3 | [Smiles for Build](http://twitter.com/search?q=Smiles+for+Build) | N/A |
-| 4 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
-| 5 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 7 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 8 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
-| 9 | [Peer](http://twitter.com/search?q=Peer) | N/A |
-| 10 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
+| 1 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 2 | [SMILES FOR BUILD](http://twitter.com/search?q=SMILES+FOR+BUILD) | N/A |
+| 3 | [#InLuveWithBuild](http://twitter.com/search?q=%23InLuveWithBuild) | N/A |
+| 4 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
+| 5 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 6 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
+| 7 | [liuyu in paris](http://twitter.com/search?q=liuyu+in+paris) | N/A |
+| 8 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 9 | [#HuobiWomensDay](http://twitter.com/search?q=%23HuobiWomensDay) | N/A |
+| 10 | [Peer](http://twitter.com/search?q=Peer) | N/A |
 | 11 | [best user](http://twitter.com/search?q=best+user) | N/A |
 | 12 | [cross-chain dex](http://twitter.com/search?q=cross-chain+dex) | N/A |
 | 13 | [multiple bridge and dex](http://twitter.com/search?q=multiple+bridge+and+dex) | N/A |
 | 14 | [the oyabun](http://twitter.com/search?q=the+oyabun) | N/A |
-| 15 | [Join the ZKX Crew3 Quests](http://twitter.com/search?q=Join+the+ZKX+Crew3+Quests) | N/A |
-| 16 | [Scroll](http://twitter.com/search?q=Scroll) | N/A |
-| 17 | [J-HOPE'S BOYFRIEND MODE](http://twitter.com/search?q=J-HOPE%27S+BOYFRIEND+MODE) | N/A |
-| 18 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [join the zkx crew3 quests](http://twitter.com/search?q=join+the+zkx+crew3+quests) | N/A |
+| 16 | [j-hope's boyfriend mode](http://twitter.com/search?q=j-hope%27s+boyfriend+mode) | N/A |
+| 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 18 | [Scroll](http://twitter.com/search?q=Scroll) | N/A |
 | 19 | [SEOP](http://twitter.com/search?q=SEOP) | N/A |
 | 20 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 21 | [SOLOIST JISOO IS COMING](http://twitter.com/search?q=SOLOIST+JISOO+IS+COMING) | N/A |
-| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 23 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 28 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 29 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 33 | [biu fam](http://twitter.com/search?q=biu+fam) | N/A |
-| 34 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 22 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 23 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 24 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Stake](http://twitter.com/search?q=Stake) | N/A |
+| 27 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 28 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 29 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 30 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 31 | [biu fam](http://twitter.com/search?q=biu+fam) | N/A |
+| 32 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 33 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 35 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 37 | [Hong Hai](http://twitter.com/search?q=Hong+Hai) | N/A |
-| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 39 | [nứng](http://twitter.com/search?q=n%e1%bb%a9ng) | N/A |
-| 40 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 41 | [tháng 3](http://twitter.com/search?q=th%c3%a1ng+3) | N/A |
+| 36 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 37 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 38 | [nứng](http://twitter.com/search?q=n%e1%bb%a9ng) | N/A |
+| 39 | [Hong Hai](http://twitter.com/search?q=Hong+Hai) | N/A |
+| 40 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 41 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 42 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 45 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 47 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 48 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 49 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 50 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 45 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 46 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 47 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 48 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 49 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 50 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 
 
 

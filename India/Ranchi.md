@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-03-07 23:16:49 UTC`
+📆 Last Updated: `2023-03-08 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 6 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 7 | [#KTBFFH](http://twitter.com/search?q=%23KTBFFH) | N/A |
-| 8 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 9 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 10 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 11 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 12 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 15 | [Sushant A Maverick](http://twitter.com/search?q=Sushant+A+Maverick) | N/A |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 18 | [Tammy B](http://twitter.com/search?q=Tammy+B) | N/A |
-| 19 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [बारात मुबारक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 22 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
-| 23 | [#FalseCaseDay](http://twitter.com/search?q=%23FalseCaseDay) | N/A |
-| 24 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
-| 25 | [#ShabeBarat](http://twitter.com/search?q=%23ShabeBarat) | N/A |
-| 26 | [#boycottswiggy](http://twitter.com/search?q=%23boycottswiggy) | N/A |
-| 27 | [#holifestivalofcolours](http://twitter.com/search?q=%23holifestivalofcolours) | N/A |
-| 28 | [#HoliSpecial](http://twitter.com/search?q=%23HoliSpecial) | N/A |
-| 29 | [#TJMM](http://twitter.com/search?q=%23TJMM) | N/A |
-| 30 | [#RanbirKapoor](http://twitter.com/search?q=%23RanbirKapoor) | N/A |
-| 31 | [#DCvsUPW](http://twitter.com/search?q=%23DCvsUPW) | N/A |
-| 32 | [#TechnicalGuruji](http://twitter.com/search?q=%23TechnicalGuruji) | N/A |
-| 33 | [#WomenPower](http://twitter.com/search?q=%23WomenPower) | N/A |
-| 34 | [#शब_ए_बारात](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%ac_%e0%a4%8f_%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
-| 35 | [#होली_2023](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80_2023) | N/A |
-| 36 | [#HonorMagic5](http://twitter.com/search?q=%23HonorMagic5) | N/A |
+| 1 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 2 | [#राम_रंग_होरी_हो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%b0%e0%a4%82%e0%a4%97_%e0%a4%b9%e0%a5%8b%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a5%8b) | N/A |
+| 3 | [#होली](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 4 | [#होलिका_दहन](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%a6%e0%a4%b9%e0%a4%a8) | N/A |
+| 5 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 6 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 7 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 12 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 13 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 14 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 15 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 16 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 18 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 19 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 20 | [Kova](http://twitter.com/search?q=Kova) | N/A |
+| 21 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 22 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 23 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 25 | [सुख तथा पूर्ण मोक्ष](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%96+%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 26 | [बारात मुबारक](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 27 | [विजय चौधरी](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [amritpal misleading punjab](http://twitter.com/search?q=amritpal+misleading+punjab) | N/A |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [Tammy B](http://twitter.com/search?q=Tammy+B) | N/A |
+| 31 | [भक्त प्रह्लाद](http://twitter.com/search?q=%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6) | N/A |
+| 32 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 33 | [Agencies Puppet InSSRCase](http://twitter.com/search?q=Agencies+Puppet+InSSRCase) | N/A |
+| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 35 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 36 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 37 | [KUCH ITNE HASEEN TEASER TOM](http://twitter.com/search?q=KUCH+ITNE+HASEEN+TEASER+TOM) | N/A |
+| 38 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 39 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 40 | [Sushant A Maverick](http://twitter.com/search?q=Sushant+A+Maverick) | N/A |
+| 41 | [Up the Chels](http://twitter.com/search?q=Up+the+Chels) | N/A |
+| 42 | [Reece](http://twitter.com/search?q=Reece) | N/A |
+| 43 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 45 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 46 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 47 | [औषधि परियोजना](http://twitter.com/search?q=%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 48 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 
 
 

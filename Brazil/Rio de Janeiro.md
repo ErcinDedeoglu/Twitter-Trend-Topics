@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-07 23:16:24 UTC`
+📆 Last Updated: `2023-03-08 00:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BEPE](http://twitter.com/search?q=BEPE) | N/A |
-| 2 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 3 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
-| 4 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 11 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
-| 12 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 13 | [Buchecha](http://twitter.com/search?q=Buchecha) | N/A |
-| 14 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 15 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 16 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 17 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
-| 20 | [#Juliettecomfãs](http://twitter.com/search?q=%23Juliettecomf%c3%a3s) | N/A |
-| 21 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 22 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 24 | [jonah](http://twitter.com/search?q=jonah) | N/A |
-| 25 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 26 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
-| 27 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 28 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
-| 29 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 30 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 31 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 32 | [Brugge](http://twitter.com/search?q=Brugge) | N/A |
-| 33 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
-| 34 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 35 | [Justiceiro](http://twitter.com/search?q=Justiceiro) | N/A |
-| 36 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 37 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 38 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 39 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 40 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 43 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 44 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 45 | [João Henrique Catan](http://twitter.com/search?q=Jo%c3%a3o+Henrique+Catan) | N/A |
-| 46 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 47 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 48 | [Katarina](http://twitter.com/search?q=Katarina) | N/A |
-| 49 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 50 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 1 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
+| 2 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 5 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 6 | [Buchecha](http://twitter.com/search?q=Buchecha) | N/A |
+| 7 | [TEAM CHIARA](http://twitter.com/search?q=TEAM+CHIARA) | N/A |
+| 8 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [AG IS COMING](http://twitter.com/search?q=AG+IS+COMING) | N/A |
+| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [#Juliettecomfãs](http://twitter.com/search?q=%23Juliettecomf%c3%a3s) | N/A |
+| 13 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 14 | [CURTINDO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=CURTINDO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 15 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 16 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 17 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
+| 18 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 19 | [Sarto](http://twitter.com/search?q=Sarto) | N/A |
+| 20 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 21 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 22 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 23 | [LAD AND DAD](http://twitter.com/search?q=LAD+AND+DAD) | N/A |
+| 24 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 25 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 26 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 27 | [Pitoco](http://twitter.com/search?q=Pitoco) | N/A |
+| 28 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
+| 29 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 30 | [Thaísa](http://twitter.com/search?q=Tha%c3%adsa) | N/A |
+| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 32 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 33 | [Cirilo](http://twitter.com/search?q=Cirilo) | Cirilo is a Spanish name derived from the Latin name Cyrillus, which means "lordly". It is also a variant of the Greek name Kyrillos, which means "lord". In English, Cirilo can be translated to mean "lordly" or "noble". |
+| 34 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 35 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 36 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 37 | [Hélio](http://twitter.com/search?q=H%c3%a9lio) | N/A |
+| 38 | [João Henrique Catan](http://twitter.com/search?q=Jo%c3%a3o+Henrique+Catan) | N/A |
+| 39 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 40 | [Anjos](http://twitter.com/search?q=Anjos) | N/A |
+| 41 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 42 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
+| 43 | [Meyer](http://twitter.com/search?q=Meyer) | N/A |
+| 44 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 45 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 46 | [mc pipokinha](http://twitter.com/search?q=mc+pipokinha) | N/A |
+| 47 | [Justiceiro](http://twitter.com/search?q=Justiceiro) | N/A |
+| 48 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 49 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 50 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 
 
 
