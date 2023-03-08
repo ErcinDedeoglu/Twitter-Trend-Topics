@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-08 18:17:21 UTC`
+📆 Last Updated: `2023-03-08 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,45 +22,38 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
 | 6 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
 | 7 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 8 | [yoongi hyung](http://twitter.com/search?q=yoongi+hyung) | N/A |
+| 8 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 | 9 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
 | 10 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
 | 11 | [MY SOPE](http://twitter.com/search?q=MY+SOPE) | N/A |
 | 12 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
 | 13 | [yoonie](http://twitter.com/search?q=yoonie) | N/A |
 | 14 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 15 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
-| 16 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 17 | [Somi](http://twitter.com/search?q=Somi) | N/A |
-| 18 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 19 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 20 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 22 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 23 | [ABANTE BABAE](http://twitter.com/search?q=ABANTE+BABAE) | N/A |
-| 24 | [LEE JONG SUK](http://twitter.com/search?q=LEE+JONG+SUK) | N/A |
-| 25 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
-| 26 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 27 | [Maine](http://twitter.com/search?q=Maine) | N/A |
-| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 29 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 30 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 31 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
-| 32 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
-| 33 | [#5thDiamondSoojinDay](http://twitter.com/search?q=%235thDiamondSoojinDay) | N/A |
-| 34 | [#OurDazzlingCherryDay](http://twitter.com/search?q=%23OurDazzlingCherryDay) | N/A |
-| 35 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 36 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
-| 37 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
-| 38 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 39 | [#미소천사_그_자체](http://twitter.com/search?q=%23%eb%af%b8%ec%86%8c%ec%b2%9c%ec%82%ac_%ea%b7%b8_%ec%9e%90%ec%b2%b4) | N/A |
-| 40 | [#그때_그_시절](http://twitter.com/search?q=%23%ea%b7%b8%eb%95%8c_%ea%b7%b8_%ec%8b%9c%ec%a0%88) | N/A |
-| 41 | [#MinstradamusDay](http://twitter.com/search?q=%23MinstradamusDay) | N/A |
-| 42 | [#MVItsYouByZeeNuNew](http://twitter.com/search?q=%23MVItsYouByZeeNuNew) | N/A |
-| 43 | [#DLUndercover](http://twitter.com/search?q=%23DLUndercover) | N/A |
-| 44 | [#YoutubeSubsForSVT](http://twitter.com/search?q=%23YoutubeSubsForSVT) | N/A |
-| 45 | [#WeverseSubsForSVT](http://twitter.com/search?q=%23WeverseSubsForSVT) | N/A |
-| 46 | [#IWWD2023](http://twitter.com/search?q=%23IWWD2023) | N/A |
+| 15 | [Somi](http://twitter.com/search?q=Somi) | N/A |
+| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 17 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 18 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
+| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 20 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 21 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
+| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 23 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 24 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 25 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
+| 26 | [#5thDiamondSoojinDay](http://twitter.com/search?q=%235thDiamondSoojinDay) | N/A |
+| 27 | [#OurDazzlingCherryDay](http://twitter.com/search?q=%23OurDazzlingCherryDay) | N/A |
+| 28 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 29 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
+| 30 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
+| 31 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
+| 32 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 33 | [#미소천사_그_자체](http://twitter.com/search?q=%23%eb%af%b8%ec%86%8c%ec%b2%9c%ec%82%ac_%ea%b7%b8_%ec%9e%90%ec%b2%b4) | N/A |
+| 34 | [#그때_그_시절](http://twitter.com/search?q=%23%ea%b7%b8%eb%95%8c_%ea%b7%b8_%ec%8b%9c%ec%a0%88) | N/A |
+| 35 | [#MinstradamusDay](http://twitter.com/search?q=%23MinstradamusDay) | N/A |
+| 36 | [#SUNGHOON](http://twitter.com/search?q=%23SUNGHOON) | N/A |
+| 37 | [#YoutubeSubsForSVT](http://twitter.com/search?q=%23YoutubeSubsForSVT) | N/A |
+| 38 | [#WeverseSubsForSVT](http://twitter.com/search?q=%23WeverseSubsForSVT) | N/A |
+| 39 | [#JAKE](http://twitter.com/search?q=%23JAKE) | N/A |
 
 
 

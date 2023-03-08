@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-08 18:17:32 UTC`
+📆 Last Updated: `2023-03-08 19:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DenklikHakkımız](http://twitter.com/search?q=DenklikHakk%c4%b1m%c4%b1z) | N/A |
-| 2 | [#CbKemalden100BinÖğretmen](http://twitter.com/search?q=%23CbKemalden100Bin%c3%96%c4%9fretmen) | N/A |
-| 3 | [#OrmanişçisineKADRO](http://twitter.com/search?q=%23Ormani%c5%9f%c3%a7isineKADRO) | N/A |
-| 4 | [#UzmanÇavuşlarıUnutmayın](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flar%c4%b1Unutmay%c4%b1n) | N/A |
-| 5 | [#DanistayOkulOncesiniDuy](http://twitter.com/search?q=%23DanistayOkulOncesiniDuy) | N/A |
-| 6 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
-| 7 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 8 | [Lütfedip](http://twitter.com/search?q=L%c3%bctfedip) | N/A |
-| 9 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 10 | [Motley](http://twitter.com/search?q=Motley) | N/A |
-| 11 | [HAK DAVA YOLDA](http://twitter.com/search?q=HAK+DAVA+YOLDA) | N/A |
-| 12 | [Imani](http://twitter.com/search?q=Imani) | N/A |
-| 13 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
-| 14 | [Mario Gomez](http://twitter.com/search?q=Mario+Gomez) | N/A |
-| 15 | [AytolBugün YoutubeDa](http://twitter.com/search?q=AytolBug%c3%bcn+YoutubeDa) | N/A |
-| 16 | [Eyşan](http://twitter.com/search?q=Ey%c5%9fan) | N/A |
-| 17 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
-| 18 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
-| 19 | [Mücahid](http://twitter.com/search?q=M%c3%bccahid) | N/A |
-| 20 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 21 | [Menzil](http://twitter.com/search?q=Menzil) | N/A |
-| 22 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
-| 23 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 24 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
-| 25 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 26 | [Martı](http://twitter.com/search?q=Mart%c4%b1) | N/A |
-| 27 | [Metres](http://twitter.com/search?q=Metres) | N/A |
-| 28 | [Anneler](http://twitter.com/search?q=Anneler) | N/A |
-| 29 | [Kürdüz](http://twitter.com/search?q=K%c3%bcrd%c3%bcz) | N/A |
-| 30 | [Yalı](http://twitter.com/search?q=Yal%c4%b1) | N/A |
-| 31 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 32 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 33 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
-| 34 | [Beyoğlu Kaymakamlığı](http://twitter.com/search?q=Beyo%c4%9flu+Kaymakaml%c4%b1%c4%9f%c4%b1) | N/A |
-| 35 | [Bahçeli'ye](http://twitter.com/search?q=Bah%c3%a7eli%27ye) | N/A |
-| 36 | [Savcı](http://twitter.com/search?q=Savc%c4%b1) | N/A |
-| 37 | [Emekçi](http://twitter.com/search?q=Emek%c3%a7i) | N/A |
-| 38 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
-| 39 | [İmralı](http://twitter.com/search?q=%c4%b0mral%c4%b1) | N/A |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Deden](http://twitter.com/search?q=Deden) | N/A |
-| 42 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 43 | [Yeliz](http://twitter.com/search?q=Yeliz) | N/A |
-| 44 | [#DibKontenjanBekliyoruz](http://twitter.com/search?q=%23DibKontenjanBekliyoruz) | N/A |
-| 45 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 46 | [#Taksim](http://twitter.com/search?q=%23Taksim) | N/A |
-| 47 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 48 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 49 | [#isiaskadınlarhesapsoracak](http://twitter.com/search?q=%23isiaskad%c4%b1nlarhesapsoracak) | N/A |
+| 1 | [#Taksim](http://twitter.com/search?q=%23Taksim) | N/A |
+| 2 | [Mehmet Tevfik Göksu](http://twitter.com/search?q=Mehmet+Tevfik+G%c3%b6ksu) | N/A |
+| 3 | [#UzmanÇavuşlarıUnutmayın](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flar%c4%b1Unutmay%c4%b1n) | N/A |
+| 4 | [DenklikHakkımız](http://twitter.com/search?q=DenklikHakk%c4%b1m%c4%b1z) | N/A |
+| 5 | [#AfetÖzelÖgrtmnKadro](http://twitter.com/search?q=%23Afet%c3%96zel%c3%96grtmnKadro) | N/A |
+| 6 | [#DanistayOkulOncesiniDuy](http://twitter.com/search?q=%23DanistayOkulOncesiniDuy) | N/A |
+| 7 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 8 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 9 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 10 | [NOTER ONAYLI KUMAR MASASI](http://twitter.com/search?q=NOTER+ONAYLI+KUMAR+MASASI) | N/A |
+| 11 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 12 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 13 | [Lütfedip](http://twitter.com/search?q=L%c3%bctfedip) | N/A |
+| 14 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 15 | [HAK DAVA YOLDA](http://twitter.com/search?q=HAK+DAVA+YOLDA) | N/A |
+| 16 | [SensizOlmaz Zeydovic](http://twitter.com/search?q=SensizOlmaz+Zeydovic) | N/A |
+| 17 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 18 | [İmanın](http://twitter.com/search?q=%c4%b0man%c4%b1n) | N/A |
+| 19 | [İZMİR KEKİĞİ](http://twitter.com/search?q=%c4%b0ZM%c4%b0R+KEK%c4%b0%c4%9e%c4%b0) | N/A |
+| 20 | [Dr. Çiğdem SÖNMEZ](http://twitter.com/search?q=Dr.+%c3%87i%c4%9fdem+S%c3%96NMEZ) | N/A |
+| 21 | [Tahir](http://twitter.com/search?q=Tahir) | N/A |
+| 22 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
+| 23 | [Nedim](http://twitter.com/search?q=Nedim) | N/A |
+| 24 | [AytolBugün YoutubeDa](http://twitter.com/search?q=AytolBug%c3%bcn+YoutubeDa) | N/A |
+| 25 | [Mücahid](http://twitter.com/search?q=M%c3%bccahid) | N/A |
+| 26 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
+| 27 | [Seninleyiz Türkiye](http://twitter.com/search?q=Seninleyiz+T%c3%bcrkiye) | N/A |
+| 28 | [Mario Gomez](http://twitter.com/search?q=Mario+Gomez) | N/A |
+| 29 | [Biz Kürt](http://twitter.com/search?q=Biz+K%c3%bcrt) | N/A |
+| 30 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 31 | [Eyşan](http://twitter.com/search?q=Ey%c5%9fan) | N/A |
+| 32 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 33 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
+| 34 | [Martı](http://twitter.com/search?q=Mart%c4%b1) | N/A |
+| 35 | [Yalı](http://twitter.com/search?q=Yal%c4%b1) | N/A |
+| 36 | [Selo](http://twitter.com/search?q=Selo) | N/A |
+| 37 | [Kürdüz](http://twitter.com/search?q=K%c3%bcrd%c3%bcz) | N/A |
+| 38 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 39 | [Anneler](http://twitter.com/search?q=Anneler) | N/A |
+| 40 | [Tehdit](http://twitter.com/search?q=Tehdit) | N/A |
+| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 42 | [Metres](http://twitter.com/search?q=Metres) | N/A |
+| 43 | [Beyoğlu Kaymakamlığı](http://twitter.com/search?q=Beyo%c4%9flu+Kaymakaml%c4%b1%c4%9f%c4%b1) | N/A |
+| 44 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 45 | [Bahçeli'ye](http://twitter.com/search?q=Bah%c3%a7eli%27ye) | N/A |
+| 46 | [Savcı](http://twitter.com/search?q=Savc%c4%b1) | N/A |
+| 47 | [Emekçi](http://twitter.com/search?q=Emek%c3%a7i) | N/A |
+| 48 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
+| 49 | [Çocuğa](http://twitter.com/search?q=%c3%87ocu%c4%9fa) | N/A |
 
 
 

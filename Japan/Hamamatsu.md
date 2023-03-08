@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamamatsu
 
-📆 Last Updated: `2023-03-08 18:17:16 UTC`
+📆 Last Updated: `2023-03-08 19:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [勝ちロコ](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e3%83%ad%e3%82%b3) | N/A |
 | 2 | [#spulse](http://twitter.com/search?q=%23spulse) | N/A |
-| 3 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
-| 4 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 5 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 6 | [#ミクの日](http://twitter.com/search?q=%23%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 7 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 8 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 9 | [#人は夢を二度見る](http://twitter.com/search?q=%23%e4%ba%ba%e3%81%af%e5%a4%a2%e3%82%92%e4%ba%8c%e5%ba%a6%e8%a6%8b%e3%82%8b) | N/A |
-| 10 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
-| 11 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 12 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 13 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 14 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
-| 15 | [咲也くん](http://twitter.com/search?q=%e5%92%b2%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 16 | [愛のかたまり](http://twitter.com/search?q=%e6%84%9b%e3%81%ae%e3%81%8b%e3%81%9f%e3%81%be%e3%82%8a) | N/A |
-| 17 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
-| 18 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
-| 19 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [名人挑戦](http://twitter.com/search?q=%e5%90%8d%e4%ba%ba%e6%8c%91%e6%88%a6) | N/A |
-| 21 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
-| 22 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 3 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 4 | [#ミクの日](http://twitter.com/search?q=%23%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 7 | [#人は夢を二度見る](http://twitter.com/search?q=%23%e4%ba%ba%e3%81%af%e5%a4%a2%e3%82%92%e4%ba%8c%e5%ba%a6%e8%a6%8b%e3%82%8b) | N/A |
+| 8 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 9 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 10 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
+| 11 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
+| 12 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
+| 13 | [咲也くん](http://twitter.com/search?q=%e5%92%b2%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
+| 14 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
+| 15 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
+| 16 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [愛のかたまり](http://twitter.com/search?q=%e6%84%9b%e3%81%ae%e3%81%8b%e3%81%9f%e3%81%be%e3%82%8a) | N/A |
+| 18 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
+| 19 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
+| 20 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 21 | [野球の話](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e8%a9%b1) | N/A |
+| 22 | [名人挑戦](http://twitter.com/search?q=%e5%90%8d%e4%ba%ba%e6%8c%91%e6%88%a6) | N/A |
 | 23 | [ミンユンギ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%83%a6%e3%83%b3%e3%82%ae) | ミンユンギ is a Korean term that translates to "trust and understanding" in English. It is often used to describe the relationship between two people who have a strong bond of trust and understanding. |
-| 24 | [アーサー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b5%e3%83%bc) | アーサー is the Japanese name for the legendary British king, King Arthur. In English, it is pronounced "Ah-sah". |
-| 25 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 26 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 27 | [野球の話](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e8%a9%b1) | N/A |
+| 24 | [村田雄介](http://twitter.com/search?q=%e6%9d%91%e7%94%b0%e9%9b%84%e4%bb%8b) | N/A |
+| 25 | [アーサー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b5%e3%83%bc) | アーサー is the Japanese name for the legendary British king, King Arthur. In English, it is pronounced "Ah-sah". |
+| 26 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 27 | [第226話](http://twitter.com/search?q=%e7%ac%ac226%e8%a9%b1) | N/A |
 | 28 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 29 | [神戸くん](http://twitter.com/search?q=%e7%a5%9e%e6%88%b8%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ゆんぎさん](http://twitter.com/search?q=%e3%82%86%e3%82%93%e3%81%8e%e3%81%95%e3%82%93) | N/A |
-| 31 | [村田雄介](http://twitter.com/search?q=%e6%9d%91%e7%94%b0%e9%9b%84%e4%bb%8b) | N/A |
-| 32 | [オールナイトニッポンX](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3X) | オールナイトニッポンX is a Japanese radio program that airs on Nippon Cultural Broadcasting. It is a talk show that features interviews with celebrities and discussions about various topics. The name of the show translates to "All Night Nippon X" in English. |
-| 33 | [Wordle 628](http://twitter.com/search?q=Wordle+628) | N/A |
-| 34 | [パラノマサイト](http://twitter.com/search?q=%e3%83%91%e3%83%a9%e3%83%8e%e3%83%9e%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 29 | [Wordle 628](http://twitter.com/search?q=Wordle+628) | N/A |
+| 30 | [神戸くん](http://twitter.com/search?q=%e7%a5%9e%e6%88%b8%e3%81%8f%e3%82%93) | N/A |
+| 31 | [ワンパンマン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
+| 32 | [ゆんぎさん](http://twitter.com/search?q=%e3%82%86%e3%82%93%e3%81%8e%e3%81%95%e3%82%93) | N/A |
+| 33 | [リクエストアワー](http://twitter.com/search?q=%e3%83%aa%e3%82%af%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 34 | [オールナイトニッポンX](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3X) | オールナイトニッポンX is a Japanese radio program that airs on Nippon Cultural Broadcasting. It is a talk show that features interviews with celebrities and discussions about various topics. The name of the show translates to "All Night Nippon X" in English. |
 | 35 | [VolKno](http://twitter.com/search?q=VolKno) | N/A |
-| 36 | [第226話](http://twitter.com/search?q=%e7%ac%ac226%e8%a9%b1) | N/A |
-| 37 | [ティルティ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%ab%e3%83%86%e3%82%a3) | N/A |
-| 38 | [みぉーん](http://twitter.com/search?q=%e3%81%bf%e3%81%89%e3%83%bc%e3%82%93) | N/A |
-| 39 | [ユンちゃん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 41 | [瑠姫くん](http://twitter.com/search?q=%e7%91%a0%e5%a7%ab%e3%81%8f%e3%82%93) | 瑠姫くん is a character from the Japanese manga series, Chihayafuru. The character's name is Ruka Tsukuba and she is a high school student who loves the card game karuta. In English, her name can be translated to "Ruka Princess". |
-| 42 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
-| 43 | [ワンパンマン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%91%e3%83%b3%e3%83%9e%e3%83%b3) | N/A |
-| 44 | [会話レベル](http://twitter.com/search?q=%e4%bc%9a%e8%a9%b1%e3%83%ac%e3%83%99%e3%83%ab) | N/A |
-| 45 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
-| 46 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
-| 47 | [Our Bright Parade](http://twitter.com/search?q=Our+Bright+Parade) | N/A |
-| 48 | [フランキー](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 49 | [となりのヤングジャンプ](http://twitter.com/search?q=%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e3%83%a4%e3%83%b3%e3%82%b0%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
-| 50 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
+| 36 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 37 | [ユンちゃん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [パラノマサイト](http://twitter.com/search?q=%e3%83%91%e3%83%a9%e3%83%8e%e3%83%9e%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 39 | [ティルティ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%ab%e3%83%86%e3%82%a3) | N/A |
+| 40 | [みぉーん](http://twitter.com/search?q=%e3%81%bf%e3%81%89%e3%83%bc%e3%82%93) | N/A |
+| 41 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
+| 42 | [となりのヤングジャンプ](http://twitter.com/search?q=%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e3%83%a4%e3%83%b3%e3%82%b0%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
+| 43 | [ゲッコー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
+| 44 | [瑠姫くん](http://twitter.com/search?q=%e7%91%a0%e5%a7%ab%e3%81%8f%e3%82%93) | 瑠姫くん is a character from the Japanese manga series, Chihayafuru. The character's name is Ruka Tsukuba and she is a high school student who loves the card game karuta. In English, her name can be translated to "Ruka Princess". |
+| 45 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
+| 46 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
+| 47 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
+| 48 | [#作画カロリーの低い作品を上げようぜ](http://twitter.com/search?q=%23%e4%bd%9c%e7%94%bb%e3%82%ab%e3%83%ad%e3%83%aa%e3%83%bc%e3%81%ae%e4%bd%8e%e3%81%84%e4%bd%9c%e5%93%81%e3%82%92%e4%b8%8a%e3%81%92%e3%82%88%e3%81%86%e3%81%9c) | N/A |
+| 49 | [#reocz](http://twitter.com/search?q=%23reocz) | N/A |
+| 50 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
 
 
 

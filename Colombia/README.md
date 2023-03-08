@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-08 18:17:43 UTC`
+📆 Last Updated: `2023-03-08 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,37 +20,38 @@ This is top 50 for Colombia
 | 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 4 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
-| 7 | [Mockus](http://twitter.com/search?q=Mockus) | N/A |
+| 6 | [Mockus](http://twitter.com/search?q=Mockus) | N/A |
+| 7 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
 | 8 | [Nequi](http://twitter.com/search?q=Nequi) | N/A |
 | 9 | [Augusto Rodríguez](http://twitter.com/search?q=Augusto+Rodr%c3%adguez) | N/A |
 | 10 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 12 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 13 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
-| 14 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
-| 15 | [La UNP](http://twitter.com/search?q=La+UNP) | N/A |
-| 16 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 17 | [Director](http://twitter.com/search?q=Director) | N/A |
-| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 19 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
-| 20 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
-| 21 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 22 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 23 | [#TodasSomosTrabajadoras](http://twitter.com/search?q=%23TodasSomosTrabajadoras) | N/A |
-| 24 | [#ColombiaWantsWRECKED](http://twitter.com/search?q=%23ColombiaWantsWRECKED) | N/A |
-| 25 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 26 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 27 | [#MiheroínaEs](http://twitter.com/search?q=%23Mihero%c3%adnaEs) | N/A |
-| 28 | [#OrgulloDeMujerColombiana](http://twitter.com/search?q=%23OrgulloDeMujerColombiana) | N/A |
-| 29 | [#GalloSeRoboAPereira](http://twitter.com/search?q=%23GalloSeRoboAPereira) | N/A |
-| 30 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 31 | [#AlPresidenteLePido](http://twitter.com/search?q=%23AlPresidenteLePido) | N/A |
-| 32 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 33 | [#EnVivo](http://twitter.com/search?q=%23EnVivo) | N/A |
-| 34 | [#NoAsesinenADayVasquez](http://twitter.com/search?q=%23NoAsesinenADayVasquez) | N/A |
-| 35 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 36 | [#CuidemosA](http://twitter.com/search?q=%23CuidemosA) | N/A |
+| 11 | [Plaza de Bolívar](http://twitter.com/search?q=Plaza+de+Bol%c3%advar) | N/A |
+| 12 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 13 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 14 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 15 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 16 | [La UNP](http://twitter.com/search?q=La+UNP) | N/A |
+| 17 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 18 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
+| 19 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 20 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 21 | [Director](http://twitter.com/search?q=Director) | N/A |
+| 22 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
+| 23 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 24 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
+| 25 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 26 | [#TodasSomosTrabajadoras](http://twitter.com/search?q=%23TodasSomosTrabajadoras) | N/A |
+| 27 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 28 | [#ColombiaWantsWRECKED](http://twitter.com/search?q=%23ColombiaWantsWRECKED) | N/A |
+| 29 | [#PelaezdeFranciscoenLaW](http://twitter.com/search?q=%23PelaezdeFranciscoenLaW) | N/A |
+| 30 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 31 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 32 | [#OrgulloDeMujerColombiana](http://twitter.com/search?q=%23OrgulloDeMujerColombiana) | N/A |
+| 33 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 34 | [#AlPresidenteLePido](http://twitter.com/search?q=%23AlPresidenteLePido) | N/A |
+| 35 | [#NoAsesinenADayVasquez](http://twitter.com/search?q=%23NoAsesinenADayVasquez) | N/A |
+| 36 | [#EnVivo](http://twitter.com/search?q=%23EnVivo) | N/A |
+| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

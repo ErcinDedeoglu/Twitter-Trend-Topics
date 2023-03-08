@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-08 18:16:58 UTC`
+📆 Last Updated: `2023-03-08 19:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 7 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 8 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 9 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 10 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 11 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 12 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 13 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 14 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 15 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 16 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
-| 19 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 20 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
-| 21 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
-| 22 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 23 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 24 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 25 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 26 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 27 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 28 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
-| 29 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 30 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 31 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 32 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 33 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 34 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 35 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 36 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 37 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
-| 38 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
-| 39 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 40 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
-| 41 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 42 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 43 | [#8MNadaQueCelebrar](http://twitter.com/search?q=%238MNadaQueCelebrar) | N/A |
-| 44 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
-| 45 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 46 | [#Starfield](http://twitter.com/search?q=%23Starfield) | N/A |
-| 47 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
-| 48 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 5 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 6 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 7 | [Palacio Nacional](http://twitter.com/search?q=Palacio+Nacional) | N/A |
+| 8 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 9 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 10 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 13 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 14 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 15 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 16 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 17 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 18 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Ministra Presidenta](http://twitter.com/search?q=Ministra+Presidenta) | N/A |
+| 23 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 24 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 25 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 26 | [Coatzacoalcos](http://twitter.com/search?q=Coatzacoalcos) | N/A |
+| 27 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
+| 28 | [Álvaro Delgado](http://twitter.com/search?q=%c3%81lvaro+Delgado) | N/A |
+| 29 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
+| 30 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 31 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 32 | [Hombres](http://twitter.com/search?q=Hombres) | N/A |
+| 33 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 34 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 35 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
+| 36 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 37 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 38 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 39 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 40 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 41 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 42 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 43 | [#Abrahamers](http://twitter.com/search?q=%23Abrahamers) | N/A |
+| 44 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 45 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 46 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 47 | [#NoSeMetanConMéxico](http://twitter.com/search?q=%23NoSeMetanConM%c3%a9xico) | N/A |
+| 48 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
 
 
 

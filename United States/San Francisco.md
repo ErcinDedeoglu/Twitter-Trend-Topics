@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-08 18:17:40 UTC`
+📆 Last Updated: `2023-03-08 19:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
-| 2 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 4 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 5 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 6 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 9 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 10 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 11 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 12 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 13 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
-| 14 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 16 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 17 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 18 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 19 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
-| 20 | [Breonna Taylor](http://twitter.com/search?q=Breonna+Taylor) | N/A |
-| 21 | [Benny Williams](http://twitter.com/search?q=Benny+Williams) | N/A |
-| 22 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 23 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 24 | [Rone](http://twitter.com/search?q=Rone) | N/A |
-| 25 | [Gone in 60](http://twitter.com/search?q=Gone+in+60) | N/A |
-| 26 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
-| 27 | [Kimi Raikkonen](http://twitter.com/search?q=Kimi+Raikkonen) | N/A |
-| 28 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
-| 29 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 30 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 31 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
-| 32 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 33 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
-| 34 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 35 | [Late Registration](http://twitter.com/search?q=Late+Registration) | N/A |
-| 36 | [MyFaction](http://twitter.com/search?q=MyFaction) | N/A |
-| 37 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 38 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 39 | [Greg Oden](http://twitter.com/search?q=Greg+Oden) | N/A |
+| 1 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 2 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 3 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 4 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 5 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 7 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 10 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 11 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 12 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 13 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 14 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 15 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
+| 16 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 17 | [Batman Begins](http://twitter.com/search?q=Batman+Begins) | N/A |
+| 18 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 19 | [Daivien Williamson](http://twitter.com/search?q=Daivien+Williamson) | N/A |
+| 20 | [Mask of the Phantasm](http://twitter.com/search?q=Mask+of+the+Phantasm) | N/A |
+| 21 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 23 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
+| 24 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 25 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 26 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 27 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 28 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
+| 29 | [Judah Mintz](http://twitter.com/search?q=Judah+Mintz) | N/A |
+| 30 | [Benny Williams](http://twitter.com/search?q=Benny+Williams) | N/A |
+| 31 | [Batman Returns](http://twitter.com/search?q=Batman+Returns) | N/A |
+| 32 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 33 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
+| 34 | [Markwayne](http://twitter.com/search?q=Markwayne) | N/A |
+| 35 | [cole sprouse](http://twitter.com/search?q=cole+sprouse) | N/A |
+| 36 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
+| 37 | [Deacs](http://twitter.com/search?q=Deacs) | N/A |
+| 38 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
+| 39 | [Shredder](http://twitter.com/search?q=Shredder) | N/A |
 | 40 | [Batman Forever](http://twitter.com/search?q=Batman+Forever) | N/A |
-| 41 | [Jesse Edwards](http://twitter.com/search?q=Jesse+Edwards) | N/A |
-| 42 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 43 | [Eragon](http://twitter.com/search?q=Eragon) | N/A |
-| 44 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 45 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
-| 46 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
-| 47 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 48 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 49 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 50 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 41 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 42 | [The Dark Knight](http://twitter.com/search?q=The+Dark+Knight) | N/A |
+| 43 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 44 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 45 | [Alice Walker](http://twitter.com/search?q=Alice+Walker) | N/A |
+| 46 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 47 | [George Mason](http://twitter.com/search?q=George+Mason) | N/A |
+| 48 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 49 | [Gone in 60](http://twitter.com/search?q=Gone+in+60) | N/A |
+| 50 | [Rone](http://twitter.com/search?q=Rone) | N/A |
 
 
 

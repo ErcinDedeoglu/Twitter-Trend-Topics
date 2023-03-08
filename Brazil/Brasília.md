@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-08 18:17:03 UTC`
+📆 Last Updated: `2023-03-08 19:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 2 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 1 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 3 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 4 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 5 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 6 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 7 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [#DiaInternacionalDaMulher](http://twitter.com/search?q=%23DiaInternacionalDaMulher) | N/A |
+| 6 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
 | 9 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 10 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 11 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 14 | [Cactos](http://twitter.com/search?q=Cactos) | N/A |
-| 15 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 16 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 17 | [Don't Forget](http://twitter.com/search?q=Don%27t+Forget) | N/A |
-| 18 | [Here We Go Again](http://twitter.com/search?q=Here+We+Go+Again) | N/A |
-| 19 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 20 | [Tell Me You Love Me](http://twitter.com/search?q=Tell+Me+You+Love+Me) | N/A |
-| 21 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 22 | [Gonçalves](http://twitter.com/search?q=Gon%c3%a7alves) | N/A |
-| 23 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
-| 24 | [MOTHER MOTHER](http://twitter.com/search?q=MOTHER+MOTHER) | N/A |
-| 25 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
-| 26 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 27 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 28 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 29 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
-| 30 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
-| 31 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 32 | [Celina](http://twitter.com/search?q=Celina) | N/A |
-| 33 | [Julietona](http://twitter.com/search?q=Julietona) | N/A |
-| 34 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 35 | [Guinho](http://twitter.com/search?q=Guinho) | N/A |
-| 36 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
-| 37 | [Jair Renan](http://twitter.com/search?q=Jair+Renan) | N/A |
-| 38 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 39 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 40 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 41 | [Drop It](http://twitter.com/search?q=Drop+It) | N/A |
-| 42 | [3x1 PSG](http://twitter.com/search?q=3x1+PSG) | N/A |
-| 43 | [Reginaldo](http://twitter.com/search?q=Reginaldo) | N/A |
-| 44 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 45 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 46 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 47 | [FELIZ ANIVERSÁRIO MEU AMOR](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+MEU+AMOR) | N/A |
-| 48 | [Poupar](http://twitter.com/search?q=Poupar) | N/A |
-| 49 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 50 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 10 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 11 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 12 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 13 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 14 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 15 | [Don't Forget](http://twitter.com/search?q=Don%27t+Forget) | N/A |
+| 16 | [Here We Go Again](http://twitter.com/search?q=Here+We+Go+Again) | N/A |
+| 17 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 18 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 19 | [Tell Me You Love Me](http://twitter.com/search?q=Tell+Me+You+Love+Me) | N/A |
+| 20 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 21 | [Cactos](http://twitter.com/search?q=Cactos) | N/A |
+| 22 | [HOLY FVCK](http://twitter.com/search?q=HOLY+FVCK) | N/A |
+| 23 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 24 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
+| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 26 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 27 | [Gonçalves](http://twitter.com/search?q=Gon%c3%a7alves) | N/A |
+| 28 | [De Lucca](http://twitter.com/search?q=De+Lucca) | N/A |
+| 29 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 30 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 31 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 32 | [Erika Hilton](http://twitter.com/search?q=Erika+Hilton) | N/A |
+| 33 | [Celina](http://twitter.com/search?q=Celina) | N/A |
+| 34 | [A Pequena Sereia](http://twitter.com/search?q=A+Pequena+Sereia) | N/A |
+| 35 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 36 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 37 | [100gecs](http://twitter.com/search?q=100gecs) | N/A |
+| 38 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 39 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
+| 40 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
+| 41 | [Julietona](http://twitter.com/search?q=Julietona) | N/A |
+| 42 | [Sofi Tukker](http://twitter.com/search?q=Sofi+Tukker) | N/A |
+| 43 | [Guinho](http://twitter.com/search?q=Guinho) | N/A |
+| 44 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 45 | [Jair Renan](http://twitter.com/search?q=Jair+Renan) | N/A |
+| 46 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 47 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 48 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
+| 49 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 50 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
 
 
 

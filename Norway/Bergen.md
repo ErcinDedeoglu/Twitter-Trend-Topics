@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-08 18:17:12 UTC`
+📆 Last Updated: `2023-03-08 19:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,38 +31,38 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
 | 15 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 16 | [God 8](http://twitter.com/search?q=God+8) | N/A |
-| 17 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 18 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
-| 19 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 20 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 22 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 24 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 25 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
-| 26 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 27 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 28 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 29 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
-| 30 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
-| 31 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 32 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 34 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 35 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 36 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
-| 37 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
-| 38 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 25 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 26 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
+| 27 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 28 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 29 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
+| 30 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
+| 31 | [Åsane](http://twitter.com/search?q=%c3%85sane) | N/A |
+| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 33 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 37 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 38 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 39 | [Exit](http://twitter.com/search?q=Exit) | N/A |
 | 40 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
 | 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 42 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 43 | [dostie](http://twitter.com/search?q=dostie) | N/A |
-| 44 | [London](http://twitter.com/search?q=London) | N/A |
-| 45 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 46 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
-| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 48 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 45 | [dostie](http://twitter.com/search?q=dostie) | N/A |
+| 46 | [London](http://twitter.com/search?q=London) | N/A |
+| 47 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 48 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
 
 
 
