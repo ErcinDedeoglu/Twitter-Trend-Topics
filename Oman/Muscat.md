@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-08 01:44:46 UTC`
+📆 Last Updated: `2023-03-08 02:42:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Oman](</Oman>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تواصل_رقمي_لنجاح_مجتمعي](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%d8%b1%d9%82%d9%85%d9%8a_%d9%84%d9%86%d8%ac%d8%a7%d8%ad_%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
-| 2 | [#املنا_السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%84%d9%86%d8%a7_%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 2 | [#تواصل_رقمي_لنجاح_مجتمعي](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%d8%b1%d9%82%d9%85%d9%8a_%d9%84%d9%86%d8%ac%d8%a7%d8%ad_%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
 | 3 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 4 | [#اسبوع_الامن_الالكتروني](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 5 | [#نيلوه_لنس_مي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%84%d9%88%d9%87_%d9%84%d9%86%d8%b3_%d9%85%d9%8a) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Oman](</Oman>)
 | 10 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
 | 11 | [حصه النشاط](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7) | N/A |
 | 12 | [البرنامج الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 13 | [الرييس الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 14 | [الاكاديميه السلطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 15 | [الاستخدام الامن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 16 | [الفهد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
-| 17 | [دوري الدرجه الاولي](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 18 | [عبدالله البقمي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a8%d9%82%d9%85%d9%8a) | N/A |
-| 19 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
-| 20 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 21 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 22 | [الغاز الطبيعي المسال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84) | N/A |
-| 23 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 24 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 25 | [الوزير المسوول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%88%d9%84) | N/A |
-| 26 | [الملكيه الفكريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%83%d8%b1%d9%8a%d9%87) | الملكيه الفكريه is an Arabic phrase that translates to "intellectual property" in English. It refers to creations of the mind, such as inventions, literary and artistic works, designs, and symbols, names and images used in commerce. |
-| 27 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 28 | [أحمد الخليلي](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 29 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 30 | [جنوب الشرقيه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 31 | [اكبر مصدر](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d9%85%d8%b5%d8%af%d8%b1) | N/A |
-| 32 | [صور العفيه](http://twitter.com/search?q=%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d9%81%d9%8a%d9%87) | N/A |
-| 33 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 34 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 35 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 36 | [وشمال افريقيا](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 37 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 38 | [الرقابه الابويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 39 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 40 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 41 | [بدر بن سعود البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
-| 42 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 43 | [الفرز الالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 44 | [المتحف العماني الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 45 | [حصه الرياده](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%af%d9%87) | N/A |
-| 46 | [المجال الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 47 | [المدرسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 48 | [الجرايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [الطالبات الموهوبات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%88%d8%a8%d8%a7%d8%aa) | N/A |
-| 50 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 13 | [الاكاديميه السلطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 14 | [الفهد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
+| 15 | [الرييس الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 16 | [دوري الدرجه الاولي](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 17 | [عبدالله البقمي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a8%d9%82%d9%85%d9%8a) | N/A |
+| 18 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 19 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 20 | [الغاز الطبيعي المسال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84) | N/A |
+| 21 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 22 | [الاستخدام الامن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 23 | [الوزير المسوول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%88%d9%84) | N/A |
+| 24 | [الملكيه الفكريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%83%d8%b1%d9%8a%d9%87) | الملكيه الفكريه is an Arabic phrase that translates to "intellectual property" in English. It refers to creations of the mind, such as inventions, literary and artistic works, designs, and symbols, names and images used in commerce. |
+| 25 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [جنوب الشرقيه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
+| 27 | [اكبر مصدر](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d9%85%d8%b5%d8%af%d8%b1) | N/A |
+| 28 | [صور العفيه](http://twitter.com/search?q=%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d9%81%d9%8a%d9%87) | N/A |
+| 29 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 30 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 31 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 32 | [وشمال افريقيا](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 33 | [الرقابه الابويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 34 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 35 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 36 | [بدر بن سعود البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 37 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 38 | [الفرز الالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 39 | [المتحف العماني الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 40 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
+| 41 | [حصه الرياده](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%af%d9%87) | N/A |
+| 42 | [أحمد الخليلي](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 43 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 44 | [المدرسه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 45 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 46 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 47 | [الجرايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 48 | [الطالبات الموهوبات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%88%d8%a8%d8%a7%d8%aa) | N/A |
+| 49 | [احمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 50 | [نصف الشهر](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
 
 
 

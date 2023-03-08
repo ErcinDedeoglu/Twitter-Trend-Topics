@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-08 01:45:02 UTC`
+📆 Last Updated: `2023-03-08 02:43:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Israel
 | 18 | [האחים הלל](http://twitter.com/search?q=%d7%94%d7%90%d7%97%d7%99%d7%9d+%d7%94%d7%9c%d7%9c) | N/A |
 | 19 | [ניב רסקין](http://twitter.com/search?q=%d7%a0%d7%99%d7%91+%d7%a8%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
 | 20 | [סיירת גולני](http://twitter.com/search?q=%d7%a1%d7%99%d7%99%d7%a8%d7%aa+%d7%92%d7%95%d7%9c%d7%a0%d7%99) | N/A |
-| 21 | [ישראל זיו](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%96%d7%99%d7%95) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [הפשרה של](http://twitter.com/search?q=%d7%94%d7%a4%d7%a9%d7%a8%d7%94+%d7%a9%d7%9c) | N/A |
-| 24 | [דוגמן תחתונים](http://twitter.com/search?q=%d7%93%d7%95%d7%92%d7%9e%d7%9f+%d7%aa%d7%97%d7%aa%d7%95%d7%a0%d7%99%d7%9d) | N/A |
-| 25 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
-| 26 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
-| 27 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
-| 28 | [עם מתנחלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%99%d7%9d) | N/A |
-| 29 | [יובל דיסקין](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [היו קשורים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%a7%d7%a9%d7%95%d7%a8%d7%99%d7%9d) | N/A |
-| 32 | [עם קטינות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a7%d7%98%d7%99%d7%a0%d7%95%d7%aa) | N/A |
-| 33 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 34 | [של הרצוג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
-| 35 | [לו רוב](http://twitter.com/search?q=%d7%9c%d7%95+%d7%a8%d7%95%d7%91) | N/A |
-| 36 | [ר שלמה](http://twitter.com/search?q=%d7%a8+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 37 | [#حواره](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%a7%d8%b1%d9%87) | N/A |
-| 38 | [ואני בז](http://twitter.com/search?q=%d7%95%d7%90%d7%a0%d7%99+%d7%91%d7%96) | N/A |
-| 39 | [יוסי בניון](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%91%d7%a0%d7%99%d7%95%d7%9f) | N/A |
-| 40 | [عبد الفتاح](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
-| 41 | [עבד אל](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%90%d7%9c) | N/A |
-| 42 | [mti - ashram](http://twitter.com/search?q=mti+-+ashram) | N/A |
-| 43 | [של בנק ישראל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [הפשרה של](http://twitter.com/search?q=%d7%94%d7%a4%d7%a9%d7%a8%d7%94+%d7%a9%d7%9c) | N/A |
+| 23 | [דוגמן תחתונים](http://twitter.com/search?q=%d7%93%d7%95%d7%92%d7%9e%d7%9f+%d7%aa%d7%97%d7%aa%d7%95%d7%a0%d7%99%d7%9d) | N/A |
+| 24 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 25 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
+| 26 | [רוב אוטומטי](http://twitter.com/search?q=%d7%a8%d7%95%d7%91+%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99) | N/A |
+| 27 | [עם מתנחלים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%aa%d7%a0%d7%97%d7%9c%d7%99%d7%9d) | N/A |
+| 28 | [יובל דיסקין](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9f) | N/A |
+| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 30 | [היו קשורים](http://twitter.com/search?q=%d7%94%d7%99%d7%95+%d7%a7%d7%a9%d7%95%d7%a8%d7%99%d7%9d) | N/A |
+| 31 | [עם קטינות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a7%d7%98%d7%99%d7%a0%d7%95%d7%aa) | N/A |
+| 32 | [ל בג](http://twitter.com/search?q=%d7%9c+%d7%91%d7%92) | N/A |
+| 33 | [של הרצוג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a8%d7%a6%d7%95%d7%92) | N/A |
+| 34 | [לו רוב](http://twitter.com/search?q=%d7%9c%d7%95+%d7%a8%d7%95%d7%91) | N/A |
+| 35 | [ר שלמה](http://twitter.com/search?q=%d7%a8+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 36 | [#حواره](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%a7%d8%b1%d9%87) | N/A |
+| 37 | [ואני בז](http://twitter.com/search?q=%d7%95%d7%90%d7%a0%d7%99+%d7%91%d7%96) | N/A |
+| 38 | [יוסי בניון](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%91%d7%a0%d7%99%d7%95%d7%9f) | N/A |
+| 39 | [عبد الفتاح](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad) | N/A |
+| 40 | [עבד אל](http://twitter.com/search?q=%d7%a2%d7%91%d7%93+%d7%90%d7%9c) | N/A |
+| 41 | [mti - ashram](http://twitter.com/search?q=mti+-+ashram) | N/A |
+| 42 | [של בנק ישראל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 43 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
 | 44 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
-| 45 | [ל בג](http://twitter.com/search?q=%d7%9c+%d7%91%d7%92) | N/A |
-| 46 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
-| 47 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
-| 48 | [אליעזר שקדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a2%d7%96%d7%a8+%d7%a9%d7%a7%d7%93%d7%99) | N/A |
-| 49 | [עם חיילים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%99%d7%99%d7%9c%d7%99%d7%9d) | N/A |
-| 50 | [שלי״](http://twitter.com/search?q=%d7%a9%d7%9c%d7%99%d7%b4) | N/A |
+| 45 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
+| 46 | [אליעזר שקדי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%a2%d7%96%d7%a8+%d7%a9%d7%a7%d7%93%d7%99) | N/A |
+| 47 | [ישראל זיו](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%96%d7%99%d7%95) | N/A |
+| 48 | [עם חיילים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%99%d7%99%d7%9c%d7%99%d7%9d) | N/A |
+| 49 | [שלי״](http://twitter.com/search?q=%d7%a9%d7%9c%d7%99%d7%b4) | N/A |
+| 50 | [ערן זהבי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
 
 
 

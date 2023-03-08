@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-08 01:45:04 UTC`
+📆 Last Updated: `2023-03-08 02:43:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for Norway
 | 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Salvesen](http://twitter.com/search?q=Salvesen) | N/A |
+| 7 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 8 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 9 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
+| 9 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 | 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 11 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 12 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
@@ -31,9 +31,9 @@ This is top 50 for Norway
 | 14 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 15 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
 | 16 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 17 | [Liverød](http://twitter.com/search?q=Liver%c3%b8d) | N/A |
+| 17 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
 | 18 | [Poenget](http://twitter.com/search?q=Poenget) | N/A |
-| 19 | [Trøim](http://twitter.com/search?q=Tr%c3%b8im) | N/A |
+| 19 | [trøim](http://twitter.com/search?q=tr%c3%b8im) | N/A |
 | 20 | [Tajik](http://twitter.com/search?q=Tajik) | N/A |
 | 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 22 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Norway
 | 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 36 | [#WarriorNun](http://twitter.com/search?q=%23WarriorNun) | N/A |
 | 37 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 38 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 39 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
+| 38 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
+| 39 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
 | 40 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 41 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 42 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 43 | [Lost](http://twitter.com/search?q=Lost) | N/A |
-| 44 | [dostie](http://twitter.com/search?q=dostie) | N/A |
-| 45 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 46 | [viken](http://twitter.com/search?q=viken) | N/A |
-| 47 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 48 | [TPLF](http://twitter.com/search?q=TPLF) | N/A |
-| 49 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 50 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 41 | [David](http://twitter.com/search?q=David) | N/A |
+| 42 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 43 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 44 | [Lost](http://twitter.com/search?q=Lost) | N/A |
+| 45 | [dostie](http://twitter.com/search?q=dostie) | N/A |
+| 46 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 47 | [viken](http://twitter.com/search?q=viken) | N/A |
+| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 49 | [TPLF](http://twitter.com/search?q=TPLF) | N/A |
+| 50 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 
 
 

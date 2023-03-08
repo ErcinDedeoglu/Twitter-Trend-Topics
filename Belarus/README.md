@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-08 01:45:00 UTC`
+📆 Last Updated: `2023-03-08 02:43:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [марта](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d1%82%d0%b0) | N/A |
+| 1 | [Марта](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%82%d0%b0) | N/A |
 | 2 | [Мачулищах](http://twitter.com/search?q=%d0%9c%d0%b0%d1%87%d1%83%d0%bb%d0%b8%d1%89%d0%b0%d1%85) | N/A |
 | 3 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 4 | [слава украине](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
@@ -34,10 +34,10 @@ This is top 50 for Belarus
 | 17 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 18 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 19 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
-| 20 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 20 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 21 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 22 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 23 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 23 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 24 | [#Metaverse](http://twitter.com/search?q=%23Metaverse) | N/A |
 | 25 | [вось](http://twitter.com/search?q=%d0%b2%d0%be%d1%81%d1%8c) | N/A |
 | 26 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |

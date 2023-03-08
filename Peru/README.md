@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-08 01:45:04 UTC`
+📆 Last Updated: `2023-03-08 02:43:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 2 | [Ilave](http://twitter.com/search?q=Ilave) | Ilave is a town in Peru located in the Puno Region. It is situated on the banks of the Ilave River, which flows into Lake Titicaca. The name Ilave comes from the Aymara language and means "river of gold". In English, it can be translated to mean "Golden River". |
-| 3 | [Tambo](http://twitter.com/search?q=Tambo) | N/A |
-| 4 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 5 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 6 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [#UNCLaurenPeru](http://twitter.com/search?q=%23UNCLaurenPeru) | N/A |
+| 1 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 2 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 3 | [Ilave](http://twitter.com/search?q=Ilave) | Ilave is a town in Peru located in the Puno Region. It is situated on the banks of the Ilave River, which flows into Lake Titicaca. The name Ilave comes from the Aymara language and means "river of gold". In English, it can be translated to mean "Golden River". |
+| 4 | [Tambo](http://twitter.com/search?q=Tambo) | N/A |
+| 5 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 6 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 7 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 11 | [Christian Cueva](http://twitter.com/search?q=Christian+Cueva) | N/A |
 | 12 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
-| 13 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 14 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 15 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 16 | [kaytranada](http://twitter.com/search?q=kaytranada) | N/A |
-| 17 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
-| 18 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 20 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 21 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 22 | [Becerra](http://twitter.com/search?q=Becerra) | N/A |
-| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 24 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
-| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 26 | [#LaEncerrona](http://twitter.com/search?q=%23LaEncerrona) | N/A |
-| 27 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 28 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 29 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 30 | [nehemías 5](http://twitter.com/search?q=nehem%c3%adas+5) | N/A |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
-| 33 | [Burberry](http://twitter.com/search?q=Burberry) | N/A |
-| 34 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
-| 35 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 36 | [Soldados](http://twitter.com/search?q=Soldados) | N/A |
-| 37 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
-| 38 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 39 | [Aymaras](http://twitter.com/search?q=Aymaras) | N/A |
-| 40 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
-| 41 | [Miente](http://twitter.com/search?q=Miente) | N/A |
-| 42 | [Estadio San Marcos](http://twitter.com/search?q=Estadio+San+Marcos) | N/A |
-| 43 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 44 | [bruno mars](http://twitter.com/search?q=bruno+mars) | N/A |
-| 45 | [La República](http://twitter.com/search?q=La+Rep%c3%bablica) | N/A |
-| 46 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 47 | [Comas](http://twitter.com/search?q=Comas) | N/A |
-| 48 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 49 | [Liubomir Fernández](http://twitter.com/search?q=Liubomir+Fern%c3%a1ndez) | N/A |
-| 50 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 13 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 14 | [#UNCLaurenPeru](http://twitter.com/search?q=%23UNCLaurenPeru) | N/A |
+| 15 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 16 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 17 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 18 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 19 | [kaytranada](http://twitter.com/search?q=kaytranada) | N/A |
+| 20 | [#BPTG_in_Your_Area](http://twitter.com/search?q=%23BPTG_in_Your_Area) | N/A |
+| 21 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
+| 24 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
+| 25 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 26 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
+| 27 | [Becerra](http://twitter.com/search?q=Becerra) | N/A |
+| 28 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 31 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 32 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 33 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 34 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
+| 35 | [nehemías 5](http://twitter.com/search?q=nehem%c3%adas+5) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
+| 38 | [Soldados](http://twitter.com/search?q=Soldados) | N/A |
+| 39 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
+| 40 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
+| 41 | [Aymaras](http://twitter.com/search?q=Aymaras) | N/A |
+| 42 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
+| 43 | [Miente](http://twitter.com/search?q=Miente) | N/A |
+| 44 | [Burberry](http://twitter.com/search?q=Burberry) | N/A |
+| 45 | [Comas](http://twitter.com/search?q=Comas) | N/A |
+| 46 | [Estadio San Marcos](http://twitter.com/search?q=Estadio+San+Marcos) | N/A |
+| 47 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 48 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 49 | [La República](http://twitter.com/search?q=La+Rep%c3%bablica) | N/A |
+| 50 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
 
 
 

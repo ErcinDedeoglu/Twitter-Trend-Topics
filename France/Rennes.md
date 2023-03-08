@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-08 01:44:25 UTC`
+📆 Last Updated: `2023-03-08 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,38 +31,31 @@ This is top 50 for [France](</France>)
 | 14 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
 | 15 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
 | 16 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 18 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 20 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
 | 21 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 22 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 23 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 24 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 25 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 26 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 27 | [Jon Bernthal](http://twitter.com/search?q=Jon+Bernthal) | N/A |
-| 28 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 29 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 30 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 31 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
-| 32 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 33 | [Manon](http://twitter.com/search?q=Manon) | N/A |
-| 34 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 35 | [#karmalaserie](http://twitter.com/search?q=%23karmalaserie) | N/A |
-| 36 | [#askpreta](http://twitter.com/search?q=%23askpreta) | N/A |
-| 37 | [#ParlonsBallroom](http://twitter.com/search?q=%23ParlonsBallroom) | N/A |
-| 38 | [#kyksday](http://twitter.com/search?q=%23kyksday) | N/A |
-| 39 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
-| 40 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 41 | [#DirectSenat](http://twitter.com/search?q=%23DirectSenat) | N/A |
-| 42 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 43 | [#brasdhonneur](http://twitter.com/search?q=%23brasdhonneur) | N/A |
-| 44 | [#DupondMoretti](http://twitter.com/search?q=%23DupondMoretti) | N/A |
-| 45 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
-| 46 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 47 | [#Renaissance](http://twitter.com/search?q=%23Renaissance) | N/A |
-| 48 | [#ThePromisedSaviour](http://twitter.com/search?q=%23ThePromisedSaviour) | N/A |
+| 22 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 23 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 24 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
+| 25 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 26 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 27 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
+| 28 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
+| 29 | [#karmalaserie](http://twitter.com/search?q=%23karmalaserie) | N/A |
+| 30 | [#askpreta](http://twitter.com/search?q=%23askpreta) | N/A |
+| 31 | [#ParlonsBallroom](http://twitter.com/search?q=%23ParlonsBallroom) | N/A |
+| 32 | [#kyksday](http://twitter.com/search?q=%23kyksday) | N/A |
+| 33 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 34 | [#DirectSenat](http://twitter.com/search?q=%23DirectSenat) | N/A |
+| 35 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
+| 36 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 37 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 38 | [#brasdhonneur](http://twitter.com/search?q=%23brasdhonneur) | N/A |
+| 39 | [#ATEEZWORLDTOUR2023](http://twitter.com/search?q=%23ATEEZWORLDTOUR2023) | N/A |
+| 40 | [#DupontMoretti](http://twitter.com/search?q=%23DupontMoretti) | N/A |
+| 41 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 
 
 

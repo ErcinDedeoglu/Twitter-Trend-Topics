@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-08 01:45:05 UTC`
+📆 Last Updated: `2023-03-08 02:43:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,16 +36,16 @@ This is top 50 for Portugal
 | 19 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 20 | [Futre](http://twitter.com/search?q=Futre) | N/A |
 | 21 | [Rafinha](http://twitter.com/search?q=Rafinha) | Rafinha is a Portuguese nickname meaning "little refined one". It is often used as a term of endearment for someone who is small and delicate. |
-| 22 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 25 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
-| 26 | [Istambul](http://twitter.com/search?q=Istambul) | N/A |
-| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 28 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
-| 29 | [CEO da TAP](http://twitter.com/search?q=CEO+da+TAP) | N/A |
-| 30 | [#ValeTudo](http://twitter.com/search?q=%23ValeTudo) | N/A |
-| 31 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
+| 24 | [Istambul](http://twitter.com/search?q=Istambul) | N/A |
+| 25 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 27 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 28 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 29 | [ceo da tap](http://twitter.com/search?q=ceo+da+tap) | N/A |
+| 30 | [#valetudo](http://twitter.com/search?q=%23valetudo) | N/A |
+| 31 | [Que GOLAÇO](http://twitter.com/search?q=Que+GOLA%c3%87O) | N/A |
 | 32 | [Quartos](http://twitter.com/search?q=Quartos) | N/A |
 | 33 | [Estádio da Luz](http://twitter.com/search?q=Est%c3%a1dio+da+Luz) | N/A |
 | 34 | [Medina](http://twitter.com/search?q=Medina) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Portugal
 | 37 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
 | 38 | [Noa Lang](http://twitter.com/search?q=Noa+Lang) | N/A |
 | 39 | [Morato](http://twitter.com/search?q=Morato) | N/A |
-| 40 | [SUPER MÁRIO](http://twitter.com/search?q=SUPER+M%c3%81RIO) | N/A |
-| 41 | [Bispo de Beja](http://twitter.com/search?q=Bispo+de+Beja) | N/A |
-| 42 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 43 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 40 | [Super Mário](http://twitter.com/search?q=Super+M%c3%a1rio) | N/A |
+| 41 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 42 | [Bispo de Beja](http://twitter.com/search?q=Bispo+de+Beja) | N/A |
+| 43 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
 | 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 45 | [Lousada](http://twitter.com/search?q=Lousada) | N/A |
-| 46 | [Bruna Gomes](http://twitter.com/search?q=Bruna+Gomes) | N/A |
-| 47 | [#sangueoculto](http://twitter.com/search?q=%23sangueoculto) | N/A |
-| 48 | [VAMOS CARALHO](http://twitter.com/search?q=VAMOS+CARALHO) | N/A |
-| 49 | [Lívia](http://twitter.com/search?q=L%c3%advia) | N/A |
-| 50 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 46 | [BRUNA GOMES](http://twitter.com/search?q=BRUNA+GOMES) | N/A |
+| 47 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 48 | [#sangueoculto](http://twitter.com/search?q=%23sangueoculto) | N/A |
+| 49 | [vamos caralho](http://twitter.com/search?q=vamos+caralho) | N/A |
+| 50 | [Lívia](http://twitter.com/search?q=L%c3%advia) | N/A |
 
 
 

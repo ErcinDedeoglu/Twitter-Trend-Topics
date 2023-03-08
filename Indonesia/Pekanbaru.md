@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-08 01:44:31 UTC`
+📆 Last Updated: `2023-03-08 02:42:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,46 +19,46 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
 | 3 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
 | 4 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 5 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
-| 6 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 5 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 6 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
 | 7 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 8 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 9 | [Al Qur'an Sumber Kebenaran](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebenaran) | N/A |
-| 10 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 11 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 8 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 9 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 10 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
+| 11 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
 | 12 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 13 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 14 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
-| 15 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
-| 16 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 17 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Hari Perempuan Internasional](http://twitter.com/search?q=Hari+Perempuan+Internasional) | N/A |
-| 20 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 21 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 22 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 24 | [Waalaikumsalam](http://twitter.com/search?q=Waalaikumsalam) | N/A |
-| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 26 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
-| 27 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
-| 28 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 29 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 30 | [tanggal 7](http://twitter.com/search?q=tanggal+7) | N/A |
-| 31 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
-| 32 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
-| 33 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 34 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 37 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
-| 38 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 39 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 40 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
-| 41 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 13 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
+| 14 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 15 | [Al Qur'an Sumber Kebenaran](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebenaran) | N/A |
+| 16 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
+| 17 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 18 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 19 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
+| 20 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 21 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 22 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 23 | [tanggal 7](http://twitter.com/search?q=tanggal+7) | N/A |
+| 24 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 25 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
+| 26 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
+| 27 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 28 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 29 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 30 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 31 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
+| 32 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 33 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 34 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 37 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 38 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
+| 39 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
+| 40 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 41 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
 | 42 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 43 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 44 | [bakpia](http://twitter.com/search?q=bakpia) | N/A |
+| 43 | [thank you nctzen](http://twitter.com/search?q=thank+you+nctzen) | N/A |
+| 44 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
 
 
 

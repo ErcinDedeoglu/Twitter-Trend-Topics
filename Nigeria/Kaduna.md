@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-08 01:44:40 UTC`
+📆 Last Updated: `2023-03-08 02:42:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 2 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 3 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 6 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 7 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 4 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 5 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 10 | [Fufu](http://twitter.com/search?q=Fufu) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 13 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 14 | [Up the Chels](http://twitter.com/search?q=Up+the+Chels) | N/A |
-| 15 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 16 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 17 | [#KTBFFH](http://twitter.com/search?q=%23KTBFFH) | N/A |
-| 18 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 21 | [Fadeyi Oloro](http://twitter.com/search?q=Fadeyi+Oloro) | N/A |
-| 22 | [#CHEDOR](http://twitter.com/search?q=%23CHEDOR) | N/A |
-| 23 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 24 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 25 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 26 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 27 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
-| 28 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 29 | [Reece](http://twitter.com/search?q=Reece) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 33 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
-| 34 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 35 | [Midnight](http://twitter.com/search?q=Midnight) | N/A |
-| 36 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 37 | [First Bank](http://twitter.com/search?q=First+Bank) | N/A |
-| 38 | [Pressure](http://twitter.com/search?q=Pressure) | N/A |
-| 39 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
-| 40 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 41 | [#grevedu7mars](http://twitter.com/search?q=%23grevedu7mars) | N/A |
-| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 43 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 44 | [#HappyBirthdayTemi](http://twitter.com/search?q=%23HappyBirthdayTemi) | N/A |
-| 45 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 9 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 10 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 11 | [#SanwoforLagos](http://twitter.com/search?q=%23SanwoforLagos) | N/A |
+| 12 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 13 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 14 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 15 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 18 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
+| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 20 | [Midnight](http://twitter.com/search?q=Midnight) | N/A |
+| 21 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 22 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 23 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 24 | [Fufu](http://twitter.com/search?q=Fufu) | N/A |
+| 25 | [Buns](http://twitter.com/search?q=Buns) | N/A |
+| 26 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 27 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [KANAGA JNR NWACHINEMERE](http://twitter.com/search?q=KANAGA+JNR+NWACHINEMERE) | N/A |
+| 30 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 31 | [KFORCE CONTRIBUTION CHALLENGE](http://twitter.com/search?q=KFORCE+CONTRIBUTION+CHALLENGE) | N/A |
+| 32 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 33 | [FULL LIST](http://twitter.com/search?q=FULL+LIST) | N/A |
+| 34 | [Oba of Lagos](http://twitter.com/search?q=Oba+of+Lagos) | N/A |
+| 35 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 36 | [HARDWORKING PHYNA](http://twitter.com/search?q=HARDWORKING+PHYNA) | N/A |
+| 37 | [SANdalili](http://twitter.com/search?q=SANdalili) | N/A |
+| 38 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 39 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 40 | [ECOWAS](http://twitter.com/search?q=ECOWAS) | N/A |
+| 41 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 42 | [Fadeyi Oloro](http://twitter.com/search?q=Fadeyi+Oloro) | N/A |
+| 43 | [Benin](http://twitter.com/search?q=Benin) | N/A |
+| 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 46 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 47 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | N/A |
+| 48 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 49 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 50 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 
 
 

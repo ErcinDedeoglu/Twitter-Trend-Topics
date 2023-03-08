@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-08 01:44:50 UTC`
+📆 Last Updated: `2023-03-08 02:43:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,40 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#survivor2023](http://twitter.com/search?q=%23survivor2023) | N/A |
+| 1 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
 | 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 3 | [#8Mart](http://twitter.com/search?q=%238Mart) | N/A |
 | 4 | [#YenidenErdoganKazanacak](http://twitter.com/search?q=%23YenidenErdoganKazanacak) | N/A |
-| 5 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 6 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 7 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 8 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Buse](http://twitter.com/search?q=Buse) | N/A |
-| 12 | [Gandalf](http://twitter.com/search?q=Gandalf) | N/A |
-| 13 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
-| 14 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 15 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Osman Öcalan](http://twitter.com/search?q=Osman+%c3%96calan) | N/A |
-| 18 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 19 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 20 | [Gazi Mustafa Kemal Atatürk](http://twitter.com/search?q=Gazi+Mustafa+Kemal+Atat%c3%bcrk) | N/A |
-| 21 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 22 | [Andımız](http://twitter.com/search?q=And%c4%b1m%c4%b1z) | N/A |
-| 23 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
-| 24 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
-| 25 | [Nejat İşler](http://twitter.com/search?q=Nejat+%c4%b0%c5%9fler) | N/A |
-| 26 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 27 | [Bakanlık](http://twitter.com/search?q=Bakanl%c4%b1k) | N/A |
-| 28 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
-| 29 | [#basakdolunayi](http://twitter.com/search?q=%23basakdolunayi) | N/A |
-| 30 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
-| 31 | [#inceye](http://twitter.com/search?q=%23inceye) | N/A |
-| 32 | [#JinJiyanAzadi](http://twitter.com/search?q=%23JinJiyanAzadi) | N/A |
-| 33 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
-| 34 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
-| 35 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
-| 36 | [#SerenaySarikaya](http://twitter.com/search?q=%23SerenaySarikaya) | N/A |
-| 37 | [#KervanYürüyor](http://twitter.com/search?q=%23KervanY%c3%bcr%c3%bcyor) | N/A |
-| 38 | [#MedyaStajyerleAnkarada](http://twitter.com/search?q=%23MedyaStajyerleAnkarada) | N/A |
-| 39 | [#AkılCemberi](http://twitter.com/search?q=%23Ak%c4%b1lCemberi) | N/A |
-| 40 | [#KılıcdaroğluCumhurbaskanı](http://twitter.com/search?q=%23K%c4%b1l%c4%b1cdaro%c4%9fluCumhurbaskan%c4%b1) | N/A |
-| 41 | [#AmedsporHepVarOlacaktır](http://twitter.com/search?q=%23AmedsporHepVarOlacakt%c4%b1r) | N/A |
-| 42 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 43 | [#bbcs](http://twitter.com/search?q=%23bbcs) | N/A |
+| 5 | [#basakdolunayi](http://twitter.com/search?q=%23basakdolunayi) | N/A |
+| 6 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
+| 7 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 8 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 9 | [Kutlu](http://twitter.com/search?q=Kutlu) | N/A |
+| 10 | [Neşet Ertaş](http://twitter.com/search?q=Ne%c5%9fet+Erta%c5%9f) | N/A |
+| 11 | [Günümüz](http://twitter.com/search?q=G%c3%bcn%c3%bcm%c3%bcz) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Buse](http://twitter.com/search?q=Buse) | N/A |
+| 14 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 15 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 16 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 17 | [Gazi Mustafa Kemal Atatürk](http://twitter.com/search?q=Gazi+Mustafa+Kemal+Atat%c3%bcrk) | N/A |
+| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 19 | [Osman Öcalan](http://twitter.com/search?q=Osman+%c3%96calan) | N/A |
+| 20 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 21 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 22 | [Muhsin](http://twitter.com/search?q=Muhsin) | N/A |
+| 23 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
+| 24 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 25 | [#inceye](http://twitter.com/search?q=%23inceye) | N/A |
+| 26 | [#JinJiyanAzadi](http://twitter.com/search?q=%23JinJiyanAzadi) | N/A |
+| 27 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
+| 28 | [#kilot](http://twitter.com/search?q=%23kilot) | N/A |
+| 29 | [#kivanctatlitug](http://twitter.com/search?q=%23kivanctatlitug) | N/A |
+| 30 | [#SerenaySarıkaya](http://twitter.com/search?q=%23SerenaySar%c4%b1kaya) | N/A |
+| 31 | [#KervanYürüyor](http://twitter.com/search?q=%23KervanY%c3%bcr%c3%bcyor) | N/A |
+| 32 | [#AstsubaylarıÜzmeyin](http://twitter.com/search?q=%23Astsubaylar%c4%b1%c3%9czmeyin) | N/A |
+| 33 | [#KılıcdaroğluCumhurbaskanı](http://twitter.com/search?q=%23K%c4%b1l%c4%b1cdaro%c4%9fluCumhurbaskan%c4%b1) | N/A |
+| 34 | [#AmedsporHepVarOlacaktır](http://twitter.com/search?q=%23AmedsporHepVarOlacakt%c4%b1r) | N/A |
 
 
 

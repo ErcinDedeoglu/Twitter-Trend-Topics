@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-08 01:44:43 UTC`
+📆 Last Updated: `2023-03-08 02:42:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Jordan](</Jordan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
-| 2 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 3 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 4 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 2 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 3 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 4 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 5 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 6 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 7 | [الصحه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
@@ -34,9 +34,9 @@ This is top 50 for [Jordan](</Jordan>)
 | 17 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 18 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 19 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 20 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 21 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 22 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 20 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 21 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 22 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
 | 23 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 24 | [اربد](http://twitter.com/search?q=%d8%a7%d8%b1%d8%a8%d8%af) | N/A |
 | 25 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Jordan](</Jordan>)
 | 34 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
 | 35 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 36 | [مطار حلب الدولي](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%ad%d9%84%d8%a8+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 38 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 39 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 40 | [الاقامه السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
-| 41 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 42 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 43 | [باسل الاعرج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d8%b1%d8%ac) | N/A |
-| 44 | [السميع العليم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 45 | [المركز الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 46 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 47 | [مطار الملكه](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%87) | N/A |
-| 48 | [سوق الجمعه](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 49 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 50 | [علاوي حبيب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%88%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 37 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 38 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 39 | [الاقامه السنويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a%d9%87) | N/A |
+| 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 41 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
+| 42 | [باسل الاعرج](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d8%b1%d8%ac) | N/A |
+| 43 | [السميع العليم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 44 | [المركز الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 45 | [مطار الملكه](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%87) | N/A |
+| 46 | [سوق الجمعه](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 47 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 48 | [علاوي حبيب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%88%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 49 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 50 | [ابو حسين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 
 
 

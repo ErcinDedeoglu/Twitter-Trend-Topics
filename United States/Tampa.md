@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-08 01:44:58 UTC`
+📆 Last Updated: `2023-03-08 02:43:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 2 | [Colton](http://twitter.com/search?q=Colton) | N/A |
-| 3 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
-| 4 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 5 | [Barkley](http://twitter.com/search?q=Barkley) | Barkley is a slang term used to describe someone who is being overly enthusiastic or excited. It can also be used to describe someone who is being overly talkative or boisterous. |
-| 6 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 7 | [#Jan6th](http://twitter.com/search?q=%23Jan6th) | N/A |
-| 8 | [Capital](http://twitter.com/search?q=Capital) | N/A |
-| 9 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 10 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 13 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 14 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 15 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 16 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 17 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 19 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
-| 20 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 21 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 22 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 23 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 24 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
-| 25 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 26 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 29 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 30 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 31 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 32 | [Chris Finch](http://twitter.com/search?q=Chris+Finch) | N/A |
-| 33 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 35 | [Danny Dimes](http://twitter.com/search?q=Danny+Dimes) | Danny Dimes is a nickname given to New York Giants quarterback Daniel Jones. It is a play on words, as his last name is Jones and the term "dime" is slang for an excellent pass in American football. |
-| 36 | [Owners](http://twitter.com/search?q=Owners) | N/A |
-| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 38 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 39 | [Foggy](http://twitter.com/search?q=Foggy) | N/A |
-| 40 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 41 | [Kenny Payne](http://twitter.com/search?q=Kenny+Payne) | N/A |
-| 42 | [Lucky Charms](http://twitter.com/search?q=Lucky+Charms) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [NFLPA](http://twitter.com/search?q=NFLPA) | N/A |
-| 45 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 46 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 47 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 48 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 49 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 50 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
+| 2 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 3 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 4 | [Colton](http://twitter.com/search?q=Colton) | N/A |
+| 5 | [Dolphins](http://twitter.com/search?q=Dolphins) | Dolphins are highly intelligent marine mammals that live in the ocean. They are known for their playful behavior and their ability to communicate with humans. Dolphins are social animals and often form strong bonds with other dolphins in their pod. They are also known for their acrobatic abilities, such as leaping out of the water and performing tricks. |
+| 6 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 7 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 8 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 9 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 10 | [#Jan6th](http://twitter.com/search?q=%23Jan6th) | N/A |
+| 11 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 12 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
+| 13 | [Capital](http://twitter.com/search?q=Capital) | N/A |
+| 14 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 15 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 16 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 17 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 18 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 19 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 20 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 21 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
+| 22 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 23 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 24 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
+| 25 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 26 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 27 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 28 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 29 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 30 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 31 | [Palat](http://twitter.com/search?q=Palat) | N/A |
+| 32 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 33 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 34 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 35 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 36 | [Austin FC](http://twitter.com/search?q=Austin+FC) | N/A |
+| 37 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 38 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 39 | [Northern Kentucky](http://twitter.com/search?q=Northern+Kentucky) | N/A |
+| 40 | [Rudy Gobert](http://twitter.com/search?q=Rudy+Gobert) | N/A |
+| 41 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 42 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 43 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 44 | [Gafford](http://twitter.com/search?q=Gafford) | N/A |
+| 45 | [Haula](http://twitter.com/search?q=Haula) | N/A |
+| 46 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
+| 47 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 48 | [Lucky Charms](http://twitter.com/search?q=Lucky+Charms) | N/A |
+| 49 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 50 | [Grayson Waller](http://twitter.com/search?q=Grayson+Waller) | N/A |
 
 
 
