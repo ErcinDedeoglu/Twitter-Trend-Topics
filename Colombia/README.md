@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-08 00:29:39 UTC`
+📆 Last Updated: `2023-03-08 01:45:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Colombia
 | 4 | [#EsUnAtaque](http://twitter.com/search?q=%23EsUnAtaque) | N/A |
 | 5 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 6 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
 | 8 | [Severo Sinvergüenza](http://twitter.com/search?q=Severo+Sinverg%c3%bcenza) | N/A |
-| 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 10 | [#ANicolasLeDigo](http://twitter.com/search?q=%23ANicolasLeDigo) | N/A |
-| 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 12 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
-| 13 | [#VamosPorLasReformas](http://twitter.com/search?q=%23VamosPorLasReformas) | N/A |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 11 | [#VamosPorLasReformas](http://twitter.com/search?q=%23VamosPorLasReformas) | N/A |
+| 12 | [#ANicolasLeDigo](http://twitter.com/search?q=%23ANicolasLeDigo) | N/A |
+| 13 | [Renunciar](http://twitter.com/search?q=Renunciar) | N/A |
 | 14 | [Gerenta](http://twitter.com/search?q=Gerenta) | N/A |
-| 15 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 16 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 17 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
-| 18 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 15 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 16 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 17 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 18 | [Deporte](http://twitter.com/search?q=Deporte) | N/A |
 | 19 | [Farmatodo](http://twitter.com/search?q=Farmatodo) | N/A |
-| 20 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
-| 21 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 22 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 23 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 24 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
-| 25 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
-| 26 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
-| 27 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 28 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
-| 29 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 30 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
-| 31 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 32 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 33 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 34 | [Cerco Humanitario](http://twitter.com/search?q=Cerco+Humanitario) | N/A |
-| 35 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
-| 36 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 37 | [2013 Soltero](http://twitter.com/search?q=2013+Soltero) | N/A |
-| 38 | [Julito](http://twitter.com/search?q=Julito) | N/A |
-| 39 | [Manuela Beltrán](http://twitter.com/search?q=Manuela+Beltr%c3%a1n) | N/A |
-| 40 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 42 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
-| 43 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 44 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 45 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 46 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
-| 47 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
-| 48 | [Waffles](http://twitter.com/search?q=Waffles) | N/A |
-| 49 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 50 | [Davivienda](http://twitter.com/search?q=Davivienda) | N/A |
+| 20 | [Lina Tejeiro](http://twitter.com/search?q=Lina+Tejeiro) | N/A |
+| 21 | [Néstor Morales](http://twitter.com/search?q=N%c3%a9stor+Morales) | N/A |
+| 22 | [Enilce López](http://twitter.com/search?q=Enilce+L%c3%b3pez) | N/A |
+| 23 | [Tuboleta](http://twitter.com/search?q=Tuboleta) | N/A |
+| 24 | [La Gata](http://twitter.com/search?q=La+Gata) | N/A |
+| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 26 | [Stiglitz](http://twitter.com/search?q=Stiglitz) | N/A |
+| 27 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
+| 28 | [Granados](http://twitter.com/search?q=Granados) | N/A |
+| 29 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 30 | [2013 Soltero](http://twitter.com/search?q=2013+Soltero) | N/A |
+| 31 | [Cerco Humanitario](http://twitter.com/search?q=Cerco+Humanitario) | N/A |
+| 32 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 33 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 34 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
+| 35 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 36 | [Julito](http://twitter.com/search?q=Julito) | N/A |
+| 37 | [Manuela Beltrán](http://twitter.com/search?q=Manuela+Beltr%c3%a1n) | N/A |
+| 38 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 39 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 41 | [Emerald](http://twitter.com/search?q=Emerald) | N/A |
+| 42 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
+| 43 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 44 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 45 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 46 | [Luis Carlos Ruiz](http://twitter.com/search?q=Luis+Carlos+Ruiz) | N/A |
+| 47 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 48 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
+| 49 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
+| 50 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-08 00:29:06 UTC`
+📆 Last Updated: `2023-03-08 01:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Al Qur'an Sumber Kebenaran](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebenaran) | N/A |
-| 3 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
-| 4 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 5 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 6 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
-| 7 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
-| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 9 | [500 M](http://twitter.com/search?q=500+M) | N/A |
-| 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 11 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
-| 12 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 13 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 1 | [SEMANGAT 45](http://twitter.com/search?q=SEMANGAT+45) | N/A |
+| 2 | [ksad dudung abdurachman](http://twitter.com/search?q=ksad+dudung+abdurachman) | N/A |
+| 3 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
+| 4 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 5 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
+| 6 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 7 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 8 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 9 | [Al Qur'an Sumber Kebenaran](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebenaran) | N/A |
+| 10 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 11 | [la ode aris saputra](http://twitter.com/search?q=la+ode+aris+saputra) | N/A |
+| 12 | [Nisfu Sya'ban](http://twitter.com/search?q=Nisfu+Sya%27ban) | N/A |
+| 13 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
 | 14 | [Tangguh](http://twitter.com/search?q=Tangguh) | N/A |
-| 15 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 16 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 17 | [C55 NFC](http://twitter.com/search?q=C55+NFC) | N/A |
-| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
-| 21 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 22 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 25 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
-| 26 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
-| 27 | [Hari Perempuan Internasional](http://twitter.com/search?q=Hari+Perempuan+Internasional) | N/A |
-| 28 | [tanggal 7](http://twitter.com/search?q=tanggal+7) | N/A |
-| 29 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
-| 30 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
-| 31 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 32 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
-| 33 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 34 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
-| 35 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 36 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 15 | [Berjuang Di Jalan Allah](http://twitter.com/search?q=Berjuang+Di+Jalan+Allah) | N/A |
+| 16 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
+| 17 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Hari Perempuan Internasional](http://twitter.com/search?q=Hari+Perempuan+Internasional) | N/A |
+| 20 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 21 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 22 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 24 | [Waalaikumsalam](http://twitter.com/search?q=Waalaikumsalam) | N/A |
+| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 26 | [kerja prabowo terbukti](http://twitter.com/search?q=kerja+prabowo+terbukti) | N/A |
+| 27 | [nyamannya bareng prabowo](http://twitter.com/search?q=nyamannya+bareng+prabowo) | N/A |
+| 28 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
+| 29 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 30 | [tanggal 7](http://twitter.com/search?q=tanggal+7) | N/A |
+| 31 | [thank you dyandra](http://twitter.com/search?q=thank+you+dyandra) | N/A |
+| 32 | [see you again 7dream](http://twitter.com/search?q=see+you+again+7dream) | N/A |
+| 33 | [RSUD](http://twitter.com/search?q=RSUD) | N/A |
+| 34 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 36 | [Wulan](http://twitter.com/search?q=Wulan) | N/A |
 | 37 | [256gb champion memory](http://twitter.com/search?q=256gb+champion+memory) | N/A |
-| 38 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 39 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
-| 40 | [Uzbekistan](http://twitter.com/search?q=Uzbekistan) | N/A |
-| 41 | [bakpia](http://twitter.com/search?q=bakpia) | N/A |
-| 42 | [thank you miss e](http://twitter.com/search?q=thank+you+miss+e) | N/A |
-| 43 | [Chindo](http://twitter.com/search?q=Chindo) | N/A |
-| 44 | [Tersinggung](http://twitter.com/search?q=Tersinggung) | N/A |
+| 38 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 39 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 40 | [WHERE IS INDONESIA](http://twitter.com/search?q=WHERE+IS+INDONESIA) | N/A |
+| 41 | [Pertamina](http://twitter.com/search?q=Pertamina) | N/A |
+| 42 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 43 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 44 | [bakpia](http://twitter.com/search?q=bakpia) | N/A |
 
 
 

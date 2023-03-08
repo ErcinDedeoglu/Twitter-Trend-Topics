@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-08 00:29:42 UTC`
+📆 Last Updated: `2023-03-08 01:45:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for Latvia
 | 4 | [slava ukrainai](http://twitter.com/search?q=slava+ukrainai) | N/A |
 | 5 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 6 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 7 | [Bahmutas](http://twitter.com/search?q=Bahmutas) | N/A |
+| 7 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
 | 8 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 9 | [Avens](http://twitter.com/search?q=Avens) | N/A |
 | 10 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
 | 11 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
 | 12 | [pieminekļu](http://twitter.com/search?q=pieminek%c4%bcu) | N/A |
-| 13 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 13 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 14 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
 | 15 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
 | 16 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
@@ -48,19 +48,19 @@ This is top 50 for Latvia
 | 31 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 32 | [atceros](http://twitter.com/search?q=atceros) | N/A |
 | 33 | [upīša](http://twitter.com/search?q=up%c4%ab%c5%a1a) | N/A |
-| 34 | [Upīts](http://twitter.com/search?q=Up%c4%abts) | N/A |
-| 35 | [Padomju](http://twitter.com/search?q=Padomju) | N/A |
-| 36 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 37 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 38 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
-| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 40 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 41 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
-| 42 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 34 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 35 | [upīts](http://twitter.com/search?q=up%c4%abts) | N/A |
+| 36 | [Padomju](http://twitter.com/search?q=Padomju) | N/A |
+| 37 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 38 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 39 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |
+| 40 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 41 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 42 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 43 | [VARu](http://twitter.com/search?q=VARu) | N/A |
 | 44 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 | 45 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
-| 46 | [Šādi](http://twitter.com/search?q=%c5%a0%c4%81di) | N/A |
+| 46 | [šādi](http://twitter.com/search?q=%c5%a1%c4%81di) | N/A |
 | 47 | [šoreiz](http://twitter.com/search?q=%c5%a1oreiz) | N/A |
 | 48 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 49 | [Ulmanis](http://twitter.com/search?q=Ulmanis) | N/A |

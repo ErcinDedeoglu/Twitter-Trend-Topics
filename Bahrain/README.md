@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-08 00:29:38 UTC`
+📆 Last Updated: `2023-03-08 01:45:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Bahrain
 | 2 | [#المهدي_المنتظر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a_%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1) | N/A |
 | 3 | [#مولد_الحجه](http://twitter.com/search?q=%23%d9%85%d9%88%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d8%ac%d9%87) | N/A |
 | 4 | [#متباركين](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%a8%d8%a7%d8%b1%d9%83%d9%8a%d9%86) | N/A |
-| 5 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 6 | [#جسر_الملك_فهد](http://twitter.com/search?q=%23%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d9%81%d9%87%d8%af) | N/A |
-| 7 | [ابن الحسن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 8 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 5 | [#جسر_الملك_فهد](http://twitter.com/search?q=%23%d8%ac%d8%b3%d8%b1_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d9%81%d9%87%d8%af) | N/A |
+| 6 | [ابن الحسن](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 7 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 8 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
 | 9 | [الحجه المنتظر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%ac%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1) | N/A |
 | 10 | [الامام الحجه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%ac%d9%87) | N/A |
 | 11 | [عين الحياه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
@@ -33,8 +33,8 @@ This is top 50 for Bahrain
 | 16 | [بنور الحجه](http://twitter.com/search?q=%d8%a8%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ad%d8%ac%d9%87) | N/A |
 | 17 | [للسعودية](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
 | 18 | [الطلعه الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 19 | [الامام المنتظر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1) | N/A |
-| 20 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 19 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 20 | [الامام المنتظر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1) | N/A |
 | 21 | [الغره الحميده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d9%8a%d8%af%d9%87) | N/A |
 | 22 | [جسر الملك](http://twitter.com/search?q=%d8%ac%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
 | 23 | [عيسي بن سلمان](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Bahrain
 | 36 | [علي حسب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8) | N/A |
 | 37 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 38 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 39 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
+| 39 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 40 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
 | 41 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
 | 42 | [هون علي](http://twitter.com/search?q=%d9%87%d9%88%d9%86+%d8%b9%d9%84%d9%8a) | N/A |

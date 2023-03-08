@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-08 00:29:14 UTC`
+📆 Last Updated: `2023-03-08 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
-| 2 | [#READYTOBE_1M_PREORDER](http://twitter.com/search?q=%23READYTOBE_1M_PREORDER) | N/A |
-| 3 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
-| 4 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
-| 5 | [#WILDTONIGHTonWishclusive](http://twitter.com/search?q=%23WILDTONIGHTonWishclusive) | N/A |
-| 6 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
-| 7 | [AMBASSADOR JENNIE FOR CHANEL](http://twitter.com/search?q=AMBASSADOR+JENNIE+FOR+CHANEL) | N/A |
-| 8 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 9 | [#HindiAkoNagseselos](http://twitter.com/search?q=%23HindiAkoNagseselos) | N/A |
-| 10 | [Mahal Kita](http://twitter.com/search?q=Mahal+Kita) | N/A |
-| 11 | [bgyo twitter comeback](http://twitter.com/search?q=bgyo+twitter+comeback) | N/A |
-| 12 | [READY TO BE FREED](http://twitter.com/search?q=READY+TO+BE+FREED) | N/A |
-| 13 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 14 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 15 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 16 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
-| 17 | [BGYO ON TIKTOCLOCK GMA](http://twitter.com/search?q=BGYO+ON+TIKTOCLOCK+GMA) | N/A |
-| 18 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
-| 19 | [mahae selca](http://twitter.com/search?q=mahae+selca) | N/A |
-| 20 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
-| 21 | [Bea De Leon](http://twitter.com/search?q=Bea+De+Leon) | N/A |
-| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 1 | [#CANCELKPOPJAGIYAPH](http://twitter.com/search?q=%23CANCELKPOPJAGIYAPH) | N/A |
+| 2 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
+| 3 | [#DonnyPartnersWithSunLife](http://twitter.com/search?q=%23DonnyPartnersWithSunLife) | N/A |
+| 4 | [#ANewDONIsRising](http://twitter.com/search?q=%23ANewDONIsRising) | N/A |
+| 5 | [KMJS](http://twitter.com/search?q=KMJS) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [#WILDTONIGHTonWishclusive](http://twitter.com/search?q=%23WILDTONIGHTonWishclusive) | N/A |
+| 8 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
+| 9 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 10 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 11 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 12 | [Kadiwa](http://twitter.com/search?q=Kadiwa) | N/A |
+| 13 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 14 | [Mahal Kita](http://twitter.com/search?q=Mahal+Kita) | N/A |
+| 15 | [bgyo twitter comeback](http://twitter.com/search?q=bgyo+twitter+comeback) | N/A |
+| 16 | [Manggagawa](http://twitter.com/search?q=Manggagawa) | N/A |
+| 17 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 18 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 19 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 20 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 21 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
+| 22 | [BGYO ON TIKTOCLOCK GMA](http://twitter.com/search?q=BGYO+ON+TIKTOCLOCK+GMA) | N/A |
 | 23 | [FEEL BETTER KTY](http://twitter.com/search?q=FEEL+BETTER+KTY) | N/A |
-| 24 | [tyang aby](http://twitter.com/search?q=tyang+aby) | N/A |
-| 25 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 26 | [teendaystogo clashmates](http://twitter.com/search?q=teendaystogo+clashmates) | N/A |
-| 27 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
-| 28 | [romansik day with you](http://twitter.com/search?q=romansik+day+with+you) | N/A |
-| 29 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 30 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
-| 31 | [FUTURE CEO](http://twitter.com/search?q=FUTURE+CEO) | N/A |
-| 32 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 33 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 34 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 35 | [MYLA](http://twitter.com/search?q=MYLA) | N/A |
-| 36 | [Mana MV](http://twitter.com/search?q=Mana+MV) | N/A |
-| 37 | [5 DAYS TO ROVER](http://twitter.com/search?q=5+DAYS+TO+ROVER) | N/A |
-| 38 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 39 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
-| 40 | [sunoo live](http://twitter.com/search?q=sunoo+live) | N/A |
-| 41 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 42 | [WITHOUT U IS OUT NOW](http://twitter.com/search?q=WITHOUT+U+IS+OUT+NOW) | N/A |
-| 43 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
-| 44 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 45 | [HOW ARE YOU BABE](http://twitter.com/search?q=HOW+ARE+YOU+BABE) | N/A |
-| 46 | [the chaos chapter](http://twitter.com/search?q=the+chaos+chapter) | N/A |
-| 47 | [Taehyung Live](http://twitter.com/search?q=Taehyung+Live) | N/A |
-| 48 | [yerin baek](http://twitter.com/search?q=yerin+baek) | N/A |
-| 49 | [fight or escape](http://twitter.com/search?q=fight+or+escape) | N/A |
-| 50 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 24 | [Jessica Soho](http://twitter.com/search?q=Jessica+Soho) | N/A |
+| 25 | [mahae selca](http://twitter.com/search?q=mahae+selca) | N/A |
+| 26 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 27 | [Bea de Leon](http://twitter.com/search?q=Bea+de+Leon) | N/A |
+| 28 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 29 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 30 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 31 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 32 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
+| 33 | [teendaystogo clashmates](http://twitter.com/search?q=teendaystogo+clashmates) | N/A |
+| 34 | [RMTs](http://twitter.com/search?q=RMTs) | N/A |
+| 35 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 36 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 37 | [romansik day with you](http://twitter.com/search?q=romansik+day+with+you) | N/A |
+| 38 | [Pangulo](http://twitter.com/search?q=Pangulo) | N/A |
+| 39 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 40 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 41 | [MAHAL DIN KITA](http://twitter.com/search?q=MAHAL+DIN+KITA) | N/A |
+| 42 | [MTLE](http://twitter.com/search?q=MTLE) | N/A |
+| 43 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 44 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
+| 45 | [MYLA](http://twitter.com/search?q=MYLA) | N/A |
+| 46 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 47 | [Future CEO](http://twitter.com/search?q=Future+CEO) | N/A |
+| 48 | [Mana MV](http://twitter.com/search?q=Mana+MV) | N/A |
+| 49 | [tyang](http://twitter.com/search?q=tyang) | N/A |
+| 50 | [sunoo live](http://twitter.com/search?q=sunoo+live) | N/A |
 
 
 

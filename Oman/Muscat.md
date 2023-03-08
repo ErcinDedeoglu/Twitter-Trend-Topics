@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-08 00:29:23 UTC`
+📆 Last Updated: `2023-03-08 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [Oman](</Oman>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#تواصل_رقمي_لنجاح_مجتمعي](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%d8%b1%d9%82%d9%85%d9%8a_%d9%84%d9%86%d8%ac%d8%a7%d8%ad_%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
-| 2 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 3 | [#اسبوع_الامن_الالكتروني](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
-| 4 | [#املنا_السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%84%d9%86%d8%a7_%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 5 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 6 | [#نيلوه_لنس_مي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%84%d9%88%d9%87_%d9%84%d9%86%d8%b3_%d9%85%d9%8a) | N/A |
-| 7 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 2 | [#املنا_السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%84%d9%86%d8%a7_%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 3 | [#ليله_النصف_من_شعبان](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%b5%d9%81_%d9%85%d9%86_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 4 | [#اسبوع_الامن_الالكتروني](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
+| 5 | [#نيلوه_لنس_مي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%84%d9%88%d9%87_%d9%84%d9%86%d8%b3_%d9%85%d9%8a) | N/A |
+| 6 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 7 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
 | 8 | [بدر بن سعود بن حارب البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
 | 9 | [الابتزاز الالكتروني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%b2%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a) | N/A |
 | 10 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
@@ -49,11 +49,11 @@ This is top 50 for [Oman](</Oman>)
 | 32 | [صور العفيه](http://twitter.com/search?q=%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d9%81%d9%8a%d9%87) | N/A |
 | 33 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 34 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 35 | [وشمال افريقيا](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 36 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [الرقابه الابويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 38 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 39 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 35 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 36 | [وشمال افريقيا](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 37 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 38 | [الرقابه الابويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 39 | [المنظمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 | 40 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 41 | [بدر بن سعود البوسعيدي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
 | 42 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |

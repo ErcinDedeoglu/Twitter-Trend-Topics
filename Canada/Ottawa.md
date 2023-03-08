@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-08 00:28:43 UTC`
+📆 Last Updated: `2023-03-08 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 2 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 6 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 1 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 4 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Drouin](http://twitter.com/search?q=Drouin) | Drouin is a French surname derived from the Old French word "drouin" meaning "beloved". It is also a place name in France, derived from the same root. |
+| 10 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 11 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
 | 12 | [#TrudeauChineseAsset](http://twitter.com/search?q=%23TrudeauChineseAsset) | N/A |
-| 13 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 15 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 16 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 17 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
-| 18 | [#TrudeauHasGotToGo](http://twitter.com/search?q=%23TrudeauHasGotToGo) | N/A |
-| 19 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 20 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 21 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 23 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 24 | [Purim](http://twitter.com/search?q=Purim) | N/A |
-| 25 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 26 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 27 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
-| 28 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 29 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
-| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 33 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 34 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 35 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 36 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
-| 37 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 38 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
-| 39 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
-| 40 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
-| 41 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 42 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 43 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 44 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 45 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 46 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 47 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 48 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
-| 49 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 50 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 13 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 17 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 18 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 19 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 20 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
+| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 22 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 23 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 24 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 25 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 26 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 27 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 28 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 29 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 30 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 31 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 32 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 33 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 34 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
+| 35 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 36 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 37 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 38 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 39 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
+| 40 | [Kevin From Finance](http://twitter.com/search?q=Kevin+From+Finance) | N/A |
+| 41 | [TMNT](http://twitter.com/search?q=TMNT) | N/A |
+| 42 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 43 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 44 | [Chris Rock](http://twitter.com/search?q=Chris+Rock) | N/A |
+| 45 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 46 | [SOCAN](http://twitter.com/search?q=SOCAN) | N/A |
+| 47 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 48 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 49 | [Mike Hoffman](http://twitter.com/search?q=Mike+Hoffman) | N/A |
+| 50 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
 
 
 
