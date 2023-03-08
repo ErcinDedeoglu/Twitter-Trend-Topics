@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-08 13:21:56 UTC`
+📆 Last Updated: `2023-03-08 14:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 5 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
+| 9 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 11 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 12 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
-| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
-| 15 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 16 | [virgen del rosario](http://twitter.com/search?q=virgen+del+rosario) | N/A |
-| 17 | [parque de la industria](http://twitter.com/search?q=parque+de+la+industria) | N/A |
-| 18 | [los de la uvg](http://twitter.com/search?q=los+de+la+uvg) | N/A |
-| 19 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 22 | [deportivo mixco](http://twitter.com/search?q=deportivo+mixco) | N/A |
-| 23 | [Quetzaltenango](http://twitter.com/search?q=Quetzaltenango) | N/A |
-| 24 | [Sacatepéquez](http://twitter.com/search?q=Sacatep%c3%a9quez) | N/A |
-| 25 | [la usac](http://twitter.com/search?q=la+usac) | N/A |
-| 26 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 27 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
-| 28 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 29 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 30 | [vanita](http://twitter.com/search?q=vanita) | N/A |
-| 31 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
-| 32 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 33 | [ciudad peronia](http://twitter.com/search?q=ciudad+peronia) | N/A |
-| 34 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
-| 35 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 36 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 37 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
-| 38 | [Tranquila](http://twitter.com/search?q=Tranquila) | N/A |
-| 39 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 40 | [baja verapaz](http://twitter.com/search?q=baja+verapaz) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Xinabajul](http://twitter.com/search?q=Xinabajul) | N/A |
-| 43 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 44 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 45 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 46 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 12 | [quetzaltenango](http://twitter.com/search?q=quetzaltenango) | N/A |
+| 13 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [nodal](http://twitter.com/search?q=nodal) | N/A |
+| 16 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 17 | [virgen del rosario](http://twitter.com/search?q=virgen+del+rosario) | N/A |
+| 18 | [parque de la industria](http://twitter.com/search?q=parque+de+la+industria) | N/A |
+| 19 | [los de la uvg](http://twitter.com/search?q=los+de+la+uvg) | N/A |
+| 20 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 23 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 25 | [sacatepéquez](http://twitter.com/search?q=sacatep%c3%a9quez) | N/A |
+| 26 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
+| 27 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 28 | [Vanita](http://twitter.com/search?q=Vanita) | N/A |
+| 29 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
+| 30 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 31 | [ciudad peronia](http://twitter.com/search?q=ciudad+peronia) | N/A |
+| 32 | [ÚLTIMA CITA WORLD TOUR](http://twitter.com/search?q=%c3%9aLTIMA+CITA+WORLD+TOUR) | N/A |
+| 33 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
+| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 35 | [USAC](http://twitter.com/search?q=USAC) | N/A |
+| 36 | [baja verapaz](http://twitter.com/search?q=baja+verapaz) | N/A |
+| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 38 | [Xinabajul](http://twitter.com/search?q=Xinabajul) | N/A |
+| 39 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 40 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 41 | [IGSS](http://twitter.com/search?q=IGSS) | N/A |
+| 42 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 43 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 44 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 45 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 46 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 47 | [Javier](http://twitter.com/search?q=Javier) | N/A |
 | 48 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
 | 49 | [Inviten](http://twitter.com/search?q=Inviten) | N/A |
-| 50 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 50 | [Deportivo Mixco](http://twitter.com/search?q=Deportivo+Mixco) | N/A |
 
 
 

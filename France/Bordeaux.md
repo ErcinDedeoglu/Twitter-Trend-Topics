@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-08 13:21:20 UTC`
+📆 Last Updated: `2023-03-08 14:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,45 @@ This is top 50 for [France](</France>)
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [Journée Internationale](http://twitter.com/search?q=Journ%c3%a9e+Internationale) | N/A |
 | 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 7 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
-| 8 | [Pierre Ménès](http://twitter.com/search?q=Pierre+M%c3%a9n%c3%a8s) | N/A |
+| 7 | [Pierre Ménès](http://twitter.com/search?q=Pierre+M%c3%a9n%c3%a8s) | N/A |
+| 8 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
 | 9 | [Olympe de Gouges](http://twitter.com/search?q=Olympe+de+Gouges) | N/A |
 | 10 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 11 | [Aujourd'hui 8](http://twitter.com/search?q=Aujourd%27hui+8) | N/A |
-| 12 | [Gérard Larcher](http://twitter.com/search?q=G%c3%a9rard+Larcher) | N/A |
-| 13 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 14 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 15 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 16 | [iraniennes](http://twitter.com/search?q=iraniennes) | N/A |
-| 17 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 18 | [Frieren](http://twitter.com/search?q=Frieren) | N/A |
+| 11 | [Larcher](http://twitter.com/search?q=Larcher) | N/A |
+| 12 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 13 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 14 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 15 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 16 | [Iraniennes](http://twitter.com/search?q=Iraniennes) | N/A |
+| 17 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 18 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
 | 19 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 20 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 21 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 22 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
-| 23 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
-| 24 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 25 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 26 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
-| 27 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 28 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 20 | [Soutien](http://twitter.com/search?q=Soutien) | N/A |
+| 21 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
+| 22 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 23 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 24 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 25 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
+| 26 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 27 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 28 | [#BingoUnibet](http://twitter.com/search?q=%23BingoUnibet) | N/A |
 | 29 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 30 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 31 | [#amidicestmehdi](http://twitter.com/search?q=%23amidicestmehdi) | N/A |
-| 32 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 33 | [#journeedelafemme](http://twitter.com/search?q=%23journeedelafemme) | N/A |
-| 34 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 35 | [#égalité](http://twitter.com/search?q=%23%c3%a9galit%c3%a9) | N/A |
-| 36 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 30 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 31 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
+| 32 | [#baypsg](http://twitter.com/search?q=%23baypsg) | N/A |
+| 33 | [#amidicestmehdi](http://twitter.com/search?q=%23amidicestmehdi) | N/A |
+| 34 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 35 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 36 | [#égalité](http://twitter.com/search?q=%23%c3%a9galit%c3%a9) | N/A |
 | 37 | [#KyksDay](http://twitter.com/search?q=%23KyksDay) | N/A |
-| 38 | [#GreveFeministe](http://twitter.com/search?q=%23GreveFeministe) | N/A |
-| 39 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 40 | [#FemmeVieLiberté](http://twitter.com/search?q=%23FemmeVieLibert%c3%a9) | N/A |
+| 38 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 39 | [#GreveFeministe](http://twitter.com/search?q=%23GreveFeministe) | N/A |
+| 40 | [#ViolencesConjugales](http://twitter.com/search?q=%23ViolencesConjugales) | N/A |
 | 41 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
-| 42 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
-| 43 | [#ViolencesConjugales](http://twitter.com/search?q=%23ViolencesConjugales) | N/A |
-| 44 | [#parité](http://twitter.com/search?q=%23parit%c3%a9) | N/A |
-| 45 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 46 | [#numérique](http://twitter.com/search?q=%23num%c3%a9rique) | N/A |
-| 47 | [#industrie](http://twitter.com/search?q=%23industrie) | N/A |
-| 48 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 42 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 43 | [#FemmeVieLiberté](http://twitter.com/search?q=%23FemmeVieLibert%c3%a9) | N/A |
+| 44 | [#numérique](http://twitter.com/search?q=%23num%c3%a9rique) | N/A |
+| 45 | [#industrie](http://twitter.com/search?q=%23industrie) | N/A |
 
 
 

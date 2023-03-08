@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-08 13:21:49 UTC`
+📆 Last Updated: `2023-03-08 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 4 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
+| 5 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 | 6 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 7 | [Panama](http://twitter.com/search?q=Panama) | N/A |
 | 8 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 9 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 10 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 11 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 12 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 13 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 14 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 15 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 16 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 17 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 18 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 19 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 20 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 21 | [Claim Your](http://twitter.com/search?q=Claim+Your) | N/A |
-| 22 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 23 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 24 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 25 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 26 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 27 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 28 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 29 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 30 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 31 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 32 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 33 | [TERM LIMITS](http://twitter.com/search?q=TERM+LIMITS) | N/A |
-| 34 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 35 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 36 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
-| 37 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
-| 38 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 39 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 40 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 41 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 42 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 43 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 44 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
-| 45 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 46 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 47 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 48 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 49 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 9 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 10 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 12 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 13 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 14 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 15 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 16 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 17 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 19 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 20 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 21 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 22 | [claim your](http://twitter.com/search?q=claim+your) | N/A |
+| 23 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 24 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
+| 25 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 26 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 27 | [DeAngelo](http://twitter.com/search?q=DeAngelo) | N/A |
+| 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 29 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
+| 30 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 31 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 32 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 33 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
+| 34 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 35 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 37 | [Term Limits](http://twitter.com/search?q=Term+Limits) | N/A |
+| 38 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 39 | [The Browns](http://twitter.com/search?q=The+Browns) | N/A |
+| 40 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
+| 41 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 42 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 43 | [The Party](http://twitter.com/search?q=The+Party) | N/A |
+| 44 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 45 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 46 | [Ditch Mitch](http://twitter.com/search?q=Ditch+Mitch) | N/A |
+| 47 | [Georgian](http://twitter.com/search?q=Georgian) | N/A |
+| 48 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
+| 49 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 
 
 

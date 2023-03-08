@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-08 13:21:42 UTC`
+📆 Last Updated: `2023-03-08 14:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
-| 3 | [#GatewayGetsGlorious](http://twitter.com/search?q=%23GatewayGetsGlorious) | N/A |
-| 4 | [#SikhsRejectsAmritpal](http://twitter.com/search?q=%23SikhsRejectsAmritpal) | N/A |
-| 5 | [Celebrate Ambitions Equally](http://twitter.com/search?q=Celebrate+Ambitions+Equally) | N/A |
-| 6 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
+| 1 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 2 | [#SikhsRejectsAmritpal](http://twitter.com/search?q=%23SikhsRejectsAmritpal) | N/A |
+| 3 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
+| 6 | [Celebrate Ambitions Equally](http://twitter.com/search?q=Celebrate+Ambitions+Equally) | N/A |
 | 7 | [BINDUMADHAVI AS RADHA](http://twitter.com/search?q=BINDUMADHAVI+AS+RADHA) | N/A |
-| 8 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 9 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
-| 12 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 13 | [Anthony Albanese](http://twitter.com/search?q=Anthony+Albanese) | N/A |
-| 14 | [Saba](http://twitter.com/search?q=Saba) | N/A |
-| 15 | [Muharram](http://twitter.com/search?q=Muharram) | N/A |
-| 16 | [Halala](http://twitter.com/search?q=Halala) | N/A |
-| 17 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 18 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 19 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
+| 8 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
+| 9 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 10 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 11 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
+| 13 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 14 | [Anthony Albanese](http://twitter.com/search?q=Anthony+Albanese) | N/A |
+| 15 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 16 | [Saba](http://twitter.com/search?q=Saba) | N/A |
+| 17 | [muharram](http://twitter.com/search?q=muharram) | N/A |
+| 18 | [Halala](http://twitter.com/search?q=Halala) | N/A |
+| 19 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
 | 20 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
-| 21 | [Chief Minister of Tripura](http://twitter.com/search?q=Chief+Minister+of+Tripura) | N/A |
-| 22 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 23 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
-| 24 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
-| 25 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
-| 27 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 29 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 30 | [माणिक साहा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
-| 33 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 34 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 35 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 36 | [#गौरक्षक_ही_गौतस्कर_हैं](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%b9%e0%a5%80_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
-| 37 | [#banegaswasthindia](http://twitter.com/search?q=%23banegaswasthindia) | N/A |
-| 38 | [#happybirthdayfardeenkhan](http://twitter.com/search?q=%23happybirthdayfardeenkhan) | N/A |
-| 39 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
-| 40 | [#HoliVibes](http://twitter.com/search?q=%23HoliVibes) | N/A |
-| 41 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
-| 42 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 43 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 44 | [#Justice_for_Nasir_junaid](http://twitter.com/search?q=%23Justice_for_Nasir_junaid) | N/A |
-| 45 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 46 | [#NariShaktiForNewIndia](http://twitter.com/search?q=%23NariShaktiForNewIndia) | N/A |
-| 47 | [#WomenPower](http://twitter.com/search?q=%23WomenPower) | N/A |
-| 48 | [#Justice_For_Junaid_Nasir](http://twitter.com/search?q=%23Justice_For_Junaid_Nasir) | N/A |
-| 49 | [#divyagokulnath](http://twitter.com/search?q=%23divyagokulnath) | N/A |
+| 21 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
+| 22 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 23 | [Rajiv](http://twitter.com/search?q=Rajiv) | N/A |
+| 24 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 25 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 26 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
+| 27 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 28 | [Chief Minister of Tripura](http://twitter.com/search?q=Chief+Minister+of+Tripura) | N/A |
+| 29 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 30 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
+| 31 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 33 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
+| 34 | [#GatewayGetsGlorious](http://twitter.com/search?q=%23GatewayGetsGlorious) | N/A |
+| 35 | [#BeautyHasNoColour](http://twitter.com/search?q=%23BeautyHasNoColour) | N/A |
+| 36 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
+| 37 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
+| 38 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
+| 39 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
+| 40 | [#CelebrateFeminine](http://twitter.com/search?q=%23CelebrateFeminine) | N/A |
+| 41 | [#happybirthdayfardeenkhan](http://twitter.com/search?q=%23happybirthdayfardeenkhan) | N/A |
+| 42 | [#गौरक्षक_ही_गौतस्कर_हैं](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%b9%e0%a5%80_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 43 | [#BanegaSwasthIndia](http://twitter.com/search?q=%23BanegaSwasthIndia) | N/A |
+| 44 | [#HoliVibes](http://twitter.com/search?q=%23HoliVibes) | N/A |
+| 45 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 46 | [#GGvRCB](http://twitter.com/search?q=%23GGvRCB) | N/A |
+| 47 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 48 | [#MarkAntony](http://twitter.com/search?q=%23MarkAntony) | N/A |
+| 49 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 
 
 

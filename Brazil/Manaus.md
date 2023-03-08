@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-08 13:21:17 UTC`
+📆 Last Updated: `2023-03-08 14:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 4 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
+| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 2 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 3 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
+| 4 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 5 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
+| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 9 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [#quartobranco](http://twitter.com/search?q=%23quartobranco) | N/A |
-| 12 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
-| 13 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
-| 14 | [#8McontraAsViolências](http://twitter.com/search?q=%238McontraAsViol%c3%aancias) | N/A |
-| 15 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 16 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 17 | [Mulherada](http://twitter.com/search?q=Mulherada) | N/A |
-| 18 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
-| 19 | [Sapopemba](http://twitter.com/search?q=Sapopemba) | N/A |
-| 20 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 21 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 22 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
-| 25 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
-| 26 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 27 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 28 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
-| 29 | [Rio Anil](http://twitter.com/search?q=Rio+Anil) | N/A |
-| 30 | [paiva](http://twitter.com/search?q=paiva) | N/A |
-| 31 | [Bundinha](http://twitter.com/search?q=Bundinha) | N/A |
-| 32 | [hailee](http://twitter.com/search?q=hailee) | N/A |
-| 33 | [KIM NAMJOON](http://twitter.com/search?q=KIM+NAMJOON) | N/A |
-| 34 | [Decode](http://twitter.com/search?q=Decode) | N/A |
-| 35 | [São Luís](http://twitter.com/search?q=S%c3%a3o+Lu%c3%ads) | N/A |
-| 36 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
-| 37 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 38 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 39 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 40 | [Sarto](http://twitter.com/search?q=Sarto) | N/A |
-| 41 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 42 | [INCRA](http://twitter.com/search?q=INCRA) | N/A |
-| 43 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 44 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 45 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
-| 46 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 47 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 48 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 49 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 50 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 8 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
+| 9 | [Chamou o Fred](http://twitter.com/search?q=Chamou+o+Fred) | N/A |
+| 10 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 11 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
+| 12 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
+| 13 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 14 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
+| 15 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
+| 16 | [#OJogoVirou](http://twitter.com/search?q=%23OJogoVirou) | N/A |
+| 17 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
+| 20 | [GRANDONA SEM MEDO](http://twitter.com/search?q=GRANDONA+SEM+MEDO) | N/A |
+| 21 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
+| 22 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 23 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 24 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 25 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 26 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 27 | [Guerreiras](http://twitter.com/search?q=Guerreiras) | N/A |
+| 28 | [Sapopemba](http://twitter.com/search?q=Sapopemba) | N/A |
+| 29 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 30 | [Mulherada](http://twitter.com/search?q=Mulherada) | N/A |
+| 31 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
+| 32 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 33 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
+| 34 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 35 | [Chore](http://twitter.com/search?q=Chore) | N/A |
+| 36 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
+| 37 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 38 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 39 | [Bundinha](http://twitter.com/search?q=Bundinha) | N/A |
+| 40 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
+| 41 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 42 | [KIM NAMJOON](http://twitter.com/search?q=KIM+NAMJOON) | N/A |
+| 43 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
+| 44 | [hailee](http://twitter.com/search?q=hailee) | N/A |
+| 45 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 46 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 47 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 48 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
+| 49 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 50 | [Rio Anil Shopping](http://twitter.com/search?q=Rio+Anil+Shopping) | N/A |
 
 
 

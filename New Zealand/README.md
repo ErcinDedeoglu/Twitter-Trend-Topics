@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-08 13:21:58 UTC`
+📆 Last Updated: `2023-03-08 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,16 +21,16 @@ This is top 50 for New Zealand
 | 4 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 5 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 8 | [Wanaka](http://twitter.com/search?q=Wanaka) | N/A |
-| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 10 | [NZ European](http://twitter.com/search?q=NZ+European) | N/A |
+| 7 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
+| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 9 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 10 | [nz european](http://twitter.com/search?q=nz+european) | N/A |
 | 11 | [ruth dyson](http://twitter.com/search?q=ruth+dyson) | N/A |
 | 12 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 13 | [Census](http://twitter.com/search?q=Census) | N/A |
 | 14 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 15 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 16 | [fiordland](http://twitter.com/search?q=fiordland) | N/A |
+| 16 | [Fiordland](http://twitter.com/search?q=Fiordland) | N/A |
 | 17 | [piha](http://twitter.com/search?q=piha) | N/A |
 | 18 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
 | 19 | [Karen](http://twitter.com/search?q=Karen) | N/A |
