@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-08 14:17:25 UTC`
+📆 Last Updated: `2023-03-08 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#divyagokulnath](http://twitter.com/search?q=%23divyagokulnath) | N/A |
-| 2 | [#happy_holi](http://twitter.com/search?q=%23happy_holi) | N/A |
-| 3 | [#HoliSpecial](http://twitter.com/search?q=%23HoliSpecial) | N/A |
-| 4 | [#SikhsRejectsAmritpal](http://twitter.com/search?q=%23SikhsRejectsAmritpal) | N/A |
-| 5 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
-| 6 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
-| 7 | [Celebrate Ambitions Equally](http://twitter.com/search?q=Celebrate+Ambitions+Equally) | N/A |
-| 8 | [BINDUMADHAVI AS RADHA](http://twitter.com/search?q=BINDUMADHAVI+AS+RADHA) | N/A |
-| 9 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 12 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 13 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
-| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 15 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 16 | [Saba](http://twitter.com/search?q=Saba) | N/A |
+| 1 | [#JKSSBScam](http://twitter.com/search?q=%23JKSSBScam) | N/A |
+| 2 | [#अंतर्राष्ट्रीय_महिला_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 3 | [#HAPPY_HOLI](http://twitter.com/search?q=%23HAPPY_HOLI) | N/A |
+| 4 | [#HoliSpecial](http://twitter.com/search?q=%23HoliSpecial) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 7 | [Sophia Dunkley](http://twitter.com/search?q=Sophia+Dunkley) | N/A |
+| 8 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
+| 9 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 10 | [BINDUMADHAVI AS RADHA](http://twitter.com/search?q=BINDUMADHAVI+AS+RADHA) | N/A |
+| 11 | [Tata Motors](http://twitter.com/search?q=Tata+Motors) | N/A |
+| 12 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
+| 13 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 14 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 15 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
+| 16 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 17 | [Anthony Albanese](http://twitter.com/search?q=Anthony+Albanese) | N/A |
-| 18 | [muharram](http://twitter.com/search?q=muharram) | N/A |
-| 19 | [Halala](http://twitter.com/search?q=Halala) | N/A |
-| 20 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
-| 21 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
-| 22 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
-| 23 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 18 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
+| 19 | [Saba](http://twitter.com/search?q=Saba) | N/A |
+| 20 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
+| 21 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 22 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 23 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 24 | [Rajiv](http://twitter.com/search?q=Rajiv) | N/A |
-| 25 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 26 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
-| 27 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 28 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 29 | [chief minister of tripura](http://twitter.com/search?q=chief+minister+of+tripura) | N/A |
-| 30 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 31 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
-| 32 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 34 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
-| 35 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 36 | [#GatewayGetsGlorious](http://twitter.com/search?q=%23GatewayGetsGlorious) | N/A |
-| 37 | [#BeautyHasNoColour](http://twitter.com/search?q=%23BeautyHasNoColour) | N/A |
-| 38 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
-| 39 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 40 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
-| 41 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
-| 42 | [#CelebrateFeminine](http://twitter.com/search?q=%23CelebrateFeminine) | N/A |
-| 43 | [#happybirthdayfardeenkhan](http://twitter.com/search?q=%23happybirthdayfardeenkhan) | N/A |
-| 44 | [#गौरक्षक_ही_गौतस्कर_हैं](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%b9%e0%a5%80_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
-| 45 | [#BanegaSwasthIndia](http://twitter.com/search?q=%23BanegaSwasthIndia) | N/A |
-| 46 | [#HoliVibes](http://twitter.com/search?q=%23HoliVibes) | N/A |
-| 47 | [#GGvRCB](http://twitter.com/search?q=%23GGvRCB) | N/A |
-| 48 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 49 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 50 | [#MarkAntony](http://twitter.com/search?q=%23MarkAntony) | N/A |
+| 25 | [Halala](http://twitter.com/search?q=Halala) | N/A |
+| 26 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 27 | [Muharram](http://twitter.com/search?q=Muharram) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
+| 30 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 31 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 32 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
+| 33 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
+| 34 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 35 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 36 | [TN BJP](http://twitter.com/search?q=TN+BJP) | N/A |
+| 37 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 38 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
+| 39 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
+| 40 | [#sikhsrejectsamritpal](http://twitter.com/search?q=%23sikhsrejectsamritpal) | N/A |
+| 41 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 42 | [#beautyhasnocolour](http://twitter.com/search?q=%23beautyhasnocolour) | N/A |
+| 43 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
+| 44 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
+| 45 | [#gatewaygetsglorious](http://twitter.com/search?q=%23gatewaygetsglorious) | N/A |
+| 46 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 47 | [#CelebrateFeminine](http://twitter.com/search?q=%23CelebrateFeminine) | N/A |
+| 48 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
+| 49 | [#GGvRCB](http://twitter.com/search?q=%23GGvRCB) | N/A |
+| 50 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
 
 
 

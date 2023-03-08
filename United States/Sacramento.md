@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-08 14:17:23 UTC`
+📆 Last Updated: `2023-03-08 15:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 9 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 11 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 12 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 14 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 15 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 16 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 17 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 18 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 19 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 20 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 23 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 24 | [claim your](http://twitter.com/search?q=claim+your) | N/A |
-| 25 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 26 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
-| 27 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 28 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 29 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 30 | [DeAngelo](http://twitter.com/search?q=DeAngelo) | N/A |
-| 31 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
-| 32 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 33 | [Tuckers](http://twitter.com/search?q=Tuckers) | N/A |
-| 34 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 35 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 36 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 37 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 38 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 39 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 40 | [Term Limits](http://twitter.com/search?q=Term+Limits) | N/A |
-| 41 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 42 | [The Browns](http://twitter.com/search?q=The+Browns) | N/A |
-| 43 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
-| 44 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 45 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 46 | [The Party](http://twitter.com/search?q=The+Party) | N/A |
-| 47 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 48 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 49 | [Ditch Mitch](http://twitter.com/search?q=Ditch+Mitch) | N/A |
-| 50 | [Censorship](http://twitter.com/search?q=Censorship) | N/A |
+| 2 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 7 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 8 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
+| 9 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 12 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 13 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 14 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 15 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 16 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 17 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 18 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 19 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 20 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 21 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 22 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 23 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 24 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 25 | [Mandalore](http://twitter.com/search?q=Mandalore) | N/A |
+| 26 | [She's Gone](http://twitter.com/search?q=She%27s+Gone) | N/A |
+| 27 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 28 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 29 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 30 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 31 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
+| 32 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 33 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 34 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
+| 35 | [#FirstLoveSuga](http://twitter.com/search?q=%23FirstLoveSuga) | N/A |
+| 36 | [#OurSafePlaceSUGA](http://twitter.com/search?q=%23OurSafePlaceSUGA) | N/A |
+| 37 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 38 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 39 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 40 | [#SugaOurSpring](http://twitter.com/search?q=%23SugaOurSpring) | N/A |
+| 41 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 42 | [#SUGADAY](http://twitter.com/search?q=%23SUGADAY) | N/A |
+| 43 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 44 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 45 | [#OurStrengthSUGA](http://twitter.com/search?q=%23OurStrengthSUGA) | N/A |
+| 46 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 47 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 48 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
+| 49 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 50 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-08 14:16:50 UTC`
+📆 Last Updated: `2023-03-08 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,34 +17,46 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 3 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 6 | [Feliz Día](http://twitter.com/search?q=Feliz+D%c3%ada) | N/A |
-| 7 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
-| 8 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 9 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 10 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 11 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 12 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 13 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
-| 14 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 15 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 16 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
-| 17 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 18 | [Wado](http://twitter.com/search?q=Wado) | N/A |
-| 19 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 20 | [CONICET](http://twitter.com/search?q=CONICET) | N/A |
-| 21 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 22 | [Expoagro](http://twitter.com/search?q=Expoagro) | N/A |
-| 23 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 24 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 25 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 26 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
-| 27 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
-| 28 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
-| 29 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 30 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 5 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 6 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
+| 7 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 8 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 9 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
+| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 11 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 12 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 13 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 14 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
+| 15 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 16 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 17 | [Provincia de Buenos Aires](http://twitter.com/search?q=Provincia+de+Buenos+Aires) | N/A |
+| 18 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 19 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
+| 22 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 23 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 24 | [Wado](http://twitter.com/search?q=Wado) | N/A |
+| 25 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 26 | [CONICET](http://twitter.com/search?q=CONICET) | N/A |
+| 27 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 28 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 29 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 30 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 31 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 32 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 33 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 34 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 35 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
+| 36 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
+| 37 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
+| 38 | [#esconnosotras](http://twitter.com/search?q=%23esconnosotras) | N/A |
+| 39 | [#NosotrasMovemosElMundo](http://twitter.com/search?q=%23NosotrasMovemosElMundo) | N/A |
+| 40 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 41 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
+| 42 | [#Expoagro2023](http://twitter.com/search?q=%23Expoagro2023) | N/A |
 
 
 

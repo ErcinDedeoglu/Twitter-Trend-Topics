@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-08 14:16:43 UTC`
+📆 Last Updated: `2023-03-08 15:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
 | 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 3 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 4 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 7 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 8 | [#leonelhablaalpaís](http://twitter.com/search?q=%23leonelhablaalpa%c3%ads) | N/A |
-| 9 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
-| 10 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 11 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 12 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 15 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 16 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 17 | [Dalisa](http://twitter.com/search?q=Dalisa) | N/A |
-| 18 | [lotería nacional](http://twitter.com/search?q=loter%c3%ada+nacional) | N/A |
-| 19 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 20 | [Dicent](http://twitter.com/search?q=Dicent) | N/A |
-| 21 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 22 | [alba jiménez](http://twitter.com/search?q=alba+jim%c3%a9nez) | N/A |
-| 23 | [Gamal](http://twitter.com/search?q=Gamal) | N/A |
-| 24 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 3 | [Los Cacaos](http://twitter.com/search?q=Los+Cacaos) | N/A |
+| 4 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 5 | [#OrgullososDeEstarMejor](http://twitter.com/search?q=%23OrgullososDeEstarMejor) | N/A |
+| 6 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 7 | [#PioDeportesWBC2023](http://twitter.com/search?q=%23PioDeportesWBC2023) | N/A |
+| 8 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 11 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
+| 12 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 13 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 14 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 15 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 16 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 17 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 18 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 19 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 20 | [Dalisa](http://twitter.com/search?q=Dalisa) | N/A |
+| 21 | [Lotería Nacional](http://twitter.com/search?q=Loter%c3%ada+Nacional) | N/A |
+| 22 | [Dicent](http://twitter.com/search?q=Dicent) | N/A |
+| 23 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 24 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 25 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 26 | [Alexandra MVP](http://twitter.com/search?q=Alexandra+MVP) | N/A |
-| 27 | [orlando jorge mera](http://twitter.com/search?q=orlando+jorge+mera) | N/A |
-| 28 | [Operación 13](http://twitter.com/search?q=Operaci%c3%b3n+13) | N/A |
-| 29 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
-| 30 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 31 | [Rodney Linares](http://twitter.com/search?q=Rodney+Linares) | N/A |
+| 26 | [alba jiménez](http://twitter.com/search?q=alba+jim%c3%a9nez) | N/A |
+| 27 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 28 | [ALEXANDRA MVP](http://twitter.com/search?q=ALEXANDRA+MVP) | N/A |
+| 29 | [orlando jorge mera](http://twitter.com/search?q=orlando+jorge+mera) | N/A |
+| 30 | [Operación 13](http://twitter.com/search?q=Operaci%c3%b3n+13) | N/A |
+| 31 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
 | 32 | [La Materialista](http://twitter.com/search?q=La+Materialista) | N/A |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 35 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 36 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Rodney Linares](http://twitter.com/search?q=Rodney+Linares) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
+| 37 | [Napo](http://twitter.com/search?q=Napo) | N/A |
 | 38 | [Thomas Bach](http://twitter.com/search?q=Thomas+Bach) | N/A |
-| 39 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 40 | [Turismo](http://twitter.com/search?q=Turismo) | N/A |
-| 41 | [San Francisco de Macorís](http://twitter.com/search?q=San+Francisco+de+Macor%c3%ads) | N/A |
-| 42 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 43 | [chavón](http://twitter.com/search?q=chav%c3%b3n) | N/A |
-| 44 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
-| 45 | [Ambas](http://twitter.com/search?q=Ambas) | N/A |
-| 46 | [Mirabal](http://twitter.com/search?q=Mirabal) | N/A |
-| 47 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 48 | [supérate](http://twitter.com/search?q=sup%c3%a9rate) | N/A |
+| 39 | [Turismo](http://twitter.com/search?q=Turismo) | N/A |
+| 40 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 41 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 42 | [San Francisco de Macorís](http://twitter.com/search?q=San+Francisco+de+Macor%c3%ads) | N/A |
+| 43 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 44 | [Chavón](http://twitter.com/search?q=Chav%c3%b3n) | N/A |
+| 45 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
+| 46 | [UASD](http://twitter.com/search?q=UASD) | N/A |
+| 47 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 48 | [Mirabal](http://twitter.com/search?q=Mirabal) | N/A |
 | 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
+| 50 | [Javier](http://twitter.com/search?q=Javier) | N/A |
 
 
 

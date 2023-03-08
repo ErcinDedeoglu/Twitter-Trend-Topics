@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-08 14:16:49 UTC`
+📆 Last Updated: `2023-03-08 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bocó Roso](http://twitter.com/search?q=Boc%c3%b3+Roso) | N/A |
-| 2 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 3 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 4 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
-| 5 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 6 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
-| 7 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
-| 10 | [Chamou o Fred](http://twitter.com/search?q=Chamou+o+Fred) | N/A |
-| 11 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 12 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
-| 13 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
-| 14 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 15 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
-| 16 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
-| 17 | [#OJogoVirou](http://twitter.com/search?q=%23OJogoVirou) | N/A |
-| 18 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 19 | [GRANDONA SEM MEDO](http://twitter.com/search?q=GRANDONA+SEM+MEDO) | N/A |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
-| 22 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
-| 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 24 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 25 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 26 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 27 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 28 | [Guerreiras](http://twitter.com/search?q=Guerreiras) | N/A |
-| 29 | [Sapopemba](http://twitter.com/search?q=Sapopemba) | N/A |
-| 30 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 31 | [Mulherada](http://twitter.com/search?q=Mulherada) | N/A |
-| 32 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
-| 33 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 34 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
-| 35 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
-| 36 | [Chore](http://twitter.com/search?q=Chore) | N/A |
-| 37 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
-| 38 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 39 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
-| 40 | [Bundinha](http://twitter.com/search?q=Bundinha) | N/A |
-| 41 | [Dia de Flu](http://twitter.com/search?q=Dia+de+Flu) | N/A |
-| 42 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 43 | [ruby rose](http://twitter.com/search?q=ruby+rose) | N/A |
-| 44 | [hailee](http://twitter.com/search?q=hailee) | N/A |
-| 45 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 46 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 47 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 48 | [KIM NAMJOON](http://twitter.com/search?q=KIM+NAMJOON) | N/A |
-| 49 | [Poze](http://twitter.com/search?q=Poze) | N/A |
-| 50 | [Malbec](http://twitter.com/search?q=Malbec) | N/A |
+| 1 | [#bdsp](http://twitter.com/search?q=%23bdsp) | N/A |
+| 2 | [Bocó Roso](http://twitter.com/search?q=Boc%c3%b3+Roso) | N/A |
+| 3 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 4 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 5 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 6 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 7 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 8 | [Bora Fredinho](http://twitter.com/search?q=Bora+Fredinho) | N/A |
+| 9 | [KEY NO MAIS VOCE](http://twitter.com/search?q=KEY+NO+MAIS+VOCE) | N/A |
+| 10 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 11 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 12 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 13 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 14 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 15 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 16 | [Chamou o Fred](http://twitter.com/search?q=Chamou+o+Fred) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 19 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
+| 20 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 21 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 22 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
+| 23 | [Vai Fred](http://twitter.com/search?q=Vai+Fred) | N/A |
+| 24 | [Tracker](http://twitter.com/search?q=Tracker) | N/A |
+| 25 | [Fefo](http://twitter.com/search?q=Fefo) | N/A |
+| 26 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 27 | [Jair Renan](http://twitter.com/search?q=Jair+Renan) | N/A |
+| 28 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
+| 29 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 30 | [Apertou](http://twitter.com/search?q=Apertou) | N/A |
+| 31 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
+| 32 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 33 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 34 | [FELIZ ANIVERSÁRIO MEU AMOR](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+MEU+AMOR) | N/A |
+| 35 | [Guerreiras](http://twitter.com/search?q=Guerreiras) | N/A |
+| 36 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
+| 37 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 38 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
+| 39 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 40 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 41 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 42 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 43 | [Saint Seiya](http://twitter.com/search?q=Saint+Seiya) | N/A |
+| 44 | [Chore](http://twitter.com/search?q=Chore) | N/A |
+| 45 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 46 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
+| 47 | [Ray Charles](http://twitter.com/search?q=Ray+Charles) | N/A |
+| 48 | [Mulherada](http://twitter.com/search?q=Mulherada) | N/A |
+| 49 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
+| 50 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
 
 
 

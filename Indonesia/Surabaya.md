@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-08 14:16:58 UTC`
+📆 Last Updated: `2023-03-08 15:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Menang](http://twitter.com/search?q=Menang) | N/A |
-| 2 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 3 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 4 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 5 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 6 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
-| 7 | [#mistine38xtaynew](http://twitter.com/search?q=%23mistine38xtaynew) | N/A |
-| 8 | [#SriMulyaniMundur](http://twitter.com/search?q=%23SriMulyaniMundur) | N/A |
-| 9 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 10 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
+| 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 5 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 6 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
+| 7 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 8 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 9 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 10 | [Happy Birthday Taeyeon](http://twitter.com/search?q=Happy+Birthday+Taeyeon) | N/A |
 | 11 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 12 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 13 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 14 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 15 | [Popo](http://twitter.com/search?q=Popo) | N/A |
-| 16 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 17 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
-| 18 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 19 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 20 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 21 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 22 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
-| 23 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 24 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
-| 25 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 26 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 27 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 28 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
-| 29 | [Kaki](http://twitter.com/search?q=Kaki) | N/A |
-| 30 | [ISFJ](http://twitter.com/search?q=ISFJ) | N/A |
-| 31 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 32 | [APOLOGIZE TO JUNGKOOK](http://twitter.com/search?q=APOLOGIZE+TO+JUNGKOOK) | N/A |
-| 33 | [Kementerian Keuangan](http://twitter.com/search?q=Kementerian+Keuangan) | N/A |
-| 34 | [SEMANGAT 45](http://twitter.com/search?q=SEMANGAT+45) | N/A |
+| 12 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
+| 13 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 14 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 15 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 16 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 17 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 18 | [SMOKE SPRITE FT](http://twitter.com/search?q=SMOKE+SPRITE+FT) | N/A |
+| 19 | [Popo](http://twitter.com/search?q=Popo) | N/A |
+| 20 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 21 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 22 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 23 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 24 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 25 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
+| 26 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 27 | [Tinggi](http://twitter.com/search?q=Tinggi) | N/A |
+| 28 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 29 | [Yakult](http://twitter.com/search?q=Yakult) | N/A |
+| 30 | [Sopan](http://twitter.com/search?q=Sopan) | N/A |
+| 31 | [butut](http://twitter.com/search?q=butut) | N/A |
+| 32 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
+| 33 | [Kaki](http://twitter.com/search?q=Kaki) | N/A |
+| 34 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
 | 35 | [Selamat Hari Perempuan Sedunia](http://twitter.com/search?q=Selamat+Hari+Perempuan+Sedunia) | N/A |
 | 36 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 37 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 38 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 39 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 40 | [Telur](http://twitter.com/search?q=Telur) | N/A |
-| 41 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
-| 42 | [#MVItsYouByZeeNuNew](http://twitter.com/search?q=%23MVItsYouByZeeNuNew) | N/A |
-| 43 | [#GengPastiPasti](http://twitter.com/search?q=%23GengPastiPasti) | N/A |
-| 44 | [#BlibliSetiapHari](http://twitter.com/search?q=%23BlibliSetiapHari) | N/A |
-| 45 | [#JAKE](http://twitter.com/search?q=%23JAKE) | N/A |
-| 46 | [#HariPerempuanInternasional](http://twitter.com/search?q=%23HariPerempuanInternasional) | N/A |
-| 47 | [#รสดีซุปก้อนxเจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%8b%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99x%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
-| 48 | [#SUNOO](http://twitter.com/search?q=%23SUNOO) | N/A |
-| 49 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 50 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 37 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 38 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 39 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 40 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 41 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 42 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 43 | [#VERSACExJEFFSATUR_D1](http://twitter.com/search?q=%23VERSACExJEFFSATUR_D1) | N/A |
+| 44 | [#윤기전하_생신_경하드리옵니다](http://twitter.com/search?q=%23%ec%9c%a4%ea%b8%b0%ec%a0%84%ed%95%98_%ec%83%9d%ec%8b%a0_%ea%b2%bd%ed%95%98%eb%93%9c%eb%a6%ac%ec%98%b5%eb%8b%88%eb%8b%a4) | N/A |
+| 45 | [#설탕이_스윗한_생일_보내](http://twitter.com/search?q=%23%ec%84%a4%ed%83%95%ec%9d%b4_%ec%8a%a4%ec%9c%97%ed%95%9c_%ec%83%9d%ec%9d%bc_%eb%b3%b4%eb%82%b4) | N/A |
+| 46 | [#기운받아_월드투어_가보자고](http://twitter.com/search?q=%23%ea%b8%b0%ec%9a%b4%eb%b0%9b%ec%95%84_%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4_%ea%b0%80%eb%b3%b4%ec%9e%90%ea%b3%a0) | N/A |
+| 47 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
+| 48 | [#물오름달아흐레의_레전드](http://twitter.com/search?q=%23%eb%ac%bc%ec%98%a4%eb%a6%84%eb%8b%ac%ec%95%84%ed%9d%90%eb%a0%88%ec%9d%98_%eb%a0%88%ec%a0%84%eb%93%9c) | N/A |
+| 49 | [#SriMulyaniMundur](http://twitter.com/search?q=%23SriMulyaniMundur) | N/A |
+| 50 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
 
 
 

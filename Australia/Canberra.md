@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-08 14:17:00 UTC`
+📆 Last Updated: `2023-03-08 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 5 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 6 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 7 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 9 | [Lisa Millar](http://twitter.com/search?q=Lisa+Millar) | N/A |
+| 9 | [lisa millar](http://twitter.com/search?q=lisa+millar) | N/A |
 | 10 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
 | 11 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 14 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 12 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
 | 15 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 18 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 19 | [Parliament House](http://twitter.com/search?q=Parliament+House) | N/A |
+| 16 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 18 | [Parliament House](http://twitter.com/search?q=Parliament+House) | N/A |
+| 19 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
 | 20 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 21 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 22 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 23 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 22 | [fine line](http://twitter.com/search?q=fine+line) | N/A |
+| 23 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
 | 24 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 25 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 26 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 27 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 25 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 26 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 28 | [Bindi](http://twitter.com/search?q=Bindi) | N/A |
-| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 30 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 31 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 32 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 33 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 34 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
-| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 36 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 37 | [news breakfast](http://twitter.com/search?q=news+breakfast) | N/A |
-| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 39 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 40 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 41 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 42 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 43 | [Ben McKay](http://twitter.com/search?q=Ben+McKay) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [Perth Mint](http://twitter.com/search?q=Perth+Mint) | N/A |
-| 46 | [Happy Valley](http://twitter.com/search?q=Happy+Valley) | N/A |
-| 47 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
-| 48 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 49 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 50 | [Louise Macleod](http://twitter.com/search?q=Louise+Macleod) | N/A |
+| 29 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 31 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 32 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 33 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 34 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 35 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 36 | [Kathryn Campbell](http://twitter.com/search?q=Kathryn+Campbell) | N/A |
+| 37 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 38 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 39 | [news breakfast](http://twitter.com/search?q=news+breakfast) | N/A |
+| 40 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 42 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 43 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
+| 44 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 45 | [ben mckay](http://twitter.com/search?q=ben+mckay) | N/A |
+| 46 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 47 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 48 | [Perth Mint](http://twitter.com/search?q=Perth+Mint) | N/A |
+| 49 | [Happy Valley](http://twitter.com/search?q=Happy+Valley) | N/A |
+| 50 | [Rishi](http://twitter.com/search?q=Rishi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-08 14:17:19 UTC`
+📆 Last Updated: `2023-03-08 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 9 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 10 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 1 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 2 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 3 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 4 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 8 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 9 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 10 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
 | 11 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 | 13 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 14 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 15 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 16 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 17 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 18 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 19 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 20 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 23 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
-| 24 | [claim your](http://twitter.com/search?q=claim+your) | N/A |
-| 25 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 26 | [Ingraham](http://twitter.com/search?q=Ingraham) | N/A |
-| 27 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 28 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 29 | [DeAngelo](http://twitter.com/search?q=DeAngelo) | N/A |
-| 30 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 31 | [CNN and MSNBC](http://twitter.com/search?q=CNN+and+MSNBC) | N/A |
-| 32 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 33 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 34 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 15 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 16 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 19 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 20 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 21 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 22 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 23 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
+| 24 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 25 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 26 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 27 | [Mandalore](http://twitter.com/search?q=Mandalore) | N/A |
+| 28 | [She's Gone](http://twitter.com/search?q=She%27s+Gone) | N/A |
+| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 30 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 31 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 32 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
+| 33 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 34 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
 | 35 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 36 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 37 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 38 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 39 | [Term Limits](http://twitter.com/search?q=Term+Limits) | N/A |
-| 40 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 41 | [The Browns](http://twitter.com/search?q=The+Browns) | N/A |
-| 42 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
-| 43 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 44 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 45 | [The Party](http://twitter.com/search?q=The+Party) | N/A |
-| 46 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 47 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
-| 48 | [Ditch Mitch](http://twitter.com/search?q=Ditch+Mitch) | N/A |
-| 49 | [Georgian](http://twitter.com/search?q=Georgian) | N/A |
-| 50 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
+| 36 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 37 | [#FirstLoveSuga](http://twitter.com/search?q=%23FirstLoveSuga) | N/A |
+| 38 | [#OurSafePlaceSUGA](http://twitter.com/search?q=%23OurSafePlaceSUGA) | N/A |
+| 39 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 40 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 41 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 42 | [#SugaOurSpring](http://twitter.com/search?q=%23SugaOurSpring) | N/A |
+| 43 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 44 | [#SUGADAY](http://twitter.com/search?q=%23SUGADAY) | N/A |
+| 45 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 46 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 47 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 48 | [#OurStrengthSUGA](http://twitter.com/search?q=%23OurStrengthSUGA) | N/A |
+| 49 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 50 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
 
 
 

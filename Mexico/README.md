@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-08 14:17:29 UTC`
+📆 Last Updated: `2023-03-08 15:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 2 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 7 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 8 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 11 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 12 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 13 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 15 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 16 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 19 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 20 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 21 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 22 | [Miraval](http://twitter.com/search?q=Miraval) | N/A |
-| 23 | [medallati dorada](http://twitter.com/search?q=medallati+dorada) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 26 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 27 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 28 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 29 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
-| 30 | [Américo Villarreal](http://twitter.com/search?q=Am%c3%a9rico+Villarreal) | N/A |
-| 31 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 32 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 33 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 34 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 35 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 36 | [posthumous forgiveness](http://twitter.com/search?q=posthumous+forgiveness) | N/A |
-| 37 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 38 | [silver sniper](http://twitter.com/search?q=silver+sniper) | N/A |
-| 39 | [Rafa Polinesio](http://twitter.com/search?q=Rafa+Polinesio) | N/A |
-| 40 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 41 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 42 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 43 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 44 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 45 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
-| 46 | [forum buenavista](http://twitter.com/search?q=forum+buenavista) | N/A |
-| 47 | [reimers](http://twitter.com/search?q=reimers) | N/A |
-| 48 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 49 | [jimin mood photo](http://twitter.com/search?q=jimin+mood+photo) | N/A |
-| 50 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 8 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 9 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 10 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 11 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 12 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 13 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 14 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 15 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 16 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 17 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 18 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 19 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 20 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 21 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 22 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 23 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 24 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 25 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 26 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 27 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 28 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 29 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 30 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
+| 31 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 32 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
+| 33 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
+| 34 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 35 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 36 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 
 
 
