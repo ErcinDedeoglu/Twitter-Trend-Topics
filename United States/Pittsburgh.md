@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-08 12:18:08 UTC`
+📆 Last Updated: `2023-03-08 13:21:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
 | 2 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
 | 9 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 12 | [Claim Your](http://twitter.com/search?q=Claim+Your) | N/A |
-| 13 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
-| 14 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 15 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 16 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 17 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 18 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 20 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 21 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 22 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 23 | [Chuck Schumer](http://twitter.com/search?q=Chuck+Schumer) | N/A |
-| 24 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 25 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 26 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 27 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
-| 28 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 29 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 31 | [bane](http://twitter.com/search?q=bane) | N/A |
-| 32 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 33 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 34 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 35 | [Cowboy Bebop](http://twitter.com/search?q=Cowboy+Bebop) | N/A |
-| 36 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 10 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 11 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 12 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 13 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 14 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 15 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 17 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
+| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 19 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 20 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 21 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 22 | [Claim Your](http://twitter.com/search?q=Claim+Your) | N/A |
+| 23 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 24 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 25 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 26 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
+| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 28 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 29 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 30 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 31 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 32 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 33 | [TERM LIMITS](http://twitter.com/search?q=TERM+LIMITS) | N/A |
+| 34 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
+| 35 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 36 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
 | 37 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
-| 38 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 39 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
-| 40 | [Honey Nut Cheerios](http://twitter.com/search?q=Honey+Nut+Cheerios) | N/A |
-| 41 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 42 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
-| 43 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 44 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 45 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 46 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 38 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 39 | [Collusion](http://twitter.com/search?q=Collusion) | N/A |
+| 40 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 41 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 42 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 43 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 44 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
+| 45 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 46 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
 | 47 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 48 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
-| 49 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
-| 50 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 48 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 49 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 50 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-08 12:17:30 UTC`
+📆 Last Updated: `2023-03-08 13:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 4 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 5 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 7 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 9 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 9 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
 | 10 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 11 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 12 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 13 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 15 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 11 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 12 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 13 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 14 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 15 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 16 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 17 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
-| 18 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 19 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 20 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 21 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 22 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 23 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 24 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 25 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 26 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 27 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 28 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
-| 29 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 30 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 31 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
-| 32 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 17 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 18 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
+| 19 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 20 | [DLT Malta](http://twitter.com/search?q=DLT+Malta) | N/A |
+| 21 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 22 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 23 | [Enoch Powell](http://twitter.com/search?q=Enoch+Powell) | N/A |
+| 24 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 25 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
+| 26 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 27 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 28 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 29 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 30 | [susanna reid](http://twitter.com/search?q=susanna+reid) | N/A |
+| 31 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 32 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
 | 33 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
-| 34 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
-| 35 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
-| 36 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 37 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 38 | [#womensupportingwomen](http://twitter.com/search?q=%23womensupportingwomen) | N/A |
-| 39 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 40 | [#BreakTheBias](http://twitter.com/search?q=%23BreakTheBias) | N/A |
-| 41 | [#womeninspiringwomen](http://twitter.com/search?q=%23womeninspiringwomen) | N/A |
-| 42 | [#WomenPower](http://twitter.com/search?q=%23WomenPower) | N/A |
-| 43 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
-| 44 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 45 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
-| 46 | [#womeninconstruction](http://twitter.com/search?q=%23womeninconstruction) | N/A |
+| 34 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
+| 35 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
+| 36 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
+| 37 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 38 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
+| 39 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 40 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 41 | [#womensupportingwomen](http://twitter.com/search?q=%23womensupportingwomen) | N/A |
+| 42 | [#DontLetMEDie](http://twitter.com/search?q=%23DontLetMEDie) | N/A |
+| 43 | [#WomenPower](http://twitter.com/search?q=%23WomenPower) | N/A |
+| 44 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 45 | [#strongwomen](http://twitter.com/search?q=%23strongwomen) | N/A |
+| 46 | [#womeninspiringwomen](http://twitter.com/search?q=%23womeninspiringwomen) | N/A |
 | 47 | [#ToryFascistDictatorship](http://twitter.com/search?q=%23ToryFascistDictatorship) | N/A |
-| 48 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 48 | [#WomenInScience](http://twitter.com/search?q=%23WomenInScience) | N/A |
 | 49 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
-| 50 | [#DigitALL](http://twitter.com/search?q=%23DigitALL) | N/A |
+| 50 | [#BreakTheBias](http://twitter.com/search?q=%23BreakTheBias) | N/A |
 
 
 

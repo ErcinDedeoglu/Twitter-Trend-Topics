@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-08 12:18:12 UTC`
+📆 Last Updated: `2023-03-08 13:21:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 1 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 2 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [Chone](http://twitter.com/search?q=Chone) | N/A |
-| 7 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
-| 8 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
-| 13 | [Alexander Alvarado](http://twitter.com/search?q=Alexander+Alvarado) | N/A |
-| 14 | [José Angulo](http://twitter.com/search?q=Jos%c3%a9+Angulo) | N/A |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 17 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
-| 18 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 19 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 20 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 21 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 7 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 8 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 9 | [Delfín](http://twitter.com/search?q=Delf%c3%adn) | N/A |
+| 10 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 11 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 13 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
+| 14 | [Alexander Alvarado](http://twitter.com/search?q=Alexander+Alvarado) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [sonnia](http://twitter.com/search?q=sonnia) | N/A |
+| 19 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
+| 20 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 21 | [raúl](http://twitter.com/search?q=ra%c3%bal) | N/A |
+| 22 | [José Angulo](http://twitter.com/search?q=Jos%c3%a9+Angulo) | N/A |
 | 23 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
-| 24 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 25 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
-| 26 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 27 | [Carlos vera](http://twitter.com/search?q=Carlos+vera) | N/A |
+| 24 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 25 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 26 | [Desarrollo](http://twitter.com/search?q=Desarrollo) | N/A |
+| 27 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 28 | [cerecita](http://twitter.com/search?q=cerecita) | N/A |
 | 29 | [wachito](http://twitter.com/search?q=wachito) | N/A |
-| 30 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 31 | [anangonó](http://twitter.com/search?q=anangon%c3%b3) | N/A |
-| 32 | [carlos rodríguez](http://twitter.com/search?q=carlos+rodr%c3%adguez) | N/A |
-| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 34 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 35 | [choclo](http://twitter.com/search?q=choclo) | N/A |
-| 36 | [mare es selena](http://twitter.com/search?q=mare+es+selena) | N/A |
-| 37 | [Nasuti](http://twitter.com/search?q=Nasuti) | N/A |
-| 38 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
-| 39 | [Lele](http://twitter.com/search?q=Lele) | N/A |
+| 30 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 31 | [carlos rodríguez](http://twitter.com/search?q=carlos+rodr%c3%adguez) | N/A |
+| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 34 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 35 | [cynthia viteri](http://twitter.com/search?q=cynthia+viteri) | N/A |
+| 36 | [Choclo](http://twitter.com/search?q=Choclo) | N/A |
+| 37 | [mare es selena](http://twitter.com/search?q=mare+es+selena) | N/A |
+| 38 | [Nasuti](http://twitter.com/search?q=Nasuti) | N/A |
+| 39 | [Los Lobos](http://twitter.com/search?q=Los+Lobos) | N/A |
 | 40 | [cumbaya](http://twitter.com/search?q=cumbaya) | N/A |
-| 41 | [Cynthia Viteri](http://twitter.com/search?q=Cynthia+Viteri) | N/A |
+| 41 | [ID y PK](http://twitter.com/search?q=ID+y+PK) | N/A |
 | 42 | [Oyola](http://twitter.com/search?q=Oyola) | N/A |
-| 43 | [id y pk](http://twitter.com/search?q=id+y+pk) | N/A |
+| 43 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 44 | [La ID](http://twitter.com/search?q=La+ID) | N/A |
 | 45 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 | 46 | [guillermo duró](http://twitter.com/search?q=guillermo+dur%c3%b3) | N/A |
-| 47 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 48 | [alexandra](http://twitter.com/search?q=alexandra) | N/A |
-| 49 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 50 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 47 | [Anangonó](http://twitter.com/search?q=Anangon%c3%b3) | N/A |
+| 48 | [aquiles álvarez](http://twitter.com/search?q=aquiles+%c3%a1lvarez) | N/A |
+| 49 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
+| 50 | [leonel quiñónez](http://twitter.com/search?q=leonel+qui%c3%b1%c3%b3nez) | N/A |
 
 
 
