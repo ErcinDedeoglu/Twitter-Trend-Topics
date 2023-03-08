@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-08 16:17:24 UTC`
+📆 Last Updated: `2023-03-08 17:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Singapore
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 5 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 6 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 10 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 5 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 6 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 7 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 8 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 11 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 12 | [you are loved gino](http://twitter.com/search?q=you+are+loved+gino) | N/A |
-| 13 | [Byul](http://twitter.com/search?q=Byul) | N/A |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 15 | [Simple Plan](http://twitter.com/search?q=Simple+Plan) | N/A |
-| 16 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
-| 19 | [Why Why Why](http://twitter.com/search?q=Why+Why+Why) | N/A |
-| 20 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 14 | [Simple Plan](http://twitter.com/search?q=Simple+Plan) | N/A |
+| 15 | [Byul](http://twitter.com/search?q=Byul) | N/A |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
+| 18 | [Why Why Why](http://twitter.com/search?q=Why+Why+Why) | N/A |
+| 19 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 20 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
 | 21 | [EXCUSE ME](http://twitter.com/search?q=EXCUSE+ME) | N/A |
 | 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 23 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 24 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 25 | [yuju](http://twitter.com/search?q=yuju) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 28 | [IRyS](http://twitter.com/search?q=IRyS) | N/A |
-| 29 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 30 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
-| 31 | [Wish Me Luck](http://twitter.com/search?q=Wish+Me+Luck) | N/A |
-| 32 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
-| 33 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Sigh](http://twitter.com/search?q=Sigh) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 41 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
-| 42 | [event page updated](http://twitter.com/search?q=event+page+updated) | N/A |
-| 43 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 44 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 45 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 46 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 47 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 49 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 50 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 23 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 24 | [yuju](http://twitter.com/search?q=yuju) | N/A |
+| 25 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 26 | [IRyS](http://twitter.com/search?q=IRyS) | N/A |
+| 27 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 28 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 35 | [Wish Me Luck](http://twitter.com/search?q=Wish+Me+Luck) | N/A |
+| 36 | [GENERASI HAPPY](http://twitter.com/search?q=GENERASI+HAPPY) | N/A |
+| 37 | [Sigh](http://twitter.com/search?q=Sigh) | N/A |
+| 38 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 39 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
+| 40 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 43 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 46 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 47 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 48 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 49 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 50 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 
 
 

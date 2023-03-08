@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-03-08 16:17:12 UTC`
+📆 Last Updated: `2023-03-08 17:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 3 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
 | 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 5 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
 | 6 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 7 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 8 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 9 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 10 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 11 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 13 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 14 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 15 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
-| 16 | [Feliz Día de la Mujer](http://twitter.com/search?q=Feliz+D%c3%ada+de+la+Mujer) | N/A |
-| 17 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 18 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 19 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 20 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 21 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 23 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 24 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 25 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
-| 26 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 27 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 28 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 29 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 30 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 31 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 32 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 33 | [Master and Commander](http://twitter.com/search?q=Master+and+Commander) | N/A |
-| 34 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
-| 35 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 36 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 37 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 38 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 39 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
-| 40 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 41 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 42 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 43 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 44 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 45 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
-| 46 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
-| 47 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 7 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 8 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 9 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 10 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
+| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 12 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 13 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 14 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
+| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 16 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 17 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 18 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 19 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 20 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
+| 21 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 22 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 23 | [Eragon](http://twitter.com/search?q=Eragon) | N/A |
+| 24 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 25 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 26 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
+| 27 | [Wake Forest](http://twitter.com/search?q=Wake+Forest) | N/A |
+| 28 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 29 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 30 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 31 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
+| 32 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 33 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 34 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 35 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 36 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 37 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 38 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 39 | [#PrincessLilibetDiana](http://twitter.com/search?q=%23PrincessLilibetDiana) | N/A |
+| 40 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 41 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 42 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 43 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 44 | [#BreonnaTaylor](http://twitter.com/search?q=%23BreonnaTaylor) | N/A |
+| 45 | [#WomenInTech](http://twitter.com/search?q=%23WomenInTech) | N/A |
+| 46 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 47 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 
 
 

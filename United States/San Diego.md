@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-08 16:17:16 UTC`
+📆 Last Updated: `2023-03-08 17:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 6 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 7 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 8 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 9 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 11 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 16 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
-| 17 | [Feliz Día de la Mujer](http://twitter.com/search?q=Feliz+D%c3%ada+de+la+Mujer) | N/A |
-| 18 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 1 | [#TDX23](http://twitter.com/search?q=%23TDX23) | N/A |
+| 2 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 3 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 4 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 5 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 8 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 9 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
+| 10 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 11 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 12 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
+| 13 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 14 | [Honorable](http://twitter.com/search?q=Honorable) | N/A |
+| 15 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 16 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 17 | [Edmunds](http://twitter.com/search?q=Edmunds) | N/A |
+| 18 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
 | 19 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 20 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
-| 21 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 22 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
-| 23 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 24 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 25 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
-| 26 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 27 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 28 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 29 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 30 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 31 | [Chinese Taipei](http://twitter.com/search?q=Chinese+Taipei) | N/A |
-| 32 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 33 | [Howie](http://twitter.com/search?q=Howie) | N/A |
-| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 35 | [Master and Commander](http://twitter.com/search?q=Master+and+Commander) | N/A |
-| 36 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
-| 37 | [CJGJ](http://twitter.com/search?q=CJGJ) | N/A |
-| 38 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 39 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 40 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
-| 41 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 42 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
-| 43 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
-| 44 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 45 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 46 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
-| 47 | [#GeniusMinPDDay](http://twitter.com/search?q=%23GeniusMinPDDay) | N/A |
-| 48 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
-| 49 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 50 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 20 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 21 | [Poyer](http://twitter.com/search?q=Poyer) | Poyer is a French word meaning "to pay". It is used to describe the act of paying for something. |
+| 22 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 23 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 24 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 25 | [Redfield](http://twitter.com/search?q=Redfield) | N/A |
+| 26 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 27 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 28 | [Eragon](http://twitter.com/search?q=Eragon) | N/A |
+| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 30 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 31 | [Festival of Colors](http://twitter.com/search?q=Festival+of+Colors) | N/A |
+| 32 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 33 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 34 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 35 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 36 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 37 | [#TuckerCarlsonIsALiar](http://twitter.com/search?q=%23TuckerCarlsonIsALiar) | N/A |
+| 38 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 39 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 40 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 41 | [#WomenSupportingWomen](http://twitter.com/search?q=%23WomenSupportingWomen) | N/A |
+| 42 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 43 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 44 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 45 | [#PrincessLilibetDiana](http://twitter.com/search?q=%23PrincessLilibetDiana) | N/A |
+| 46 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 47 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 48 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 49 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 50 | [#BreonnaTaylor](http://twitter.com/search?q=%23BreonnaTaylor) | N/A |
 
 
 

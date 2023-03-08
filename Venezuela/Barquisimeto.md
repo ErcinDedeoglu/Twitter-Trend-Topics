@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-08 16:16:41 UTC`
+📆 Last Updated: `2023-03-08 17:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 9 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
 | 10 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
 | 11 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 12 | [Bocha Batista](http://twitter.com/search?q=Bocha+Batista) | N/A |
+| 12 | [Farias](http://twitter.com/search?q=Farias) | N/A |
 | 13 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 14 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
-| 15 | [Chita](http://twitter.com/search?q=Chita) | N/A |
-| 16 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 17 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 19 | [Voluntad Popular](http://twitter.com/search?q=Voluntad+Popular) | N/A |
-| 20 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
-| 21 | [Richard Páez](http://twitter.com/search?q=Richard+P%c3%a1ez) | N/A |
-| 22 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [alejandro otero](http://twitter.com/search?q=alejandro+otero) | N/A |
-| 26 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 27 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 28 | [Vianda](http://twitter.com/search?q=Vianda) | N/A |
-| 29 | [Adilia Castillo](http://twitter.com/search?q=Adilia+Castillo) | N/A |
-| 30 | [Juan Guaidó](http://twitter.com/search?q=Juan+Guaid%c3%b3) | N/A |
-| 31 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
-| 32 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 34 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 35 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 14 | [Chita](http://twitter.com/search?q=Chita) | N/A |
+| 15 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 16 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
+| 17 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 18 | [Voluntad Popular](http://twitter.com/search?q=Voluntad+Popular) | N/A |
+| 19 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 20 | [Richard Páez](http://twitter.com/search?q=Richard+P%c3%a1ez) | N/A |
+| 21 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [alejandro otero](http://twitter.com/search?q=alejandro+otero) | N/A |
+| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 25 | [Paul Newman](http://twitter.com/search?q=Paul+Newman) | N/A |
+| 26 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 29 | [Vianda](http://twitter.com/search?q=Vianda) | N/A |
+| 30 | [Adilia Castillo](http://twitter.com/search?q=Adilia+Castillo) | N/A |
+| 31 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 32 | [Juan Guaidó](http://twitter.com/search?q=Juan+Guaid%c3%b3) | N/A |
+| 33 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 34 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 35 | [Mujer Venezolana](http://twitter.com/search?q=Mujer+Venezolana) | N/A |
 | 36 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 37 | [7-Chinchurria](http://twitter.com/search?q=7-Chinchurria) | N/A |
-| 38 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 39 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 40 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
-| 41 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 42 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
-| 43 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
-| 44 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
-| 45 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 46 | [5-Sopa](http://twitter.com/search?q=5-Sopa) | N/A |
-| 47 | [1-Mondongo](http://twitter.com/search?q=1-Mondongo) | N/A |
-| 48 | [16-Granos](http://twitter.com/search?q=16-Granos) | N/A |
-| 49 | [4-chigüire](http://twitter.com/search?q=4-chig%c3%bcire) | N/A |
+| 37 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 38 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 39 | [Viva la Patria Mujer](http://twitter.com/search?q=Viva+la+Patria+Mujer) | N/A |
+| 40 | [8-Sushi](http://twitter.com/search?q=8-Sushi) | N/A |
+| 41 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [13-Hígado](http://twitter.com/search?q=13-H%c3%adgado) | N/A |
+| 44 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 45 | [1-Mondongo](http://twitter.com/search?q=1-Mondongo) | N/A |
+| 46 | [CANTV](http://twitter.com/search?q=CANTV) | N/A |
+| 47 | [7-Chinchurria](http://twitter.com/search?q=7-Chinchurria) | N/A |
+| 48 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
+| 49 | [5-Sopa](http://twitter.com/search?q=5-Sopa) | N/A |
 | 50 | [14-Picante](http://twitter.com/search?q=14-Picante) | N/A |
 
 

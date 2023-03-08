@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-08 16:17:06 UTC`
+📆 Last Updated: `2023-03-08 17:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 2 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
-| 3 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [HAPPY BIRTHDAY YOONGI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YOONGI) | N/A |
-| 6 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
-| 7 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
-| 8 | [#BeautyHasNoColour](http://twitter.com/search?q=%23BeautyHasNoColour) | N/A |
+| 1 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 2 | [अंतरराष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [#TabooCrypto](http://twitter.com/search?q=%23TabooCrypto) | N/A |
+| 5 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
+| 6 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 7 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 8 | [Amy H](http://twitter.com/search?q=Amy+H) | N/A |
 | 9 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 10 | [Sophia Dunkley](http://twitter.com/search?q=Sophia+Dunkley) | N/A |
+| 10 | [Sophie Devine](http://twitter.com/search?q=Sophie+Devine) | N/A |
 | 11 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
-| 12 | [Harleen](http://twitter.com/search?q=Harleen) | N/A |
-| 13 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 14 | [Shreyanka Patil](http://twitter.com/search?q=Shreyanka+Patil) | N/A |
+| 12 | [Sophia Dunkley](http://twitter.com/search?q=Sophia+Dunkley) | N/A |
+| 13 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 14 | [Perry](http://twitter.com/search?q=Perry) | N/A |
 | 15 | [BINDUMADHAVI AS RADHA](http://twitter.com/search?q=BINDUMADHAVI+AS+RADHA) | N/A |
 | 16 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
-| 17 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
-| 18 | [Bhairavi Utsav](http://twitter.com/search?q=Bhairavi+Utsav) | N/A |
-| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 20 | [Tata Motors](http://twitter.com/search?q=Tata+Motors) | N/A |
-| 21 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 22 | [Devine](http://twitter.com/search?q=Devine) | N/A |
-| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 24 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
-| 25 | [Smoke Sprite](http://twitter.com/search?q=Smoke+Sprite) | N/A |
-| 26 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
-| 27 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
-| 28 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 29 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 30 | [Halala](http://twitter.com/search?q=Halala) | N/A |
-| 31 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
-| 32 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 33 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Saba](http://twitter.com/search?q=Saba) | N/A |
-| 36 | [Jungkookie](http://twitter.com/search?q=Jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
-| 37 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
-| 38 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
-| 39 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 40 | [Rajiv](http://twitter.com/search?q=Rajiv) | N/A |
-| 41 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 42 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 43 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
-| 44 | [#NaariBehindSafari](http://twitter.com/search?q=%23NaariBehindSafari) | N/A |
+| 17 | [Harleen](http://twitter.com/search?q=Harleen) | N/A |
+| 18 | [Shreyanka Patil](http://twitter.com/search?q=Shreyanka+Patil) | N/A |
+| 19 | [Heather Knight](http://twitter.com/search?q=Heather+Knight) | N/A |
+| 20 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 21 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 22 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 23 | [Preeti Bose](http://twitter.com/search?q=Preeti+Bose) | N/A |
+| 24 | [Mandhana](http://twitter.com/search?q=Mandhana) | N/A |
+| 25 | [Bhairavi Utsav](http://twitter.com/search?q=Bhairavi+Utsav) | N/A |
+| 26 | [Tata Motors](http://twitter.com/search?q=Tata+Motors) | N/A |
+| 27 | [तिहाड़ जेल दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 28 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 29 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 30 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 31 | [4th Test](http://twitter.com/search?q=4th+Test) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Halala](http://twitter.com/search?q=Halala) | N/A |
+| 34 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
+| 35 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
+| 36 | [Abhishek](http://twitter.com/search?q=Abhishek) | N/A |
+| 37 | [PM Narendra Modi](http://twitter.com/search?q=PM+Narendra+Modi) | N/A |
+| 38 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
+| 39 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 40 | [Jungkookie](http://twitter.com/search?q=Jungkookie) | Jungkookie is a nickname for the South Korean singer and songwriter Jungkook, who is a member of the K-pop boy band BTS. The name is derived from his given name, Jeon Jung-kook. In English, it means "Jungkook's little one". |
+| 41 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
+| 42 | [साहिर लुधियानवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b2%e0%a5%81%e0%a4%a7%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a5%80) | N/A |
+| 43 | [#BeautyHasNoColour](http://twitter.com/search?q=%23BeautyHasNoColour) | N/A |
+| 44 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
 | 45 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 46 | [#RcbvsGG](http://twitter.com/search?q=%23RcbvsGG) | N/A |
-| 47 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 48 | [#gatewaygetsglorious](http://twitter.com/search?q=%23gatewaygetsglorious) | N/A |
-| 49 | [#SikhsRejectsAmritpal](http://twitter.com/search?q=%23SikhsRejectsAmritpal) | N/A |
-| 50 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 46 | [#SheGotGame](http://twitter.com/search?q=%23SheGotGame) | N/A |
+| 47 | [#GGvRCB](http://twitter.com/search?q=%23GGvRCB) | N/A |
+| 48 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
+| 49 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 50 | [#gatewaygetsglorious](http://twitter.com/search?q=%23gatewaygetsglorious) | N/A |
 
 
 

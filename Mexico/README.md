@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-08 16:17:22 UTC`
+📆 Last Updated: `2023-03-08 17:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,45 +20,51 @@ This is top 50 for Mexico
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 6 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 7 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 8 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 9 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 10 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 11 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 12 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 9 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
+| 10 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
+| 11 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 12 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
 | 13 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
 | 14 | [CONMEMORA](http://twitter.com/search?q=CONMEMORA) | N/A |
-| 15 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 16 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
-| 17 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 18 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 15 | [Ugalde](http://twitter.com/search?q=Ugalde) | N/A |
+| 16 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Palacio de Gobierno](http://twitter.com/search?q=Palacio+de+Gobierno) | N/A |
 | 19 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 20 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
+| 21 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
 | 22 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 23 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 24 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 25 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 26 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 27 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 28 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
-| 29 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
-| 30 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
-| 31 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 32 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 33 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 34 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 23 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 24 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 25 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 26 | [#JuntasTransformamosMéxico](http://twitter.com/search?q=%23JuntasTransformamosM%c3%a9xico) | N/A |
+| 27 | [#Marcha8M](http://twitter.com/search?q=%23Marcha8M) | N/A |
+| 28 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 29 | [#NiUnaMas](http://twitter.com/search?q=%23NiUnaMas) | N/A |
+| 30 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 31 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 32 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 33 | [#TheLittleMermaid](http://twitter.com/search?q=%23TheLittleMermaid) | N/A |
+| 34 | [#LaSirenita](http://twitter.com/search?q=%23LaSirenita) | N/A |
 | 35 | [#8MNadaQueCelebrar](http://twitter.com/search?q=%238MNadaQueCelebrar) | N/A |
-| 36 | [#equidad](http://twitter.com/search?q=%23equidad) | N/A |
-| 37 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 38 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
-| 39 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
-| 40 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
-| 41 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
-| 42 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
-| 43 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 44 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 36 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 37 | [#AvancemosJuntasEnConvoy](http://twitter.com/search?q=%23AvancemosJuntasEnConvoy) | N/A |
+| 38 | [#Starfield](http://twitter.com/search?q=%23Starfield) | N/A |
+| 39 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 40 | [#equidad](http://twitter.com/search?q=%23equidad) | N/A |
+| 41 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
+| 42 | [#VivasNosQueremos](http://twitter.com/search?q=%23VivasNosQueremos) | N/A |
+| 43 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 44 | [#SmokeSpritexRM](http://twitter.com/search?q=%23SmokeSpritexRM) | N/A |
+| 45 | [#CerremosLaBrecha](http://twitter.com/search?q=%23CerremosLaBrecha) | N/A |
+| 46 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 47 | [#derechos](http://twitter.com/search?q=%23derechos) | N/A |
+| 48 | [#8M23](http://twitter.com/search?q=%238M23) | N/A |
+| 49 | [#violencia](http://twitter.com/search?q=%23violencia) | N/A |
+| 50 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

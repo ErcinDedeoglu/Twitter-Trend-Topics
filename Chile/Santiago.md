@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-08 16:16:37 UTC`
+📆 Last Updated: `2023-03-08 17:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,47 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 2 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 3 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
-| 4 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 5 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 6 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 7 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 8 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
-| 9 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
-| 10 | [Gracias Rechazo](http://twitter.com/search?q=Gracias+Rechazo) | N/A |
-| 11 | [Mario Marcel](http://twitter.com/search?q=Mario+Marcel) | N/A |
-| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 13 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 14 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 15 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 16 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 17 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 18 | [Nery](http://twitter.com/search?q=Nery) | N/A |
-| 19 | [Pudahuel](http://twitter.com/search?q=Pudahuel) | N/A |
-| 20 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 21 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 22 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 23 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 24 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 25 | [Avila](http://twitter.com/search?q=Avila) | N/A |
-| 26 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 27 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 28 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 29 | [#ChileParaTodas](http://twitter.com/search?q=%23ChileParaTodas) | N/A |
-| 30 | [#FeministasDeCarton](http://twitter.com/search?q=%23FeministasDeCarton) | N/A |
-| 31 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 32 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 33 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 34 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 35 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
-| 36 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
-| 37 | [#LaAutopiZta](http://twitter.com/search?q=%23LaAutopiZta) | N/A |
-| 38 | [#maricon](http://twitter.com/search?q=%23maricon) | N/A |
-| 39 | [#recampaña](http://twitter.com/search?q=%23recampa%c3%b1a) | N/A |
-| 40 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 1 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 2 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 3 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 4 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 5 | [#maricon](http://twitter.com/search?q=%23maricon) | N/A |
+| 6 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 7 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 8 | [Seguimos](http://twitter.com/search?q=Seguimos) | N/A |
+| 9 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
+| 10 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 11 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 12 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
+| 13 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 14 | [Gracias Rechazo](http://twitter.com/search?q=Gracias+Rechazo) | N/A |
+| 15 | [Mario Marcel](http://twitter.com/search?q=Mario+Marcel) | N/A |
+| 16 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 18 | [Sala Cuna](http://twitter.com/search?q=Sala+Cuna) | N/A |
+| 19 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 20 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 21 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 22 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 23 | [Pudahuel](http://twitter.com/search?q=Pudahuel) | N/A |
+| 24 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 25 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 26 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 27 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 28 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
+| 29 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 30 | [#ChileParaTodas](http://twitter.com/search?q=%23ChileParaTodas) | N/A |
+| 31 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 32 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 33 | [#FeministasDeCarton](http://twitter.com/search?q=%23FeministasDeCarton) | N/A |
+| 34 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 35 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 36 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 37 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
+| 38 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 39 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 40 | [#mujeres](http://twitter.com/search?q=%23mujeres) | N/A |
 | 41 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 42 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
 
 
 
