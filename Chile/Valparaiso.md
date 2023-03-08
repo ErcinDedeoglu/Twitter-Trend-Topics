@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-08 09:16:53 UTC`
+📆 Last Updated: `2023-03-08 10:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 2 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 3 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 4 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 5 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 7 | [#yosoychv](http://twitter.com/search?q=%23yosoychv) | N/A |
+| 2 | [#FelizDiaDeLaMujer](http://twitter.com/search?q=%23FelizDiaDeLaMujer) | N/A |
+| 3 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 5 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 6 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 7 | [Repe](http://twitter.com/search?q=Repe) | N/A |
 | 8 | [Isla](http://twitter.com/search?q=Isla) | N/A |
 | 9 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
 | 10 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 11 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 12 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 13 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 14 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 15 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 16 | [rovira](http://twitter.com/search?q=rovira) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 11 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 12 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 13 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 18 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
 | 19 | [hernán larraín](http://twitter.com/search?q=hern%c3%a1n+larra%c3%adn) | N/A |
-| 20 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 21 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 22 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 23 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 24 | [verónica undurraga](http://twitter.com/search?q=ver%c3%b3nica+undurraga) | N/A |
-| 25 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
-| 26 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
-| 27 | [YOONGI CHILE TE ESPERA](http://twitter.com/search?q=YOONGI+CHILE+TE+ESPERA) | N/A |
-| 28 | [fernanda maciel](http://twitter.com/search?q=fernanda+maciel) | N/A |
-| 29 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 30 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 31 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 32 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 33 | [dituro](http://twitter.com/search?q=dituro) | N/A |
-| 34 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 35 | [macabro](http://twitter.com/search?q=macabro) | N/A |
-| 36 | [kagelmacher](http://twitter.com/search?q=kagelmacher) | N/A |
-| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 38 | [rechazar](http://twitter.com/search?q=rechazar) | N/A |
-| 39 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 40 | [Directv](http://twitter.com/search?q=Directv) | N/A |
-| 41 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
-| 42 | [ampuero](http://twitter.com/search?q=ampuero) | N/A |
-| 43 | [plaza dignidad](http://twitter.com/search?q=plaza+dignidad) | N/A |
-| 44 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 45 | [Colonia Dignidad](http://twitter.com/search?q=Colonia+Dignidad) | N/A |
-| 46 | [Alipio Vera](http://twitter.com/search?q=Alipio+Vera) | N/A |
-| 47 | [los chichos](http://twitter.com/search?q=los+chichos) | N/A |
-| 48 | [felipe rojas](http://twitter.com/search?q=felipe+rojas) | N/A |
+| 20 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 21 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 22 | [verónica undurraga](http://twitter.com/search?q=ver%c3%b3nica+undurraga) | N/A |
+| 23 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
+| 24 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
+| 25 | [yoongi chile te espera](http://twitter.com/search?q=yoongi+chile+te+espera) | N/A |
+| 26 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 27 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 28 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 29 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 30 | [aravena](http://twitter.com/search?q=aravena) | N/A |
+| 31 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 32 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 33 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 34 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 35 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 36 | [Directv](http://twitter.com/search?q=Directv) | N/A |
+| 37 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
+| 38 | [ampuero](http://twitter.com/search?q=ampuero) | N/A |
+| 39 | [plaza dignidad](http://twitter.com/search?q=plaza+dignidad) | N/A |
+| 40 | [Macabro](http://twitter.com/search?q=Macabro) | N/A |
+| 41 | [comisión experta](http://twitter.com/search?q=comisi%c3%b3n+experta) | N/A |
+| 42 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
+| 43 | [colonia dignidad](http://twitter.com/search?q=colonia+dignidad) | N/A |
+| 44 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 45 | [alipio vera](http://twitter.com/search?q=alipio+vera) | N/A |
+| 46 | [los chichos](http://twitter.com/search?q=los+chichos) | N/A |
+| 47 | [Expertos](http://twitter.com/search?q=Expertos) | N/A |
+| 48 | [Neme](http://twitter.com/search?q=Neme) | N/A |
 
 
 

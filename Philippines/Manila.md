@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-08 09:17:20 UTC`
+📆 Last Updated: `2023-03-08 10:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
-| 3 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 4 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [#CodeKunst55_WENDYxYerinBaek](http://twitter.com/search?q=%23CodeKunst55_WENDYxYerinBaek) | N/A |
-| 7 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 8 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 9 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 10 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 11 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 12 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 13 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 14 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 16 | [Congrats FEU](http://twitter.com/search?q=Congrats+FEU) | N/A |
-| 17 | [King and Queen](http://twitter.com/search?q=King+and+Queen) | N/A |
-| 18 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 19 | [Nisperos](http://twitter.com/search?q=Nisperos) | N/A |
-| 20 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 21 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 22 | [Doromal](http://twitter.com/search?q=Doromal) | N/A |
-| 23 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
-| 24 | [Encarnacion](http://twitter.com/search?q=Encarnacion) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 3 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 5 | [KATHNIEL TOP TAXPAYERS](http://twitter.com/search?q=KATHNIEL+TOP+TAXPAYERS) | N/A |
+| 6 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
+| 7 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 8 | [#CodeKunst55_WENDYxYerinBaek](http://twitter.com/search?q=%23CodeKunst55_WENDYxYerinBaek) | N/A |
+| 9 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 10 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 11 | [#WeGoWednesday](http://twitter.com/search?q=%23WeGoWednesday) | N/A |
+| 12 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 13 | [lee jong suk](http://twitter.com/search?q=lee+jong+suk) | N/A |
+| 14 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 15 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 16 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 18 | [King and Queen](http://twitter.com/search?q=King+and+Queen) | N/A |
+| 19 | [ABANTE BABAE](http://twitter.com/search?q=ABANTE+BABAE) | N/A |
+| 20 | [Coach Tina](http://twitter.com/search?q=Coach+Tina) | N/A |
+| 21 | [Encarnacion](http://twitter.com/search?q=Encarnacion) | N/A |
+| 22 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 23 | [THE BOYZ](http://twitter.com/search?q=THE+BOYZ) | THE BOYZ is a South Korean boy band formed by Cre.ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Hwall, Sunwoo and Eric. The name THE BOYZ is an acronym for "The Boys of Zodiac". |
+| 24 | [Mendiola](http://twitter.com/search?q=Mendiola) | N/A |
+| 25 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
 | 26 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 27 | [De Guzman](http://twitter.com/search?q=De+Guzman) | N/A |
-| 28 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 29 | [Kababaihan](http://twitter.com/search?q=Kababaihan) | N/A |
-| 30 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 31 | [BABAE KA](http://twitter.com/search?q=BABAE+KA) | N/A |
-| 32 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 33 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 34 | [#FELIPonPrambors](http://twitter.com/search?q=%23FELIPonPrambors) | N/A |
-| 35 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 36 | [#ShowtimeLarongLaro](http://twitter.com/search?q=%23ShowtimeLarongLaro) | N/A |
-| 37 | [#AbanteBabae](http://twitter.com/search?q=%23AbanteBabae) | N/A |
-| 38 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
-| 39 | [#LetItchGo](http://twitter.com/search?q=%23LetItchGo) | N/A |
-| 40 | [#NoItchuations](http://twitter.com/search?q=%23NoItchuations) | N/A |
-| 41 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 42 | [#YesToJeepneyModernization](http://twitter.com/search?q=%23YesToJeepneyModernization) | N/A |
-| 43 | [#ENHYPEN_SUNOO](http://twitter.com/search?q=%23ENHYPEN_SUNOO) | N/A |
-| 44 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
-| 45 | [#11thKAIAxZAIADay](http://twitter.com/search?q=%2311thKAIAxZAIADay) | N/A |
-| 46 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 47 | [#VivoreeMatapang](http://twitter.com/search?q=%23VivoreeMatapang) | N/A |
+| 27 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 28 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 29 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 30 | [admu](http://twitter.com/search?q=admu) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Kathryn Bernardo](http://twitter.com/search?q=Kathryn+Bernardo) | N/A |
+| 33 | [#YGIGMenpa](http://twitter.com/search?q=%23YGIGMenpa) | N/A |
+| 34 | [#YouGoIGo](http://twitter.com/search?q=%23YouGoIGo) | N/A |
+| 35 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 36 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 37 | [#FELIPonPrambors](http://twitter.com/search?q=%23FELIPonPrambors) | N/A |
+| 38 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 39 | [#ENHYPEN_SUNOO](http://twitter.com/search?q=%23ENHYPEN_SUNOO) | N/A |
+| 40 | [#ShowtimeLarongLaro](http://twitter.com/search?q=%23ShowtimeLarongLaro) | N/A |
+| 41 | [#AcerOnTop](http://twitter.com/search?q=%23AcerOnTop) | N/A |
+| 42 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 43 | [#YesToJeepneyModernization](http://twitter.com/search?q=%23YesToJeepneyModernization) | N/A |
+| 44 | [#WEcanbeEquALL](http://twitter.com/search?q=%23WEcanbeEquALL) | N/A |
+| 45 | [#WomensMonth](http://twitter.com/search?q=%23WomensMonth) | N/A |
+| 46 | [#11thKAIAxZAIADay](http://twitter.com/search?q=%2311thKAIAxZAIADay) | N/A |
+| 47 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
 
 
 

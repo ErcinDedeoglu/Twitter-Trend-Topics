@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-08 09:17:55 UTC`
+📆 Last Updated: `2023-03-08 10:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Peru
 | 4 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
 | 5 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 6 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 7 | [#SabbagEnAlÁngulo](http://twitter.com/search?q=%23SabbagEnAl%c3%81ngulo) | N/A |
-| 8 | [Machu Picchu](http://twitter.com/search?q=Machu+Picchu) | N/A |
+| 7 | [#sabbagenalángulo](http://twitter.com/search?q=%23sabbagenal%c3%a1ngulo) | N/A |
+| 8 | [machu picchu](http://twitter.com/search?q=machu+picchu) | N/A |
 | 9 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
@@ -30,7 +30,7 @@ This is top 50 for Peru
 | 13 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
 | 14 | [#FACEMOODPHOTO](http://twitter.com/search?q=%23FACEMOODPHOTO) | N/A |
 | 15 | [Christian Cueva](http://twitter.com/search?q=Christian+Cueva) | N/A |
-| 16 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
+| 16 | [#magalytvlafirme](http://twitter.com/search?q=%23magalytvlafirme) | N/A |
 | 17 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 18 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
 | 19 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Peru
 | 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 24 | [Betsy](http://twitter.com/search?q=Betsy) | N/A |
 | 25 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 26 | [Becerra](http://twitter.com/search?q=Becerra) | N/A |
+| 26 | [becerra](http://twitter.com/search?q=becerra) | N/A |
 | 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 28 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 29 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
@@ -51,13 +51,13 @@ This is top 50 for Peru
 | 34 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
 | 35 | [Burberry](http://twitter.com/search?q=Burberry) | N/A |
 | 36 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
-| 37 | [cordero](http://twitter.com/search?q=cordero) | N/A |
+| 37 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
 | 38 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
 | 39 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
 | 40 | [La República](http://twitter.com/search?q=La+Rep%c3%bablica) | N/A |
-| 41 | [Aymaras](http://twitter.com/search?q=Aymaras) | N/A |
-| 42 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 43 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 41 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 42 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 43 | [Aymaras](http://twitter.com/search?q=Aymaras) | N/A |
 | 44 | [roberto sánchez](http://twitter.com/search?q=roberto+s%c3%a1nchez) | N/A |
 | 45 | [estadio san marcos](http://twitter.com/search?q=estadio+san+marcos) | N/A |
 | 46 | [Patricia Chirinos](http://twitter.com/search?q=Patricia+Chirinos) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-08 09:16:45 UTC`
+📆 Last Updated: `2023-03-08 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 7 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 5 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 7 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 | 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 10 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 11 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 10 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 11 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
 | 12 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 13 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 13 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
 | 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 15 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 16 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 17 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
-| 18 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 19 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 20 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
-| 21 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 22 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 23 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 24 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
-| 25 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 26 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
-| 27 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 28 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 15 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 16 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 17 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 18 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 19 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 20 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 21 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 22 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
+| 23 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
+| 24 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 25 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 26 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 27 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
+| 28 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
 | 29 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 30 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 31 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 32 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
-| 33 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 34 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
-| 35 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 36 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 37 | [Nick Ferrari](http://twitter.com/search?q=Nick+Ferrari) | N/A |
-| 38 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 40 | [The UN](http://twitter.com/search?q=The+UN) | N/A |
-| 41 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 42 | [Illegal](http://twitter.com/search?q=Illegal) | N/A |
-| 43 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 44 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
-| 45 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
-| 46 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 47 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 48 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
-| 49 | [#ToryFascistDictatorship](http://twitter.com/search?q=%23ToryFascistDictatorship) | N/A |
-| 50 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 30 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 31 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
+| 32 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
+| 33 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 34 | [Albania](http://twitter.com/search?q=Albania) | N/A |
+| 35 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 36 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
+| 37 | [Stalinist](http://twitter.com/search?q=Stalinist) | N/A |
+| 38 | [#womenempowerment](http://twitter.com/search?q=%23womenempowerment) | N/A |
+| 39 | [#womenempoweringwomen](http://twitter.com/search?q=%23womenempoweringwomen) | N/A |
+| 40 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
+| 41 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 42 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 43 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 44 | [#girlpower](http://twitter.com/search?q=%23girlpower) | N/A |
+| 45 | [#womensupportingwomen](http://twitter.com/search?q=%23womensupportingwomen) | N/A |
+| 46 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
+| 47 | [#SwanIWDGiveaway](http://twitter.com/search?q=%23SwanIWDGiveaway) | N/A |
+| 48 | [#womeninspiringwomen](http://twitter.com/search?q=%23womeninspiringwomen) | N/A |
+| 49 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 50 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
 
 
 

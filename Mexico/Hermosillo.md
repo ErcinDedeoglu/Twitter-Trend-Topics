@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-03-08 09:16:50 UTC`
+📆 Last Updated: `2023-03-08 10:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Mexico](</Mexico>)
 | 9 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 10 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 12 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 15 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 18 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 19 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 20 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 21 | [medallati dorada](http://twitter.com/search?q=medallati+dorada) | N/A |
-| 22 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 23 | [Américo Villarreal](http://twitter.com/search?q=Am%c3%a9rico+Villarreal) | N/A |
-| 24 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
-| 25 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 26 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 27 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 28 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 29 | [Rafa Polinesio](http://twitter.com/search?q=Rafa+Polinesio) | N/A |
-| 30 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
-| 31 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 32 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 33 | [posthumous forgiveness](http://twitter.com/search?q=posthumous+forgiveness) | N/A |
-| 34 | [SILVER SNIPER](http://twitter.com/search?q=SILVER+SNIPER) | N/A |
-| 35 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 36 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 37 | [Estadounidenses](http://twitter.com/search?q=Estadounidenses) | N/A |
-| 38 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 39 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 40 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 41 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 14 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 17 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 18 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 19 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 20 | [medallati dorada](http://twitter.com/search?q=medallati+dorada) | N/A |
+| 21 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
+| 22 | [Américo Villarreal](http://twitter.com/search?q=Am%c3%a9rico+Villarreal) | N/A |
+| 23 | [Kalimba](http://twitter.com/search?q=Kalimba) | N/A |
+| 24 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 25 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 26 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 27 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 28 | [Rafa Polinesio](http://twitter.com/search?q=Rafa+Polinesio) | N/A |
+| 29 | [Gutierritos](http://twitter.com/search?q=Gutierritos) | N/A |
+| 30 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 31 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 32 | [posthumous forgiveness](http://twitter.com/search?q=posthumous+forgiveness) | N/A |
+| 33 | [SILVER SNIPER](http://twitter.com/search?q=SILVER+SNIPER) | N/A |
+| 34 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 35 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 36 | [Estadounidenses](http://twitter.com/search?q=Estadounidenses) | N/A |
+| 37 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 38 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
+| 39 | [Cártel del Golfo](http://twitter.com/search?q=C%c3%a1rtel+del+Golfo) | N/A |
+| 40 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 41 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
 | 42 | [Movimiento Ciudadano](http://twitter.com/search?q=Movimiento+Ciudadano) | N/A |
-| 43 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 44 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
-| 45 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
-| 46 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 47 | [Forum Buenavista](http://twitter.com/search?q=Forum+Buenavista) | N/A |
-| 48 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 43 | [Enrique Florescano](http://twitter.com/search?q=Enrique+Florescano) | N/A |
+| 44 | [Catrina](http://twitter.com/search?q=Catrina) | N/A |
+| 45 | [Forum Buenavista](http://twitter.com/search?q=Forum+Buenavista) | N/A |
+| 46 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 47 | [scarlett camberos](http://twitter.com/search?q=scarlett+camberos) | N/A |
+| 48 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
 
 
 
