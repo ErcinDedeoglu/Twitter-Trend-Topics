@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-08 04:52:22 UTC`
+📆 Last Updated: `2023-03-08 05:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Algeria
 | 1 | [#المروك_تنهب_الحايك_الجزايري](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d9%88%d9%83_%d8%aa%d9%86%d9%87%d8%a8_%d8%a7%d9%84%d8%ad%d8%a7%d9%8a%d9%83_%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 2 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 3 | [الذخيره الحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%ae%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%8a%d9%87) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 5 | [عيد المراه](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 6 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
 | 8 | [#المغرب_مملكه_التلوين](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8_%d9%85%d9%85%d9%84%d9%83%d9%87_%d8%a7%d9%84%d8%aa%d9%84%d9%88%d9%8a%d9%86) | N/A |
 | 9 | [القطاع العملياتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa%d9%8a) | N/A |

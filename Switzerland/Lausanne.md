@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-08 04:51:51 UTC`
+📆 Last Updated: `2023-03-08 05:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,31 +37,31 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
 | 21 | [human rights council](http://twitter.com/search?q=human+rights+council) | N/A |
 | 22 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 23 | [Technik](http://twitter.com/search?q=Technik) | N/A |
-| 24 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 25 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
-| 26 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 27 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 28 | [frismash easter cup](http://twitter.com/search?q=frismash+easter+cup) | N/A |
-| 29 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 30 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 31 | [jugendliche](http://twitter.com/search?q=jugendliche) | N/A |
-| 32 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 33 | [Strafe](http://twitter.com/search?q=Strafe) | N/A |
-| 34 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 35 | [abhängigkeit](http://twitter.com/search?q=abh%c3%a4ngigkeit) | N/A |
-| 36 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
-| 37 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 38 | [Rohingya](http://twitter.com/search?q=Rohingya) | N/A |
-| 39 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 40 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 41 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 42 | [Landwirtschaft](http://twitter.com/search?q=Landwirtschaft) | N/A |
-| 43 | [Noten](http://twitter.com/search?q=Noten) | N/A |
-| 44 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
-| 45 | [munition](http://twitter.com/search?q=munition) | N/A |
-| 46 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 47 | [Jahrzehnte](http://twitter.com/search?q=Jahrzehnte) | N/A |
+| 23 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 24 | [technik](http://twitter.com/search?q=technik) | N/A |
+| 25 | [Motion](http://twitter.com/search?q=Motion) | N/A |
+| 26 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 27 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 28 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 29 | [frismash easter cup](http://twitter.com/search?q=frismash+easter+cup) | N/A |
+| 30 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 31 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 32 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Strafe](http://twitter.com/search?q=Strafe) | N/A |
+| 35 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 36 | [abhängigkeit](http://twitter.com/search?q=abh%c3%a4ngigkeit) | N/A |
+| 37 | [Podcast](http://twitter.com/search?q=Podcast) | N/A |
+| 38 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 39 | [Rohingya](http://twitter.com/search?q=Rohingya) | N/A |
+| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 41 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 42 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 43 | [Landwirtschaft](http://twitter.com/search?q=Landwirtschaft) | N/A |
+| 44 | [Noten](http://twitter.com/search?q=Noten) | N/A |
+| 45 | [Alternative](http://twitter.com/search?q=Alternative) | N/A |
+| 46 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 47 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
 
 
 

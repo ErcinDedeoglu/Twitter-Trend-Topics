@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-08 04:52:27 UTC`
+📆 Last Updated: `2023-03-08 05:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Panama
 | 3 | [Sortis](http://twitter.com/search?q=Sortis) | N/A |
 | 4 | [Punta Pacífica](http://twitter.com/search?q=Punta+Pac%c3%adfica) | N/A |
 | 5 | [#UltimaCitaTourPanama](http://twitter.com/search?q=%23UltimaCitaTourPanama) | N/A |
-| 6 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
+| 8 | [#CNCOenPanamá](http://twitter.com/search?q=%23CNCOenPanam%c3%a1) | N/A |
 | 9 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
 | 10 | [Fruta](http://twitter.com/search?q=Fruta) | N/A |
 | 11 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
@@ -34,11 +34,11 @@ This is top 50 for Panama
 | 17 | [Combo 1](http://twitter.com/search?q=Combo+1) | N/A |
 | 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 19 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 20 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 21 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 22 | [PH Urbana](http://twitter.com/search?q=PH+Urbana) | N/A |
-| 23 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
-| 24 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 20 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 21 | [PH Urbana](http://twitter.com/search?q=PH+Urbana) | N/A |
+| 22 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
+| 23 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
+| 24 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
 | 25 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 26 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
 | 27 | [Preso](http://twitter.com/search?q=Preso) | N/A |
@@ -46,14 +46,14 @@ This is top 50 for Panama
 | 29 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
 | 30 | [Divide](http://twitter.com/search?q=Divide) | N/A |
 | 31 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
-| 32 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 33 | [Úrsula](http://twitter.com/search?q=%c3%9arsula) | N/A |
-| 34 | [fiscalía metropolitana](http://twitter.com/search?q=fiscal%c3%ada+metropolitana) | N/A |
-| 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 36 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 38 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
-| 39 | [Lombana](http://twitter.com/search?q=Lombana) | N/A |
+| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 33 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 34 | [Úrsula](http://twitter.com/search?q=%c3%9arsula) | N/A |
+| 35 | [fiscalía metropolitana](http://twitter.com/search?q=fiscal%c3%ada+metropolitana) | N/A |
+| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 37 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
+| 38 | [Lombana](http://twitter.com/search?q=Lombana) | N/A |
+| 39 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
 | 40 | [Lele](http://twitter.com/search?q=Lele) | N/A |
 | 41 | [Puros](http://twitter.com/search?q=Puros) | N/A |
 | 42 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Panama
 | 46 | [república de italia](http://twitter.com/search?q=rep%c3%bablica+de+italia) | N/A |
 | 47 | [Mariano Rivera](http://twitter.com/search?q=Mariano+Rivera) | N/A |
 | 48 | [tierras altas](http://twitter.com/search?q=tierras+altas) | N/A |
-| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 50 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 49 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 50 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

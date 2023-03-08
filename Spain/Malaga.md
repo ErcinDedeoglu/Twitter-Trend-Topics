@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-08 04:51:50 UTC`
+📆 Last Updated: `2023-03-08 05:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,11 +35,11 @@ This is top 50 for [Spain](</Spain>)
 | 18 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 19 | [Costello](http://twitter.com/search?q=Costello) | N/A |
 | 20 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 22 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
+| 21 | [Brujas](http://twitter.com/search?q=Brujas) | N/A |
+| 22 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 23 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
 | 24 | [flos mariae](http://twitter.com/search?q=flos+mariae) | N/A |
-| 25 | [PP y VOX](http://twitter.com/search?q=PP+y+VOX) | N/A |
+| 25 | [PP y Vox](http://twitter.com/search?q=PP+y+Vox) | N/A |
 | 26 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 28 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
@@ -63,8 +63,8 @@ This is top 50 for [Spain](</Spain>)
 | 46 | [Santi Aldama](http://twitter.com/search?q=Santi+Aldama) | N/A |
 | 47 | [deben saber](http://twitter.com/search?q=deben+saber) | N/A |
 | 48 | [Código Penal de La Manada](http://twitter.com/search?q=C%c3%b3digo+Penal+de+La+Manada) | N/A |
-| 49 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 50 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 49 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 50 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
 
 
 

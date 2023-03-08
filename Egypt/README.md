@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-08 04:52:23 UTC`
+📆 Last Updated: `2023-03-08 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for Egypt
 | 10 | [#الاهلي_المقاولون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86) | N/A |
 | 11 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
 | 12 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 13 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 13 | [حسن العيدروس](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%8a%d8%af%d8%b1%d9%88%d8%b3) | N/A |
 | 14 | [سيف الجزيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a) | سيف الجزيري (Sayf al-Jazīrī) is an Arabic phrase meaning "Sword of the Peninsula". It is a term used to refer to the traditional weapon of the Arabian Peninsula, which was a curved sword with a single-edged blade. |
 | 15 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 16 | [حسن العيدروس](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%8a%d8%af%d8%b1%d9%88%d8%b3) | N/A |
+| 16 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
 | 17 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
 | 18 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
 | 19 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
@@ -50,11 +50,11 @@ This is top 50 for Egypt
 | 33 | [شادي حسين](http://twitter.com/search?q=%d8%b4%d8%a7%d8%af%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | شادي حسين is an Arabic phrase that translates to "Happy Hussein" in English. It is a common expression of joy and celebration, often used to express congratulations or good wishes. |
 | 34 | [الماتشين الجايين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%8a%d9%86) | N/A |
 | 35 | [كلوب بروج](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8+%d8%a8%d8%b1%d9%88%d8%ac) | N/A |
-| 36 | [الأهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 37 | [سيف فاروق جعفر](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d9%81%d8%a7%d8%b1%d9%88%d9%82+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 38 | [بانك الكريم](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 39 | [مجلس الشيوخ](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae) | N/A |
-| 40 | [حمزة المثلوثي](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d8%a7%d9%84%d9%85%d8%ab%d9%84%d9%88%d8%ab%d9%8a) | N/A |
+| 36 | [سيف فاروق جعفر](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d9%81%d8%a7%d8%b1%d9%88%d9%82+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
+| 37 | [بانك الكريم](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 38 | [مجلس الشيوخ](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%8a%d9%88%d8%ae) | N/A |
+| 39 | [حمزة المثلوثي](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d8%a7%d9%84%d9%85%d8%ab%d9%84%d9%88%d8%ab%d9%8a) | N/A |
+| 40 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
 | 41 | [المراه العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 42 | [بهاء ابو](http://twitter.com/search?q=%d8%a8%d9%87%d8%a7%d8%a1+%d8%a7%d8%a8%d9%88) | N/A |
 | 43 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |

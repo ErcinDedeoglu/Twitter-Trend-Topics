@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-08 04:51:32 UTC`
+📆 Last Updated: `2023-03-08 05:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marky](http://twitter.com/search?q=Marky) | N/A |
-| 2 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 5 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
-| 6 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 7 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 8 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 9 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
-| 10 | [Auston](http://twitter.com/search?q=Auston) | N/A |
-| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 12 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 13 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 14 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 15 | [#NXTRoadblock](http://twitter.com/search?q=%23NXTRoadblock) | N/A |
-| 16 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
-| 17 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 18 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 19 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 20 | [Bunts](http://twitter.com/search?q=Bunts) | N/A |
-| 21 | [#WomensDay](http://twitter.com/search?q=%23WomensDay) | N/A |
-| 22 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 23 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
-| 24 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 25 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 26 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 27 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 28 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 29 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 30 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 31 | [Jersey](http://twitter.com/search?q=Jersey) | N/A |
-| 32 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 33 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 34 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 35 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 36 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 38 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 39 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 40 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 2 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 4 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 5 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 6 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 7 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 10 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 11 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 12 | [Justin Holl](http://twitter.com/search?q=Justin+Holl) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 18 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 19 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 20 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 21 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 22 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 23 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 24 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
+| 25 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 26 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 27 | [Halli](http://twitter.com/search?q=Halli) | N/A |
+| 28 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 29 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 30 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 31 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 32 | [Palat](http://twitter.com/search?q=Palat) | N/A |
+| 33 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 34 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 35 | [Remparts](http://twitter.com/search?q=Remparts) | N/A |
+| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 37 | [Rapporteur](http://twitter.com/search?q=Rapporteur) | N/A |
+| 38 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 39 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 40 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 41 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
+| 42 | [Belzile](http://twitter.com/search?q=Belzile) | N/A |
+| 43 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 44 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 45 | [Purim](http://twitter.com/search?q=Purim) | N/A |
+| 46 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 47 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 48 | [The Hip](http://twitter.com/search?q=The+Hip) | N/A |
+| 49 | [Bunts](http://twitter.com/search?q=Bunts) | N/A |
+| 50 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
 
 
 

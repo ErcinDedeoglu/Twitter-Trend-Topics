@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-08 04:51:34 UTC`
+📆 Last Updated: `2023-03-08 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 2 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 3 | [peter walton](http://twitter.com/search?q=peter+walton) | N/A |
-| 4 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 5 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 5 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 6 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 7 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 8 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
@@ -43,15 +43,15 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 26 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
 | 27 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
 | 28 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 29 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 31 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 32 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 33 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 32 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 33 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
 | 34 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 35 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
-| 36 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 37 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 35 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
+| 36 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 37 | [Emre](http://twitter.com/search?q=Emre) | Emre is a Turkish name derived from the Arabic word 'amir', meaning "commander". It is also used as a given name in other cultures, including Turkish, Azerbaijani, and Kurdish. |
 | 38 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 | 39 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
 | 40 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
@@ -60,8 +60,8 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 43 | [Calais](http://twitter.com/search?q=Calais) | N/A |
 | 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 45 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 46 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 47 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
 | 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 49 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 

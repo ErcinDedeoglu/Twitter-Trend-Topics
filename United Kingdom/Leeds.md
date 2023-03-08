@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-08 04:51:34 UTC`
+📆 Last Updated: `2023-03-08 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 5 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 7 | [peter walton](http://twitter.com/search?q=peter+walton) | N/A |
-| 8 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
 | 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 12 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
@@ -46,8 +46,8 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 29 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
 | 30 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
 | 31 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 32 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 34 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
 | 35 | [Channel](http://twitter.com/search?q=Channel) | N/A |
 | 36 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 46 | [Calais](http://twitter.com/search?q=Calais) | N/A |
 | 47 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 48 | [National Front](http://twitter.com/search?q=National+Front) | N/A |
-| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 50 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 49 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 50 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
 
 
 

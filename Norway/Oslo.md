@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-08 04:51:52 UTC`
+📆 Last Updated: `2023-03-08 05:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Norway](</Norway>)
 | 8 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 9 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 10 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 11 | [Anders Magnus](http://twitter.com/search?q=Anders+Magnus) | N/A |
+| 11 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
 | 12 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
 | 13 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 14 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-08 04:51:39 UTC`
+📆 Last Updated: `2023-03-08 05:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,14 +54,14 @@ This is top 50 for [Colombia](</Colombia>)
 | 37 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
 | 38 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
 | 39 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 40 | [enilce lópez](http://twitter.com/search?q=enilce+l%c3%b3pez) | N/A |
-| 41 | [Manuela Beltrán](http://twitter.com/search?q=Manuela+Beltr%c3%a1n) | N/A |
-| 42 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 43 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 40 | [Manuela Beltrán](http://twitter.com/search?q=Manuela+Beltr%c3%a1n) | N/A |
+| 41 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 42 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 43 | [Balvin](http://twitter.com/search?q=Balvin) | N/A |
 | 44 | [luis carlos ruiz](http://twitter.com/search?q=luis+carlos+ruiz) | N/A |
-| 45 | [Cerco Humanitario](http://twitter.com/search?q=Cerco+Humanitario) | N/A |
+| 45 | [CERCO HUMANITARIO](http://twitter.com/search?q=CERCO+HUMANITARIO) | N/A |
 | 46 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 47 | [Balvin](http://twitter.com/search?q=Balvin) | N/A |
+| 47 | [Visceral](http://twitter.com/search?q=Visceral) | N/A |
 | 48 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 49 | [Julito](http://twitter.com/search?q=Julito) | N/A |
 | 50 | [Narcolas](http://twitter.com/search?q=Narcolas) | N/A |

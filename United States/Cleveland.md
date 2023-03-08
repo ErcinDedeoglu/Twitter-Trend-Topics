@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-08 04:52:14 UTC`
+📆 Last Updated: `2023-03-08 05:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 2 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 3 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
-| 4 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 5 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
-| 6 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 9 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 2 | [Cleveland State](http://twitter.com/search?q=Cleveland+State) | N/A |
+| 3 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 4 | [#BabyDogeCEO](http://twitter.com/search?q=%23BabyDogeCEO) | N/A |
+| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 9 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
 | 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 12 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
 | 13 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 14 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 14 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
 | 15 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 16 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 17 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 16 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 17 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
 | 18 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 19 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 21 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 22 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
-| 23 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 24 | [Yoenis Cespedes](http://twitter.com/search?q=Yoenis+Cespedes) | N/A |
-| 25 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 26 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 27 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
-| 28 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 29 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 30 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 31 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 32 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
-| 33 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
-| 34 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 35 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 36 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
-| 37 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
-| 38 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 39 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 40 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 41 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
-| 42 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 43 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
-| 44 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 45 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 46 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
-| 47 | [Merrimack](http://twitter.com/search?q=Merrimack) | N/A |
-| 48 | [Meiko](http://twitter.com/search?q=Meiko) | N/A |
-| 49 | [Cinnamon Toast Crunch](http://twitter.com/search?q=Cinnamon+Toast+Crunch) | N/A |
-| 50 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 19 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 20 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 21 | [Eric Lewis](http://twitter.com/search?q=Eric+Lewis) | N/A |
+| 22 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 23 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 24 | [Oral Roberts](http://twitter.com/search?q=Oral+Roberts) | N/A |
+| 25 | [Yariel Rodriguez](http://twitter.com/search?q=Yariel+Rodriguez) | N/A |
+| 26 | [Lonnie Walker](http://twitter.com/search?q=Lonnie+Walker) | N/A |
+| 27 | [Roger Bernadina](http://twitter.com/search?q=Roger+Bernadina) | N/A |
+| 28 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 29 | [Yoenis Cespedes](http://twitter.com/search?q=Yoenis+Cespedes) | N/A |
+| 30 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 31 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 32 | [Oklahoma](http://twitter.com/search?q=Oklahoma) | N/A |
+| 33 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 34 | [Profar](http://twitter.com/search?q=Profar) | N/A |
+| 35 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 36 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 37 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 38 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 39 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 40 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 41 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 42 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 43 | [Tom de Blok](http://twitter.com/search?q=Tom+de+Blok) | N/A |
+| 44 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 45 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 46 | [RINO](http://twitter.com/search?q=RINO) | RINO stands for "Republican In Name Only," and it is a term used to describe a Republican politician who is perceived as not adhering to the party's traditional values or platform. |
+| 47 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 48 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
+| 49 | [Vanessa Bryant](http://twitter.com/search?q=Vanessa+Bryant) | N/A |
+| 50 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
 
 
 

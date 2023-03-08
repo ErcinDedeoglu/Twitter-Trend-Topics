@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-08 04:51:45 UTC`
+📆 Last Updated: `2023-03-08 05:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [#CHEBVB](http://twitter.com/search?q=%23CHEBVB) | N/A |
 | 3 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
 | 4 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 5 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 6 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 5 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 6 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 7 | [#ecfg16](http://twitter.com/search?q=%23ecfg16) | N/A |
 | 8 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 9 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
@@ -30,8 +30,8 @@ This is top 50 for [Austria](</Austria>)
 | 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 14 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 15 | [Museen](http://twitter.com/search?q=Museen) | N/A |
-| 16 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 17 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 17 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
 | 18 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
 | 19 | [Guten Morgen Peter](http://twitter.com/search?q=Guten+Morgen+Peter) | N/A |
 | 20 | [Tatsachen](http://twitter.com/search?q=Tatsachen) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Austria](</Austria>)
 | 30 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
 | 31 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
 | 32 | [kritiker](http://twitter.com/search?q=kritiker) | N/A |
-| 33 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
-| 34 | [Einschätzung](http://twitter.com/search?q=Einsch%c3%a4tzung) | N/A |
-| 35 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 36 | [Kampfabstimmung](http://twitter.com/search?q=Kampfabstimmung) | N/A |
-| 37 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 38 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 39 | [konsens](http://twitter.com/search?q=konsens) | N/A |
-| 40 | [teuerung](http://twitter.com/search?q=teuerung) | N/A |
-| 41 | [Fellner](http://twitter.com/search?q=Fellner) | N/A |
-| 42 | [spöler](http://twitter.com/search?q=sp%c3%b6ler) | N/A |
-| 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 44 | [kärnten](http://twitter.com/search?q=k%c3%a4rnten) | N/A |
-| 45 | [nr-wahl](http://twitter.com/search?q=nr-wahl) | N/A |
-| 46 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 47 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 48 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 49 | [richtungen](http://twitter.com/search?q=richtungen) | N/A |
-| 50 | [sozis](http://twitter.com/search?q=sozis) | N/A |
+| 33 | [Einschätzung](http://twitter.com/search?q=Einsch%c3%a4tzung) | N/A |
+| 34 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 35 | [Kampfabstimmung](http://twitter.com/search?q=Kampfabstimmung) | N/A |
+| 36 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 37 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 38 | [konsens](http://twitter.com/search?q=konsens) | N/A |
+| 39 | [teuerung](http://twitter.com/search?q=teuerung) | N/A |
+| 40 | [Fellner](http://twitter.com/search?q=Fellner) | N/A |
+| 41 | [spöler](http://twitter.com/search?q=sp%c3%b6ler) | N/A |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [kärnten](http://twitter.com/search?q=k%c3%a4rnten) | N/A |
+| 44 | [nr-wahl](http://twitter.com/search?q=nr-wahl) | N/A |
+| 45 | [Mord](http://twitter.com/search?q=Mord) | N/A |
+| 46 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 47 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 48 | [richtungen](http://twitter.com/search?q=richtungen) | N/A |
+| 49 | [sozis](http://twitter.com/search?q=sozis) | N/A |
+| 50 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
 
 
 

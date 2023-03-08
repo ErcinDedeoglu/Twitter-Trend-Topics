@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-03-08 04:52:07 UTC`
+📆 Last Updated: `2023-03-08 05:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,7 +50,7 @@ This is top 50 for [Russia](</Russia>)
 | 33 | [Пригожин](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
 | 34 | [соловьёв live](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d1%91%d0%b2+live) | N/A |
 | 35 | [отлично](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 36 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
+| 36 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 37 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 38 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
 | 39 | [Coins](http://twitter.com/search?q=Coins) | N/A |

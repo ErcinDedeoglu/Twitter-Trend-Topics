@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-08 04:51:49 UTC`
+📆 Last Updated: `2023-03-08 05:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,18 +23,18 @@ This is top 50 for [Italy](</Italy>)
 | 6 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 7 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
 | 8 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 9 | [urtis](http://twitter.com/search?q=urtis) | N/A |
+| 9 | [Urtis](http://twitter.com/search?q=Urtis) | N/A |
 | 10 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 11 | [Guidonia](http://twitter.com/search?q=Guidonia) | N/A |
-| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 13 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 14 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 15 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 16 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 19 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
-| 20 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 11 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 12 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 13 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 14 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
+| 15 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 18 | [Lamorgese](http://twitter.com/search?q=Lamorgese) | N/A |
+| 19 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 20 | [WELCOME BACK ALBA](http://twitter.com/search?q=WELCOME+BACK+ALBA) | N/A |
 | 21 | [tosi](http://twitter.com/search?q=tosi) | N/A |
 | 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 23 | [Tango](http://twitter.com/search?q=Tango) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for [Italy](</Italy>)
 | 36 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
 | 37 | [Lino Guanciale](http://twitter.com/search?q=Lino+Guanciale) | N/A |
 | 38 | [Batistuta](http://twitter.com/search?q=Batistuta) | N/A |
-| 39 | [Chinè](http://twitter.com/search?q=Chin%c3%a8) | N/A |
+| 39 | [chinè](http://twitter.com/search?q=chin%c3%a8) | N/A |
 | 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
 | 41 | [Ruanda](http://twitter.com/search?q=Ruanda) | N/A |
 | 42 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
 | 43 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 44 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 45 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 46 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 47 | [European](http://twitter.com/search?q=European) | N/A |
-| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 49 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 50 | [Coni](http://twitter.com/search?q=Coni) | N/A |
+| 44 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 45 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 46 | [Grazie Chri](http://twitter.com/search?q=Grazie+Chri) | N/A |
+| 47 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 48 | [Buongiorno Aldo](http://twitter.com/search?q=Buongiorno+Aldo) | N/A |
+| 49 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 50 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
 
 
 
