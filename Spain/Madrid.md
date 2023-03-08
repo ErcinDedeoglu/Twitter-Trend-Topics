@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-08 11:15:56 UTC`
+📆 Last Updated: `2023-03-08 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#YoVereAJuliaOtero](http://twitter.com/search?q=%23YoVereAJuliaOtero) | N/A |
 | 2 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 3 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 5 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 5 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 6 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 7 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 8 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 9 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 10 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 11 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 12 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 13 | [Brian Ocampo](http://twitter.com/search?q=Brian+Ocampo) | Brian Ocampo is a Spanish surname. It is derived from the Latin word "ocampus" which means "field". In English, it can be translated to mean "field of Brian". |
-| 14 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
-| 15 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 16 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [Who The Hell Is Edgar](http://twitter.com/search?q=Who+The+Hell+Is+Edgar) | N/A |
-| 19 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
-| 20 | [Virginia Woolf](http://twitter.com/search?q=Virginia+Woolf) | N/A |
-| 21 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 22 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
-| 23 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
-| 24 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 25 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 26 | [Pablo Sobrado](http://twitter.com/search?q=Pablo+Sobrado) | N/A |
-| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 28 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 29 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 30 | [Mieres](http://twitter.com/search?q=Mieres) | N/A |
-| 31 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 32 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 33 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 34 | [Miércoles 8](http://twitter.com/search?q=Mi%c3%a9rcoles+8) | N/A |
-| 35 | [Leyenda](http://twitter.com/search?q=Leyenda) | N/A |
-| 36 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 38 | [#SomosMuchoMas](http://twitter.com/search?q=%23SomosMuchoMas) | N/A |
-| 39 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 40 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 41 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
-| 42 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 43 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
-| 44 | [#NosotrasRadicalmenteLibres](http://twitter.com/search?q=%23NosotrasRadicalmenteLibres) | N/A |
-| 45 | [#APOYOROCIO8M](http://twitter.com/search?q=%23APOYOROCIO8M) | N/A |
-| 46 | [#YoMeRebelo8M](http://twitter.com/search?q=%23YoMeRebelo8M) | N/A |
-| 47 | [#8MFeministaYRepublicano](http://twitter.com/search?q=%238MFeministaYRepublicano) | N/A |
-| 48 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 49 | [#LosPlanesSalenBien](http://twitter.com/search?q=%23LosPlanesSalenBien) | N/A |
-| 50 | [#DiadelaDona](http://twitter.com/search?q=%23DiadelaDona) | N/A |
+| 7 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 8 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 9 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 10 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 11 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 12 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
+| 13 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 14 | [Brian Ocampo](http://twitter.com/search?q=Brian+Ocampo) | Brian Ocampo is a Spanish surname. It is derived from the Latin word "ocampus" which means "field". In English, it can be translated to mean "field of Brian". |
+| 15 | [Michelle Yeoh](http://twitter.com/search?q=Michelle+Yeoh) | Michelle Yeoh is a Malaysian actress who has achieved international fame for her roles in films such as Crouching Tiger, Hidden Dragon and Memoirs of a Geisha. She is known for her martial arts skills and her ability to perform her own stunts. The name "Yeoh" is derived from the Chinese word for "forever". |
+| 16 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 17 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 18 | [Pablo Sobrado](http://twitter.com/search?q=Pablo+Sobrado) | N/A |
+| 19 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 20 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [Virginia Woolf](http://twitter.com/search?q=Virginia+Woolf) | N/A |
+| 23 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 24 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 25 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
+| 26 | [Dimite](http://twitter.com/search?q=Dimite) | N/A |
+| 27 | [Charos](http://twitter.com/search?q=Charos) | N/A |
+| 28 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 29 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 30 | [Cate Blanchett](http://twitter.com/search?q=Cate+Blanchett) | N/A |
+| 31 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
+| 32 | [Miércoles 8](http://twitter.com/search?q=Mi%c3%a9rcoles+8) | N/A |
+| 33 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 34 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 35 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 36 | [#SomosMuchoMas](http://twitter.com/search?q=%23SomosMuchoMas) | N/A |
+| 37 | [#feminismo](http://twitter.com/search?q=%23feminismo) | N/A |
+| 38 | [#LosPlanesSalenBien](http://twitter.com/search?q=%23LosPlanesSalenBien) | N/A |
+| 39 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 40 | [#YoMeRebelo8M](http://twitter.com/search?q=%23YoMeRebelo8M) | N/A |
+| 41 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 42 | [#NosotrasRadicalmenteLibres](http://twitter.com/search?q=%23NosotrasRadicalmenteLibres) | N/A |
+| 43 | [#APOYOROCIO8M](http://twitter.com/search?q=%23APOYOROCIO8M) | N/A |
+| 44 | [#DiadelaDona](http://twitter.com/search?q=%23DiadelaDona) | N/A |
+| 45 | [#8MFeministaYRepublicano](http://twitter.com/search?q=%238MFeministaYRepublicano) | N/A |
+| 46 | [#STEM](http://twitter.com/search?q=%23STEM) | N/A |
+| 47 | [#GraciasPau](http://twitter.com/search?q=%23GraciasPau) | N/A |
+| 48 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 49 | [#Martxoak8](http://twitter.com/search?q=%23Martxoak8) | N/A |
+| 50 | [#talento](http://twitter.com/search?q=%23talento) | N/A |
 
 
 

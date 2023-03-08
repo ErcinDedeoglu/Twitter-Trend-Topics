@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-08 11:16:23 UTC`
+📆 Last Updated: `2023-03-08 12:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dillon](http://twitter.com/search?q=Dillon) | N/A |
 | 2 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 3 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 4 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 6 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 9 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 10 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 3 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 10 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
 | 11 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 12 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 13 | [Día Internacional de la Mujer](http://twitter.com/search?q=D%c3%ada+Internacional+de+la+Mujer) | N/A |
-| 14 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 15 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 17 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 18 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 13 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 14 | [Claim Your](http://twitter.com/search?q=Claim+Your) | N/A |
+| 15 | [Crosshair](http://twitter.com/search?q=Crosshair) | N/A |
+| 16 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 17 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 18 | [Anderson Cooper](http://twitter.com/search?q=Anderson+Cooper) | N/A |
 | 19 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 20 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 21 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 22 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
-| 23 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 24 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 25 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 26 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 27 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [Halli](http://twitter.com/search?q=Halli) | N/A |
-| 30 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
-| 31 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
-| 32 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 33 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 34 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 35 | [Cowboy Bebop](http://twitter.com/search?q=Cowboy+Bebop) | N/A |
-| 36 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 37 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
-| 38 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 39 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
-| 40 | [Honey Nut Cheerios](http://twitter.com/search?q=Honey+Nut+Cheerios) | N/A |
-| 41 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 42 | [Tyus](http://twitter.com/search?q=Tyus) | N/A |
-| 43 | [Cap'n Crunch](http://twitter.com/search?q=Cap%27n+Crunch) | N/A |
-| 44 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 45 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 46 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 47 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
-| 48 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
-| 49 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 50 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 20 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 22 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 23 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 24 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 25 | [Chuck Schumer](http://twitter.com/search?q=Chuck+Schumer) | N/A |
+| 26 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 27 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 28 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
+| 29 | [Uniparty](http://twitter.com/search?q=Uniparty) | N/A |
+| 30 | [Tuckers](http://twitter.com/search?q=Tuckers) | N/A |
+| 31 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 32 | [Red Lobster](http://twitter.com/search?q=Red+Lobster) | N/A |
+| 33 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 34 | [bane](http://twitter.com/search?q=bane) | N/A |
+| 35 | [Frosted Flakes](http://twitter.com/search?q=Frosted+Flakes) | N/A |
+| 36 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 37 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 38 | [Cowboy Bebop](http://twitter.com/search?q=Cowboy+Bebop) | N/A |
+| 39 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 40 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
+| 41 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 42 | [Transparency](http://twitter.com/search?q=Transparency) | N/A |
+| 43 | [Honey Nut Cheerios](http://twitter.com/search?q=Honey+Nut+Cheerios) | N/A |
+| 44 | [#Wordle627](http://twitter.com/search?q=%23Wordle627) | N/A |
+| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 46 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 47 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 48 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 49 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 50 | [#BoKatan](http://twitter.com/search?q=%23BoKatan) | N/A |
 
 
 

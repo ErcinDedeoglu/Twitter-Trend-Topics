@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-08 11:15:49 UTC`
+📆 Last Updated: `2023-03-08 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,36 +17,40 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [#optimusinuopinu](http://twitter.com/search?q=%23optimusinuopinu) | N/A |
-| 4 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 6 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 7 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 10 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 11 | [paiva](http://twitter.com/search?q=paiva) | N/A |
+| 3 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
+| 4 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 5 | [#8demarço](http://twitter.com/search?q=%238demar%c3%a7o) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 8 | [#8McontraAsViolências](http://twitter.com/search?q=%238McontraAsViol%c3%aancias) | N/A |
+| 9 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 10 | [Feliz 8](http://twitter.com/search?q=Feliz+8) | N/A |
+| 11 | [Neste 8](http://twitter.com/search?q=Neste+8) | N/A |
 | 12 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 13 | [Dia 8](http://twitter.com/search?q=Dia+8) | N/A |
-| 14 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 15 | [rio anil](http://twitter.com/search?q=rio+anil) | N/A |
-| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 17 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
-| 18 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 19 | [Dani calabresa](http://twitter.com/search?q=Dani+calabresa) | N/A |
-| 20 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 21 | [São Luís](http://twitter.com/search?q=S%c3%a3o+Lu%c3%ads) | N/A |
-| 22 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
-| 23 | [FLA x Flu](http://twitter.com/search?q=FLA+x+Flu) | N/A |
-| 24 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 25 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 26 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 27 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 28 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 29 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
-| 30 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 31 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 32 | [#SCREAM6](http://twitter.com/search?q=%23SCREAM6) | N/A |
+| 13 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 14 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
+| 15 | [Dia 08](http://twitter.com/search?q=Dia+08) | N/A |
+| 16 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 17 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 18 | [paiva](http://twitter.com/search?q=paiva) | N/A |
+| 19 | [TV Brasil](http://twitter.com/search?q=TV+Brasil) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 22 | [KIM NAMJOON](http://twitter.com/search?q=KIM+NAMJOON) | N/A |
+| 23 | [Rio Anil](http://twitter.com/search?q=Rio+Anil) | N/A |
+| 24 | [São Luís](http://twitter.com/search?q=S%c3%a3o+Lu%c3%ads) | N/A |
+| 25 | [Decode](http://twitter.com/search?q=Decode) | N/A |
+| 26 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 27 | [Gaiofato](http://twitter.com/search?q=Gaiofato) | N/A |
+| 28 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 29 | [INCRA](http://twitter.com/search?q=INCRA) | N/A |
+| 30 | [bananinha](http://twitter.com/search?q=bananinha) | N/A |
+| 31 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 32 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 33 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 34 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 35 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 36 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
 
 
 

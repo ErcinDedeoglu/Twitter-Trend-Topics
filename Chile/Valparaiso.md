@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-08 11:15:46 UTC`
+📆 Last Updated: `2023-03-08 12:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
 | 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 6 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 5 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 6 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
 | 7 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 8 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 9 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 10 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
-| 11 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 12 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 13 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 14 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 16 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 17 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 20 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 21 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 22 | [verónica undurraga](http://twitter.com/search?q=ver%c3%b3nica+undurraga) | N/A |
-| 23 | [yoongi chile te espera](http://twitter.com/search?q=yoongi+chile+te+espera) | N/A |
-| 24 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
-| 25 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 26 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 27 | [Hernán Larraín](http://twitter.com/search?q=Hern%c3%a1n+Larra%c3%adn) | N/A |
+| 8 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 9 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
+| 10 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 11 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 12 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 13 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 14 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 15 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 16 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 18 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 19 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 20 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Mario Marcel](http://twitter.com/search?q=Mario+Marcel) | N/A |
+| 23 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
+| 24 | [yoongi chile te espera](http://twitter.com/search?q=yoongi+chile+te+espera) | N/A |
+| 25 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 26 | [Hernán Larraín](http://twitter.com/search?q=Hern%c3%a1n+Larra%c3%adn) | N/A |
+| 27 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
 | 28 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 29 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 30 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 31 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 29 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 30 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 31 | [Pame](http://twitter.com/search?q=Pame) | N/A |
 | 32 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 33 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
-| 34 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 35 | [Yungay](http://twitter.com/search?q=Yungay) | N/A |
-| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 33 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 34 | [FRACASO](http://twitter.com/search?q=FRACASO) | N/A |
+| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 36 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
 | 37 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 38 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 39 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 40 | [Directv](http://twitter.com/search?q=Directv) | N/A |
-| 41 | [ampuero](http://twitter.com/search?q=ampuero) | N/A |
-| 42 | [plaza dignidad](http://twitter.com/search?q=plaza+dignidad) | N/A |
-| 43 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
-| 44 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
-| 45 | [Macabro](http://twitter.com/search?q=Macabro) | N/A |
-| 46 | [RECHAZAR](http://twitter.com/search?q=RECHAZAR) | N/A |
-| 47 | [comisión experta](http://twitter.com/search?q=comisi%c3%b3n+experta) | N/A |
-| 48 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 38 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 39 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
+| 40 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 41 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 42 | [Directv](http://twitter.com/search?q=Directv) | N/A |
+| 43 | [Ampuero](http://twitter.com/search?q=Ampuero) | N/A |
+| 44 | [Pepe Auth](http://twitter.com/search?q=Pepe+Auth) | N/A |
+| 45 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
+| 46 | [plaza dignidad](http://twitter.com/search?q=plaza+dignidad) | N/A |
+| 47 | [Macabro](http://twitter.com/search?q=Macabro) | N/A |
+| 48 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
 
 
 

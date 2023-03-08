@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-08 11:15:42 UTC`
+📆 Last Updated: `2023-03-08 12:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 2 | [Gyles](http://twitter.com/search?q=Gyles) | N/A |
-| 3 | [Andrew Pierce](http://twitter.com/search?q=Andrew+Pierce) | N/A |
-| 4 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
-| 5 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 6 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 7 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
-| 8 | [#HerGameToo](http://twitter.com/search?q=%23HerGameToo) | N/A |
-| 9 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
-| 10 | [Yvette](http://twitter.com/search?q=Yvette) | N/A |
-| 11 | [Asylum](http://twitter.com/search?q=Asylum) | N/A |
+| 1 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 2 | [#Digifest23](http://twitter.com/search?q=%23Digifest23) | N/A |
+| 3 | [The Tories](http://twitter.com/search?q=The+Tories) | N/A |
+| 4 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 5 | [#WomensHealth](http://twitter.com/search?q=%23WomensHealth) | N/A |
+| 6 | [Pierce](http://twitter.com/search?q=Pierce) | N/A |
+| 7 | [#Bristol](http://twitter.com/search?q=%23Bristol) | N/A |
+| 8 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 9 | [Daily Quordle 408](http://twitter.com/search?q=Daily+Quordle+408) | N/A |
+| 10 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 11 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
 | 12 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 13 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
-| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 15 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 16 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 17 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 18 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 19 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 13 | [Goebbels](http://twitter.com/search?q=Goebbels) | N/A |
+| 14 | [Yvette](http://twitter.com/search?q=Yvette) | N/A |
+| 15 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 16 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 17 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 18 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 19 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
 | 20 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 22 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 23 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 24 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 25 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 26 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
-| 27 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 28 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 29 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 30 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 31 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 21 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 22 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 23 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 24 | [Ngozi Fulani](http://twitter.com/search?q=Ngozi+Fulani) | N/A |
+| 25 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 26 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 27 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 28 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
+| 29 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 30 | [sack](http://twitter.com/search?q=sack) | N/A |
+| 31 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
 | 32 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 33 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 34 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
-| 35 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 36 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 37 | [Spoken](http://twitter.com/search?q=Spoken) | N/A |
-| 38 | [Mo Farah](http://twitter.com/search?q=Mo+Farah) | N/A |
-| 39 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
-| 40 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
-| 41 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 42 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 43 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 44 | [#NotInMyName](http://twitter.com/search?q=%23NotInMyName) | N/A |
-| 45 | [#GeneralElectionNow](http://twitter.com/search?q=%23GeneralElectionNow) | N/A |
-| 46 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 47 | [#RefugeesWelcome](http://twitter.com/search?q=%23RefugeesWelcome) | N/A |
-| 48 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
-| 49 | [#ToryGaslighting](http://twitter.com/search?q=%23ToryGaslighting) | N/A |
-| 50 | [#inspiration](http://twitter.com/search?q=%23inspiration) | N/A |
+| 33 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 35 | [Tim Davie](http://twitter.com/search?q=Tim+Davie) | N/A |
+| 36 | [Free Speech](http://twitter.com/search?q=Free+Speech) | N/A |
+| 37 | [#WomensHistoryMonth](http://twitter.com/search?q=%23WomensHistoryMonth) | N/A |
+| 38 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 39 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
+| 40 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 41 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 42 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 43 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 44 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 45 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 46 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 47 | [#NoSmokingDay](http://twitter.com/search?q=%23NoSmokingDay) | N/A |
+| 48 | [#womeninbusiness](http://twitter.com/search?q=%23womeninbusiness) | N/A |
+| 49 | [#LetGirlsPlay](http://twitter.com/search?q=%23LetGirlsPlay) | N/A |
+| 50 | [#WomenInSTEM](http://twitter.com/search?q=%23WomenInSTEM) | N/A |
 
 
 

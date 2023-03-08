@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-08 11:16:01 UTC`
+📆 Last Updated: `2023-03-08 12:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BiSH神奈川](http://twitter.com/search?q=%23BiSH%e7%a5%9e%e5%a5%88%e5%b7%9d) | N/A |
-| 2 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 3 | [#ビーコル](http://twitter.com/search?q=%23%e3%83%93%e3%83%bc%e3%82%b3%e3%83%ab) | N/A |
-| 4 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
-| 5 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 6 | [フリーレン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
-| 7 | [東京新聞](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e6%96%b0%e8%81%9e) | N/A |
-| 8 | [中学卒業](http://twitter.com/search?q=%e4%b8%ad%e5%ad%a6%e5%8d%92%e6%a5%ad) | N/A |
-| 9 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
-| 10 | [ジュナオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%aa) | N/A |
-| 11 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 12 | [くら寿司](http://twitter.com/search?q=%e3%81%8f%e3%82%89%e5%af%bf%e5%8f%b8) | くら寿司 is a type of sushi that is made with a vinegared rice base and topped with various ingredients such as fish, vegetables, and other toppings. The literal translation of the phrase "くら寿司" is "dark sushi". |
-| 13 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
-| 14 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 15 | [永田ママ](http://twitter.com/search?q=%e6%b0%b8%e7%94%b0%e3%83%9e%e3%83%9e) | N/A |
-| 16 | [醤油さし](http://twitter.com/search?q=%e9%86%a4%e6%b2%b9%e3%81%95%e3%81%97) | N/A |
-| 17 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
-| 18 | [授業スキップ](http://twitter.com/search?q=%e6%8e%88%e6%a5%ad%e3%82%b9%e3%82%ad%e3%83%83%e3%83%97) | N/A |
-| 19 | [女子力診断](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%8a%9b%e8%a8%ba%e6%96%ad) | N/A |
-| 20 | [高速授業](http://twitter.com/search?q=%e9%ab%98%e9%80%9f%e6%8e%88%e6%a5%ad) | N/A |
-| 21 | [バッドエンド](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
-| 22 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
-| 23 | [NHK党](http://twitter.com/search?q=NHK%e5%85%9a) | N/A |
-| 24 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
-| 25 | [アウトレイジ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%83%ac%e3%82%a4%e3%82%b8) | N/A |
-| 26 | [ktkr](http://twitter.com/search?q=ktkr) | N/A |
-| 27 | [国際女性デー](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a5%b3%e6%80%a7%e3%83%87%e3%83%bc) | N/A |
-| 28 | [愛知県警](http://twitter.com/search?q=%e6%84%9b%e7%9f%a5%e7%9c%8c%e8%ad%a6) | N/A |
-| 29 | [ＮＨＫ党](http://twitter.com/search?q=%ef%bc%ae%ef%bc%a8%ef%bc%ab%e5%85%9a) | N/A |
-| 30 | [辞任表明](http://twitter.com/search?q=%e8%be%9e%e4%bb%bb%e8%a1%a8%e6%98%8e) | N/A |
-| 31 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
-| 32 | [立花党首](http://twitter.com/search?q=%e7%ab%8b%e8%8a%b1%e5%85%9a%e9%a6%96) | N/A |
-| 33 | [党首辞任](http://twitter.com/search?q=%e5%85%9a%e9%a6%96%e8%be%9e%e4%bb%bb) | N/A |
-| 34 | [ヴァーサス](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b5%e3%82%b9) | N/A |
-| 35 | [党名変更](http://twitter.com/search?q=%e5%85%9a%e5%90%8d%e5%a4%89%e6%9b%b4) | N/A |
-| 36 | [立花孝志党首](http://twitter.com/search?q=%e7%ab%8b%e8%8a%b1%e5%ad%9d%e5%bf%97%e5%85%9a%e9%a6%96) | N/A |
-| 37 | [シュコシュコ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%82%b3%e3%82%b7%e3%83%a5%e3%82%b3) | N/A |
-| 38 | [レオス・ヴィンセント](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%82%b9%e3%83%bb%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%bb%e3%83%b3%e3%83%88) | N/A |
-| 39 | [しょうゆ差し](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%82%86%e5%b7%ae%e3%81%97) | N/A |
-| 40 | [CBC礼装](http://twitter.com/search?q=CBC%e7%a4%bc%e8%a3%85) | N/A |
-| 41 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
-| 42 | [オトコの娘](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%82%b3%e3%81%ae%e5%a8%98) | N/A |
-| 43 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 44 | [女子の中の女子](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e3%81%ae%e4%b8%ad%e3%81%ae%e5%a5%b3%e5%ad%90) | N/A |
-| 45 | [エドモン](http://twitter.com/search?q=%e3%82%a8%e3%83%89%e3%83%a2%e3%83%b3) | N/A |
-| 46 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
-| 47 | [共同購入](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e8%b3%bc%e5%85%a5) | N/A |
-| 48 | [ジャックコーク](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b3%e3%83%bc%e3%82%af) | N/A |
+| 1 | [オウンゴール](http://twitter.com/search?q=%e3%82%aa%e3%82%a6%e3%83%b3%e3%82%b4%e3%83%bc%e3%83%ab) | オウンゴール (Oungo-ru) is a Japanese term used in soccer to describe a goal scored directly from a corner kick. It literally translates to "own goal" in English. |
+| 2 | [#BiSH神奈川](http://twitter.com/search?q=%23BiSH%e7%a5%9e%e5%a5%88%e5%b7%9d) | N/A |
+| 3 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
+| 4 | [#PUNKSWiNDLETOUR](http://twitter.com/search?q=%23PUNKSWiNDLETOUR) | N/A |
+| 5 | [#ビーコル](http://twitter.com/search?q=%23%e3%83%93%e3%83%bc%e3%82%b3%e3%83%ab) | N/A |
+| 6 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 7 | [スカパー](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%91%e3%83%bc) | スカパー is a Japanese satellite and cable television provider. The word is a portmanteau of the words "satellite" and "broadcaster". In English, it can be translated to mean "Satellite Broadcaster". |
+| 8 | [出撃セリフ](http://twitter.com/search?q=%e5%87%ba%e6%92%83%e3%82%bb%e3%83%aa%e3%83%95) | N/A |
+| 9 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
+| 10 | [オランダ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80) | N/A |
+| 11 | [フリーレン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
+| 12 | [なこちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 13 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 14 | [中学卒業](http://twitter.com/search?q=%e4%b8%ad%e5%ad%a6%e5%8d%92%e6%a5%ad) | N/A |
+| 15 | [コーラフラペチーノ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%a9%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 16 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
+| 17 | [東京新聞](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e6%96%b0%e8%81%9e) | N/A |
+| 18 | [大人のカード](http://twitter.com/search?q=%e5%a4%a7%e4%ba%ba%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 19 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
+| 20 | [政治家女子48党](http://twitter.com/search?q=%e6%94%bf%e6%b2%bb%e5%ae%b6%e5%a5%b3%e5%ad%9048%e5%85%9a) | N/A |
+| 21 | [ジュナオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%8a%e3%82%aa) | N/A |
+| 22 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
+| 23 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [くら寿司](http://twitter.com/search?q=%e3%81%8f%e3%82%89%e5%af%bf%e5%8f%b8) | くら寿司 is a type of sushi that is made with a vinegared rice base and topped with various ingredients such as fish, vegetables, and other toppings. The literal translation of the phrase "くら寿司" is "dark sushi". |
+| 25 | [カピシャーバ](http://twitter.com/search?q=%e3%82%ab%e3%83%94%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%90) | N/A |
+| 26 | [川村くん](http://twitter.com/search?q=%e5%b7%9d%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 27 | [女子力診断](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%8a%9b%e8%a8%ba%e6%96%ad) | N/A |
+| 28 | [ミモザの日](http://twitter.com/search?q=%e3%83%9f%e3%83%a2%e3%82%b6%e3%81%ae%e6%97%a5) | N/A |
+| 29 | [永田ママ](http://twitter.com/search?q=%e6%b0%b8%e7%94%b0%e3%83%9e%e3%83%9e) | N/A |
+| 30 | [ダニーロ](http://twitter.com/search?q=%e3%83%80%e3%83%8b%e3%83%bc%e3%83%ad) | N/A |
+| 31 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
+| 32 | [カリフォルニア](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2) | N/A |
+| 33 | [授業スキップ](http://twitter.com/search?q=%e6%8e%88%e6%a5%ad%e3%82%b9%e3%82%ad%e3%83%83%e3%83%97) | N/A |
+| 34 | [ソロデビュー](http://twitter.com/search?q=%e3%82%bd%e3%83%ad%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 35 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
+| 36 | [阿部ナイン](http://twitter.com/search?q=%e9%98%bf%e9%83%a8%e3%83%8a%e3%82%a4%e3%83%b3) | N/A |
+| 37 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 38 | [バッドエンド](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%82%a8%e3%83%b3%e3%83%89) | N/A |
+| 39 | [ネスカウ](http://twitter.com/search?q=%e3%83%8d%e3%82%b9%e3%82%ab%e3%82%a6) | N/A |
+| 40 | [歌詞カード](http://twitter.com/search?q=%e6%ad%8c%e8%a9%9e%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 41 | [ジャックダニエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%83%80%e3%83%8b%e3%82%a8%e3%83%ab) | N/A |
+| 42 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
+| 43 | [ジャックコーク](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%82%b3%e3%83%bc%e3%82%af) | N/A |
+| 44 | [フィルムレッド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e3%83%ac%e3%83%83%e3%83%89) | N/A |
+| 45 | [醤油さし](http://twitter.com/search?q=%e9%86%a4%e6%b2%b9%e3%81%95%e3%81%97) | N/A |
+| 46 | [女子大学生の自転車](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e5%a4%a7%e5%ad%a6%e7%94%9f%e3%81%ae%e8%87%aa%e8%bb%a2%e8%bb%8a) | N/A |
+| 47 | [元共産党県幹部・大西航氏](http://twitter.com/search?q=%e5%85%83%e5%85%b1%e7%94%a3%e5%85%9a%e7%9c%8c%e5%b9%b9%e9%83%a8%e3%83%bb%e5%a4%a7%e8%a5%bf%e8%88%aa%e6%b0%8f) | N/A |
+| 48 | [辞任表明](http://twitter.com/search?q=%e8%be%9e%e4%bb%bb%e8%a1%a8%e6%98%8e) | N/A |
+| 49 | [NHK党](http://twitter.com/search?q=NHK%e5%85%9a) | N/A |
 
 
 

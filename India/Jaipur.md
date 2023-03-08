@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-08 11:16:15 UTC`
+📆 Last Updated: `2023-03-08 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
 | 2 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
-| 5 | [#गौरक्षक_ही_गौतस्कर_हैं](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%b9%e0%a5%80_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
-| 6 | [#CelebratewithMandS](http://twitter.com/search?q=%23CelebratewithMandS) | N/A |
-| 7 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
-| 8 | [#BanegaSwasthIndia](http://twitter.com/search?q=%23BanegaSwasthIndia) | N/A |
-| 9 | [अंतरराष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 4 | [#गौरक्षक_ही_गौतस्कर_हैं](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%b9%e0%a5%80_%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 5 | [#TheUnheardPlaylist](http://twitter.com/search?q=%23TheUnheardPlaylist) | N/A |
+| 6 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
+| 7 | [#CelebratewithMandS](http://twitter.com/search?q=%23CelebratewithMandS) | N/A |
+| 8 | [Goldiee One One Noodles](http://twitter.com/search?q=Goldiee+One+One+Noodles) | N/A |
+| 9 | [अंतर्राष्ट्रीय महिला](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
 | 10 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 11 | [Saba](http://twitter.com/search?q=Saba) | N/A |
-| 12 | [Muharram](http://twitter.com/search?q=Muharram) | N/A |
-| 13 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
+| 11 | [Halala](http://twitter.com/search?q=Halala) | N/A |
+| 12 | [Saba](http://twitter.com/search?q=Saba) | N/A |
+| 13 | [Muharram](http://twitter.com/search?q=Muharram) | N/A |
 | 14 | [Sushant Awaits Justice](http://twitter.com/search?q=Sushant+Awaits+Justice) | N/A |
-| 15 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 16 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 17 | [Chief Minister of Tripura](http://twitter.com/search?q=Chief+Minister+of+Tripura) | N/A |
-| 18 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
-| 19 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 20 | [Halala](http://twitter.com/search?q=Halala) | N/A |
-| 21 | [माणिक साहा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 22 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 23 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 24 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 25 | [Luv Ranjan](http://twitter.com/search?q=Luv+Ranjan) | N/A |
-| 26 | [बेसिक कंप्यूटर](http://twitter.com/search?q=%e0%a4%ac%e0%a5%87%e0%a4%b8%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a4%82%e0%a4%aa%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9f%e0%a4%b0) | N/A |
-| 27 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
-| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 29 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
-| 30 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 31 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
-| 32 | [#DeshKiShakti](http://twitter.com/search?q=%23DeshKiShakti) | N/A |
-| 33 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 34 | [#HoliFestival2023](http://twitter.com/search?q=%23HoliFestival2023) | N/A |
-| 35 | [#Justice_For_Nasir_Junaid](http://twitter.com/search?q=%23Justice_For_Nasir_Junaid) | N/A |
-| 36 | [#BoycottBharatMatrimony](http://twitter.com/search?q=%23BoycottBharatMatrimony) | N/A |
-| 37 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 38 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 15 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
+| 16 | [Chief Minister of Tripura](http://twitter.com/search?q=Chief+Minister+of+Tripura) | N/A |
+| 17 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 18 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 19 | [Tihar](http://twitter.com/search?q=Tihar) | N/A |
+| 20 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 21 | [Happy Holi Everyone](http://twitter.com/search?q=Happy+Holi+Everyone) | N/A |
+| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 23 | [Aurat](http://twitter.com/search?q=Aurat) | N/A |
+| 24 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 25 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 26 | [माणिक साहा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a3%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
+| 27 | [Ranbir Kapoor](http://twitter.com/search?q=Ranbir+Kapoor) | N/A |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 30 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 31 | [AIADMK](http://twitter.com/search?q=AIADMK) | N/A |
+| 32 | [#BanegaSwasthIndia](http://twitter.com/search?q=%23BanegaSwasthIndia) | N/A |
+| 33 | [#HappyBirthdayFardeenKhan](http://twitter.com/search?q=%23HappyBirthdayFardeenKhan) | N/A |
+| 34 | [#HoliVibes](http://twitter.com/search?q=%23HoliVibes) | N/A |
+| 35 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 36 | [#Justice_for_Nasir_junaid](http://twitter.com/search?q=%23Justice_for_Nasir_junaid) | N/A |
+| 37 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 38 | [#DeshKiShakti](http://twitter.com/search?q=%23DeshKiShakti) | N/A |
 | 39 | [#WomenPower](http://twitter.com/search?q=%23WomenPower) | N/A |
-| 40 | [#मैं_भी_उपेन_यादव](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%88%e0%a4%82_%e0%a4%ad%e0%a5%80_%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 41 | [#NariShaktiForNewIndia](http://twitter.com/search?q=%23NariShaktiForNewIndia) | N/A |
-| 42 | [#மகளிர்உயர_மாநிலம்உயரும்](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0_%e0%ae%ae%e0%ae%be%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%89%e0%ae%af%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d) | N/A |
-| 43 | [#अंतर्राष्ट्रीय_महिला_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 44 | [#ऑपेरशन_अधर्म](http://twitter.com/search?q=%23%e0%a4%91%e0%a4%aa%e0%a5%87%e0%a4%b0%e0%a4%b6%e0%a4%a8_%e0%a4%85%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 45 | [#womenleaders](http://twitter.com/search?q=%23womenleaders) | N/A |
-| 46 | [#Justice_For_Junaid_Nasir](http://twitter.com/search?q=%23Justice_For_Junaid_Nasir) | N/A |
-| 47 | [#सतभक्ति_की_होली](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf_%e0%a4%95%e0%a5%80_%e0%a4%b9%e0%a5%8b%e0%a4%b2%e0%a5%80) | N/A |
+| 40 | [#Justice_For_Junaid_Nasir](http://twitter.com/search?q=%23Justice_For_Junaid_Nasir) | N/A |
+| 41 | [#HoliFestival2023](http://twitter.com/search?q=%23HoliFestival2023) | N/A |
+| 42 | [#MissShettyMrPolishetty](http://twitter.com/search?q=%23MissShettyMrPolishetty) | N/A |
+| 43 | [#MarkAntony](http://twitter.com/search?q=%23MarkAntony) | N/A |
+| 44 | [#DivyaGokulnath](http://twitter.com/search?q=%23DivyaGokulnath) | N/A |
+| 45 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 46 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 47 | [#NariShaktiForNewIndia](http://twitter.com/search?q=%23NariShaktiForNewIndia) | N/A |
 | 48 | [#ChamkeelaAngeelesi](http://twitter.com/search?q=%23ChamkeelaAngeelesi) | N/A |
-| 49 | [#TuJhoothiMainMakkaarReview](http://twitter.com/search?q=%23TuJhoothiMainMakkaarReview) | N/A |
-| 50 | [#JKSSBScam](http://twitter.com/search?q=%23JKSSBScam) | N/A |
+| 49 | [#HoliCelebrations](http://twitter.com/search?q=%23HoliCelebrations) | N/A |
+| 50 | [#WeWantGroup4Results](http://twitter.com/search?q=%23WeWantGroup4Results) | N/A |
 
 
 

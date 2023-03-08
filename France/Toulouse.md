@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-08 11:15:53 UTC`
+📆 Last Updated: `2023-03-08 12:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,44 +19,48 @@ This is top 50 for [France](</France>)
 | 2 | [#JourneeDesDroitsDesFemmes](http://twitter.com/search?q=%23JourneeDesDroitsDesFemmes) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 5 | [#JourneeDeLaFemme](http://twitter.com/search?q=%23JourneeDeLaFemme) | N/A |
-| 6 | [Journée Internationale](http://twitter.com/search?q=Journ%c3%a9e+Internationale) | N/A |
+| 5 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 6 | [journée internationale](http://twitter.com/search?q=journ%c3%a9e+internationale) | N/A |
 | 7 | [Le 8](http://twitter.com/search?q=Le+8) | N/A |
 | 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 9 | [Iraniennes](http://twitter.com/search?q=Iraniennes) | N/A |
-| 10 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 11 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 12 | [Gérard Larcher](http://twitter.com/search?q=G%c3%a9rard+Larcher) | N/A |
-| 13 | [Frieren](http://twitter.com/search?q=Frieren) | N/A |
-| 14 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
-| 15 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
-| 16 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 17 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 18 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 19 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 9 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 10 | [Aujourd'hui 8](http://twitter.com/search?q=Aujourd%27hui+8) | N/A |
+| 11 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 12 | [Iraniennes](http://twitter.com/search?q=Iraniennes) | N/A |
+| 13 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 14 | [Olympe de Gouges](http://twitter.com/search?q=Olympe+de+Gouges) | N/A |
+| 15 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 16 | [Gérard Larcher](http://twitter.com/search?q=G%c3%a9rard+Larcher) | N/A |
+| 17 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 18 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
+| 19 | [Frieren](http://twitter.com/search?q=Frieren) | N/A |
 | 20 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
-| 21 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 22 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 23 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
-| 24 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
-| 25 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 26 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 27 | [#égalité](http://twitter.com/search?q=%23%c3%a9galit%c3%a9) | N/A |
-| 28 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 29 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 30 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 31 | [#GreveFeministe](http://twitter.com/search?q=%23GreveFeministe) | N/A |
-| 32 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 21 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 22 | [Mesdames](http://twitter.com/search?q=Mesdames) | N/A |
+| 23 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 24 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 25 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 26 | [Sceaux](http://twitter.com/search?q=Sceaux) | N/A |
+| 27 | [David Okit](http://twitter.com/search?q=David+Okit) | N/A |
+| 28 | [#journeedelafemme](http://twitter.com/search?q=%23journeedelafemme) | N/A |
+| 29 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 30 | [#égalité](http://twitter.com/search?q=%23%c3%a9galit%c3%a9) | N/A |
+| 31 | [#grevefeministe](http://twitter.com/search?q=%23grevefeministe) | N/A |
+| 32 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
 | 33 | [#KyksDay](http://twitter.com/search?q=%23KyksDay) | N/A |
-| 34 | [#parité](http://twitter.com/search?q=%23parit%c3%a9) | N/A |
-| 35 | [#8march](http://twitter.com/search?q=%238march) | N/A |
-| 36 | [#engagement](http://twitter.com/search?q=%23engagement) | N/A |
-| 37 | [#numérique](http://twitter.com/search?q=%23num%c3%a9rique) | N/A |
-| 38 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
-| 39 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 40 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
-| 41 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
-| 42 | [#brasdhonneur](http://twitter.com/search?q=%23brasdhonneur) | N/A |
+| 34 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
+| 35 | [#FemmeVieLiberté](http://twitter.com/search?q=%23FemmeVieLibert%c3%a9) | N/A |
+| 36 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 37 | [#parité](http://twitter.com/search?q=%23parit%c3%a9) | N/A |
+| 38 | [#WomenEmpowerment](http://twitter.com/search?q=%23WomenEmpowerment) | N/A |
+| 39 | [#engagement](http://twitter.com/search?q=%23engagement) | N/A |
+| 40 | [#numérique](http://twitter.com/search?q=%23num%c3%a9rique) | N/A |
+| 41 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
+| 42 | [#DupondMoretti](http://twitter.com/search?q=%23DupondMoretti) | N/A |
+| 43 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 44 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 45 | [#ScreamVI](http://twitter.com/search?q=%23ScreamVI) | #ScreamVI is a hashtag used to promote the sixth installment of the horror movie franchise, Scream. It is used to generate interest and excitement for the upcoming movie. In English, it stands for "Scream 6". |
+| 46 | [#brasdhonneur](http://twitter.com/search?q=%23brasdhonneur) | N/A |
 
 
 
