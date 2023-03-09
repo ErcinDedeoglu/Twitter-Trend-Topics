@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-09 10:16:39 UTC`
+📆 Last Updated: `2023-03-09 11:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
 | 3 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 4 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 5 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
-| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 7 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 8 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 9 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 4 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 5 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 6 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 7 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
+| 8 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 9 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 11 | [HEESEUNG LIVE](http://twitter.com/search?q=HEESEUNG+LIVE) | N/A |
-| 12 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 13 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
-| 14 | [OFF MY FACE](http://twitter.com/search?q=OFF+MY+FACE) | N/A |
-| 15 | [kathniel top taxpayers](http://twitter.com/search?q=kathniel+top+taxpayers) | N/A |
-| 16 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 17 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
-| 18 | [music invasion with felip](http://twitter.com/search?q=music+invasion+with+felip) | N/A |
-| 19 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 21 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
-| 22 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
-| 23 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
-| 24 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
-| 25 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
-| 26 | [User](http://twitter.com/search?q=User) | N/A |
-| 27 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 28 | [OMG BT21](http://twitter.com/search?q=OMG+BT21) | N/A |
-| 29 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 30 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
-| 31 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
-| 32 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 33 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 34 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 35 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 36 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 37 | [svip](http://twitter.com/search?q=svip) | N/A |
-| 38 | [Jessey](http://twitter.com/search?q=Jessey) | N/A |
-| 39 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 40 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 41 | [Cessna](http://twitter.com/search?q=Cessna) | N/A |
-| 42 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
-| 43 | [Ruru Madrid](http://twitter.com/search?q=Ruru+Madrid) | N/A |
-| 44 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
-| 45 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
-| 46 | [Bomba](http://twitter.com/search?q=Bomba) | N/A |
-| 47 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 49 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 50 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 12 | [HEESEUNG LIVE](http://twitter.com/search?q=HEESEUNG+LIVE) | N/A |
+| 13 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 14 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 15 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
+| 16 | [MAHAL KITA SO MUCH](http://twitter.com/search?q=MAHAL+KITA+SO+MUCH) | N/A |
+| 17 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
+| 18 | [kathniel top taxpayers](http://twitter.com/search?q=kathniel+top+taxpayers) | N/A |
+| 19 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
+| 20 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
+| 21 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 22 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
+| 23 | [music invasion with felip](http://twitter.com/search?q=music+invasion+with+felip) | N/A |
+| 24 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 25 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
+| 26 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 27 | [OFF MY FACE](http://twitter.com/search?q=OFF+MY+FACE) | N/A |
+| 28 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
+| 29 | [TOUR SOON](http://twitter.com/search?q=TOUR+SOON) | N/A |
+| 30 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
+| 31 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 32 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
+| 33 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 34 | [Congrats Hobi](http://twitter.com/search?q=Congrats+Hobi) | N/A |
+| 35 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 36 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
+| 37 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 38 | [readytobe million preorder](http://twitter.com/search?q=readytobe+million+preorder) | N/A |
+| 39 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 40 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 41 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 42 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 43 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 45 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 46 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
+| 47 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 48 | [OMG BT21](http://twitter.com/search?q=OMG+BT21) | N/A |
+| 49 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 50 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
 
 
 

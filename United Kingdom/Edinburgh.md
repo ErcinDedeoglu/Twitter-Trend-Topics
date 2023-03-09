@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-09 10:15:46 UTC`
+📆 Last Updated: `2023-03-09 11:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 2 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 3 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 4 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 5 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 7 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 8 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 9 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 11 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 13 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 14 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 15 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 16 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 17 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 18 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 19 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 21 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 22 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 23 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 24 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 25 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 2 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 3 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 4 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
+| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 6 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 7 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 8 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 9 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 10 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 11 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 12 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 13 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 14 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 15 | [flash gordon](http://twitter.com/search?q=flash+gordon) | N/A |
+| 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 17 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 18 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
+| 19 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 20 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 21 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 22 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 23 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 24 | [prince and princess](http://twitter.com/search?q=prince+and+princess) | N/A |
+| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 | 26 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 27 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 28 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 29 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 30 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 31 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 32 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 33 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
-| 34 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 35 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 37 | [Richy](http://twitter.com/search?q=Richy) | N/A |
-| 38 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 39 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 40 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 41 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 42 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 44 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
-| 45 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 46 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 47 | [#ASongOrMovieForBarbie](http://twitter.com/search?q=%23ASongOrMovieForBarbie) | N/A |
+| 27 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 28 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 29 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 31 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 32 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 33 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 34 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 35 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 36 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 37 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 38 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 39 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 40 | [Bernabei](http://twitter.com/search?q=Bernabei) | N/A |
+| 41 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 44 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 45 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 46 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 47 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 48 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-09 10:16:33 UTC`
+📆 Last Updated: `2023-03-09 11:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 2 | [#handsoffdc](http://twitter.com/search?q=%23handsoffdc) | N/A |
-| 3 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
-| 4 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 6 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 8 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 12 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 13 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 14 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 15 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 16 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 17 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 19 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 20 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 21 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 22 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 23 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 24 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 25 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 26 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 27 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 29 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 30 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 31 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 32 | [Oregon State](http://twitter.com/search?q=Oregon+State) | N/A |
-| 33 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 34 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 35 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 36 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 37 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 38 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 39 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
-| 40 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 41 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 42 | [Jim Ryan](http://twitter.com/search?q=Jim+Ryan) | N/A |
-| 43 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 44 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 45 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 46 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 47 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
-| 48 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 49 | [Birdo](http://twitter.com/search?q=Birdo) | N/A |
-| 50 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
+| 1 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
+| 2 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 3 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 4 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
+| 9 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 10 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 11 | [franklin](http://twitter.com/search?q=franklin) | N/A |
+| 12 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 13 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 14 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 15 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 16 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 17 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 18 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 19 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 20 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 21 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 22 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 23 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 24 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 25 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 27 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 28 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 29 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 30 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 31 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 32 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 33 | [top secret](http://twitter.com/search?q=top+secret) | N/A |
+| 34 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
+| 35 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 36 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 37 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 38 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 39 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 40 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 41 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 42 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 43 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
+| 44 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 45 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
+| 46 | [JoJo's Bizarre Adventure](http://twitter.com/search?q=JoJo%27s+Bizarre+Adventure) | N/A |
+| 47 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 48 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 
 
 

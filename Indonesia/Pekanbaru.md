@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-09 10:16:05 UTC`
+📆 Last Updated: `2023-03-09 11:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
 | 2 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
 | 3 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
-| 4 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 5 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
-| 6 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 7 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 8 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
-| 9 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 10 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 11 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 14 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 15 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 16 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 17 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 18 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 19 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 20 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 4 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
+| 5 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
+| 6 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 7 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 8 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 9 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 12 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 13 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 14 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 15 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 16 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 17 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 18 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 19 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 20 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
 | 21 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 22 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 23 | [Bank BTN](http://twitter.com/search?q=Bank+BTN) | N/A |
-| 24 | [ranca upas](http://twitter.com/search?q=ranca+upas) | N/A |
+| 22 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
+| 23 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
+| 24 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
 | 25 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
-| 26 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 27 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 28 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 29 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 30 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
-| 31 | [Urap](http://twitter.com/search?q=Urap) | N/A |
-| 32 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 33 | [YUJU COMEBACK STAGE](http://twitter.com/search?q=YUJU+COMEBACK+STAGE) | N/A |
-| 34 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 35 | [Jokowi](http://twitter.com/search?q=Jokowi) | N/A |
-| 36 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 28 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 29 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 30 | [Urap](http://twitter.com/search?q=Urap) | N/A |
+| 31 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
+| 32 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 33 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
+| 34 | [YUJU COMEBACK STAGE](http://twitter.com/search?q=YUJU+COMEBACK+STAGE) | N/A |
+| 35 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 36 | [iqbaal](http://twitter.com/search?q=iqbaal) | N/A |
 | 37 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 38 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
-| 39 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
-| 40 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 41 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 42 | [Pee Wee Gaskins](http://twitter.com/search?q=Pee+Wee+Gaskins) | N/A |
-| 43 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
-| 44 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
+| 38 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
+| 39 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 40 | [Perumahan](http://twitter.com/search?q=Perumahan) | N/A |
+| 41 | [Bank BTN](http://twitter.com/search?q=Bank+BTN) | N/A |
+| 42 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 43 | [BSI MOBILE](http://twitter.com/search?q=BSI+MOBILE) | N/A |
+| 44 | [HASANAH CARD](http://twitter.com/search?q=HASANAH+CARD) | N/A |
 
 
 

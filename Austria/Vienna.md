@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-09 10:15:58 UTC`
+📆 Last Updated: `2023-03-09 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 1 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 4 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 5 | [Kampftag](http://twitter.com/search?q=Kampftag) | N/A |
-| 6 | [#GenderEquality](http://twitter.com/search?q=%23GenderEquality) | N/A |
+| 5 | [#Frauenkampftag](http://twitter.com/search?q=%23Frauenkampftag) | N/A |
+| 6 | [neutralität](http://twitter.com/search?q=neutralit%c3%a4t) | N/A |
 | 7 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
 | 8 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
 | 9 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 11 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 12 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 13 | [Scherzerl](http://twitter.com/search?q=Scherzerl) | N/A |
-| 14 | [Herrengasse](http://twitter.com/search?q=Herrengasse) | N/A |
-| 15 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
-| 16 | [erlagschein](http://twitter.com/search?q=erlagschein) | N/A |
-| 17 | [Frauenministerin](http://twitter.com/search?q=Frauenministerin) | N/A |
-| 18 | [Hinweis](http://twitter.com/search?q=Hinweis) | N/A |
-| 19 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 20 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 21 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 12 | [Scherzerl](http://twitter.com/search?q=Scherzerl) | N/A |
+| 13 | [herrengasse](http://twitter.com/search?q=herrengasse) | N/A |
+| 14 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 15 | [Erlagschein](http://twitter.com/search?q=Erlagschein) | N/A |
+| 16 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 17 | [frauenministerin](http://twitter.com/search?q=frauenministerin) | N/A |
+| 18 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 19 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 20 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 21 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
 | 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 23 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 24 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 25 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 26 | [Chefin](http://twitter.com/search?q=Chefin) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
-| 29 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 30 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 31 | [wiener linien](http://twitter.com/search?q=wiener+linien) | N/A |
-| 32 | [Frauengasse](http://twitter.com/search?q=Frauengasse) | N/A |
-| 33 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 34 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 35 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 36 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
-| 37 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 38 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 40 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 41 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 42 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 43 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
-| 44 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 47 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 48 | [Schmitt](http://twitter.com/search?q=Schmitt) | N/A |
-| 49 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 50 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 23 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 24 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 25 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 26 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 27 | [wiener linien](http://twitter.com/search?q=wiener+linien) | N/A |
+| 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 29 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 30 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
+| 31 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 32 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
+| 33 | ["Haushaltsabgabe"](http://twitter.com/search?q=%22Haushaltsabgabe%22) | N/A |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 36 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 37 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 38 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
+| 39 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 40 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 41 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [Schmitt](http://twitter.com/search?q=Schmitt) | N/A |
+| 44 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
+| 45 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 46 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 47 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 48 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 49 | [Lehrer](http://twitter.com/search?q=Lehrer) | N/A |
+| 50 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-09 10:16:16 UTC`
+📆 Last Updated: `2023-03-09 11:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#ThisBodyWorksForMe](http://twitter.com/search?q=%23ThisBodyWorksForMe) | N/A |
-| 3 | [#BulaTheWeekend](http://twitter.com/search?q=%23BulaTheWeekend) | N/A |
-| 4 | [#FeelTheEnergy](http://twitter.com/search?q=%23FeelTheEnergy) | N/A |
-| 5 | [#OneMoreFan](http://twitter.com/search?q=%23OneMoreFan) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 9 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 10 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
-| 11 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
-| 12 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
-| 13 | [AmaZulu](http://twitter.com/search?q=AmaZulu) | N/A |
-| 14 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 2 | [#Redds](http://twitter.com/search?q=%23Redds) | N/A |
+| 3 | [#ThisBodyWorksForMe](http://twitter.com/search?q=%23ThisBodyWorksForMe) | N/A |
+| 4 | [#BulaTheWeekend](http://twitter.com/search?q=%23BulaTheWeekend) | N/A |
+| 5 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 6 | [#SharpThursday](http://twitter.com/search?q=%23SharpThursday) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 11 | [Nehawu](http://twitter.com/search?q=Nehawu) | N/A |
+| 12 | [Mashaba](http://twitter.com/search?q=Mashaba) | N/A |
+| 13 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
+| 14 | [AmaZulu](http://twitter.com/search?q=AmaZulu) | N/A |
 | 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 17 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 18 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
-| 19 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
-| 20 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 21 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
-| 22 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
-| 23 | [Mpofu](http://twitter.com/search?q=Mpofu) | N/A |
-| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 25 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 26 | [Wandi](http://twitter.com/search?q=Wandi) | N/A |
-| 27 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
-| 28 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 29 | [City Manager](http://twitter.com/search?q=City+Manager) | N/A |
-| 30 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
-| 31 | [Platinum](http://twitter.com/search?q=Platinum) | N/A |
-| 32 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 16 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 17 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 18 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 19 | [THABANG THE SPORT ANALYST](http://twitter.com/search?q=THABANG+THE+SPORT+ANALYST) | N/A |
+| 20 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 21 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
+| 22 | [Dondol Stars](http://twitter.com/search?q=Dondol+Stars) | N/A |
+| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Dali](http://twitter.com/search?q=Dali) | N/A |
+| 25 | [Wandi](http://twitter.com/search?q=Wandi) | N/A |
+| 26 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 27 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 28 | [KHOSI IS BLESSED](http://twitter.com/search?q=KHOSI+IS+BLESSED) | N/A |
+| 29 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
+| 30 | [THABANG ANTHEM](http://twitter.com/search?q=THABANG+ANTHEM) | N/A |
+| 31 | [Fohloza](http://twitter.com/search?q=Fohloza) | N/A |
+| 32 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
 | 33 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 34 | [Dishes](http://twitter.com/search?q=Dishes) | N/A |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 37 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 36 | [Thuli](http://twitter.com/search?q=Thuli) | N/A |
+| 37 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
 | 38 | [John Cena](http://twitter.com/search?q=John+Cena) | N/A |
-| 39 | [Herman](http://twitter.com/search?q=Herman) | N/A |
-| 40 | [Joe Phaahla](http://twitter.com/search?q=Joe+Phaahla) | N/A |
-| 41 | [Aubrey](http://twitter.com/search?q=Aubrey) | N/A |
-| 42 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 43 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 44 | [Block 14](http://twitter.com/search?q=Block+14) | N/A |
-| 45 | [Katlego Danke](http://twitter.com/search?q=Katlego+Danke) | N/A |
+| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 40 | [Block 14](http://twitter.com/search?q=Block+14) | N/A |
+| 41 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 42 | [Primadonna](http://twitter.com/search?q=Primadonna) | N/A |
+| 43 | [Mosele](http://twitter.com/search?q=Mosele) | N/A |
+| 44 | [IPELENG THE FINALIST](http://twitter.com/search?q=IPELENG+THE+FINALIST) | N/A |
+| 45 | [DJ Fresh](http://twitter.com/search?q=DJ+Fresh) | N/A |
 | 46 | [Boyz II Men](http://twitter.com/search?q=Boyz+II+Men) | N/A |
-| 47 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 48 | [DJ Fresh](http://twitter.com/search?q=DJ+Fresh) | N/A |
-| 49 | [Mosele](http://twitter.com/search?q=Mosele) | N/A |
-| 50 | [Primadonna](http://twitter.com/search?q=Primadonna) | N/A |
+| 47 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
+| 48 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 49 | [City Manager](http://twitter.com/search?q=City+Manager) | N/A |
+| 50 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-09 10:16:35 UTC`
+📆 Last Updated: `2023-03-09 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Chile
 | 1 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
 | 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 6 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 7 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 8 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
-| 9 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 4 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 5 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 8 | [pymes](http://twitter.com/search?q=pymes) | N/A |
+| 9 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
 | 10 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 11 | [aeropuerto de santiago](http://twitter.com/search?q=aeropuerto+de+santiago) | N/A |
-| 12 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 13 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 11 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 12 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 13 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
 | 14 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 15 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
-| 16 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 16 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
 | 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
+| 18 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
 | 19 | [Repe](http://twitter.com/search?q=Repe) | N/A |
 | 20 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 21 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
-| 22 | [holan](http://twitter.com/search?q=holan) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 21 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 22 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
+| 23 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 25 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 26 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
-| 27 | [gracias rechazo](http://twitter.com/search?q=gracias+rechazo) | N/A |
-| 28 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 29 | [Chilenos](http://twitter.com/search?q=Chilenos) | N/A |
-| 30 | [sala cuna](http://twitter.com/search?q=sala+cuna) | N/A |
-| 31 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
-| 32 | [De La Carrera](http://twitter.com/search?q=De+La+Carrera) | N/A |
+| 26 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 27 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 28 | [gracias rechazo](http://twitter.com/search?q=gracias+rechazo) | N/A |
+| 29 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 30 | [Bájense](http://twitter.com/search?q=B%c3%a1jense) | N/A |
+| 31 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 32 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
 | 33 | [cadena nacional](http://twitter.com/search?q=cadena+nacional) | N/A |
-| 34 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 35 | [lorena fries](http://twitter.com/search?q=lorena+fries) | N/A |
-| 36 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 37 | [Bájense](http://twitter.com/search?q=B%c3%a1jense) | N/A |
-| 38 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 39 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [lorena fries](http://twitter.com/search?q=lorena+fries) | N/A |
+| 35 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 36 | [De La Carrera](http://twitter.com/search?q=De+La+Carrera) | N/A |
+| 37 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 38 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
+| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 40 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
 | 41 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 42 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 43 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
-| 44 | [MÓNICA ARCE](http://twitter.com/search?q=M%c3%93NICA+ARCE) | N/A |
-| 45 | [Querían](http://twitter.com/search?q=Quer%c3%adan) | N/A |
-| 46 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
-| 47 | [derrota](http://twitter.com/search?q=derrota) | N/A |
-| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 49 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
-| 50 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 42 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
+| 43 | [Querían](http://twitter.com/search?q=Quer%c3%adan) | N/A |
+| 44 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 45 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
+| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 47 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 48 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 49 | [Nery](http://twitter.com/search?q=Nery) | N/A |
+| 50 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 
 
 

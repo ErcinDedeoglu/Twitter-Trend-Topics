@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-09 10:15:55 UTC`
+📆 Last Updated: `2023-03-09 11:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
 | 3 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
 | 4 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
-| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 6 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 7 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 8 | [#ficaVP](http://twitter.com/search?q=%23ficaVP) | N/A |
-| 9 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 10 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
-| 11 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 12 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 13 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 14 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 15 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 5 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 6 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
+| 7 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 8 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
+| 9 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 11 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 12 | [#ficaVP](http://twitter.com/search?q=%23ficaVP) | N/A |
+| 13 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 14 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 15 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
 | 16 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 17 | [#VaiFred](http://twitter.com/search?q=%23VaiFred) | N/A |
-| 18 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 19 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 20 | [#FicaDomitila](http://twitter.com/search?q=%23FicaDomitila) | N/A |
+| 17 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 18 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 19 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 20 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
 | 21 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 22 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 23 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
-| 24 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
-| 25 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 26 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
-| 27 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 28 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
-| 29 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 30 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 31 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 32 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 33 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
-| 34 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 35 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 36 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 37 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 38 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 39 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 40 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 41 | [VENCE O FLUMINENSE](http://twitter.com/search?q=VENCE+O+FLUMINENSE) | N/A |
-| 42 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
-| 43 | [dodô](http://twitter.com/search?q=dod%c3%b4) | N/A |
-| 44 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
-| 45 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 46 | [Arrasca](http://twitter.com/search?q=Arrasca) | Arrasca is a Spanish verb meaning "to tear off" or "to rip off." It is used to describe the act of forcibly removing something from its place. |
-| 47 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 48 | [Título](http://twitter.com/search?q=T%c3%adtulo) | N/A |
-| 49 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 50 | [PAULO VIEIRA](http://twitter.com/search?q=PAULO+VIEIRA) | N/A |
+| 22 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 23 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 24 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 25 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 27 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 28 | [moleque](http://twitter.com/search?q=moleque) | N/A |
+| 29 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 30 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 31 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 32 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
+| 33 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 34 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 35 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 36 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 37 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 38 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 39 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 40 | [E o Flamengo](http://twitter.com/search?q=E+o+Flamengo) | N/A |
+| 41 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
+| 42 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
+| 43 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 44 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 45 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 46 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 47 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
+| 48 | [VENCE O FLUMINENSE](http://twitter.com/search?q=VENCE+O+FLUMINENSE) | N/A |
+| 49 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 50 | [Título](http://twitter.com/search?q=T%c3%adtulo) | N/A |
 
 
 

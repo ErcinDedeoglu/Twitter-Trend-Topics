@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-09 10:16:36 UTC`
+📆 Last Updated: `2023-03-09 11:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for Israel
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [יום האישה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
+| 1 | [פורום קהלת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
 | 2 | [חיים טופול](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%98%d7%95%d7%a4%d7%95%d7%9c) | N/A |
-| 3 | [פורום קהלת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 3 | [יום האישה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%90%d7%99%d7%a9%d7%94) | N/A |
 | 4 | [של נועה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%95%d7%a2%d7%94) | N/A |
-| 5 | [הייל היטלר](http://twitter.com/search?q=%d7%94%d7%99%d7%99%d7%9c+%d7%94%d7%99%d7%98%d7%9c%d7%a8) | N/A |
-| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 7 | [שקי מלט](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%9e%d7%9c%d7%98) | N/A |
-| 8 | [יום נישואין](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f) | N/A |
-| 9 | [שקי חול](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%97%d7%95%d7%9c) | N/A |
-| 10 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 11 | [שפי פז](http://twitter.com/search?q=%d7%a9%d7%a4%d7%99+%d7%a4%d7%96) | N/A |
-| 12 | [סלאח שבתי](http://twitter.com/search?q=%d7%a1%d7%9c%d7%90%d7%97+%d7%a9%d7%91%d7%aa%d7%99) | N/A |
-| 13 | [של סיירת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%99%d7%a8%d7%aa) | N/A |
-| 14 | [נמל חיפה](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 15 | [קו שחור](http://twitter.com/search?q=%d7%a7%d7%95+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
-| 16 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
-| 17 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
-| 18 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
-| 19 | [סאלח שבתי](http://twitter.com/search?q=%d7%a1%d7%90%d7%9c%d7%97+%d7%a9%d7%91%d7%aa%d7%99) | N/A |
-| 20 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 21 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
-| 22 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 23 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
-| 24 | [הם אנרכיסטים](http://twitter.com/search?q=%d7%94%d7%9d+%d7%90%d7%a0%d7%a8%d7%9b%d7%99%d7%a1%d7%98%d7%99%d7%9d) | N/A |
-| 25 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
+| 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 6 | [יום נישואין](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a0%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9f) | N/A |
+| 7 | [הייל היטלר](http://twitter.com/search?q=%d7%94%d7%99%d7%99%d7%9c+%d7%94%d7%99%d7%98%d7%9c%d7%a8) | N/A |
+| 8 | [שפי פז](http://twitter.com/search?q=%d7%a9%d7%a4%d7%99+%d7%a4%d7%96) | N/A |
+| 9 | [שקי מלט](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%9e%d7%9c%d7%98) | N/A |
+| 10 | [נמל חיפה](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 11 | [סלאח שבתי](http://twitter.com/search?q=%d7%a1%d7%9c%d7%90%d7%97+%d7%a9%d7%91%d7%aa%d7%99) | N/A |
+| 12 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 13 | [קו שחור](http://twitter.com/search?q=%d7%a7%d7%95+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
+| 14 | [מאיר רובין](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a8%d7%95%d7%91%d7%99%d7%9f) | N/A |
+| 15 | [שקי חול](http://twitter.com/search?q=%d7%a9%d7%a7%d7%99+%d7%97%d7%95%d7%9c) | N/A |
+| 16 | [פורים שמח](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%99%d7%9d+%d7%a9%d7%9e%d7%97) | N/A |
+| 17 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 18 | [סאלח שבתי](http://twitter.com/search?q=%d7%a1%d7%90%d7%9c%d7%97+%d7%a9%d7%91%d7%aa%d7%99) | N/A |
+| 19 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 20 | [הם אנרכיסטים](http://twitter.com/search?q=%d7%94%d7%9d+%d7%90%d7%a0%d7%a8%d7%9b%d7%99%d7%a1%d7%98%d7%99%d7%9d) | N/A |
+| 21 | [יובל אלבשן](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
+| 22 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 23 | [אלף דולר](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
+| 24 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
+| 25 | [עין כרם](http://twitter.com/search?q=%d7%a2%d7%99%d7%9f+%d7%9b%d7%a8%d7%9d) | N/A |
 | 26 | [מפקד סיירת](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%a1%d7%99%d7%99%d7%a8%d7%aa) | N/A |
-| 27 | [אלף דולר](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%93%d7%95%d7%9c%d7%a8) | N/A |
-| 28 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 29 | [Jenin](http://twitter.com/search?q=Jenin) | N/A |
-| 30 | [#קו_אדום](http://twitter.com/search?q=%23%d7%a7%d7%95_%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 31 | [יום התנגדות](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%aa%d7%a0%d7%92%d7%93%d7%95%d7%aa) | N/A |
-| 32 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 27 | [#קו_אדום](http://twitter.com/search?q=%23%d7%a7%d7%95_%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 28 | [יום התנגדות](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%aa%d7%a0%d7%92%d7%93%d7%95%d7%aa) | N/A |
+| 29 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
+| 30 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 31 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
+| 32 | [ימין היו](http://twitter.com/search?q=%d7%99%d7%9e%d7%99%d7%9f+%d7%94%d7%99%d7%95) | N/A |
 | 33 | [רון שרף](http://twitter.com/search?q=%d7%a8%d7%95%d7%9f+%d7%a9%d7%a8%d7%a3) | N/A |
 | 34 | [יום הנכבה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%a0%d7%9b%d7%91%d7%94) | N/A |
-| 35 | [מלח הארץ](http://twitter.com/search?q=%d7%9e%d7%9c%d7%97+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
-| 36 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
-| 37 | [ימין היו](http://twitter.com/search?q=%d7%99%d7%9e%d7%99%d7%9f+%d7%94%d7%99%d7%95) | N/A |
-| 38 | [ר מיכאל](http://twitter.com/search?q=%d7%a8+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
-| 39 | [של הטייס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%98%d7%99%d7%99%d7%a1) | N/A |
-| 40 | [דירוג אשראי](http://twitter.com/search?q=%d7%93%d7%99%d7%a8%d7%95%d7%92+%d7%90%d7%a9%d7%a8%d7%90%d7%99) | N/A |
-| 41 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 42 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
-| 43 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 44 | [צומת הכפר](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%94%d7%9b%d7%a4%d7%a8) | N/A |
-| 45 | [קהלת הם](http://twitter.com/search?q=%d7%a7%d7%94%d7%9c%d7%aa+%d7%94%d7%9d) | N/A |
-| 46 | [כפר שלם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a9%d7%9c%d7%9d) | N/A |
-| 47 | [נתן זהבי](http://twitter.com/search?q=%d7%a0%d7%aa%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
-| 48 | [בהר אדר](http://twitter.com/search?q=%d7%91%d7%94%d7%a8+%d7%90%d7%93%d7%a8) | N/A |
-| 49 | [נתב״ג](http://twitter.com/search?q=%d7%a0%d7%aa%d7%91%d7%b4%d7%92) | N/A |
+| 35 | [ר מיכאל](http://twitter.com/search?q=%d7%a8+%d7%9e%d7%99%d7%9b%d7%90%d7%9c) | N/A |
+| 36 | [של סיירת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%99%d7%a8%d7%aa) | N/A |
+| 37 | [של הטייס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%98%d7%99%d7%99%d7%a1) | N/A |
+| 38 | [#يوم_المراه_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 39 | [#جنين](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%8a%d9%86) | N/A |
+| 40 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 41 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
+| 42 | [שר ההגנה](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%94%d7%92%d7%a0%d7%94) | N/A |
+| 43 | [כפר שלם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a9%d7%9c%d7%9d) | N/A |
+| 44 | [נתן זהבי](http://twitter.com/search?q=%d7%a0%d7%aa%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
+| 45 | [נתב״ג](http://twitter.com/search?q=%d7%a0%d7%aa%d7%91%d7%b4%d7%92) | N/A |
+| 46 | [סגן אלוף](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%90%d7%9c%d7%95%d7%a3) | N/A |
+| 47 | [קהלת הם](http://twitter.com/search?q=%d7%a7%d7%94%d7%9c%d7%aa+%d7%94%d7%9d) | N/A |
+| 48 | [צומת הכפר](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%94%d7%9b%d7%a4%d7%a8) | N/A |
+| 49 | [דירוג אשראי](http://twitter.com/search?q=%d7%93%d7%99%d7%a8%d7%95%d7%92+%d7%90%d7%a9%d7%a8%d7%90%d7%99) | N/A |
 | 50 | [של אלבשן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%91%d7%a9%d7%9f) | N/A |
 
 
