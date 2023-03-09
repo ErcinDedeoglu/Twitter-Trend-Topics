@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-09 19:16:18 UTC`
+📆 Last Updated: `2023-03-09 20:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 2 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 3 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 4 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 2 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 3 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 4 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 6 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
-| 7 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 8 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 9 | [Nelli](http://twitter.com/search?q=Nelli) | N/A |
-| 10 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 11 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 12 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
-| 13 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 14 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 15 | [#AEKWHU](http://twitter.com/search?q=%23AEKWHU) | N/A |
-| 16 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 17 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 18 | [#SCPARS](http://twitter.com/search?q=%23SCPARS) | N/A |
-| 19 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 21 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
-| 22 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
-| 23 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
-| 24 | [Old Oak Common](http://twitter.com/search?q=Old+Oak+Common) | N/A |
-| 25 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 26 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 27 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 28 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 29 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 30 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
-| 31 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
-| 32 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 33 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 34 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 35 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 37 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 38 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 39 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 40 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 41 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 42 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 43 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 44 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 45 | [Linekar](http://twitter.com/search?q=Linekar) | N/A |
-| 46 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 47 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 48 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 6 | [Joaquin](http://twitter.com/search?q=Joaquin) | N/A |
+| 7 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
+| 8 | [#NextLeaderOfScotland](http://twitter.com/search?q=%23NextLeaderOfScotland) | N/A |
+| 9 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 10 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 11 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 12 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 13 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 14 | [#MUNBET](http://twitter.com/search?q=%23MUNBET) | N/A |
+| 15 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 16 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 17 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
+| 18 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
+| 19 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 20 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 21 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 22 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 23 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 24 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 25 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 26 | [COME ON UNITED](http://twitter.com/search?q=COME+ON+UNITED) | "Come on United" is a phrase used to show support for the English football team Manchester United. It is usually shouted by fans during a match to encourage the team and show their enthusiasm. |
+| 27 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 28 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 29 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
+| 30 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
+| 31 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 32 | [Old Oak Common](http://twitter.com/search?q=Old+Oak+Common) | N/A |
+| 33 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
+| 34 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
+| 35 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 36 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 37 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
+| 38 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 39 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 40 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 41 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 42 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 43 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 44 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 45 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 46 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 47 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
+| 48 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
 
 
 

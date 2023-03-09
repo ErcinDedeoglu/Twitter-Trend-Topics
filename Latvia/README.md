@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-09 19:17:06 UTC`
+📆 Last Updated: `2023-03-09 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bluuish](http://twitter.com/search?q=%23bluuish) | N/A |
-| 2 | [#gacuteam](http://twitter.com/search?q=%23gacuteam) | N/A |
-| 3 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
-| 4 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 5 | [#Budžets2023](http://twitter.com/search?q=%23Bud%c5%beets2023) | N/A |
-| 6 | [galiņš](http://twitter.com/search?q=gali%c5%86%c5%a1) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [kancītis](http://twitter.com/search?q=kanc%c4%abtis) | N/A |
-| 9 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 10 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 11 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
-| 12 | [Ministru](http://twitter.com/search?q=Ministru) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 15 | [Gruzijā](http://twitter.com/search?q=Gruzij%c4%81) | N/A |
-| 16 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
-| 17 | [Talsos](http://twitter.com/search?q=Talsos) | N/A |
-| 18 | [America](http://twitter.com/search?q=America) | N/A |
-| 19 | [starptautiskajā](http://twitter.com/search?q=starptautiskaj%c4%81) | N/A |
-| 20 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
+| 1 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
+| 2 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 3 | [#Budžets2023](http://twitter.com/search?q=%23Bud%c5%beets2023) | N/A |
+| 4 | [galiņš](http://twitter.com/search?q=gali%c5%86%c5%a1) | N/A |
+| 5 | [kancītis](http://twitter.com/search?q=kanc%c4%abtis) | N/A |
+| 6 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 7 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 8 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
+| 9 | [Gruzijas](http://twitter.com/search?q=Gruzijas) | N/A |
+| 10 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 11 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 12 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 13 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
+| 14 | [talsos](http://twitter.com/search?q=talsos) | N/A |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 16 | [starptautiskajā](http://twitter.com/search?q=starptautiskaj%c4%81) | N/A |
+| 17 | [#esfondi](http://twitter.com/search?q=%23esfondi) | N/A |
+| 18 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
+| 19 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
+| 20 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 21 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
-| 22 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
-| 23 | [talsu](http://twitter.com/search?q=talsu) | N/A |
-| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 25 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 26 | [daugavpili](http://twitter.com/search?q=daugavpili) | N/A |
+| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 23 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
+| 24 | [talsu](http://twitter.com/search?q=talsu) | N/A |
+| 25 | [daugavpili](http://twitter.com/search?q=daugavpili) | N/A |
+| 26 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
 | 27 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
 | 28 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
 | 29 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 31 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 32 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 33 | [bahmutu](http://twitter.com/search?q=bahmutu) | N/A |
-| 34 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 35 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 36 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
-| 37 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
-| 38 | [Vidzemē](http://twitter.com/search?q=Vidzem%c4%93) | N/A |
-| 39 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 40 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Tukuma](http://twitter.com/search?q=Tukuma) | N/A |
-| 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 44 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
-| 45 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 46 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
-| 47 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
-| 48 | [Avens](http://twitter.com/search?q=Avens) | N/A |
-| 49 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 50 | [Riga FC](http://twitter.com/search?q=Riga+FC) | N/A |
+| 30 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 31 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
+| 32 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
+| 33 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
+| 34 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 35 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 36 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
+| 37 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 38 | [tukuma](http://twitter.com/search?q=tukuma) | N/A |
+| 39 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 40 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 41 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 42 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 43 | [Aizsardzības](http://twitter.com/search?q=Aizsardz%c4%abbas) | N/A |
+| 44 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 45 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 46 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
+| 47 | [Riga FC](http://twitter.com/search?q=Riga+FC) | N/A |
+| 48 | [Sveiki](http://twitter.com/search?q=Sveiki) | N/A |
+| 49 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
+| 50 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
 
 
 

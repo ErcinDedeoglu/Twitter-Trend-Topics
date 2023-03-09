@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-09 19:16:28 UTC`
+📆 Last Updated: `2023-03-09 20:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 2 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 3 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 7 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 8 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 9 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 10 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 11 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 12 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
-| 13 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 14 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 15 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 17 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 18 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 19 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 20 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 21 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 23 | [Amraoui](http://twitter.com/search?q=Amraoui) | N/A |
-| 24 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
-| 25 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
-| 26 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 27 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 28 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 29 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 30 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 31 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
-| 32 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
-| 33 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 36 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 37 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 38 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 39 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 41 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 42 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 43 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 44 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 45 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 46 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 48 | [Corinne Diacre](http://twitter.com/search?q=Corinne+Diacre) | N/A |
-| 49 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
-| 50 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 2 | [#FCSOGCN](http://twitter.com/search?q=%23FCSOGCN) | N/A |
+| 3 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 4 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
+| 5 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 6 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 7 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 9 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
+| 10 | [Ener](http://twitter.com/search?q=Ener) | N/A |
+| 11 | [Amraoui](http://twitter.com/search?q=Amraoui) | N/A |
+| 12 | [Paris Match](http://twitter.com/search?q=Paris+Match) | N/A |
+| 13 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 14 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 15 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 16 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 17 | [Andrea Bescond](http://twitter.com/search?q=Andrea+Bescond) | N/A |
+| 18 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
+| 19 | [Bourvil](http://twitter.com/search?q=Bourvil) | N/A |
+| 20 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
+| 21 | [Léon](http://twitter.com/search?q=L%c3%a9on) | N/A |
+| 22 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 23 | [RER D](http://twitter.com/search?q=RER+D) | N/A |
+| 24 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
+| 25 | [LDLC](http://twitter.com/search?q=LDLC) | N/A |
+| 26 | [Corinne Diacre](http://twitter.com/search?q=Corinne+Diacre) | N/A |
+| 27 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
+| 28 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 29 | [#Pegases2023](http://twitter.com/search?q=%23Pegases2023) | N/A |
+| 30 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 31 | [#Schiappa](http://twitter.com/search?q=%23Schiappa) | N/A |
+| 32 | [#SpeeDons](http://twitter.com/search?q=%23SpeeDons) | N/A |
+| 33 | [#VALRevolution](http://twitter.com/search?q=%23VALRevolution) | N/A |
+| 34 | [#ARES13](http://twitter.com/search?q=%23ARES13) | N/A |
+| 35 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 36 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 37 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 38 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 39 | [#Parcoursup](http://twitter.com/search?q=%23Parcoursup) | N/A |
+| 40 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 41 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
+| 42 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 43 | [#MarioKart8Deluxe](http://twitter.com/search?q=%23MarioKart8Deluxe) | N/A |
+| 44 | [#BonusZoneBetclic](http://twitter.com/search?q=%23BonusZoneBetclic) | N/A |
+| 45 | [#greve9mars](http://twitter.com/search?q=%23greve9mars) | N/A |
+| 46 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 47 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 48 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 49 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
 
 
 

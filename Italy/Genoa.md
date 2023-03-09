@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-09 19:16:30 UTC`
+📆 Last Updated: `2023-03-09 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#unaTARDIVA_gita_aCUTRO](http://twitter.com/search?q=%23unaTARDIVA_gita_aCUTRO) | N/A |
-| 2 | [#8Marzo](http://twitter.com/search?q=%238Marzo) | N/A |
-| 3 | [#RomaRealSociedad](http://twitter.com/search?q=%23RomaRealSociedad) | N/A |
-| 4 | [#TottenhamMilan](http://twitter.com/search?q=%23TottenhamMilan) | N/A |
-| 5 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [SPIEGA IL TUO TWITTER](http://twitter.com/search?q=SPIEGA+IL+TUO+TWITTER) | N/A |
-| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 9 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 10 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
-| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 12 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
-| 13 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
-| 14 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 15 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 16 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
-| 17 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 18 | [Viterbo](http://twitter.com/search?q=Viterbo) | N/A |
-| 19 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
-| 20 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 21 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 22 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
-| 23 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 24 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 25 | [Michele Bravi](http://twitter.com/search?q=Michele+Bravi) | N/A |
-| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 27 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 28 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 29 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
-| 30 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 31 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 32 | [Cecilia Sala](http://twitter.com/search?q=Cecilia+Sala) | N/A |
-| 33 | [Joe Formaggio](http://twitter.com/search?q=Joe+Formaggio) | N/A |
-| 34 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 35 | [Il PSG](http://twitter.com/search?q=Il+PSG) | N/A |
-| 36 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 37 | [Bianca Balti](http://twitter.com/search?q=Bianca+Balti) | N/A |
-| 38 | [Covisoc](http://twitter.com/search?q=Covisoc) | N/A |
-| 39 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 40 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 42 | [Zanetti](http://twitter.com/search?q=Zanetti) | Zanetti is an Italian surname. It is derived from the Latin name Januarius, which means "January". In English, it can be translated to mean "of January". |
-| 43 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 44 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 46 | [Montaruli](http://twitter.com/search?q=Montaruli) | N/A |
-| 47 | [Piersilvio](http://twitter.com/search?q=Piersilvio) | N/A |
-| 48 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 49 | [Milito](http://twitter.com/search?q=Milito) | N/A |
-| 50 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
+| 1 | [#RomaRealSociedad](http://twitter.com/search?q=%23RomaRealSociedad) | N/A |
+| 2 | [#terremoto](http://twitter.com/search?q=%23terremoto) | N/A |
+| 3 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 4 | [#Cutro](http://twitter.com/search?q=%23Cutro) | N/A |
+| 5 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 6 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 7 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
+| 8 | [Umbertide](http://twitter.com/search?q=Umbertide) | N/A |
+| 9 | [Zenga](http://twitter.com/search?q=Zenga) | N/A |
+| 10 | [Zanetti](http://twitter.com/search?q=Zanetti) | Zanetti is an Italian surname. It is derived from the Latin name Januarius, which means "January". In English, it can be translated to mean "of January". |
+| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 12 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 13 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 14 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 15 | [Zaia](http://twitter.com/search?q=Zaia) | N/A |
+| 16 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 17 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 18 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 19 | [Viterbo](http://twitter.com/search?q=Viterbo) | N/A |
+| 20 | [Capitano](http://twitter.com/search?q=Capitano) | N/A |
+| 21 | [Consiglio di Stato](http://twitter.com/search?q=Consiglio+di+Stato) | N/A |
+| 22 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 23 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 24 | [#JuveFriburgo](http://twitter.com/search?q=%23JuveFriburgo) | N/A |
+| 25 | [#UnaDelleMiglioriSensazioni](http://twitter.com/search?q=%23UnaDelleMiglioriSensazioni) | N/A |
+| 26 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 27 | [#Melonivergogna](http://twitter.com/search?q=%23Melonivergogna) | N/A |
+| 28 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 29 | [#LOL3](http://twitter.com/search?q=%23LOL3) | N/A |
+| 30 | [#Kumbulla](http://twitter.com/search?q=%23Kumbulla) | N/A |
+| 31 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 32 | [#ElShaarawy](http://twitter.com/search?q=%23ElShaarawy) | N/A |
+| 33 | [#globoterracqueo](http://twitter.com/search?q=%23globoterracqueo) | N/A |
+| 34 | [#FiorentinaSivasspor](http://twitter.com/search?q=%23FiorentinaSivasspor) | N/A |
+| 35 | [#ConsiglioDeiMinistri](http://twitter.com/search?q=%23ConsiglioDeiMinistri) | N/A |
+| 36 | [#JUVSCF](http://twitter.com/search?q=%23JUVSCF) | N/A |
+| 37 | [#conferenzastampa](http://twitter.com/search?q=%23conferenzastampa) | N/A |
+| 38 | [#GovernoDellaVergogna](http://twitter.com/search?q=%23GovernoDellaVergogna) | N/A |
+| 39 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 40 | [#GovernoDegliOrrori](http://twitter.com/search?q=%23GovernoDegliOrrori) | N/A |
+| 41 | [#DisagioExpress](http://twitter.com/search?q=%23DisagioExpress) | N/A |
+| 42 | [#iostoconnikita](http://twitter.com/search?q=%23iostoconnikita) | N/A |
+| 43 | [#scafisti](http://twitter.com/search?q=%23scafisti) | N/A |
+| 44 | [#SalviniPagliaccio](http://twitter.com/search?q=%23SalviniPagliaccio) | N/A |
+| 45 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 46 | [#Netanyahu](http://twitter.com/search?q=%23Netanyahu) | N/A |
+| 47 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
 
 
 

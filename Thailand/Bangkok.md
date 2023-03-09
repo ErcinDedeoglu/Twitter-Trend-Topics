@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-09 19:16:42 UTC`
+📆 Last Updated: `2023-03-09 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 2 | [#JAEMIN](http://twitter.com/search?q=%23JAEMIN) | N/A |
-| 3 | [#tu86](http://twitter.com/search?q=%23tu86) | N/A |
-| 4 | [#ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
-| 5 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 6 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 7 | [TEARS OUT NOW](http://twitter.com/search?q=TEARS+OUT+NOW) | N/A |
-| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 10 | [#หยดน้ําตา4EVE_MV](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE_MV) | N/A |
-| 11 | [#BBTSEP4](http://twitter.com/search?q=%23BBTSEP4) | N/A |
-| 12 | [#ArcticMonkeysLiveInBangkok](http://twitter.com/search?q=%23ArcticMonkeysLiveInBangkok) | N/A |
-| 13 | [#PawsidentCocoDay](http://twitter.com/search?q=%23PawsidentCocoDay) | N/A |
-| 14 | [#생일츄캬해_뎨툔넝코코](http://twitter.com/search?q=%23%ec%83%9d%ec%9d%bc%ec%b8%84%ec%ba%ac%ed%95%b4_%eb%8e%a8%ed%88%94%eb%84%9d%ec%bd%94%ec%bd%94) | N/A |
-| 15 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 16 | [#YOUNGJAE_Bubble](http://twitter.com/search?q=%23YOUNGJAE_Bubble) | N/A |
-| 17 | [#PHARITA](http://twitter.com/search?q=%23PHARITA) | N/A |
-| 18 | [#ไบร์ทมิวซ์](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%8b%e0%b9%8c) | N/A |
-| 19 | [#SoundCheckXลาษวรรณ](http://twitter.com/search?q=%23SoundCheckX%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93) | N/A |
-| 20 | [#bbillkin](http://twitter.com/search?q=%23bbillkin) | N/A |
-| 21 | [#ร้องข้ามกําแพง](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87) | N/A |
-| 22 | [#WanDayXBas](http://twitter.com/search?q=%23WanDayXBas) | N/A |
-| 23 | [#MingueMomentinBKK](http://twitter.com/search?q=%23MingueMomentinBKK) | N/A |
-| 24 | [#YOSHI](http://twitter.com/search?q=%23YOSHI) | N/A |
-| 25 | [#RPL2023Summer](http://twitter.com/search?q=%23RPL2023Summer) | N/A |
-| 26 | [#MerpclubxBounPrem](http://twitter.com/search?q=%23MerpclubxBounPrem) | N/A |
-| 27 | [#Sunnee](http://twitter.com/search?q=%23Sunnee) | N/A |
-| 28 | [#OscarsPartyxFirstKhaotung](http://twitter.com/search?q=%23OscarsPartyxFirstKhaotung) | N/A |
-| 29 | [#OnThatDayxNontTanont](http://twitter.com/search?q=%23OnThatDayxNontTanont) | N/A |
-| 30 | [#TheMallSummerXDomundi](http://twitter.com/search?q=%23TheMallSummerXDomundi) | N/A |
-| 31 | [#สี่แสนฟอลของคนหล่อธนวินท์](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b8%98%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b9%8c) | N/A |
-| 32 | [#Patrickananda](http://twitter.com/search?q=%23Patrickananda) | N/A |
-| 33 | [#มิวนิษฐา](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b4%e0%b8%a7%e0%b8%99%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b8%b2) | N/A |
-| 34 | [#ตี๋ลี่เร่อปา](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b5%e0%b9%8b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%ad%e0%b8%9b%e0%b8%b2) | N/A |
-| 35 | [#TheMallSummerXDVI](http://twitter.com/search?q=%23TheMallSummerXDVI) | N/A |
-| 36 | [#OnnyTomoxCharlotte](http://twitter.com/search?q=%23OnnyTomoxCharlotte) | N/A |
-| 37 | [#LoveMeAgain](http://twitter.com/search?q=%23LoveMeAgain) | N/A |
-| 38 | [#TheMallSummerCation](http://twitter.com/search?q=%23TheMallSummerCation) | N/A |
-| 39 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 40 | [#Basvpr](http://twitter.com/search?q=%23Basvpr) | N/A |
-| 41 | [#NamneungMilinD](http://twitter.com/search?q=%23NamneungMilinD) | N/A |
-| 42 | [#9by9TH](http://twitter.com/search?q=%239by9TH) | N/A |
-| 43 | [#DilrabaXLux](http://twitter.com/search?q=%23DilrabaXLux) | N/A |
-| 44 | [#BAMBAMxABYSS](http://twitter.com/search?q=%23BAMBAMxABYSS) | N/A |
+| 1 | [#Welcome7DREAMtoThailand](http://twitter.com/search?q=%23Welcome7DREAMtoThailand) | N/A |
+| 2 | [#ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
+| 3 | [#หยดน้ําตา4EVE_MV](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24EVE_MV) | N/A |
+| 4 | [#tu86](http://twitter.com/search?q=%23tu86) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [bambam gm 09march](http://twitter.com/search?q=bambam+gm+09march) | N/A |
+| 7 | [talk with tenlee](http://twitter.com/search?q=talk+with+tenlee) | N/A |
+| 8 | [TEARS OUT NOW](http://twitter.com/search?q=TEARS+OUT+NOW) | N/A |
+| 9 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 10 | [300k with fourth](http://twitter.com/search?q=300k+with+fourth) | N/A |
+| 11 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 12 | [pp krit coca cola](http://twitter.com/search?q=pp+krit+coca+cola) | N/A |
+| 13 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 14 | [joyful day09 to engfa](http://twitter.com/search?q=joyful+day09+to+engfa) | N/A |
+| 15 | [Mon Petra](http://twitter.com/search?q=Mon+Petra) | N/A |
+| 16 | [Happy Birthday Taeyeon](http://twitter.com/search?q=Happy+Birthday+Taeyeon) | N/A |
+| 17 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 18 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 19 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 20 | [Night Cherprang](http://twitter.com/search?q=Night+Cherprang) | N/A |
+| 21 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 22 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
+| 23 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 24 | [#JAEMIN](http://twitter.com/search?q=%23JAEMIN) | N/A |
+| 25 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
+| 26 | [#ArcticMonkeysLiveInBangkok](http://twitter.com/search?q=%23ArcticMonkeysLiveInBangkok) | N/A |
+| 27 | [#9แสนฟอลตัวพ่อซีพฤกษ์](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
+| 28 | [#ProvamedxGulfLive](http://twitter.com/search?q=%23ProvamedxGulfLive) | N/A |
+| 29 | [#tenxwoodyfm](http://twitter.com/search?q=%23tenxwoodyfm) | N/A |
+| 30 | [#สวรรค์ประทานพร](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%b2%e0%b8%99%e0%b8%9e%e0%b8%a3) | N/A |
+| 31 | [#OnnyTomoxCharlotte](http://twitter.com/search?q=%23OnnyTomoxCharlotte) | N/A |
+| 32 | [#MerpclubxBounPrem](http://twitter.com/search?q=%23MerpclubxBounPrem) | N/A |
+| 33 | [#ไอจีล่ม](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 34 | [#ทริอาชTheSeries](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%ad%e0%b8%b2%e0%b8%8aTheSeries) | N/A |
+| 35 | [#รสดีซุปก้อนxเจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%8b%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99x%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
+| 36 | [#BBTSEP4](http://twitter.com/search?q=%23BBTSEP4) | N/A |
+| 37 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 38 | [#LoveMeAgain](http://twitter.com/search?q=%23LoveMeAgain) | N/A |
+| 39 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 40 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 41 | [#D3_to_ErrrDay](http://twitter.com/search?q=%23D3_to_ErrrDay) | N/A |
+| 42 | [#MVItsYouByZeeNuNew](http://twitter.com/search?q=%23MVItsYouByZeeNuNew) | N/A |
+| 43 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 44 | [#OhmNanonreadyforJP](http://twitter.com/search?q=%23OhmNanonreadyforJP) | N/A |
+| 45 | [#ddbodycreamxcharlotte](http://twitter.com/search?q=%23ddbodycreamxcharlotte) | N/A |
+| 46 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 47 | [#OscarsPartyxFirstKhaotung](http://twitter.com/search?q=%23OscarsPartyxFirstKhaotung) | N/A |
+| 48 | [#scbล่ม](http://twitter.com/search?q=%23scb%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 49 | [#TheMallSummerXDomundi](http://twitter.com/search?q=%23TheMallSummerXDomundi) | N/A |
+| 50 | [#GQandAxMilexDior](http://twitter.com/search?q=%23GQandAxMilexDior) | N/A |
 
 
 
