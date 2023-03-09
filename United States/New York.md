@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-09 00:30:19 UTC`
+📆 Last Updated: `2023-03-09 01:45:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 1 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
 | 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 3 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 4 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
-| 5 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 6 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 3 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 4 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
 | 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 10 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 11 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 15 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 16 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 17 | [#CountdownToTSTheErasTour](http://twitter.com/search?q=%23CountdownToTSTheErasTour) | N/A |
-| 18 | [Adrian Autry](http://twitter.com/search?q=Adrian+Autry) | N/A |
-| 19 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 8 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
+| 9 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 10 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 11 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
+| 12 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
+| 13 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 14 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 16 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 17 | [Michael Bolton](http://twitter.com/search?q=Michael+Bolton) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
 | 20 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 21 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
-| 22 | [Sean McNeil](http://twitter.com/search?q=Sean+McNeil) | N/A |
-| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 24 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 25 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 26 | [UNLV](http://twitter.com/search?q=UNLV) | UNLV stands for the University of Nevada, Las Vegas. It is a public research university located in Las Vegas, Nevada. |
-| 27 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 28 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 29 | [Start Giannis](http://twitter.com/search?q=Start+Giannis) | N/A |
-| 30 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 31 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 32 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 34 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 35 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
-| 36 | [Mike Hopkins](http://twitter.com/search?q=Mike+Hopkins) | N/A |
-| 37 | [Tyler Wahl](http://twitter.com/search?q=Tyler+Wahl) | N/A |
-| 38 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 39 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 40 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 41 | [B-52s](http://twitter.com/search?q=B-52s) | N/A |
-| 42 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 43 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 44 | [Chosen](http://twitter.com/search?q=Chosen) | N/A |
-| 45 | [David Jenkins](http://twitter.com/search?q=David+Jenkins) | N/A |
-| 46 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 47 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 48 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
-| 49 | [Schedule 1](http://twitter.com/search?q=Schedule+1) | N/A |
-| 50 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
+| 21 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 22 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 23 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 24 | [Jay Lethal](http://twitter.com/search?q=Jay+Lethal) | Jay Lethal is the ring name of an American professional wrestler, currently signed to Ring of Honor (ROH). His real name is Jamar Shipman. He is a former two-time ROH World Champion and a former six-time ROH World Television Champion. The name "Jay Lethal" is derived from his initials, JL. |
+| 25 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 26 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 27 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 28 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 30 | [Tyler Wahl](http://twitter.com/search?q=Tyler+Wahl) | N/A |
+| 31 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 33 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 34 | [B-52s](http://twitter.com/search?q=B-52s) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 37 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 38 | [Love Shack](http://twitter.com/search?q=Love+Shack) | N/A |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 41 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 42 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 43 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 44 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 45 | [Autry](http://twitter.com/search?q=Autry) | N/A |
+| 46 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 47 | [Chris Holtmann](http://twitter.com/search?q=Chris+Holtmann) | N/A |
+| 48 | [Sean McNeil](http://twitter.com/search?q=Sean+McNeil) | N/A |
+| 49 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
+| 50 | [Bert I. Gordon](http://twitter.com/search?q=Bert+I.+Gordon) | N/A |
 
 
 

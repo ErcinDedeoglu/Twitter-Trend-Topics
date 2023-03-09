@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-09 00:29:57 UTC`
+📆 Last Updated: `2023-03-09 01:45:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 2 | [#MH370](http://twitter.com/search?q=%23MH370) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 10 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 11 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 12 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 13 | [momota](http://twitter.com/search?q=momota) | N/A |
-| 14 | [perak](http://twitter.com/search?q=perak) | N/A |
-| 15 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 16 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [The Plane That Disappeared](http://twitter.com/search?q=The+Plane+That+Disappeared) | N/A |
-| 19 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 23 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 24 | [salam nisfu syaaban](http://twitter.com/search?q=salam+nisfu+syaaban) | N/A |
-| 25 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 26 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 27 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 32 | [MH17](http://twitter.com/search?q=MH17) | N/A |
-| 33 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 34 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 35 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 36 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 37 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 38 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 39 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 40 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
-| 41 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 42 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 43 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 44 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 45 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 46 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
-| 47 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
-| 48 | [European](http://twitter.com/search?q=European) | N/A |
-| 49 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 9 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 12 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 13 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 14 | [momota](http://twitter.com/search?q=momota) | N/A |
+| 15 | [perak](http://twitter.com/search?q=perak) | N/A |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
+| 18 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 19 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 20 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 23 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 24 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 26 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 27 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 28 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 29 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 30 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 31 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 32 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 33 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 34 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
+| 35 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 37 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 38 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 39 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
+| 40 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
+| 41 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [Sabah](http://twitter.com/search?q=Sabah) | N/A |
+| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 46 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 47 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 49 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 
 
 

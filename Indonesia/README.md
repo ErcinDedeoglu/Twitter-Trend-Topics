@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-09 00:30:26 UTC`
+📆 Last Updated: `2023-03-09 01:46:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,41 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
-| 3 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 4 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 5 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 6 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 8 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 9 | [Syariah Islam Kaffah](http://twitter.com/search?q=Syariah+Islam+Kaffah) | N/A |
-| 10 | [#BersamaDakwahkanIslam](http://twitter.com/search?q=%23BersamaDakwahkanIslam) | N/A |
-| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 12 | [Semangat Ngaji Berjama'ah](http://twitter.com/search?q=Semangat+Ngaji+Berjama%27ah) | N/A |
-| 13 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 1 | [#RamadandariHati](http://twitter.com/search?q=%23RamadandariHati) | N/A |
+| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 3 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 4 | [Syariah Islam Kaffah](http://twitter.com/search?q=Syariah+Islam+Kaffah) | N/A |
+| 5 | [#BersamaDakwahkanIslam](http://twitter.com/search?q=%23BersamaDakwahkanIslam) | N/A |
+| 6 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 7 | [#KemenkeuLumbungMaling](http://twitter.com/search?q=%23KemenkeuLumbungMaling) | N/A |
+| 8 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 9 | [Semangat Ngaji Berjama'ah](http://twitter.com/search?q=Semangat+Ngaji+Berjama%27ah) | N/A |
+| 10 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 21 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 23 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 24 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 25 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 26 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 27 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 28 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 29 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 30 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 31 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 32 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 33 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 34 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 35 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 36 | [tni ad di hati rakyat](http://twitter.com/search?q=tni+ad+di+hati+rakyat) | N/A |
-| 37 | [kevin from finance](http://twitter.com/search?q=kevin+from+finance) | N/A |
-| 38 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 39 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 40 | [Iqbaal](http://twitter.com/search?q=Iqbaal) | N/A |
-| 41 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 42 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 43 | [c55 nfc](http://twitter.com/search?q=c55+nfc) | N/A |
-| 44 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 45 | [Komunitas](http://twitter.com/search?q=Komunitas) | N/A |
-| 46 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 47 | [lagu jawa viral](http://twitter.com/search?q=lagu+jawa+viral) | N/A |
-| 48 | [Perhutani](http://twitter.com/search?q=Perhutani) | N/A |
-| 49 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 50 | [500 M](http://twitter.com/search?q=500+M) | N/A |
+| 15 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
+| 16 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 17 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 18 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
+| 19 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 20 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 21 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 22 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 25 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 26 | [#YOONGIMARRYME](http://twitter.com/search?q=%23YOONGIMARRYME) | N/A |
+| 27 | [#ForzaMilan](http://twitter.com/search?q=%23ForzaMilan) | N/A |
+| 28 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 29 | [#HitmakerMinPD](http://twitter.com/search?q=%23HitmakerMinPD) | N/A |
+| 30 | [#KingAndBossAgustD](http://twitter.com/search?q=%23KingAndBossAgustD) | N/A |
+| 31 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 32 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 33 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
+| 34 | [#따봉검은토끼_주학년_생일축하해](http://twitter.com/search?q=%23%eb%94%b0%eb%b4%89%ea%b2%80%ec%9d%80%ed%86%a0%eb%81%bc_%ec%a3%bc%ed%95%99%eb%85%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 35 | [#MY_HAPPY_SPRING_HAKNYEON](http://twitter.com/search?q=%23MY_HAPPY_SPRING_HAKNYEON) | N/A |
 
 
 

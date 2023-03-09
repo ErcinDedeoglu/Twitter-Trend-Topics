@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-09 00:29:37 UTC`
+📆 Last Updated: `2023-03-09 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 2 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
-| 3 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 4 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 5 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 6 | [Leiloca](http://twitter.com/search?q=Leiloca) | N/A |
-| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 8 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 9 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 10 | [Dia Internacional da Mulher](http://twitter.com/search?q=Dia+Internacional+da+Mulher) | N/A |
-| 11 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 12 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 13 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
-| 14 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 15 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 16 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 17 | [Mari Maria](http://twitter.com/search?q=Mari+Maria) | N/A |
+| 1 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 2 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 3 | [JOÃO VITOR](http://twitter.com/search?q=JO%c3%83O+VITOR) | N/A |
+| 4 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 5 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
+| 6 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 7 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 8 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 9 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 10 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 11 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 12 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
+| 13 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 14 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
+| 15 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 16 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 17 | [raffa moreira](http://twitter.com/search?q=raffa+moreira) | N/A |
 | 18 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 19 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 20 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 21 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
-| 22 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
-| 23 | [Paulo Nobre](http://twitter.com/search?q=Paulo+Nobre) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 25 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 26 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 27 | [Scream 6](http://twitter.com/search?q=Scream+6) | N/A |
-| 28 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 29 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
-| 30 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 31 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 32 | [Pastor](http://twitter.com/search?q=Pastor) | N/A |
-| 33 | [Palmeirense](http://twitter.com/search?q=Palmeirense) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 39 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
-| 40 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 41 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
-| 42 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 43 | [LOUD NO VALORANT INCLUSIVO](http://twitter.com/search?q=LOUD+NO+VALORANT+INCLUSIVO) | N/A |
-| 44 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 45 | [Camboriú](http://twitter.com/search?q=Cambori%c3%ba) | N/A |
-| 46 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 47 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 48 | [WELCOME TO BRAZIL COLDPLAY](http://twitter.com/search?q=WELCOME+TO+BRAZIL+COLDPLAY) | N/A |
-| 49 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 50 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
+| 19 | [#Scream6](http://twitter.com/search?q=%23Scream6) | N/A |
+| 20 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 21 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 22 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 23 | [Balieiro](http://twitter.com/search?q=Balieiro) | N/A |
+| 24 | [Ghostface](http://twitter.com/search?q=Ghostface) | Ghostface is a nickname given to the main antagonist in the horror movie franchise Scream. The name is derived from the character's white mask, which resembles a ghost. In English, it is used to refer to someone who wears a mask or disguise in order to conceal their identity. |
+| 25 | [Gale](http://twitter.com/search?q=Gale) | Gale is a strong wind, usually defined as having speeds between 39 and 54 mph (63 and 87 km/h). It is strong enough to cause trees to sway and small objects to be blown away. |
+| 26 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 27 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 28 | [Minas Gerais](http://twitter.com/search?q=Minas+Gerais) | N/A |
+| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 30 | [Dia da Mulher](http://twitter.com/search?q=Dia+da+Mulher) | N/A |
+| 31 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 32 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 33 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 34 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 35 | [Mari Maria](http://twitter.com/search?q=Mari+Maria) | N/A |
+| 36 | [Ganhei](http://twitter.com/search?q=Ganhei) | N/A |
+| 37 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 38 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
+| 39 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 40 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 41 | [Bruna Tavares](http://twitter.com/search?q=Bruna+Tavares) | N/A |
+| 42 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 43 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 44 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 45 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 46 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 47 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 48 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 49 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 50 | [MAIARA E MARAISA EM ALTO MAR](http://twitter.com/search?q=MAIARA+E+MARAISA+EM+ALTO+MAR) | N/A |
 
 
 

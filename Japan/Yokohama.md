@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-03-09 00:29:54 UTC`
+📆 Last Updated: `2023-03-09 01:45:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
-| 2 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 3 | [国会議員](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e8%ad%b0%e5%93%a1) | N/A |
+| 2 | [国会議員](http://twitter.com/search?q=%e5%9b%bd%e4%bc%9a%e8%ad%b0%e5%93%a1) | N/A |
+| 3 | [#裏グミの日](http://twitter.com/search?q=%23%e8%a3%8f%e3%82%b0%e3%83%9f%e3%81%ae%e6%97%a5) | N/A |
 | 4 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 5 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
 | 6 | [レミオロメン](http://twitter.com/search?q=%e3%83%ac%e3%83%9f%e3%82%aa%e3%83%ad%e3%83%a1%e3%83%b3) | N/A |
-| 7 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 8 | [#裏グミの日](http://twitter.com/search?q=%23%e8%a3%8f%e3%82%b0%e3%83%9f%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 10 | [藤巻さん](http://twitter.com/search?q=%e8%97%a4%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
-| 11 | [感謝の日](http://twitter.com/search?q=%e6%84%9f%e8%ac%9d%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
-| 13 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 14 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
-| 15 | [アクアハンブラビ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a2%e3%83%8f%e3%83%b3%e3%83%96%e3%83%a9%e3%83%93) | N/A |
-| 16 | [まぶたの裏](http://twitter.com/search?q=%e3%81%be%e3%81%b6%e3%81%9f%e3%81%ae%e8%a3%8f) | N/A |
-| 17 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 18 | [白龍爺ちゃん](http://twitter.com/search?q=%e7%99%bd%e9%be%8d%e7%88%ba%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 7 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 8 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 9 | [#ザクの日](http://twitter.com/search?q=%23%e3%82%b6%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
+| 10 | [ドジェジョン](http://twitter.com/search?q=%e3%83%89%e3%82%b8%e3%82%a7%e3%82%b8%e3%83%a7%e3%83%b3) | N/A |
+| 11 | [アクアハンブラビ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a2%e3%83%8f%e3%83%b3%e3%83%96%e3%83%a9%e3%83%93) | N/A |
+| 12 | [季節の真ん中](http://twitter.com/search?q=%e5%ad%a3%e7%af%80%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad) | N/A |
+| 13 | [ジブリパーク](http://twitter.com/search?q=%e3%82%b8%e3%83%96%e3%83%aa%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 14 | [まぶたの裏](http://twitter.com/search?q=%e3%81%be%e3%81%b6%e3%81%9f%e3%81%ae%e8%a3%8f) | N/A |
+| 15 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 16 | [藤巻さん](http://twitter.com/search?q=%e8%97%a4%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
+| 17 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
+| 18 | [JALのサイト](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
 | 19 | [日の長さ](http://twitter.com/search?q=%e6%97%a5%e3%81%ae%e9%95%b7%e3%81%95) | N/A |
-| 20 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [我妻さん](http://twitter.com/search?q=%e6%88%91%e5%a6%bb%e3%81%95%e3%82%93) | N/A |
-| 22 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
-| 23 | [ラジオ体操](http://twitter.com/search?q=%e3%83%a9%e3%82%b8%e3%82%aa%e4%bd%93%e6%93%8d) | N/A |
-| 24 | [ブタミントン](http://twitter.com/search?q=%e3%83%96%e3%82%bf%e3%83%9f%e3%83%b3%e3%83%88%e3%83%b3) | ブタミントン (Buta Minton) is a Japanese game similar to badminton. It is played with a shuttlecock and two rackets, and the goal is to hit the shuttlecock back and forth over a net. The English name for this game is "Piggy Badminton". |
-| 25 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [バーザム](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b6%e3%83%a0) | N/A |
-| 27 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
-| 28 | [仙波さん](http://twitter.com/search?q=%e4%bb%99%e6%b3%a2%e3%81%95%e3%82%93) | N/A |
-| 29 | [幸せと豊かさのエネルギー](http://twitter.com/search?q=%e5%b9%b8%e3%81%9b%e3%81%a8%e8%b1%8a%e3%81%8b%e3%81%95%e3%81%ae%e3%82%a8%e3%83%8d%e3%83%ab%e3%82%ae%e3%83%bc) | N/A |
-| 30 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 31 | [魚津水族館](http://twitter.com/search?q=%e9%ad%9a%e6%b4%a5%e6%b0%b4%e6%97%8f%e9%a4%a8) | N/A |
-| 32 | [ニャブリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%96%e3%83%aa) | N/A |
-| 33 | [ジブリパーク](http://twitter.com/search?q=%e3%82%b8%e3%83%96%e3%83%aa%e3%83%91%e3%83%bc%e3%82%af) | N/A |
-| 34 | [御園さん](http://twitter.com/search?q=%e5%be%a1%e5%9c%92%e3%81%95%e3%82%93) | N/A |
-| 35 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
-| 36 | [ジョイササイズ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%a4%e3%82%b5%e3%82%b5%e3%82%a4%e3%82%ba) | N/A |
-| 37 | [デリフト](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%83%95%e3%83%88) | N/A |
-| 38 | [男女のこんねく](http://twitter.com/search?q=%e7%94%b7%e5%a5%b3%e3%81%ae%e3%81%93%e3%82%93%e3%81%ad%e3%81%8f) | N/A |
-| 39 | [WOWOW解約](http://twitter.com/search?q=WOWOW%e8%a7%a3%e7%b4%84) | N/A |
-| 40 | [メニャン](http://twitter.com/search?q=%e3%83%a1%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
-| 41 | [共用トイレ](http://twitter.com/search?q=%e5%85%b1%e7%94%a8%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
-| 42 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
-| 43 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
-| 44 | [ミクさん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%95%e3%82%93) | N/A |
-| 45 | [エンバペ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%90%e3%83%9a) | N/A |
-| 46 | [ミュラー](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%a9%e3%83%bc) | N/A |
-| 47 | [WBC初戦](http://twitter.com/search?q=WBC%e5%88%9d%e6%88%a6) | N/A |
-| 48 | [あづきちゃま](http://twitter.com/search?q=%e3%81%82%e3%81%a5%e3%81%8d%e3%81%a1%e3%82%83%e3%81%be) | N/A |
-| 49 | [ベスト8](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%888) | N/A |
+| 20 | [白龍爺ちゃん](http://twitter.com/search?q=%e7%99%bd%e9%be%8d%e7%88%ba%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [NiziU](http://twitter.com/search?q=NiziU) | N/A |
+| 22 | [安倍官邸の圧力](http://twitter.com/search?q=%e5%ae%89%e5%80%8d%e5%ae%98%e9%82%b8%e3%81%ae%e5%9c%a7%e5%8a%9b) | N/A |
+| 23 | [バーザム](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b6%e3%83%a0) | N/A |
+| 24 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 25 | [ウエスP](http://twitter.com/search?q=%e3%82%a6%e3%82%a8%e3%82%b9P) | N/A |
+| 26 | [魚津水族館](http://twitter.com/search?q=%e9%ad%9a%e6%b4%a5%e6%b0%b4%e6%97%8f%e9%a4%a8) | N/A |
+| 27 | [昭和生まれ](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e7%94%9f%e3%81%be%e3%82%8c) | N/A |
+| 28 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
+| 29 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [ブタミントン](http://twitter.com/search?q=%e3%83%96%e3%82%bf%e3%83%9f%e3%83%b3%e3%83%88%e3%83%b3) | ブタミントン (Buta Minton) is a Japanese game similar to badminton. It is played with a shuttlecock and two rackets, and the goal is to hit the shuttlecock back and forth over a net. The English name for this game is "Piggy Badminton". |
+| 31 | [WOWOW解約](http://twitter.com/search?q=WOWOW%e8%a7%a3%e7%b4%84) | N/A |
+| 32 | [ムーコちゃん](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [幸せと豊かさのエネルギー](http://twitter.com/search?q=%e5%b9%b8%e3%81%9b%e3%81%a8%e8%b1%8a%e3%81%8b%e3%81%95%e3%81%ae%e3%82%a8%e3%83%8d%e3%83%ab%e3%82%ae%e3%83%bc) | N/A |
+| 34 | [我妻さん](http://twitter.com/search?q=%e6%88%91%e5%a6%bb%e3%81%95%e3%82%93) | N/A |
+| 35 | [アンブッシュ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%96%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 36 | [ラジオ体操](http://twitter.com/search?q=%e3%83%a9%e3%82%b8%e3%82%aa%e4%bd%93%e6%93%8d) | N/A |
+| 37 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 38 | [仙波さん](http://twitter.com/search?q=%e4%bb%99%e6%b3%a2%e3%81%95%e3%82%93) | N/A |
+| 39 | [グッズの名前](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
+| 40 | [ミクちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | ミクちゃん is an affectionate nickname for the Vocaloid character Hatsune Miku. In English, it translates to "Miku-chan". |
+| 41 | [ノーコメント](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88) | N/A |
+| 42 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 43 | [第412回](http://twitter.com/search?q=%e7%ac%ac412%e5%9b%9e) | N/A |
+| 44 | [第35話](http://twitter.com/search?q=%e7%ac%ac35%e8%a9%b1) | N/A |
+| 45 | [大学病院の副院長](http://twitter.com/search?q=%e5%a4%a7%e5%ad%a6%e7%97%85%e9%99%a2%e3%81%ae%e5%89%af%e9%99%a2%e9%95%b7) | N/A |
+| 46 | [グミ大好き](http://twitter.com/search?q=%e3%82%b0%e3%83%9f%e5%a4%a7%e5%a5%bd%e3%81%8d) | N/A |
+| 47 | [コロナ医療](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%8a%e5%8c%bb%e7%99%82) | N/A |
+| 48 | [WBC初戦](http://twitter.com/search?q=WBC%e5%88%9d%e6%88%a6) | N/A |
+| 49 | [共用トイレ](http://twitter.com/search?q=%e5%85%b1%e7%94%a8%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
 
 
 

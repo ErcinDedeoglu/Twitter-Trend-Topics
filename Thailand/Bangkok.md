@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-09 00:29:59 UTC`
+📆 Last Updated: `2023-03-09 01:45:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Welcome7DREAMtoThailand](http://twitter.com/search?q=%23Welcome7DREAMtoThailand) | N/A |
-| 2 | [#TENxWoodyFM](http://twitter.com/search?q=%23TENxWoodyFM) | N/A |
+| 2 | [#9แสนฟอลตัวพ่อซีพฤกษ์](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
 | 3 | [BAMBAM GM 09MARCH](http://twitter.com/search?q=BAMBAM+GM+09MARCH) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [#MVItsYouByZeeNuNew](http://twitter.com/search?q=%23MVItsYouByZeeNuNew) | N/A |
-| 6 | [#รสดีซุปก้อนxเจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%8b%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99x%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
-| 7 | [TALK WITH TENLEE](http://twitter.com/search?q=TALK+WITH+TENLEE) | N/A |
-| 8 | [9 Morning Dunk](http://twitter.com/search?q=9+Morning+Dunk) | N/A |
-| 9 | [pp krit coca cola](http://twitter.com/search?q=pp+krit+coca+cola) | N/A |
-| 10 | [nene 1st ep album](http://twitter.com/search?q=nene+1st+ep+album) | N/A |
+| 4 | [#TENxWoodyFM](http://twitter.com/search?q=%23TENxWoodyFM) | N/A |
+| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 6 | [#MVItsYouByZeeNuNew](http://twitter.com/search?q=%23MVItsYouByZeeNuNew) | N/A |
+| 7 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 8 | [300k With Fourth](http://twitter.com/search?q=300k+With+Fourth) | N/A |
+| 9 | [TALK WITH TENLEE](http://twitter.com/search?q=TALK+WITH+TENLEE) | N/A |
+| 10 | [JOYFUL DAY09 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY09+TO+ENGFA) | N/A |
 | 11 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 12 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 13 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 14 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 15 | [joyful day08 to engfa](http://twitter.com/search?q=joyful+day08+to+engfa) | N/A |
-| 16 | [MY BODY IS CALLING](http://twitter.com/search?q=MY+BODY+IS+CALLING) | N/A |
-| 17 | [jam x film](http://twitter.com/search?q=jam+x+film) | N/A |
-| 18 | [Reaction Triage EP1](http://twitter.com/search?q=Reaction+Triage+EP1) | N/A |
-| 19 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 20 | [Morning JoongDunk](http://twitter.com/search?q=Morning+JoongDunk) | N/A |
-| 21 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 22 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
-| 23 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
-| 24 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
-| 25 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
-| 26 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 27 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 28 | [#ddbodycreamxcharlotte](http://twitter.com/search?q=%23ddbodycreamxcharlotte) | N/A |
-| 29 | [#rojukissnewpresenter](http://twitter.com/search?q=%23rojukissnewpresenter) | N/A |
-| 30 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 31 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
-| 32 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 33 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
-| 34 | [#ทริอาชTheSeries](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%ad%e0%b8%b2%e0%b8%8aTheSeries) | N/A |
-| 35 | [#เช้านี้สดใสไปกับมิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%aa%e0%b8%94%e0%b9%83%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b4%e0%b8%a7) | N/A |
-| 36 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
-| 37 | [#thankscoke](http://twitter.com/search?q=%23thankscoke) | N/A |
-| 38 | [#AOMGWORLDTOUR2023inMadrid](http://twitter.com/search?q=%23AOMGWORLDTOUR2023inMadrid) | N/A |
-| 39 | [#โค้กไม่มีน้ําตาล](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%84%e0%b9%89%e0%b8%81%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%a5) | N/A |
-| 40 | [#PressConค่อยๆรัก](http://twitter.com/search?q=%23PressCon%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b9%86%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 41 | [#สวรรค์ประทานพร](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%b2%e0%b8%99%e0%b8%9e%e0%b8%a3) | N/A |
-| 42 | [#neneepgentleonmymind](http://twitter.com/search?q=%23neneepgentleonmymind) | N/A |
-| 43 | [#MileApoxBazaarHK](http://twitter.com/search?q=%23MileApoxBazaarHK) | N/A |
-| 44 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 45 | [#VERSACExJEFFSATUR_D1](http://twitter.com/search?q=%23VERSACExJEFFSATUR_D1) | N/A |
-| 46 | [#ไพลอตทูเวิร์ลเดย์3](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9e%e0%b8%a5%e0%b8%ad%e0%b8%95%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%a5%e0%b9%80%e0%b8%94%e0%b8%a2%e0%b9%8c3) | N/A |
-| 47 | [#หยดน้ําตา4eve_teaser](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b24eve_teaser) | N/A |
-| 48 | [#ทัชมายบอดี้](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%9a%e0%b8%ad%e0%b8%94%e0%b8%b5%e0%b9%89) | N/A |
-| 49 | [#เข้ามาทัชหน่อย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%b1%e0%b8%8a%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
-| 50 | [#หุ่นพยนต์](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
+| 12 | [9 Morning Dunk](http://twitter.com/search?q=9+Morning+Dunk) | N/A |
+| 13 | [MARCH09 HAS CHARLOTTE](http://twitter.com/search?q=MARCH09+HAS+CHARLOTTE) | N/A |
+| 14 | [9MAR JOONG MORNING](http://twitter.com/search?q=9MAR+JOONG+MORNING) | N/A |
+| 15 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 16 | [MORNING 09 NNINE](http://twitter.com/search?q=MORNING+09+NNINE) | N/A |
+| 17 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 18 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 19 | [PP KRIT Coca Cola](http://twitter.com/search?q=PP+KRIT+Coca+Cola) | N/A |
+| 20 | [Nene 1st EP Album](http://twitter.com/search?q=Nene+1st+EP+Album) | N/A |
+| 21 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 22 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 23 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
+| 24 | [MY BODY IS CALLING](http://twitter.com/search?q=MY+BODY+IS+CALLING) | N/A |
+| 25 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
+| 26 | [Morning JoongDunk](http://twitter.com/search?q=Morning+JoongDunk) | N/A |
+| 27 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 28 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 29 | [jam x film](http://twitter.com/search?q=jam+x+film) | N/A |
+| 30 | [reaction triage ep1](http://twitter.com/search?q=reaction+triage+ep1) | N/A |
+| 31 | [W.Wanarat](http://twitter.com/search?q=W.Wanarat) | N/A |
+| 32 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 33 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 34 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
+| 35 | [Have a Nanon](http://twitter.com/search?q=Have+a+Nanon) | N/A |
+| 36 | [MORNING OHM](http://twitter.com/search?q=MORNING+OHM) | N/A |
+| 37 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 38 | [#โฟร์ทแอคใหญ่300K](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b9%81%e0%b8%ad%e0%b8%84%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88300K) | N/A |
+| 39 | [#TopBiutifulXJamPlanet](http://twitter.com/search?q=%23TopBiutifulXJamPlanet) | N/A |
+| 40 | [#สองแสนฟอลรอจีบออฟโรด](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b9%82%e0%b8%a3%e0%b8%94) | N/A |
+| 41 | [#NiceDayToMG](http://twitter.com/search?q=%23NiceDayToMG) | N/A |
+| 42 | [#DDBodyCreamxCharlotte](http://twitter.com/search?q=%23DDBodyCreamxCharlotte) | N/A |
+| 43 | [#รสดีซุปก้อนxเจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%8b%e0%b8%b8%e0%b8%9b%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99x%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
+| 44 | [#เช้านี้สดใสไปกับมิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%aa%e0%b8%94%e0%b9%83%e0%b8%aa%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b4%e0%b8%a7) | N/A |
+| 45 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 46 | [#TimelessTaeyeonDay](http://twitter.com/search?q=%23TimelessTaeyeonDay) | N/A |
+| 47 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
+| 48 | [#HaveAPremDay2023](http://twitter.com/search?q=%23HaveAPremDay2023) | N/A |
+| 49 | [#ทริอาชTheSeries](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%ad%e0%b8%b2%e0%b8%8aTheSeries) | N/A |
+| 50 | [#THEDREAMSHOW2_in_BKK](http://twitter.com/search?q=%23THEDREAMSHOW2_in_BKK) | N/A |
 
 
 
