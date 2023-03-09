@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-09 20:17:21 UTC`
+📆 Last Updated: `2023-03-09 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
 | 2 | [#HELLO_Tour_KualaLumpur](http://twitter.com/search?q=%23HELLO_Tour_KualaLumpur) | N/A |
-| 3 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 5 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 6 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 7 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 8 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 7 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 8 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 9 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 11 | [MACC](http://twitter.com/search?q=MACC) | N/A |
 | 12 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 | 13 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
@@ -34,36 +34,36 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 17 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
 | 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 19 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 20 | [yedam](http://twitter.com/search?q=yedam) | N/A |
-| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 22 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
-| 23 | [SPRM](http://twitter.com/search?q=SPRM) | N/A |
-| 24 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 21 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 22 | [sprm](http://twitter.com/search?q=sprm) | N/A |
+| 23 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 24 | [yedam](http://twitter.com/search?q=yedam) | N/A |
 | 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 26 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 31 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 32 | [ramasamy](http://twitter.com/search?q=ramasamy) | N/A |
-| 33 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 35 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 32 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 33 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 34 | [ramasamy](http://twitter.com/search?q=ramasamy) | N/A |
+| 35 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
 | 36 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 37 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 38 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 39 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 40 | [Jana Wibawa](http://twitter.com/search?q=Jana+Wibawa) | N/A |
+| 37 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 38 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 39 | [jana wibawa](http://twitter.com/search?q=jana+wibawa) | N/A |
+| 40 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
 | 41 | [Abah](http://twitter.com/search?q=Abah) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Chinese and Indians](http://twitter.com/search?q=Chinese+and+Indians) | N/A |
-| 44 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 45 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 46 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 47 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 48 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 49 | [Perak](http://twitter.com/search?q=Perak) | N/A |
+| 42 | [Jeff Wise](http://twitter.com/search?q=Jeff+Wise) | N/A |
+| 43 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 44 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 45 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 46 | [Perak](http://twitter.com/search?q=Perak) | N/A |
+| 47 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 
 
 

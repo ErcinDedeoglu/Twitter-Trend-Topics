@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-09 20:17:52 UTC`
+📆 Last Updated: `2023-03-09 21:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Canada
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 6 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 7 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 8 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 9 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 10 | [#StrengthInTheNorth](http://twitter.com/search?q=%23StrengthInTheNorth) | N/A |
+| 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
 | 11 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 12 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 13 | [Hemsky](http://twitter.com/search?q=Hemsky) | N/A |
-| 14 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 15 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 16 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 17 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 13 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 14 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 15 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 16 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 17 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
 | 18 | [every woman counts](http://twitter.com/search?q=every+woman+counts) | N/A |
-| 19 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 20 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 21 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 23 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 24 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 29 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 30 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 33 | [Joly](http://twitter.com/search?q=Joly) | N/A |
-| 34 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 35 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 36 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
-| 37 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 38 | [BONNE JOURNéE](http://twitter.com/search?q=BONNE+JOURN%c3%a9E) | N/A |
-| 39 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 40 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 41 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 42 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
-| 43 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 44 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 45 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 46 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 47 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 48 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 49 | [Brian Lilley](http://twitter.com/search?q=Brian+Lilley) | N/A |
-| 50 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 19 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 20 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 21 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 22 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 23 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 24 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 25 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 26 | [Michael Cooper](http://twitter.com/search?q=Michael+Cooper) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 29 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 30 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 31 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
+| 32 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 33 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 34 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 35 | [Singh](http://twitter.com/search?q=Singh) | N/A |
+| 36 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 37 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 38 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 39 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 40 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 41 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 43 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 44 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 45 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 46 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 47 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 48 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 49 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 50 | [Tim Hortons](http://twitter.com/search?q=Tim+Hortons) | N/A |
 
 
 

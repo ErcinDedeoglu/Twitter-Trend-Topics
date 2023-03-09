@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-09 20:17:52 UTC`
+📆 Last Updated: `2023-03-09 21:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Chile
 | 4 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
 | 5 | [TE CAGASTE A CHILE](http://twitter.com/search?q=TE+CAGASTE+A+CHILE) | N/A |
 | 6 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 7 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 8 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 7 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 8 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
 | 9 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 10 | [#GobiernoTerminado](http://twitter.com/search?q=%23GobiernoTerminado) | N/A |
 | 11 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 12 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 13 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
-| 14 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 13 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 14 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
 | 15 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
 | 16 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
 | 17 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
 | 18 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 19 | [Luz Natural](http://twitter.com/search?q=Luz+Natural) | N/A |
-| 20 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 21 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
-| 22 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 23 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 24 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
-| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 27 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 28 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 19 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 21 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 22 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
+| 23 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 24 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
+| 25 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 26 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 27 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 28 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
 | 29 | [Elena Caffarena](http://twitter.com/search?q=Elena+Caffarena) | N/A |
-| 30 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 31 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
-| 32 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 33 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
-| 34 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 35 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [Rata](http://twitter.com/search?q=Rata) | N/A |
-| 38 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [Legislar](http://twitter.com/search?q=Legislar) | N/A |
-| 41 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
-| 42 | [Feliz 8m](http://twitter.com/search?q=Feliz+8m) | N/A |
-| 43 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 44 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
-| 45 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 46 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
-| 47 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 48 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 49 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 50 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 30 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 31 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 32 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
+| 33 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
+| 34 | [Legislar](http://twitter.com/search?q=Legislar) | N/A |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
+| 38 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 39 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
+| 40 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
+| 41 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 42 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
+| 43 | [Rata](http://twitter.com/search?q=Rata) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
+| 46 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
+| 47 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 48 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
+| 49 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 50 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 
 
 

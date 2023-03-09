@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-09 20:18:00 UTC`
+📆 Last Updated: `2023-03-09 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bakanlıkuyumaikmyesahipçik](http://twitter.com/search?q=%23bakanl%c4%b1kuyumaikmyesahip%c3%a7ik) | N/A |
+| 1 | [Muharremİnce SeçimŞarkısı](http://twitter.com/search?q=Muharrem%c4%b0nce+Se%c3%a7im%c5%9eark%c4%b1s%c4%b1) | N/A |
 | 2 | [#BirleşeBirleşeBaşaracağız](http://twitter.com/search?q=%23Birle%c5%9feBirle%c5%9feBa%c5%9faraca%c4%9f%c4%b1z) | N/A |
-| 3 | [Muharremİnce SeçimŞarkısı](http://twitter.com/search?q=Muharrem%c4%b0nce+Se%c3%a7im%c5%9eark%c4%b1s%c4%b1) | N/A |
-| 4 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 3 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
+| 4 | [#TekGündemDeprem](http://twitter.com/search?q=%23TekG%c3%bcndemDeprem) | N/A |
 | 5 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
-| 6 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
-| 7 | [#TekGündemDeprem](http://twitter.com/search?q=%23TekG%c3%bcndemDeprem) | N/A |
-| 8 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
-| 9 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 10 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
-| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 12 | [Sahte](http://twitter.com/search?q=Sahte) | N/A |
+| 6 | [#bakanlıkuyumaikmyesahipçik](http://twitter.com/search?q=%23bakanl%c4%b1kuyumaikmyesahip%c3%a7ik) | N/A |
+| 7 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 8 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
+| 9 | [Bursaspor'a 9](http://twitter.com/search?q=Bursaspor%27a+9) | N/A |
+| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 11 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 12 | [Zeki Yavru](http://twitter.com/search?q=Zeki+Yavru) | N/A |
 | 13 | [Temettü](http://twitter.com/search?q=Temett%c3%bc) | N/A |
-| 14 | [Zeki Yavru](http://twitter.com/search?q=Zeki+Yavru) | N/A |
-| 15 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
-| 16 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
-| 17 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 18 | [İrfan Can](http://twitter.com/search?q=%c4%b0rfan+Can) | İrfan Can is a Turkish given name. It is composed of two words: İrfan, which means "knowledge" or "erudition," and Can, which means "soul" or "spirit." In English, the name could be translated as "Knowledgeable Soul." |
-| 19 | [Cezaevinden SesKaydı](http://twitter.com/search?q=Cezaevinden+SesKayd%c4%b1) | N/A |
-| 20 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
-| 21 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 22 | [İlk 11](http://twitter.com/search?q=%c4%b0lk+11) | N/A |
-| 23 | [Haymana](http://twitter.com/search?q=Haymana) | N/A |
-| 24 | [Acil Yardım](http://twitter.com/search?q=Acil+Yard%c4%b1m) | N/A |
-| 25 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 26 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 27 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
-| 28 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 29 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
-| 30 | [Ödül](http://twitter.com/search?q=%c3%96d%c3%bcl) | N/A |
-| 31 | [SnYanık1000Dyt](http://twitter.com/search?q=SnYan%c4%b1k1000Dyt) | N/A |
-| 32 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 33 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
-| 34 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 35 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 36 | [Oosterwolde](http://twitter.com/search?q=Oosterwolde) | N/A |
-| 37 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
-| 38 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
-| 39 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 40 | [#BursasporSahipsizDeğildir](http://twitter.com/search?q=%23BursasporSahipsizDe%c4%9fildir) | N/A |
-| 41 | [#SVLvFB](http://twitter.com/search?q=%23SVLvFB) | N/A |
-| 42 | [#tümsınavlarertelensin](http://twitter.com/search?q=%23t%c3%bcms%c4%b1navlarertelensin) | N/A |
-| 43 | [#fenerbahcesevilla](http://twitter.com/search?q=%23fenerbahcesevilla) | N/A |
-| 44 | [#GelsinHayatBildiğiGibi](http://twitter.com/search?q=%23GelsinHayatBildi%c4%9fiGibi) | N/A |
-| 45 | [#AstsubaylarBekliyor](http://twitter.com/search?q=%23AstsubaylarBekliyor) | N/A |
-| 46 | [#TorbadanKamuMuhendisine](http://twitter.com/search?q=%23TorbadanKamuMuhendisine) | N/A |
-| 47 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 48 | [#ParmakBoyasıGeriGelsin](http://twitter.com/search?q=%23ParmakBoyas%c4%b1GeriGelsin) | N/A |
-| 49 | [#hemensimdiuniversite](http://twitter.com/search?q=%23hemensimdiuniversite) | N/A |
-| 50 | [#isiasyarımkalanhayatlar](http://twitter.com/search?q=%23isiasyar%c4%b1mkalanhayatlar) | N/A |
+| 14 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
+| 15 | [Sahte](http://twitter.com/search?q=Sahte) | N/A |
+| 16 | [İrfan Can](http://twitter.com/search?q=%c4%b0rfan+Can) | İrfan Can is a Turkish given name. It is composed of two words: İrfan, which means "knowledge" or "erudition," and Can, which means "soul" or "spirit." In English, the name could be translated as "Knowledgeable Soul." |
+| 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 18 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 19 | [İlk 11](http://twitter.com/search?q=%c4%b0lk+11) | N/A |
+| 20 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
+| 21 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
+| 22 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
+| 23 | [Başarılar Fenerbahçe](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Fenerbah%c3%a7e) | N/A |
+| 24 | [Cezaevinden SesKaydı](http://twitter.com/search?q=Cezaevinden+SesKayd%c4%b1) | N/A |
+| 25 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 26 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 27 | [İYİ Kİ ERDOĞAN VAR](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+ERDO%c4%9eAN+VAR) | N/A |
+| 28 | [Haymana](http://twitter.com/search?q=Haymana) | N/A |
+| 29 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
+| 30 | [Acil Yardım](http://twitter.com/search?q=Acil+Yard%c4%b1m) | N/A |
+| 31 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 32 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 33 | [SnYanık1000Dyt](http://twitter.com/search?q=SnYan%c4%b1k1000Dyt) | N/A |
+| 34 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
+| 35 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 36 | [Oyak](http://twitter.com/search?q=Oyak) | N/A |
+| 37 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 38 | [Haydi Fenerbahçe](http://twitter.com/search?q=Haydi+Fenerbah%c3%a7e) | N/A |
+| 39 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
+| 40 | [İspanya](http://twitter.com/search?q=%c4%b0spanya) | N/A |
+| 41 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 42 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
+| 43 | [Mühürsüz](http://twitter.com/search?q=M%c3%bch%c3%bcrs%c3%bcz) | N/A |
+| 44 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 45 | [Yaprak](http://twitter.com/search?q=Yaprak) | N/A |
+| 46 | [Yoldaş](http://twitter.com/search?q=Yolda%c5%9f) | N/A |
+| 47 | [Suzan Şahin](http://twitter.com/search?q=Suzan+%c5%9eahin) | N/A |
+| 48 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 49 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 50 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
 
 
 
