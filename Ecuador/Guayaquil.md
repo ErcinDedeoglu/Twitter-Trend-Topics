@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-09 05:16:02 UTC`
+📆 Last Updated: `2023-03-09 06:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 12 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
 | 13 | [Lilax](http://twitter.com/search?q=Lilax) | N/A |
-| 14 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
-| 15 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 15 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
 | 16 | [QUÉ TAN MAÑOSO ERES](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES) | N/A |
 | 17 | [Caldo de 31](http://twitter.com/search?q=Caldo+de+31) | N/A |
 | 18 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 | 19 | [El 8](http://twitter.com/search?q=El+8) | N/A |
 | 20 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 21 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 21 | [7-Tripa Mishqui](http://twitter.com/search?q=7-Tripa+Mishqui) | N/A |
 | 22 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 23 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
-| 24 | [3-Bagre](http://twitter.com/search?q=3-Bagre) | N/A |
-| 25 | [Sorbetto](http://twitter.com/search?q=Sorbetto) | N/A |
-| 26 | [7-Tripa Mishqui](http://twitter.com/search?q=7-Tripa+Mishqui) | N/A |
-| 27 | [12-Caldo](http://twitter.com/search?q=12-Caldo) | N/A |
+| 24 | [Sorbetto](http://twitter.com/search?q=Sorbetto) | N/A |
+| 25 | [14-Encebollado](http://twitter.com/search?q=14-Encebollado) | N/A |
+| 26 | [3-Bagre](http://twitter.com/search?q=3-Bagre) | N/A |
+| 27 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
 | 28 | [alexander alvarado](http://twitter.com/search?q=alexander+alvarado) | N/A |
 | 29 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 30 | [Daule](http://twitter.com/search?q=Daule) | N/A |
-| 31 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
-| 32 | [5-Chontacuro](http://twitter.com/search?q=5-Chontacuro) | N/A |
-| 33 | [14-Encebollado](http://twitter.com/search?q=14-Encebollado) | N/A |
-| 34 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
-| 35 | [15-Cuy](http://twitter.com/search?q=15-Cuy) | N/A |
-| 36 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
-| 37 | [9-Repe](http://twitter.com/search?q=9-Repe) | N/A |
-| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 39 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
+| 31 | [5-Chontacuro](http://twitter.com/search?q=5-Chontacuro) | N/A |
+| 32 | [9-Repe](http://twitter.com/search?q=9-Repe) | N/A |
+| 33 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
+| 34 | [15-Cuy](http://twitter.com/search?q=15-Cuy) | N/A |
+| 35 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
+| 36 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
+| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 38 | [8-Tapao](http://twitter.com/search?q=8-Tapao) | N/A |
+| 39 | [10-Cangrejos](http://twitter.com/search?q=10-Cangrejos) | N/A |
 | 40 | [1-Guatita](http://twitter.com/search?q=1-Guatita) | N/A |
-| 41 | [10-Cangrejos](http://twitter.com/search?q=10-Cangrejos) | N/A |
-| 42 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 43 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 44 | [8-Tapao](http://twitter.com/search?q=8-Tapao) | N/A |
-| 45 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 46 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
-| 47 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 48 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 49 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 50 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
+| 41 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 42 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 43 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 44 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 45 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 46 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 48 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 49 | [Arosemena](http://twitter.com/search?q=Arosemena) | N/A |
+| 50 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 
 
 

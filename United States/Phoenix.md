@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-09 05:16:40 UTC`
+📆 Last Updated: `2023-03-09 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Suns](http://twitter.com/search?q=%23Suns) | N/A |
-| 2 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
-| 3 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 1 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 2 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 3 | [#Suns](http://twitter.com/search?q=%23Suns) | N/A |
 | 4 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
 | 5 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [United States](</United States>)
 | 11 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
 | 12 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
 | 13 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 14 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 15 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 16 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 17 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 18 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 19 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 20 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 21 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 22 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 24 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 25 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 26 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 28 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 29 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 30 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 31 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 15 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 17 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 21 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 24 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 25 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 26 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 27 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 28 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 29 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 30 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
 | 32 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 33 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 34 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 35 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 36 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 37 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 38 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 39 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 40 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 41 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 35 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 36 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 37 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 38 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 39 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 40 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 41 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
 | 42 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 43 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 44 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 45 | [Deon](http://twitter.com/search?q=Deon) | N/A |
-| 46 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 47 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 48 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 43 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 44 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 45 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 46 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 47 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 49 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 50 | [Tanner Groves](http://twitter.com/search?q=Tanner+Groves) | N/A |
+| 50 | [Deon](http://twitter.com/search?q=Deon) | N/A |
 
 
 

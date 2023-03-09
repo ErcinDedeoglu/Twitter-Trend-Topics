@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-09 05:16:34 UTC`
+📆 Last Updated: `2023-03-09 06:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [United States](</United States>)
 | 10 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
 | 11 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
 | 12 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 13 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 14 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 16 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 17 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 18 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 19 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 21 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 23 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 24 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 25 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 26 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 27 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 29 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 30 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 31 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 32 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 33 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 34 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 35 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 36 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 37 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 38 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 39 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 40 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 42 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 43 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 44 | [Deon](http://twitter.com/search?q=Deon) | N/A |
-| 45 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 46 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 47 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 48 | [Tanner Groves](http://twitter.com/search?q=Tanner+Groves) | N/A |
-| 49 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 50 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 13 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 14 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 15 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 16 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 17 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 18 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 19 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 20 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 21 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 22 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 23 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 24 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 25 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 26 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 27 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 28 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 29 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 30 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 31 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 32 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 33 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 34 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 35 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 36 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 37 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 38 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 39 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 40 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 41 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 42 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 43 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 44 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 45 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 46 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 48 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 49 | [Deon](http://twitter.com/search?q=Deon) | N/A |
+| 50 | [Tanner Groves](http://twitter.com/search?q=Tanner+Groves) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-09 05:16:04 UTC`
+📆 Last Updated: `2023-03-09 06:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,30 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 2 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
-| 3 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
-| 4 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 5 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 6 | [Matheus Ferraz](http://twitter.com/search?q=Matheus+Ferraz) | N/A |
-| 7 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 8 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 9 | [FLUMINENSE FOOTBALL CLUB](http://twitter.com/search?q=FLUMINENSE+FOOTBALL+CLUB) | N/A |
-| 10 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 11 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
-| 12 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 13 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 14 | [O Botafogo](http://twitter.com/search?q=O+Botafogo) | N/A |
-| 15 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 16 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 17 | [TUDO NORMAL](http://twitter.com/search?q=TUDO+NORMAL) | N/A |
-| 18 | [BURRO](http://twitter.com/search?q=BURRO) | N/A |
+| 2 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
+| 3 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 4 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 5 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 6 | [FLUMINENSE FOOTBALL CLUB](http://twitter.com/search?q=FLUMINENSE+FOOTBALL+CLUB) | N/A |
+| 7 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
+| 8 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 9 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
+| 10 | [TUDO NORMAL](http://twitter.com/search?q=TUDO+NORMAL) | N/A |
+| 11 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 12 | [BURRO](http://twitter.com/search?q=BURRO) | N/A |
+| 13 | [Matheus Ferraz](http://twitter.com/search?q=Matheus+Ferraz) | N/A |
+| 14 | [o botafogo](http://twitter.com/search?q=o+botafogo) | N/A |
+| 15 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 16 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 17 | [Domenec](http://twitter.com/search?q=Domenec) | N/A |
+| 18 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
 | 19 | [VAI SE FUDER](http://twitter.com/search?q=VAI+SE+FUDER) | N/A |
-| 20 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
-| 21 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
-| 22 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 23 | [Domenec](http://twitter.com/search?q=Domenec) | N/A |
-| 24 | [FIQUEI PIRANHA](http://twitter.com/search?q=FIQUEI+PIRANHA) | N/A |
-| 25 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 20 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 21 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 22 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
+| 23 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 24 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 25 | [Tricolor](http://twitter.com/search?q=Tricolor) | N/A |
 | 26 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 27 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 28 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
@@ -55,16 +55,16 @@ This is top 50 for [Brazil](</Brazil>)
 | 38 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
 | 39 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
 | 40 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 41 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
-| 42 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 43 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 41 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 42 | [Matheusão](http://twitter.com/search?q=Matheus%c3%a3o) | Matheusão is a nickname given to the Brazilian footballer Matheus Henrique. It is derived from his first name and is used as an affectionate term of endearment. In English, it could be translated as "Matheus-dear". |
+| 43 | [Poze](http://twitter.com/search?q=Poze) | N/A |
 | 44 | [Landim](http://twitter.com/search?q=Landim) | N/A |
 | 45 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
-| 46 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 47 | [#ForaVP](http://twitter.com/search?q=%23ForaVP) | N/A |
+| 46 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 47 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
 | 48 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 49 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 50 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 49 | [#foravp](http://twitter.com/search?q=%23foravp) | N/A |
+| 50 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
 
 
 

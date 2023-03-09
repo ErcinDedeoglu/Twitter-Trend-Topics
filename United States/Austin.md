@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-09 05:16:34 UTC`
+📆 Last Updated: `2023-03-09 06:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 1 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
 | 2 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 3 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
-| 4 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 5 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 6 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 9 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 13 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 14 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 15 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 16 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 17 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 18 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 19 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 20 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 21 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 22 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 23 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 24 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 25 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 26 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 27 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 29 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 30 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 31 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 32 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 33 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 34 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 35 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 36 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 37 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 38 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 39 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 40 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 41 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 42 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 43 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 44 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 45 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 46 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 47 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 48 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 49 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 50 | [Deon](http://twitter.com/search?q=Deon) | N/A |
+| 3 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 6 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 11 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 12 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 13 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 15 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 16 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 17 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 18 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 19 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 20 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 21 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 22 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 23 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 25 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 26 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 27 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 28 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 29 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 30 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 31 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 32 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 33 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 35 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 36 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 37 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 38 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 39 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 40 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 41 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 42 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 43 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 44 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 45 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 46 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 47 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 48 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 49 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 50 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 
 
 

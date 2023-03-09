@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-09 05:15:57 UTC`
+📆 Last Updated: `2023-03-09 06:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,38 +32,38 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 15 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
 | 17 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 18 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 20 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 21 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 22 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 23 | [Stop The Boats](http://twitter.com/search?q=Stop+The+Boats) | N/A |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 22 | [Stop The Boats](http://twitter.com/search?q=Stop+The+Boats) | N/A |
+| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 24 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 26 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 27 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 28 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 30 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 27 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 28 | [Princess](http://twitter.com/search?q=Princess) | N/A |
+| 29 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
+| 30 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
 | 31 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
 | 32 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 33 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 35 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 36 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 33 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 34 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 35 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 36 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
 | 37 | [Ryan jack](http://twitter.com/search?q=Ryan+jack) | N/A |
-| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 39 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 40 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 41 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 43 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 44 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 45 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 46 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
-| 47 | [peter walton](http://twitter.com/search?q=peter+walton) | N/A |
-| 48 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 49 | [Channel](http://twitter.com/search?q=Channel) | N/A |
+| 38 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 39 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 40 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
+| 41 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 42 | [Jenas](http://twitter.com/search?q=Jenas) | N/A |
+| 43 | [peter walton](http://twitter.com/search?q=peter+walton) | N/A |
+| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 45 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 46 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 47 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 48 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 49 | [Danny Rose](http://twitter.com/search?q=Danny+Rose) | N/A |
 
 
 

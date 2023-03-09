@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-09 05:16:36 UTC`
+📆 Last Updated: `2023-03-09 06:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 2 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 2 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 5 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 6 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 11 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 12 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 13 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 15 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 17 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 18 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 20 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 21 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 23 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 24 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 26 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 27 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 28 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 30 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 31 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 32 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 33 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 35 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 36 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 37 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 38 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 39 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 40 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 41 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 42 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 43 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 44 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 45 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 46 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 47 | [Deon](http://twitter.com/search?q=Deon) | N/A |
-| 48 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 49 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 50 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 4 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 5 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 11 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 12 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 13 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 14 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 16 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 17 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 18 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 19 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 20 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 21 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 22 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 24 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 25 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 26 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 27 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 28 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 29 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 30 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 31 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 32 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 33 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 34 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 36 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 37 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 38 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 39 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 40 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 41 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 42 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 43 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 44 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 45 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 46 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 47 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 48 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 50 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 
 
 

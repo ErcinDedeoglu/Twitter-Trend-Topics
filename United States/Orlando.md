@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-09 05:16:39 UTC`
+📆 Last Updated: `2023-03-09 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 1 | [Strus](http://twitter.com/search?q=Strus) | N/A |
 | 2 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 5 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 6 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 11 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 12 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 13 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 14 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 15 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 16 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 17 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 18 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 19 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 20 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 21 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 22 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 23 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 25 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 26 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 27 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 28 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 29 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 30 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 31 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 32 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 33 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 35 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 3 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 4 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 10 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 11 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 12 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 13 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 14 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 15 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 16 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 17 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 18 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 19 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 20 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 21 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 22 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 23 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 24 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 25 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 26 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 27 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 28 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 29 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 30 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 31 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 32 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 33 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 34 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 35 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
 | 36 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 37 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 38 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 39 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 40 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 41 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 42 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 43 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 44 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 45 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 46 | [Deon](http://twitter.com/search?q=Deon) | N/A |
-| 47 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 48 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 49 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 37 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 38 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 39 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 40 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 41 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 42 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 43 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 44 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 45 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 46 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 47 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 48 | [Deon](http://twitter.com/search?q=Deon) | N/A |
+| 49 | [Saint](http://twitter.com/search?q=Saint) | N/A |
 
 
 

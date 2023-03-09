@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-09 05:16:02 UTC`
+📆 Last Updated: `2023-03-09 06:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,36 +22,36 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 8 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 9 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 8 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 9 | [Emely](http://twitter.com/search?q=Emely) | N/A |
 | 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 11 | [Saragó](http://twitter.com/search?q=Sarag%c3%b3) | N/A |
+| 11 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
 | 12 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
 | 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 14 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
 | 15 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 16 | [Cova](http://twitter.com/search?q=Cova) | N/A |
-| 17 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 18 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 19 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 20 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
-| 21 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 23 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
-| 24 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
-| 25 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 26 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 27 | [Ritacco](http://twitter.com/search?q=Ritacco) | N/A |
-| 28 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 29 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 30 | [Junior Paredes](http://twitter.com/search?q=Junior+Paredes) | N/A |
-| 31 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
-| 32 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 33 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 16 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 17 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 18 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 19 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 21 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 22 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 23 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 24 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 25 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 26 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [Junior Paredes](http://twitter.com/search?q=Junior+Paredes) | N/A |
+| 29 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 30 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
+| 31 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 32 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 33 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 34 | [Poliedro de Caracas](http://twitter.com/search?q=Poliedro+de+Caracas) | N/A |
 | 35 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
 | 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 37 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
 | 38 | [Federación](http://twitter.com/search?q=Federaci%c3%b3n) | N/A |
 | 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 40 | [Chita](http://twitter.com/search?q=Chita) | N/A |

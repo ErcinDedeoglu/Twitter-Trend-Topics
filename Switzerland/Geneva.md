@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-09 05:16:12 UTC`
+📆 Last Updated: `2023-03-09 06:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 16 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
 | 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 19 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 20 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 21 | [vermieter](http://twitter.com/search?q=vermieter) | N/A |
-| 22 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 23 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 24 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 25 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 26 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 27 | [glarner](http://twitter.com/search?q=glarner) | N/A |
-| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 30 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
-| 31 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
-| 32 | [Frechheit](http://twitter.com/search?q=Frechheit) | N/A |
-| 33 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 34 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 35 | [Webseite](http://twitter.com/search?q=Webseite) | N/A |
-| 36 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 38 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 39 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 40 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 41 | [Vorlage](http://twitter.com/search?q=Vorlage) | N/A |
-| 42 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 43 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 44 | [England](http://twitter.com/search?q=England) | N/A |
-| 45 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 46 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 47 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 49 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
-| 50 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 18 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 20 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
+| 21 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 22 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 23 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 24 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 25 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 26 | [glarner](http://twitter.com/search?q=glarner) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
+| 29 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 30 | [Frechheit](http://twitter.com/search?q=Frechheit) | N/A |
+| 31 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
+| 32 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 33 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 34 | [Webseite](http://twitter.com/search?q=Webseite) | N/A |
+| 35 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 36 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 37 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 38 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 39 | [Vorlage](http://twitter.com/search?q=Vorlage) | N/A |
+| 40 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 41 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 44 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 45 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 46 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 47 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 48 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 49 | [Hast Du](http://twitter.com/search?q=Hast+Du) | N/A |
+| 50 | [Analyse](http://twitter.com/search?q=Analyse) | N/A |
 
 
 

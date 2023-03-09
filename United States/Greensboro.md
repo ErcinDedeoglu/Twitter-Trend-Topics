@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-09 05:16:36 UTC`
+📆 Last Updated: `2023-03-09 06:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusinuOpinu](http://twitter.com/search?q=%23OptimusinuOpinu) | N/A |
-| 2 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 3 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 4 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 5 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 6 | [#ACCMBB](http://twitter.com/search?q=%23ACCMBB) | N/A |
-| 7 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
-| 8 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 9 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 13 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 15 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 2 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
+| 3 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 4 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 5 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 11 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 12 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 13 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 15 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
 | 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 17 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 18 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 17 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
 | 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 20 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 | 21 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 23 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 24 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 26 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 27 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 28 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 30 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 31 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 24 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
+| 25 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 26 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 27 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 28 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 29 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 30 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 31 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
 | 32 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
-| 33 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 34 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 35 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 36 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
-| 37 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 38 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 39 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 40 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 41 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
-| 42 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 43 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
-| 44 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 45 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 46 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 47 | [Deon](http://twitter.com/search?q=Deon) | N/A |
-| 48 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 49 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 50 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 33 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 34 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 35 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 36 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 37 | [Scottie Barnes](http://twitter.com/search?q=Scottie+Barnes) | Scottie Barnes is a basketball player from the United States. He is currently a freshman at Florida State University and plays for the Seminoles men's basketball team. The name "Scottie Barnes" is derived from his given name, Scott, and his middle name, Barnes. |
+| 38 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 39 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 40 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 41 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 42 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 43 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 44 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 45 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 46 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 47 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 48 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 49 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 
 
 
