@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-09 09:17:17 UTC`
+📆 Last Updated: `2023-03-09 10:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 2 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 3 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 4 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 6 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 7 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 8 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 9 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 3 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
+| 4 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 5 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 6 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 9 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 11 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
 | 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 14 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 15 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 16 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 17 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 18 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 19 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 20 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 21 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 13 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 14 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 15 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 16 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 17 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 18 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 19 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 20 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 21 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 22 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
 | 23 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 24 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 24 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
 | 25 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 26 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 27 | [Togashi](http://twitter.com/search?q=Togashi) | N/A |
-| 28 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 29 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 30 | [Tommy Edman](http://twitter.com/search?q=Tommy+Edman) | N/A |
-| 31 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 32 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 33 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 34 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 35 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 36 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 37 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 38 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 39 | [Oregon State](http://twitter.com/search?q=Oregon+State) | N/A |
-| 40 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 41 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 26 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 27 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 28 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 29 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 30 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 31 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
+| 32 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 33 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
+| 34 | [Oregon State](http://twitter.com/search?q=Oregon+State) | N/A |
+| 35 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 36 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 37 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 38 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 39 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 40 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 41 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
 | 42 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 43 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 44 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 45 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 46 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 47 | [Montana State](http://twitter.com/search?q=Montana+State) | N/A |
-| 48 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 49 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 50 | [Petey Piranha](http://twitter.com/search?q=Petey+Piranha) | N/A |
+| 43 | [Jim Ryan](http://twitter.com/search?q=Jim+Ryan) | N/A |
+| 44 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
+| 45 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 46 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
+| 47 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 48 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 49 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
+| 50 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-09 09:16:47 UTC`
+📆 Last Updated: `2023-03-09 10:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusinuOpinu](http://twitter.com/search?q=%23OptimusinuOpinu) | N/A |
-| 2 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 3 | [#Budzets2023](http://twitter.com/search?q=%23Budzets2023) | N/A |
-| 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 5 | [#bluuish](http://twitter.com/search?q=%23bluuish) | N/A |
-| 6 | [#gacuteam](http://twitter.com/search?q=%23gacuteam) | N/A |
-| 7 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
-| 8 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 1 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 2 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
+| 3 | [#bluuish](http://twitter.com/search?q=%23bluuish) | N/A |
+| 4 | [#gacuteam](http://twitter.com/search?q=%23gacuteam) | N/A |
+| 5 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
+| 6 | [#kasnotieklatvijā](http://twitter.com/search?q=%23kasnotieklatvij%c4%81) | N/A |
+| 7 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 8 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
 | 9 | [galiņš](http://twitter.com/search?q=gali%c5%86%c5%a1) | N/A |
-| 10 | [Gruzijas](http://twitter.com/search?q=Gruzijas) | N/A |
-| 11 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
-| 12 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 13 | [Kancītis](http://twitter.com/search?q=Kanc%c4%abtis) | N/A |
-| 14 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 15 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 16 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 17 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
-| 18 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 19 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 20 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 21 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
-| 22 | [America](http://twitter.com/search?q=America) | N/A |
-| 23 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 24 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
-| 25 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
-| 26 | [izglītības](http://twitter.com/search?q=izgl%c4%abt%c4%abbas) | N/A |
-| 27 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
-| 28 | [Starptautiskajā](http://twitter.com/search?q=Starptautiskaj%c4%81) | N/A |
-| 29 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
-| 30 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
+| 10 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 11 | [Kancītis](http://twitter.com/search?q=Kanc%c4%abtis) | N/A |
+| 12 | [Gruzijas](http://twitter.com/search?q=Gruzijas) | N/A |
+| 13 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 15 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
+| 16 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 17 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 18 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 19 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
+| 20 | [America](http://twitter.com/search?q=America) | N/A |
+| 21 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 22 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
+| 23 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
+| 24 | [izglītības](http://twitter.com/search?q=izgl%c4%abt%c4%abbas) | N/A |
+| 25 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
+| 26 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 27 | [Starptautiskajā](http://twitter.com/search?q=Starptautiskaj%c4%81) | N/A |
+| 28 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
+| 29 | [kurzemes](http://twitter.com/search?q=kurzemes) | N/A |
+| 30 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
 | 31 | [vaira vīķe-freiberga](http://twitter.com/search?q=vaira+v%c4%ab%c4%b7e-freiberga) | N/A |
 | 32 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
 | 33 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
-| 34 | [Veselības](http://twitter.com/search?q=Vesel%c4%abbas) | N/A |
+| 34 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
 | 35 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 36 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 37 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 38 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 39 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
-| 40 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
-| 41 | [Aizsardzības](http://twitter.com/search?q=Aizsardz%c4%abbas) | N/A |
-| 42 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
-| 43 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 44 | [Baltics](http://twitter.com/search?q=Baltics) | N/A |
-| 45 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 46 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
-| 47 | [ogrē](http://twitter.com/search?q=ogr%c4%93) | N/A |
-| 48 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 49 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 50 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 37 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
+| 38 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 39 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
+| 40 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 41 | [katru](http://twitter.com/search?q=katru) | N/A |
+| 42 | [Bahmutu](http://twitter.com/search?q=Bahmutu) | N/A |
+| 43 | [Aizsardzības](http://twitter.com/search?q=Aizsardz%c4%abbas) | N/A |
+| 44 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
+| 45 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 46 | [Baltics](http://twitter.com/search?q=Baltics) | N/A |
+| 47 | [Satversmes](http://twitter.com/search?q=Satversmes) | N/A |
+| 48 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 49 | [Mums](http://twitter.com/search?q=Mums) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-09 09:16:45 UTC`
+📆 Last Updated: `2023-03-09 10:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Spain](</Spain>)
 | 6 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 | 7 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
 | 8 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 9 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 12 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 9 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 12 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
 | 13 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 14 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 15 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 17 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 18 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 20 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 21 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 22 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 23 | [Moting](http://twitter.com/search?q=Moting) | N/A |
-| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 25 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
-| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 28 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 29 | [Juernes](http://twitter.com/search?q=Juernes) | N/A |
-| 30 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
-| 31 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 32 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 33 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 34 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 35 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 36 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 37 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 14 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 15 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 16 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 17 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 18 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 19 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 21 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 23 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
+| 24 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 25 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 26 | [Pacma](http://twitter.com/search?q=Pacma) | N/A |
+| 27 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 29 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
+| 30 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 31 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 32 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
+| 33 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 34 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 36 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 37 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 39 | [Lc 16](http://twitter.com/search?q=Lc+16) | N/A |
-| 40 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 41 | [3 de Ayuso](http://twitter.com/search?q=3+de+Ayuso) | N/A |
-| 42 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 43 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 44 | [Martuki](http://twitter.com/search?q=Martuki) | N/A |
-| 45 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 46 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 47 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 48 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 39 | [3 de Ayuso](http://twitter.com/search?q=3+de+Ayuso) | N/A |
+| 40 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 41 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 42 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 43 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 44 | [Lc 16](http://twitter.com/search?q=Lc+16) | N/A |
+| 45 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 46 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
+| 47 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
+| 48 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
 
 
 

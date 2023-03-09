@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-09 09:17:06 UTC`
+📆 Last Updated: `2023-03-09 10:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
 | 5 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
 | 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 7 | [express tribune](http://twitter.com/search?q=express+tribune) | N/A |
-| 8 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
-| 9 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 10 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
-| 11 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 12 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
-| 13 | [Axact](http://twitter.com/search?q=Axact) | N/A |
-| 14 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 15 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 16 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 17 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
-| 18 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 19 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 7 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 8 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 9 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 10 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 11 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 12 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
+| 13 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 14 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
+| 15 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 16 | [cctv](http://twitter.com/search?q=cctv) | N/A |
+| 17 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 18 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
+| 19 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 22 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 23 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 24 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 25 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
-| 26 | [PTI Chairman Imran Khan](http://twitter.com/search?q=PTI+Chairman+Imran+Khan) | N/A |
-| 27 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
-| 28 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 30 | [Lols](http://twitter.com/search?q=Lols) | N/A |
-| 31 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 32 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 33 | [Hammad Azhar](http://twitter.com/search?q=Hammad+Azhar) | N/A |
-| 34 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 21 | [PTI Chairman Imran Khan](http://twitter.com/search?q=PTI+Chairman+Imran+Khan) | N/A |
+| 22 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 23 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 24 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 25 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 26 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 27 | [Reality](http://twitter.com/search?q=Reality) | N/A |
+| 28 | [Hammad Azhar](http://twitter.com/search?q=Hammad+Azhar) | N/A |
+| 29 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 30 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
+| 31 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 32 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 33 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 34 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
 | 35 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 36 | [Mery](http://twitter.com/search?q=Mery) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Absolutely Right](http://twitter.com/search?q=Absolutely+Right) | N/A |
+| 38 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
 | 39 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
-| 40 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 41 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 42 | [Bull](http://twitter.com/search?q=Bull) | N/A |
-| 43 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 45 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 46 | [Wardi](http://twitter.com/search?q=Wardi) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 49 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
+| 40 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 41 | [Thar](http://twitter.com/search?q=Thar) | N/A |
+| 42 | [Wardi](http://twitter.com/search?q=Wardi) | N/A |
+| 43 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 44 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 45 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 47 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 48 | [Ameeeen](http://twitter.com/search?q=Ameeeen) | N/A |
+| 49 | [United Nations](http://twitter.com/search?q=United+Nations) | N/A |
 
 
 

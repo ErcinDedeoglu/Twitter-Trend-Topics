@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-09 09:16:28 UTC`
+📆 Last Updated: `2023-03-09 10:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 2 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 3 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 4 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 5 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 6 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 7 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 8 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 9 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 10 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 11 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 3 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 4 | [BBC News](http://twitter.com/search?q=BBC+News) | N/A |
+| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 6 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 8 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 9 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 10 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 11 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 12 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 13 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 14 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 15 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 16 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 17 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 18 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 19 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 21 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 22 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 23 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 24 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 25 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 26 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 27 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 29 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 30 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 33 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 34 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 35 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 36 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 37 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 38 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 39 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 40 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 41 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 43 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 44 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 46 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 47 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 48 | [#ToriesOut245](http://twitter.com/search?q=%23ToriesOut245) | N/A |
+| 13 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 14 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 15 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 16 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 17 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 19 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 20 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 21 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 22 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 23 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 24 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 25 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 27 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 28 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 29 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 30 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 31 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 32 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 33 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 34 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 35 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 36 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 37 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 38 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 39 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 40 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 41 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 44 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 45 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 46 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 47 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 48 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 
 
 

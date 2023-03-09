@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-09 09:17:26 UTC`
+📆 Last Updated: `2023-03-09 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,18 +46,18 @@ This is top 50 for Guatemala
 | 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 30 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
 | 31 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
-| 32 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 32 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
 | 33 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 34 | [Jovenas](http://twitter.com/search?q=Jovenas) | N/A |
+| 34 | [jovenas](http://twitter.com/search?q=jovenas) | N/A |
 | 35 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 36 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 37 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 38 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 40 | [Cremas](http://twitter.com/search?q=Cremas) | N/A |
-| 41 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
+| 36 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 39 | [cremas](http://twitter.com/search?q=cremas) | N/A |
+| 40 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
+| 43 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 44 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
 | 45 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 | 46 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |

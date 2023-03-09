@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-09 09:16:57 UTC`
+📆 Last Updated: `2023-03-09 10:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 2 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 2 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 3 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
 | 4 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 5 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 6 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 7 | [#HappyBirthdayYoongi](http://twitter.com/search?q=%23HappyBirthdayYoongi) | N/A |
-| 8 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 9 | [kathniel top taxpayers](http://twitter.com/search?q=kathniel+top+taxpayers) | N/A |
-| 10 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
-| 11 | [music invasion with felip](http://twitter.com/search?q=music+invasion+with+felip) | N/A |
-| 12 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
-| 13 | [Cessna](http://twitter.com/search?q=Cessna) | N/A |
-| 14 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
-| 15 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
-| 16 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 17 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
-| 18 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 19 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 20 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
-| 21 | [DANCE TO WILD TONIGHT](http://twitter.com/search?q=DANCE+TO+WILD+TONIGHT) | N/A |
-| 22 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
-| 23 | [READYTOBE MILLION PREORDER](http://twitter.com/search?q=READYTOBE+MILLION+PREORDER) | N/A |
-| 24 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
-| 25 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 26 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
-| 27 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 28 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 29 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 30 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
-| 31 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
-| 32 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
-| 33 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
-| 34 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
-| 35 | [Bomba](http://twitter.com/search?q=Bomba) | N/A |
-| 36 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 37 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 38 | [SEVENTEEN CONTENT SUBS](http://twitter.com/search?q=SEVENTEEN+CONTENT+SUBS) | N/A |
-| 39 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 40 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
-| 41 | [My Sope](http://twitter.com/search?q=My+Sope) | N/A |
-| 42 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 43 | [ROVER IS COMING](http://twitter.com/search?q=ROVER+IS+COMING) | N/A |
-| 44 | [Careless](http://twitter.com/search?q=Careless) | N/A |
-| 45 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
-| 46 | [Lee Jong Suk](http://twitter.com/search?q=Lee+Jong+Suk) | N/A |
-| 47 | [Bonbon](http://twitter.com/search?q=Bonbon) | N/A |
-| 48 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 49 | [yoonie](http://twitter.com/search?q=yoonie) | N/A |
-| 50 | [Don Quixote](http://twitter.com/search?q=Don+Quixote) | N/A |
+| 5 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 6 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 7 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 8 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 9 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 11 | [HEESEUNG LIVE](http://twitter.com/search?q=HEESEUNG+LIVE) | N/A |
+| 12 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 13 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
+| 14 | [OFF MY FACE](http://twitter.com/search?q=OFF+MY+FACE) | N/A |
+| 15 | [kathniel top taxpayers](http://twitter.com/search?q=kathniel+top+taxpayers) | N/A |
+| 16 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 17 | [music invasion with felip](http://twitter.com/search?q=music+invasion+with+felip) | N/A |
+| 18 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 19 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
+| 20 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 21 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
+| 22 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
+| 23 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
+| 24 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
+| 25 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
+| 26 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 27 | [User](http://twitter.com/search?q=User) | N/A |
+| 28 | [OMG BT21](http://twitter.com/search?q=OMG+BT21) | N/A |
+| 29 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 30 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 31 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
+| 32 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 33 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
+| 34 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 35 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 36 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 37 | [SVIP](http://twitter.com/search?q=SVIP) | N/A |
+| 38 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 39 | [Cessna](http://twitter.com/search?q=Cessna) | N/A |
+| 40 | [Jessey](http://twitter.com/search?q=Jessey) | N/A |
+| 41 | [Ruru Madrid](http://twitter.com/search?q=Ruru+Madrid) | N/A |
+| 42 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 43 | [OUR BEST LOVE IS SOOJIN](http://twitter.com/search?q=OUR+BEST+LOVE+IS+SOOJIN) | N/A |
+| 44 | [VIVOREE ON WISH BUS](http://twitter.com/search?q=VIVOREE+ON+WISH+BUS) | N/A |
+| 45 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
+| 46 | [Bomba](http://twitter.com/search?q=Bomba) | N/A |
+| 47 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 48 | [Zendaya](http://twitter.com/search?q=Zendaya) | Zendaya is a female given name of African-American origin. It is derived from the Shona language and means "to give thanks". |
+| 49 | [8 ML](http://twitter.com/search?q=8+ML) | N/A |
+| 50 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
 
 
 

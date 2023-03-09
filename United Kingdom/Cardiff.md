@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-09 09:16:25 UTC`
+📆 Last Updated: `2023-03-09 10:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 2 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 3 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 4 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 7 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 8 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 9 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 3 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 4 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 5 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 6 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 7 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 8 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 10 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 11 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 12 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 11 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 12 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
 | 13 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 14 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 14 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
 | 15 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 16 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 17 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 18 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 21 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 22 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 23 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 24 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 25 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 26 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 28 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 29 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 32 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 33 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 34 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 35 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 36 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 37 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 38 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 39 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 41 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 42 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 43 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 44 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 45 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 46 | [#ToriesOut245](http://twitter.com/search?q=%23ToriesOut245) | N/A |
-| 47 | [#WAND](http://twitter.com/search?q=%23WAND) | N/A |
-| 48 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 16 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 17 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 18 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 19 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 20 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 21 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 22 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 24 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 27 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 28 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 29 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 30 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 31 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 32 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 33 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 34 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 35 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 36 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 37 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 38 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 41 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 42 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 43 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 44 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 45 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 46 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 
 
 

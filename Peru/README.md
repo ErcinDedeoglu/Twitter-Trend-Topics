@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-09 09:17:29 UTC`
+📆 Last Updated: `2023-03-09 10:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,20 +28,20 @@ This is top 50 for Peru
 | 11 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
 | 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 13 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 14 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
+| 14 | [binacional](http://twitter.com/search?q=binacional) | N/A |
 | 15 | [Patricia del Río](http://twitter.com/search?q=Patricia+del+R%c3%ado) | N/A |
 | 16 | [Tambo](http://twitter.com/search?q=Tambo) | N/A |
 | 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 18 | [Brandon Palacios](http://twitter.com/search?q=Brandon+Palacios) | N/A |
-| 19 | [Ilave](http://twitter.com/search?q=Ilave) | Ilave is a town in Peru located in the Puno Region. It is situated on the banks of the Ilave River, which flows into Lake Titicaca. The name Ilave comes from the Aymara language and means "river of gold". In English, it can be translated to mean "Golden River". |
-| 20 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 21 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 22 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 18 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 19 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 20 | [Ilave](http://twitter.com/search?q=Ilave) | Ilave is a town in Peru located in the Puno Region. It is situated on the banks of the Ilave River, which flows into Lake Titicaca. The name Ilave comes from the Aymara language and means "river of gold". In English, it can be translated to mean "Golden River". |
+| 21 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 22 | [Brandon Palacios](http://twitter.com/search?q=Brandon+Palacios) | N/A |
 | 23 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
 | 24 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
 | 25 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [Nativa](http://twitter.com/search?q=Nativa) | N/A |
+| 27 | [nativa](http://twitter.com/search?q=nativa) | N/A |
 | 28 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
 | 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 30 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
@@ -49,22 +49,22 @@ This is top 50 for Peru
 | 32 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
 | 33 | [Piura](http://twitter.com/search?q=Piura) | N/A |
 | 34 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 35 | [jimin mood photo](http://twitter.com/search?q=jimin+mood+photo) | N/A |
+| 35 | [JIMIN MOOD PHOTO](http://twitter.com/search?q=JIMIN+MOOD+PHOTO) | N/A |
 | 36 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
 | 37 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 38 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
-| 39 | [Yarita](http://twitter.com/search?q=Yarita) | N/A |
-| 40 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 41 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 42 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 43 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 44 | [Cuti](http://twitter.com/search?q=Cuti) | N/A |
-| 45 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 38 | [Yarita](http://twitter.com/search?q=Yarita) | N/A |
+| 39 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 40 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 41 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 42 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 43 | [Cuti](http://twitter.com/search?q=Cuti) | N/A |
+| 44 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 45 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
 | 46 | [Carlos Álvarez](http://twitter.com/search?q=Carlos+%c3%81lvarez) | Carlos Álvarez is a Spanish name, derived from the Latin name Carolus, meaning "free man". In English, it can be translated to mean "Charles the Free". |
 | 47 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
-| 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 49 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 50 | [stefano olaya](http://twitter.com/search?q=stefano+olaya) | N/A |
+| 48 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
+| 49 | [stefano olaya](http://twitter.com/search?q=stefano+olaya) | N/A |
+| 50 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
 
 
 

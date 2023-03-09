@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-09 09:16:24 UTC`
+📆 Last Updated: `2023-03-09 10:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 2 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 3 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
-| 4 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 5 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 6 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 9 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 10 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 11 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 12 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 13 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 14 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 15 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 16 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 17 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 18 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 19 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 20 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 21 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 22 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 25 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 26 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 27 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 28 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 29 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 30 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 32 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 33 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 35 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
-| 36 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 37 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 38 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 39 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 40 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 41 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 42 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 43 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 44 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 46 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 47 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 48 | [#ToriesOut245](http://twitter.com/search?q=%23ToriesOut245) | N/A |
-| 49 | [#WAND](http://twitter.com/search?q=%23WAND) | N/A |
-| 50 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 1 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 2 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 3 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 4 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 5 | [BBC News](http://twitter.com/search?q=BBC+News) | N/A |
+| 6 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 7 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 9 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 10 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 11 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 12 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 13 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 14 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 15 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 16 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 17 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 18 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 19 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 20 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 22 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 23 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 24 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 25 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 26 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 27 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 28 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 29 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 31 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 33 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 34 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 35 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 36 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 37 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 38 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 39 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 40 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 41 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 42 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 43 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 44 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 47 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 48 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 49 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 50 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-09 09:16:34 UTC`
+📆 Last Updated: `2023-03-09 10:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 6 | [Chone](http://twitter.com/search?q=Chone) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 9 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
 | 10 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
 | 11 | [Lilax](http://twitter.com/search?q=Lilax) | N/A |
 | 12 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 13 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
+| 13 | [samanes](http://twitter.com/search?q=samanes) | N/A |
 | 14 | [QUÉ TAN MAÑOSO ERES](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES) | N/A |
 | 15 | [Caldo de 31](http://twitter.com/search?q=Caldo+de+31) | N/A |
 | 16 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
@@ -41,12 +41,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 24 | [11-Ceviche](http://twitter.com/search?q=11-Ceviche) | N/A |
 | 25 | [9-Repe](http://twitter.com/search?q=9-Repe) | N/A |
 | 26 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 28 | [Sorbetto](http://twitter.com/search?q=Sorbetto) | N/A |
-| 29 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
-| 30 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
-| 31 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
-| 32 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
+| 27 | [Sorbetto](http://twitter.com/search?q=Sorbetto) | N/A |
+| 28 | [2-Lengua](http://twitter.com/search?q=2-Lengua) | N/A |
+| 29 | [4-Guanta](http://twitter.com/search?q=4-Guanta) | N/A |
+| 30 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
+| 31 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 33 | [8-Tapao](http://twitter.com/search?q=8-Tapao) | N/A |
 | 34 | [El 8](http://twitter.com/search?q=El+8) | N/A |
 | 35 | [1-Guatita](http://twitter.com/search?q=1-Guatita) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 46 | [Pedro Delgado](http://twitter.com/search?q=Pedro+Delgado) | N/A |
 | 47 | [Arosemena](http://twitter.com/search?q=Arosemena) | N/A |
 | 48 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 49 | [id y pk](http://twitter.com/search?q=id+y+pk) | N/A |
-| 50 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 49 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 50 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 
 
 
