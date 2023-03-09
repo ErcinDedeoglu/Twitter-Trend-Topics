@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-09 17:16:33 UTC`
+📆 Last Updated: `2023-03-09 19:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 2 | [#CrisPorta9M](http://twitter.com/search?q=%23CrisPorta9M) | N/A |
-| 3 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 4 | [#DemoBayonettaOrigins](http://twitter.com/search?q=%23DemoBayonettaOrigins) | N/A |
-| 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 6 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 7 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
-| 8 | [Colegio Mayor](http://twitter.com/search?q=Colegio+Mayor) | N/A |
-| 9 | [#DesbloqueoLeyELA](http://twitter.com/search?q=%23DesbloqueoLeyELA) | N/A |
-| 10 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 11 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
-| 12 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
-| 13 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 14 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 15 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 16 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 17 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
-| 18 | [Ángela Rodríguez Pam](http://twitter.com/search?q=%c3%81ngela+Rodr%c3%adguez+Pam) | N/A |
-| 19 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 20 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 21 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 22 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 23 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
-| 26 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
-| 27 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 28 | [Badalona](http://twitter.com/search?q=Badalona) | N/A |
-| 29 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 30 | [Mario Kart](http://twitter.com/search?q=Mario+Kart) | N/A |
-| 31 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 32 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 33 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 34 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
-| 35 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
-| 36 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 37 | [#APOYOROCIO9M](http://twitter.com/search?q=%23APOYOROCIO9M) | N/A |
-| 38 | [#TirrenoAdriatico](http://twitter.com/search?q=%23TirrenoAdriatico) | N/A |
-| 39 | [#SerdeOrangeyTCL](http://twitter.com/search?q=%23SerdeOrangeyTCL) | N/A |
-| 40 | [#DoyouSEO](http://twitter.com/search?q=%23DoyouSEO) | N/A |
-| 41 | [#YoMeRebelo9M](http://twitter.com/search?q=%23YoMeRebelo9M) | N/A |
-| 42 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
-| 43 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 44 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 45 | [#BreakTheWallTour](http://twitter.com/search?q=%23BreakTheWallTour) | N/A |
-| 46 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
-| 47 | [#Solos9M](http://twitter.com/search?q=%23Solos9M) | N/A |
-| 48 | [#23CNH](http://twitter.com/search?q=%2323CNH) | N/A |
-| 49 | [#DíaMundialDelRiñón](http://twitter.com/search?q=%23D%c3%adaMundialDelRi%c3%b1%c3%b3n) | N/A |
-| 50 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 1 | [#PremiosIdolo](http://twitter.com/search?q=%23PremiosIdolo) | N/A |
+| 2 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 3 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 4 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 5 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 6 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
+| 7 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 8 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 9 | [#CrisPorta9M](http://twitter.com/search?q=%23CrisPorta9M) | N/A |
+| 10 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 11 | [#TierraAmarga9Mar](http://twitter.com/search?q=%23TierraAmarga9Mar) | N/A |
+| 12 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
+| 13 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 14 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 15 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 16 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 17 | [Trigueros](http://twitter.com/search?q=Trigueros) | N/A |
+| 18 | [#PecadoOriginal9Mar](http://twitter.com/search?q=%23PecadoOriginal9Mar) | N/A |
+| 19 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 20 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
+| 21 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 22 | [Joaquín](http://twitter.com/search?q=Joaqu%c3%adn) | Joaquín is a Spanish name derived from the Hebrew name Yehoyakim, which means "God will establish". In English, it is usually translated as Joaquin. |
+| 23 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 24 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 25 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 26 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
+| 27 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 28 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 29 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 30 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 31 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 32 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 33 | [Ángela Rodríguez Pam](http://twitter.com/search?q=%c3%81ngela+Rodr%c3%adguez+Pam) | N/A |
+| 34 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 35 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 36 | [Sábado 11](http://twitter.com/search?q=S%c3%a1bado+11) | N/A |
+| 37 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 38 | [Carmena](http://twitter.com/search?q=Carmena) | N/A |
+| 39 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 40 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 41 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 42 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 43 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 44 | [#DemoBayonettaOrigins](http://twitter.com/search?q=%23DemoBayonettaOrigins) | N/A |
+| 45 | [#DesbloqueoLeyELA](http://twitter.com/search?q=%23DesbloqueoLeyELA) | N/A |
+| 46 | [#BreakTheWallTour](http://twitter.com/search?q=%23BreakTheWallTour) | N/A |
+| 47 | [#SerdeOrangeyTCL](http://twitter.com/search?q=%23SerdeOrangeyTCL) | N/A |
+| 48 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 49 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
+| 50 | [#YoMeRebelo9M](http://twitter.com/search?q=%23YoMeRebelo9M) | N/A |
 
 
 

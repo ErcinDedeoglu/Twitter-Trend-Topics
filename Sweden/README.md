@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-09 17:17:09 UTC`
+📆 Last Updated: `2023-03-09 19:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 2 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 1 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 2 | [Hisingsbron](http://twitter.com/search?q=Hisingsbron) | N/A |
+| 3 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
 | 4 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [filip ekberg](http://twitter.com/search?q=filip+ekberg) | N/A |
-| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 8 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
-| 9 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
-| 10 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
-| 11 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
+| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 6 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 7 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 8 | [filip ekberg](http://twitter.com/search?q=filip+ekberg) | N/A |
+| 9 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
+| 10 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 11 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 12 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
+| 13 | [Teodorescu](http://twitter.com/search?q=Teodorescu) | N/A |
+| 14 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 16 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 17 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 17 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
 | 18 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 19 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 20 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 21 | [Hanne Kjöller](http://twitter.com/search?q=Hanne+Kj%c3%b6ller) | N/A |
-| 22 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 23 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
-| 24 | [Skalk](http://twitter.com/search?q=Skalk) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
-| 28 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 29 | [karlin](http://twitter.com/search?q=karlin) | N/A |
-| 30 | [Mild](http://twitter.com/search?q=Mild) | N/A |
-| 31 | [Gösta](http://twitter.com/search?q=G%c3%b6sta) | N/A |
-| 32 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
-| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 20 | [Rydström](http://twitter.com/search?q=Rydstr%c3%b6m) | N/A |
+| 21 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 22 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 23 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 24 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 25 | [hanne kjöller](http://twitter.com/search?q=hanne+kj%c3%b6ller) | N/A |
+| 26 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
+| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 28 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
+| 29 | [mikael stahre](http://twitter.com/search?q=mikael+stahre) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Erdoganlagarna](http://twitter.com/search?q=Erdoganlagarna) | N/A |
+| 32 | [Karlin](http://twitter.com/search?q=Karlin) | N/A |
+| 33 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 34 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 35 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 36 | [Bodström](http://twitter.com/search?q=Bodstr%c3%b6m) | N/A |
-| 37 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 38 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
-| 39 | [Nordnet](http://twitter.com/search?q=Nordnet) | N/A |
-| 40 | [moderaternas](http://twitter.com/search?q=moderaternas) | N/A |
-| 41 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 42 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 43 | [Göran](http://twitter.com/search?q=G%c3%b6ran) | N/A |
-| 44 | [Systemet](http://twitter.com/search?q=Systemet) | N/A |
-| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Wolodarski](http://twitter.com/search?q=Wolodarski) | N/A |
-| 48 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 49 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
-| 50 | [Rumänien](http://twitter.com/search?q=Rum%c3%a4nien) | N/A |
+| 35 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 37 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 38 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 39 | [Bodström](http://twitter.com/search?q=Bodstr%c3%b6m) | N/A |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [kvinna](http://twitter.com/search?q=kvinna) | N/A |
+| 42 | [moderaternas](http://twitter.com/search?q=moderaternas) | N/A |
+| 43 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 44 | [göran](http://twitter.com/search?q=g%c3%b6ran) | N/A |
+| 45 | [Gösta](http://twitter.com/search?q=G%c3%b6sta) | N/A |
+| 46 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 47 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 48 | [wolodarski](http://twitter.com/search?q=wolodarski) | N/A |
+| 49 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 50 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-09 17:16:42 UTC`
+📆 Last Updated: `2023-03-09 19:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 2 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
-| 3 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 4 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 5 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 6 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
-| 7 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 8 | [#PenielBestBoyDay](http://twitter.com/search?q=%23PenielBestBoyDay) | N/A |
-| 9 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
-| 10 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 12 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
-| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 14 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
-| 15 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 16 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 17 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
-| 18 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 19 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 20 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
-| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 22 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 23 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 24 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
-| 25 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 26 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 27 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
-| 28 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 29 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
-| 30 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 31 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 32 | [#AskCOJ](http://twitter.com/search?q=%23AskCOJ) | N/A |
-| 33 | [#프니_생일이라_심장이_동근동근해요](http://twitter.com/search?q=%23%ed%94%84%eb%8b%88_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9d%bc_%ec%8b%ac%ec%9e%a5%ec%9d%b4_%eb%8f%99%ea%b7%bc%eb%8f%99%ea%b7%bc%ed%95%b4%ec%9a%94) | N/A |
-| 34 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 35 | [#JonaxxGYWKab13](http://twitter.com/search?q=%23JonaxxGYWKab13) | N/A |
-| 36 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 37 | [#eaJLennon](http://twitter.com/search?q=%23eaJLennon) | N/A |
-| 38 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 39 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 40 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
-| 41 | [#LUIDAngelites](http://twitter.com/search?q=%23LUIDAngelites) | N/A |
-| 42 | [#UDAYS2023](http://twitter.com/search?q=%23UDAYS2023) | N/A |
-| 43 | [#LeeJaeWookAtNFT](http://twitter.com/search?q=%23LeeJaeWookAtNFT) | N/A |
-| 44 | [#JoshCullenOnBRGYandMYX](http://twitter.com/search?q=%23JoshCullenOnBRGYandMYX) | N/A |
-| 45 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 46 | [#ChiCo](http://twitter.com/search?q=%23ChiCo) | N/A |
-| 47 | [#FranSeth](http://twitter.com/search?q=%23FranSeth) | N/A |
-| 48 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 49 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 50 | [#SethFedelin](http://twitter.com/search?q=%23SethFedelin) | N/A |
+| 1 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 2 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 3 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 4 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 6 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 7 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
+| 8 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
+| 9 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
+| 10 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
+| 11 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 12 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 13 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 14 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
+| 15 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 16 | [donny for sunlife ph](http://twitter.com/search?q=donny+for+sunlife+ph) | N/A |
+| 17 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
+| 18 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 19 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 20 | [david for skechers glorietta](http://twitter.com/search?q=david+for+skechers+glorietta) | N/A |
+| 21 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 23 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 24 | [dance to wild tonight](http://twitter.com/search?q=dance+to+wild+tonight) | N/A |
+| 25 | [PPOP KINGS](http://twitter.com/search?q=PPOP+KINGS) | N/A |
+| 26 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 27 | [The Corrs](http://twitter.com/search?q=The+Corrs) | N/A |
+| 28 | [gatherings for christians](http://twitter.com/search?q=gatherings+for+christians) | N/A |
+| 29 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
+| 30 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 32 | [happytimena withjuliever](http://twitter.com/search?q=happytimena+withjuliever) | N/A |
+| 33 | [Violet Chemistry](http://twitter.com/search?q=Violet+Chemistry) | N/A |
+| 34 | [vivoree on wish bus](http://twitter.com/search?q=vivoree+on+wish+bus) | N/A |
+| 35 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 36 | [lee heeseung](http://twitter.com/search?q=lee+heeseung) | N/A |
+| 37 | [asi road to piepop](http://twitter.com/search?q=asi+road+to+piepop) | N/A |
+| 38 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 39 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 40 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 41 | [josh alonzo teenclash d-8](http://twitter.com/search?q=josh+alonzo+teenclash+d-8) | N/A |
+| 42 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
+| 43 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
+| 44 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 45 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 46 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 47 | [Happy Birthday Shenhe](http://twitter.com/search?q=Happy+Birthday+Shenhe) | N/A |
+| 48 | [Isabela](http://twitter.com/search?q=Isabela) | N/A |
+| 49 | [jessey](http://twitter.com/search?q=jessey) | N/A |
+| 50 | [MINWON 2 MINUS 1](http://twitter.com/search?q=MINWON+2+MINUS+1) | N/A |
 
 
 

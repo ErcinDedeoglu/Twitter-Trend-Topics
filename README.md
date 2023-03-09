@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-09 17:16:16 UTC`
+📆 Last Updated: `2023-03-09 19:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 2 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 3 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
-| 4 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 6 | [#米津玄師誕生祭2023](http://twitter.com/search?q=%23%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 7 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 8 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 9 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 10 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
-| 11 | [初戦勝利](http://twitter.com/search?q=%e5%88%9d%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 12 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 13 | [コールド](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 14 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 15 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
-| 16 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
-| 17 | [グラブル9周年](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab9%e5%91%a8%e5%b9%b4) | N/A |
-| 18 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 1 | [#النصر_الاتحاد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | #النصر_الاتحاد is an Arabic hashtag that translates to "Victory of the Union" in English. It is often used to express support for a unified Arab world. |
+| 2 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
+| 3 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 4 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 7 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 8 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 9 | [Muharremİnce SeçimŞarkısı](http://twitter.com/search?q=Muharrem%c4%b0nce+Se%c3%a7im%c5%9eark%c4%b1s%c4%b1) | N/A |
+| 10 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 11 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 12 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 13 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 14 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 15 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
+| 16 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 19 | [للنصر](http://twitter.com/search?q=%d9%84%d9%84%d9%86%d8%b5%d8%b1) | للنصر is an Arabic phrase that translates to "for victory" in English. It is often used as a rallying cry or slogan for a cause or movement. |
-| 20 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 21 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
-| 22 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 23 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 24 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 25 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 26 | [Büyük Türkiye Hareketi](http://twitter.com/search?q=B%c3%bcy%c3%bck+T%c3%bcrkiye+Hareketi) | N/A |
-| 27 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 28 | [第413回](http://twitter.com/search?q=%e7%ac%ac413%e5%9b%9e) | N/A |
-| 29 | [ナイスゲーム](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%82%b2%e3%83%bc%e3%83%a0) | ナイスゲーム (naisu geemu) is a Japanese phrase that translates to "nice game" in English. It is typically used as a congratulatory phrase after a game or match has been completed. |
-| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 31 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 32 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 33 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
-| 34 | [日本勝利](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%9d%e5%88%a9) | N/A |
-| 35 | [YapıKayıt Mağdurları](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Ma%c4%9fdurlar%c4%b1) | N/A |
-| 36 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 37 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 38 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
-| 39 | [イタリア](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2) | N/A |
-| 40 | [伊藤大海](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e5%a4%a7%e6%b5%b7) | N/A |
-| 41 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 42 | [ユンジョンウ](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
-| 43 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 44 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 45 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 46 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 47 | [やまーだ](http://twitter.com/search?q=%e3%82%84%e3%81%be%e3%83%bc%e3%81%a0) | N/A |
-| 48 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 49 | [ミクの日](http://twitter.com/search?q=%e3%83%9f%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 50 | [ラブキラ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%82%ad%e3%83%a9) | N/A |
+| 20 | [色彩感覚テスト](http://twitter.com/search?q=%e8%89%b2%e5%bd%a9%e6%84%9f%e8%a6%9a%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 21 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
+| 22 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 23 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 24 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 25 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
+| 26 | [CRUELLA DE JESUS](http://twitter.com/search?q=CRUELLA+DE+JESUS) | N/A |
+| 27 | [ERDOĞAN AKLINIZI ALACAK](http://twitter.com/search?q=ERDO%c4%9eAN+AKLINIZI+ALACAK) | N/A |
+| 28 | [BRUNA MERECE RESPEITO](http://twitter.com/search?q=BRUNA+MERECE+RESPEITO) | N/A |
+| 29 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 30 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 31 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 32 | [בן גביר](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 33 | [Evra](http://twitter.com/search?q=Evra) | N/A |
+| 34 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 35 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
+| 36 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 37 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
+| 38 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 39 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 40 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 41 | [מפקד מחוז תל אביב](http://twitter.com/search?q=%d7%9e%d7%a4%d7%a7%d7%93+%d7%9e%d7%97%d7%95%d7%96+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 42 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 43 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 44 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
+| 45 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 46 | [Fábio Vieira](http://twitter.com/search?q=F%c3%a1bio+Vieira) | N/A |
+| 47 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
+| 48 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 49 | [TalepNet ÖnceAF](http://twitter.com/search?q=TalepNet+%c3%96nceAF) | N/A |
+| 50 | [DOMITILA MERECE UM CARRO](http://twitter.com/search?q=DOMITILA+MERECE+UM+CARRO) | N/A |
 
 
 

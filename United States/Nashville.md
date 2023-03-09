@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-09 17:16:59 UTC`
+📆 Last Updated: `2023-03-09 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
+| 2 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 4 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 5 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 6 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 7 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 8 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 9 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 10 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
-| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 12 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
-| 13 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 14 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 15 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
-| 16 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
-| 17 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 18 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
-| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 21 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 22 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 23 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 24 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
-| 25 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 26 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 27 | [JLaw](http://twitter.com/search?q=JLaw) | N/A |
-| 28 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
-| 29 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 30 | [Shellenberger](http://twitter.com/search?q=Shellenberger) | N/A |
-| 31 | [Kyle Hamilton](http://twitter.com/search?q=Kyle+Hamilton) | Kyle Hamilton is a name of Scottish origin. It is derived from the Gaelic words "caol" meaning "narrow" and "hamaltan" meaning "little crooked one". The name can be translated to mean "little crooked one of the narrows". |
-| 32 | [Michigan ML](http://twitter.com/search?q=Michigan+ML) | N/A |
-| 33 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 34 | [Joyner](http://twitter.com/search?q=Joyner) | N/A |
-| 35 | [James Franklin](http://twitter.com/search?q=James+Franklin) | James Franklin is a name. It is derived from the Hebrew name Yaakov, which means "he who supplants". In English, it can mean "one who replaces or takes the place of another". |
-| 36 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 37 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 38 | [Michigan -2.5](http://twitter.com/search?q=Michigan+-2.5) | N/A |
-| 39 | [Norfolk Southern CEO](http://twitter.com/search?q=Norfolk+Southern+CEO) | N/A |
-| 40 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
-| 41 | [Brian Cashman](http://twitter.com/search?q=Brian+Cashman) | N/A |
-| 42 | [Randall Cobb](http://twitter.com/search?q=Randall+Cobb) | N/A |
-| 43 | [Tommy John](http://twitter.com/search?q=Tommy+John) | Tommy John is a surgical procedure in which a tendon from another part of the body is used to replace an injured elbow ligament in the arm. It is named after former Major League Baseball pitcher Tommy John, who was the first athlete to undergo the procedure. The surgery has become increasingly common among professional athletes, and has helped many pitchers extend their careers. |
-| 44 | [THE PIERCINGS](http://twitter.com/search?q=THE+PIERCINGS) | N/A |
-| 45 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 46 | [Just A Girl](http://twitter.com/search?q=Just+A+Girl) | N/A |
-| 47 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 5 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
+| 6 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
+| 7 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 8 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 9 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 10 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 11 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 12 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
+| 13 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 14 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 15 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
+| 16 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 17 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
+| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 19 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 20 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 21 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 22 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 23 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 25 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 26 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 27 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 28 | [CRUELLA DE JESUS](http://twitter.com/search?q=CRUELLA+DE+JESUS) | N/A |
+| 29 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 30 | [Chad Ramey](http://twitter.com/search?q=Chad+Ramey) | N/A |
+| 31 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 32 | [Shellenberger](http://twitter.com/search?q=Shellenberger) | N/A |
+| 33 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 34 | [Jett Howard](http://twitter.com/search?q=Jett+Howard) | Jett Howard is a fictional character from the television series The Flash. He is the son of Harrison Wells and Tess Morgan, and is a speedster with the ability to manipulate time. His name is derived from the phrase "jet-setting Howard," which refers to someone who travels frequently and lives an exciting life. |
+| 35 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 36 | [James Franklin](http://twitter.com/search?q=James+Franklin) | James Franklin is a name. It is derived from the Hebrew name Yaakov, which means "he who supplants". In English, it can mean "one who replaces or takes the place of another". |
+| 37 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
+| 38 | [Larry Householder](http://twitter.com/search?q=Larry+Householder) | N/A |
+| 39 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
+| 40 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
+| 41 | [No Hard Feelings](http://twitter.com/search?q=No+Hard+Feelings) | N/A |
+| 42 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 43 | [Flagler](http://twitter.com/search?q=Flagler) | N/A |
+| 44 | [GaaS](http://twitter.com/search?q=GaaS) | N/A |
+| 45 | [JLaw](http://twitter.com/search?q=JLaw) | N/A |
+| 46 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
 
 
 

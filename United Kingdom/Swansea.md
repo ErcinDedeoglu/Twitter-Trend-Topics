@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-09 17:16:20 UTC`
+📆 Last Updated: `2023-03-09 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 2 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 1 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 2 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
 | 3 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 4 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 7 | [#Crufts](http://twitter.com/search?q=%23Crufts) | N/A |
-| 8 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 9 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 10 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 13 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 4 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
+| 7 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 8 | [Nelli](http://twitter.com/search?q=Nelli) | N/A |
+| 9 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 10 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 11 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 12 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
+| 13 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 | 14 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 15 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 16 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
-| 17 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 18 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 19 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 20 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 21 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 22 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 23 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 24 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 25 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 26 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 27 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 28 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 29 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 30 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
-| 31 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 32 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 33 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 34 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 35 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 36 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 37 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 38 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
-| 39 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 40 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 41 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 42 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 43 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 44 | [30s Germany](http://twitter.com/search?q=30s+Germany) | N/A |
-| 45 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 46 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 47 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
-| 48 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
-| 49 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 15 | [#AEKWHU](http://twitter.com/search?q=%23AEKWHU) | N/A |
+| 16 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 17 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 18 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
+| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 20 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
+| 21 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
+| 22 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
+| 23 | [Old Oak Common](http://twitter.com/search?q=Old+Oak+Common) | N/A |
+| 24 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 25 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 26 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 27 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 28 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 29 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
+| 30 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
+| 31 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 32 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 33 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 34 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 36 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
+| 37 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 38 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 39 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 40 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 41 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 42 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 43 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 44 | [Linekar](http://twitter.com/search?q=Linekar) | N/A |
+| 45 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 46 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 47 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 48 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 49 | [Topol](http://twitter.com/search?q=Topol) | N/A |
 
 
 

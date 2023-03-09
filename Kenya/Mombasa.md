@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-09 17:16:45 UTC`
+📆 Last Updated: `2023-03-09 19:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheRoadToAbidjan](http://twitter.com/search?q=%23TheRoadToAbidjan) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 4 | [RUTO MUST GO](http://twitter.com/search?q=RUTO+MUST+GO) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [#statehouse](http://twitter.com/search?q=%23statehouse) | N/A |
-| 7 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
-| 8 | [Joseph Boinnet](http://twitter.com/search?q=Joseph+Boinnet) | N/A |
-| 9 | [dj fatxo](http://twitter.com/search?q=dj+fatxo) | N/A |
-| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 11 | [Monica Juma](http://twitter.com/search?q=Monica+Juma) | N/A |
-| 12 | [Club Wallet Utawala](http://twitter.com/search?q=Club+Wallet+Utawala) | N/A |
-| 13 | [Reggae Vibes](http://twitter.com/search?q=Reggae+Vibes) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 16 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
-| 17 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 18 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
-| 19 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 20 | [National Security Advisor](http://twitter.com/search?q=National+Security+Advisor) | N/A |
-| 21 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Kanini Kega](http://twitter.com/search?q=Kanini+Kega) | N/A |
-| 24 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 25 | [Pilsner](http://twitter.com/search?q=Pilsner) | N/A |
-| 26 | [crying cartels](http://twitter.com/search?q=crying+cartels) | N/A |
-| 27 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 28 | [Ukur](http://twitter.com/search?q=Ukur) | N/A |
-| 29 | [Grace Onyango](http://twitter.com/search?q=Grace+Onyango) | N/A |
-| 30 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
-| 31 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 32 | [margaret nyakang](http://twitter.com/search?q=margaret+nyakang) | N/A |
-| 33 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 34 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 35 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 36 | [stima sacco](http://twitter.com/search?q=stima+sacco) | N/A |
-| 37 | [controller of budget](http://twitter.com/search?q=controller+of+budget) | N/A |
-| 38 | [EALA](http://twitter.com/search?q=EALA) | N/A |
-| 39 | [Gaddafi](http://twitter.com/search?q=Gaddafi) | N/A |
-| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 2 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
+| 3 | [#TheRoadToAbidjan](http://twitter.com/search?q=%23TheRoadToAbidjan) | N/A |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 6 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
+| 7 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 8 | [RUTO MUST GO](http://twitter.com/search?q=RUTO+MUST+GO) | N/A |
+| 9 | [Minne](http://twitter.com/search?q=Minne) | N/A |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 12 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 13 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 14 | [Mass Action](http://twitter.com/search?q=Mass+Action) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 17 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 18 | [Dj Fatxo](http://twitter.com/search?q=Dj+Fatxo) | N/A |
+| 19 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 20 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
+| 21 | [Joseph Boinnet](http://twitter.com/search?q=Joseph+Boinnet) | N/A |
+| 22 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 23 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 24 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 25 | [CS Moses Kuria](http://twitter.com/search?q=CS+Moses+Kuria) | N/A |
+| 26 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 27 | [Kanini Kega](http://twitter.com/search?q=Kanini+Kega) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 30 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 31 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Monica Juma](http://twitter.com/search?q=Monica+Juma) | N/A |
+| 34 | [CS Kindiki](http://twitter.com/search?q=CS+Kindiki) | N/A |
+| 35 | [crying cartels](http://twitter.com/search?q=crying+cartels) | N/A |
+| 36 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 37 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 38 | [Ukur](http://twitter.com/search?q=Ukur) | N/A |
+| 39 | [Grace Onyango](http://twitter.com/search?q=Grace+Onyango) | N/A |
+| 40 | [Reggae Vibes](http://twitter.com/search?q=Reggae+Vibes) | N/A |
 | 41 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 42 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 43 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
-| 44 | [prisca mwaro](http://twitter.com/search?q=prisca+mwaro) | N/A |
-| 45 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 46 | [Ababu Namwamba](http://twitter.com/search?q=Ababu+Namwamba) | N/A |
-| 47 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 48 | [Samia Suluhu](http://twitter.com/search?q=Samia+Suluhu) | N/A |
-| 49 | [Diana Marua](http://twitter.com/search?q=Diana+Marua) | N/A |
-| 50 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 42 | [Club Wallet Utawala](http://twitter.com/search?q=Club+Wallet+Utawala) | N/A |
+| 43 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 44 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 45 | [EALA](http://twitter.com/search?q=EALA) | N/A |
+| 46 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 47 | [National Security Advisor](http://twitter.com/search?q=National+Security+Advisor) | N/A |
+| 48 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 49 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 50 | [Stima Sacco](http://twitter.com/search?q=Stima+Sacco) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-09 17:16:36 UTC`
+📆 Last Updated: `2023-03-09 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#eaJLennon](http://twitter.com/search?q=%23eaJLennon) | N/A |
-| 2 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 3 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 5 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
-| 6 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 7 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 8 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
-| 9 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
-| 10 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 11 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 14 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 15 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
-| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 17 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 18 | [Kim Jiwoong](http://twitter.com/search?q=Kim+Jiwoong) | N/A |
-| 19 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 20 | [Indonesia Raya](http://twitter.com/search?q=Indonesia+Raya) | N/A |
-| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 1 | [#BCOMSS2023](http://twitter.com/search?q=%23BCOMSS2023) | N/A |
+| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 3 | [ikutpakde prabowo-ganjar](http://twitter.com/search?q=ikutpakde+prabowo-ganjar) | N/A |
+| 4 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
+| 5 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
+| 6 | [#eaJLennon](http://twitter.com/search?q=%23eaJLennon) | N/A |
+| 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 9 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 10 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
+| 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 12 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 14 | [Semester 1](http://twitter.com/search?q=Semester+1) | N/A |
+| 15 | [PENDIEM](http://twitter.com/search?q=PENDIEM) | N/A |
+| 16 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 17 | [300 T](http://twitter.com/search?q=300+T) | N/A |
+| 18 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 19 | [Cek Dekade 08](http://twitter.com/search?q=Cek+Dekade+08) | N/A |
+| 20 | [Kerja Nyata Prabowo](http://twitter.com/search?q=Kerja+Nyata+Prabowo) | N/A |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 22 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
-| 23 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 24 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 25 | [#PenielBestBoyDay](http://twitter.com/search?q=%23PenielBestBoyDay) | N/A |
-| 26 | [#BCOMSS2023](http://twitter.com/search?q=%23BCOMSS2023) | N/A |
-| 27 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 28 | [#프니_생일이라_심장이_동근동근해요](http://twitter.com/search?q=%23%ed%94%84%eb%8b%88_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9d%bc_%ec%8b%ac%ec%9e%a5%ec%9d%b4_%eb%8f%99%ea%b7%bc%eb%8f%99%ea%b7%bc%ed%95%b4%ec%9a%94) | N/A |
-| 29 | [#GetWellSoonChristy](http://twitter.com/search?q=%23GetWellSoonChristy) | N/A |
-| 30 | [#ceritaserem](http://twitter.com/search?q=%23ceritaserem) | N/A |
-| 31 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 32 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
-| 33 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 34 | [#NCT127](http://twitter.com/search?q=%23NCT127) | N/A |
-| 35 | [#MH370](http://twitter.com/search?q=%23MH370) | N/A |
-| 36 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 37 | [#NoMathSchoolTripPremiere](http://twitter.com/search?q=%23NoMathSchoolTripPremiere) | N/A |
-| 38 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
-| 39 | [#3월9일_경수있는_수학여행](http://twitter.com/search?q=%233%ec%9b%949%ec%9d%bc_%ea%b2%bd%ec%88%98%ec%9e%88%eb%8a%94_%ec%88%98%ed%95%99%ec%97%ac%ed%96%89) | N/A |
-| 40 | [#ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
-| 41 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 42 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
-| 43 | [#UELxWINLIVE4D](http://twitter.com/search?q=%23UELxWINLIVE4D) | N/A |
-| 44 | [#EwakoPSM](http://twitter.com/search?q=%23EwakoPSM) | N/A |
-| 45 | [#KemenkeuLumbungMaling](http://twitter.com/search?q=%23KemenkeuLumbungMaling) | N/A |
-| 46 | [#SuzumenoTojimari](http://twitter.com/search?q=%23SuzumenoTojimari) | N/A |
+| 23 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 24 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 25 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 27 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 28 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 29 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 30 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
+| 31 | [11 Footballers](http://twitter.com/search?q=11+Footballers) | N/A |
+| 32 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 33 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 34 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 35 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
+| 36 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 37 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 38 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
+| 39 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 40 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 41 | [Malam Jumat](http://twitter.com/search?q=Malam+Jumat) | N/A |
+| 42 | [HYBE BE FAIR TO JIN](http://twitter.com/search?q=HYBE+BE+FAIR+TO+JIN) | N/A |
+| 43 | [Urap](http://twitter.com/search?q=Urap) | N/A |
+| 44 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 45 | [Salim](http://twitter.com/search?q=Salim) | N/A |
+| 46 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 47 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 48 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 
 
 
