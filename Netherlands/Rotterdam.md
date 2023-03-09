@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-09 02:43:32 UTC`
+📆 Last Updated: `2023-03-09 03:23:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 10 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
 | 11 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
-| 12 | [Kontje](http://twitter.com/search?q=Kontje) | N/A |
-| 13 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 14 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 15 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 12 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 13 | [kontje](http://twitter.com/search?q=kontje) | N/A |
+| 14 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 15 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
 | 16 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 17 | [Tweehonderd Duitse](http://twitter.com/search?q=Tweehonderd+Duitse) | N/A |
 | 18 | [wichian](http://twitter.com/search?q=wichian) | N/A |
-| 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 21 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 22 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 23 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
-| 24 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 25 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 28 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 29 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 30 | [Jamin](http://twitter.com/search?q=Jamin) | N/A |
-| 31 | [Genee](http://twitter.com/search?q=Genee) | N/A |
-| 32 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 33 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
-| 34 | [Brecht](http://twitter.com/search?q=Brecht) | N/A |
-| 35 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 37 | [Mirjam Bikker](http://twitter.com/search?q=Mirjam+Bikker) | N/A |
-| 38 | [Plas](http://twitter.com/search?q=Plas) | N/A |
-| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 40 | [aboutaleb](http://twitter.com/search?q=aboutaleb) | N/A |
-| 41 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 19 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 20 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 21 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 22 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 23 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 24 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 25 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 26 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 27 | [Jamin](http://twitter.com/search?q=Jamin) | N/A |
+| 28 | [genee](http://twitter.com/search?q=genee) | N/A |
+| 29 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 30 | [Big Agro](http://twitter.com/search?q=Big+Agro) | N/A |
+| 31 | [Brecht](http://twitter.com/search?q=Brecht) | N/A |
+| 32 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
+| 33 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 34 | [Mirjam Bikker](http://twitter.com/search?q=Mirjam+Bikker) | N/A |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [Plas](http://twitter.com/search?q=Plas) | N/A |
+| 37 | [leon de winter](http://twitter.com/search?q=leon+de+winter) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 40 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 41 | [aboutaleb](http://twitter.com/search?q=aboutaleb) | N/A |
 | 42 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 43 | [leon de winter](http://twitter.com/search?q=leon+de+winter) | N/A |
-| 44 | [Susanne Täuber](http://twitter.com/search?q=Susanne+T%c3%a4uber) | N/A |
-| 45 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 46 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 47 | [Kuitjes](http://twitter.com/search?q=Kuitjes) | N/A |
-| 48 | [Pleidooi in Tweede Kamer](http://twitter.com/search?q=Pleidooi+in+Tweede+Kamer) | N/A |
-| 49 | [Verzetsheld](http://twitter.com/search?q=Verzetsheld) | N/A |
-| 50 | [Nettert](http://twitter.com/search?q=Nettert) | N/A |
+| 43 | [susanne täuber](http://twitter.com/search?q=susanne+t%c3%a4uber) | N/A |
+| 44 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 45 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 46 | [Pleidooi in Tweede Kamer](http://twitter.com/search?q=Pleidooi+in+Tweede+Kamer) | N/A |
+| 47 | [Verzetsheld](http://twitter.com/search?q=Verzetsheld) | N/A |
+| 48 | [nettert](http://twitter.com/search?q=nettert) | N/A |
+| 49 | [Kuitjes](http://twitter.com/search?q=Kuitjes) | N/A |
+| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 
