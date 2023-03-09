@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gwangju
 
-📆 Last Updated: `2023-03-09 12:18:03 UTC`
+📆 Last Updated: `2023-03-09 13:21:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Korea](</Korea>)
 | ------- | ------------ | ------------ |
 | 1 | [색조 시험](http://twitter.com/search?q=%ec%83%89%ec%a1%b0+%ec%8b%9c%ed%97%98) | N/A |
 | 2 | [당장 시험](http://twitter.com/search?q=%eb%8b%b9%ec%9e%a5+%ec%8b%9c%ed%97%98) | N/A |
-| 3 | [#온더스트릿_엠카1위축하해](http://twitter.com/search?q=%23%ec%98%a8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%bf_%ec%97%a0%ec%b9%b41%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 3 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
 | 4 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
-| 5 | [#HAPPYSUGADAY](http://twitter.com/search?q=%23HAPPYSUGADAY) | N/A |
-| 6 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 7 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
-| 8 | [탈락위기](http://twitter.com/search?q=%ed%83%88%eb%9d%bd%ec%9c%84%ea%b8%b0) | N/A |
-| 9 | [#프로세카](http://twitter.com/search?q=%23%ed%94%84%eb%a1%9c%ec%84%b8%ec%b9%b4) | N/A |
+| 5 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
+| 6 | [#온더스트릿_엠카1위축하해](http://twitter.com/search?q=%23%ec%98%a8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%bf_%ec%97%a0%ec%b9%b41%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 7 | [#프로세카](http://twitter.com/search?q=%23%ed%94%84%eb%a1%9c%ec%84%b8%ec%b9%b4) | N/A |
+| 8 | [필스페셜](http://twitter.com/search?q=%ed%95%84%ec%8a%a4%ed%8e%98%ec%85%9c) | N/A |
+| 9 | [킬링파트](http://twitter.com/search?q=%ed%82%ac%eb%a7%81%ed%8c%8c%ed%8a%b8) | N/A |
 | 10 | [무사만루](http://twitter.com/search?q=%eb%ac%b4%ec%82%ac%eb%a7%8c%eb%a3%a8) | N/A |
-| 11 | [오전 일과](http://twitter.com/search?q=%ec%98%a4%ec%a0%84+%ec%9d%bc%ea%b3%bc) | N/A |
-| 12 | [세레머니](http://twitter.com/search?q=%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88) | N/A |
-| 13 | [약속의 8회](http://twitter.com/search?q=%ec%95%bd%ec%86%8d%ec%9d%98+8%ed%9a%8c) | N/A |
-| 14 | [윤기 생일](http://twitter.com/search?q=%ec%9c%a4%ea%b8%b0+%ec%83%9d%ec%9d%bc) | N/A |
-| 15 | [원딜 초가스](http://twitter.com/search?q=%ec%9b%90%eb%94%9c+%ec%b4%88%ea%b0%80%ec%8a%a4) | N/A |
-| 16 | [도재정 데뷔](http://twitter.com/search?q=%eb%8f%84%ec%9e%ac%ec%a0%95+%eb%8d%b0%eb%b7%94) | N/A |
-| 17 | [약수위 포함](http://twitter.com/search?q=%ec%95%bd%ec%88%98%ec%9c%84+%ed%8f%ac%ed%95%a8) | N/A |
-| 18 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
-| 19 | [역전 쓰리런](http://twitter.com/search?q=%ec%97%ad%ec%a0%84+%ec%93%b0%eb%a6%ac%eb%9f%b0) | N/A |
-| 20 | [세븐틴 멤버](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%a9%a4%eb%b2%84) | N/A |
-| 21 | [카르티스](http://twitter.com/search?q=%ec%b9%b4%eb%a5%b4%ed%8b%b0%ec%8a%a4) | N/A |
-| 22 | [장슈아이보](http://twitter.com/search?q=%ec%9e%a5%ec%8a%88%ec%95%84%ec%9d%b4%eb%b3%b4) | N/A |
-| 23 | [미쿠의날](http://twitter.com/search?q=%eb%af%b8%ec%bf%a0%ec%9d%98%eb%82%a0) | N/A |
-| 24 | [국제대회](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c%eb%8c%80%ed%9a%8c) | N/A |
-| 25 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
-| 26 | [기미가요](http://twitter.com/search?q=%ea%b8%b0%eb%af%b8%ea%b0%80%ec%9a%94) | N/A |
-| 27 | [기세중 리온](http://twitter.com/search?q=%ea%b8%b0%ec%84%b8%ec%a4%91+%eb%a6%ac%ec%98%a8) | N/A |
-| 28 | [MPD직캠](http://twitter.com/search?q=MPD%ec%a7%81%ec%ba%a0) | MPD직캠 is an abbreviation for Music Program Director (MPD) Jik-Cam. It is a type of fan-cam, which is a video recording of a K-pop idol or group taken by fans at a live performance. The videos are usually taken from the front row of the audience and feature close-up shots of the performers. The term MPD Jik-Cam is used to refer to fan-cams that are specifically taken by Music Program Directors, who are responsible for selecting and promoting music on Korean television shows. |
-| 29 | [호비 1위](http://twitter.com/search?q=%ed%98%b8%eb%b9%84+1%ec%9c%84) | N/A |
-| 30 | [어메니티](http://twitter.com/search?q=%ec%96%b4%eb%a9%94%eb%8b%88%ed%8b%b0) | N/A |
-| 31 | [성경공부](http://twitter.com/search?q=%ec%84%b1%ea%b2%bd%ea%b3%b5%eb%b6%80) | N/A |
-| 32 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
-| 33 | [세계 여성](http://twitter.com/search?q=%ec%84%b8%ea%b3%84+%ec%97%ac%ec%84%b1) | N/A |
-| 34 | [버터맥주](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%eb%a7%a5%ec%a3%bc) | N/A |
-| 35 | [도감번호](http://twitter.com/search?q=%eb%8f%84%ea%b0%90%eb%b2%88%ed%98%b8) | N/A |
-| 36 | [전당대회](http://twitter.com/search?q=%ec%a0%84%eb%8b%b9%eb%8c%80%ed%9a%8c) | N/A |
-| 37 | [팀코리아](http://twitter.com/search?q=%ed%8c%80%ec%bd%94%eb%a6%ac%ec%95%84) | N/A |
-| 38 | [사이비 종교](http://twitter.com/search?q=%ec%82%ac%ec%9d%b4%eb%b9%84+%ec%a2%85%ea%b5%90) | N/A |
-| 39 | [신카이 마코토](http://twitter.com/search?q=%ec%8b%a0%ec%b9%b4%ec%9d%b4+%eb%a7%88%ec%bd%94%ed%86%a0) | N/A |
-| 40 | [양의지 홈런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ed%99%88%eb%9f%b0) | N/A |
-| 41 | [나의 투모로우](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%ed%88%ac%eb%aa%a8%eb%a1%9c%ec%9a%b0) | N/A |
-| 42 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
-| 43 | [투게더의 최애](http://twitter.com/search?q=%ed%88%ac%ea%b2%8c%eb%8d%94%ec%9d%98+%ec%b5%9c%ec%95%a0) | N/A |
-| 44 | [호주 투수](http://twitter.com/search?q=%ed%98%b8%ec%a3%bc+%ed%88%ac%ec%88%98) | N/A |
-| 45 | [다르빗슈](http://twitter.com/search?q=%eb%8b%a4%eb%a5%b4%eb%b9%97%ec%8a%88) | N/A |
-| 46 | [레드벨벳](http://twitter.com/search?q=%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
-| 47 | [구마유시](http://twitter.com/search?q=%ea%b5%ac%eb%a7%88%ec%9c%a0%ec%8b%9c) | N/A |
-| 48 | [스타마스터](http://twitter.com/search?q=%ec%8a%a4%ed%83%80%eb%a7%88%ec%8a%a4%ed%84%b0) | N/A |
-| 49 | [꼬들 432](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+432) | N/A |
+| 11 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 12 | [탈락위기](http://twitter.com/search?q=%ed%83%88%eb%9d%bd%ec%9c%84%ea%b8%b0) | N/A |
+| 13 | [오전 일과](http://twitter.com/search?q=%ec%98%a4%ec%a0%84+%ec%9d%bc%ea%b3%bc) | N/A |
+| 14 | [세레머니](http://twitter.com/search?q=%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88) | N/A |
+| 15 | [약속의 8회](http://twitter.com/search?q=%ec%95%bd%ec%86%8d%ec%9d%98+8%ed%9a%8c) | N/A |
+| 16 | [윤기 생일](http://twitter.com/search?q=%ec%9c%a4%ea%b8%b0+%ec%83%9d%ec%9d%bc) | N/A |
+| 17 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
+| 18 | [장슈아이보](http://twitter.com/search?q=%ec%9e%a5%ec%8a%88%ec%95%84%ec%9d%b4%eb%b3%b4) | N/A |
+| 19 | [도재정 데뷔](http://twitter.com/search?q=%eb%8f%84%ec%9e%ac%ec%a0%95+%eb%8d%b0%eb%b7%94) | N/A |
+| 20 | [호비 1위](http://twitter.com/search?q=%ed%98%b8%eb%b9%84+1%ec%9c%84) | N/A |
+| 21 | [역전 쓰리런](http://twitter.com/search?q=%ec%97%ad%ec%a0%84+%ec%93%b0%eb%a6%ac%eb%9f%b0) | N/A |
+| 22 | [크리스티안](http://twitter.com/search?q=%ed%81%ac%eb%a6%ac%ec%8a%a4%ed%8b%b0%ec%95%88) | N/A |
+| 23 | [약수위 포함](http://twitter.com/search?q=%ec%95%bd%ec%88%98%ec%9c%84+%ed%8f%ac%ed%95%a8) | N/A |
+| 24 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
+| 25 | [버터플라이](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%ed%94%8c%eb%9d%bc%ec%9d%b4) | N/A |
+| 26 | [세븐틴 멤버](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%a9%a4%eb%b2%84) | N/A |
+| 27 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
+| 28 | [국제대회](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c%eb%8c%80%ed%9a%8c) | N/A |
+| 29 | [미쿠의날](http://twitter.com/search?q=%eb%af%b8%ec%bf%a0%ec%9d%98%eb%82%a0) | N/A |
+| 30 | [스타마스터](http://twitter.com/search?q=%ec%8a%a4%ed%83%80%eb%a7%88%ec%8a%a4%ed%84%b0) | N/A |
+| 31 | [기미가요](http://twitter.com/search?q=%ea%b8%b0%eb%af%b8%ea%b0%80%ec%9a%94) | N/A |
+| 32 | [원딜 초가스](http://twitter.com/search?q=%ec%9b%90%eb%94%9c+%ec%b4%88%ea%b0%80%ec%8a%a4) | N/A |
+| 33 | [요런 바이브](http://twitter.com/search?q=%ec%9a%94%eb%9f%b0+%eb%b0%94%ec%9d%b4%eb%b8%8c) | N/A |
+| 34 | [ISFJ의 여행](http://twitter.com/search?q=ISFJ%ec%9d%98+%ec%97%ac%ed%96%89) | N/A |
+| 35 | [성경공부](http://twitter.com/search?q=%ec%84%b1%ea%b2%bd%ea%b3%b5%eb%b6%80) | N/A |
+| 36 | [도감번호](http://twitter.com/search?q=%eb%8f%84%ea%b0%90%eb%b2%88%ed%98%b8) | N/A |
+| 37 | [홍김동전](http://twitter.com/search?q=%ed%99%8d%ea%b9%80%eb%8f%99%ec%a0%84) | N/A |
+| 38 | [다르빗슈](http://twitter.com/search?q=%eb%8b%a4%eb%a5%b4%eb%b9%97%ec%8a%88) | N/A |
+| 39 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
+| 40 | [카르티스](http://twitter.com/search?q=%ec%b9%b4%eb%a5%b4%ed%8b%b0%ec%8a%a4) | N/A |
+| 41 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
+| 42 | [버터맥주](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%eb%a7%a5%ec%a3%bc) | N/A |
+| 43 | [보보 분량](http://twitter.com/search?q=%eb%b3%b4%eb%b3%b4+%eb%b6%84%eb%9f%89) | N/A |
+| 44 | [어메니티](http://twitter.com/search?q=%ec%96%b4%eb%a9%94%eb%8b%88%ed%8b%b0) | N/A |
+| 45 | [러브킬라](http://twitter.com/search?q=%eb%9f%ac%eb%b8%8c%ed%82%ac%eb%9d%bc) | N/A |
+| 46 | [브라이언](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9d%b4%ec%96%b8) | N/A |
+| 47 | [팀코리아](http://twitter.com/search?q=%ed%8c%80%ec%bd%94%eb%a6%ac%ec%95%84) | N/A |
+| 48 | [호주 투수](http://twitter.com/search?q=%ed%98%b8%ec%a3%bc+%ed%88%ac%ec%88%98) | N/A |
+| 49 | [신카이 마코토](http://twitter.com/search?q=%ec%8b%a0%ec%b9%b4%ec%9d%b4+%eb%a7%88%ec%bd%94%ed%86%a0) | N/A |
 
 
 

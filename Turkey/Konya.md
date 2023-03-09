@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-09 12:18:19 UTC`
+📆 Last Updated: `2023-03-09 13:21:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 2 | [Arkandayız Martı](http://twitter.com/search?q=Arkanday%c4%b1z+Mart%c4%b1) | N/A |
-| 3 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 4 | [İsmet Demirdöğen](http://twitter.com/search?q=%c4%b0smet+Demird%c3%b6%c4%9fen) | N/A |
-| 5 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
-| 6 | [#2000sonrasıTorbaya](http://twitter.com/search?q=%232000sonras%c4%b1Torbaya) | N/A |
-| 7 | [#AcilSorunBARINMA](http://twitter.com/search?q=%23AcilSorunBARINMA) | N/A |
-| 8 | [#ABOsuzMaaşAÇLIKdemek](http://twitter.com/search?q=%23ABOsuzMaa%c5%9fA%c3%87LIKdemek) | N/A |
-| 9 | [SmaYaren ÖlüyorSusma](http://twitter.com/search?q=SmaYaren+%c3%96l%c3%bcyorSusma) | N/A |
-| 10 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 11 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 2 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 3 | [İsmet Demirdöğen](http://twitter.com/search?q=%c4%b0smet+Demird%c3%b6%c4%9fen) | N/A |
+| 4 | [Arkandayız Martı](http://twitter.com/search?q=Arkanday%c4%b1z+Mart%c4%b1) | N/A |
+| 5 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 6 | [#AcilSorunBARINMA](http://twitter.com/search?q=%23AcilSorunBARINMA) | N/A |
+| 7 | [HDP'nin Hazine](http://twitter.com/search?q=HDP%27nin+Hazine) | HDP'nin Hazine is a Turkish phrase that translates to "The Treasury of the HDP". The HDP is the Peoples' Democratic Party, a left-wing political party in Turkey. The phrase is used to refer to the party's financial resources. |
+| 8 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 9 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 10 | [#ABOsuzMaaşAÇLIKdemek](http://twitter.com/search?q=%23ABOsuzMaa%c5%9fA%c3%87LIKdemek) | N/A |
+| 11 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
 | 12 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 13 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 14 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
-| 15 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 16 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 17 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 18 | [Anavatan](http://twitter.com/search?q=Anavatan) | N/A |
-| 19 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
-| 20 | [Dolar 15](http://twitter.com/search?q=Dolar+15) | N/A |
-| 21 | [20 Şubat](http://twitter.com/search?q=20+%c5%9eubat) | N/A |
-| 22 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 23 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
-| 24 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
-| 25 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
-| 26 | [Avax](http://twitter.com/search?q=Avax) | N/A |
-| 27 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 28 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
-| 29 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 30 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 31 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
-| 32 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
-| 33 | [Sena](http://twitter.com/search?q=Sena) | N/A |
-| 34 | [Şikayet](http://twitter.com/search?q=%c5%9eikayet) | N/A |
-| 35 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
-| 36 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 37 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
-| 38 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
-| 39 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 40 | [#SabirTastiZiraate15Bin](http://twitter.com/search?q=%23SabirTastiZiraate15Bin) | N/A |
-| 41 | [#5000VeKısmiHakkımız](http://twitter.com/search?q=%235000VeK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
-| 42 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
-| 43 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 44 | [#ŞoförüÜzme](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bc%c3%9czme) | N/A |
-| 45 | [#DEVA3yasinda](http://twitter.com/search?q=%23DEVA3yasinda) | N/A |
-| 46 | [#MilletKazanacak](http://twitter.com/search?q=%23MilletKazanacak) | N/A |
-| 47 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 48 | [#Sevilla](http://twitter.com/search?q=%23Sevilla) | N/A |
+| 13 | [SmaYaren ÖlüyorSusma](http://twitter.com/search?q=SmaYaren+%c3%96l%c3%bcyorSusma) | N/A |
+| 14 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 15 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 16 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 17 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 18 | [Sevilla - Fenerbahçe](http://twitter.com/search?q=Sevilla+-+Fenerbah%c3%a7e) | N/A |
+| 19 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
+| 20 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
+| 21 | [Anavatan](http://twitter.com/search?q=Anavatan) | N/A |
+| 22 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 23 | [Avax](http://twitter.com/search?q=Avax) | N/A |
+| 24 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 25 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 26 | [Dolar 15](http://twitter.com/search?q=Dolar+15) | N/A |
+| 27 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
+| 28 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
+| 29 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 30 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 31 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 32 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
+| 33 | [geceliği 100](http://twitter.com/search?q=geceli%c4%9fi+100) | N/A |
+| 34 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
+| 35 | [Şikayet](http://twitter.com/search?q=%c5%9eikayet) | N/A |
+| 36 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
+| 37 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 38 | [#2000sonrasıTorbaya](http://twitter.com/search?q=%232000sonras%c4%b1Torbaya) | N/A |
+| 39 | [#5000VeKısmiHakkımız](http://twitter.com/search?q=%235000VeK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
+| 40 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
+| 41 | [#deva3yasinda](http://twitter.com/search?q=%23deva3yasinda) | N/A |
+| 42 | [#ŞoförüÜzme](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bc%c3%9czme) | N/A |
+| 43 | [#SabirTastiZiraate15Bin](http://twitter.com/search?q=%23SabirTastiZiraate15Bin) | N/A |
+| 44 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
+| 45 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 46 | [#UEFAEuropaLeague](http://twitter.com/search?q=%23UEFAEuropaLeague) | N/A |
+| 47 | [#UzmanÇavuşlaraKadro](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flaraKadro) | N/A |
+| 48 | [#OYumuzuniversiteye](http://twitter.com/search?q=%23OYumuzuniversiteye) | N/A |
 
 
 

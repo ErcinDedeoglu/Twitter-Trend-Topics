@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-09 12:18:24 UTC`
+📆 Last Updated: `2023-03-09 13:22:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 2 | [DEPAUL](http://twitter.com/search?q=DEPAUL) | N/A |
+| 2 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
 | 3 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
 | 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 11 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 5 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 8 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
 | 12 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 13 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 14 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 15 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 16 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 17 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 19 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 13 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 14 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 15 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 16 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 17 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 19 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 20 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 21 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 22 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 23 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 24 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 25 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 26 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 27 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 28 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 29 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 30 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 31 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 32 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 33 | [MH370](http://twitter.com/search?q=MH370) | N/A |
-| 34 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 35 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 36 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 37 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 38 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 39 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 40 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 41 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 42 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 43 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 44 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 45 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 46 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 47 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 48 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 49 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 50 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 21 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 22 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 23 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
+| 24 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 25 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 26 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 27 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
+| 28 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 29 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 30 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 31 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 32 | [REAL WOMEN](http://twitter.com/search?q=REAL+WOMEN) | N/A |
+| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 35 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 36 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 38 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 39 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 40 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 41 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
+| 42 | [Nursing](http://twitter.com/search?q=Nursing) | N/A |
+| 43 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
+| 44 | [Pound](http://twitter.com/search?q=Pound) | N/A |
+| 45 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 46 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
+| 47 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 49 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 50 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
 
 
 

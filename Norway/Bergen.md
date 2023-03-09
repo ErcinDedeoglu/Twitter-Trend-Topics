@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-09 12:17:56 UTC`
+📆 Last Updated: `2023-03-09 13:21:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Norway](</Norway>)
 | 6 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
 | 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 8 | [#8mars](http://twitter.com/search?q=%238mars) | N/A |
-| 9 | [NNPF](http://twitter.com/search?q=NNPF) | N/A |
-| 10 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
-| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 14 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 9 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 10 | [nnpf](http://twitter.com/search?q=nnpf) | N/A |
+| 11 | [senterpartiet](http://twitter.com/search?q=senterpartiet) | N/A |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 16 | [god 8](http://twitter.com/search?q=god+8) | N/A |
 | 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 19 | [Enda](http://twitter.com/search?q=Enda) | N/A |
-| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 22 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 23 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 24 | [Nettavisen](http://twitter.com/search?q=Nettavisen) | N/A |
-| 25 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 26 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 28 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
-| 29 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 31 | [Stortinget](http://twitter.com/search?q=Stortinget) | N/A |
-| 32 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 37 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 38 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 43 | [kiwi](http://twitter.com/search?q=kiwi) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 46 | [tyrkia](http://twitter.com/search?q=tyrkia) | N/A |
-| 47 | [David](http://twitter.com/search?q=David) | N/A |
-| 48 | [indicia](http://twitter.com/search?q=indicia) | N/A |
+| 18 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 21 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
+| 22 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 23 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 24 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 25 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 26 | [London](http://twitter.com/search?q=London) | N/A |
+| 27 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 30 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 31 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 34 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 35 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 36 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 38 | [rødt](http://twitter.com/search?q=r%c3%b8dt) | N/A |
+| 39 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 42 | [tyrkia](http://twitter.com/search?q=tyrkia) | N/A |
+| 43 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 44 | [David](http://twitter.com/search?q=David) | N/A |
+| 45 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 48 | [dortmund](http://twitter.com/search?q=dortmund) | N/A |
 
 
 

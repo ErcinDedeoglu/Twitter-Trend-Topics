@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-09 12:17:38 UTC`
+📆 Last Updated: `2023-03-09 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 2 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 3 | [#IStandWithGary](http://twitter.com/search?q=%23IStandWithGary) | N/A |
-| 4 | [#ConteOut](http://twitter.com/search?q=%23ConteOut) | N/A |
-| 5 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 6 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 7 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 8 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 9 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 10 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 11 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 12 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 13 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 14 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
-| 15 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 16 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
-| 17 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 1 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 2 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
+| 3 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 4 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 5 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 6 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 7 | [Sussex](http://twitter.com/search?q=Sussex) | N/A |
+| 8 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 9 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 10 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 11 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 12 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 13 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 14 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 16 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 17 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
 | 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 19 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 20 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 21 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 22 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 23 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
-| 24 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 25 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 26 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 27 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 28 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 29 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 30 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 31 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 32 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 33 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 34 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 35 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 36 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 37 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 38 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 19 | [RIP Topol](http://twitter.com/search?q=RIP+Topol) | N/A |
+| 20 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 21 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 22 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
+| 23 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 24 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
+| 25 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 26 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 27 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 28 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 29 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 30 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 31 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 32 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
+| 33 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 34 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 35 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 36 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 37 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 38 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 39 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 40 | [Section 28](http://twitter.com/search?q=Section+28) | N/A |
-| 41 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 42 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 43 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 44 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 45 | [Extreme](http://twitter.com/search?q=Extreme) | N/A |
-| 46 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 47 | [Harkles](http://twitter.com/search?q=Harkles) | N/A |
-| 48 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 40 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 41 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 42 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 43 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 44 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 45 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 46 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 47 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
+| 48 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
 
 
 

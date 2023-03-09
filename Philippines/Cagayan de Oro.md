@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-09 12:18:05 UTC`
+📆 Last Updated: `2023-03-09 13:21:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,43 +18,52 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
 | 2 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
 | 3 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 4 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 5 | [#NoMathSchoolTripPremiere](http://twitter.com/search?q=%23NoMathSchoolTripPremiere) | N/A |
-| 6 | [#3월9일_경수있는_수학여행](http://twitter.com/search?q=%233%ec%9b%949%ec%9d%bc_%ea%b2%bd%ec%88%98%ec%9e%88%eb%8a%94_%ec%88%98%ed%95%99%ec%97%ac%ed%96%89) | N/A |
-| 7 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
-| 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 9 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 10 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
-| 11 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
-| 12 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 13 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 14 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
-| 15 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
-| 16 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 17 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 18 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 19 | [mahal kita so much](http://twitter.com/search?q=mahal+kita+so+much) | N/A |
-| 20 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 21 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 22 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
-| 23 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
-| 24 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
-| 25 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 26 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 27 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 28 | [Careless](http://twitter.com/search?q=Careless) | N/A |
-| 29 | [The Boyz](http://twitter.com/search?q=The+Boyz) | N/A |
-| 30 | [#LeeJaeWookAtNFT](http://twitter.com/search?q=%23LeeJaeWookAtNFT) | N/A |
-| 31 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
-| 32 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
-| 33 | [#DavidLicaucoxSkechers](http://twitter.com/search?q=%23DavidLicaucoxSkechers) | N/A |
-| 34 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 35 | [#TheCoolGirlsIssue](http://twitter.com/search?q=%23TheCoolGirlsIssue) | N/A |
-| 36 | [#KAIAforPARCINQ](http://twitter.com/search?q=%23KAIAforPARCINQ) | N/A |
-| 37 | [#BOBBYSOLOSINGLE_D12](http://twitter.com/search?q=%23BOBBYSOLOSINGLE_D12) | N/A |
-| 38 | [#KissesDelavin](http://twitter.com/search?q=%23KissesDelavin) | N/A |
-| 39 | [#KversePH](http://twitter.com/search?q=%23KversePH) | N/A |
-| 40 | [#BOYCOTTEBxGMA729](http://twitter.com/search?q=%23BOYCOTTEBxGMA729) | N/A |
+| 4 | [#LeeJaeWookAtNFT](http://twitter.com/search?q=%23LeeJaeWookAtNFT) | N/A |
+| 5 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 6 | [#UDAYS2023](http://twitter.com/search?q=%23UDAYS2023) | N/A |
+| 7 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 8 | [#NoMathSchoolTripPremiere](http://twitter.com/search?q=%23NoMathSchoolTripPremiere) | N/A |
+| 9 | [BETS BULACAN](http://twitter.com/search?q=BETS+BULACAN) | N/A |
+| 10 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 11 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 14 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 15 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 16 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
+| 17 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 18 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
+| 19 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
+| 20 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 21 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
+| 22 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 23 | [welcome back kisses](http://twitter.com/search?q=welcome+back+kisses) | N/A |
+| 24 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
+| 25 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
+| 26 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 27 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 28 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 29 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 30 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 31 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 32 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
+| 33 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 34 | [Careless](http://twitter.com/search?q=Careless) | N/A |
+| 35 | [The Boyz](http://twitter.com/search?q=The+Boyz) | N/A |
+| 36 | [#LUIDAngelites](http://twitter.com/search?q=%23LUIDAngelites) | N/A |
+| 37 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
+| 38 | [#3월9일_경수있는_수학여행](http://twitter.com/search?q=%233%ec%9b%949%ec%9d%bc_%ea%b2%bd%ec%88%98%ec%9e%88%eb%8a%94_%ec%88%98%ed%95%99%ec%97%ac%ed%96%89) | N/A |
+| 39 | [#UrdujaMayTraydor](http://twitter.com/search?q=%23UrdujaMayTraydor) | N/A |
+| 40 | [#DreamChasersPIEDay](http://twitter.com/search?q=%23DreamChasersPIEDay) | N/A |
+| 41 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 42 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
+| 43 | [#KAIAforPARCINQ](http://twitter.com/search?q=%23KAIAforPARCINQ) | N/A |
+| 44 | [#TheCoolGirlsIssue](http://twitter.com/search?q=%23TheCoolGirlsIssue) | N/A |
+| 45 | [#TAG25Under25](http://twitter.com/search?q=%23TAG25Under25) | N/A |
+| 46 | [#Press_Hit_Play](http://twitter.com/search?q=%23Press_Hit_Play) | N/A |
+| 47 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 48 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 49 | [#DavidLicaucoxSkechers](http://twitter.com/search?q=%23DavidLicaucoxSkechers) | N/A |
 
 
 

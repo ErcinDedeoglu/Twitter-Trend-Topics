@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-09 12:17:46 UTC`
+📆 Last Updated: `2023-03-09 13:21:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 2 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
+| 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 2 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
 | 3 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
 | 4 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 5 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
-| 6 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 7 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 8 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 9 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 10 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 11 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 12 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 13 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
-| 14 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 15 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
-| 16 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 17 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 5 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 6 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 7 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 8 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 9 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 10 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 11 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 12 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 13 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 14 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
+| 15 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
+| 16 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
+| 17 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
 | 18 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 19 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 20 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 21 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 22 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 23 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 24 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 25 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 26 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 27 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 28 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 29 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 30 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 31 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 32 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 34 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 35 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 36 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 37 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
-| 38 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 39 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 40 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 41 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 42 | [Discurso](http://twitter.com/search?q=Discurso) | N/A |
-| 43 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 44 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
-| 45 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
-| 46 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
-| 47 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 48 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 49 | [Liberta](http://twitter.com/search?q=Liberta) | N/A |
-| 50 | [Hunter x Hunter](http://twitter.com/search?q=Hunter+x+Hunter) | N/A |
+| 19 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 20 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 21 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 22 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 23 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 24 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 26 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 27 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 28 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
+| 29 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 30 | [Chiclete](http://twitter.com/search?q=Chiclete) | N/A |
+| 31 | [BOLSONARO LADRÃO](http://twitter.com/search?q=BOLSONARO+LADR%c3%83O) | N/A |
+| 32 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 33 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 34 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 35 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 36 | [reprimenda](http://twitter.com/search?q=reprimenda) | N/A |
+| 37 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 38 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
+| 39 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
+| 40 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 41 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 42 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
+| 43 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 44 | [taça rio](http://twitter.com/search?q=ta%c3%a7a+rio) | N/A |
+| 45 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 46 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 47 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 48 | [Discurso](http://twitter.com/search?q=Discurso) | N/A |
+| 49 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
+| 50 | [Pânico VI](http://twitter.com/search?q=P%c3%a2nico+VI) | N/A |
 
 
 

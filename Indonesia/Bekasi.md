@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-09 12:17:57 UTC`
+📆 Last Updated: `2023-03-09 13:21:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 3 | [#BCOMSS2023](http://twitter.com/search?q=%23BCOMSS2023) | N/A |
-| 4 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 5 | [IkutPakde Prabowo-Ganjar](http://twitter.com/search?q=IkutPakde+Prabowo-Ganjar) | N/A |
-| 6 | [Bikin Adem Lihatnya](http://twitter.com/search?q=Bikin+Adem+Lihatnya) | N/A |
-| 7 | [#GetWellSoonChristy](http://twitter.com/search?q=%23GetWellSoonChristy) | N/A |
-| 8 | [#YOONGIDAY](http://twitter.com/search?q=%23YOONGIDAY) | N/A |
-| 9 | [ide keren sampeinaja](http://twitter.com/search?q=ide+keren+sampeinaja) | N/A |
-| 10 | [urusangue asikin indonesia](http://twitter.com/search?q=urusangue+asikin+indonesia) | N/A |
-| 11 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
-| 12 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
-| 13 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
-| 14 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 15 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 16 | [300 T](http://twitter.com/search?q=300+T) | N/A |
-| 17 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 18 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 19 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 20 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 21 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 22 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 23 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 24 | [Arithmancy](http://twitter.com/search?q=Arithmancy) | N/A |
-| 25 | [Manahati](http://twitter.com/search?q=Manahati) | N/A |
-| 26 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 27 | [first bl](http://twitter.com/search?q=first+bl) | N/A |
-| 28 | [Salim](http://twitter.com/search?q=Salim) | N/A |
-| 29 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 30 | [DoJaeJung](http://twitter.com/search?q=DoJaeJung) | N/A |
-| 31 | [syariah islam kaffah](http://twitter.com/search?q=syariah+islam+kaffah) | N/A |
-| 32 | [Ranca Upas](http://twitter.com/search?q=Ranca+Upas) | N/A |
-| 33 | [Awan Prasetyo](http://twitter.com/search?q=Awan+Prasetyo) | N/A |
-| 34 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 35 | [BRIGHTEST STAR ZHANG HAO](http://twitter.com/search?q=BRIGHTEST+STAR+ZHANG+HAO) | N/A |
-| 36 | [Urap](http://twitter.com/search?q=Urap) | N/A |
-| 37 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 38 | [semangat ngaji berjama'ah](http://twitter.com/search?q=semangat+ngaji+berjama%27ah) | N/A |
-| 39 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 40 | [Semangat 45](http://twitter.com/search?q=Semangat+45) | N/A |
-| 41 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 42 | [2soon](http://twitter.com/search?q=2soon) | N/A |
-| 43 | [GM Vindes Corp](http://twitter.com/search?q=GM+Vindes+Corp) | N/A |
-| 44 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
-| 45 | [Limbo](http://twitter.com/search?q=Limbo) | Limbo is a Latin word meaning "edge" or "border". In English, it is used to refer to an uncertain period of awaiting a decision or resolution, an intermediate state or condition, or a state of neglect. It can also refer to a place where the souls of those who have died in original sin are confined before they are admitted into Heaven. |
-| 46 | [perhutani](http://twitter.com/search?q=perhutani) | N/A |
-| 47 | [Mahfud MD](http://twitter.com/search?q=Mahfud+MD) | N/A |
-| 48 | [Lahat](http://twitter.com/search?q=Lahat) | N/A |
-| 49 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 3 | [#BORNPINKinJAKARTA](http://twitter.com/search?q=%23BORNPINKinJAKARTA) | N/A |
+| 4 | [#BCOMSS2023](http://twitter.com/search?q=%23BCOMSS2023) | N/A |
+| 5 | [#GetWellSoonChristy](http://twitter.com/search?q=%23GetWellSoonChristy) | N/A |
+| 6 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
+| 7 | [#3월9일_경수있는_수학여행](http://twitter.com/search?q=%233%ec%9b%949%ec%9d%bc_%ea%b2%bd%ec%88%98%ec%9e%88%eb%8a%94_%ec%88%98%ed%95%99%ec%97%ac%ed%96%89) | N/A |
+| 8 | [MY CUTIE JENO](http://twitter.com/search?q=MY+CUTIE+JENO) | N/A |
+| 9 | [SUGA BIRTHDAY PARTY](http://twitter.com/search?q=SUGA+BIRTHDAY+PARTY) | N/A |
+| 10 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 11 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [Selamat Hari Musik Nasional](http://twitter.com/search?q=Selamat+Hari+Musik+Nasional) | N/A |
+| 14 | [LIMBO](http://twitter.com/search?q=LIMBO) | N/A |
+| 15 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 17 | [Lumbung](http://twitter.com/search?q=Lumbung) | N/A |
+| 18 | [Urap](http://twitter.com/search?q=Urap) | N/A |
+| 19 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 20 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 21 | [Perempuan](http://twitter.com/search?q=Perempuan) | N/A |
+| 22 | [Kebumen](http://twitter.com/search?q=Kebumen) | N/A |
+| 23 | [#NoMathSchoolTripPremiere](http://twitter.com/search?q=%23NoMathSchoolTripPremiere) | N/A |
+| 24 | [#ceritaserem](http://twitter.com/search?q=%23ceritaserem) | N/A |
+| 25 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 26 | [#TunasDiBalikSeragamJKT48](http://twitter.com/search?q=%23TunasDiBalikSeragamJKT48) | N/A |
+| 27 | [#ยิ้มทั้งน้ําตา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2) | N/A |
+| 28 | [#AGUSTDBIRTHDAYPARTY](http://twitter.com/search?q=%23AGUSTDBIRTHDAYPARTY) | N/A |
+| 29 | [#eaJLennon](http://twitter.com/search?q=%23eaJLennon) | N/A |
+| 30 | [#UELxWINLIVE4D](http://twitter.com/search?q=%23UELxWINLIVE4D) | N/A |
+| 31 | [#ProvamedxGulfLive](http://twitter.com/search?q=%23ProvamedxGulfLive) | N/A |
+| 32 | [#BeliPulsadiGrab](http://twitter.com/search?q=%23BeliPulsadiGrab) | N/A |
+| 33 | [#BaktiBTNuntukNTT](http://twitter.com/search?q=%23BaktiBTNuntukNTT) | N/A |
+| 34 | [#Kyungsoo](http://twitter.com/search?q=%23Kyungsoo) | N/A |
+| 35 | [#PerindoPartaiBersih](http://twitter.com/search?q=%23PerindoPartaiBersih) | N/A |
+| 36 | [#JHOPE1stWin](http://twitter.com/search?q=%23JHOPE1stWin) | N/A |
+| 37 | [#EwakoPSM](http://twitter.com/search?q=%23EwakoPSM) | N/A |
+| 38 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 39 | [#LeeSoE](http://twitter.com/search?q=%23LeeSoE) | N/A |
+| 40 | [#kimjiwoong](http://twitter.com/search?q=%23kimjiwoong) | N/A |
+| 41 | [#KARINAxBOTTEGAVENETA](http://twitter.com/search?q=%23KARINAxBOTTEGAVENETA) | N/A |
+| 42 | [#WTSBLACKPINKJAKARTA](http://twitter.com/search?q=%23WTSBLACKPINKJAKARTA) | N/A |
+| 43 | [#KronologiKasusHelmut](http://twitter.com/search?q=%23KronologiKasusHelmut) | N/A |
+| 44 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 45 | [#boysplanetsupport](http://twitter.com/search?q=%23boysplanetsupport) | N/A |
 
 
 
