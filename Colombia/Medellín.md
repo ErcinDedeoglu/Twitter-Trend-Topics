@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-09 21:15:59 UTC`
+📆 Last Updated: `2023-03-09 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 5 | [#HueleMal](http://twitter.com/search?q=%23HueleMal) | N/A |
 | 6 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 9 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 10 | [Gaira](http://twitter.com/search?q=Gaira) | N/A |
+| 7 | [Coliseo de Gaira](http://twitter.com/search?q=Coliseo+de+Gaira) | N/A |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
+| 10 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
 | 11 | [Augusto Rodríguez](http://twitter.com/search?q=Augusto+Rodr%c3%adguez) | N/A |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
@@ -33,12 +33,12 @@ This is top 50 for [Colombia](</Colombia>)
 | 16 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
 | 17 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 | 18 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
-| 19 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 20 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 21 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 19 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 20 | [de la rosa](http://twitter.com/search?q=de+la+rosa) | N/A |
+| 21 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
 | 22 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 23 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
-| 24 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 23 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 24 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
 | 25 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 26 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
 | 27 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Colombia](</Colombia>)
 | 35 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
 | 36 | [Pericongo](http://twitter.com/search?q=Pericongo) | N/A |
 | 37 | [Iván Mordisco](http://twitter.com/search?q=Iv%c3%a1n+Mordisco) | N/A |
-| 38 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 39 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 40 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 41 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
-| 42 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 43 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 44 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
-| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 46 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 47 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
-| 48 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 50 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 38 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 39 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
+| 40 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 41 | [Pastrana](http://twitter.com/search?q=Pastrana) | N/A |
+| 42 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 43 | [Salvatore Mancuso](http://twitter.com/search?q=Salvatore+Mancuso) | N/A |
+| 44 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 45 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 46 | [María Isabel Urrutia](http://twitter.com/search?q=Mar%c3%ada+Isabel+Urrutia) | N/A |
+| 47 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 49 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 50 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
 
 
 

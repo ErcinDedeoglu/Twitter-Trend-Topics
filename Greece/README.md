@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-09 21:16:44 UTC`
+📆 Last Updated: `2023-03-09 22:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Greece
 | 2 | [#εκλογες2023](http://twitter.com/search?q=%23%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%b5%cf%822023) | N/A |
 | 3 | [#Απεργια8Μαρτη](http://twitter.com/search?q=%23%ce%91%cf%80%ce%b5%cf%81%ce%b3%ce%b9%ce%b18%ce%9c%ce%b1%cf%81%cf%84%ce%b7) | N/A |
 | 4 | [#Τεμπη_Δολοφονια](http://twitter.com/search?q=%23%ce%a4%ce%b5%ce%bc%cf%80%ce%b7_%ce%94%ce%bf%ce%bb%ce%bf%cf%86%ce%bf%ce%bd%ce%b9%ce%b1) | N/A |
-| 5 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 6 | [#κωλοτρενο](http://twitter.com/search?q=%23%ce%ba%cf%89%ce%bb%ce%bf%cf%84%cf%81%ce%b5%ce%bd%ce%bf) | N/A |
+| 5 | [#GiTisElias](http://twitter.com/search?q=%23GiTisElias) | N/A |
+| 6 | [Marc](http://twitter.com/search?q=Marc) | N/A |
 | 7 | [Θεσσαλονικης](http://twitter.com/search?q=%ce%98%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%b9%ce%ba%ce%b7%cf%82) | N/A |
 | 8 | [Μαρφιν](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%86%ce%b9%ce%bd) | N/A |
 | 9 | [ΓΣΕΕ](http://twitter.com/search?q=%ce%93%ce%a3%ce%95%ce%95) | N/A |
 | 10 | [Ευδοκια](http://twitter.com/search?q=%ce%95%cf%85%ce%b4%ce%bf%ce%ba%ce%b9%ce%b1) | N/A |
 | 11 | [Γερακη](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%ce%ba%ce%b7) | N/A |
-| 12 | [Μανωλη Γλεζο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%cf%89%ce%bb%ce%b7+%ce%93%ce%bb%ce%b5%ce%b6%ce%bf) | N/A |
+| 12 | [μανωλη γλεζο](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%cf%89%ce%bb%ce%b7+%ce%b3%ce%bb%ce%b5%ce%b6%ce%bf) | N/A |
 | 13 | [Γυναικας](http://twitter.com/search?q=%ce%93%cf%85%ce%bd%ce%b1%ce%b9%ce%ba%ce%b1%cf%82) | N/A |
 | 14 | [Αμαλια](http://twitter.com/search?q=%ce%91%ce%bc%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
 | 15 | [καρναβαλι](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%bd%ce%b1%ce%b2%ce%b1%ce%bb%ce%b9) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Greece
 | 21 | [παγκοσμια ημερα](http://twitter.com/search?q=%cf%80%ce%b1%ce%b3%ce%ba%ce%bf%cf%83%ce%bc%ce%b9%ce%b1+%ce%b7%ce%bc%ce%b5%cf%81%ce%b1) | N/A |
 | 22 | [Καλο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf) | N/A |
 | 23 | [μπεικον](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b9%ce%ba%ce%bf%ce%bd) | N/A |
-| 24 | [Marfin](http://twitter.com/search?q=Marfin) | N/A |
-| 25 | [Κανακη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b1%ce%ba%ce%b7) | N/A |
-| 26 | [Κλαινε](http://twitter.com/search?q=%ce%9a%ce%bb%ce%b1%ce%b9%ce%bd%ce%b5) | N/A |
-| 27 | [8 μαρτιου](http://twitter.com/search?q=8+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
-| 28 | [Παρι](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b9) | N/A |
-| 29 | [τρακα](http://twitter.com/search?q=%cf%84%cf%81%ce%b1%ce%ba%ce%b1) | N/A |
-| 30 | [ΚΚΝΣ](http://twitter.com/search?q=%ce%9a%ce%9a%ce%9d%ce%a3) | N/A |
-| 31 | [Καραμανλη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%b1%ce%bc%ce%b1%ce%bd%ce%bb%ce%b7) | N/A |
-| 32 | [Enel Ρουμανιας](http://twitter.com/search?q=Enel+%ce%a1%ce%bf%cf%85%ce%bc%ce%b1%ce%bd%ce%b9%ce%b1%cf%82) | N/A |
-| 33 | [ο παναγιωτης](http://twitter.com/search?q=%ce%bf+%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
-| 34 | [Βενιζελου](http://twitter.com/search?q=%ce%92%ce%b5%ce%bd%ce%b9%ce%b6%ce%b5%ce%bb%ce%bf%cf%85) | N/A |
-| 35 | [ασημακοπουλος](http://twitter.com/search?q=%ce%b1%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 36 | [Μακη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%ce%b7) | N/A |
-| 37 | [Μπαγερν](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%b3%ce%b5%cf%81%ce%bd) | N/A |
-| 38 | [Μαρινα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bd%ce%b1) | N/A |
+| 24 | [Μαρινα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bd%ce%b1) | N/A |
+| 25 | [Marfin](http://twitter.com/search?q=Marfin) | N/A |
+| 26 | [Μακη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%ba%ce%b7) | N/A |
+| 27 | [Κλαινε](http://twitter.com/search?q=%ce%9a%ce%bb%ce%b1%ce%b9%ce%bd%ce%b5) | N/A |
+| 28 | [Κανακη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b1%ce%ba%ce%b7) | N/A |
+| 29 | [8 μαρτιου](http://twitter.com/search?q=8+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
+| 30 | [παρι](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b9) | N/A |
+| 31 | [Μπαγερν](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%b3%ce%b5%cf%81%ce%bd) | N/A |
+| 32 | [τρακα](http://twitter.com/search?q=%cf%84%cf%81%ce%b1%ce%ba%ce%b1) | N/A |
+| 33 | [ΚΚΝΣ](http://twitter.com/search?q=%ce%9a%ce%9a%ce%9d%ce%a3) | N/A |
+| 34 | [Καραμανλη](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%b1%ce%bc%ce%b1%ce%bd%ce%bb%ce%b7) | N/A |
+| 35 | [Enel Ρουμανιας](http://twitter.com/search?q=Enel+%ce%a1%ce%bf%cf%85%ce%bc%ce%b1%ce%bd%ce%b9%ce%b1%cf%82) | N/A |
+| 36 | [βενιζελου](http://twitter.com/search?q=%ce%b2%ce%b5%ce%bd%ce%b9%ce%b6%ce%b5%ce%bb%ce%bf%cf%85) | N/A |
+| 37 | [ασημακοπουλος](http://twitter.com/search?q=%ce%b1%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 38 | [Παναγιωτης](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b7%cf%82) | N/A |
 | 39 | [Γκοτσης](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7%cf%82) | N/A |
 | 40 | [σταδιου](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%b4%ce%b9%ce%bf%cf%85) | N/A |
-| 41 | [Ντινο](http://twitter.com/search?q=%ce%9d%cf%84%ce%b9%ce%bd%ce%bf) | N/A |
-| 42 | [Μονακο](http://twitter.com/search?q=%ce%9c%ce%bf%ce%bd%ce%b1%ce%ba%ce%bf) | N/A |
-| 43 | [παρτσωλη](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%cf%84%cf%83%cf%89%ce%bb%ce%b7) | N/A |
-| 44 | [πυργιωτη](http://twitter.com/search?q=%cf%80%cf%85%cf%81%ce%b3%ce%b9%cf%89%cf%84%ce%b7) | N/A |
-| 45 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 46 | [μιλαν](http://twitter.com/search?q=%ce%bc%ce%b9%ce%bb%ce%b1%ce%bd) | N/A |
-| 47 | [Αρετη](http://twitter.com/search?q=%ce%91%cf%81%ce%b5%cf%84%ce%b7) | N/A |
-| 48 | [χρυσοχοιδης](http://twitter.com/search?q=%cf%87%cf%81%cf%85%cf%83%ce%bf%cf%87%ce%bf%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
-| 49 | [Thessaloniki](http://twitter.com/search?q=Thessaloniki) | N/A |
-| 50 | [Σπιρτζη](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7) | N/A |
+| 41 | [Μονακο](http://twitter.com/search?q=%ce%9c%ce%bf%ce%bd%ce%b1%ce%ba%ce%bf) | N/A |
+| 42 | [παρτσωλη](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%cf%84%cf%83%cf%89%ce%bb%ce%b7) | N/A |
+| 43 | [πυργιωτη](http://twitter.com/search?q=%cf%80%cf%85%cf%81%ce%b3%ce%b9%cf%89%cf%84%ce%b7) | N/A |
+| 44 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 45 | [Μιλαν](http://twitter.com/search?q=%ce%9c%ce%b9%ce%bb%ce%b1%ce%bd) | N/A |
+| 46 | [Σπιρτζη](http://twitter.com/search?q=%ce%a3%cf%80%ce%b9%cf%81%cf%84%ce%b6%ce%b7) | N/A |
+| 47 | [Πασχα](http://twitter.com/search?q=%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
+| 48 | [Αρετη](http://twitter.com/search?q=%ce%91%cf%81%ce%b5%cf%84%ce%b7) | N/A |
+| 49 | [χρυσοχοιδης](http://twitter.com/search?q=%cf%87%cf%81%cf%85%cf%83%ce%bf%cf%87%ce%bf%ce%b9%ce%b4%ce%b7%cf%82) | N/A |
+| 50 | [Αργυρω](http://twitter.com/search?q=%ce%91%cf%81%ce%b3%cf%85%cf%81%cf%89) | N/A |
 
 
 

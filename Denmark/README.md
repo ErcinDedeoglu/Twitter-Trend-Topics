@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-09 21:16:42 UTC`
+📆 Last Updated: `2023-03-09 22:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,15 +25,15 @@ This is top 50 for Denmark
 | 8 | [ellemann](http://twitter.com/search?q=ellemann) | N/A |
 | 9 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 11 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
+| 11 | [cepos](http://twitter.com/search?q=cepos) | N/A |
 | 12 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 13 | [jens rohde](http://twitter.com/search?q=jens+rohde) | N/A |
 | 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 15 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 18 | [Odin](http://twitter.com/search?q=Odin) | N/A |
-| 19 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 16 | [Frederiksberg](http://twitter.com/search?q=Frederiksberg) | N/A |
+| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 18 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 19 | [Odin](http://twitter.com/search?q=Odin) | N/A |
 | 20 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
 | 21 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 22 | [nårh](http://twitter.com/search?q=n%c3%a5rh) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Denmark
 | 35 | [Nordsøen](http://twitter.com/search?q=Nords%c3%b8en) | N/A |
 | 36 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 37 | [Christiansø](http://twitter.com/search?q=Christians%c3%b8) | N/A |
-| 38 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
+| 38 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
 | 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 40 | [ærgerligt](http://twitter.com/search?q=%c3%a6rgerligt) | N/A |
 | 41 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |

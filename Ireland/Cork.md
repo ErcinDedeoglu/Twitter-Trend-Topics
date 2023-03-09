@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-09 21:16:04 UTC`
+📆 Last Updated: `2023-03-09 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for [Ireland](</Ireland>)
 | 8 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
 | 10 | [The FAI](http://twitter.com/search?q=The+FAI) | N/A |
-| 11 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [Castore](http://twitter.com/search?q=Castore) | N/A |
 | 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 16 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 17 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
 | 19 | [Primary Curriculum Framework](http://twitter.com/search?q=Primary+Curriculum+Framework) | N/A |
 | 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 21 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
@@ -52,10 +52,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [Shamrock](http://twitter.com/search?q=Shamrock) | N/A |
 | 36 | [Mary Lou](http://twitter.com/search?q=Mary+Lou) | N/A |
 | 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 38 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 38 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 40 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 41 | [Thurles](http://twitter.com/search?q=Thurles) | N/A |
+| 41 | [thurles](http://twitter.com/search?q=thurles) | N/A |
 | 42 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
 | 43 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 44 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |

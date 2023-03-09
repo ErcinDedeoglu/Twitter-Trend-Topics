@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-09 21:16:20 UTC`
+📆 Last Updated: `2023-03-09 22:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,14 +20,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
 | 4 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
 | 5 | [#JISOOFirstSingleAlbum](http://twitter.com/search?q=%23JISOOFirstSingleAlbum) | N/A |
-| 6 | [#KarinaxBottegaVeneta](http://twitter.com/search?q=%23KarinaxBottegaVeneta) | N/A |
+| 6 | [#karinaxbottegaveneta](http://twitter.com/search?q=%23karinaxbottegaveneta) | N/A |
 | 7 | [karina at bottega veneta event](http://twitter.com/search?q=karina+at+bottega+veneta+event) | N/A |
-| 8 | [HAPPY BIRTHDAY TAEYEON](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEYEON) | N/A |
+| 8 | [happy birthday taeyeon](http://twitter.com/search?q=happy+birthday+taeyeon) | N/A |
 | 9 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 10 | [best user](http://twitter.com/search?q=best+user) | N/A |
 | 11 | [cross-chain dex](http://twitter.com/search?q=cross-chain+dex) | N/A |
 | 12 | [multiple bridge and dex](http://twitter.com/search?q=multiple+bridge+and+dex) | N/A |
-| 13 | [honkai impact 3](http://twitter.com/search?q=honkai+impact+3) | N/A |
+| 13 | [Honkai Impact 3](http://twitter.com/search?q=Honkai+Impact+3) | N/A |
 | 14 | [hành trình dài của trăng sao](http://twitter.com/search?q=h%c3%a0nh+tr%c3%acnh+d%c3%a0i+c%e1%bb%a7a+tr%c4%83ng+sao) | N/A |
 | 15 | [the oyabun](http://twitter.com/search?q=the+oyabun) | N/A |
 | 16 | [join the zkx crew3 quests](http://twitter.com/search?q=join+the+zkx+crew3+quests) | N/A |
@@ -55,15 +55,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [thanh](http://twitter.com/search?q=thanh) | N/A |
 | 39 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
 | 40 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 41 | [Yuga Labs](http://twitter.com/search?q=Yuga+Labs) | N/A |
-| 42 | [Peer](http://twitter.com/search?q=Peer) | N/A |
-| 43 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 44 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 45 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 46 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 47 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
-| 48 | [#MerpclubxBounPrem](http://twitter.com/search?q=%23MerpclubxBounPrem) | N/A |
-| 49 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 41 | [yuga labs](http://twitter.com/search?q=yuga+labs) | N/A |
+| 42 | [Wo Long Fallen Dynasty](http://twitter.com/search?q=Wo+Long+Fallen+Dynasty) | N/A |
+| 43 | [Peer](http://twitter.com/search?q=Peer) | N/A |
+| 44 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 46 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 47 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 48 | [vâng](http://twitter.com/search?q=v%c3%a2ng) | N/A |
+| 49 | [#MerpclubxBounPrem](http://twitter.com/search?q=%23MerpclubxBounPrem) | N/A |
+| 50 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
 
 
 

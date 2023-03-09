@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-09 21:16:05 UTC`
+📆 Last Updated: `2023-03-09 22:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,26 +28,26 @@ This is top 50 for [France](</France>)
 | 11 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
 | 12 | [Marcel Amont](http://twitter.com/search?q=Marcel+Amont) | N/A |
 | 13 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 15 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 16 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 14 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 15 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 16 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 17 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 18 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 19 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 20 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 21 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 23 | [Amraoui](http://twitter.com/search?q=Amraoui) | N/A |
-| 24 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 18 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 19 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 20 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 21 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 23 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 24 | [Amraoui](http://twitter.com/search?q=Amraoui) | N/A |
 | 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 26 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
 | 27 | [Thierry Casasnovas](http://twitter.com/search?q=Thierry+Casasnovas) | N/A |
 | 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 | 29 | [Géorgie](http://twitter.com/search?q=G%c3%a9orgie) | N/A |
 | 30 | [Kinder Bueno](http://twitter.com/search?q=Kinder+Bueno) | N/A |
-| 31 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
-| 32 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 33 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 31 | [Ener](http://twitter.com/search?q=Ener) | N/A |
+| 32 | [allez paris](http://twitter.com/search?q=allez+paris) | N/A |
+| 33 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
 | 34 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
 | 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 36 | [Campos](http://twitter.com/search?q=Campos) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [France](</France>)
 | 38 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
 | 39 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
 | 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 41 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 42 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
-| 43 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 44 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 45 | [Ener](http://twitter.com/search?q=Ener) | N/A |
-| 46 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
-| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 49 | [Corinne Diacre](http://twitter.com/search?q=Corinne+Diacre) | N/A |
-| 50 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 41 | [Gisèle Halimi](http://twitter.com/search?q=Gis%c3%a8le+Halimi) | N/A |
+| 42 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 43 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 44 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
+| 45 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 46 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 47 | [Corinne Diacre](http://twitter.com/search?q=Corinne+Diacre) | N/A |
+| 48 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 49 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 50 | [Muller](http://twitter.com/search?q=Muller) | N/A |
 
 
 

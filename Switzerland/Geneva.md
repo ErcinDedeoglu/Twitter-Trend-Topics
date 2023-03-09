@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-09 21:16:10 UTC`
+📆 Last Updated: `2023-03-09 22:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,9 +36,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
 | 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 21 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 22 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 23 | [Neutral](http://twitter.com/search?q=Neutral) | N/A |
-| 24 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 22 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 23 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 24 | [Neutral](http://twitter.com/search?q=Neutral) | N/A |
 | 25 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 27 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |

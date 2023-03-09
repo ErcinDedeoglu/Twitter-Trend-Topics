@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-09 21:16:47 UTC`
+📆 Last Updated: `2023-03-09 22:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,11 +22,11 @@ This is top 50 for Panama
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 6 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 7 | [Feliz Día de la Mujer](http://twitter.com/search?q=Feliz+D%c3%ada+de+la+Mujer) | N/A |
-| 8 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
-| 9 | [#LoBuenoSePoneMejor](http://twitter.com/search?q=%23LoBuenoSePoneMejor) | N/A |
-| 10 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
-| 11 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 12 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 8 | [#LoBuenoSePoneMejor](http://twitter.com/search?q=%23LoBuenoSePoneMejor) | N/A |
+| 9 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 10 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
+| 11 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
@@ -36,21 +36,21 @@ This is top 50 for Panama
 | 19 | [corredor sur](http://twitter.com/search?q=corredor+sur) | N/A |
 | 20 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 21 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 22 | [parque lefevre](http://twitter.com/search?q=parque+lefevre) | N/A |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 24 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 25 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 26 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
-| 27 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 28 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
-| 29 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 22 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 23 | [parque lefevre](http://twitter.com/search?q=parque+lefevre) | N/A |
+| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 25 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 26 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 27 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
+| 28 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 29 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
 | 30 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 32 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 33 | [attt](http://twitter.com/search?q=attt) | N/A |
-| 34 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
+| 33 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [China Taipei](http://twitter.com/search?q=China+Taipei) | N/A |
+| 36 | [la attt](http://twitter.com/search?q=la+attt) | N/A |
 | 37 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 38 | [rubén tejada](http://twitter.com/search?q=rub%c3%a9n+tejada) | N/A |
 | 39 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
@@ -62,9 +62,9 @@ This is top 50 for Panama
 | 45 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
 | 46 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
 | 47 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
-| 48 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
-| 49 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 50 | [Blandón](http://twitter.com/search?q=Bland%c3%b3n) | N/A |
+| 48 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 49 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
+| 50 | [Presidencia de la República](http://twitter.com/search?q=Presidencia+de+la+Rep%c3%bablica) | N/A |
 
 
 

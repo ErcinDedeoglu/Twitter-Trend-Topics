@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-09 21:16:03 UTC`
+📆 Last Updated: `2023-03-09 22:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 2 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 3 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
-| 4 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
-| 5 | [#ZemstaZaBidena](http://twitter.com/search?q=%23ZemstaZaBidena) | N/A |
-| 6 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 7 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 8 | [#dzienkobiet](http://twitter.com/search?q=%23dzienkobiet) | N/A |
-| 9 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 10 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 11 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 12 | [drogie panie](http://twitter.com/search?q=drogie+panie) | N/A |
-| 13 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 14 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
-| 15 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 16 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 17 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
-| 18 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 19 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 20 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
-| 21 | [Sportingu](http://twitter.com/search?q=Sportingu) | N/A |
-| 22 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 23 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 24 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 25 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 26 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
-| 27 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 28 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
-| 29 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 30 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 31 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
-| 32 | [Zakopanem](http://twitter.com/search?q=Zakopanem) | N/A |
-| 33 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 35 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 38 | [Lidze Europy](http://twitter.com/search?q=Lidze+Europy) | N/A |
-| 39 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 40 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
-| 41 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
-| 42 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [Janem Pawłem II](http://twitter.com/search?q=Janem+Paw%c5%82em+II) | N/A |
-| 45 | [żaryn](http://twitter.com/search?q=%c5%bcaryn) | N/A |
-| 46 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 47 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
-| 48 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
-| 49 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
+| 1 | [#ZemstaZaBidena](http://twitter.com/search?q=%23ZemstaZaBidena) | N/A |
+| 2 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 3 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 4 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 5 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 6 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 7 | [#LPODIF](http://twitter.com/search?q=%23LPODIF) | N/A |
+| 8 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 9 | [Sportingu](http://twitter.com/search?q=Sportingu) | N/A |
+| 10 | [FIS Cup](http://twitter.com/search?q=FIS+Cup) | N/A |
+| 11 | [Ambasador USA](http://twitter.com/search?q=Ambasador+USA) | N/A |
+| 12 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 13 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 14 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
+| 15 | [Zakopanem](http://twitter.com/search?q=Zakopanem) | N/A |
+| 16 | [Lidze Europy](http://twitter.com/search?q=Lidze+Europy) | N/A |
+| 17 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 18 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 19 | [Polaka](http://twitter.com/search?q=Polaka) | N/A |
+| 20 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
+| 21 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
+| 22 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
+| 23 | [Senatu](http://twitter.com/search?q=Senatu) | N/A |
+| 24 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
+| 25 | [Dyplomatołki](http://twitter.com/search?q=Dyplomato%c5%82ki) | N/A |
+| 26 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 27 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
+| 28 | [Ojca Świętego](http://twitter.com/search?q=Ojca+%c5%9awi%c4%99tego) | N/A |
+| 29 | [Glapa](http://twitter.com/search?q=Glapa) | N/A |
+| 30 | [Judasz](http://twitter.com/search?q=Judasz) | N/A |
+| 31 | [Amerykanom](http://twitter.com/search?q=Amerykanom) | N/A |
+| 32 | [Bielana](http://twitter.com/search?q=Bielana) | N/A |
+| 33 | [Cyrk](http://twitter.com/search?q=Cyrk) | N/A |
+| 34 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 35 | [Biedrze](http://twitter.com/search?q=Biedrze) | N/A |
+| 36 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 37 | [Watykan](http://twitter.com/search?q=Watykan) | N/A |
+| 38 | [Czechów](http://twitter.com/search?q=Czech%c3%b3w) | N/A |
+| 39 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 40 | [Barki](http://twitter.com/search?q=Barki) | N/A |
+| 41 | [Oscarów](http://twitter.com/search?q=Oscar%c3%b3w) | N/A |
+| 42 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 43 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 44 | [Duma](http://twitter.com/search?q=Duma) | N/A |
+| 45 | [Kodeksu](http://twitter.com/search?q=Kodeksu) | N/A |
+| 46 | [Matka Boska](http://twitter.com/search?q=Matka+Boska) | N/A |
+| 47 | [Rzeczypospolitej Polskiej](http://twitter.com/search?q=Rzeczypospolitej+Polskiej) | N/A |
+| 48 | [San Escobar](http://twitter.com/search?q=San+Escobar) | N/A |
+| 49 | [Jutro](http://twitter.com/search?q=Jutro) | N/A |
 
 
 

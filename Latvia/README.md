@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-09 21:16:45 UTC`
+📆 Last Updated: `2023-03-09 22:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [sieviešu](http://twitter.com/search?q=sievie%c5%a1u) | N/A |
 | 2 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 3 | [#Budžets2023](http://twitter.com/search?q=%23Bud%c5%beets2023) | N/A |
+| 3 | [#budžets2023](http://twitter.com/search?q=%23bud%c5%beets2023) | N/A |
 | 4 | [galiņš](http://twitter.com/search?q=gali%c5%86%c5%a1) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 6 | [kancītis](http://twitter.com/search?q=kanc%c4%abtis) | N/A |
 | 7 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 8 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 8 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
 | 9 | [Stambulas](http://twitter.com/search?q=Stambulas) | N/A |
 | 10 | [ministru](http://twitter.com/search?q=ministru) | N/A |
 | 11 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
@@ -36,7 +36,7 @@ This is top 50 for Latvia
 | 19 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
 | 20 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
 | 21 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 22 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
+| 22 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
 | 23 | [veselības](http://twitter.com/search?q=vesel%c4%abbas) | N/A |
 | 24 | [talsu](http://twitter.com/search?q=talsu) | N/A |
 | 25 | [Europe](http://twitter.com/search?q=Europe) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Latvia
 | 44 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
 | 45 | [bahmutas](http://twitter.com/search?q=bahmutas) | N/A |
 | 46 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 47 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 47 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 48 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
 | 49 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 50 | [Riga FC](http://twitter.com/search?q=Riga+FC) | N/A |
+| 50 | [riga fc](http://twitter.com/search?q=riga+fc) | N/A |
 
 
 

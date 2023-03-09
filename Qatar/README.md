@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-09 21:16:47 UTC`
+📆 Last Updated: `2023-03-09 22:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,11 +23,11 @@ This is top 50 for Qatar
 | 6 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 7 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 | 8 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 9 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 10 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
-| 11 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 12 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 13 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 9 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 10 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 11 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
+| 12 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 14 | [البطانه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
 | 15 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 16 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |

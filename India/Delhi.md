@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-09 21:16:41 UTC`
+📆 Last Updated: `2023-03-09 22:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for [India](</India>)
 | 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 6 | [#AskJR](http://twitter.com/search?q=%23AskJR) | N/A |
 | 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [#ओबीसी_मांगे_चार_साल_का_हिसाब](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%b8%e0%a4%be%e0%a4%b2_%e0%a4%95%e0%a4%be_%e0%a4%b9%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%ac) | N/A |
-| 9 | [#mivsdc](http://twitter.com/search?q=%23mivsdc) | N/A |
-| 10 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 12 | [#MahaBudget](http://twitter.com/search?q=%23MahaBudget) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 8 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
+| 9 | [#ओबीसी_मांगे_चार_साल_का_हिसाब](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%b8%e0%a4%be%e0%a4%b2_%e0%a4%95%e0%a4%be_%e0%a4%b9%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%ac) | N/A |
+| 10 | [#mivsdc](http://twitter.com/search?q=%23mivsdc) | N/A |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 13 | [#MahaBudget](http://twitter.com/search?q=%23MahaBudget) | N/A |
 | 14 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
 | 15 | [Sushant Keeps Inspiring Us](http://twitter.com/search?q=Sushant+Keeps+Inspiring+Us) | N/A |
 | 16 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
@@ -36,35 +36,33 @@ This is top 50 for [India](</India>)
 | 19 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
 | 20 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
 | 21 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 22 | [नानक देव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 23 | [Mask](http://twitter.com/search?q=Mask) | N/A |
-| 24 | [Vedas](http://twitter.com/search?q=Vedas) | N/A |
-| 25 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
-| 26 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 27 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 22 | [Mask](http://twitter.com/search?q=Mask) | N/A |
+| 23 | [Vedas](http://twitter.com/search?q=Vedas) | N/A |
+| 24 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
+| 25 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 26 | [उपेन यादव](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%a8+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 27 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 28 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
 | 29 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
-| 30 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 31 | [#satishkaushikpassedaway](http://twitter.com/search?q=%23satishkaushikpassedaway) | N/A |
-| 32 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 33 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
-| 34 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 35 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
-| 36 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 37 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 38 | [#KuchItneHaseen](http://twitter.com/search?q=%23KuchItneHaseen) | N/A |
-| 39 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
-| 40 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
-| 41 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 42 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 43 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 44 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
-| 45 | [#Agilan](http://twitter.com/search?q=%23Agilan) | N/A |
-| 46 | [#HFCATKMB](http://twitter.com/search?q=%23HFCATKMB) | N/A |
-| 47 | [#SatishaKaushik](http://twitter.com/search?q=%23SatishaKaushik) | N/A |
-| 48 | [#DesinghPeriyasamy](http://twitter.com/search?q=%23DesinghPeriyasamy) | N/A |
-| 49 | [#Christopher](http://twitter.com/search?q=%23Christopher) | N/A |
-| 50 | [#UsmanKhawaja](http://twitter.com/search?q=%23UsmanKhawaja) | N/A |
+| 30 | [#satishkaushikpassedaway](http://twitter.com/search?q=%23satishkaushikpassedaway) | N/A |
+| 31 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 32 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
+| 33 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 34 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
+| 35 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 36 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 37 | [#KuchItneHaseen](http://twitter.com/search?q=%23KuchItneHaseen) | N/A |
+| 38 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
+| 39 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
+| 40 | [#atman](http://twitter.com/search?q=%23atman) | N/A |
+| 41 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 42 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 43 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 44 | [#Agilan](http://twitter.com/search?q=%23Agilan) | N/A |
+| 45 | [#hfcatkmb](http://twitter.com/search?q=%23hfcatkmb) | N/A |
+| 46 | [#SatishaKaushik](http://twitter.com/search?q=%23SatishaKaushik) | N/A |
+| 47 | [#Christopher](http://twitter.com/search?q=%23Christopher) | N/A |
+| 48 | [#UsmanKhawaja](http://twitter.com/search?q=%23UsmanKhawaja) | N/A |
 
 
 

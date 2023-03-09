@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-09 21:16:07 UTC`
+📆 Last Updated: `2023-03-09 22:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 5 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
 | 6 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 7 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 9 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 10 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 11 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 12 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 13 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 14 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 15 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 16 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 17 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 18 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 19 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 20 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
-| 21 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 22 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 23 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 24 | [Traute Lafrenz](http://twitter.com/search?q=Traute+Lafrenz) | N/A |
-| 25 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 26 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 27 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 32 | [Patientenakte](http://twitter.com/search?q=Patientenakte) | N/A |
-| 33 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 34 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 35 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
-| 36 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
-| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 38 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 39 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 40 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 41 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
-| 42 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 43 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 44 | [Essig](http://twitter.com/search?q=Essig) | N/A |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 11 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 12 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 13 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 14 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 15 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
+| 16 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 17 | [Erzwungen](http://twitter.com/search?q=Erzwungen) | N/A |
+| 18 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 19 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 20 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 21 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 22 | [nrw und bayern](http://twitter.com/search?q=nrw+und+bayern) | N/A |
+| 23 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 24 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 25 | [Traute Lafrenz](http://twitter.com/search?q=Traute+Lafrenz) | N/A |
+| 26 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 27 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 28 | [Shooting](http://twitter.com/search?q=Shooting) | N/A |
+| 29 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 33 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 34 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 35 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 36 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 37 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 39 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
+| 40 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 41 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 42 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
+| 43 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 44 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
 | 45 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
 | 46 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 47 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 47 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
 | 48 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 49 | [Bayern und NRW](http://twitter.com/search?q=Bayern+und+NRW) | N/A |
+| 49 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-09 21:15:54 UTC`
+📆 Last Updated: `2023-03-09 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 12 | [Matías Ramón Mella](http://twitter.com/search?q=Mat%c3%adas+Ram%c3%b3n+Mella) | N/A |
 | 13 | [#AumentoSalarial](http://twitter.com/search?q=%23AumentoSalarial) | N/A |
 | 14 | [Puerta del Conde](http://twitter.com/search?q=Puerta+del+Conde) | N/A |
-| 15 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
+| 15 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 16 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
 | 17 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
 | 18 | [Comité Nacional de Salarios](http://twitter.com/search?q=Comit%c3%a9+Nacional+de+Salarios) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 27 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 28 | [El 8](http://twitter.com/search?q=El+8) | N/A |
 | 29 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
-| 30 | [Canó](http://twitter.com/search?q=Can%c3%b3) | N/A |
+| 30 | [canó](http://twitter.com/search?q=can%c3%b3) | N/A |
 | 31 | [wellington cepeda](http://twitter.com/search?q=wellington+cepeda) | N/A |
 | 32 | [Cada 8](http://twitter.com/search?q=Cada+8) | N/A |
 | 33 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 43 | [la materialista](http://twitter.com/search?q=la+materialista) | N/A |
 | 44 | [onfalia morillo](http://twitter.com/search?q=onfalia+morillo) | N/A |
 | 45 | [Luis Ortiz](http://twitter.com/search?q=Luis+Ortiz) | N/A |
-| 46 | [Napo](http://twitter.com/search?q=Napo) | N/A |
-| 47 | [Peña Guaba](http://twitter.com/search?q=Pe%c3%b1a+Guaba) | N/A |
-| 48 | [Gregory Soto](http://twitter.com/search?q=Gregory+Soto) | N/A |
-| 49 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
-| 50 | [El PLD](http://twitter.com/search?q=El+PLD) | N/A |
+| 46 | [Peña Guaba](http://twitter.com/search?q=Pe%c3%b1a+Guaba) | N/A |
+| 47 | [gregory soto](http://twitter.com/search?q=gregory+soto) | N/A |
+| 48 | [mujer dominicana](http://twitter.com/search?q=mujer+dominicana) | N/A |
+| 49 | [El PLD](http://twitter.com/search?q=El+PLD) | N/A |
+| 50 | [Cristian Javier](http://twitter.com/search?q=Cristian+Javier) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-09 21:15:54 UTC`
+📆 Last Updated: `2023-03-09 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 3 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
 | 4 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 5 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 6 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 5 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 6 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 | 7 | [Marcus Edwards](http://twitter.com/search?q=Marcus+Edwards) | N/A |
-| 8 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 9 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 10 | [#NextLeaderOfScotland](http://twitter.com/search?q=%23NextLeaderOfScotland) | N/A |
-| 11 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 12 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
-| 13 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
-| 14 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 15 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 16 | [#AEKWHU](http://twitter.com/search?q=%23AEKWHU) | N/A |
-| 17 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 18 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 19 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 8 | [#NextLeaderOfScotland](http://twitter.com/search?q=%23NextLeaderOfScotland) | N/A |
+| 9 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 10 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 11 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 12 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 13 | [Fabio Vieira](http://twitter.com/search?q=Fabio+Vieira) | N/A |
+| 14 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 15 | [#AEKWHU](http://twitter.com/search?q=%23AEKWHU) | N/A |
+| 16 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 17 | [Joaquin](http://twitter.com/search?q=Joaquin) | N/A |
+| 18 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 19 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
+| 20 | [Coates](http://twitter.com/search?q=Coates) | N/A |
 | 21 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
 | 22 | [National Socialists](http://twitter.com/search?q=National+Socialists) | N/A |
-| 23 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
-| 24 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
-| 25 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
-| 26 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 23 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 24 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 25 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 26 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
 | 27 | [Old Oak Common](http://twitter.com/search?q=Old+Oak+Common) | N/A |
-| 28 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 29 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
-| 30 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 28 | [Michail Antonio](http://twitter.com/search?q=Michail+Antonio) | N/A |
+| 29 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 30 | [Lady C](http://twitter.com/search?q=Lady+C) | N/A |
 | 31 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 32 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 33 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
-| 34 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 35 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 36 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 37 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 32 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 33 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 34 | [Cypriot](http://twitter.com/search?q=Cypriot) | N/A |
+| 35 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 36 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 37 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
 | 38 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 39 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 41 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 42 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 43 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 44 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 45 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 46 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 47 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 48 | [Linekar](http://twitter.com/search?q=Linekar) | N/A |
+| 39 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 40 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 42 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 43 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 44 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 45 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 46 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 47 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

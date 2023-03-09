@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-09 21:16:40 UTC`
+📆 Last Updated: `2023-03-09 22:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 3 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 4 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 5 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
-| 6 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
-| 7 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 9 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 10 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 2 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 3 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 4 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 6 | [Juwan Howard](http://twitter.com/search?q=Juwan+Howard) | Juwan Howard is an American professional basketball coach and former player. He is currently the head coach of the University of Michigan men's basketball team. The name Juwan is derived from the Hebrew name Yehochanan, which means "God is gracious". |
+| 7 | [Jalen Bridges](http://twitter.com/search?q=Jalen+Bridges) | N/A |
+| 8 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 9 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 11 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 12 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 13 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 14 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
-| 15 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
-| 16 | [CRUELLA DE JESUS](http://twitter.com/search?q=CRUELLA+DE+JESUS) | N/A |
-| 17 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 18 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
-| 19 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
-| 20 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
-| 21 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 12 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 13 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 14 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 15 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 16 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 17 | [#TwitterFiles](http://twitter.com/search?q=%23TwitterFiles) | N/A |
+| 18 | [Chuck Clark](http://twitter.com/search?q=Chuck+Clark) | N/A |
+| 19 | [CRUELLA DE JESUS](http://twitter.com/search?q=CRUELLA+DE+JESUS) | N/A |
+| 20 | [$SIVB](http://twitter.com/search?q=%24SIVB) | N/A |
+| 21 | [Matt Turner](http://twitter.com/search?q=Matt+Turner) | N/A |
 | 22 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 23 | [#SPOARS](http://twitter.com/search?q=%23SPOARS) | N/A |
+| 23 | [Thielen](http://twitter.com/search?q=Thielen) | N/A |
 | 24 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 25 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 27 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 28 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 29 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 30 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 31 | [Larry Householder](http://twitter.com/search?q=Larry+Householder) | N/A |
-| 32 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 33 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 34 | [Matt Borges](http://twitter.com/search?q=Matt+Borges) | N/A |
-| 35 | [Jett Howard](http://twitter.com/search?q=Jett+Howard) | Jett Howard is a fictional character from the television series The Flash. He is the son of Harrison Wells and Tess Morgan, and is a speedster with the ability to manipulate time. His name is derived from the phrase "jet-setting Howard," which refers to someone who travels frequently and lives an exciting life. |
+| 25 | [#USAMfgHour](http://twitter.com/search?q=%23USAMfgHour) | N/A |
+| 26 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 27 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 28 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 29 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 30 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 31 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 32 | [Larry Householder](http://twitter.com/search?q=Larry+Householder) | N/A |
+| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 34 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 35 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
 | 36 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
-| 37 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 38 | [Shellenberger](http://twitter.com/search?q=Shellenberger) | N/A |
-| 39 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 40 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
-| 41 | [James Franklin](http://twitter.com/search?q=James+Franklin) | James Franklin is a name. It is derived from the Hebrew name Yaakov, which means "he who supplants". In English, it can mean "one who replaces or takes the place of another". |
-| 42 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
-| 43 | [Chad Ramey](http://twitter.com/search?q=Chad+Ramey) | N/A |
-| 44 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
-| 45 | [Norfolk Southern](http://twitter.com/search?q=Norfolk+Southern) | N/A |
-| 46 | [Derek Simpson](http://twitter.com/search?q=Derek+Simpson) | N/A |
-| 47 | [Flagler](http://twitter.com/search?q=Flagler) | N/A |
-| 48 | [GaaS](http://twitter.com/search?q=GaaS) | N/A |
-| 49 | [Mike Anderson](http://twitter.com/search?q=Mike+Anderson) | N/A |
-| 50 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
+| 37 | [Jett Howard](http://twitter.com/search?q=Jett+Howard) | Jett Howard is a fictional character from the television series The Flash. He is the son of Harrison Wells and Tess Morgan, and is a speedster with the ability to manipulate time. His name is derived from the phrase "jet-setting Howard," which refers to someone who travels frequently and lives an exciting life. |
+| 38 | [Matt Borges](http://twitter.com/search?q=Matt+Borges) | N/A |
+| 39 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
+| 40 | [Silicon Valley Bank](http://twitter.com/search?q=Silicon+Valley+Bank) | N/A |
+| 41 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 42 | [Mike Anderson](http://twitter.com/search?q=Mike+Anderson) | N/A |
+| 43 | [Shellenberger](http://twitter.com/search?q=Shellenberger) | N/A |
+| 44 | [James Franklin](http://twitter.com/search?q=James+Franklin) | James Franklin is a name. It is derived from the Hebrew name Yaakov, which means "he who supplants". In English, it can mean "one who replaces or takes the place of another". |
+| 45 | [Chad Ramey](http://twitter.com/search?q=Chad+Ramey) | N/A |
+| 46 | [GAAS](http://twitter.com/search?q=GAAS) | N/A |
+| 47 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 48 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
+| 49 | [Flagler](http://twitter.com/search?q=Flagler) | N/A |
+| 50 | [Derek Simpson](http://twitter.com/search?q=Derek+Simpson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daegu
 
-📆 Last Updated: `2023-03-09 21:16:17 UTC`
+📆 Last Updated: `2023-03-09 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,33 +30,33 @@ This is top 50 for [Korea](</Korea>)
 | 13 | [만루홈런](http://twitter.com/search?q=%eb%a7%8c%eb%a3%a8%ed%99%88%eb%9f%b0) | N/A |
 | 14 | [윤기 생일](http://twitter.com/search?q=%ec%9c%a4%ea%b8%b0+%ec%83%9d%ec%9d%bc) | N/A |
 | 15 | [더글로리](http://twitter.com/search?q=%eb%8d%94%ea%b8%80%eb%a1%9c%eb%a6%ac) | N/A |
-| 16 | [레몬디노](http://twitter.com/search?q=%eb%a0%88%eb%aa%ac%eb%94%94%eb%85%b8) | N/A |
-| 17 | [무사만루](http://twitter.com/search?q=%eb%ac%b4%ec%82%ac%eb%a7%8c%eb%a3%a8) | N/A |
-| 18 | [미쿠의날](http://twitter.com/search?q=%eb%af%b8%ec%bf%a0%ec%9d%98%eb%82%a0) | N/A |
-| 19 | [비서실장](http://twitter.com/search?q=%eb%b9%84%ec%84%9c%ec%8b%a4%ec%9e%a5) | N/A |
-| 20 | [도재정 데뷔](http://twitter.com/search?q=%eb%8f%84%ec%9e%ac%ec%a0%95+%eb%8d%b0%eb%b7%94) | N/A |
-| 21 | [필스페셜](http://twitter.com/search?q=%ed%95%84%ec%8a%a4%ed%8e%98%ec%85%9c) | N/A |
-| 22 | [인피니트](http://twitter.com/search?q=%ec%9d%b8%ed%94%bc%eb%8b%88%ed%8a%b8) | N/A |
-| 23 | [세븐틴 멤버](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%a9%a4%eb%b2%84) | N/A |
-| 24 | [탈락위기](http://twitter.com/search?q=%ed%83%88%eb%9d%bd%ec%9c%84%ea%b8%b0) | N/A |
-| 25 | [기미가요](http://twitter.com/search?q=%ea%b8%b0%eb%af%b8%ea%b0%80%ec%9a%94) | N/A |
-| 26 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
-| 27 | [약수위 포함](http://twitter.com/search?q=%ec%95%bd%ec%88%98%ec%9c%84+%ed%8f%ac%ed%95%a8) | N/A |
-| 28 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
-| 29 | [양의지 홈런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ed%99%88%eb%9f%b0) | N/A |
-| 30 | [호주 투수](http://twitter.com/search?q=%ed%98%b8%ec%a3%bc+%ed%88%ac%ec%88%98) | N/A |
-| 31 | [카르티스](http://twitter.com/search?q=%ec%b9%b4%eb%a5%b4%ed%8b%b0%ec%8a%a4) | N/A |
-| 32 | [국제대회](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c%eb%8c%80%ed%9a%8c) | N/A |
-| 33 | [세이마이네임](http://twitter.com/search?q=%ec%84%b8%ec%9d%b4%eb%a7%88%ec%9d%b4%eb%84%a4%ec%9e%84) | N/A |
-| 34 | [도감번호](http://twitter.com/search?q=%eb%8f%84%ea%b0%90%eb%b2%88%ed%98%b8) | N/A |
-| 35 | [스타마스터](http://twitter.com/search?q=%ec%8a%a4%ed%83%80%eb%a7%88%ec%8a%a4%ed%84%b0) | N/A |
-| 36 | [어메니티](http://twitter.com/search?q=%ec%96%b4%eb%a9%94%eb%8b%88%ed%8b%b0) | N/A |
-| 37 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
-| 38 | [매칭 투표](http://twitter.com/search?q=%eb%a7%a4%ec%b9%ad+%ed%88%ac%ed%91%9c) | N/A |
-| 39 | [나의 투모로우](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%ed%88%ac%eb%aa%a8%eb%a1%9c%ec%9a%b0) | N/A |
-| 40 | [투게더의 최애](http://twitter.com/search?q=%ed%88%ac%ea%b2%8c%eb%8d%94%ec%9d%98+%ec%b5%9c%ec%95%a0) | N/A |
-| 41 | [버터맥주](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%eb%a7%a5%ec%a3%bc) | N/A |
-| 42 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
+| 16 | [무사만루](http://twitter.com/search?q=%eb%ac%b4%ec%82%ac%eb%a7%8c%eb%a3%a8) | N/A |
+| 17 | [미쿠의날](http://twitter.com/search?q=%eb%af%b8%ec%bf%a0%ec%9d%98%eb%82%a0) | N/A |
+| 18 | [비서실장](http://twitter.com/search?q=%eb%b9%84%ec%84%9c%ec%8b%a4%ec%9e%a5) | N/A |
+| 19 | [도재정 데뷔](http://twitter.com/search?q=%eb%8f%84%ec%9e%ac%ec%a0%95+%eb%8d%b0%eb%b7%94) | N/A |
+| 20 | [필스페셜](http://twitter.com/search?q=%ed%95%84%ec%8a%a4%ed%8e%98%ec%85%9c) | N/A |
+| 21 | [인피니트](http://twitter.com/search?q=%ec%9d%b8%ed%94%bc%eb%8b%88%ed%8a%b8) | N/A |
+| 22 | [세븐틴 멤버](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%a9%a4%eb%b2%84) | N/A |
+| 23 | [탈락위기](http://twitter.com/search?q=%ed%83%88%eb%9d%bd%ec%9c%84%ea%b8%b0) | N/A |
+| 24 | [기미가요](http://twitter.com/search?q=%ea%b8%b0%eb%af%b8%ea%b0%80%ec%9a%94) | N/A |
+| 25 | [밀어내기](http://twitter.com/search?q=%eb%b0%80%ec%96%b4%eb%82%b4%ea%b8%b0) | N/A |
+| 26 | [약수위 포함](http://twitter.com/search?q=%ec%95%bd%ec%88%98%ec%9c%84+%ed%8f%ac%ed%95%a8) | N/A |
+| 27 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
+| 28 | [양의지 홈런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ed%99%88%eb%9f%b0) | N/A |
+| 29 | [호주 투수](http://twitter.com/search?q=%ed%98%b8%ec%a3%bc+%ed%88%ac%ec%88%98) | N/A |
+| 30 | [카르티스](http://twitter.com/search?q=%ec%b9%b4%eb%a5%b4%ed%8b%b0%ec%8a%a4) | N/A |
+| 31 | [국제대회](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c%eb%8c%80%ed%9a%8c) | N/A |
+| 32 | [세이마이네임](http://twitter.com/search?q=%ec%84%b8%ec%9d%b4%eb%a7%88%ec%9d%b4%eb%84%a4%ec%9e%84) | N/A |
+| 33 | [도감번호](http://twitter.com/search?q=%eb%8f%84%ea%b0%90%eb%b2%88%ed%98%b8) | N/A |
+| 34 | [스타마스터](http://twitter.com/search?q=%ec%8a%a4%ed%83%80%eb%a7%88%ec%8a%a4%ed%84%b0) | N/A |
+| 35 | [어메니티](http://twitter.com/search?q=%ec%96%b4%eb%a9%94%eb%8b%88%ed%8b%b0) | N/A |
+| 36 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
+| 37 | [매칭 투표](http://twitter.com/search?q=%eb%a7%a4%ec%b9%ad+%ed%88%ac%ed%91%9c) | N/A |
+| 38 | [나의 투모로우](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%ed%88%ac%eb%aa%a8%eb%a1%9c%ec%9a%b0) | N/A |
+| 39 | [투게더의 최애](http://twitter.com/search?q=%ed%88%ac%ea%b2%8c%eb%8d%94%ec%9d%98+%ec%b5%9c%ec%95%a0) | N/A |
+| 40 | [버터맥주](http://twitter.com/search?q=%eb%b2%84%ed%84%b0%eb%a7%a5%ec%a3%bc) | N/A |
+| 41 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
+| 42 | [레몬디노](http://twitter.com/search?q=%eb%a0%88%eb%aa%ac%eb%94%94%eb%85%b8) | N/A |
 | 43 | [양의지 쓰리런](http://twitter.com/search?q=%ec%96%91%ec%9d%98%ec%a7%80+%ec%93%b0%eb%a6%ac%eb%9f%b0) | N/A |
 | 44 | [다르빗슈](http://twitter.com/search?q=%eb%8b%a4%eb%a5%b4%eb%b9%97%ec%8a%88) | N/A |
 | 45 | [안타 하나](http://twitter.com/search?q=%ec%95%88%ed%83%80+%ed%95%98%eb%82%98) | N/A |
