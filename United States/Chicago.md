@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-09 15:16:45 UTC`
+📆 Last Updated: `2023-03-09 16:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
-| 2 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 6 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
+| 3 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 4 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 5 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 6 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
+| 7 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 9 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
 | 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 11 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 12 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 13 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 14 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 15 | [Hayden Buckley](http://twitter.com/search?q=Hayden+Buckley) | N/A |
-| 16 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 17 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 18 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
-| 19 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 20 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 21 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 22 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 23 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 24 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
-| 25 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 26 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 27 | [Matt Cain](http://twitter.com/search?q=Matt+Cain) | N/A |
-| 28 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 29 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 30 | [Team Italy](http://twitter.com/search?q=Team+Italy) | N/A |
-| 31 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 32 | [Christopher Wallace](http://twitter.com/search?q=Christopher+Wallace) | N/A |
-| 33 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 34 | [Miku Day](http://twitter.com/search?q=Miku+Day) | N/A |
-| 35 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 36 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 37 | [Matt Harvey](http://twitter.com/search?q=Matt+Harvey) | N/A |
-| 38 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 39 | [Randy McNally](http://twitter.com/search?q=Randy+McNally) | N/A |
-| 40 | [Damn KD](http://twitter.com/search?q=Damn+KD) | N/A |
-| 41 | [biden and pelosi](http://twitter.com/search?q=biden+and+pelosi) | N/A |
-| 42 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 43 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 44 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 45 | [Twitter Files](http://twitter.com/search?q=Twitter+Files) | N/A |
-| 46 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 11 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
+| 12 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 13 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 14 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 15 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 16 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 17 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 19 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 20 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 21 | [THE PIERCINGS](http://twitter.com/search?q=THE+PIERCINGS) | N/A |
+| 22 | [JLaw](http://twitter.com/search?q=JLaw) | N/A |
+| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 24 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 25 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 26 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 27 | [Hayden Buckley](http://twitter.com/search?q=Hayden+Buckley) | N/A |
+| 28 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 29 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 30 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 31 | [Norfolk Southern CEO](http://twitter.com/search?q=Norfolk+Southern+CEO) | N/A |
+| 32 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 33 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 34 | [Matt Cain](http://twitter.com/search?q=Matt+Cain) | N/A |
+| 35 | [No Hard Feelings](http://twitter.com/search?q=No+Hard+Feelings) | N/A |
+| 36 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 37 | [Just A Girl](http://twitter.com/search?q=Just+A+Girl) | N/A |
+| 38 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
+| 39 | [Alan Shaw](http://twitter.com/search?q=Alan+Shaw) | N/A |
+| 40 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 41 | [La Nina](http://twitter.com/search?q=La+Nina) | N/A |
+| 42 | [Von Miller](http://twitter.com/search?q=Von+Miller) | Von Miller is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He is a seven-time Pro Bowl selection and was named Super Bowl MVP in 2016. He is known for his speed, agility, and pass-rushing ability. |
+| 43 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 44 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 45 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
 
 
 

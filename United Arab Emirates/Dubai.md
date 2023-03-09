@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-09 15:16:36 UTC`
+📆 Last Updated: `2023-03-09 16:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 3 | [#اليوم_العالمي_للمراه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
-| 6 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 7 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 8 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 6 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 7 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 8 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 11 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 15 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 16 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
-| 17 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 18 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 19 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 16 | [نساء العالم](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 17 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 18 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 19 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
 | 20 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
 | 21 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 22 | [سلطان النيادي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 23 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [نصف المجتمع](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9) | N/A |
+| 23 | [الخدمات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 24 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 25 | [دور الثمانيه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 26 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 27 | [الخدمات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 29 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 30 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 31 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 32 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 33 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
-| 34 | [رييس مجلس الاداره](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 35 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 36 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 37 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 38 | [برلين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%84%d9%8a%d9%86) | N/A |
-| 39 | [حمد بن](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86) | N/A |
-| 40 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 41 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 42 | [رييس معهد الشارقه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
-| 43 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
-| 44 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 45 | [براد سميث](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7%d8%af+%d8%b3%d9%85%d9%8a%d8%ab) | N/A |
-| 46 | [ac milan](http://twitter.com/search?q=ac+milan) | N/A |
-| 47 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
-| 48 | [رجل التراث العربي](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 49 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
-| 50 | [12 مارس](http://twitter.com/search?q=12+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 27 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 29 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 30 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 31 | [علي متن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%aa%d9%86) | N/A |
+| 32 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 34 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 36 | [رييس مجلس الاداره](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 37 | [حمد بن](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86) | N/A |
+| 38 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 39 | [وزير الخارجيه السعودي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 40 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 41 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 42 | [هاني شنودة](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d9%86%d9%88%d8%af%d8%a9) | N/A |
+| 43 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
+| 44 | [ابو ظبي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b8%d8%a8%d9%8a) | N/A |
+| 45 | [التغير المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
+| 46 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 47 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 49 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 50 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
 
 
 

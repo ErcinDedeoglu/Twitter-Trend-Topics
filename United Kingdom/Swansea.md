@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-09 15:16:08 UTC`
+📆 Last Updated: `2023-03-09 16:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 2 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 3 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 4 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 5 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
-| 6 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 7 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 8 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 9 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 10 | [Rex Dingle](http://twitter.com/search?q=Rex+Dingle) | N/A |
+| 2 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 3 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 4 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 5 | [#SaintOrSinnerFilmsOrSongs](http://twitter.com/search?q=%23SaintOrSinnerFilmsOrSongs) | N/A |
+| 6 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 7 | [#Crufts](http://twitter.com/search?q=%23Crufts) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 10 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
 | 11 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 12 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 13 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 14 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 15 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 16 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 17 | [Steve Borthwick](http://twitter.com/search?q=Steve+Borthwick) | N/A |
-| 18 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 19 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 20 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 21 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
-| 22 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 23 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 24 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 25 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 12 | [Rex Dingle](http://twitter.com/search?q=Rex+Dingle) | N/A |
+| 13 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 14 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 15 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 16 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 17 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 18 | [Jess Phillips](http://twitter.com/search?q=Jess+Phillips) | N/A |
+| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 20 | [Steve Borthwick](http://twitter.com/search?q=Steve+Borthwick) | N/A |
+| 21 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 22 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 23 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 24 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 25 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
 | 26 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 27 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 28 | [Paul Pogba](http://twitter.com/search?q=Paul+Pogba) | N/A |
-| 29 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 30 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
-| 31 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
-| 32 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 33 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 34 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 35 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 36 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 37 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
-| 38 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 39 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 40 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 41 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 42 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 43 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 44 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
-| 45 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 46 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 47 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 48 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 49 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 27 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 28 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 29 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 30 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
+| 31 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 32 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 33 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 34 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 35 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 36 | [Monarchy](http://twitter.com/search?q=Monarchy) | N/A |
+| 37 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 38 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 39 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 40 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 41 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 42 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 43 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 44 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 45 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 46 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 47 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 48 | [Harkles](http://twitter.com/search?q=Harkles) | N/A |
+| 49 | [30s Germany](http://twitter.com/search?q=30s+Germany) | N/A |
 
 
 

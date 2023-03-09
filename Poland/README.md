@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-09 15:16:58 UTC`
+📆 Last Updated: `2023-03-09 16:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Poland
 | 5 | [Dnia Kobiet](http://twitter.com/search?q=Dnia+Kobiet) | N/A |
 | 6 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 7 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
-| 8 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 9 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 10 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 11 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
-| 12 | [Grota](http://twitter.com/search?q=Grota) | N/A |
-| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 14 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 15 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
+| 12 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 13 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
+| 14 | [Grota](http://twitter.com/search?q=Grota) | N/A |
+| 15 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 16 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
-| 17 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 18 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 19 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
-| 20 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
-| 21 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 22 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 23 | [suski](http://twitter.com/search?q=suski) | N/A |
-| 24 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 25 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 17 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
+| 18 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 19 | [#Differentnapapierze](http://twitter.com/search?q=%23Differentnapapierze) | N/A |
+| 20 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 21 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 22 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 23 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 24 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 25 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
 | 26 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 27 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
-| 28 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 32 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
-| 33 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 37 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 38 | [Rzeczypospolitej Polskiej](http://twitter.com/search?q=Rzeczypospolitej+Polskiej) | N/A |
+| 27 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
+| 28 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 29 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 30 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
+| 31 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 34 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 35 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 36 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 37 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 39 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
-| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 41 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
-| 42 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 43 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 44 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 45 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
-| 46 | [Stanów Zjednoczonych](http://twitter.com/search?q=Stan%c3%b3w+Zjednoczonych) | N/A |
-| 47 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
-| 48 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
-| 49 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 50 | [Żalka](http://twitter.com/search?q=%c5%bbalka) | N/A |
+| 40 | [Glapa](http://twitter.com/search?q=Glapa) | N/A |
+| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 43 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 44 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 47 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
+| 48 | [stanów zjednoczonych](http://twitter.com/search?q=stan%c3%b3w+zjednoczonych) | N/A |
+| 49 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
+| 50 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
 
 
 

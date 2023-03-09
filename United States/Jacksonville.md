@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-09 15:16:47 UTC`
+📆 Last Updated: `2023-03-09 16:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
 | 2 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 3 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 4 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
-| 5 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 8 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 9 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 10 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 11 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 13 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 14 | [Hayden Buckley](http://twitter.com/search?q=Hayden+Buckley) | N/A |
-| 15 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 17 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 3 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 4 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 5 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
+| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 7 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 13 | [Coach Self](http://twitter.com/search?q=Coach+Self) | N/A |
+| 14 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 15 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 16 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 17 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
 | 18 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 19 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 20 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 23 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
-| 24 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 25 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 26 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 27 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 28 | [Team Italy](http://twitter.com/search?q=Team+Italy) | N/A |
-| 29 | [Christopher Wallace](http://twitter.com/search?q=Christopher+Wallace) | N/A |
-| 30 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 31 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 32 | [Miku Day](http://twitter.com/search?q=Miku+Day) | N/A |
-| 33 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 34 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 35 | [Matt Harvey](http://twitter.com/search?q=Matt+Harvey) | N/A |
-| 36 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 37 | [Randy McNally](http://twitter.com/search?q=Randy+McNally) | N/A |
-| 38 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 39 | [Biden and Pelosi](http://twitter.com/search?q=Biden+and+Pelosi) | N/A |
-| 40 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 41 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 42 | [Twitter Files](http://twitter.com/search?q=Twitter+Files) | N/A |
-| 43 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 44 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 45 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 46 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 47 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 48 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 49 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 50 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 20 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 21 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 22 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 23 | [THE PIERCINGS](http://twitter.com/search?q=THE+PIERCINGS) | N/A |
+| 24 | [JLaw](http://twitter.com/search?q=JLaw) | N/A |
+| 25 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 26 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 27 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 28 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 29 | [Hayden Buckley](http://twitter.com/search?q=Hayden+Buckley) | N/A |
+| 30 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 31 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 32 | [Norfolk Southern CEO](http://twitter.com/search?q=Norfolk+Southern+CEO) | N/A |
+| 33 | [Cocaine Cat](http://twitter.com/search?q=Cocaine+Cat) | N/A |
+| 34 | [Matt Cain](http://twitter.com/search?q=Matt+Cain) | N/A |
+| 35 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 37 | [Just A Girl](http://twitter.com/search?q=Just+A+Girl) | N/A |
+| 38 | [Larsa](http://twitter.com/search?q=Larsa) | N/A |
+| 39 | [Alan Shaw](http://twitter.com/search?q=Alan+Shaw) | N/A |
+| 40 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 41 | [La Nina](http://twitter.com/search?q=La+Nina) | N/A |
+| 42 | [Von Miller](http://twitter.com/search?q=Von+Miller) | Von Miller is an American football player who currently plays for the Denver Broncos of the National Football League (NFL). He is a seven-time Pro Bowl selection and was named Super Bowl MVP in 2016. He is known for his speed, agility, and pass-rushing ability. |
+| 43 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 44 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
+| 45 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 46 | [Team Italy](http://twitter.com/search?q=Team+Italy) | N/A |
+| 47 | [Randy McNally](http://twitter.com/search?q=Randy+McNally) | N/A |
+| 48 | [Aaron Boone](http://twitter.com/search?q=Aaron+Boone) | N/A |
+| 49 | [Christopher Wallace](http://twitter.com/search?q=Christopher+Wallace) | N/A |
+| 50 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
 
 
 

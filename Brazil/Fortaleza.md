@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-09 15:16:15 UTC`
+📆 Last Updated: `2023-03-09 16:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 2 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 3 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 4 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 5 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
-| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 7 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 8 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 9 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 1 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 2 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
+| 5 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 6 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 7 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 8 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
+| 9 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
 | 10 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 11 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 12 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 13 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 14 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 15 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 16 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 17 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 19 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 20 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 21 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 22 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 23 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 24 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 25 | [Aluna](http://twitter.com/search?q=Aluna) | N/A |
-| 26 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 27 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 28 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 29 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 30 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
-| 31 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 32 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
-| 33 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
-| 34 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 35 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 36 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 37 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 38 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 39 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 40 | [Acre](http://twitter.com/search?q=Acre) | N/A |
-| 41 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 42 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
-| 43 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 44 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
-| 45 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 46 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 47 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 48 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 49 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 50 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 11 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 14 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 15 | [ASSISTA NÃO VALE O TE AMO](http://twitter.com/search?q=ASSISTA+N%c3%83O+VALE+O+TE+AMO) | N/A |
+| 16 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 17 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 18 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
+| 19 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
+| 20 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 21 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 22 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 23 | [john frusciante](http://twitter.com/search?q=john+frusciante) | N/A |
+| 24 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
+| 25 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 26 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 27 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 28 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 29 | [D'Ale](http://twitter.com/search?q=D%27Ale) | N/A |
+| 30 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 31 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 32 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 33 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 34 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 35 | [Rugal](http://twitter.com/search?q=Rugal) | N/A |
+| 36 | [Marrone](http://twitter.com/search?q=Marrone) | N/A |
+| 37 | [Aluna](http://twitter.com/search?q=Aluna) | N/A |
+| 38 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 39 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 40 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 41 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 42 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 43 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
+| 44 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 45 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 46 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 47 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
+| 48 | [Professora](http://twitter.com/search?q=Professora) | N/A |
+| 49 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
+| 50 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
 
 
 

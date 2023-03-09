@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-09 15:16:31 UTC`
+📆 Last Updated: `2023-03-09 16:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 2 | [#kverseph](http://twitter.com/search?q=%23kverseph) | N/A |
+| 2 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
 | 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 4 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 5 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
-| 6 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
-| 7 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
-| 8 | [#PenielBestBoyDay](http://twitter.com/search?q=%23PenielBestBoyDay) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 11 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 12 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
-| 13 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
-| 14 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
-| 15 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
-| 16 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 6 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 7 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
+| 8 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
+| 9 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 10 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
+| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 12 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 14 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
+| 15 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
+| 16 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
 | 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 18 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 19 | [ASI ROAD TO PIEPOP](http://twitter.com/search?q=ASI+ROAD+TO+PIEPOP) | N/A |
-| 20 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 21 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 22 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 23 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
-| 24 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 18 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 19 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
+| 20 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 23 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 24 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
 | 25 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
-| 26 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 27 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
-| 28 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
+| 26 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 28 | [choco mucho](http://twitter.com/search?q=choco+mucho) | N/A |
 | 29 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
 | 30 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 31 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
-| 32 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
-| 33 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 34 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 35 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 36 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 37 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
-| 38 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 39 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
-| 40 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 31 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
+| 32 | [Caratland](http://twitter.com/search?q=Caratland) | N/A |
+| 33 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 34 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
+| 35 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
+| 36 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
+| 37 | [#PenielBestBoyDay](http://twitter.com/search?q=%23PenielBestBoyDay) | N/A |
+| 38 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 39 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 40 | [#AskCOJ](http://twitter.com/search?q=%23AskCOJ) | N/A |
 | 41 | [#프니_생일이라_심장이_동근동근해요](http://twitter.com/search?q=%23%ed%94%84%eb%8b%88_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9d%bc_%ec%8b%ac%ec%9e%a5%ec%9d%b4_%eb%8f%99%ea%b7%bc%eb%8f%99%ea%b7%bc%ed%95%b4%ec%9a%94) | N/A |
-| 42 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 43 | [#AskCOJ](http://twitter.com/search?q=%23AskCOJ) | N/A |
-| 44 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
-| 45 | [#JonaxxGYWKab13](http://twitter.com/search?q=%23JonaxxGYWKab13) | N/A |
-| 46 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 47 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
-| 48 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 49 | [#UDAYS2023](http://twitter.com/search?q=%23UDAYS2023) | N/A |
+| 42 | [#JonaxxGYWKab13](http://twitter.com/search?q=%23JonaxxGYWKab13) | N/A |
+| 43 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 44 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 45 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
+| 46 | [#eaJLennon](http://twitter.com/search?q=%23eaJLennon) | N/A |
+| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 48 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 49 | [#LUIDAngelites](http://twitter.com/search?q=%23LUIDAngelites) | N/A |
 
 
 

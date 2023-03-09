@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-09 15:16:17 UTC`
+📆 Last Updated: `2023-03-09 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 2 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 5 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
-| 6 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
-| 7 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
-| 8 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
-| 9 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 10 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
-| 11 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 12 | [freien](http://twitter.com/search?q=freien) | N/A |
-| 13 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
-| 14 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 15 | [Fürst](http://twitter.com/search?q=F%c3%bcrst) | N/A |
-| 16 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
-| 19 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 20 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
-| 21 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
-| 22 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 23 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
-| 24 | [Attest](http://twitter.com/search?q=Attest) | N/A |
-| 25 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 26 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
-| 27 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 28 | [Konto](http://twitter.com/search?q=Konto) | N/A |
-| 29 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 30 | [SPÖ Burgenland](http://twitter.com/search?q=SP%c3%96+Burgenland) | N/A |
-| 31 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
-| 32 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 33 | [Erlagschein](http://twitter.com/search?q=Erlagschein) | N/A |
-| 34 | [Schmitt](http://twitter.com/search?q=Schmitt) | N/A |
-| 35 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
-| 36 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 37 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 38 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 40 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 41 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 42 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 43 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 44 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
-| 45 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
-| 46 | [grundwehrdienst](http://twitter.com/search?q=grundwehrdienst) | N/A |
-| 47 | [Erziehung](http://twitter.com/search?q=Erziehung) | N/A |
-| 48 | [Beginn](http://twitter.com/search?q=Beginn) | N/A |
-| 49 | [frauengasse](http://twitter.com/search?q=frauengasse) | N/A |
-| 50 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 1 | [#Weltfrauentag](http://twitter.com/search?q=%23Weltfrauentag) | N/A |
+| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 3 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 5 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
+| 6 | [Methoden](http://twitter.com/search?q=Methoden) | N/A |
+| 7 | [#DerSchwarm](http://twitter.com/search?q=%23DerSchwarm) | N/A |
+| 8 | [Bezahlung](http://twitter.com/search?q=Bezahlung) | N/A |
+| 9 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 10 | [Internationalen](http://twitter.com/search?q=Internationalen) | N/A |
+| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 12 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
+| 13 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 14 | [Freien](http://twitter.com/search?q=Freien) | N/A |
+| 15 | [Georgien](http://twitter.com/search?q=Georgien) | N/A |
+| 16 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 17 | [fürst](http://twitter.com/search?q=f%c3%bcrst) | N/A |
+| 18 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 20 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 21 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 22 | [Attest](http://twitter.com/search?q=Attest) | N/A |
+| 23 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 24 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 25 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 26 | [Kinderbetreuung](http://twitter.com/search?q=Kinderbetreuung) | N/A |
+| 27 | [Beidl](http://twitter.com/search?q=Beidl) | N/A |
+| 28 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 29 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 30 | [Antibiotika](http://twitter.com/search?q=Antibiotika) | N/A |
+| 31 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 32 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 33 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 34 | [Weltmännertag](http://twitter.com/search?q=Weltm%c3%a4nnertag) | N/A |
+| 35 | [spö burgenland](http://twitter.com/search?q=sp%c3%b6+burgenland) | N/A |
+| 36 | [Plakate](http://twitter.com/search?q=Plakate) | N/A |
+| 37 | [Verfahren](http://twitter.com/search?q=Verfahren) | N/A |
+| 38 | [Erlagschein](http://twitter.com/search?q=Erlagschein) | N/A |
+| 39 | [Raucher](http://twitter.com/search?q=Raucher) | N/A |
+| 40 | [Schmitt](http://twitter.com/search?q=Schmitt) | N/A |
+| 41 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 42 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 43 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 44 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 45 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 46 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 47 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 48 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
+| 49 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 50 | [Reisepässe](http://twitter.com/search?q=Reisep%c3%a4sse) | N/A |
 
 
 
