@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-09 08:17:42 UTC`
+📆 Last Updated: `2023-03-09 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Demirtaş](http://twitter.com/search?q=Demirta%c5%9f) | N/A |
-| 2 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 3 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 4 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 5 | [UygunFiyatda TTHizmeti](http://twitter.com/search?q=UygunFiyatda+TTHizmeti) | N/A |
-| 6 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
-| 7 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 8 | [#BakanÖnerim](http://twitter.com/search?q=%23Bakan%c3%96nerim) | N/A |
-| 9 | [#2000sonrasıTorbaya](http://twitter.com/search?q=%232000sonras%c4%b1Torbaya) | N/A |
-| 10 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 11 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
-| 12 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 13 | [Dolar 15](http://twitter.com/search?q=Dolar+15) | N/A |
-| 14 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 2 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 3 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 4 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 5 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
+| 6 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 7 | [UygunFiyatda TTHizmeti](http://twitter.com/search?q=UygunFiyatda+TTHizmeti) | N/A |
+| 8 | [#SabirTastiZiraate15Bin](http://twitter.com/search?q=%23SabirTastiZiraate15Bin) | N/A |
+| 9 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 10 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 11 | [#2000sonrasıTorbaya](http://twitter.com/search?q=%232000sonras%c4%b1Torbaya) | N/A |
+| 12 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 13 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 14 | [Dolar 15](http://twitter.com/search?q=Dolar+15) | N/A |
 | 15 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
-| 16 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 17 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 18 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
-| 19 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
-| 20 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 21 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
-| 22 | [Aslı](http://twitter.com/search?q=Asl%c4%b1) | N/A |
-| 23 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 24 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 25 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
-| 26 | [#MilletKazanacak](http://twitter.com/search?q=%23MilletKazanacak) | N/A |
-| 27 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
-| 28 | [#TekHedefimiz](http://twitter.com/search?q=%23TekHedefimiz) | N/A |
-| 29 | [#bandırma](http://twitter.com/search?q=%23band%c4%b1rma) | N/A |
-| 30 | [#DEVA3yasinda](http://twitter.com/search?q=%23DEVA3yasinda) | N/A |
-| 31 | [#EXXEN](http://twitter.com/search?q=%23EXXEN) | N/A |
-| 32 | [#SVLvFB](http://twitter.com/search?q=%23SVLvFB) | N/A |
-| 33 | [#9mart](http://twitter.com/search?q=%239mart) | N/A |
-| 34 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 35 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
-| 36 | [#Sevilla](http://twitter.com/search?q=%23Sevilla) | N/A |
-| 37 | [#tukas](http://twitter.com/search?q=%23tukas) | N/A |
-| 38 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
-| 39 | [#sdttr](http://twitter.com/search?q=%23sdttr) | N/A |
-| 40 | [#ŞoförüÜzme](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bc%c3%9czme) | N/A |
-| 41 | [#isctr](http://twitter.com/search?q=%23isctr) | N/A |
-| 42 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
-| 43 | [#xbank](http://twitter.com/search?q=%23xbank) | N/A |
+| 16 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 17 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 18 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 19 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
+| 20 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 21 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 22 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 23 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
+| 24 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 25 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 26 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
+| 27 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 28 | [Baban](http://twitter.com/search?q=Baban) | N/A |
+| 29 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
+| 30 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
+| 31 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 32 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
+| 33 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 34 | [PKK'ya](http://twitter.com/search?q=PKK%27ya) | N/A |
+| 35 | [15 Temmuz](http://twitter.com/search?q=15+Temmuz) | N/A |
+| 36 | [#ABOsuzMaaşAÇLIKdemek](http://twitter.com/search?q=%23ABOsuzMaa%c5%9fA%c3%87LIKdemek) | N/A |
+| 37 | [#BakanÖnerim](http://twitter.com/search?q=%23Bakan%c3%96nerim) | N/A |
+| 38 | [#MilletKazanacak](http://twitter.com/search?q=%23MilletKazanacak) | N/A |
+| 39 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
+| 40 | [#EXXEN](http://twitter.com/search?q=%23EXXEN) | N/A |
+| 41 | [#DEVA3yasinda](http://twitter.com/search?q=%23DEVA3yasinda) | N/A |
+| 42 | [#bandırma](http://twitter.com/search?q=%23band%c4%b1rma) | N/A |
+| 43 | [#DünyaBöbrekGünü](http://twitter.com/search?q=%23D%c3%bcnyaB%c3%b6brekG%c3%bcn%c3%bc) | N/A |
+| 44 | [#Sevilla](http://twitter.com/search?q=%23Sevilla) | N/A |
+| 45 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
+| 46 | [#TekHedefimiz](http://twitter.com/search?q=%23TekHedefimiz) | N/A |
+| 47 | [#9mart](http://twitter.com/search?q=%239mart) | N/A |
+| 48 | [#SVLvFB](http://twitter.com/search?q=%23SVLvFB) | N/A |
+| 49 | [#tukas](http://twitter.com/search?q=%23tukas) | N/A |
+| 50 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
 
 
 

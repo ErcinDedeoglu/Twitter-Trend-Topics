@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-09 08:17:32 UTC`
+📆 Last Updated: `2023-03-09 09:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Kenya](</Kenya>)
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 4 | [#statehouse](http://twitter.com/search?q=%23statehouse) | N/A |
 | 5 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 6 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 10 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 11 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 12 | [Ukur Yatani](http://twitter.com/search?q=Ukur+Yatani) | N/A |
-| 13 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 14 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 15 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 16 | [Margaret Nyakang](http://twitter.com/search?q=Margaret+Nyakang) | N/A |
-| 17 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 18 | [women hrds](http://twitter.com/search?q=women+hrds) | N/A |
-| 19 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 20 | [Ababu Namwamba](http://twitter.com/search?q=Ababu+Namwamba) | N/A |
-| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 22 | [Controller of Budget](http://twitter.com/search?q=Controller+of+Budget) | N/A |
-| 23 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 9 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 10 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
+| 11 | [Ukur Yatani](http://twitter.com/search?q=Ukur+Yatani) | N/A |
+| 12 | [Osoro](http://twitter.com/search?q=Osoro) | N/A |
+| 13 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 14 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 15 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 16 | [Grace Onyango](http://twitter.com/search?q=Grace+Onyango) | N/A |
+| 17 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 18 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 19 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 20 | [women hrds](http://twitter.com/search?q=women+hrds) | N/A |
+| 21 | [Ababu Namwamba](http://twitter.com/search?q=Ababu+Namwamba) | N/A |
+| 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 23 | [Margaret Nyakang](http://twitter.com/search?q=Margaret+Nyakang) | N/A |
 | 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
-| 26 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 25 | [Handshake](http://twitter.com/search?q=Handshake) | N/A |
+| 26 | [Controller of Budget](http://twitter.com/search?q=Controller+of+Budget) | N/A |
 | 27 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 28 | [Matiang'i](http://twitter.com/search?q=Matiang%27i) | N/A |
-| 29 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 30 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 31 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 32 | [Diana Marua](http://twitter.com/search?q=Diana+Marua) | N/A |
-| 33 | [Fuliza](http://twitter.com/search?q=Fuliza) | N/A |
-| 34 | [Grace Onyango](http://twitter.com/search?q=Grace+Onyango) | N/A |
-| 35 | [Gladys Wanga](http://twitter.com/search?q=Gladys+Wanga) | N/A |
-| 36 | [Sacco](http://twitter.com/search?q=Sacco) | N/A |
-| 37 | [maxine wahome](http://twitter.com/search?q=maxine+wahome) | N/A |
-| 38 | [Prisca Mwaro](http://twitter.com/search?q=Prisca+Mwaro) | N/A |
-| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
-| 42 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 43 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 44 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 45 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 46 | [DCI HQ](http://twitter.com/search?q=DCI+HQ) | N/A |
-| 47 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
-| 48 | [Janet](http://twitter.com/search?q=Janet) | N/A |
-| 49 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 50 | [Suluhu](http://twitter.com/search?q=Suluhu) | N/A |
+| 28 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [Diana Marua](http://twitter.com/search?q=Diana+Marua) | N/A |
+| 31 | [Fuliza](http://twitter.com/search?q=Fuliza) | N/A |
+| 32 | [Sacco](http://twitter.com/search?q=Sacco) | N/A |
+| 33 | [maxine wahome](http://twitter.com/search?q=maxine+wahome) | N/A |
+| 34 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 35 | [Matiang'i](http://twitter.com/search?q=Matiang%27i) | N/A |
+| 36 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 37 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 38 | [Gladys Wanga](http://twitter.com/search?q=Gladys+Wanga) | N/A |
+| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 41 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 42 | [Prisca Mwaro](http://twitter.com/search?q=Prisca+Mwaro) | N/A |
+| 43 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 44 | [Sonko](http://twitter.com/search?q=Sonko) | N/A |
+| 45 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 46 | [dci hq](http://twitter.com/search?q=dci+hq) | N/A |
+| 47 | [Janet](http://twitter.com/search?q=Janet) | N/A |
+| 48 | [Suluhu](http://twitter.com/search?q=Suluhu) | N/A |
+| 49 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 50 | [Bomas](http://twitter.com/search?q=Bomas) | N/A |
 
 
 

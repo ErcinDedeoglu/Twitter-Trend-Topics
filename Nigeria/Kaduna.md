@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-09 08:17:30 UTC`
+📆 Last Updated: `2023-03-09 09:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
-| 6 | [#SanwoOluNightCampaign](http://twitter.com/search?q=%23SanwoOluNightCampaign) | N/A |
-| 7 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 10 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 11 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 13 | [Shogunle](http://twitter.com/search?q=Shogunle) | N/A |
+| 3 | [Ikeja](http://twitter.com/search?q=Ikeja) | N/A |
+| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
+| 5 | [#SanwoOluNightCampaign](http://twitter.com/search?q=%23SanwoOluNightCampaign) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 8 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 11 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 12 | [BRT Bus](http://twitter.com/search?q=BRT+Bus) | N/A |
+| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 14 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 15 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 16 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
-| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 15 | [The BRT](http://twitter.com/search?q=The+BRT) | N/A |
+| 16 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 17 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
 | 18 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 19 | [The BRT](http://twitter.com/search?q=The+BRT) | N/A |
-| 20 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 21 | [Adekunle Fajuyi](http://twitter.com/search?q=Adekunle+Fajuyi) | N/A |
-| 22 | [BRT Bus](http://twitter.com/search?q=BRT+Bus) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 25 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 27 | [Praise](http://twitter.com/search?q=Praise) | N/A |
-| 28 | [KANAGA JNR IS A STAR](http://twitter.com/search?q=KANAGA+JNR+IS+A+STAR) | N/A |
-| 29 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 30 | [Sade](http://twitter.com/search?q=Sade) | N/A |
-| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 32 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
-| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 19 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 20 | [KANAGA JNR IS A STAR](http://twitter.com/search?q=KANAGA+JNR+IS+A+STAR) | N/A |
+| 21 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 22 | [Shogunle](http://twitter.com/search?q=Shogunle) | N/A |
+| 23 | [LASUTH](http://twitter.com/search?q=LASUTH) | N/A |
+| 24 | [Praise](http://twitter.com/search?q=Praise) | N/A |
+| 25 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 29 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 30 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 31 | [Adekunle Fajuyi](http://twitter.com/search?q=Adekunle+Fajuyi) | N/A |
+| 32 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 33 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
 | 34 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 36 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 38 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 39 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 40 | [Fadeyi Oloro](http://twitter.com/search?q=Fadeyi+Oloro) | N/A |
-| 41 | [Hazard to Madrid](http://twitter.com/search?q=Hazard+to+Madrid) | N/A |
-| 42 | [Akere](http://twitter.com/search?q=Akere) | N/A |
-| 43 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
-| 44 | [God Open My Door](http://twitter.com/search?q=God+Open+My+Door) | N/A |
-| 45 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
-| 46 | [Obidients in Abuja](http://twitter.com/search?q=Obidients+in+Abuja) | N/A |
-| 47 | [The God](http://twitter.com/search?q=The+God) | N/A |
-| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [God Open My Door](http://twitter.com/search?q=God+Open+My+Door) | N/A |
+| 36 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
+| 37 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 38 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 39 | [fadeyi oloro](http://twitter.com/search?q=fadeyi+oloro) | N/A |
+| 40 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 43 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 46 | [Akere](http://twitter.com/search?q=Akere) | N/A |
+| 47 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 48 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
 
 
 

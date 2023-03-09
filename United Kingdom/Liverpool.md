@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-09 08:16:58 UTC`
+📆 Last Updated: `2023-03-09 09:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
-| 2 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 4 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
-| 5 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 8 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
-| 9 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 10 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 11 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 12 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 14 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 17 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 20 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 21 | [Richard Ayre](http://twitter.com/search?q=Richard+Ayre) | N/A |
-| 22 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 23 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 24 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 27 | [Stop the Boats](http://twitter.com/search?q=Stop+the+Boats) | N/A |
-| 28 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [Albania](http://twitter.com/search?q=Albania) | N/A |
-| 32 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 33 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 35 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 36 | [Kyle Walker](http://twitter.com/search?q=Kyle+Walker) | N/A |
-| 37 | [Princess](http://twitter.com/search?q=Princess) | N/A |
-| 38 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 40 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 41 | [Brendan O'Neill](http://twitter.com/search?q=Brendan+O%27Neill) | N/A |
-| 42 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 43 | [Ryan jack](http://twitter.com/search?q=Ryan+jack) | N/A |
-| 44 | [Kulu](http://twitter.com/search?q=Kulu) | Kulu is a term used in the Hindu religion to refer to a form of divine energy. It is believed to be the source of all creation and is associated with the Supreme Being. In English, it can be translated as "divine power" or "divine force". |
-| 45 | [Scott Parker](http://twitter.com/search?q=Scott+Parker) | N/A |
-| 46 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 47 | [jenas](http://twitter.com/search?q=jenas) | N/A |
-| 48 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 49 | [Unhelpful](http://twitter.com/search?q=Unhelpful) | N/A |
-| 50 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 3 | [Richard Sharp](http://twitter.com/search?q=Richard+Sharp) | N/A |
+| 4 | [#ToryFascists](http://twitter.com/search?q=%23ToryFascists) | N/A |
+| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 6 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 7 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 10 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 11 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 12 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 13 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 14 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
+| 15 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 16 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 17 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 18 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 19 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 20 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 21 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 22 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 23 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 26 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 27 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
+| 28 | [Rina](http://twitter.com/search?q=Rina) | N/A |
+| 29 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 30 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 31 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 32 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 33 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 34 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [ENIC](http://twitter.com/search?q=ENIC) | N/A |
+| 37 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 40 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 41 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 42 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 43 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 44 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 45 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 46 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
+| 47 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 49 | [#ToriesOut245](http://twitter.com/search?q=%23ToriesOut245) | N/A |
+| 50 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
 
 
 

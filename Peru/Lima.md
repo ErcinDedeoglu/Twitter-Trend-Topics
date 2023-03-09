@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-09 08:17:06 UTC`
+📆 Last Updated: `2023-03-09 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Peru](</Peru>)
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
 | 9 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 10 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
-| 11 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
+| 10 | [MVLL](http://twitter.com/search?q=MVLL) | N/A |
+| 11 | [Vargas Llosa](http://twitter.com/search?q=Vargas+Llosa) | N/A |
 | 12 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 13 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
 | 14 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
@@ -34,12 +34,12 @@ This is top 50 for [Peru](</Peru>)
 | 17 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
 | 18 | [Brandon Palacios](http://twitter.com/search?q=Brandon+Palacios) | N/A |
 | 19 | [Ilave](http://twitter.com/search?q=Ilave) | Ilave is a town in Peru located in the Puno Region. It is situated on the banks of the Ilave River, which flows into Lake Titicaca. The name Ilave comes from the Aymara language and means "river of gold". In English, it can be translated to mean "Golden River". |
-| 20 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 21 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 22 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 20 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 21 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 22 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
 | 23 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 24 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 25 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 24 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 25 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 27 | [Nativa](http://twitter.com/search?q=Nativa) | N/A |
 | 28 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Peru](</Peru>)
 | 47 | [RM IS COMING](http://twitter.com/search?q=RM+IS+COMING) | N/A |
 | 48 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 49 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 50 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 50 | [stefano olaya](http://twitter.com/search?q=stefano+olaya) | N/A |
 
 
 

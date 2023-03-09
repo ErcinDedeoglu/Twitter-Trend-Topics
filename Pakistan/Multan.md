@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-09 08:17:38 UTC`
+📆 Last Updated: `2023-03-09 09:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#Fascist_PDM](http://twitter.com/search?q=%23Fascist_PDM) | N/A |
 | 3 | [#زمان_پارک_پہنچو](http://twitter.com/search?q=%23%d8%b2%d9%85%d8%a7%d9%86_%d9%be%d8%a7%d8%b1%da%a9_%d9%be%db%81%d9%86%da%86%d9%88) | N/A |
 | 4 | [#PZvQG](http://twitter.com/search?q=%23PZvQG) | N/A |
-| 5 | [Axact](http://twitter.com/search?q=Axact) | N/A |
-| 6 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 7 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
-| 8 | [express tribune](http://twitter.com/search?q=express+tribune) | N/A |
+| 5 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 6 | [Ali Bilal](http://twitter.com/search?q=Ali+Bilal) | N/A |
+| 7 | [express tribune](http://twitter.com/search?q=express+tribune) | N/A |
+| 8 | [Balkh](http://twitter.com/search?q=Balkh) | N/A |
 | 9 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
 | 10 | [Urgent Appeal for Action](http://twitter.com/search?q=Urgent+Appeal+for+Action) | N/A |
 | 11 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 12 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 13 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
-| 14 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 15 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
-| 16 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
-| 17 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 12 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 13 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 14 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 15 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
+| 16 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 17 | [sidra iqbal](http://twitter.com/search?q=sidra+iqbal) | N/A |
 | 18 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 19 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 19 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 22 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 23 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 25 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 26 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 27 | [Lols](http://twitter.com/search?q=Lols) | N/A |
-| 28 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 30 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
-| 31 | [Hammad Azhar](http://twitter.com/search?q=Hammad+Azhar) | N/A |
-| 32 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 33 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 34 | [President of PTI](http://twitter.com/search?q=President+of+PTI) | N/A |
-| 35 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 36 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 37 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 38 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 39 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 40 | [Thnx](http://twitter.com/search?q=Thnx) | N/A |
-| 41 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 42 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 43 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 44 | [Amir Mir](http://twitter.com/search?q=Amir+Mir) | N/A |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
-| 47 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 22 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 23 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 24 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 25 | [Gwadar](http://twitter.com/search?q=Gwadar) | N/A |
+| 26 | [PTI Chairman Imran Khan](http://twitter.com/search?q=PTI+Chairman+Imran+Khan) | N/A |
+| 27 | [Section 144](http://twitter.com/search?q=Section+144) | N/A |
+| 28 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 30 | [Lols](http://twitter.com/search?q=Lols) | N/A |
+| 31 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 32 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 33 | [Hammad Azhar](http://twitter.com/search?q=Hammad+Azhar) | N/A |
+| 34 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 35 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 36 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 38 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 39 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
+| 40 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 41 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 42 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 43 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 46 | [Wardi](http://twitter.com/search?q=Wardi) | N/A |
+| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 48 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 49 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
 
 
 

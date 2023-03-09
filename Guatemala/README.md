@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-09 08:17:57 UTC`
+📆 Last Updated: `2023-03-09 09:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for Guatemala
 | 14 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 15 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
 | 16 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 17 | [Xinabajul](http://twitter.com/search?q=Xinabajul) | N/A |
+| 17 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
 | 18 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
 | 19 | [Laje](http://twitter.com/search?q=Laje) | N/A |
 | 20 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-03-09 08:17:04 UTC`
+📆 Last Updated: `2023-03-09 09:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
 | 5 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Augusto Rodríguez](http://twitter.com/search?q=Augusto+Rodr%c3%adguez) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Augusto Rodríguez](http://twitter.com/search?q=Augusto+Rodr%c3%adguez) | N/A |
 | 9 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
 | 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 11 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [Colombia](</Colombia>)
 | 24 | [Casale](http://twitter.com/search?q=Casale) | N/A |
 | 25 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
 | 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 28 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 29 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 30 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 31 | [LA UNP](http://twitter.com/search?q=LA+UNP) | N/A |
-| 32 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 33 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 27 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 28 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 29 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 30 | [LA UNP](http://twitter.com/search?q=LA+UNP) | N/A |
+| 31 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 32 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 33 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
 | 34 | [Unidad Nacional de Protección](http://twitter.com/search?q=Unidad+Nacional+de+Protecci%c3%b3n) | N/A |
 | 35 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
 | 36 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
-| 37 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
-| 38 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 39 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 40 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 42 | [Iván Mordisco](http://twitter.com/search?q=Iv%c3%a1n+Mordisco) | N/A |
-| 43 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 45 | [Carolina Cruz](http://twitter.com/search?q=Carolina+Cruz) | N/A |
-| 46 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 47 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 48 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 49 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 37 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 38 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 39 | [Iván Mordisco](http://twitter.com/search?q=Iv%c3%a1n+Mordisco) | N/A |
+| 40 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
+| 41 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 44 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 45 | [Derechos](http://twitter.com/search?q=Derechos) | N/A |
+| 46 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
+| 47 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 48 | [sambueza](http://twitter.com/search?q=sambueza) | N/A |
+| 49 | [Mockus](http://twitter.com/search?q=Mockus) | N/A |
 
 
 

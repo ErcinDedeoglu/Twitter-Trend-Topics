@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-09 08:16:55 UTC`
+📆 Last Updated: `2023-03-09 09:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 5 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
-| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 7 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 8 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 9 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 11 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 12 | [Marc Garneau](http://twitter.com/search?q=Marc+Garneau) | N/A |
-| 13 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 17 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 20 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 21 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 22 | [JT Miller](http://twitter.com/search?q=JT+Miller) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
-| 25 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 26 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 27 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 28 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 29 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 30 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 31 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 32 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 33 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 34 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 35 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
-| 36 | [Quinn Hughes](http://twitter.com/search?q=Quinn+Hughes) | N/A |
-| 37 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 38 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 39 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
-| 40 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 42 | [Asian Canadians](http://twitter.com/search?q=Asian+Canadians) | N/A |
-| 43 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 44 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
-| 45 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 46 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 47 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
-| 48 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
-| 49 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 5 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 6 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
+| 7 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 10 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 11 | [Marc Garneau](http://twitter.com/search?q=Marc+Garneau) | N/A |
+| 12 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 16 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
+| 21 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 22 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 23 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 24 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 25 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 26 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 27 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 28 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 29 | [Chicken Big Mac](http://twitter.com/search?q=Chicken+Big+Mac) | N/A |
+| 30 | [Quinn Hughes](http://twitter.com/search?q=Quinn+Hughes) | N/A |
+| 31 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 32 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 33 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [asian canadians](http://twitter.com/search?q=asian+canadians) | N/A |
+| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 38 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
+| 39 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 40 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
+| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 42 | [Tony DeAngelo](http://twitter.com/search?q=Tony+DeAngelo) | N/A |
+| 43 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 44 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 45 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 48 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 49 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
 
 
 
