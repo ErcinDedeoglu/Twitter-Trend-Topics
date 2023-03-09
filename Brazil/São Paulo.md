@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-09 16:17:50 UTC`
+📆 Last Updated: `2023-03-09 17:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [coldplay](http://twitter.com/search?q=coldplay) | N/A |
-| 2 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 3 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
-| 4 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 5 | [Braz](http://twitter.com/search?q=Braz) | N/A |
-| 6 | [Homens](http://twitter.com/search?q=Homens) | N/A |
-| 7 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 8 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
-| 11 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 1 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 2 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 4 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 5 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 6 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 7 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 8 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 9 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [ELA É O CALYPSO](http://twitter.com/search?q=ELA+%c3%89+O+CALYPSO) | N/A |
 | 12 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 13 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 14 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
-| 15 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
-| 16 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 17 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 20 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 21 | [ASSISTA NÃO VALE O TE AMO](http://twitter.com/search?q=ASSISTA+N%c3%83O+VALE+O+TE+AMO) | N/A |
-| 22 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 23 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 24 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
-| 25 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 26 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 27 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 28 | [john frusciante](http://twitter.com/search?q=john+frusciante) | N/A |
-| 29 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
-| 30 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 31 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 32 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 33 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
-| 34 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 13 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 14 | [#TheRoadToAbidjan](http://twitter.com/search?q=%23TheRoadToAbidjan) | N/A |
+| 15 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 16 | [#TBJu](http://twitter.com/search?q=%23TBJu) | N/A |
+| 17 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
+| 18 | [MAITE PERRONI](http://twitter.com/search?q=MAITE+PERRONI) | N/A |
+| 19 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
+| 20 | [BLACK MERECE RESPEITO](http://twitter.com/search?q=BLACK+MERECE+RESPEITO) | N/A |
+| 21 | [FON NO SCCP](http://twitter.com/search?q=FON+NO+SCCP) | N/A |
+| 22 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
+| 23 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 24 | [ASSISTA NÃO VALE O TE AMO](http://twitter.com/search?q=ASSISTA+N%c3%83O+VALE+O+TE+AMO) | N/A |
+| 25 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 26 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 27 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 28 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
+| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 31 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 32 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 33 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 34 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
 | 35 | [D'Ale](http://twitter.com/search?q=D%27Ale) | N/A |
-| 36 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 37 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 38 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 36 | [Cansar de Dançar](http://twitter.com/search?q=Cansar+de+Dan%c3%a7ar) | N/A |
+| 37 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 38 | [Marrone](http://twitter.com/search?q=Marrone) | N/A |
 | 39 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 40 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 41 | [Rugal](http://twitter.com/search?q=Rugal) | N/A |
-| 42 | [Marrone](http://twitter.com/search?q=Marrone) | N/A |
-| 43 | [Aluna](http://twitter.com/search?q=Aluna) | N/A |
-| 44 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 45 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
-| 46 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 47 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 48 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 49 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
-| 50 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 40 | [Rugal](http://twitter.com/search?q=Rugal) | N/A |
+| 41 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 42 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 43 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 44 | [Jennifer Lawrence](http://twitter.com/search?q=Jennifer+Lawrence) | N/A |
+| 45 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 46 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 47 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 48 | [DESEJAR](http://twitter.com/search?q=DESEJAR) | N/A |
+| 49 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 50 | [Aluna](http://twitter.com/search?q=Aluna) | N/A |
 
 
 

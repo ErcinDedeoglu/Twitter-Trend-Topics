@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-09 16:18:31 UTC`
+📆 Last Updated: `2023-03-09 17:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,9 +22,9 @@ This is top 50 for Kuwait
 | 5 | [#اعتصام_اعلان_البترول](http://twitter.com/search?q=%23%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d9%85_%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%a7%d9%84%d8%a8%d8%aa%d8%b1%d9%88%d9%84) | N/A |
 | 6 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
 | 7 | [#قبول_جميع_المهندسين_المجتازين](http://twitter.com/search?q=%23%d9%82%d8%a8%d9%88%d9%84_%d8%ac%d9%85%d9%8a%d8%b9_%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3%d9%8a%d9%86_%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d8%a7%d8%b2%d9%8a%d9%86) | N/A |
-| 8 | [زين يسوي](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d9%8a%d8%b3%d9%88%d9%8a) | N/A |
-| 9 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 10 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 8 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 9 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 10 | [زين يسوي](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d9%8a%d8%b3%d9%88%d9%8a) | N/A |
 | 11 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 12 | [طريق الفحيحيل](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%81%d8%ad%d9%8a%d8%ad%d9%8a%d9%84) | N/A |
 | 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
@@ -41,30 +41,30 @@ This is top 50 for Kuwait
 | 24 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 25 | [دور القران](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
 | 26 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 27 | [عمر القطان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
-| 28 | [الحربش الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
+| 27 | [الحربش الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d8%b4+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
+| 28 | [عمر القطان](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
 | 29 | [منصور مانع الرحيان](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d9%85%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d8%a7%d9%86) | N/A |
 | 30 | [الطعون الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b9%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
-| 31 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 32 | [منفذ النويصيب](http://twitter.com/search?q=%d9%85%d9%86%d9%81%d8%b0+%d8%a7%d9%84%d9%86%d9%88%d9%8a%d8%b5%d9%8a%d8%a8) | N/A |
-| 33 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [الجنسيه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 32 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 33 | [القوي العامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87) | N/A |
 | 34 | [knet](http://twitter.com/search?q=knet) | N/A |
-| 35 | [القوي العامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 36 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 35 | [نساء الارض](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 36 | [سوق الجمعه](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 | 37 | [مبابي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%a8%d9%8a) | N/A |
-| 38 | [سوق الجمعه](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 39 | [نساء الارض](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 40 | [يابو فضل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%b6%d9%84) | N/A |
-| 41 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 42 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 43 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 44 | [اللهجه الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
-| 45 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 38 | [9 مارس 2023](http://twitter.com/search?q=9+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 39 | [يابو فضل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%b6%d9%84) | N/A |
+| 40 | [سعيد سعد الرشيدي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 41 | [8 مارس](http://twitter.com/search?q=8+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 42 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 43 | [اللهجه الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d8%ac%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [جاسم يعقوب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
 | 46 | [الدوري الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 47 | [يابو فهد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
-| 48 | [علي القطان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
-| 49 | [يابو فلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%84%d8%a7%d8%ad) | N/A |
-| 50 | [جاسم يعقوب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 47 | [علي القطان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d9%86) | N/A |
+| 48 | [يابو فلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%84%d8%a7%d8%ad) | N/A |
+| 49 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 50 | [بندر جابر البخيتان الظفيري](http://twitter.com/search?q=%d8%a8%d9%86%d8%af%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a8%d8%ae%d9%8a%d8%aa%d8%a7%d9%86+%d8%a7%d9%84%d8%b8%d9%81%d9%8a%d8%b1%d9%8a) | N/A |
 
 
 

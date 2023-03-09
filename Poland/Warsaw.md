@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-09 16:17:52 UTC`
+📆 Last Updated: `2023-03-09 17:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Poland](</Poland>)
 | 10 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 11 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
 | 12 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 13 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
+| 13 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
 | 14 | [Grota](http://twitter.com/search?q=Grota) | N/A |
-| 15 | [papieża](http://twitter.com/search?q=papie%c5%bca) | N/A |
-| 16 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
-| 17 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
-| 18 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 19 | [#Differentnapapierze](http://twitter.com/search?q=%23Differentnapapierze) | N/A |
-| 20 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
-| 21 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
-| 22 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
-| 23 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
-| 24 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 25 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 26 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 27 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 15 | [#TVPChcemyPrawdy](http://twitter.com/search?q=%23TVPChcemyPrawdy) | N/A |
+| 16 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
+| 17 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 18 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 19 | [Brzezińskiego](http://twitter.com/search?q=Brzezi%c5%84skiego) | N/A |
+| 20 | [wszystkim paniom](http://twitter.com/search?q=wszystkim+paniom) | N/A |
+| 21 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 22 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 23 | [Adam Glapiński](http://twitter.com/search?q=Adam+Glapi%c5%84ski) | N/A |
+| 24 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 25 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 26 | [Polskie MSZ](http://twitter.com/search?q=Polskie+MSZ) | N/A |
+| 27 | [Jasina](http://twitter.com/search?q=Jasina) | N/A |
 | 28 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 29 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 30 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
-| 31 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 32 | [Bielana](http://twitter.com/search?q=Bielana) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [Glapa](http://twitter.com/search?q=Glapa) | N/A |
+| 29 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
+| 30 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 32 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 33 | [Prezes NBP](http://twitter.com/search?q=Prezes+NBP) | N/A |
+| 34 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 35 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 36 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 37 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 38 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
-| 39 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 41 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
-| 42 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 45 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 46 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 47 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
-| 48 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
-| 49 | [stanów zjednoczonych](http://twitter.com/search?q=stan%c3%b3w+zjednoczonych) | N/A |
-| 50 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
+| 36 | [dyplomatołki](http://twitter.com/search?q=dyplomato%c5%82ki) | N/A |
+| 37 | [Jakub Kiwior](http://twitter.com/search?q=Jakub+Kiwior) | Jakub Kiwior is a Polish surname. In English, it translates to "Kiwior of Jacob". |
+| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 39 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
+| 40 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 41 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 42 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 43 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 44 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [Rzeczypospolitej Polskiej](http://twitter.com/search?q=Rzeczypospolitej+Polskiej) | N/A |
+| 47 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
+| 48 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 49 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
+| 50 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-09 16:17:47 UTC`
+📆 Last Updated: `2023-03-09 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
-| 2 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 3 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 1 | [#BuenosDiasTVN](http://twitter.com/search?q=%23BuenosDiasTVN) | N/A |
+| 2 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
+| 3 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 4 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
 | 5 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 6 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 6 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 7 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 8 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 9 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 8 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 9 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
 | 10 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
 | 11 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 13 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 12 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 13 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 14 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
 | 15 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
-| 16 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 18 | [aeropuerto de Santiago](http://twitter.com/search?q=aeropuerto+de+Santiago) | N/A |
-| 19 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 20 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
-| 21 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
-| 22 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
-| 23 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 17 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 18 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 19 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 21 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
+| 22 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 23 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
 | 24 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 25 | [Chilenos](http://twitter.com/search?q=Chilenos) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 27 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
-| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 29 | [claudia mix](http://twitter.com/search?q=claudia+mix) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 32 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 33 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
-| 34 | [Repe](http://twitter.com/search?q=Repe) | N/A |
-| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 36 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
-| 37 | [INBA](http://twitter.com/search?q=INBA) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
-| 40 | [Legislar](http://twitter.com/search?q=Legislar) | N/A |
-| 41 | [jounnaet](http://twitter.com/search?q=jounnaet) | N/A |
+| 25 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 26 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 27 | [Cariola](http://twitter.com/search?q=Cariola) | N/A |
+| 28 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 29 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
+| 30 | [Chilenos](http://twitter.com/search?q=Chilenos) | N/A |
+| 31 | [Jouannet](http://twitter.com/search?q=Jouannet) | N/A |
+| 32 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 35 | [Elena Caffarena](http://twitter.com/search?q=Elena+Caffarena) | N/A |
+| 36 | [Legislar](http://twitter.com/search?q=Legislar) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 39 | [INBA](http://twitter.com/search?q=INBA) | N/A |
+| 40 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 41 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
 | 42 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
-| 43 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 43 | [Feliz 8m](http://twitter.com/search?q=Feliz+8m) | N/A |
 | 44 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 45 | [feliz 8m](http://twitter.com/search?q=feliz+8m) | N/A |
+| 45 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 46 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
-| 47 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 47 | [TE CAGASTE A CHILE](http://twitter.com/search?q=TE+CAGASTE+A+CHILE) | N/A |
 | 48 | [Bájense](http://twitter.com/search?q=B%c3%a1jense) | N/A |
-| 49 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
+| 49 | [keita](http://twitter.com/search?q=keita) | N/A |
 
 
 

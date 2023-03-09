@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-09 16:18:16 UTC`
+📆 Last Updated: `2023-03-09 17:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#सर्वशक्तिमान_कबीरभगवान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
 | 2 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [#ओबीसी_मांगे_चार_साल_का_हिसाब](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%b8%e0%a4%be%e0%a4%b2_%e0%a4%95%e0%a4%be_%e0%a4%b9%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%ac) | N/A |
-| 5 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 6 | [#MahaBudget](http://twitter.com/search?q=%23MahaBudget) | N/A |
-| 7 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
-| 8 | [कबीर परमेश्वर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | कबीर परमेश्वर is a phrase in Hindi which translates to "Kabir, the Supreme Lord". It is a reference to the 15th-century Indian mystic poet and saint, Kabir. The phrase is often used as an invocation or prayer to invoke the blessings of Kabir. |
-| 9 | [Saika Ishaque](http://twitter.com/search?q=Saika+Ishaque) | N/A |
-| 10 | [Sushant Keeps Inspiring Us](http://twitter.com/search?q=Sushant+Keeps+Inspiring+Us) | N/A |
+| 3 | [#AskJR](http://twitter.com/search?q=%23AskJR) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [#MahaBudget](http://twitter.com/search?q=%23MahaBudget) | N/A |
+| 6 | [#ओबीसी_मांगे_चार_साल_का_हिसाब](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%b8%e0%a4%be%e0%a4%b2_%e0%a4%95%e0%a4%be_%e0%a4%b9%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%ac) | N/A |
+| 7 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 8 | [Sushant Keeps Inspiring Us](http://twitter.com/search?q=Sushant+Keeps+Inspiring+Us) | N/A |
+| 9 | [कबीर परमेश्वर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | कबीर परमेश्वर is a phrase in Hindi which translates to "Kabir, the Supreme Lord". It is a reference to the 15th-century Indian mystic poet and saint, Kabir. The phrase is often used as an invocation or prayer to invoke the blessings of Kabir. |
+| 10 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
 | 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 12 | [नानक देव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 13 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
-| 14 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
-| 15 | [CHERISHING RISHI SINGH BEDI](http://twitter.com/search?q=CHERISHING+RISHI+SINGH+BEDI) | N/A |
-| 16 | [तथा कबीर अल्लाह](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 17 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
-| 18 | [सृष्टि रचना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf+%e0%a4%b0%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 19 | [अल्लाह कबीर साहेब](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | N/A |
-| 20 | [सम्पूर्ण शांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 21 | [raunaq reddy](http://twitter.com/search?q=raunaq+reddy) | N/A |
-| 22 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 12 | [Saika Ishaque](http://twitter.com/search?q=Saika+Ishaque) | N/A |
+| 13 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 14 | [राष्ट्र शिक्षा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 15 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
+| 16 | [नानक देव](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 17 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
+| 18 | [RISHI SINGH BEDI](http://twitter.com/search?q=RISHI+SINGH+BEDI) | N/A |
+| 19 | [सृष्टि रचना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf+%e0%a4%b0%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
+| 20 | [तथा कबीर अल्लाह](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 21 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
+| 22 | [Vedas](http://twitter.com/search?q=Vedas) | N/A |
 | 23 | [सौरभ भारद्वाज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8c%e0%a4%b0%e0%a4%ad+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9c) | N/A |
-| 24 | [Vedas](http://twitter.com/search?q=Vedas) | N/A |
-| 25 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
-| 27 | [Mask](http://twitter.com/search?q=Mask) | N/A |
-| 28 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 29 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 30 | [नरेंद्र मोदी स्टेडियम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%ae) | N/A |
+| 24 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [Mask](http://twitter.com/search?q=Mask) | N/A |
+| 26 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 27 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
+| 28 | [Bharat Ratna](http://twitter.com/search?q=Bharat+Ratna) | N/A |
+| 29 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 30 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
 | 31 | [Australian PM](http://twitter.com/search?q=Australian+PM) | N/A |
-| 32 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 32 | [World Kidney Day](http://twitter.com/search?q=World+Kidney+Day) | N/A |
 | 33 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
-| 34 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
-| 35 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
-| 36 | [#UPISafetyShield](http://twitter.com/search?q=%23UPISafetyShield) | N/A |
-| 37 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 38 | [#BlogchatterTurns7](http://twitter.com/search?q=%23BlogchatterTurns7) | N/A |
-| 39 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
-| 40 | [#satishkaushikpassedaway](http://twitter.com/search?q=%23satishkaushikpassedaway) | N/A |
-| 41 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 42 | [#DesinghPeriyasamy](http://twitter.com/search?q=%23DesinghPeriyasamy) | N/A |
-| 43 | [#HFCATKMB](http://twitter.com/search?q=%23HFCATKMB) | N/A |
-| 44 | [#UsmanKhawaja](http://twitter.com/search?q=%23UsmanKhawaja) | N/A |
-| 45 | [#BLOODandBATTLE](http://twitter.com/search?q=%23BLOODandBATTLE) | N/A |
-| 46 | [#Ulaganayagan](http://twitter.com/search?q=%23Ulaganayagan) | N/A |
-| 47 | [#NBK108](http://twitter.com/search?q=%23NBK108) | N/A |
-| 48 | [#INSVikrant](http://twitter.com/search?q=%23INSVikrant) | N/A |
-| 49 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 50 | [#KamalHaasan](http://twitter.com/search?q=%23KamalHaasan) | N/A |
+| 34 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 35 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 36 | [#STR48](http://twitter.com/search?q=%23STR48) | N/A |
+| 37 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 38 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 39 | [#UPISafetyShield](http://twitter.com/search?q=%23UPISafetyShield) | N/A |
+| 40 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 41 | [#satishkaushikpassedaway](http://twitter.com/search?q=%23satishkaushikpassedaway) | N/A |
+| 42 | [#BlogchatterTurns7](http://twitter.com/search?q=%23BlogchatterTurns7) | N/A |
+| 43 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 44 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
+| 45 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
+| 46 | [#DesinghPeriyasamy](http://twitter.com/search?q=%23DesinghPeriyasamy) | N/A |
+| 47 | [#HFCATKMB](http://twitter.com/search?q=%23HFCATKMB) | N/A |
+| 48 | [#Agilan](http://twitter.com/search?q=%23Agilan) | N/A |
+| 49 | [#BiggestFashionHeist](http://twitter.com/search?q=%23BiggestFashionHeist) | N/A |
+| 50 | [#UsmanKhawaja](http://twitter.com/search?q=%23UsmanKhawaja) | N/A |
 
 
 

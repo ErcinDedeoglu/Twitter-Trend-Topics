@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-09 16:17:54 UTC`
+📆 Last Updated: `2023-03-09 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [#NordStream](http://twitter.com/search?q=%23NordStream) | N/A |
 | 7 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 8 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 9 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 12 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 13 | [sprengstoff](http://twitter.com/search?q=sprengstoff) | N/A |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 16 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 17 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 11 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
+| 12 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 13 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 14 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 15 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 16 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 17 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
 | 18 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 19 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 20 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 21 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 22 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 23 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 24 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
-| 25 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 26 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 29 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 30 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 19 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 20 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 21 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 22 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
+| 23 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 24 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 27 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 28 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 29 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 30 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
 | 31 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 32 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 33 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 34 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 36 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
-| 37 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
-| 38 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 39 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 40 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 41 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 42 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 43 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 44 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
-| 45 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
-| 46 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 47 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 48 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 49 | [frauenrechte](http://twitter.com/search?q=frauenrechte) | N/A |
-| 50 | [Deutsche Post](http://twitter.com/search?q=Deutsche+Post) | N/A |
+| 32 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 33 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
+| 34 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 35 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
+| 36 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
+| 37 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 38 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 39 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 40 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 41 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 42 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 43 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 44 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [Bonitätsprüfung](http://twitter.com/search?q=Bonit%c3%a4tspr%c3%bcfung) | N/A |
+| 47 | [frauenrechte](http://twitter.com/search?q=frauenrechte) | N/A |
+| 48 | [gleichstellung](http://twitter.com/search?q=gleichstellung) | N/A |
+| 49 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 50 | [Bayern und NRW](http://twitter.com/search?q=Bayern+und+NRW) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-09 16:17:47 UTC`
+📆 Last Updated: `2023-03-09 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
-| 4 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
-| 9 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
-| 10 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
-| 11 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 12 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 13 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 15 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 18 | [Hacha](http://twitter.com/search?q=Hacha) | N/A |
-| 19 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
-| 20 | [ALFA](http://twitter.com/search?q=ALFA) | N/A |
-| 21 | [Causa Vialidad](http://twitter.com/search?q=Causa+Vialidad) | N/A |
-| 22 | [ELIAS GOMEZ](http://twitter.com/search?q=ELIAS+GOMEZ) | N/A |
-| 23 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 24 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 25 | [ARBA](http://twitter.com/search?q=ARBA) | N/A |
-| 26 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 27 | [Racing de Córdoba](http://twitter.com/search?q=Racing+de+C%c3%b3rdoba) | N/A |
-| 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 29 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 30 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 31 | [LOS PIERCINGS](http://twitter.com/search?q=LOS+PIERCINGS) | N/A |
-| 32 | [Lázaro Báez](http://twitter.com/search?q=L%c3%a1zaro+B%c3%a1ez) | N/A |
-| 33 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 34 | [Giovanni Simeone](http://twitter.com/search?q=Giovanni+Simeone) | N/A |
-| 35 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
-| 36 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 37 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 38 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 39 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 41 | [Luis Carzoglio](http://twitter.com/search?q=Luis+Carzoglio) | N/A |
-| 42 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 43 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 44 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 45 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 46 | [Talleres de Córdoba](http://twitter.com/search?q=Talleres+de+C%c3%b3rdoba) | N/A |
-| 47 | [Simón Pérez](http://twitter.com/search?q=Sim%c3%b3n+P%c3%a9rez) | N/A |
-| 48 | [Wado](http://twitter.com/search?q=Wado) | N/A |
-| 49 | [Panamá y Curazao](http://twitter.com/search?q=Panam%c3%a1+y+Curazao) | N/A |
-| 50 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 1 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 2 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 3 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 4 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 5 | [#BastaDeProscripcion](http://twitter.com/search?q=%23BastaDeProscripcion) | N/A |
+| 6 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 7 | [Juan Castro](http://twitter.com/search?q=Juan+Castro) | N/A |
+| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 11 | [Hacha](http://twitter.com/search?q=Hacha) | N/A |
+| 12 | [Vialidad](http://twitter.com/search?q=Vialidad) | N/A |
+| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 14 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 15 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 16 | [diego torres](http://twitter.com/search?q=diego+torres) | N/A |
+| 17 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 18 | [Cristina Kirchner](http://twitter.com/search?q=Cristina+Kirchner) | N/A |
+| 19 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 20 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 21 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 22 | [Lázaro Báez](http://twitter.com/search?q=L%c3%a1zaro+B%c3%a1ez) | N/A |
+| 23 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
+| 24 | [Gio Simeone](http://twitter.com/search?q=Gio+Simeone) | N/A |
+| 25 | [Wado](http://twitter.com/search?q=Wado) | N/A |
+| 26 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 27 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [Rendo](http://twitter.com/search?q=Rendo) | N/A |
+| 30 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 31 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 32 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 33 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 34 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 35 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 36 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
+| 37 | [#CristinaCondenada](http://twitter.com/search?q=%23CristinaCondenada) | N/A |
+| 38 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 39 | [#TengoHatersLlegue](http://twitter.com/search?q=%23TengoHatersLlegue) | N/A |
+| 40 | [#MacriMufa](http://twitter.com/search?q=%23MacriMufa) | N/A |
+| 41 | [#Expoagro2023](http://twitter.com/search?q=%23Expoagro2023) | N/A |
 
 
 

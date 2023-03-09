@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-09 16:17:49 UTC`
+📆 Last Updated: `2023-03-09 17:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
-| 2 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
-| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
 | 4 | [#ChávezFeminista](http://twitter.com/search?q=%23Ch%c3%a1vezFeminista) | N/A |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
-| 9 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 9 | [Gasparín](http://twitter.com/search?q=Gaspar%c3%adn) | N/A |
 | 10 | [Emely](http://twitter.com/search?q=Emely) | N/A |
 | 11 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 12 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
+| 12 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
 | 13 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
-| 14 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
-| 15 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 16 | [Provincia de Guayana](http://twitter.com/search?q=Provincia+de+Guayana) | N/A |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 18 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 14 | [Provincia de Guayana](http://twitter.com/search?q=Provincia+de+Guayana) | N/A |
+| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 16 | [Pékerman](http://twitter.com/search?q=P%c3%a9kerman) | N/A |
+| 17 | [Turpial Airlines](http://twitter.com/search?q=Turpial+Airlines) | N/A |
+| 18 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
 | 19 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 20 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 21 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
-| 22 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 23 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 24 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 27 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 28 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 20 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 21 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 22 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
+| 23 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
+| 24 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 25 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 27 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 28 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 29 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
 | 30 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 31 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 32 | [Yaracuy](http://twitter.com/search?q=Yaracuy) | N/A |
-| 33 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 34 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 35 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 36 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 37 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 38 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 39 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 40 | [Cova](http://twitter.com/search?q=Cova) | N/A |
-| 41 | [Andrés Galarraga](http://twitter.com/search?q=Andr%c3%a9s+Galarraga) | N/A |
-| 42 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
-| 43 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 44 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
-| 45 | [Tachira](http://twitter.com/search?q=Tachira) | N/A |
-| 46 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 31 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 32 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 33 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 34 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 35 | [Cova](http://twitter.com/search?q=Cova) | N/A |
+| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 38 | [Andrés Galarraga](http://twitter.com/search?q=Andr%c3%a9s+Galarraga) | N/A |
+| 39 | [IVSS](http://twitter.com/search?q=IVSS) | N/A |
+| 40 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 41 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
+| 42 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
+| 43 | [Antonio Armas](http://twitter.com/search?q=Antonio+Armas) | N/A |
+| 44 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
+| 45 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
+| 46 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
 
 
 
