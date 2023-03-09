@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-08 23:17:10 UTC`
+📆 Last Updated: `2023-03-09 00:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 2 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 3 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 4 | [#DiaDaMulher](http://twitter.com/search?q=%23DiaDaMulher) | N/A |
-| 5 | [Feliz Dia](http://twitter.com/search?q=Feliz+Dia) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 10 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
-| 11 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 1 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 2 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 5 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 8 | [O PSG](http://twitter.com/search?q=O+PSG) | N/A |
+| 9 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 10 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 11 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 12 | [LOUD NO VALORANT INCLUSIVO](http://twitter.com/search?q=LOUD+NO+VALORANT+INCLUSIVO) | N/A |
-| 13 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 14 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 15 | [WELCOME TO BRAZIL COLDPLAY](http://twitter.com/search?q=WELCOME+TO+BRAZIL+COLDPLAY) | N/A |
-| 16 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 17 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 18 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 19 | [#transfobiaécrime](http://twitter.com/search?q=%23transfobia%c3%a9crime) | N/A |
-| 20 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
-| 21 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 22 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 23 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 24 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
-| 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 26 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 27 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 28 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 29 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 30 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
-| 31 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 32 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 33 | [#FCBPSG](http://twitter.com/search?q=%23FCBPSG) | N/A |
-| 34 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 35 | [Choupo Moting](http://twitter.com/search?q=Choupo+Moting) | N/A |
-| 36 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 37 | [Mulheres](http://twitter.com/search?q=Mulheres) | N/A |
-| 38 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 39 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 40 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 41 | [My World](http://twitter.com/search?q=My+World) | N/A |
+| 13 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 14 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 15 | [Camboriú](http://twitter.com/search?q=Cambori%c3%ba) | N/A |
+| 16 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
+| 17 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 18 | [WELCOME TO BRAZIL COLDPLAY](http://twitter.com/search?q=WELCOME+TO+BRAZIL+COLDPLAY) | N/A |
+| 19 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 20 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
+| 21 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 22 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 23 | [#transfobiaécrime](http://twitter.com/search?q=%23transfobia%c3%a9crime) | N/A |
+| 24 | [#cariocanaband](http://twitter.com/search?q=%23cariocanaband) | #Cariocanaband is a hashtag used to promote the Brazilian band Carioca. It is used to share news, updates, and music from the band. In English, it translates to "Carioca Band". |
+| 25 | [#cariocanobs](http://twitter.com/search?q=%23cariocanobs) | N/A |
+| 26 | [Anderson Ceará](http://twitter.com/search?q=Anderson+Cear%c3%a1) | N/A |
+| 27 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 28 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 29 | [KEY NO MULTISHOW](http://twitter.com/search?q=KEY+NO+MULTISHOW) | N/A |
+| 30 | [Esse PSG](http://twitter.com/search?q=Esse+PSG) | N/A |
+| 31 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 32 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 33 | [Erick Pulga](http://twitter.com/search?q=Erick+Pulga) | N/A |
+| 34 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 35 | [JOÃO VITOR](http://twitter.com/search?q=JO%c3%83O+VITOR) | N/A |
+| 36 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 37 | [Cicinho](http://twitter.com/search?q=Cicinho) | Cicinho is a Portuguese nickname meaning "little one". It is often used as a term of endearment. |
+| 38 | [Renato Paiva](http://twitter.com/search?q=Renato+Paiva) | N/A |
+| 39 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 40 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 41 | [O Bahia](http://twitter.com/search?q=O+Bahia) | N/A |
 | 42 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 43 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 44 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 45 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 46 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 47 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
-| 48 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 49 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 50 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 43 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 44 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 45 | [My World](http://twitter.com/search?q=My+World) | N/A |
+| 46 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
+| 47 | [Ciel](http://twitter.com/search?q=Ciel) | N/A |
+| 48 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
+| 49 | [David Braz](http://twitter.com/search?q=David+Braz) | N/A |
+| 50 | [Choupo Moting](http://twitter.com/search?q=Choupo+Moting) | N/A |
 
 
 
