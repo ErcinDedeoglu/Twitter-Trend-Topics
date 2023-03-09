@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-09 14:17:50 UTC`
+📆 Last Updated: `2023-03-09 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 2 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 3 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 4 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
-| 5 | [İsmet Demirdöğen](http://twitter.com/search?q=%c4%b0smet+Demird%c3%b6%c4%9fen) | N/A |
-| 6 | [#AcilSorunBARINMA](http://twitter.com/search?q=%23AcilSorunBARINMA) | N/A |
-| 7 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 8 | [Arkandayız Martı](http://twitter.com/search?q=Arkanday%c4%b1z+Mart%c4%b1) | N/A |
-| 9 | [#hemensimdiuniversite](http://twitter.com/search?q=%23hemensimdiuniversite) | N/A |
-| 10 | [HDP'nin Hazine](http://twitter.com/search?q=HDP%27nin+Hazine) | HDP'nin Hazine is a Turkish phrase that translates to "The Treasury of the HDP". The HDP is the Peoples' Democratic Party, a left-wing political party in Turkey. The phrase is used to refer to the party's financial resources. |
+| 2 | [Haymana Mutabakatı](http://twitter.com/search?q=Haymana+Mutabakat%c4%b1) | N/A |
+| 3 | [Türkiye Vakti](http://twitter.com/search?q=T%c3%bcrkiye+Vakti) | N/A |
+| 4 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 5 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 6 | [#sondosyaTAŞERON](http://twitter.com/search?q=%23sondosyaTA%c5%9eERON) | N/A |
+| 7 | [#hemensimdiuniversite](http://twitter.com/search?q=%23hemensimdiuniversite) | N/A |
+| 8 | [#tümsınavlarertelensin](http://twitter.com/search?q=%23t%c3%bcms%c4%b1navlarertelensin) | N/A |
+| 9 | [İsmet Demirdöğen](http://twitter.com/search?q=%c4%b0smet+Demird%c3%b6%c4%9fen) | N/A |
+| 10 | [#AcilSorunBARINMA](http://twitter.com/search?q=%23AcilSorunBARINMA) | N/A |
 | 11 | [#5000VeKısmiHakkımız](http://twitter.com/search?q=%235000VeK%c4%b1smiHakk%c4%b1m%c4%b1z) | N/A |
-| 12 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 13 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
-| 14 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
-| 15 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 16 | [babasının](http://twitter.com/search?q=babas%c4%b1n%c4%b1n) | N/A |
-| 17 | [SmaYaren ÖlüyorSusma](http://twitter.com/search?q=SmaYaren+%c3%96l%c3%bcyorSusma) | N/A |
-| 18 | [Sevilla - Fenerbahçe](http://twitter.com/search?q=Sevilla+-+Fenerbah%c3%a7e) | N/A |
-| 19 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 20 | [İhsan Aktaş](http://twitter.com/search?q=%c4%b0hsan+Akta%c5%9f) | N/A |
+| 12 | [HDP'nin Hazine](http://twitter.com/search?q=HDP%27nin+Hazine) | HDP'nin Hazine is a Turkish phrase that translates to "The Treasury of the HDP". The HDP is the Peoples' Democratic Party, a left-wing political party in Turkey. The phrase is used to refer to the party's financial resources. |
+| 13 | [arkandayız martı](http://twitter.com/search?q=arkanday%c4%b1z+mart%c4%b1) | N/A |
+| 14 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 15 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 16 | [Sevilla - Fenerbahçe](http://twitter.com/search?q=Sevilla+-+Fenerbah%c3%a7e) | N/A |
+| 17 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 18 | [Aslı Baykal](http://twitter.com/search?q=Asl%c4%b1+Baykal) | N/A |
+| 19 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 20 | [SmaYaren ÖlüyorSusma](http://twitter.com/search?q=SmaYaren+%c3%96l%c3%bcyorSusma) | N/A |
 | 21 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 22 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
-| 23 | [Anavatan](http://twitter.com/search?q=Anavatan) | N/A |
-| 24 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 25 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 26 | [Arama](http://twitter.com/search?q=Arama) | N/A |
-| 27 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
-| 28 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
+| 22 | [İhsan Aktaş](http://twitter.com/search?q=%c4%b0hsan+Akta%c5%9f) | N/A |
+| 23 | [ANAP](http://twitter.com/search?q=ANAP) | ANAP stands for "A New Approach to Politics," and it is a term used to describe a new way of thinking about politics that emphasizes collaboration, dialogue, and problem-solving. It is based on the idea that politics should be about finding solutions to problems rather than just debating them. |
+| 24 | [Mücahit Kılıçdaroğlu](http://twitter.com/search?q=M%c3%bccahit+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 25 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
+| 26 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 27 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 28 | [Arama](http://twitter.com/search?q=Arama) | N/A |
 | 29 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 30 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 30 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
 | 31 | [Avax](http://twitter.com/search?q=Avax) | N/A |
-| 32 | [TOGG](http://twitter.com/search?q=TOGG) | N/A |
+| 32 | [Yunus Günçe](http://twitter.com/search?q=Yunus+G%c3%bcn%c3%a7e) | N/A |
 | 33 | [Bisiklet](http://twitter.com/search?q=Bisiklet) | N/A |
-| 34 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
-| 35 | [Kemalim](http://twitter.com/search?q=Kemalim) | N/A |
-| 36 | [Geceliği 100](http://twitter.com/search?q=Geceli%c4%9fi+100) | N/A |
-| 37 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 38 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
-| 39 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
-| 40 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
-| 41 | [#2000sonrasıTorbaya](http://twitter.com/search?q=%232000sonras%c4%b1Torbaya) | N/A |
-| 42 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 43 | [#ABOsuzMaaşAÇLIKdemek](http://twitter.com/search?q=%23ABOsuzMaa%c5%9fA%c3%87LIKdemek) | N/A |
-| 44 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
-| 45 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
-| 46 | [#ŞoförüÜzme](http://twitter.com/search?q=%23%c5%9eof%c3%b6r%c3%bc%c3%9czme) | N/A |
-| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 48 | [#DEVA3yasinda](http://twitter.com/search?q=%23DEVA3yasinda) | N/A |
-| 49 | [#kayserideprem](http://twitter.com/search?q=%23kayserideprem) | N/A |
-| 50 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 34 | [Alnı](http://twitter.com/search?q=Aln%c4%b1) | N/A |
+| 35 | [Tarım](http://twitter.com/search?q=Tar%c4%b1m) | N/A |
+| 36 | [Kemalim](http://twitter.com/search?q=Kemalim) | N/A |
+| 37 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 38 | [Baban](http://twitter.com/search?q=Baban) | N/A |
+| 39 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 40 | [Cehape](http://twitter.com/search?q=Cehape) | N/A |
+| 41 | [AfGelmezse OydaYok](http://twitter.com/search?q=AfGelmezse+OydaYok) | N/A |
+| 42 | [Kıyma 300](http://twitter.com/search?q=K%c4%b1yma+300) | N/A |
+| 43 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
+| 44 | [Sinan Oğan](http://twitter.com/search?q=Sinan+O%c4%9fan) | N/A |
+| 45 | [Ak Partili](http://twitter.com/search?q=Ak+Partili) | N/A |
+| 46 | [YargıEnkazına GenelAf](http://twitter.com/search?q=Yarg%c4%b1Enkaz%c4%b1na+GenelAf) | N/A |
+| 47 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 48 | [#ErdoğanYineKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYineKazanacak) | N/A |
+| 49 | [#Marmara](http://twitter.com/search?q=%23Marmara) | N/A |
+| 50 | [#AnkaradaStajFırtınası](http://twitter.com/search?q=%23AnkaradaStajF%c4%b1rt%c4%b1nas%c4%b1) | N/A |
 
 
 

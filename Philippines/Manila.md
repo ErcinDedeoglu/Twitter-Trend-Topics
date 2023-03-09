@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-09 14:17:34 UTC`
+📆 Last Updated: `2023-03-09 15:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 3 | [cmft](http://twitter.com/search?q=cmft) | N/A |
-| 4 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 5 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 6 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 7 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
-| 8 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
-| 9 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
-| 10 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
-| 11 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
-| 12 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
-| 13 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 14 | [#LeeJaeWookatNFT](http://twitter.com/search?q=%23LeeJaeWookatNFT) | N/A |
-| 15 | [#NoMathSchoolTripPremiere](http://twitter.com/search?q=%23NoMathSchoolTripPremiere) | N/A |
+| 2 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 3 | [#KversePH](http://twitter.com/search?q=%23KversePH) | N/A |
+| 4 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 5 | [NASA TAMANG FANDOM AKO](http://twitter.com/search?q=NASA+TAMANG+FANDOM+AKO) | N/A |
+| 6 | [#RiskItAll_for_TWICE](http://twitter.com/search?q=%23RiskItAll_for_TWICE) | N/A |
+| 7 | [#나는_셋미프리에_취해](http://twitter.com/search?q=%23%eb%82%98%eb%8a%94_%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%ac%ec%97%90_%ec%b7%a8%ed%95%b4) | N/A |
+| 8 | [STOP VOTING](http://twitter.com/search?q=STOP+VOTING) | N/A |
+| 9 | [#PenielBestBoyDay](http://twitter.com/search?q=%23PenielBestBoyDay) | N/A |
+| 10 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [BeTS Bulacan](http://twitter.com/search?q=BeTS+Bulacan) | N/A |
+| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 14 | [BM LAST EVALUATION EP1](http://twitter.com/search?q=BM+LAST+EVALUATION+EP1) | N/A |
+| 15 | [KDLEX ON SMLOUNGE](http://twitter.com/search?q=KDLEX+ON+SMLOUNGE) | N/A |
 | 16 | [BINI HAUTAW WITH ANGELITES](http://twitter.com/search?q=BINI+HAUTAW+WITH+ANGELITES) | N/A |
-| 17 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
-| 18 | [ASI ROAD TO PIEPOP](http://twitter.com/search?q=ASI+ROAD+TO+PIEPOP) | N/A |
-| 19 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
-| 20 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 21 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
-| 22 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
-| 23 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 24 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 25 | [gayuma mv dday](http://twitter.com/search?q=gayuma+mv+dday) | N/A |
-| 26 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
-| 27 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
-| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 31 | [JOSH ALONZO TEENCLASH D-8](http://twitter.com/search?q=JOSH+ALONZO+TEENCLASH+D-8) | N/A |
-| 32 | [ANG MAHAL](http://twitter.com/search?q=ANG+MAHAL) | N/A |
-| 33 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 34 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
-| 35 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
-| 36 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 37 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 17 | [GAYUMA MV OUT NOW](http://twitter.com/search?q=GAYUMA+MV+OUT+NOW) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 20 | [ASI ROAD TO PIEPOP](http://twitter.com/search?q=ASI+ROAD+TO+PIEPOP) | N/A |
+| 21 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 22 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 23 | [Jang Uk](http://twitter.com/search?q=Jang+Uk) | N/A |
+| 24 | [chery tiggo](http://twitter.com/search?q=chery+tiggo) | N/A |
+| 25 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 26 | [SET ME FREE](http://twitter.com/search?q=SET+ME+FREE) | N/A |
+| 27 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 28 | [Congratulations Hobi](http://twitter.com/search?q=Congratulations+Hobi) | N/A |
+| 29 | [PPOPCON](http://twitter.com/search?q=PPOPCON) | N/A |
+| 30 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 31 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 32 | [GAYUMA MV DDAY](http://twitter.com/search?q=GAYUMA+MV+DDAY) | N/A |
+| 33 | [ang mahal](http://twitter.com/search?q=ang+mahal) | N/A |
+| 34 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 35 | [HAPPY PBB ROBersary](http://twitter.com/search?q=HAPPY+PBB+ROBersary) | N/A |
+| 36 | [WELCOME BACK KISSES](http://twitter.com/search?q=WELCOME+BACK+KISSES) | N/A |
+| 37 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 38 | [D-12 BOBBY DROWNING](http://twitter.com/search?q=D-12+BOBBY+DROWNING) | N/A |
-| 39 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
-| 40 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 41 | [#3월9일_경수있는_수학여행](http://twitter.com/search?q=%233%ec%9b%949%ec%9d%bc_%ea%b2%bd%ec%88%98%ec%9e%88%eb%8a%94_%ec%88%98%ed%95%99%ec%97%ac%ed%96%89) | N/A |
-| 42 | [#ALAMATGayumaMV](http://twitter.com/search?q=%23ALAMATGayumaMV) | N/A |
-| 43 | [#UDAYS2023](http://twitter.com/search?q=%23UDAYS2023) | N/A |
-| 44 | [#JoshCullenOnBRGYandMYX](http://twitter.com/search?q=%23JoshCullenOnBRGYandMYX) | N/A |
-| 45 | [#LUIDAngelites](http://twitter.com/search?q=%23LUIDAngelites) | N/A |
-| 46 | [#DreamChasersPIEDay](http://twitter.com/search?q=%23DreamChasersPIEDay) | N/A |
-| 47 | [#UrdujaMayTraydor](http://twitter.com/search?q=%23UrdujaMayTraydor) | N/A |
-| 48 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 49 | [#OurPIEvoriteASI](http://twitter.com/search?q=%23OurPIEvoriteASI) | N/A |
-| 50 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 39 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 40 | [DAVID FOR SKECHERS GLORIETTA](http://twitter.com/search?q=DAVID+FOR+SKECHERS+GLORIETTA) | N/A |
+| 41 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 42 | [#프니_생일이라_심장이_동근동근해요](http://twitter.com/search?q=%23%ed%94%84%eb%8b%88_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9d%bc_%ec%8b%ac%ec%9e%a5%ec%9d%b4_%eb%8f%99%ea%b7%bc%eb%8f%99%ea%b7%bc%ed%95%b4%ec%9a%94) | N/A |
+| 43 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 44 | [#AskCOJ](http://twitter.com/search?q=%23AskCOJ) | N/A |
+| 45 | [#DLUltimatum](http://twitter.com/search?q=%23DLUltimatum) | N/A |
+| 46 | [#JonaxxGYWKab13](http://twitter.com/search?q=%23JonaxxGYWKab13) | N/A |
+| 47 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 48 | [#TatayaCOJ](http://twitter.com/search?q=%23TatayaCOJ) | N/A |
+| 49 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 50 | [#UDAYS2023](http://twitter.com/search?q=%23UDAYS2023) | N/A |
 
 
 

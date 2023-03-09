@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-09 14:17:12 UTC`
+📆 Last Updated: `2023-03-09 15:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 3 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 4 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
-| 5 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
-| 6 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 7 | [Homens](http://twitter.com/search?q=Homens) | N/A |
-| 8 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 9 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 10 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 11 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 12 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 13 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 14 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 15 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 16 | [#BoysPlanet2ndMission](http://twitter.com/search?q=%23BoysPlanet2ndMission) | N/A |
-| 17 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 18 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 19 | [travis barker](http://twitter.com/search?q=travis+barker) | N/A |
-| 20 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 21 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 22 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 23 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 24 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 25 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 26 | [Acre](http://twitter.com/search?q=Acre) | N/A |
-| 27 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
-| 28 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
-| 29 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 30 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 31 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 32 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
-| 33 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
-| 34 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 35 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 36 | [Chiclete](http://twitter.com/search?q=Chiclete) | N/A |
-| 37 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
-| 38 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 39 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
-| 40 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 41 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 42 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
-| 43 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
-| 44 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 45 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 46 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
-| 47 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 48 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 49 | [Paulo Nunes](http://twitter.com/search?q=Paulo+Nunes) | N/A |
-| 50 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 2 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 3 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 7 | [Quarto Branco](http://twitter.com/search?q=Quarto+Branco) | N/A |
+| 8 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 9 | [homens](http://twitter.com/search?q=homens) | N/A |
+| 10 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 11 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 12 | [#FACECONCEPTPHOTO](http://twitter.com/search?q=%23FACECONCEPTPHOTO) | N/A |
+| 13 | [#Jimin_Hardware_Ver](http://twitter.com/search?q=%23Jimin_Hardware_Ver) | N/A |
+| 14 | [Las Encinas](http://twitter.com/search?q=Las+Encinas) | N/A |
+| 15 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 18 | [#Jimin_FACE_Is_Coming](http://twitter.com/search?q=%23Jimin_FACE_Is_Coming) | N/A |
+| 19 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 20 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 21 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 22 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 23 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 24 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 25 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 27 | [Hwanhee](http://twitter.com/search?q=Hwanhee) | N/A |
+| 28 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 29 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
+| 30 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 31 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 32 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 33 | [Aluna](http://twitter.com/search?q=Aluna) | N/A |
+| 34 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 35 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 36 | [Love Killa](http://twitter.com/search?q=Love+Killa) | N/A |
+| 37 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 38 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 39 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 40 | [Travis Barker](http://twitter.com/search?q=Travis+Barker) | N/A |
+| 41 | [iPhone 8](http://twitter.com/search?q=iPhone+8) | N/A |
+| 42 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 43 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 44 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 45 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 46 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 47 | [Acre](http://twitter.com/search?q=Acre) | N/A |
+| 48 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 49 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 50 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
 
 
 

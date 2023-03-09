@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-09 14:17:01 UTC`
+📆 Last Updated: `2023-03-09 15:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BANvENG](http://twitter.com/search?q=%23BANvENG) | N/A |
-| 2 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 3 | [1930s Germany](http://twitter.com/search?q=1930s+Germany) | N/A |
-| 4 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 5 | [Sussex](http://twitter.com/search?q=Sussex) | N/A |
-| 6 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
-| 7 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
-| 8 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
-| 9 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
-| 10 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
-| 11 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 12 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
-| 13 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 14 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 15 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 16 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 17 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 18 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 19 | [Topol](http://twitter.com/search?q=Topol) | N/A |
-| 20 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 22 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
-| 23 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 24 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 25 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 26 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 27 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 28 | [Paul Pogba](http://twitter.com/search?q=Paul+Pogba) | N/A |
-| 29 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 30 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 31 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
-| 32 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
-| 33 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 2 | [#loosewomen](http://twitter.com/search?q=%23loosewomen) | N/A |
+| 3 | [#FortniteMEGA](http://twitter.com/search?q=%23FortniteMEGA) | N/A |
+| 4 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 5 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 6 | [Germans](http://twitter.com/search?q=Germans) | N/A |
+| 7 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 8 | [#winter](http://twitter.com/search?q=%23winter) | N/A |
+| 9 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 10 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 11 | [#ImWithGary](http://twitter.com/search?q=%23ImWithGary) | N/A |
+| 12 | [Mystic Meg](http://twitter.com/search?q=Mystic+Meg) | N/A |
+| 13 | [Gary Lineker](http://twitter.com/search?q=Gary+Lineker) | Gary Lineker is a former English professional footballer and current sports broadcaster. He is best known for his time playing for Leicester City, Everton, Barcelona, Tottenham Hotspur and England. He is also the current presenter of Match of the Day on BBC One. |
+| 14 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 15 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 16 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 17 | [rex dingle](http://twitter.com/search?q=rex+dingle) | N/A |
+| 18 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 19 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 20 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 21 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 22 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 23 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 24 | [Steve Borthwick](http://twitter.com/search?q=Steve+Borthwick) | N/A |
+| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 26 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 27 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 28 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
+| 29 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 30 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 31 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 32 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 33 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
 | 34 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 35 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 36 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 37 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 38 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 39 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 40 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 41 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 42 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 43 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 44 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
-| 45 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 46 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 47 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 48 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 35 | [Paul Pogba](http://twitter.com/search?q=Paul+Pogba) | N/A |
+| 36 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
+| 37 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
+| 38 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 39 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 40 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 41 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 42 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 43 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 44 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 45 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 46 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 47 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 48 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
 
 
 

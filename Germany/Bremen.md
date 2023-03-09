@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-09 14:17:17 UTC`
+📆 Last Updated: `2023-03-09 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
 | 5 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 7 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 8 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 7 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
 | 9 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
 | 10 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
-| 11 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 12 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 13 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 16 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 17 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 21 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 22 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
+| 11 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 12 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
+| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 14 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 15 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 17 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 20 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 21 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 22 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
 | 23 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 24 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
-| 25 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
-| 26 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 27 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 28 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 29 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 30 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 24 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 25 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 26 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
+| 27 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 28 | [feminismus](http://twitter.com/search?q=feminismus) | N/A |
+| 29 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 30 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
 | 31 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 32 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 33 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 34 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
-| 35 | [Brust](http://twitter.com/search?q=Brust) | N/A |
-| 36 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 37 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
-| 38 | [Katwarn](http://twitter.com/search?q=Katwarn) | N/A |
+| 32 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 33 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
+| 34 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 35 | [hersh](http://twitter.com/search?q=hersh) | N/A |
+| 36 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
+| 37 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 38 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 39 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 40 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 41 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 42 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 43 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 44 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 45 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 40 | [Koexistenz](http://twitter.com/search?q=Koexistenz) | N/A |
+| 41 | [Brust](http://twitter.com/search?q=Brust) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 44 | [Sprengung](http://twitter.com/search?q=Sprengung) | N/A |
+| 45 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
 | 46 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 47 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 48 | [Bayern und NRW](http://twitter.com/search?q=Bayern+und+NRW) | N/A |
+| 47 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 48 | [Deutsche Post](http://twitter.com/search?q=Deutsche+Post) | N/A |
 
 
 

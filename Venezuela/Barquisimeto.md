@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-09 14:17:13 UTC`
+📆 Last Updated: `2023-03-09 15:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#9mar](http://twitter.com/search?q=%239mar) | N/A |
+| 1 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
 | 2 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
 | 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 6 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Astros](http://twitter.com/search?q=Astros) | N/A |
 | 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 10 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
-| 11 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
-| 12 | [Bandera de Venezuela](http://twitter.com/search?q=Bandera+de+Venezuela) | N/A |
-| 13 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
-| 14 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 15 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 18 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
-| 19 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 20 | [En 2006](http://twitter.com/search?q=En+2006) | N/A |
-| 21 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 23 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 24 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
-| 25 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 26 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
-| 27 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 30 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
-| 31 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 9 | [Poder Legislativo](http://twitter.com/search?q=Poder+Legislativo) | N/A |
+| 10 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 11 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 12 | [Bandera Nacional](http://twitter.com/search?q=Bandera+Nacional) | N/A |
+| 13 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 14 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
+| 15 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
+| 16 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 18 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 19 | [Gran Colombia](http://twitter.com/search?q=Gran+Colombia) | N/A |
+| 20 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 21 | [Américo Vespucio](http://twitter.com/search?q=Am%c3%a9rico+Vespucio) | N/A |
+| 22 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 23 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 24 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 25 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 27 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 28 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 29 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
 | 33 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 34 | [lila morillo](http://twitter.com/search?q=lila+morillo) | N/A |
-| 35 | [Yaracuy](http://twitter.com/search?q=Yaracuy) | N/A |
-| 36 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 39 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 41 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 42 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 43 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
-| 44 | [Andrés Galarraga](http://twitter.com/search?q=Andr%c3%a9s+Galarraga) | N/A |
-| 45 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
-| 46 | [Raúl Amundaray](http://twitter.com/search?q=Ra%c3%bal+Amundaray) | N/A |
-| 47 | [Mechada](http://twitter.com/search?q=Mechada) | N/A |
-| 48 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 34 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 35 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [farias](http://twitter.com/search?q=farias) | N/A |
+| 38 | [julio Montoya](http://twitter.com/search?q=julio+Montoya) | N/A |
+| 39 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 40 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 41 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 42 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 43 | [peseiro](http://twitter.com/search?q=peseiro) | N/A |
+| 44 | [andrés galarraga](http://twitter.com/search?q=andr%c3%a9s+galarraga) | N/A |
+| 45 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 46 | [Mechada](http://twitter.com/search?q=Mechada) | N/A |
+| 47 | [Cova](http://twitter.com/search?q=Cova) | N/A |
+| 48 | [Tachira](http://twitter.com/search?q=Tachira) | N/A |
 | 49 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
-| 50 | [HARD VERSION](http://twitter.com/search?q=HARD+VERSION) | N/A |
+| 50 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
 
 
 

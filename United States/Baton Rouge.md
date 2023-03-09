@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-03-09 14:17:51 UTC`
+📆 Last Updated: `2023-03-09 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [#Pelicans](http://twitter.com/search?q=%23Pelicans) | N/A |
 | 4 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 7 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
-| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 12 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 13 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 14 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 15 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 16 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 17 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 18 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 19 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 20 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 21 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 22 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 23 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 24 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 25 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 26 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 27 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
-| 28 | [Biggie Smalls](http://twitter.com/search?q=Biggie+Smalls) | N/A |
-| 29 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 30 | [Biden and Pelosi](http://twitter.com/search?q=Biden+and+Pelosi) | N/A |
-| 31 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 32 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 33 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 34 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
-| 35 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
-| 36 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 37 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 38 | [Favre](http://twitter.com/search?q=Favre) | N/A |
-| 39 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 40 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
-| 41 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 42 | [Harry Reid](http://twitter.com/search?q=Harry+Reid) | N/A |
-| 43 | [Grassley](http://twitter.com/search?q=Grassley) | N/A |
-| 44 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 45 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 46 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 47 | [Real Women](http://twitter.com/search?q=Real+Women) | N/A |
-| 48 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 49 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
+| 6 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
+| 7 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 10 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 11 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 14 | [Hayden Buckley](http://twitter.com/search?q=Hayden+Buckley) | N/A |
+| 15 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 17 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 18 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 19 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 20 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 22 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 23 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
+| 24 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 25 | [Matt Cain](http://twitter.com/search?q=Matt+Cain) | N/A |
+| 26 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 27 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 28 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 29 | [Team Italy](http://twitter.com/search?q=Team+Italy) | N/A |
+| 30 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 31 | [Christopher Wallace](http://twitter.com/search?q=Christopher+Wallace) | N/A |
+| 32 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 33 | [Miku Day](http://twitter.com/search?q=Miku+Day) | N/A |
+| 34 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 35 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 36 | [Matt Harvey](http://twitter.com/search?q=Matt+Harvey) | N/A |
+| 37 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 38 | [Randy McNally](http://twitter.com/search?q=Randy+McNally) | N/A |
+| 39 | [Biden and Pelosi](http://twitter.com/search?q=Biden+and+Pelosi) | N/A |
+| 40 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 41 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
+| 42 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 43 | [damn kd](http://twitter.com/search?q=damn+kd) | N/A |
+| 44 | [Twitter Files](http://twitter.com/search?q=Twitter+Files) | N/A |
+| 45 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 46 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 47 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 48 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 49 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
 
 
 

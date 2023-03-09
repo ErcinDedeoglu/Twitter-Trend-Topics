@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-09 14:18:04 UTC`
+📆 Last Updated: `2023-03-09 15:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Canada
 | 3 | [#EmbraceEquity](http://twitter.com/search?q=%23EmbraceEquity) | N/A |
 | 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 5 | [#TransWomenAreWomen](http://twitter.com/search?q=%23TransWomenAreWomen) | N/A |
-| 6 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
+| 6 | [#IWD23](http://twitter.com/search?q=%23IWD23) | N/A |
 | 7 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
 | 8 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 9 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
 | 10 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 11 | [Marc Garneau](http://twitter.com/search?q=Marc+Garneau) | N/A |
-| 12 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 13 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 14 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 15 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 16 | [La GRC](http://twitter.com/search?q=La+GRC) | N/A |
+| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 13 | [Marc Garneau](http://twitter.com/search?q=Marc+Garneau) | N/A |
+| 14 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 15 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 16 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
 | 17 | [Éric Caire](http://twitter.com/search?q=%c3%89ric+Caire) | N/A |
-| 18 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
+| 18 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
 | 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [ceos](http://twitter.com/search?q=ceos) | N/A |
-| 21 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 23 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 24 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 20 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 21 | [Grade 11](http://twitter.com/search?q=Grade+11) | N/A |
+| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 23 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
+| 26 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
 | 27 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
 | 28 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 29 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
-| 30 | [SAAQ](http://twitter.com/search?q=SAAQ) | N/A |
-| 31 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
-| 32 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 33 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 34 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 35 | [asian canadians](http://twitter.com/search?q=asian+canadians) | N/A |
-| 36 | [bonne journée](http://twitter.com/search?q=bonne+journ%c3%a9e) | N/A |
-| 37 | [corey perry](http://twitter.com/search?q=corey+perry) | N/A |
-| 38 | [hellebuyck](http://twitter.com/search?q=hellebuyck) | N/A |
-| 39 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 40 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 41 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 43 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 44 | [ZHANG HAO](http://twitter.com/search?q=ZHANG+HAO) | N/A |
-| 45 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 46 | [Schumer](http://twitter.com/search?q=Schumer) | N/A |
-| 47 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 48 | [Direct](http://twitter.com/search?q=Direct) | N/A |
-| 49 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 29 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 30 | [OYAP](http://twitter.com/search?q=OYAP) | N/A |
+| 31 | [La GRC](http://twitter.com/search?q=La+GRC) | N/A |
+| 32 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 33 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
+| 34 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 35 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 36 | [asian canadians](http://twitter.com/search?q=asian+canadians) | N/A |
+| 37 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 38 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 39 | [corey perry](http://twitter.com/search?q=corey+perry) | N/A |
+| 40 | [hellebuyck](http://twitter.com/search?q=hellebuyck) | N/A |
+| 41 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 42 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 43 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
+| 44 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 47 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 48 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 49 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 50 | [Singh](http://twitter.com/search?q=Singh) | N/A |
 
 
 
