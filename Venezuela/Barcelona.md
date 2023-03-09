@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-09 11:16:26 UTC`
+📆 Last Updated: `2023-03-09 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 2 | [#8Mar](http://twitter.com/search?q=%238Mar) | N/A |
-| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#ChávezFeminista](http://twitter.com/search?q=%23Ch%c3%a1vezFeminista) | N/A |
-| 5 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Raúl Amundaray](http://twitter.com/search?q=Ra%c3%bal+Amundaray) | N/A |
-| 9 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 11 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 12 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 13 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 14 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
-| 17 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
-| 18 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 19 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
-| 20 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 21 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 22 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 23 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 24 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
-| 25 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 26 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 1 | [#9Mar](http://twitter.com/search?q=%239Mar) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#ChávezSiempreChávez](http://twitter.com/search?q=%23Ch%c3%a1vezSiempreCh%c3%a1vez) | N/A |
+| 4 | [#chávezfeminista](http://twitter.com/search?q=%23ch%c3%a1vezfeminista) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 8 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 10 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 11 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 12 | [Carlos Mata](http://twitter.com/search?q=Carlos+Mata) | N/A |
+| 13 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 14 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 15 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 16 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 18 | [Sarago](http://twitter.com/search?q=Sarago) | N/A |
+| 19 | [Raúl Amundaray](http://twitter.com/search?q=Ra%c3%bal+Amundaray) | N/A |
+| 20 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 21 | [Gran Misión Mujer Venezuela](http://twitter.com/search?q=Gran+Misi%c3%b3n+Mujer+Venezuela) | N/A |
+| 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 23 | [QUÉ TAN MAÑOSO ERES PARA COMER](http://twitter.com/search?q=QU%c3%89+TAN+MA%c3%91OSO+ERES+PARA+COMER) | N/A |
+| 24 | [Yaracuy](http://twitter.com/search?q=Yaracuy) | N/A |
+| 25 | [Dudamel](http://twitter.com/search?q=Dudamel) | N/A |
+| 26 | [Batista](http://twitter.com/search?q=Batista) | N/A |
 | 27 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 28 | [la fvf](http://twitter.com/search?q=la+fvf) | N/A |
-| 29 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
-| 30 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 31 | [poliedro de caracas](http://twitter.com/search?q=poliedro+de+caracas) | N/A |
-| 32 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 33 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 34 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 29 | [La FVF](http://twitter.com/search?q=La+FVF) | N/A |
+| 30 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 31 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
+| 32 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 33 | [Héctor](http://twitter.com/search?q=H%c3%a9ctor) | N/A |
+| 34 | [poliedro de caracas](http://twitter.com/search?q=poliedro+de+caracas) | N/A |
 | 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 36 | [alfredo sadel](http://twitter.com/search?q=alfredo+sadel) | N/A |
-| 37 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 38 | [Chita](http://twitter.com/search?q=Chita) | N/A |
-| 39 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 40 | [venevisión](http://twitter.com/search?q=venevisi%c3%b3n) | N/A |
-| 41 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 42 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 43 | [feliz miércoles](http://twitter.com/search?q=feliz+mi%c3%a9rcoles) | N/A |
-| 44 | [Andrés Galarraga](http://twitter.com/search?q=Andr%c3%a9s+Galarraga) | N/A |
-| 45 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 46 | [cova](http://twitter.com/search?q=cova) | N/A |
-| 47 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 36 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 37 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 38 | [Venevisión](http://twitter.com/search?q=Venevisi%c3%b3n) | Venevisión is a Venezuelan television network founded in 1961. It is one of the largest and most popular networks in the country, and it broadcasts a variety of programming including news, sports, movies, soap operas, and more. The name Venevisión is derived from the words "Venezuela" and "televisión," meaning "television from Venezuela." |
+| 39 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
+| 40 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 43 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 44 | [Táchira](http://twitter.com/search?q=T%c3%a1chira) | N/A |
+| 45 | [Richard Paez](http://twitter.com/search?q=Richard+Paez) | N/A |
+| 46 | [Julio Montoya](http://twitter.com/search?q=Julio+Montoya) | N/A |
 
 
 

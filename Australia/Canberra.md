@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-09 11:16:42 UTC`
+📆 Last Updated: `2023-03-09 12:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 4 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 5 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 6 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
-| 7 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
-| 8 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
-| 9 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
-| 10 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 11 | [Luai](http://twitter.com/search?q=Luai) | N/A |
-| 12 | [Tass](http://twitter.com/search?q=Tass) | N/A |
-| 13 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 14 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 6 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
+| 7 | [Usman Khawaja](http://twitter.com/search?q=Usman+Khawaja) | N/A |
+| 8 | [Uzzie](http://twitter.com/search?q=Uzzie) | N/A |
+| 9 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 10 | [cody walker](http://twitter.com/search?q=cody+walker) | N/A |
+| 11 | [luai](http://twitter.com/search?q=luai) | N/A |
+| 12 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 13 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
+| 14 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
 | 15 | [Antic](http://twitter.com/search?q=Antic) | N/A |
-| 16 | [Atkins](http://twitter.com/search?q=Atkins) | N/A |
-| 17 | [Cam Green](http://twitter.com/search?q=Cam+Green) | N/A |
-| 18 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 19 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
-| 20 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 21 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
-| 22 | [Bunnies](http://twitter.com/search?q=Bunnies) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 16 | [Jason Demetriou](http://twitter.com/search?q=Jason+Demetriou) | N/A |
+| 17 | [Tass](http://twitter.com/search?q=Tass) | N/A |
+| 18 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 19 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 20 | [Bunker](http://twitter.com/search?q=Bunker) | N/A |
+| 21 | [IBAC](http://twitter.com/search?q=IBAC) | N/A |
+| 22 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 23 | [Ennis](http://twitter.com/search?q=Ennis) | Ennis is a name of Irish origin, derived from the Gaelic name Aonghus, meaning "one strength". It is also the name of a town in County Clare, Ireland. |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 25 | [Handscomb](http://twitter.com/search?q=Handscomb) | N/A |
 | 26 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
 | 27 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
-| 28 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
-| 29 | [mcbride](http://twitter.com/search?q=mcbride) | N/A |
-| 30 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
-| 31 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [WOODEN SPOON](http://twitter.com/search?q=WOODEN+SPOON) | N/A |
-| 34 | [BIGGEST SLIDER](http://twitter.com/search?q=BIGGEST+SLIDER) | N/A |
+| 28 | [McBride](http://twitter.com/search?q=McBride) | N/A |
+| 29 | [RISING STAR](http://twitter.com/search?q=RISING+STAR) | N/A |
+| 30 | [Bunnies](http://twitter.com/search?q=Bunnies) | N/A |
+| 31 | [Hillsong](http://twitter.com/search?q=Hillsong) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [BIGGEST IMPROVER](http://twitter.com/search?q=BIGGEST+IMPROVER) | N/A |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 35 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 36 | [BIGGEST IMPROVER](http://twitter.com/search?q=BIGGEST+IMPROVER) | N/A |
-| 37 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 38 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 39 | [Crichton](http://twitter.com/search?q=Crichton) | N/A |
-| 40 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 41 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
-| 42 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 43 | [Knock](http://twitter.com/search?q=Knock) | N/A |
+| 36 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
+| 37 | [WOODEN SPOON](http://twitter.com/search?q=WOODEN+SPOON) | N/A |
+| 38 | [BIGGEST SLIDER](http://twitter.com/search?q=BIGGEST+SLIDER) | N/A |
+| 39 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 40 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 41 | [Knock](http://twitter.com/search?q=Knock) | N/A |
+| 42 | [Coatsworth](http://twitter.com/search?q=Coatsworth) | N/A |
+| 43 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 44 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 45 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
-| 46 | [Netball Australia](http://twitter.com/search?q=Netball+Australia) | N/A |
-| 47 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
-| 48 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 49 | [Fine Line](http://twitter.com/search?q=Fine+Line) | N/A |
-| 50 | [Tom Morris](http://twitter.com/search?q=Tom+Morris) | N/A |
+| 45 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 46 | [Kardashian](http://twitter.com/search?q=Kardashian) | N/A |
+| 47 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 48 | [Great Grandparents](http://twitter.com/search?q=Great+Grandparents) | N/A |
+| 49 | [Ahmedabad](http://twitter.com/search?q=Ahmedabad) | N/A |
+| 50 | [Netball Australia](http://twitter.com/search?q=Netball+Australia) | N/A |
 
 
 

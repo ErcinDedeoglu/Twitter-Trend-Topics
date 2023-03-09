@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-09 11:17:14 UTC`
+📆 Last Updated: `2023-03-09 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 2 | [joiner](http://twitter.com/search?q=joiner) | N/A |
-| 3 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 4 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 5 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
-| 12 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 14 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 15 | [franklin](http://twitter.com/search?q=franklin) | N/A |
-| 16 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 17 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 18 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 2 | [Joiner](http://twitter.com/search?q=Joiner) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 5 | [Pack](http://twitter.com/search?q=Pack) | N/A |
+| 6 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 12 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 13 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 14 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 15 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 16 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 17 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
 | 19 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 20 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 21 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 22 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 23 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 24 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 25 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 26 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 27 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 28 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 29 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 30 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 31 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 32 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 20 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 21 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 22 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 23 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 24 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 25 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 26 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 28 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 29 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 30 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 31 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 32 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 33 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 34 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 34 | [MH370](http://twitter.com/search?q=MH370) | N/A |
 | 35 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 36 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 37 | [top secret](http://twitter.com/search?q=top+secret) | N/A |
+| 36 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 37 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
 | 38 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 39 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 40 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 42 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 43 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 44 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 45 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 46 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 47 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 48 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 49 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
+| 39 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 40 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 41 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 42 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 43 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 44 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 45 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 46 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 48 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 49 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
 
 
 

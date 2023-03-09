@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-09 11:16:37 UTC`
+📆 Last Updated: `2023-03-09 12:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
 | 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
-| 3 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 3 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
 | 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 7 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 8 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
-| 9 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 12 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
-| 13 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 14 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
-| 15 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
-| 16 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 17 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 18 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 19 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
-| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 21 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 22 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 23 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 24 | [Pacma](http://twitter.com/search?q=Pacma) | N/A |
-| 25 | [Moting](http://twitter.com/search?q=Moting) | N/A |
-| 26 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 27 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
-| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 29 | [Heart of Steel](http://twitter.com/search?q=Heart+of+Steel) | N/A |
-| 30 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 31 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 32 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
-| 33 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
-| 34 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 35 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
-| 36 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 37 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 38 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 39 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 40 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 41 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 42 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 43 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 6 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 7 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 8 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 9 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 10 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
+| 11 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 12 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 13 | [Level 5](http://twitter.com/search?q=Level+5) | N/A |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Súria](http://twitter.com/search?q=S%c3%baria) | N/A |
+| 17 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
+| 18 | [Feliz 8m](http://twitter.com/search?q=Feliz+8m) | N/A |
+| 19 | [El 8M](http://twitter.com/search?q=El+8M) | N/A |
+| 20 | [Pau Gasol](http://twitter.com/search?q=Pau+Gasol) | N/A |
+| 21 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 22 | [Decapolice](http://twitter.com/search?q=Decapolice) | N/A |
+| 23 | [Fantasy Life](http://twitter.com/search?q=Fantasy+Life) | N/A |
+| 24 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 25 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 26 | [Secretaria de Estado](http://twitter.com/search?q=Secretaria+de+Estado) | N/A |
+| 27 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 29 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 30 | [Pacma](http://twitter.com/search?q=Pacma) | N/A |
+| 31 | [Moting](http://twitter.com/search?q=Moting) | N/A |
+| 32 | [San Juan de Dios](http://twitter.com/search?q=San+Juan+de+Dios) | N/A |
+| 33 | [García Albiol](http://twitter.com/search?q=Garc%c3%ada+Albiol) | N/A |
+| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 35 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 36 | [Ana Orantes](http://twitter.com/search?q=Ana+Orantes) | N/A |
+| 37 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 38 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 39 | [Carlota Corredera](http://twitter.com/search?q=Carlota+Corredera) | N/A |
+| 40 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 41 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 42 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 43 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
 | 44 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 45 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 46 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 47 | [Cereza](http://twitter.com/search?q=Cereza) | N/A |
-| 48 | [Clara Campoamor](http://twitter.com/search?q=Clara+Campoamor) | N/A |
+| 45 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 46 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 47 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
+| 48 | [Heart Of Steel](http://twitter.com/search?q=Heart+Of+Steel) | N/A |
 
 
 

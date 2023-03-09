@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-09 11:17:13 UTC`
+📆 Last Updated: `2023-03-09 12:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeAreTheValley](http://twitter.com/search?q=%23WeAreTheValley) | N/A |
-| 2 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 3 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 1 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 2 | [Devin Booker](http://twitter.com/search?q=Devin+Booker) | N/A |
+| 3 | [Monty](http://twitter.com/search?q=Monty) | N/A |
 | 4 | [#Suns](http://twitter.com/search?q=%23Suns) | N/A |
-| 5 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
-| 12 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 13 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 14 | [franklin](http://twitter.com/search?q=franklin) | N/A |
-| 15 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 16 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 17 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 18 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 19 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 20 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 21 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 22 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 23 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 24 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 25 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 26 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 27 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 28 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 29 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 30 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 31 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 32 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 33 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 34 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 35 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 36 | [top secret](http://twitter.com/search?q=top+secret) | N/A |
-| 37 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 38 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 39 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 40 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 9 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 10 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 13 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 14 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 15 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 16 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 17 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 18 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 19 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 20 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 21 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 22 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 23 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 24 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 25 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 26 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 28 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 29 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 30 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 31 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 32 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 33 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 34 | [MH370](http://twitter.com/search?q=MH370) | N/A |
+| 35 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
+| 36 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 37 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 38 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
+| 39 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 40 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 | 41 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
 | 42 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
 | 43 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 44 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 45 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 46 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 47 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 48 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
-| 49 | [JoJo's Bizarre Adventure](http://twitter.com/search?q=JoJo%27s+Bizarre+Adventure) | N/A |
-| 50 | [Big Sky](http://twitter.com/search?q=Big+Sky) | N/A |
+| 44 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 45 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 46 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 47 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 48 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 49 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 50 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
 
 
 

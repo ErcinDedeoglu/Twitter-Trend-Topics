@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-09 11:17:23 UTC`
+📆 Last Updated: `2023-03-09 12:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Mexico
 | 14 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
 | 15 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
 | 16 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 17 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 18 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 17 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 18 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 19 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
 | 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 21 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
 | 22 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 23 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 24 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 25 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 23 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 25 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
 | 26 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 27 | [reimers](http://twitter.com/search?q=reimers) | N/A |
+| 27 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
 | 28 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 29 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 30 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 31 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 29 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 30 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 31 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
 | 32 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 33 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 35 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
-| 36 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 37 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 38 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 39 | [guerrero medallista](http://twitter.com/search?q=guerrero+medallista) | N/A |
+| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 34 | [Cada 8m](http://twitter.com/search?q=Cada+8m) | N/A |
+| 35 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 36 | [guerrero medallista](http://twitter.com/search?q=guerrero+medallista) | N/A |
+| 37 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 38 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 39 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
 | 40 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
 | 41 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
 | 42 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 43 | [Felícita](http://twitter.com/search?q=Fel%c3%adcita) | N/A |
-| 44 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 46 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 47 | [DESTRUIR](http://twitter.com/search?q=DESTRUIR) | N/A |
-| 48 | [Kenia](http://twitter.com/search?q=Kenia) | Kenia is the name of a country in East Africa. It is bordered by Tanzania, Uganda, South Sudan, Ethiopia, and Somalia. The official name of the country is the Republic of Kenya. The meaning of Kenia in English is "burning" or "place of the open-faced spear". |
-| 49 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 50 | [Fuerza Civil](http://twitter.com/search?q=Fuerza+Civil) | N/A |
+| 43 | [Conasupo](http://twitter.com/search?q=Conasupo) | N/A |
+| 44 | [Nisha](http://twitter.com/search?q=Nisha) | N/A |
+| 45 | [Bancomer](http://twitter.com/search?q=Bancomer) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 47 | [Ness](http://twitter.com/search?q=Ness) | N/A |
+| 48 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
+| 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 50 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
 
 
 

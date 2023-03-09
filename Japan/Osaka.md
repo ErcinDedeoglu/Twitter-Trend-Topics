@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-09 11:17:17 UTC`
+📆 Last Updated: `2023-03-09 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mmm765](http://twitter.com/search?q=%23mmm765) | N/A |
-| 2 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
-| 3 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
-| 4 | [#newsおかえり](http://twitter.com/search?q=%23news%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a) | N/A |
-| 5 | [ミーハー](http://twitter.com/search?q=%e3%83%9f%e3%83%bc%e3%83%8f%e3%83%bc) | N/A |
-| 6 | [ライオン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3) | ライオン (Raion) is the Japanese word for lion. It is a large carnivorous mammal that lives in parts of Africa and India. In English, it means "lion". |
-| 7 | [#平野紫耀](http://twitter.com/search?q=%23%e5%b9%b3%e9%87%8e%e7%b4%ab%e8%80%80) | #平野紫耀 is the name of a Japanese singer and actor. In English, it translates to "Purple Shine of the Plain". |
-| 8 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
-| 9 | [ミエちゃん](http://twitter.com/search?q=%e3%83%9f%e3%82%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [販売中止](http://twitter.com/search?q=%e8%b2%a9%e5%a3%b2%e4%b8%ad%e6%ad%a2) | N/A |
-| 11 | [野球観戦](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e8%a6%b3%e6%88%a6) | N/A |
-| 12 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
-| 13 | [試合開始](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e9%96%8b%e5%a7%8b) | N/A |
-| 14 | [メモリー](http://twitter.com/search?q=%e3%83%a1%e3%83%a2%e3%83%aa%e3%83%bc) | N/A |
-| 15 | [吉村さん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%95%e3%82%93) | N/A |
-| 16 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
-| 17 | [ビーストウォーズ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
-| 18 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 19 | [JALスマイルキャンペーン](http://twitter.com/search?q=JAL%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
-| 20 | [グッズの名前](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
-| 21 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 22 | [マーキーさん](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%ad%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 1 | [球数制限](http://twitter.com/search?q=%e7%90%83%e6%95%b0%e5%88%b6%e9%99%90) | N/A |
+| 2 | [源田さん](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 3 | [満塁ホームラン](http://twitter.com/search?q=%e6%ba%80%e5%a1%81%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 4 | [国際大会](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e5%a4%a7%e4%bc%9a) | N/A |
+| 5 | [ツーシーム](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%82%b7%e3%83%bc%e3%83%a0) | N/A |
+| 6 | [中国の先発](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e3%81%ae%e5%85%88%e7%99%ba) | N/A |
+| 7 | [舐めすぎ](http://twitter.com/search?q=%e8%88%90%e3%82%81%e3%81%99%e3%81%8e) | N/A |
+| 8 | [カイリュー](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%83%aa%e3%83%a5%e3%83%bc) | N/A |
+| 9 | [#SHOWたいむ](http://twitter.com/search?q=%23SHOW%e3%81%9f%e3%81%84%e3%82%80) | N/A |
+| 10 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 11 | [三者凡退](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e5%87%a1%e9%80%80) | N/A |
+| 12 | [野球のルール](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
+| 13 | [木村さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e3%81%95%e3%82%93) | 木村さん is a Japanese honorific title used to refer to someone with the surname Kimura. It is roughly equivalent to "Mr. Kimura" or "Mrs. Kimura" in English. |
+| 14 | [欲望のレイン](http://twitter.com/search?q=%e6%ac%b2%e6%9c%9b%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%b3) | N/A |
+| 15 | [タッチアウト](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
+| 16 | [ガンソード](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%89) | N/A |
+| 17 | [#サンキューの日](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 18 | [高木さん](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 19 | [ペッパーミル](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9f%e3%83%ab) | N/A |
+| 20 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
+| 21 | [スノカレ](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%82%ab%e3%83%ac) | N/A |
+| 22 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
 | 23 | [リボンブローチ](http://twitter.com/search?q=%e3%83%aa%e3%83%9c%e3%83%b3%e3%83%96%e3%83%ad%e3%83%bc%e3%83%81) | N/A |
-| 24 | [#いいねかRTで気になった人フォローする](http://twitter.com/search?q=%23%e3%81%84%e3%81%84%e3%81%ad%e3%81%8bRT%e3%81%a7%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e4%ba%ba%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%81%99%e3%82%8b) | "#いいねかRTで気になった人フォローする" is a hashtag used on Twitter that means "Follow people who you find interesting by liking or retweeting their posts". |
-| 25 | [ザクの日](http://twitter.com/search?q=%e3%82%b6%e3%82%af%e3%81%ae%e6%97%a5) | N/A |
-| 26 | [野球好き](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%a5%bd%e3%81%8d) | N/A |
-| 27 | [ミエセス](http://twitter.com/search?q=%e3%83%9f%e3%82%a8%e3%82%bb%e3%82%b9) | N/A |
-| 28 | [昭和生まれ](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e7%94%9f%e3%81%be%e3%82%8c) | N/A |
-| 29 | [ニッポン](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
-| 30 | [感謝の日](http://twitter.com/search?q=%e6%84%9f%e8%ac%9d%e3%81%ae%e6%97%a5) | N/A |
-| 31 | [アラフォー](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%95%e3%82%a9%e3%83%bc) | N/A |
-| 32 | [ドジェジョン](http://twitter.com/search?q=%e3%83%89%e3%82%b8%e3%82%a7%e3%82%b8%e3%83%a7%e3%83%b3) | N/A |
-| 33 | [吉村知事](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e7%9f%a5%e4%ba%8b) | N/A |
-| 34 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 24 | [パワプロ](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%97%e3%83%ad) | N/A |
+| 25 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
+| 26 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 27 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 28 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 29 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
+| 30 | [フェン直](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e7%9b%b4) | N/A |
+| 31 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 32 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 33 | [イナイレ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%ac) | N/A |
+| 34 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
 | 35 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 36 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 37 | [中国のピッチャー](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e3%81%ae%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 38 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
+| 36 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
+| 37 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 38 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
 | 39 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
-| 40 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 41 | [タッチアップ](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%81%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 42 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 43 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 44 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 45 | [ナイスプレー](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
-| 46 | [無死満塁](http://twitter.com/search?q=%e7%84%a1%e6%ad%bb%e6%ba%80%e5%a1%81) | N/A |
-| 47 | [フォアボール](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%82%a2%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 48 | [ナイスキャッチ](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81) | N/A |
-| 49 | [木村貴宏さん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e8%b2%b4%e5%ae%8f%e3%81%95%e3%82%93) | N/A |
+| 40 | [押し出し](http://twitter.com/search?q=%e6%8a%bc%e3%81%97%e5%87%ba%e3%81%97) | N/A |
+| 41 | [大谷ルール](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
+| 42 | [戸郷さん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%95%e3%82%93) | N/A |
+| 43 | [三者連続三振](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e9%80%a3%e7%b6%9a%e4%b8%89%e6%8c%af) | N/A |
+| 44 | [フェンス直撃](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e3%82%b9%e7%9b%b4%e6%92%83) | N/A |
+| 45 | [ルークの声](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%af%e3%81%ae%e5%a3%b0) | N/A |
+| 46 | [ピッチング](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
+| 47 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 48 | [フォアボール](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%82%a2%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 49 | [円堂ハル](http://twitter.com/search?q=%e5%86%86%e5%a0%82%e3%83%8f%e3%83%ab) | N/A |
 
 
 

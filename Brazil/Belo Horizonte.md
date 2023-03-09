@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-09 11:16:27 UTC`
+📆 Last Updated: `2023-03-09 12:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 4 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
-| 5 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 1 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 2 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
+| 3 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 4 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 5 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
 | 6 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 7 | [#FreeAnitta](http://twitter.com/search?q=%23FreeAnitta) | N/A |
-| 8 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 9 | [CASSAÇÃO JÁ](http://twitter.com/search?q=CASSA%c3%87%c3%83O+J%c3%81) | N/A |
-| 10 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 11 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 12 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 13 | [#ficaVP](http://twitter.com/search?q=%23ficaVP) | N/A |
-| 14 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 15 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 16 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
-| 17 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 18 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 19 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 20 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 21 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 22 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 23 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
-| 24 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 25 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 26 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 27 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 28 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 29 | [moleque](http://twitter.com/search?q=moleque) | N/A |
-| 30 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 31 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 32 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 33 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
-| 34 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 35 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 36 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
-| 37 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 38 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 39 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 40 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 41 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
-| 42 | [O Instagram](http://twitter.com/search?q=O+Instagram) | N/A |
-| 43 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 44 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 45 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
-| 46 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 47 | [VENCE O FLUMINENSE](http://twitter.com/search?q=VENCE+O+FLUMINENSE) | N/A |
-| 48 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 49 | [Título](http://twitter.com/search?q=T%c3%adtulo) | N/A |
-| 50 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 7 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 8 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 9 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 10 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 11 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 12 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
+| 13 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
+| 14 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 15 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
+| 16 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 17 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 18 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 19 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 20 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 21 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 22 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 23 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 24 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 25 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 26 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 27 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 28 | [#QuartoBranco](http://twitter.com/search?q=%23QuartoBranco) | N/A |
+| 29 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 30 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 31 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 32 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 33 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 34 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
+| 35 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 36 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 37 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
+| 38 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 39 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 40 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 41 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 42 | [Discurso](http://twitter.com/search?q=Discurso) | N/A |
+| 43 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 44 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
+| 45 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
+| 46 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 47 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 48 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 49 | [Liberta](http://twitter.com/search?q=Liberta) | N/A |
+| 50 | [Hunter x Hunter](http://twitter.com/search?q=Hunter+x+Hunter) | N/A |
 
 
 

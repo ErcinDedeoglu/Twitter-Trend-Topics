@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-09 11:17:11 UTC`
+📆 Last Updated: `2023-03-09 12:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United States](</United States>)
 | 5 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
 | 6 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 8 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
+| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
 | 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 10 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 11 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 12 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 13 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 14 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
+| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 14 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
 | 15 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 16 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 17 | [franklin](http://twitter.com/search?q=franklin) | N/A |
-| 18 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 19 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 20 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 21 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 22 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 23 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 24 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 25 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 26 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 27 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 28 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
-| 29 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 30 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 31 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 32 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 33 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 34 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 35 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 36 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 16 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 17 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 18 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 19 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 20 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 21 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 22 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 23 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 24 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 25 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 26 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 27 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
+| 28 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 29 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 30 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 31 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 32 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 33 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 35 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 36 | [MH370](http://twitter.com/search?q=MH370) | N/A |
 | 37 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 38 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 39 | [top secret](http://twitter.com/search?q=top+secret) | N/A |
+| 38 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 39 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
 | 40 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 41 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 42 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 43 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 44 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 45 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 46 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 47 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 48 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 49 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 50 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 41 | [Pound](http://twitter.com/search?q=Pound) | N/A |
+| 42 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 43 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 44 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 45 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 46 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 48 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
+| 49 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 50 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 
 
 
