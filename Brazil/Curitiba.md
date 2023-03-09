@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-09 13:21:27 UTC`
+📆 Last Updated: `2023-03-09 14:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
 | 3 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
 | 4 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 5 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 6 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 7 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 8 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 9 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 10 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 11 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 12 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 13 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 14 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
-| 15 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
-| 16 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 17 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
-| 18 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 19 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 20 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 21 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 22 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 23 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 24 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 25 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 26 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 27 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
-| 28 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 5 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 6 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 7 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 8 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 9 | [#BoysPlanet2ndMission](http://twitter.com/search?q=%23BoysPlanet2ndMission) | N/A |
+| 10 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 11 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 12 | [travis barker](http://twitter.com/search?q=travis+barker) | N/A |
+| 13 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 14 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 15 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 16 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 17 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 18 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
+| 19 | [Acre](http://twitter.com/search?q=Acre) | N/A |
+| 20 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
+| 21 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
+| 22 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
+| 23 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 24 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 25 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 26 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 27 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 28 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
 | 29 | [Chiclete](http://twitter.com/search?q=Chiclete) | N/A |
-| 30 | [BOLSONARO LADRÃO](http://twitter.com/search?q=BOLSONARO+LADR%c3%83O) | N/A |
-| 31 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 32 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 33 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 34 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 35 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 36 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 37 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
-| 38 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 39 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 40 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
-| 41 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
-| 42 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 43 | [taça rio](http://twitter.com/search?q=ta%c3%a7a+rio) | N/A |
-| 44 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 45 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
-| 46 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 47 | [Discurso](http://twitter.com/search?q=Discurso) | N/A |
-| 48 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
-| 49 | [Pânico VI](http://twitter.com/search?q=P%c3%a2nico+VI) | N/A |
-| 50 | [Vice Pereira](http://twitter.com/search?q=Vice+Pereira) | N/A |
+| 30 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 31 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 32 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
+| 33 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 35 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
+| 36 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
+| 37 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 38 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 39 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
+| 40 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 41 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 42 | [Paulo Nunes](http://twitter.com/search?q=Paulo+Nunes) | N/A |
+| 43 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 44 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 45 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
+| 46 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 47 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
+| 48 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 49 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 50 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
 
 
 

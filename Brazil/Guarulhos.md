@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-09 13:21:28 UTC`
+📆 Last Updated: `2023-03-09 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 2 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 3 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
-| 4 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 5 | [Homens](http://twitter.com/search?q=Homens) | N/A |
-| 6 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
-| 7 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
-| 8 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 9 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
-| 10 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 11 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 12 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
-| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 14 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
-| 15 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 16 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 17 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 18 | [#ONEPIECE1077](http://twitter.com/search?q=%23ONEPIECE1077) | N/A |
-| 19 | [#QuintaDetremuraSDV](http://twitter.com/search?q=%23QuintaDetremuraSDV) | N/A |
-| 20 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 21 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
-| 22 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 23 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 24 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 3 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 4 | [Pânico 6](http://twitter.com/search?q=P%c3%a2nico+6) | N/A |
+| 5 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
+| 6 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 7 | [Homens](http://twitter.com/search?q=Homens) | N/A |
+| 8 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 9 | [#WarnerFreeAnitta](http://twitter.com/search?q=%23WarnerFreeAnitta) | N/A |
+| 10 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 11 | [FELIZ CUMPLE MAITE PERRONI](http://twitter.com/search?q=FELIZ+CUMPLE+MAITE+PERRONI) | N/A |
+| 12 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 13 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 14 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 15 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 16 | [#BoysPlanet2ndMission](http://twitter.com/search?q=%23BoysPlanet2ndMission) | N/A |
+| 17 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 18 | [Augusto Montenegro](http://twitter.com/search?q=Augusto+Montenegro) | N/A |
+| 19 | [travis barker](http://twitter.com/search?q=travis+barker) | N/A |
+| 20 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 21 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 22 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 23 | [baby bieber](http://twitter.com/search?q=baby+bieber) | N/A |
+| 24 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
 | 25 | [Endless Summer Vacation](http://twitter.com/search?q=Endless+Summer+Vacation) | N/A |
-| 26 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 27 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 28 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 29 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 30 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 31 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 32 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
-| 33 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 34 | [Chiclete](http://twitter.com/search?q=Chiclete) | N/A |
-| 35 | [BOLSONARO LADRÃO](http://twitter.com/search?q=BOLSONARO+LADR%c3%83O) | N/A |
-| 36 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 37 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 38 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 39 | [Reprimenda](http://twitter.com/search?q=Reprimenda) | N/A |
-| 40 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
-| 41 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 42 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 43 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 44 | [Moleque](http://twitter.com/search?q=Moleque) | N/A |
-| 45 | [PSOL](http://twitter.com/search?q=PSOL) | N/A |
-| 46 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
-| 47 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 48 | [taça rio](http://twitter.com/search?q=ta%c3%a7a+rio) | N/A |
-| 49 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 50 | [Pirani](http://twitter.com/search?q=Pirani) | N/A |
+| 26 | [Acre](http://twitter.com/search?q=Acre) | N/A |
+| 27 | [Sorvetão](http://twitter.com/search?q=Sorvet%c3%a3o) | N/A |
+| 28 | [Conrado](http://twitter.com/search?q=Conrado) | N/A |
+| 29 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 30 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 31 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 32 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
+| 33 | [Oscar Isaac](http://twitter.com/search?q=Oscar+Isaac) | N/A |
+| 34 | [Transfobia](http://twitter.com/search?q=Transfobia) | N/A |
+| 35 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 36 | [Chiclete](http://twitter.com/search?q=Chiclete) | N/A |
+| 37 | [DIA DE VASCO](http://twitter.com/search?q=DIA+DE+VASCO) | N/A |
+| 38 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 39 | [Iguatu](http://twitter.com/search?q=Iguatu) | N/A |
+| 40 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 41 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 42 | [Taça Guanabara](http://twitter.com/search?q=Ta%c3%a7a+Guanabara) | N/A |
+| 43 | [Soberba](http://twitter.com/search?q=Soberba) | N/A |
+| 44 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 45 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 46 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
+| 47 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 48 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 49 | [Paulo Nunes](http://twitter.com/search?q=Paulo+Nunes) | N/A |
+| 50 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 
 
 

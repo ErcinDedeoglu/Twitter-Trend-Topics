@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-03-09 13:21:22 UTC`
+📆 Last Updated: `2023-03-09 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [Mexico](</Mexico>)
 | 13 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 14 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
 | 15 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 16 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 17 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 18 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 19 | [matamoros](http://twitter.com/search?q=matamoros) | N/A |
-| 20 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 21 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
-| 22 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 23 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 25 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
-| 26 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
-| 27 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 28 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 29 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 30 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 31 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 32 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 35 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 36 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 37 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 38 | [guerrero medallista](http://twitter.com/search?q=guerrero+medallista) | N/A |
-| 39 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 40 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 41 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
-| 42 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 43 | [Nisha](http://twitter.com/search?q=Nisha) | N/A |
-| 44 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 45 | [Faby](http://twitter.com/search?q=Faby) | N/A |
-| 46 | [Jueves 9](http://twitter.com/search?q=Jueves+9) | N/A |
-| 47 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
-| 48 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 49 | [Iñaki](http://twitter.com/search?q=I%c3%b1aki) | N/A |
+| 16 | [el psg](http://twitter.com/search?q=el+psg) | N/A |
+| 17 | [Pablo Gómez](http://twitter.com/search?q=Pablo+G%c3%b3mez) | N/A |
+| 18 | [Búnker](http://twitter.com/search?q=B%c3%banker) | N/A |
+| 19 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 20 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 21 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 22 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 23 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 24 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
+| 25 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 27 | [Genaro García Luna](http://twitter.com/search?q=Genaro+Garc%c3%ada+Luna) | N/A |
+| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 29 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 30 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 31 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 32 | [Este 8M](http://twitter.com/search?q=Este+8M) | N/A |
+| 33 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 34 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 35 | [Jueves 09](http://twitter.com/search?q=Jueves+09) | N/A |
+| 36 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 37 | [Feminista](http://twitter.com/search?q=Feminista) | N/A |
+| 38 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 40 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 41 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 42 | [guerrero medallista](http://twitter.com/search?q=guerrero+medallista) | N/A |
+| 43 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
+| 44 | [Cada 8M](http://twitter.com/search?q=Cada+8M) | N/A |
+| 45 | [ME by JISOO](http://twitter.com/search?q=ME+by+JISOO) | N/A |
+| 46 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 47 | [Azcapotzalco](http://twitter.com/search?q=Azcapotzalco) | N/A |
+| 48 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 49 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-09 13:22:02 UTC`
+📆 Last Updated: `2023-03-09 14:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
 | 2 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 3 | [#InternationalWomansDay](http://twitter.com/search?q=%23InternationalWomansDay) | N/A |
-| 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 5 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 8 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 12 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 13 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 14 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 3 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 4 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 5 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 6 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
+| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 10 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 11 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 12 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 13 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 14 | [Roof](http://twitter.com/search?q=Roof) | N/A |
 | 15 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 16 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 17 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 19 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 20 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 21 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 22 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 23 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 24 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 25 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 26 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
-| 27 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
-| 28 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 29 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 30 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 31 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 32 | [REAL WOMEN](http://twitter.com/search?q=REAL+WOMEN) | N/A |
-| 33 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 35 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 36 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 38 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 39 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 40 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 41 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 42 | [Nursing](http://twitter.com/search?q=Nursing) | N/A |
-| 43 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
-| 44 | [Pound](http://twitter.com/search?q=Pound) | N/A |
-| 45 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 46 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
-| 47 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 49 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 50 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
+| 16 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 17 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 18 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 19 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 20 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 21 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 22 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 23 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 24 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 25 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
+| 26 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 27 | [Biden and Pelosi](http://twitter.com/search?q=Biden+and+Pelosi) | N/A |
+| 28 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 29 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 30 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 31 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 32 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 33 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
+| 34 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 35 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 36 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 37 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 38 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 39 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 40 | [Harry Reid](http://twitter.com/search?q=Harry+Reid) | N/A |
+| 41 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 42 | [Grassley](http://twitter.com/search?q=Grassley) | N/A |
+| 43 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 44 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 45 | [Real Women](http://twitter.com/search?q=Real+Women) | N/A |
+| 46 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 47 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
+| 48 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
 
 
 

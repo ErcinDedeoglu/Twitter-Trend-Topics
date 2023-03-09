@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-09 13:21:32 UTC`
+📆 Last Updated: `2023-03-09 14:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Probealarm](http://twitter.com/search?q=Probealarm) | N/A |
 | 5 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 6 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 7 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
-| 8 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
-| 9 | [herzinfarkt](http://twitter.com/search?q=herzinfarkt) | N/A |
-| 10 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
-| 11 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 7 | [Hassrede](http://twitter.com/search?q=Hassrede) | N/A |
+| 8 | [Pässe](http://twitter.com/search?q=P%c3%a4sse) | N/A |
+| 9 | [Cell Broadcast](http://twitter.com/search?q=Cell+Broadcast) | N/A |
+| 10 | [Sprengstoff](http://twitter.com/search?q=Sprengstoff) | N/A |
+| 11 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
 | 12 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 13 | [Yacht](http://twitter.com/search?q=Yacht) | N/A |
-| 14 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 13 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 15 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 17 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
-| 20 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 21 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 22 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
-| 23 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
-| 24 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
-| 25 | [Handys](http://twitter.com/search?q=Handys) | N/A |
-| 26 | [Katwarn](http://twitter.com/search?q=Katwarn) | N/A |
-| 27 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
-| 28 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 29 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
-| 30 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 31 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
-| 32 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
-| 33 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
-| 34 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 35 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 36 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 37 | ['alltagsglück'](http://twitter.com/search?q=%27alltagsgl%c3%bcck%27) | N/A |
-| 38 | [schreck](http://twitter.com/search?q=schreck) | N/A |
-| 39 | [Patriarchat](http://twitter.com/search?q=Patriarchat) | N/A |
-| 40 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
-| 41 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
-| 42 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 43 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 44 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
-| 45 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 46 | [internationalen](http://twitter.com/search?q=internationalen) | N/A |
-| 47 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 48 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 16 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 17 | [Gleichberechtigung](http://twitter.com/search?q=Gleichberechtigung) | N/A |
+| 18 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 21 | [FLINTA](http://twitter.com/search?q=FLINTA) | N/A |
+| 22 | [NRW und Bayern](http://twitter.com/search?q=NRW+und+Bayern) | N/A |
+| 23 | [Transfrauen](http://twitter.com/search?q=Transfrauen) | N/A |
+| 24 | [Herzinfarkt](http://twitter.com/search?q=Herzinfarkt) | N/A |
+| 25 | [Schufa](http://twitter.com/search?q=Schufa) | N/A |
+| 26 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 27 | [Feminismus](http://twitter.com/search?q=Feminismus) | N/A |
+| 28 | [Taucher](http://twitter.com/search?q=Taucher) | N/A |
+| 29 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
+| 30 | [Handys](http://twitter.com/search?q=Handys) | N/A |
+| 31 | [Endlose Studien](http://twitter.com/search?q=Endlose+Studien) | N/A |
+| 32 | [Blumen](http://twitter.com/search?q=Blumen) | N/A |
+| 33 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 34 | [Männertag](http://twitter.com/search?q=M%c3%a4nnertag) | N/A |
+| 35 | [Brust](http://twitter.com/search?q=Brust) | N/A |
+| 36 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 37 | ['Alltagsglück'](http://twitter.com/search?q=%27Alltagsgl%c3%bcck%27) | N/A |
+| 38 | [Katwarn](http://twitter.com/search?q=Katwarn) | N/A |
+| 39 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 40 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 41 | [allen frauen](http://twitter.com/search?q=allen+frauen) | N/A |
+| 42 | [Gleichstellung](http://twitter.com/search?q=Gleichstellung) | N/A |
+| 43 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 44 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 45 | [Zehner](http://twitter.com/search?q=Zehner) | N/A |
+| 46 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 47 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 48 | [Bayern und NRW](http://twitter.com/search?q=Bayern+und+NRW) | N/A |
 
 
 

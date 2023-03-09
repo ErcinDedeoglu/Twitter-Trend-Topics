@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-09 13:22:08 UTC`
+📆 Last Updated: `2023-03-09 14:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for Guatemala
 | 6 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 9 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 10 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 11 | [Willy](http://twitter.com/search?q=Willy) | N/A |
 | 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 13 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 14 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 15 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 16 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 17 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
-| 18 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 14 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 15 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 16 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
+| 17 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 18 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 19 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
 | 20 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 21 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 21 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 22 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 23 | [fracchia](http://twitter.com/search?q=fracchia) | N/A |
 | 24 | [Este 8](http://twitter.com/search?q=Este+8) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Guatemala
 | 26 | [Angie](http://twitter.com/search?q=Angie) | N/A |
 | 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 30 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
-| 31 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
-| 32 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
-| 33 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 34 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 37 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 38 | [cremas](http://twitter.com/search?q=cremas) | N/A |
-| 39 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 40 | [Jovenas](http://twitter.com/search?q=Jovenas) | N/A |
-| 41 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
-| 42 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 43 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 44 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 45 | [Provida](http://twitter.com/search?q=Provida) | N/A |
+| 29 | [hoy 8](http://twitter.com/search?q=hoy+8) | N/A |
+| 30 | [Hace 6](http://twitter.com/search?q=Hace+6) | N/A |
+| 31 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 32 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 35 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 36 | [cremas](http://twitter.com/search?q=cremas) | N/A |
+| 37 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 38 | [Jovenas](http://twitter.com/search?q=Jovenas) | N/A |
+| 39 | [Ricardo Arjona](http://twitter.com/search?q=Ricardo+Arjona) | N/A |
+| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 41 | [Vandalismo](http://twitter.com/search?q=Vandalismo) | N/A |
+| 42 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 43 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 44 | [Provida](http://twitter.com/search?q=Provida) | N/A |
+| 45 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 46 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 47 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
-| 48 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 50 | [los cuchumatanes](http://twitter.com/search?q=los+cuchumatanes) | N/A |
+| 47 | [ME by JISOO](http://twitter.com/search?q=ME+by+JISOO) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [los cuchumatanes](http://twitter.com/search?q=los+cuchumatanes) | N/A |
+| 50 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 
 
 

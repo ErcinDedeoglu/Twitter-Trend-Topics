@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-09 13:21:29 UTC`
+📆 Last Updated: `2023-03-09 14:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 2 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
 | 3 | [#TVPSzambo](http://twitter.com/search?q=%23TVPSzambo) | N/A |
-| 4 | [Dnia Kobiet](http://twitter.com/search?q=Dnia+Kobiet) | N/A |
+| 4 | [dnia kobiet](http://twitter.com/search?q=dnia+kobiet) | N/A |
 | 5 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
 | 6 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
-| 7 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
-| 8 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 9 | [#8marca](http://twitter.com/search?q=%238marca) | N/A |
-| 10 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
-| 11 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 7 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 8 | [Drogie Panie](http://twitter.com/search?q=Drogie+Panie) | N/A |
+| 9 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
+| 10 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 11 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 12 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 13 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
-| 14 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 15 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 13 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
+| 14 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
+| 15 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
+| 16 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
 | 17 | [Paniom](http://twitter.com/search?q=Paniom) | N/A |
 | 18 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 19 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
-| 20 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
-| 21 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 22 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
-| 25 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 26 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 27 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
-| 28 | [pkp intercity](http://twitter.com/search?q=pkp+intercity) | N/A |
-| 29 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 30 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
-| 33 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 19 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
+| 20 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 21 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 22 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 23 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
+| 24 | [Janie Pawle II](http://twitter.com/search?q=Janie+Pawle+II) | N/A |
+| 25 | [Tygrysek](http://twitter.com/search?q=Tygrysek) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [waszego święta](http://twitter.com/search?q=waszego+%c5%9bwi%c4%99ta) | N/A |
+| 28 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 29 | [Partii Republikańskiej](http://twitter.com/search?q=Partii+Republika%c5%84skiej) | N/A |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 32 | [Wałęsę](http://twitter.com/search?q=Wa%c5%82%c4%99s%c4%99) | N/A |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 34 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
-| 35 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
-| 36 | [Wałęsy](http://twitter.com/search?q=Wa%c5%82%c4%99sy) | N/A |
-| 37 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 38 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
-| 39 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
-| 40 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 41 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 42 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 43 | [cymański](http://twitter.com/search?q=cyma%c5%84ski) | N/A |
-| 44 | [Pudzian](http://twitter.com/search?q=Pudzian) | N/A |
-| 45 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 46 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 47 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
-| 48 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 49 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 35 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 36 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 37 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
+| 38 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 39 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 40 | [Żalka](http://twitter.com/search?q=%c5%bbalka) | N/A |
+| 41 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 42 | [Wielki Żal](http://twitter.com/search?q=Wielki+%c5%bbal) | N/A |
+| 43 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 44 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
+| 45 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 46 | [pudzian](http://twitter.com/search?q=pudzian) | N/A |
+| 47 | [Cymański](http://twitter.com/search?q=Cyma%c5%84ski) | N/A |
+| 48 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
+| 49 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 
 
 

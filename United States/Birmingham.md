@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-09 13:21:58 UTC`
+📆 Last Updated: `2023-03-09 14:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 3 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 2 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 3 | [#RIPBIG](http://twitter.com/search?q=%23RIPBIG) | N/A |
 | 4 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 5 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#Wordle628](http://twitter.com/search?q=%23Wordle628) | N/A |
-| 8 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 9 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 10 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 11 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
-| 12 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
-| 13 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 15 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
-| 16 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 17 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 18 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 19 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
-| 20 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
-| 21 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 22 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 23 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
-| 24 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
-| 25 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
-| 26 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
-| 27 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
-| 28 | [REAL WOMEN](http://twitter.com/search?q=REAL+WOMEN) | N/A |
-| 29 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 30 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 31 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 32 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 33 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 34 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 35 | [Real Genius](http://twitter.com/search?q=Real+Genius) | N/A |
-| 36 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 37 | [Nursing](http://twitter.com/search?q=Nursing) | N/A |
-| 38 | [Cheesecake](http://twitter.com/search?q=Cheesecake) | N/A |
-| 39 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
-| 40 | [Pound](http://twitter.com/search?q=Pound) | N/A |
-| 41 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 42 | [Tacoma](http://twitter.com/search?q=Tacoma) | N/A |
-| 43 | [#YouNetflix](http://twitter.com/search?q=%23YouNetflix) | N/A |
-| 44 | [#OnTheStreet1stWin](http://twitter.com/search?q=%23OnTheStreet1stWin) | N/A |
-| 45 | [#WorldKidneyDay](http://twitter.com/search?q=%23WorldKidneyDay) | N/A |
-| 46 | [#excuse](http://twitter.com/search?q=%23excuse) | N/A |
-| 47 | [#THEPLAYERS](http://twitter.com/search?q=%23THEPLAYERS) | N/A |
-| 48 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 49 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Mitch McConnell](http://twitter.com/search?q=Mitch+McConnell) | N/A |
+| 9 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 10 | [Jenna Ellis](http://twitter.com/search?q=Jenna+Ellis) | N/A |
+| 11 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 12 | [#GQandAxMilexDior](http://twitter.com/search?q=%23GQandAxMilexDior) | N/A |
+| 13 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 14 | [Chaim Topol](http://twitter.com/search?q=Chaim+Topol) | N/A |
+| 15 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
+| 16 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 17 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 18 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 19 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 20 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 21 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 22 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 23 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 24 | [Women of Courage](http://twitter.com/search?q=Women+of+Courage) | N/A |
+| 25 | [Paul Pelosi](http://twitter.com/search?q=Paul+Pelosi) | Paul Pelosi is the name of the husband of Nancy Pelosi, the Speaker of the United States House of Representatives. The name Paul Pelosi is derived from his first and last names. In English, it means "Paul of Pelosi". |
+| 26 | [Biden and Pelosi](http://twitter.com/search?q=Biden+and+Pelosi) | N/A |
+| 27 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 28 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 29 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 30 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 31 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 32 | [Princess Lilibet](http://twitter.com/search?q=Princess+Lilibet) | N/A |
+| 33 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 34 | [Favre](http://twitter.com/search?q=Favre) | N/A |
+| 35 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 36 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 37 | [AFC East](http://twitter.com/search?q=AFC+East) | N/A |
+| 38 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 39 | [Harry Reid](http://twitter.com/search?q=Harry+Reid) | N/A |
+| 40 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 41 | [Grassley](http://twitter.com/search?q=Grassley) | N/A |
+| 42 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 43 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 44 | [Real Women](http://twitter.com/search?q=Real+Women) | N/A |
+| 45 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 46 | [The Big Lie](http://twitter.com/search?q=The+Big+Lie) | N/A |
+| 47 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 48 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 49 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
 
 
 

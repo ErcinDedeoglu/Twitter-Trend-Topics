@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-09 13:22:13 UTC`
+📆 Last Updated: `2023-03-09 14:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for United Kingdom
 | 4 | [#SocialPrescribingDay](http://twitter.com/search?q=%23SocialPrescribingDay) | N/A |
 | 5 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 6 | [#UniMentalHealthDay](http://twitter.com/search?q=%23UniMentalHealthDay) | N/A |
-| 7 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 8 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 9 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
-| 10 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
-| 11 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
-| 12 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 13 | [Roof](http://twitter.com/search?q=Roof) | N/A |
-| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 15 | [RIP Topol](http://twitter.com/search?q=RIP+Topol) | N/A |
-| 16 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
-| 17 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 18 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
-| 19 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 20 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
-| 21 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
-| 22 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 23 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
-| 24 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
-| 25 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
-| 26 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
-| 27 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
-| 28 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
-| 29 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 30 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 31 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
-| 32 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
-| 33 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 34 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
-| 35 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
-| 36 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 37 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
-| 38 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 39 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
-| 40 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 7 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 8 | [Rex Dingle](http://twitter.com/search?q=Rex+Dingle) | N/A |
+| 9 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 10 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 11 | [Ruby Walsh](http://twitter.com/search?q=Ruby+Walsh) | N/A |
+| 12 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 13 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 15 | [Steve Borthwick](http://twitter.com/search?q=Steve+Borthwick) | N/A |
+| 16 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
+| 17 | [Roof](http://twitter.com/search?q=Roof) | N/A |
+| 18 | [Topol](http://twitter.com/search?q=Topol) | N/A |
+| 19 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 20 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 21 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 22 | [Septic Peg](http://twitter.com/search?q=Septic+Peg) | N/A |
+| 23 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 24 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 25 | [Ken Clarke](http://twitter.com/search?q=Ken+Clarke) | N/A |
+| 26 | [Paul Pogba](http://twitter.com/search?q=Paul+Pogba) | N/A |
+| 27 | [Chris Gunter](http://twitter.com/search?q=Chris+Gunter) | N/A |
+| 28 | [Mae Muller](http://twitter.com/search?q=Mae+Muller) | N/A |
+| 29 | [BBC News - HS2](http://twitter.com/search?q=BBC+News+-+HS2) | N/A |
+| 30 | [Fiddler](http://twitter.com/search?q=Fiddler) | N/A |
+| 31 | [I Wrote A Song](http://twitter.com/search?q=I+Wrote+A+Song) | N/A |
+| 32 | [National Lottery](http://twitter.com/search?q=National+Lottery) | N/A |
+| 33 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 34 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 35 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 36 | [Spectator](http://twitter.com/search?q=Spectator) | N/A |
+| 37 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 38 | [Alan Sugar](http://twitter.com/search?q=Alan+Sugar) | N/A |
+| 39 | [Flash Gordon](http://twitter.com/search?q=Flash+Gordon) | N/A |
+| 40 | [Mayweather](http://twitter.com/search?q=Mayweather) | N/A |
 | 41 | [Prince and Princess](http://twitter.com/search?q=Prince+and+Princess) | N/A |
-| 42 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 43 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 44 | [Section 28](http://twitter.com/search?q=Section+28) | N/A |
-| 45 | [Daily Quordle 409](http://twitter.com/search?q=Daily+Quordle+409) | N/A |
-| 46 | [Sam Ryder](http://twitter.com/search?q=Sam+Ryder) | N/A |
-| 47 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 48 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 49 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 50 | [Lilibet](http://twitter.com/search?q=Lilibet) | N/A |
+| 42 | [Cleo Sol](http://twitter.com/search?q=Cleo+Sol) | N/A |
+| 43 | [Nazism](http://twitter.com/search?q=Nazism) | N/A |
+| 44 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 45 | [For Your Eyes Only](http://twitter.com/search?q=For+Your+Eyes+Only) | N/A |
+| 46 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 47 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 48 | [Tevye](http://twitter.com/search?q=Tevye) | N/A |
+| 49 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
+| 50 | [Section 28](http://twitter.com/search?q=Section+28) | N/A |
 
 
 
