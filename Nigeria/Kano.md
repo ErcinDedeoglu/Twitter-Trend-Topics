@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-09 04:16:14 UTC`
+📆 Last Updated: `2023-03-09 05:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 5 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
 | 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
-| 8 | [#hypobleachcelebrateswomen](http://twitter.com/search?q=%23hypobleachcelebrateswomen) | N/A |
-| 9 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 10 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
-| 11 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 8 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 9 | [#TemiAt33](http://twitter.com/search?q=%23TemiAt33) | N/A |
+| 10 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 11 | [#happybirthdaytemi](http://twitter.com/search?q=%23happybirthdaytemi) | N/A |
 | 12 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
 | 13 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 14 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
-| 15 | [happy birthday grv](http://twitter.com/search?q=happy+birthday+grv) | N/A |
-| 16 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 17 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
-| 18 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 21 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 22 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 23 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 24 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 25 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 26 | [Akere](http://twitter.com/search?q=Akere) | N/A |
-| 27 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 28 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 29 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 30 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 31 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
-| 32 | [Obidients in Abuja](http://twitter.com/search?q=Obidients+in+Abuja) | N/A |
-| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 35 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
-| 36 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
-| 37 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 38 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 39 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
-| 40 | [Fadeyi Oloro](http://twitter.com/search?q=Fadeyi+Oloro) | N/A |
-| 41 | [GOD OPEN MY DOOR](http://twitter.com/search?q=GOD+OPEN+MY+DOOR) | N/A |
-| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 44 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 45 | [Sans](http://twitter.com/search?q=Sans) | N/A |
-| 46 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 47 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
-| 48 | [angel t](http://twitter.com/search?q=angel+t) | N/A |
-| 49 | [Queens](http://twitter.com/search?q=Queens) | N/A |
-| 50 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 14 | [happy birthday grv](http://twitter.com/search?q=happy+birthday+grv) | N/A |
+| 15 | [18th of March](http://twitter.com/search?q=18th+of+March) | N/A |
+| 16 | [Governorship](http://twitter.com/search?q=Governorship) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 21 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 23 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 24 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 26 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 27 | [Obidients in Abuja](http://twitter.com/search?q=Obidients+in+Abuja) | N/A |
+| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 29 | [Ajegunle](http://twitter.com/search?q=Ajegunle) | N/A |
+| 30 | [Almighty Rufai](http://twitter.com/search?q=Almighty+Rufai) | N/A |
+| 31 | [Akere](http://twitter.com/search?q=Akere) | N/A |
+| 32 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 33 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
+| 34 | [Fadeyi Oloro](http://twitter.com/search?q=Fadeyi+Oloro) | N/A |
+| 35 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 36 | [GOD OPEN MY DOOR](http://twitter.com/search?q=GOD+OPEN+MY+DOOR) | N/A |
+| 37 | [Ellu P](http://twitter.com/search?q=Ellu+P) | N/A |
+| 38 | [$RPG](http://twitter.com/search?q=%24RPG) | N/A |
+| 39 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [Sans](http://twitter.com/search?q=Sans) | N/A |
+| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 43 | [Fabian Ruiz](http://twitter.com/search?q=Fabian+Ruiz) | Fabian Ruiz is a Spanish professional footballer who plays as a midfielder for Napoli and the Spanish national team. His name is derived from the Latin word Fabianus, which means "of the bean". In English, it can be translated to mean "bean-like". |
+| 44 | [angel t](http://twitter.com/search?q=angel+t) | N/A |
+| 45 | [Queens](http://twitter.com/search?q=Queens) | N/A |
+| 46 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 47 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
+| 48 | [influential phyna](http://twitter.com/search?q=influential+phyna) | N/A |
+| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 50 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 
 
 

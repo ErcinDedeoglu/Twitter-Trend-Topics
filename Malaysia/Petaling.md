@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-09 04:16:42 UTC`
+📆 Last Updated: `2023-03-09 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
 | 6 | [#9แสนฟอลตัวพ่อซีพฤกษ์](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
 | 7 | [ME BY JISOO](http://twitter.com/search?q=ME+BY+JISOO) | N/A |
-| 8 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
-| 9 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 8 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 9 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [momota](http://twitter.com/search?q=momota) | N/A |
-| 13 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
-| 14 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 11 | [momota](http://twitter.com/search?q=momota) | N/A |
+| 12 | [First BL](http://twitter.com/search?q=First+BL) | N/A |
+| 13 | [Ultimate BL Ship](http://twitter.com/search?q=Ultimate+BL+Ship) | N/A |
+| 14 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
 | 15 | [Highly Recommended BL](http://twitter.com/search?q=Highly+Recommended+BL) | N/A |
-| 16 | [Perak](http://twitter.com/search?q=Perak) | N/A |
-| 17 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 19 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 20 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 21 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
-| 22 | [Muhyiddin](http://twitter.com/search?q=Muhyiddin) | N/A |
-| 23 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 24 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 25 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 27 | [howard lee](http://twitter.com/search?q=howard+lee) | N/A |
-| 28 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 29 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 31 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
-| 32 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 33 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
-| 34 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 35 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 36 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
-| 37 | [MH17](http://twitter.com/search?q=MH17) | N/A |
-| 38 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
-| 39 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 40 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 41 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 42 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 43 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
-| 44 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
-| 45 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 48 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 49 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 16 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [BUILD ALWAYS ON TOP](http://twitter.com/search?q=BUILD+ALWAYS+ON+TOP) | N/A |
+| 19 | [GET TO KNOW ME](http://twitter.com/search?q=GET+TO+KNOW+ME) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 23 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 24 | [howard lee](http://twitter.com/search?q=howard+lee) | N/A |
+| 25 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 27 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 28 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 29 | [MH17](http://twitter.com/search?q=MH17) | N/A |
+| 30 | [MOONBYUL](http://twitter.com/search?q=MOONBYUL) | N/A |
+| 31 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 32 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 33 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 34 | [Happy Holi](http://twitter.com/search?q=Happy+Holi) | N/A |
+| 35 | [ULT Bias](http://twitter.com/search?q=ULT+Bias) | N/A |
+| 36 | [Perak](http://twitter.com/search?q=Perak) | N/A |
+| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 38 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 39 | [Eunchae](http://twitter.com/search?q=Eunchae) | N/A |
+| 40 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 43 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 44 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 45 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 46 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 47 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 48 | [Happy IWD](http://twitter.com/search?q=Happy+IWD) | N/A |
+| 49 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 
 
 

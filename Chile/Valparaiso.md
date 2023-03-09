@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-09 04:15:52 UTC`
+📆 Last Updated: `2023-03-09 05:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ReformaTributaria](http://twitter.com/search?q=%23ReformaTributaria) | N/A |
-| 2 | [#YoSoyCHV](http://twitter.com/search?q=%23YoSoyCHV) | N/A |
-| 3 | [Jiles](http://twitter.com/search?q=Jiles) | N/A |
-| 4 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 5 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
-| 6 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 7 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
-| 8 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 9 | [#DerechaMiserable](http://twitter.com/search?q=%23DerechaMiserable) | N/A |
-| 10 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 11 | [Cadena Nacional](http://twitter.com/search?q=Cadena+Nacional) | N/A |
-| 12 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 13 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
-| 14 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 15 | [Bájense](http://twitter.com/search?q=B%c3%a1jense) | N/A |
-| 16 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 17 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
-| 18 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 19 | [Llora](http://twitter.com/search?q=Llora) | N/A |
-| 20 | [Rata](http://twitter.com/search?q=Rata) | N/A |
-| 21 | [Bájate](http://twitter.com/search?q=B%c3%a1jate) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Mentiroso](http://twitter.com/search?q=Mentiroso) | N/A |
-| 24 | [Plata](http://twitter.com/search?q=Plata) | N/A |
-| 25 | [Chanta](http://twitter.com/search?q=Chanta) | N/A |
+| 2 | [#DiaInternacionalDeLaMujer](http://twitter.com/search?q=%23DiaInternacionalDeLaMujer) | N/A |
+| 3 | [#8M2023](http://twitter.com/search?q=%238M2023) | N/A |
+| 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
+| 5 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 6 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 7 | [DGAC](http://twitter.com/search?q=DGAC) | N/A |
+| 8 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 9 | [Traidora](http://twitter.com/search?q=Traidora) | N/A |
+| 10 | [Aeropuerto de Santiago](http://twitter.com/search?q=Aeropuerto+de+Santiago) | N/A |
+| 11 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
+| 12 | [Viviana Delgado](http://twitter.com/search?q=Viviana+Delgado) | N/A |
+| 13 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 14 | [Vardoc](http://twitter.com/search?q=Vardoc) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 17 | [Repe](http://twitter.com/search?q=Repe) | N/A |
+| 18 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 19 | [Rechazaron](http://twitter.com/search?q=Rechazaron) | N/A |
+| 20 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 23 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 24 | [Mijares](http://twitter.com/search?q=Mijares) | N/A |
+| 25 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
 | 26 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 27 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 28 | [Viva Chile](http://twitter.com/search?q=Viva+Chile) | N/A |
-| 29 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 30 | [Miente](http://twitter.com/search?q=Miente) | N/A |
-| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 32 | [Colchane](http://twitter.com/search?q=Colchane) | N/A |
-| 33 | [Schalper](http://twitter.com/search?q=Schalper) | Schalper is a German word that means "to scrape or scratch." It is often used to describe the sound of scraping or scratching on a surface. |
-| 34 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 35 | [Déjate](http://twitter.com/search?q=D%c3%a9jate) | N/A |
-| 36 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
-| 37 | [Renuncia](http://twitter.com/search?q=Renuncia) | N/A |
-| 38 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
-| 41 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
-| 42 | [Claudia Mix](http://twitter.com/search?q=Claudia+Mix) | N/A |
-| 43 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 45 | [#BoricNoSeLaPuede](http://twitter.com/search?q=%23BoricNoSeLaPuede) | N/A |
-| 46 | [#BoricElPeorDeLaHistoria](http://twitter.com/search?q=%23BoricElPeorDeLaHistoria) | N/A |
-| 47 | [#MerluzoIncompetente](http://twitter.com/search?q=%23MerluzoIncompetente) | N/A |
-| 48 | [#Magallanes](http://twitter.com/search?q=%23Magallanes) | N/A |
-| 49 | [#8MarchWomensDay](http://twitter.com/search?q=%238MarchWomensDay) | N/A |
+| 27 | [Partido Ecologista Verde](http://twitter.com/search?q=Partido+Ecologista+Verde) | N/A |
+| 28 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 29 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 30 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 31 | [Gracias Rechazo](http://twitter.com/search?q=Gracias+Rechazo) | N/A |
+| 32 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 33 | [Vendida](http://twitter.com/search?q=Vendida) | N/A |
+| 34 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
+| 35 | [Bájense](http://twitter.com/search?q=B%c3%a1jense) | N/A |
+| 36 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 37 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 38 | [Feliz 8M](http://twitter.com/search?q=Feliz+8M) | N/A |
+| 39 | [Sala Cuna](http://twitter.com/search?q=Sala+Cuna) | N/A |
+| 40 | [Chilenos](http://twitter.com/search?q=Chilenos) | N/A |
+| 41 | [La Derecha](http://twitter.com/search?q=La+Derecha) | N/A |
+| 42 | [Cadena Nacional](http://twitter.com/search?q=Cadena+Nacional) | N/A |
+| 43 | [Derrota](http://twitter.com/search?q=Derrota) | N/A |
+| 44 | [Lorena Fries](http://twitter.com/search?q=Lorena+Fries) | N/A |
+| 45 | [Verrati](http://twitter.com/search?q=Verrati) | N/A |
+| 46 | [Bajate](http://twitter.com/search?q=Bajate) | N/A |
+| 47 | [Nery](http://twitter.com/search?q=Nery) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
 
 
 

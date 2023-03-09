@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-09 04:16:32 UTC`
+📆 Last Updated: `2023-03-09 05:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 2 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 3 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 4 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
+| 3 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 4 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
 | 5 | [#ACCMBB](http://twitter.com/search?q=%23ACCMBB) | N/A |
-| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [Greensboro](http://twitter.com/search?q=Greensboro) | N/A |
 | 7 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
 | 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 9 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
-| 10 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 11 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 13 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 14 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 15 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
-| 16 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 17 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 18 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 19 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 10 | [#instagramdown](http://twitter.com/search?q=%23instagramdown) | N/A |
+| 11 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 12 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 13 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 14 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 15 | [HAPPY BIRTHDAY HANNAH](http://twitter.com/search?q=HAPPY+BIRTHDAY+HANNAH) | N/A |
+| 16 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 17 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 18 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 19 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
 | 20 | [Lincoln Heights](http://twitter.com/search?q=Lincoln+Heights) | N/A |
-| 21 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 22 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 23 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 21 | [QT Marshall](http://twitter.com/search?q=QT+Marshall) | N/A |
+| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 23 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 | 24 | [Reign Man](http://twitter.com/search?q=Reign+Man) | N/A |
-| 25 | [DePaul](http://twitter.com/search?q=DePaul) | DePaul is a private, Catholic university located in Chicago, Illinois. The name DePaul is derived from the French priest and saint, St. Vincent de Paul. The university was founded in 1898 by the Congregation of the Mission (Vincentians) and named after their patron saint. |
-| 26 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
-| 27 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 28 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 29 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
-| 30 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 31 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 32 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
-| 33 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
-| 34 | [Oladipo](http://twitter.com/search?q=Oladipo) | Oladipo is a Yoruba name of Nigerian origin. It means "wealth comes home". |
-| 35 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 36 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 37 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
-| 38 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 40 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 41 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
-| 42 | [Michael Bolton](http://twitter.com/search?q=Michael+Bolton) | N/A |
-| 43 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
-| 44 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
-| 45 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 46 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
-| 47 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 48 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 49 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 50 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 26 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 27 | [Yoshi's Island](http://twitter.com/search?q=Yoshi%27s+Island) | N/A |
+| 28 | [El Paso](http://twitter.com/search?q=El+Paso) | N/A |
+| 29 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 30 | [Lindy Waters](http://twitter.com/search?q=Lindy+Waters) | N/A |
+| 31 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 32 | [3 LAPD](http://twitter.com/search?q=3+LAPD) | N/A |
+| 33 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 34 | [Funky Kong](http://twitter.com/search?q=Funky+Kong) | N/A |
+| 35 | [Mel Gibson](http://twitter.com/search?q=Mel+Gibson) | N/A |
+| 36 | [Griesel](http://twitter.com/search?q=Griesel) | N/A |
+| 37 | [Kristina Kelly](http://twitter.com/search?q=Kristina+Kelly) | N/A |
+| 38 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 39 | [Ruby Soho](http://twitter.com/search?q=Ruby+Soho) | N/A |
+| 40 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 41 | [Sarray](http://twitter.com/search?q=Sarray) | N/A |
+| 42 | [Diddy Kong](http://twitter.com/search?q=Diddy+Kong) | N/A |
+| 43 | [Hoiberg](http://twitter.com/search?q=Hoiberg) | N/A |
+| 44 | [Terrence Ross](http://twitter.com/search?q=Terrence+Ross) | N/A |
+| 45 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 46 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
+| 47 | [Deon](http://twitter.com/search?q=Deon) | N/A |
+| 48 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 49 | [Patrick Ewing](http://twitter.com/search?q=Patrick+Ewing) | N/A |
+| 50 | [Logan Stanley](http://twitter.com/search?q=Logan+Stanley) | N/A |
 
 
 

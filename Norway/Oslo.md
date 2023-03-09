@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-09 04:16:04 UTC`
+📆 Last Updated: `2023-03-09 05:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,25 +28,25 @@ This is top 50 for [Norway](</Norway>)
 | 11 | [kondolerer](http://twitter.com/search?q=kondolerer) | N/A |
 | 12 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
 | 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 15 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
-| 16 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 17 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
-| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 19 | [poenget](http://twitter.com/search?q=poenget) | N/A |
-| 20 | [god 8](http://twitter.com/search?q=god+8) | N/A |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 24 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 26 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
-| 27 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
-| 28 | [Helseplattformen](http://twitter.com/search?q=Helseplattformen) | N/A |
-| 29 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
-| 30 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 31 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 32 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
+| 14 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
+| 15 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
+| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 17 | [poenget](http://twitter.com/search?q=poenget) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [god 8](http://twitter.com/search?q=god+8) | N/A |
+| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 24 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 25 | [liverød](http://twitter.com/search?q=liver%c3%b8d) | N/A |
+| 26 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
+| 27 | [helseplattformen](http://twitter.com/search?q=helseplattformen) | N/A |
+| 28 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
+| 29 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 31 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 33 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
 | 34 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
 | 35 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |

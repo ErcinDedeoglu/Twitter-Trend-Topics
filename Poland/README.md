@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-09 04:16:40 UTC`
+📆 Last Updated: `2023-03-09 05:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Poland
 | 6 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
 | 7 | [#BAYPSG](http://twitter.com/search?q=%23BAYPSG) | N/A |
 | 8 | [paniom](http://twitter.com/search?q=paniom) | N/A |
-| 9 | [#hienyztvp](http://twitter.com/search?q=%23hienyztvp) | N/A |
+| 9 | [#HienyzTVP](http://twitter.com/search?q=%23HienyzTVP) | N/A |
 | 10 | [#HappyBirthdaySUGA](http://twitter.com/search?q=%23HappyBirthdaySUGA) | N/A |
-| 11 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 12 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 13 | [Borys](http://twitter.com/search?q=Borys) | N/A |
-| 14 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 11 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 12 | [Borys](http://twitter.com/search?q=Borys) | N/A |
+| 13 | [Jan Paweł II](http://twitter.com/search?q=Jan+Pawe%c5%82+II) | N/A |
+| 14 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
 | 15 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 16 | [wojtyła](http://twitter.com/search?q=wojty%c5%82a) | N/A |
-| 17 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 16 | [Kościół](http://twitter.com/search?q=Ko%c5%9bci%c3%b3%c5%82) | N/A |
+| 17 | [Wojtyła](http://twitter.com/search?q=Wojty%c5%82a) | N/A |
 | 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 19 | [Gruzji](http://twitter.com/search?q=Gruzji) | N/A |
 | 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 21 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 22 | [waszego](http://twitter.com/search?q=waszego) | N/A |
 | 23 | [Papieża](http://twitter.com/search?q=Papie%c5%bca) | N/A |
-| 24 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 25 | [waszego](http://twitter.com/search?q=waszego) | N/A |
-| 26 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 24 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 25 | [Suski](http://twitter.com/search?q=Suski) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 27 | [kai godek](http://twitter.com/search?q=kai+godek) | N/A |
 | 28 | [feio](http://twitter.com/search?q=feio) | N/A |
-| 29 | [mikołaja](http://twitter.com/search?q=miko%c5%82aja) | N/A |
-| 30 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 31 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 32 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 33 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 34 | [pudzian](http://twitter.com/search?q=pudzian) | N/A |
-| 35 | [Piętka](http://twitter.com/search?q=Pi%c4%99tka) | N/A |
-| 36 | [Wyrwał](http://twitter.com/search?q=Wyrwa%c5%82) | N/A |
-| 37 | [życzenia](http://twitter.com/search?q=%c5%bcyczenia) | N/A |
-| 38 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
-| 39 | [grocie](http://twitter.com/search?q=grocie) | N/A |
-| 40 | [wałęsę](http://twitter.com/search?q=wa%c5%82%c4%99s%c4%99) | N/A |
-| 41 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
-| 42 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
-| 43 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 44 | [janem pawłem ii](http://twitter.com/search?q=janem+paw%c5%82em+ii) | N/A |
-| 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 46 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 47 | [platformy obywatelskiej](http://twitter.com/search?q=platformy+obywatelskiej) | N/A |
-| 48 | [jakubas](http://twitter.com/search?q=jakubas) | N/A |
-| 49 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 50 | [isajew](http://twitter.com/search?q=isajew) | N/A |
+| 29 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 30 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
+| 31 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 32 | [pudzian](http://twitter.com/search?q=pudzian) | N/A |
+| 33 | [piętka](http://twitter.com/search?q=pi%c4%99tka) | N/A |
+| 34 | [wyrwał](http://twitter.com/search?q=wyrwa%c5%82) | N/A |
+| 35 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 36 | [życzenia](http://twitter.com/search?q=%c5%bcyczenia) | N/A |
+| 37 | [Żaryn](http://twitter.com/search?q=%c5%bbaryn) | N/A |
+| 38 | [grocie](http://twitter.com/search?q=grocie) | N/A |
+| 39 | [wałęsę](http://twitter.com/search?q=wa%c5%82%c4%99s%c4%99) | N/A |
+| 40 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 42 | [janem pawłem ii](http://twitter.com/search?q=janem+paw%c5%82em+ii) | N/A |
+| 43 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 45 | [najlepszego](http://twitter.com/search?q=najlepszego) | N/A |
+| 46 | [TVPiS](http://twitter.com/search?q=TVPiS) | N/A |
+| 47 | [jakubas](http://twitter.com/search?q=jakubas) | N/A |
+| 48 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 49 | [isajew](http://twitter.com/search?q=isajew) | N/A |
+| 50 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 
 
 

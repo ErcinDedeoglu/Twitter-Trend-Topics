@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-09 04:16:02 UTC`
+📆 Last Updated: `2023-03-09 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 7 | [harry de winter](http://twitter.com/search?q=harry+de+winter) | N/A |
 | 8 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 9 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 10 | [Kapje](http://twitter.com/search?q=Kapje) | N/A |
+| 10 | [kapje](http://twitter.com/search?q=kapje) | N/A |
 | 11 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 12 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 12 | [Goedemorgen Lisa](http://twitter.com/search?q=Goedemorgen+Lisa) | N/A |
 | 13 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
 | 14 | [Tweehonderd Duitse](http://twitter.com/search?q=Tweehonderd+Duitse) | N/A |
 | 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 16 | [Kontje](http://twitter.com/search?q=Kontje) | N/A |
 | 17 | [wichian](http://twitter.com/search?q=wichian) | N/A |
-| 18 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 19 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
-| 22 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 24 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 25 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 26 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
-| 27 | [Holi](http://twitter.com/search?q=Holi) | N/A |
-| 28 | [Jamin](http://twitter.com/search?q=Jamin) | N/A |
-| 29 | [genee](http://twitter.com/search?q=genee) | N/A |
-| 30 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 31 | [big agro](http://twitter.com/search?q=big+agro) | N/A |
-| 32 | [Brecht](http://twitter.com/search?q=Brecht) | N/A |
-| 33 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Mirjam Bikker](http://twitter.com/search?q=Mirjam+Bikker) | N/A |
-| 36 | [Plas](http://twitter.com/search?q=Plas) | N/A |
-| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 38 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 39 | [aboutaleb](http://twitter.com/search?q=aboutaleb) | N/A |
-| 40 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
-| 41 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 42 | [leon de winter](http://twitter.com/search?q=leon+de+winter) | N/A |
-| 43 | [Susanne Täuber](http://twitter.com/search?q=Susanne+T%c3%a4uber) | N/A |
-| 44 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 45 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 18 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 21 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 22 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
+| 23 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 24 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 25 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 26 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 27 | [Happy International](http://twitter.com/search?q=Happy+International) | N/A |
+| 28 | [Holi](http://twitter.com/search?q=Holi) | N/A |
+| 29 | [Jamin](http://twitter.com/search?q=Jamin) | N/A |
+| 30 | [genee](http://twitter.com/search?q=genee) | N/A |
+| 31 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 32 | [big agro](http://twitter.com/search?q=big+agro) | N/A |
+| 33 | [Brecht](http://twitter.com/search?q=Brecht) | N/A |
+| 34 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [mirjam bikker](http://twitter.com/search?q=mirjam+bikker) | N/A |
+| 37 | [Plas](http://twitter.com/search?q=Plas) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 40 | [aboutaleb](http://twitter.com/search?q=aboutaleb) | N/A |
+| 41 | [Happy Birthday Yoongi](http://twitter.com/search?q=Happy+Birthday+Yoongi) | N/A |
+| 42 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 43 | [leon de winter](http://twitter.com/search?q=leon+de+winter) | N/A |
+| 44 | [Susanne Täuber](http://twitter.com/search?q=Susanne+T%c3%a4uber) | N/A |
+| 45 | [Margot](http://twitter.com/search?q=Margot) | N/A |
 | 46 | [pleidooi in tweede kamer](http://twitter.com/search?q=pleidooi+in+tweede+kamer) | N/A |
 | 47 | [verzetsheld](http://twitter.com/search?q=verzetsheld) | N/A |
-| 48 | [nettert](http://twitter.com/search?q=nettert) | N/A |
-| 49 | [Kuitjes](http://twitter.com/search?q=Kuitjes) | N/A |
-| 50 | [lely sphere](http://twitter.com/search?q=lely+sphere) | N/A |
+| 48 | [Kuitjes](http://twitter.com/search?q=Kuitjes) | N/A |
+| 49 | [lely sphere](http://twitter.com/search?q=lely+sphere) | N/A |
+| 50 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
 
 
 

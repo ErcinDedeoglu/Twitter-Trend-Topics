@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-09 04:16:40 UTC`
+📆 Last Updated: `2023-03-09 05:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Panama
 | 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 3 | [#InternationalWomensDay](http://twitter.com/search?q=%23InternationalWomensDay) | N/A |
 | 4 | [#8DeMarzo](http://twitter.com/search?q=%238DeMarzo) | N/A |
-| 5 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
-| 9 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 10 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
-| 11 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
-| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 13 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [#DiaDeLaMujer](http://twitter.com/search?q=%23DiaDeLaMujer) | N/A |
+| 8 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 9 | [Ministerio de la Mujer](http://twitter.com/search?q=Ministerio+de+la+Mujer) | N/A |
+| 10 | [The Best](http://twitter.com/search?q=The+Best) | N/A |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 12 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 13 | [Vamos Panamá](http://twitter.com/search?q=Vamos+Panam%c3%a1) | N/A |
 | 14 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
 | 15 | [Randall Delgado](http://twitter.com/search?q=Randall+Delgado) | N/A |
 | 16 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 17 | [punta pacífica](http://twitter.com/search?q=punta+pac%c3%adfica) | N/A |
 | 18 | [China Taipéi](http://twitter.com/search?q=China+Taip%c3%a9i) | N/A |
 | 19 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 20 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 22 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 23 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 25 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 26 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 27 | [Corredor Sur](http://twitter.com/search?q=Corredor+Sur) | N/A |
+| 23 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 24 | [Corredor Sur](http://twitter.com/search?q=Corredor+Sur) | N/A |
+| 25 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 26 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
+| 27 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
 | 28 | [Lombana](http://twitter.com/search?q=Lombana) | N/A |
-| 29 | [Hoy 8](http://twitter.com/search?q=Hoy+8) | N/A |
-| 30 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
-| 31 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
-| 32 | [Rubén Tejada](http://twitter.com/search?q=Rub%c3%a9n+Tejada) | N/A |
-| 33 | [Parque Lefevre](http://twitter.com/search?q=Parque+Lefevre) | N/A |
-| 34 | [ph urbana](http://twitter.com/search?q=ph+urbana) | N/A |
-| 35 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 36 | [Metrobus](http://twitter.com/search?q=Metrobus) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 39 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 40 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 41 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 42 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 45 | [Pacora](http://twitter.com/search?q=Pacora) | N/A |
-| 46 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 47 | [Sortis](http://twitter.com/search?q=Sortis) | N/A |
-| 48 | [Jaime Barría](http://twitter.com/search?q=Jaime+Barr%c3%ada) | N/A |
-| 49 | [odebrecht](http://twitter.com/search?q=odebrecht) | N/A |
-| 50 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
+| 29 | [ATTT](http://twitter.com/search?q=ATTT) | N/A |
+| 30 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
+| 31 | [rubén tejada](http://twitter.com/search?q=rub%c3%a9n+tejada) | N/A |
+| 32 | [Parque Lefevre](http://twitter.com/search?q=Parque+Lefevre) | N/A |
+| 33 | [ph urbana](http://twitter.com/search?q=ph+urbana) | N/A |
+| 34 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 35 | [Metrobus](http://twitter.com/search?q=Metrobus) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 38 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 39 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 40 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 41 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 42 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 43 | [Jaime Barría](http://twitter.com/search?q=Jaime+Barr%c3%ada) | N/A |
+| 44 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Pacora](http://twitter.com/search?q=Pacora) | N/A |
+| 47 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 48 | [Sortis](http://twitter.com/search?q=Sortis) | N/A |
+| 49 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 50 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
 
 
 
